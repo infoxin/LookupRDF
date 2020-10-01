@@ -1,0 +1,1301 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q10305048 a wd:Q2424752 ;
+    rdfs:label "Jamel"@en .
+
+wd:Q10332599 a wd:Q2424752 ;
+    rdfs:label "Mosro"@en .
+
+wd:Q10341573 a wd:Q2424752 ;
+    rdfs:label "Orlon"@en .
+
+wd:Q10372158 a wd:Q986008 ;
+    rdfs:label "Q10372158"^^xsd:string .
+
+wd:Q10398126 a wd:Q2424752 ;
+    rdfs:label "Absol"@en .
+
+wd:Q10434632 a wd:Q2424752 ;
+    rdfs:label "Brago"@en .
+
+wd:Q10438612 a wd:Q2424752 ;
+    rdfs:label "Bård"@en .
+
+wd:Q10481947 a wd:Q2424752 ;
+    rdfs:label "Q10481947"^^xsd:string .
+
+wd:Q10483771 a wd:Q2424752 ;
+    rdfs:label "Enden"@en .
+
+wd:Q1050279 a wd:Q15809678 ;
+    rdfs:label "High-yield debt"@en .
+
+wd:Q10532955 a wd:Q2424752 ;
+    rdfs:label "Europa-Profil I"@en .
+
+wd:Q10562020 a wd:Q2424752 ;
+    rdfs:label "Limex"@en .
+
+wd:Q10573289 a wd:Q2424752 ;
+    rdfs:label "MS-10"@en .
+
+wd:Q10650865 a wd:Q2424752 ;
+    rdfs:label "Remol"@en .
+
+wd:Q10656116 a wd:Q2424752 ;
+    rdfs:label "robe"@en .
+
+wd:Q10659468 a wd:Q2424752 ;
+    rdfs:label "SB12"@en .
+
+wd:Q10660743 a wd:Q2424752 ;
+    rdfs:label "Salto"@en .
+
+wd:Q10720753 a wd:Q986008 ;
+    rdfs:label "WyWallet"@en .
+
+wd:Q10725050 a wd:Q2424752 ;
+    rdfs:label "Zugol"@en .
+
+wd:Q10863852 a wd:Q986008 ;
+    rdfs:label "iPASS"@en .
+
+wd:Q10885857 a wd:Q2424752 ;
+    rdfs:label "Sea-Monkeys"@en .
+
+wd:Q10910389 a wd:Q2424752 ;
+    rdfs:label "Q10910389"^^xsd:string .
+
+wd:Q11155478 a wd:Q986008 ;
+    rdfs:label "Moneo"@en .
+
+wd:Q11193111 a wd:Q2424752 ;
+    rdfs:label "CD-63"@en .
+
+wd:Q11195305 a wd:Q2424752 ;
+    rdfs:label "D01NX"@en .
+
+wd:Q11195846 a wd:Q2424752 ;
+    rdfs:label "DIGNO"@en .
+
+wd:Q11202882 a wd:Q161380,
+        wd:Q986008 ;
+    rdfs:label "Monedero"@en .
+
+wd:Q11221422 a wd:Q2424752 ;
+    rdfs:label "GX700"@en .
+
+wd:Q11228705 a wd:Q2424752 ;
+    rdfs:label "L-03E"@en .
+
+wd:Q11228710 a wd:Q2424752 ;
+    rdfs:label "L-04D"@en .
+
+wd:Q11229867 a wd:Q2424752 ;
+    rdfs:label "Lavca"@en .
+
+wd:Q11230702 a wd:Q2424752 ;
+    rdfs:label "M-05"@en .
+
+wd:Q11243770 a wd:Q2424752 ;
+    rdfs:label "SNV"@en .
+
+wd:Q11244274 a wd:Q2424752 ;
+    rdfs:label "SPiDE"@en .
+
+wd:Q11249483 a wd:Q2424752 ;
+    rdfs:label "TL-01"@en .
+
+wd:Q11252023 a wd:Q2424752 ;
+    rdfs:label "UNIHI"@en .
+
+wd:Q11252439 a wd:Q2424752 ;
+    rdfs:label "V55PI"@en .
+
+wd:Q1125553 a wd:Q986008 ;
+    rdfs:label "Sistema de Pagamentos em Moeda Local / Local Currency Payment System"@en .
+
+wd:Q11255708 a wd:Q2424752 ;
+    rdfs:label "ZAXIA"@en .
+
+wd:Q11285067 rdfs:label "American Express Gold Card"@en ;
+    rdfs:subClassOf wd:Q24228273 .
+
+wd:Q11340457 a wd:Q2424752 ;
+    rdfs:label "McDonald's french fries"@en .
+
+wd:Q11343518 a wd:Q2424752 ;
+    rdfs:label "Mega Mac"@en .
+
+wd:Q1139122 a wd:Q15809678 ;
+    rdfs:label "Asset-backed security"@en .
+
+wd:Q1147172 a wd:Q15809678 ;
+    rdfs:label "demand deposit"@en .
+
+wd:Q1152008 a wd:Q837171 ;
+    rdfs:label "DBRS"@en .
+
+wd:Q1164942 rdfs:label "fuel card"@en ;
+    rdfs:subClassOf wd:Q161380 .
+
+wd:Q11687651 a wd:Q2424752 ;
+    rdfs:label "Becik"@en .
+
+wd:Q11752234 a wd:Q2424752 ;
+    rdfs:label "L-2"@en .
+
+wd:Q11793323 a wd:Q2424752 ;
+    rdfs:label "Novit"@en .
+
+wd:Q11801934 a wd:Q2424752 ;
+    rdfs:label "PORON"@en .
+
+wd:Q11817153 a wd:Q2424752 ;
+    rdfs:label "Pinki"@en .
+
+wd:Q11855643 a wd:Q2424752 ;
+    rdfs:label "D46"@en .
+
+wd:Q11871727 a wd:Q2424752 ;
+    rdfs:label "ULA"@en .
+
+wd:Q11874785 a wd:Q2424752 ;
+    rdfs:label "Lasol"@en .
+
+wd:Q11923716 a wd:Q2424752 ;
+    rdfs:label "Birba Biscuits"@en .
+
+wd:Q11950728 a wd:Q2424752 ;
+    rdfs:label "TOLED"@en .
+
+wd:Q12033022 a wd:Q2424752 ;
+    rdfs:label "Lep"@en .
+
+wd:Q12043446 a wd:Q2424752 ;
+    rdfs:label "PAv"@en .
+
+wd:Q12050674 a wd:Q986008 ;
+    rdfs:label "Q12050674"^^xsd:string .
+
+wd:Q1227364 a wd:Q2424752 ;
+    rdfs:label "DirXML"@en .
+
+wd:Q1228562 a wd:Q161380 ;
+    rdfs:label "Discover Card"@en ;
+    rdfs:subClassOf wd:Q161380 .
+
+wd:Q12302713 a wd:Q2424752 ;
+    rdfs:label "baby oil"@en .
+
+wd:Q12321477 a wd:Q2424752 ;
+    rdfs:label "casaque"@en .
+
+wd:Q12329364 a wd:Q2424752 ;
+    rdfs:label "Nupo"@en .
+
+wd:Q12337666 a wd:Q2424752 ;
+    rdfs:label "Sulfo"@en .
+
+wd:Q12391503 a wd:Q2424752 ;
+    rdfs:label "Lajta"@en .
+
+wd:Q12522300 a wd:Q2424752 ;
+    rdfs:label "Trenz"@en .
+
+wd:Q1253986 a wd:Q2424752 ;
+    rdfs:label "SAE800"@en .
+
+wd:Q1255867 a wd:Q2424752 ;
+    rdfs:label "Dratex"@en .
+
+wd:Q12636668 a wd:Q2424752 ;
+    rdfs:label "Melem"@en .
+
+wd:Q12644643 a wd:Q2424752 ;
+    rdfs:label "Vigor"@en .
+
+wd:Q12713843 a wd:Q2424752 ;
+    rdfs:label "Bocca"@en .
+
+wd:Q1273287 a wd:Q2424752 ;
+    rdfs:label "E ware"@en .
+
+wd:Q1275377 a wd:Q2424752 ;
+    rdfs:label "ENTIRE"@en .
+
+wd:Q12844423 a wd:Q2424752 ;
+    rdfs:label "Qjel"@en .
+
+wd:Q13099435 a wd:Q15809678 ;
+    rdfs:label "annuity (Netherlands)"@en .
+
+wd:Q13173962 a wd:Q2424752 ;
+    rdfs:label "Q13173962"^^xsd:string .
+
+wd:Q13425288 a wd:Q2424752 ;
+    rdfs:label "Dasida"@en .
+
+wd:Q134632 a wd:Q2424752 ;
+    rdfs:label "Perfecto"@en .
+
+wd:Q1350133 a wd:Q986008 ;
+    rdfs:label "Maestro"@en .
+
+wd:Q135888 a wd:Q2424752 ;
+    rdfs:label "Chicken McNuggets"@en .
+
+wd:Q1374831 rdfs:label "Eurocard"@en ;
+    rdfs:subClassOf wd:Q161380 .
+
+wd:Q13783739 a wd:Q837171 ;
+    rdfs:label "Q13783739"^^xsd:string .
+
+wd:Q1393898 a wd:Q2424752 ;
+    rdfs:label "Falbel"@en .
+
+wd:Q1411852 a wd:Q2424752 ;
+    rdfs:label "Havana Club"@en .
+
+wd:Q1416389 a wd:Q837171 ;
+    rdfs:label "Q1416389"^^xsd:string .
+
+wd:Q1449340 a wd:Q986008 ;
+    rdfs:label "meal voucher"@en .
+
+wd:Q14952 a wd:Q2424752 ;
+    rdfs:label "headgear"@en .
+
+wd:Q1516291 a wd:Q2424752 ;
+    rdfs:label "gift wrapping"@en .
+
+wd:Q152024 a wd:Q2424752 ;
+    rdfs:label "malt"@en .
+
+wd:Q152563 a wd:Q2424752 ;
+    rdfs:label "blouse"@en .
+
+wd:Q15272284 a wd:Q986008 ;
+    rdfs:label "Feathercoin"@en .
+
+wd:Q1531983 a wd:Q2424752 ;
+    rdfs:label "Kool-Aid"@en .
+
+wd:Q1540864 a wd:Q2424752 ;
+    rdfs:label "grave cross"@en .
+
+wd:Q1561096 a wd:Q2424752 ;
+    rdfs:label "Hotzen"@en .
+
+wd:Q156223 a wd:Q15809678 ;
+    rdfs:label "pension"@en .
+
+wd:Q1566 a wd:Q2424752 ;
+    rdfs:label "tobacco"@en .
+
+wd:Q1566012 a wd:Q2424752 ;
+    rdfs:label "HS 160"@en .
+
+wd:Q15850306 a wd:Q2424752 ;
+    rdfs:label "Q15850306"^^xsd:string .
+
+wd:Q16078520 a wd:Q2424752 ;
+    rdfs:label "Acer BYOC"@en .
+
+wd:Q16201517 a wd:Q986008 ;
+    rdfs:label "JPay"@en .
+
+wd:Q16533602 a wd:Q986008 ;
+    rdfs:label "Q16533602"^^xsd:string .
+
+wd:Q16667099 a wd:Q42965339 ;
+    rdfs:label "Q16667099"^^xsd:string .
+
+wd:Q17068468 a wd:Q986008 ;
+    rdfs:label "Maryland hospital payment system"@en .
+
+wd:Q17092241 a wd:Q2424752 ;
+    rdfs:label "Icelandic Glacial"@en .
+
+wd:Q17215447 a wd:Q2424752 ;
+    rdfs:label "PRO TREK"@en .
+
+wd:Q1740342 a wd:Q2424752 ;
+    rdfs:label "Q1740342"^^xsd:string .
+
+wd:Q17496378 a wd:Q2424752 ;
+    rdfs:label "Electrolux Ankarsrum Assistent"@en .
+
+wd:Q1755898 a wd:Q15809678 ;
+    rdfs:label "mezzanine capital"@en .
+
+wd:Q17749859 a wd:Q986008 ;
+    rdfs:label "BankAxept"@en .
+
+wd:Q18010990 a wd:Q986008 ;
+    rdfs:label "Apple Pay"@en .
+
+wd:Q18088316 rdfs:label "prepaid creditcard"@en ;
+    rdfs:subClassOf wd:Q161380 .
+
+wd:Q18150157 a wd:Q2424752 ;
+    rdfs:label "FXall"@en .
+
+wd:Q1832580 a wd:Q986008 ;
+    rdfs:label "iDEAL"@en .
+
+wd:Q18343411 a wd:Q2424752 ;
+    rdfs:label "Kite Mosquito Patch"@en .
+
+wd:Q18511815 a wd:Q2424752 ;
+    rdfs:label "Amazon Echo"@en .
+
+wd:Q18572818 a wd:Q986008 ;
+    rdfs:label "Gridcoin"@en .
+
+wd:Q18640862 a wd:Q161380 ;
+    rdfs:label "Passolig"@en .
+
+wd:Q1872365 a wd:Q1436963 ;
+    rdfs:label "Bancontact"@en .
+
+wd:Q1880720 a wd:Q2424752 ;
+    rdfs:label "M-1955"@en .
+
+wd:Q188532 a wd:Q1416617 ;
+    rdfs:label "Bretton Woods system"@en .
+
+wd:Q1929477 a wd:Q2424752 ;
+    rdfs:label "plug"@en .
+
+wd:Q1944412 a wd:Q986008 ;
+    rdfs:label "MoneyGram"@en .
+
+wd:Q19703279 a wd:Q2424752 ;
+    rdfs:label "mechanical pulp"@en .
+
+wd:Q1980453 a wd:Q15809678 ;
+    rdfs:label "Principal protected note"@en .
+
+wd:Q19834616 a wd:Q986008 ;
+    rdfs:label "Google Pay"@en .
+
+wd:Q19885853 a wd:Q986008 ;
+    rdfs:label "IZLY"@en .
+
+wd:Q19926562 a wd:Q15809678 ;
+    rdfs:label "Branch 23 Life Insurance"@en .
+
+wd:Q2003611 a wd:Q837171 ;
+    rdfs:label "Indian Overseas Bank"@en .
+
+wd:Q2020653 a wd:Q2424752 ;
+    rdfs:label "Vetpak"@en .
+
+wd:Q2027966 a wd:Q2424752 ;
+    rdfs:label "Cloud Glass"@en .
+
+wd:Q2061764 a wd:Q15809678 ;
+    rdfs:label "Q2061764"^^xsd:string .
+
+wd:Q2064047 a wd:Q15809678 ;
+    rdfs:label "Home insurance"@en .
+
+wd:Q2064375 a wd:Q15809678 ;
+    rdfs:label "Q2064375"^^xsd:string .
+
+wd:Q20658199 a wd:Q2424752 ;
+    rdfs:label "Go Lightly"@en .
+
+wd:Q2070245 a wd:Q2424752 ;
+    rdfs:label "Tactel"@en .
+
+wd:Q20917474 a wd:Q1436963 ;
+    rdfs:label "Q20917474"^^xsd:string .
+
+wd:Q21031970 a wd:Q986008 ;
+    rdfs:label "BEST"@en .
+
+wd:Q21091213 a wd:Q161380 ;
+    rdfs:label "HSBC Platinum Credit Card"@en .
+
+wd:Q21091220 a wd:Q11335465,
+        wd:Q4688980 ;
+    rdfs:label "Platinum Qantas Credit Card"@en .
+
+wd:Q212894 a wd:Q2424752 ;
+    rdfs:label "snuff"@en .
+
+wd:Q2160980 a wd:Q15809678 ;
+    rdfs:label "endowment mortgage"@en .
+
+wd:Q21750286 a wd:Q986008 ;
+    rdfs:label "Vipps"@en .
+
+wd:Q2191594 a wd:Q2424752 ;
+    rdfs:label "CALBOX"@en .
+
+wd:Q2214612 a wd:Q986008 ;
+    rdfs:label "Q2214612"^^xsd:string .
+
+wd:Q22222760 a wd:Q2424752 ;
+    rdfs:label "Q22222760"^^xsd:string .
+
+wd:Q2222763 rdfs:label "Q2222763"^^xsd:string ;
+    rdfs:subClassOf wd:Q161380 .
+
+wd:Q2245732 a wd:Q15809678 ;
+    rdfs:label "floor"@en .
+
+wd:Q22656 a wd:Q2424752 ;
+    rdfs:label "petroleum"@en .
+
+wd:Q2266163 a wd:Q15809678 ;
+    rdfs:label "Q2266163"^^xsd:string .
+
+wd:Q22815098 a wd:Q2424752 ;
+    rdfs:label "Magic: The Gathering set"@en .
+
+wd:Q22907300 a wd:Q986008 ;
+    rdfs:label "Zelle"@en .
+
+wd:Q22907398 a wd:Q2424752 ;
+    rdfs:label "Commodity status of animals"@en .
+
+wd:Q22909828 a wd:Q986008 ;
+    rdfs:label "WorldRemit"@en .
+
+wd:Q229475 a wd:Q2424752 ;
+    rdfs:label "3Mix"@en .
+
+wd:Q2297838 a wd:Q15809678 ;
+    rdfs:label "Q2297838"^^xsd:string .
+
+wd:Q2306698 a wd:Q2424752 ;
+    rdfs:label "Desso GrassMaster"@en .
+
+wd:Q2311684 a wd:Q2424752 ;
+    rdfs:label "Q2311684"^^xsd:string .
+
+wd:Q2358832 a wd:Q986008 ;
+    rdfs:label "Q2358832"^^xsd:string .
+
+wd:Q23716632 a wd:Q2424752 ;
+    rdfs:label "Indonesia Digital HOME"@en .
+
+wd:Q2383050 a wd:Q2424752 ;
+    rdfs:label "T-ISDN"@en .
+
+wd:Q2426363 a wd:Q15809678 ;
+    rdfs:label "linear mortgage loan"@en .
+
+wd:Q2443426 a wd:Q161380 ;
+    rdfs:label "Centurion Card"@en .
+
+wd:Q2470089 a wd:Q15809678 ;
+    rdfs:label "Q2470089"^^xsd:string .
+
+wd:Q2482377 a wd:Q15809678 ;
+    rdfs:label "Q2482377"^^xsd:string .
+
+wd:Q24838745 a wd:Q986008 ;
+    rdfs:label "China National Automatic Payment System"@en .
+
+wd:Q24945427 a wd:Q986008 ;
+    rdfs:label "Automat ŚKUP"@en .
+
+wd:Q2498301 a wd:Q15809678 ;
+    rdfs:label "Q2498301"^^xsd:string .
+
+wd:Q25385578 a wd:Q837171 ;
+    rdfs:label "Q25385578"^^xsd:string .
+
+wd:Q25396138 a wd:Q986008 ;
+    rdfs:label "MIR"@en .
+
+wd:Q25406657 a wd:Q2424752 ;
+    rdfs:label "Font Vella Levite"@en .
+
+wd:Q257597 a wd:Q986008 ;
+    rdfs:label "Society for Worldwide Interbank Financial Telecommunication"@en .
+
+wd:Q2593067 a wd:Q2424752 ;
+    rdfs:label "Amazon S3"@en .
+
+wd:Q2597849 a wd:Q2424752 ;
+    rdfs:label "xaxim"@en .
+
+wd:Q2606546 a wd:Q15809678 ;
+    rdfs:label "Q2606546"^^xsd:string .
+
+wd:Q2630407 a wd:Q15809678 ;
+    rdfs:label "Term life insurance"@en .
+
+wd:Q2674183 a wd:Q15809678 ;
+    rdfs:label "Q2674183"^^xsd:string .
+
+wd:Q2684321 a wd:Q15809678 ;
+    rdfs:label "Caribbean Netherlands health insurance"@en .
+
+wd:Q2705946 a wd:Q2424752 ;
+    rdfs:label "Filet-O-Fish"@en .
+
+wd:Q2719984 a wd:Q15809678 ;
+    rdfs:label "lookbackoption"@en .
+
+wd:Q27206 a wd:Q2424752 ;
+    rdfs:label "hood"@en .
+
+wd:Q2736577 a wd:Q2424752 ;
+    rdfs:label "Q2736577"^^xsd:string .
+
+wd:Q27493463 a wd:Q837171 ;
+    rdfs:label "Budapest Bank"@en .
+
+wd:Q2785285 a wd:Q15809678 ;
+    rdfs:label "Q2785285"^^xsd:string .
+
+wd:Q27907779 a wd:Q2424752 ;
+    rdfs:label "Lanjarón"@en .
+
+wd:Q27910073 a wd:Q2424752 ;
+    rdfs:label "Danonino"@en .
+
+wd:Q28134977 a wd:Q2424752 ;
+    rdfs:label "ContraPest"@en .
+
+wd:Q2815763 a wd:Q2424752 ;
+    rdfs:label "29erXS"@en .
+
+wd:Q2822862 a wd:Q1416617 ;
+    rdfs:label "Jamaica Accords"@en .
+
+wd:Q28657989 a wd:Q2424752 ;
+    rdfs:label "heat-not-burn product"@en .
+
+wd:Q28786517 a wd:Q986008 ;
+    rdfs:label "Neos"@en .
+
+wd:Q2914802 a wd:Q15809678 ;
+    rdfs:label "interest-only loan"@en .
+
+wd:Q2973277 a wd:Q15809678 ;
+    rdfs:label "Flemish insurance for non-medical care"@en .
+
+wd:Q300938 a wd:Q2424752 ;
+    rdfs:label "Aalschnur"@en .
+
+wd:Q3009548 a wd:Q2424752 ;
+    rdfs:label "remembrance poppy"@en .
+
+wd:Q3013458 a wd:Q2424752 ;
+    rdfs:label "Danette"@en .
+
+wd:Q3016953 a wd:Q986008 ;
+    rdfs:label "dation in payement in French civil law"@en .
+
+wd:Q30179845 a wd:Q986008 ;
+    rdfs:label "GNU Taler"@en .
+
+wd:Q30325114 a wd:Q986008 ;
+    rdfs:label "Lightning Network"@en .
+
+wd:Q3037385 a wd:Q2424752 ;
+    rdfs:label "Dothan"@en .
+
+wd:Q3047374 a wd:Q2424752 ;
+    rdfs:label "Edel 3"@en .
+
+wd:Q30541708 a wd:Q2424752 ;
+    rdfs:label "GeoIP"@en .
+
+wd:Q30894724 a wd:Q986008 ;
+    rdfs:label "UZCARD"@en .
+
+wd:Q30939518 a wd:Q161380 ;
+    rdfs:label "Hiper"@en .
+
+wd:Q30973493 a wd:Q1436963 ;
+    rdfs:label "electronic benefit transfer card"@en .
+
+wd:Q3156409 a wd:Q2424752 ;
+    rdfs:label "Iwaver"@en .
+
+wd:Q3268992 a wd:Q15809678 ;
+    rdfs:label "perpetual bond"@en .
+
+wd:Q3272718 a wd:Q2424752 ;
+    rdfs:label "MAS 45"@en .
+
+wd:Q3273112 a wd:Q15809678 ;
+    rdfs:label "Q3273112"^^xsd:string .
+
+wd:Q331490 a wd:Q2424752 ;
+    rdfs:label "Abroadband"@en .
+
+wd:Q334501 a wd:Q15809678 ;
+    rdfs:label "wire transfer"@en .
+
+wd:Q3358043 a wd:Q2424752 ;
+    rdfs:label "Hardtop"@en .
+
+wd:Q343276 a wd:Q2424752 ;
+    rdfs:label "Actimel"@en .
+
+wd:Q346660 a wd:Q986008 ;
+    rdfs:label "adaeratio"@en .
+
+wd:Q3475503 a wd:Q15809678 ;
+    rdfs:label "Q3475503"^^xsd:string .
+
+wd:Q3487500 a wd:Q2424752 ;
+    rdfs:label "BioSteel"@en .
+
+wd:Q353904 a wd:Q15809678 ;
+    rdfs:label "Fixed rate bond"@en .
+
+wd:Q3570440 a wd:Q2424752 ;
+    rdfs:label "XT(2)+"@en .
+
+wd:Q3604095 rdfs:label "Access"@en ;
+    rdfs:subClassOf wd:Q161380 .
+
+wd:Q3613477 a wd:Q2424752 ;
+    rdfs:label "Alviso"@en .
+
+wd:Q3633394 a wd:Q1436963 ;
+    rdfs:label "RuPay"@en .
+
+wd:Q36940 a wd:Q2424752 ;
+    rdfs:label "sugarcane"@en .
+
+wd:Q3701308 a wd:Q2424752 ;
+    rdfs:label "Dammar"@en .
+
+wd:Q375738 a wd:Q15809678 ;
+    rdfs:label "operating lease"@en .
+
+wd:Q38074863 a wd:Q161380 ;
+    rdfs:label "Chase Sapphire Reserve"@en .
+
+wd:Q3811351 a wd:Q2424752 ;
+    rdfs:label "Q3811351"^^xsd:string .
+
+wd:Q3854693 a wd:Q2424752 ;
+    rdfs:label "Menlow"@en .
+
+wd:Q3860889 a wd:Q2424752 ;
+    rdfs:label "Monk's"@en .
+
+wd:Q3933203 a wd:Q2424752 ;
+    rdfs:label "Repond"@en .
+
+wd:Q3982532 a wd:Q2424752 ;
+    rdfs:label "Tedlar"@en .
+
+wd:Q4010555 a wd:Q2424752 ;
+    rdfs:label "ViP750"@en .
+
+wd:Q4021706 a wd:Q2424752 ;
+    rdfs:label "Xan"@en .
+
+wd:Q4029127 a wd:Q2424752 ;
+    rdfs:label "16К20"@en .
+
+wd:Q4035616 a wd:Q986008 ;
+    rdfs:label "CHAPS"@en .
+
+wd:Q4047736 a wd:Q986008 ;
+    rdfs:label "Qiwi"@en .
+
+wd:Q4115062 a wd:Q2424752 ;
+    rdfs:label "Twaron"@en .
+
+wd:Q4195174 a wd:Q2424752 ;
+    rdfs:label "ИП-5"@en .
+
+wd:Q42148852 a wd:Q986008 ;
+    rdfs:label "Bitcoin Gold"@en .
+
+wd:Q4261107 a wd:Q2424752 ;
+    rdfs:label "Intelligent Parking Assist System"@en .
+
+wd:Q43150 a wd:Q2424752 ;
+    rdfs:label ".pk"@en .
+
+wd:Q43528544 a wd:Q2424752 ;
+    rdfs:label "Q43528544"^^xsd:string .
+
+wd:Q43528791 a wd:Q2424752 ;
+    rdfs:label "Q43528791"^^xsd:string .
+
+wd:Q4506510 a wd:Q2424752 ;
+    rdfs:label "Ч3-33"@en .
+
+wd:Q4634305 a wd:Q2424752 ;
+    rdfs:label "300B"@en .
+
+wd:Q4735901 a wd:Q15809678 ;
+    rdfs:label "Alt-A"@en .
+
+wd:Q4743717 a wd:Q24228273 ;
+    rdfs:label "American Express Plum Card"@en .
+
+wd:Q47531623 a wd:Q837171 ;
+    rdfs:label "Chrysler Capital"@en .
+
+wd:Q47868368 a wd:Q986008 ;
+    rdfs:label "WhiteCoin"@en .
+
+wd:Q4817227 a wd:Q986008 ;
+    rdfs:label "Atom Technologies"@en .
+
+wd:Q4827367 a wd:Q2424752 ;
+    rdfs:label "Av Pak"@en .
+
+wd:Q483959 a wd:Q15809678 ;
+    rdfs:label "PayPal"@en .
+
+wd:Q48814921 a wd:Q1436963 ;
+    rdfs:label "Curve"@en .
+
+wd:Q49164728 a wd:Q986008 ;
+    rdfs:label "HTMLCOIN"@en .
+
+wd:Q49164739 a wd:Q986008 ;
+    rdfs:label "DeepOnion"@en .
+
+wd:Q49164743 a wd:Q986008 ;
+    rdfs:label "Pandacoin"@en .
+
+wd:Q493556 a wd:Q986008 ;
+    rdfs:label "Alipay"@en .
+
+wd:Q5000289 a wd:Q2424752 ;
+    rdfs:label "Burple"@en .
+
+wd:Q5012886 a wd:Q2424752 ;
+    rdfs:label "Colt Machine Gun"@en .
+
+wd:Q5038214 a wd:Q837171 ;
+    rdfs:label "card scheme"@en .
+
+wd:Q50612088 rdfs:label "JCB credit card"@en ;
+    rdfs:subClassOf wd:Q161380 .
+
+wd:Q50612448 rdfs:label "Diners Club credit card"@en ;
+    rdfs:subClassOf wd:Q161380 .
+
+wd:Q5096278 a wd:Q2424752 ;
+    rdfs:label "Chicken Tatsuta"@en .
+
+wd:Q5104779 a wd:Q15809678 ;
+    rdfs:label "Chooser option"@en .
+
+wd:Q5139107 a wd:Q2424752 ;
+    rdfs:label "Coca flour"@en .
+
+wd:Q5318962 a wd:Q837171 ;
+    rdfs:label "Dynamic currency conversion"@en .
+
+wd:Q5321498 a wd:Q986008 ;
+    rdfs:label "E-commerce credit card payment system"@en .
+
+wd:Q5321525 a wd:Q15809678 ;
+    rdfs:label "E-mini S&P"@en .
+
+wd:Q5323021 a wd:Q986008 ;
+    rdfs:label "eFaktura"@en .
+
+wd:Q5358217 a wd:Q986008 ;
+    rdfs:label "Electronic Benefit Transfer"@en .
+
+wd:Q5374941 a wd:Q161380 ;
+    rdfs:label "enRoute"@en .
+
+wd:Q5437075 a wd:Q986008 ;
+    rdfs:label "Faster Payments Service"@en .
+
+wd:Q5442825 a wd:Q2424752 ;
+    rdfs:label "Feminine wipe"@en .
+
+wd:Q549269 a wd:Q15809678 ;
+    rdfs:label "binary option"@en .
+
+wd:Q54969168 a wd:Q837171 ;
+    rdfs:label "Axis Forex Online"@en .
+
+wd:Q5519587 a wd:Q2424752 ;
+    rdfs:label "Gamat"@en .
+
+wd:Q55290870 a wd:Q986008 ;
+    rdfs:label "Tezos"@en .
+
+wd:Q55480566 a wd:Q2424752 ;
+    rdfs:label "Chubby puppy"@en .
+
+wd:Q55480586 a wd:Q2424752 ;
+    rdfs:label "Chubby puppies and friends"@en .
+
+wd:Q55641405 a wd:Q15809678 ;
+    rdfs:label "PayU"@en .
+
+wd:Q5572392 a wd:Q2424752 ;
+    rdfs:label "Gluma"@en .
+
+wd:Q55726131 a wd:Q2424752 ;
+    rdfs:label "ozaphane"@en .
+
+wd:Q55748270 a wd:Q986008 ;
+    rdfs:label "Q55748270"^^xsd:string .
+
+wd:Q56196714 a wd:Q2424752 ;
+    rdfs:label "Applied Climate Information System Summary Map"@en .
+
+wd:Q56196824 a wd:Q2424752 ;
+    rdfs:label "Automated Weather Data Network"@en .
+
+wd:Q56247857 a wd:Q161380 ;
+    rdfs:label "N26 Black"@en .
+
+wd:Q56247861 a wd:Q24228272 ;
+    rdfs:label "Advanzia Mastercard GOLD"@en .
+
+wd:Q56304127 a wd:Q837171 ;
+    rdfs:label "Q56304127"^^xsd:string .
+
+wd:Q56307141 a wd:Q1416617 ;
+    rdfs:label "SPFS"@en .
+
+wd:Q56423947 a wd:Q2424752 ;
+    rdfs:label "cargo bike honey"@en .
+
+wd:Q56489310 a wd:Q161380 ;
+    rdfs:label "DKB Cash"@en .
+
+wd:Q56489433 a wd:Q24228271 ;
+    rdfs:label "Barclaycard Visa"@en .
+
+wd:Q56509712 a wd:Q161380 ;
+    rdfs:label "N26 Metal"@en .
+
+wd:Q56509842 a wd:Q161380 ;
+    rdfs:label "N26 Business"@en .
+
+wd:Q56509979 a wd:Q24228271 ;
+    rdfs:label "Santander 1plus Visa Card"@en .
+
+wd:Q56510553 a wd:Q24228271,
+        wd:Q4688980 ;
+    rdfs:label "Amazon Rewards Visa Card"@en .
+
+wd:Q56510643 a wd:Q24228271 ;
+    rdfs:label "Amazon.de VISA Card"@en .
+
+wd:Q56511321 a wd:Q24228272 ;
+    rdfs:label "MLP Mastercard"@en .
+
+wd:Q56598372 a wd:Q2424752 ;
+    rdfs:label "Ericsson Dialog 4223"@en .
+
+wd:Q56707462 a wd:Q24228271 ;
+    rdfs:label "Consorsbank VISA Card Gold"@en .
+
+wd:Q56746601 a wd:Q161380 ;
+    rdfs:label "ADAC Credit Card GOLD"@en .
+
+wd:Q56746981 a wd:Q24228272 ;
+    rdfs:label "NabilSmart MasterCard International"@en .
+
+wd:Q56747313 a wd:Q24228271 ;
+    rdfs:label "PAYBACK American Express Karte"@en .
+
+wd:Q56747433 a wd:Q161380 ;
+    rdfs:label "BankAmericard"@en .
+
+wd:Q56747472 a wd:Q161380 ;
+    rdfs:label "Bank of America Cash Rewards Credit Card"@en .
+
+wd:Q56761391 a wd:Q986008 ;
+    rdfs:label "GoPay"@en .
+
+wd:Q56770622 a wd:Q161380 ;
+    rdfs:label "Metro Mega Card"@en .
+
+wd:Q56771251 a wd:Q11335465,
+        wd:Q24228273 ;
+    rdfs:label "American Express Platinum Card"@en .
+
+wd:Q56771639 a wd:Q161380 ;
+    rdfs:label "Revolut Standard"@en .
+
+wd:Q56867636 a wd:Q42965339 ;
+    rdfs:label "Advertising card of the Antwerp ship chandler and grocer C. Gittens. The firm was situated near the (nowadays) Bonaparte dock"@en .
+
+wd:Q57046635 a wd:Q24228272 ;
+    rdfs:label "payVIP MasterCard GOLD"@en .
+
+wd:Q57047474 a wd:Q24228271 ;
+    rdfs:label "Consorsbank VISA Card"@en .
+
+wd:Q58190092 a wd:Q2424752 ;
+    rdfs:label "EyeSpeaks"@en .
+
+wd:Q5822814 a wd:Q986008 ;
+    rdfs:label "Q5822814"^^xsd:string .
+
+wd:Q5853909 a wd:Q15809678 ;
+    rdfs:label "Frozen Concentrated Orange Juice"@en .
+
+wd:Q593903 a wd:Q2424752 ;
+    rdfs:label "Clear aligners"@en .
+
+wd:Q59426035 a wd:Q986008 ;
+    rdfs:label "WeChat Pay"@en .
+
+wd:Q59779876 a wd:Q2424752 ;
+    rdfs:label "Facebook Portal"@en .
+
+wd:Q59874194 a wd:Q986008 ;
+    rdfs:label "Q59874194"^^xsd:string .
+
+wd:Q59940118 a wd:Q15809678,
+        wd:Q837171 ;
+    rdfs:label "PayKun"@en .
+
+wd:Q60024476 a wd:Q2424752 ;
+    rdfs:label "ProQuad"@en .
+
+wd:Q60042782 a wd:Q24228273 ;
+    rdfs:label "Blue Cash Preferred"@en .
+
+wd:Q60367497 a wd:Q2424752 ;
+    rdfs:label "Afrodite Album"@en .
+
+wd:Q6046745 a wd:Q2424752 ;
+    rdfs:label "Interior protection"@en .
+
+wd:Q60469070 a wd:Q837171 ;
+    rdfs:label "Financial Benchmarks India"@en .
+
+wd:Q6057235 a wd:Q986008 ;
+    rdfs:label "Q6057235"^^xsd:string .
+
+wd:Q60849620 a wd:Q986008 ;
+    rdfs:label "Bitit"@en .
+
+wd:Q60989078 a wd:Q986008 ;
+    rdfs:label "Q60989078"^^xsd:string .
+
+wd:Q61275219 a wd:Q986008 ;
+    rdfs:label "Instrument in Support of Trade Exchanges"@en .
+
+wd:Q61482012 a wd:Q986008 ;
+    rdfs:label "Clearing House Automated Payment System"@en .
+
+wd:Q61905357 a wd:Q2424752 ;
+    rdfs:label "Tide Pods"@en .
+
+wd:Q6195288 a wd:Q2424752 ;
+    rdfs:label "Purell"@en .
+
+wd:Q62462617 a wd:Q161380 ;
+    rdfs:label "Apple Card"@en .
+
+wd:Q62662480 a wd:Q2424752 ;
+    rdfs:label "Ring Dish"@en .
+
+wd:Q63293923 a wd:Q837171 ;
+    rdfs:label "Nagad"@en .
+
+wd:Q63644955 a wd:Q2424752 ;
+    rdfs:label "light cannabis"@en .
+
+wd:Q64828890 a wd:Q2424752 ;
+    rdfs:label "Firefox Monitor"@en .
+
+wd:Q64860117 a wd:Q2424752 ;
+    rdfs:label "Inas Helpies"@en .
+
+wd:Q65075714 a wd:Q2424752 ;
+    rdfs:label "Google Cloud Dataflow"@en .
+
+wd:Q6518755 a wd:Q2424752 ;
+    rdfs:label "Lehel"@en .
+
+wd:Q65241338 a wd:Q2424752 ;
+    rdfs:label "Nokia 3.2"@en .
+
+wd:Q65241342 a wd:Q2424752 ;
+    rdfs:label "Nokia 4.2"@en .
+
+wd:Q66309804 a wd:Q986008 ;
+    rdfs:label "Let's DidIt"@en .
+
+wd:Q66309805 a wd:Q986008 ;
+    rdfs:label "Accountable"@en .
+
+wd:Q66309807 a wd:Q986008 ;
+    rdfs:label "BammBamm"@en .
+
+wd:Q66309809 a wd:Q986008 ;
+    rdfs:label "eBury"@en .
+
+wd:Q66309811 a wd:Q986008 ;
+    rdfs:label "Prepayment Solutions"@en .
+
+wd:Q66317337 a wd:Q986008 ;
+    rdfs:label "Payr"@en .
+
+wd:Q66424312 a wd:Q986008 ;
+    rdfs:label "GoPay"@en .
+
+wd:Q67136095 a wd:Q161380 ;
+    rdfs:label "Mastercard Titanium Card"@en .
+
+wd:Q67136189 a wd:Q161380 ;
+    rdfs:label "Mastercard Black Card"@en .
+
+wd:Q673782 a wd:Q2424752 ;
+    rdfs:label "earplug"@en .
+
+wd:Q676459 a wd:Q15809678 ;
+    rdfs:label "bank account"@en .
+
+wd:Q676506 a wd:Q15809678 ;
+    rdfs:label "passbook"@en .
+
+wd:Q67913670 a wd:Q161380 ;
+    rdfs:label "PAYBACK Visa Flex"@en .
+
+wd:Q6801475 a wd:Q2424752 ;
+    rdfs:label "McGriddles"@en .
+
+wd:Q68808025 a wd:Q2424752 ;
+    rdfs:label "Aurrigo"@en .
+
+wd:Q689044 a wd:Q986008 ;
+    rdfs:label "voucher"@en .
+
+wd:Q691313 a wd:Q15809678 ;
+    rdfs:label "Credit derivative"@en .
+
+wd:Q7072542 a wd:Q986008 ;
+    rdfs:label "OGS"@en .
+
+wd:Q707936 a wd:Q986008 ;
+    rdfs:label "EasyCard"@en .
+
+wd:Q7079688 rdfs:label "offshore credit card"@en ;
+    rdfs:subClassOf wd:Q161380 .
+
+wd:Q7108025 a wd:Q15809678 ;
+    rdfs:label "Osusu"@en .
+
+wd:Q7127712 a wd:Q24228271 ;
+    rdfs:label "Palladium Card"@en .
+
+wd:Q72416503 a wd:Q161380 ;
+    rdfs:label "Miles & More Gold Credit Card"@en .
+
+wd:Q72416690 a wd:Q161380 ;
+    rdfs:label "Miles & More Blue Credit Card"@en .
+
+wd:Q7243481 a wd:Q837171 ;
+    rdfs:label "Primerica"@en .
+
+wd:Q725252 a wd:Q2424752 ;
+    rdfs:label "satellite imagery"@en .
+
+wd:Q7283864 a wd:Q2424752 ;
+    rdfs:label "RailDriver"@en .
+
+wd:Q7394747 a wd:Q15809678 ;
+    rdfs:label "STIRT"@en .
+
+wd:Q7605232 a wd:Q2424752 ;
+    rdfs:label "Steak-umm"@en .
+
+wd:Q7658819 a wd:Q986008 ;
+    rdfs:label "Swish"@en .
+
+wd:Q7669185 a wd:Q2424752 ;
+    rdfs:label "TACLANE"@en .
+
+wd:Q7670309 a wd:Q2424752 ;
+    rdfs:label "TI-35"@en .
+
+wd:Q7670312 a wd:Q2424752 ;
+    rdfs:label "TI-34"@en .
+
+wd:Q7692761 a wd:Q2424752 ;
+    rdfs:label "Tecnu"@en .
+
+wd:Q771452 a wd:Q2424752 ;
+    rdfs:label "bicycle tire"@en .
+
+wd:Q7833987 a wd:Q986008 ;
+    rdfs:label "TransferWise"@en .
+
+wd:Q7853800 a wd:Q15809678 ;
+    rdfs:label "Turbo"@en .
+
+wd:Q78739799 a wd:Q2424752 ;
+    rdfs:label "mining equipment"@en .
+
+wd:Q78782165 a wd:Q2424752 ;
+    rdfs:label "Q78782165"^^xsd:string .
+
+wd:Q7897917 a wd:Q2424752 ;
+    rdfs:label "UpToDate"@en .
+
+wd:Q79529 a wd:Q2424752 ;
+    rdfs:label "chemical substance"@en .
+
+wd:Q7975268 a wd:Q837171 ;
+    rdfs:label "Wave"@en .
+
+wd:Q80441618 a wd:Q986008 ;
+    rdfs:label "QR-bill"@en .
+
+wd:Q80442151 a wd:Q986008 ;
+    rdfs:label "Inpayment slip without reference number"@en .
+
+wd:Q8059441 a wd:Q2424752 ;
+    rdfs:label "ypadu"@en .
+
+wd:Q806181 a wd:Q837171 ;
+    rdfs:label "Bradesco Bank"@en .
+
+wd:Q8062819 a wd:Q2424752 ;
+    rdfs:label "Z-SAN"@en .
+
+wd:Q806725 a wd:Q161380 ;
+    rdfs:label "Bankcard"@en .
+
+wd:Q8069755 a wd:Q2424752 ;
+    rdfs:label "Zetix"@en .
+
+wd:Q808919 a wd:Q15809678 ;
+    rdfs:label "Barrier option"@en .
+
+wd:Q83143768 a wd:Q2424752 ;
+    rdfs:label "532/i Combi NG"@en .
+
+wd:Q83373069 a wd:Q2424752 ;
+    rdfs:label "Manetame Comb"@en .
+
+wd:Q8375 a wd:Q2424752 ;
+    rdfs:label ".Mac"@en .
+
+wd:Q84161649 a wd:Q2424752 ;
+    rdfs:label "Llipta"@en .
+
+wd:Q8427939 a wd:Q986008 ;
+    rdfs:label "Chipknip"@en .
+
+wd:Q84470557 a wd:Q2424752 ;
+    rdfs:label "ASMR audio file"@en .
+
+wd:Q84608949 a wd:Q986008 ;
+    rdfs:label "Q84608949"^^xsd:string .
+
+wd:Q85639966 a wd:Q2424752 ;
+    rdfs:label "Q85639966"^^xsd:string .
+
+wd:Q85646296 a wd:Q2424752 ;
+    rdfs:label "Sinus Rinse™"@en .
+
+wd:Q85646498 a wd:Q2424752 ;
+    rdfs:label "NasaFlo® Neti Pot"@en .
+
+wd:Q85687460 a wd:Q2424752 ;
+    rdfs:label "HydroPulse"@en .
+
+wd:Q85834701 a wd:Q2424752 ;
+    rdfs:label "architectural furniture"@en .
+
+wd:Q865054 a wd:Q2424752 ;
+    rdfs:label "baggage"@en .
+
+wd:Q86529747 a wd:Q837171 ;
+    rdfs:label "NM Money"@en .
+
+wd:Q86771385 a wd:Q2424752 ;
+    rdfs:label "NasaDOCK"@en .
+
+wd:Q86771913 a wd:Q2424752 ;
+    rdfs:label "Sinugator"@en .
+
+wd:Q86919370 a wd:Q2424752 ;
+    rdfs:label "Antibac"@en .
+
+wd:Q8984550 a wd:Q2424752 ;
+    rdfs:label "PSE"@en .
+
+wd:Q898762 a wd:Q2424752 ;
+    rdfs:label "WD-40"@en .
+
+wd:Q9133501 a wd:Q2424752 ;
+    rdfs:label "429W"@en .
+
+wd:Q924508 a wd:Q2424752 ;
+    rdfs:label "Wood flour"@en .
+
+wd:Q9383016 a wd:Q2424752 ;
+    rdfs:label "X10"@en .
+
+wd:Q940913 a wd:Q2424752 ;
+    rdfs:label "continuous track"@en .
+
+wd:Q978399 a wd:Q2424752 ;
+    rdfs:label "sun-dried tomato"@en .
+
+wd:Q992350 a wd:Q15809678 ;
+    rdfs:label "liability insurance"@en .
+
+wd:Q32914898 rdfs:label "portable object"@en .
+
+wd:Q11335465 rdfs:label "platinum card"@en ;
+    rdfs:subClassOf wd:Q161380 .
+
+wd:Q4688980 rdfs:label "affinity credit card"@en ;
+    rdfs:subClassOf wd:Q161380 .
+
+wd:Q42965339 rdfs:label "card"@en ;
+    rdfs:subClassOf wd:Q32914898 .
+
+wd:Q1416617 rdfs:label "financial system"@en .
+
+wd:Q24228272 rdfs:label "Mastercard credit card"@en ;
+    rdfs:subClassOf wd:Q161380 .
+
+wd:Q24228273 rdfs:label "American Express credit card"@en ;
+    rdfs:subClassOf wd:Q161380 .
+
+wd:Q1436963 rdfs:label "payment card"@en ;
+    rdfs:subClassOf wd:Q15809678,
+        wd:Q42965339,
+        wd:Q986008 .
+
+wd:Q24228271 rdfs:label "VISA credit card"@en ;
+    rdfs:subClassOf wd:Q161380 .
+
+wd:Q837171 rdfs:label "financial services"@en .
+
+wd:Q161380 rdfs:label "credit card"@en ;
+    rdfs:subClassOf wd:Q1436963 .
+
+wd:Q15809678 rdfs:label "financial product"@en ;
+    rdfs:subClassOf wd:Q2424752,
+        wd:Q837171 .
+
+wd:Q986008 rdfs:label "payment system"@en ;
+    rdfs:subClassOf wd:Q1416617 .
+
+wd:Q2424752 rdfs:label "product"@en .
+

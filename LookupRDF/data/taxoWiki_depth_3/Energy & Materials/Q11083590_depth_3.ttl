@@ -1,0 +1,1406 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1000247 a wd:Q987767 ;
+    rdfs:label "Q1000247"^^xsd:string .
+
+wd:Q1001983 a wd:Q11019 ;
+    rdfs:label "Flekk"@en .
+
+wd:Q10263179 a wd:Q987767 ;
+    rdfs:label "Q10263179"^^xsd:string .
+
+wd:Q1044847 a wd:Q193075 ;
+    rdfs:label "Lexus LS"@en .
+
+wd:Q1047037 a wd:Q11019 ;
+    rdfs:label "Screw pump"@en .
+
+wd:Q10672985 a wd:Q987767 ;
+    rdfs:label "Q10672985"^^xsd:string .
+
+wd:Q10720217 a wd:Q42889 ;
+    rdfs:label "Q10720217"^^xsd:string .
+
+wd:Q10819557 a wd:Q42889 ;
+    rdfs:label "Sever"@en .
+
+wd:Q1090233 a wd:Q11019 ;
+    rdfs:label "NIST-F1"@en .
+
+wd:Q1142339 a wd:Q13629441 ;
+    rdfs:label "Jaguar XJ series"@en .
+
+wd:Q1160546 a wd:Q987767 ;
+    rdfs:label "inkwell"@en .
+
+wd:Q11626675 a wd:Q987767 ;
+    rdfs:label "sewing box"@en .
+
+wd:Q11697695 a wd:Q42889 ;
+    rdfs:label "Fasiąg"@en .
+
+wd:Q11856366 a wd:Q987767 ;
+    rdfs:label "Duna"@en .
+
+wd:Q11896591 a wd:Q42889 ;
+    rdfs:label "Tatra T28"@en .
+
+wd:Q11916899 a wd:Q11019 ;
+    rdfs:label "Q11916899"^^xsd:string .
+
+wd:Q11937671 a wd:Q11019 ;
+    rdfs:label "Q11937671"^^xsd:string .
+
+wd:Q11938176 a wd:Q11019 ;
+    rdfs:label "Q11938176"^^xsd:string .
+
+wd:Q11938179 a wd:Q11019 ;
+    rdfs:label "Q11938179"^^xsd:string .
+
+wd:Q11945024 a wd:Q11019 ;
+    rdfs:label "Q11945024"^^xsd:string .
+
+wd:Q11945026 a wd:Q11019 ;
+    rdfs:label "Q11945026"^^xsd:string .
+
+wd:Q11948246 a wd:Q11019 ;
+    rdfs:label "Q11948246"^^xsd:string .
+
+wd:Q11948348 a wd:Q11019 ;
+    rdfs:label "Q11948348"^^xsd:string .
+
+wd:Q11953025 a wd:Q11019 ;
+    rdfs:label "Q11953025"^^xsd:string .
+
+wd:Q120309 a wd:Q42889 ;
+    rdfs:label "MOWAG Piranha IB 6×6"@en .
+
+wd:Q12031335 a wd:Q987767 ;
+    rdfs:label "Q12031335"^^xsd:string .
+
+wd:Q12177444 a wd:Q11019 ;
+    rdfs:label "boring"@en .
+
+wd:Q12306834 a wd:Q42889 ;
+    rdfs:label "DEMU"@en .
+
+wd:Q12325531 a wd:Q42889 ;
+    rdfs:label "MKM"@en .
+
+wd:Q12400236 a wd:Q987767 ;
+    rdfs:label "Q12400236"^^xsd:string .
+
+wd:Q124441 a wd:Q11019 ;
+    rdfs:label "washing machine"@en .
+
+wd:Q13032898 a wd:Q987767 ;
+    rdfs:label "rick"@en .
+
+wd:Q13049293 a wd:Q987767 ;
+    rdfs:label "Laco"@en .
+
+wd:Q130760 a wd:Q11019 ;
+    rdfs:label "turbine"@en .
+
+wd:Q13110583 a wd:Q42889 ;
+    rdfs:label "RISHIKA"@en .
+
+wd:Q131313 a wd:Q11019 ;
+    rdfs:label "heat pump"@en .
+
+wd:Q132008 a wd:Q42889 ;
+    rdfs:label "Q132008"^^xsd:string .
+
+wd:Q13212169 a wd:Q987767 ;
+    rdfs:label "Cuco"@en .
+
+wd:Q13362749 a wd:Q987767 ;
+    rdfs:label "fountain pen ink cartridge"@en .
+
+wd:Q13576294 a wd:Q42889 ;
+    rdfs:label "electronic stability control"@en .
+
+wd:Q1369967 a wd:Q11019 ;
+    rdfs:label "Jacquard loom"@en .
+
+wd:Q1383360 a wd:Q987767 ;
+    rdfs:label "Exaleiptra"@en .
+
+wd:Q1434533 a wd:Q11019 ;
+    rdfs:label "Flybot"@en .
+
+wd:Q1475429 a wd:Q987767 ;
+    rdfs:label "handgun holster"@en .
+
+wd:Q15020961 a wd:Q987767 ;
+    rdfs:label "unguentarium"@en .
+
+wd:Q1508311 a wd:Q193075 ;
+    rdfs:label "Lexus CT"@en .
+
+wd:Q15140120 a wd:Q11083590 ;
+    rdfs:label "Lexus RC"@en .
+
+wd:Q152946 a wd:Q42889 ;
+    rdfs:label "Volkswagen Beetle"@en .
+
+wd:Q1531301 a wd:Q42889 ;
+    rdfs:label "Glide"@en .
+
+wd:Q1547271 a wd:Q987767 ;
+    rdfs:label "grole"@en .
+
+wd:Q1560125 a wd:Q987767 ;
+    rdfs:label "slurry pit"@en .
+
+wd:Q15910271 a wd:Q42889 ;
+    rdfs:label "flat car"@en .
+
+wd:Q16040665 a wd:Q42889 ;
+    rdfs:label "Maruti Omni"@en .
+
+wd:Q16135865 a wd:Q11019 ;
+    rdfs:label "Teaching machine"@en .
+
+wd:Q1630217 a wd:Q42889 ;
+    rdfs:label "Wiima"@en .
+
+wd:Q1632287 a wd:Q42889 ;
+    rdfs:label "caster board"@en .
+
+wd:Q16325434 a wd:Q193075 ;
+    rdfs:label "Lexus NX"@en .
+
+wd:Q1638368 a wd:Q987767 ;
+    rdfs:label "shoe"@en .
+
+wd:Q16535098 a wd:Q42889 ;
+    rdfs:label "Q16535098"^^xsd:string .
+
+wd:Q16604153 a wd:Q42889 ;
+    rdfs:label "Q16604153"^^xsd:string .
+
+wd:Q16671570 a wd:Q11019 ;
+    rdfs:label "Sprayer"@en .
+
+wd:Q16726133 a wd:Q987767 ;
+    rdfs:label "bindle"@en .
+
+wd:Q16733527 a wd:Q11019 ;
+    rdfs:label "Fufu Machine"@en .
+
+wd:Q16939260 a wd:Q987767 ;
+    rdfs:label "Mechanical bank"@en .
+
+wd:Q1720186 a wd:Q11019 ;
+    rdfs:label "Q1720186"^^xsd:string .
+
+wd:Q1721774 a wd:Q42889 ;
+    rdfs:label "Kaiserwagen"@en .
+
+wd:Q17242 a wd:Q11019 ;
+    rdfs:label "snow grooming vehicle"@en .
+
+wd:Q1764892 a wd:Q11019 ;
+    rdfs:label "evaporator"@en .
+
+wd:Q1778640 a wd:Q11019 ;
+    rdfs:label "fog machine"@en .
+
+wd:Q1803770 a wd:Q987767 ;
+    rdfs:label "Margretheskålen"@en .
+
+wd:Q18087946 a wd:Q11019 ;
+    rdfs:label "Q18087946"^^xsd:string .
+
+wd:Q1816096 a wd:Q11019 ;
+    rdfs:label "mechanical lathe"@en .
+
+wd:Q18198857 a wd:Q11019 ;
+    rdfs:label "cable blowing machine"@en .
+
+wd:Q182883 a wd:Q11019 ;
+    rdfs:label "wankel engine"@en .
+
+wd:Q18292672 a wd:Q42889 ;
+    rdfs:label "Triumphal chariot"@en .
+
+wd:Q18456990 a wd:Q11083590 ;
+    rdfs:label "Lamborghini Asterion"@en .
+
+wd:Q18589887 a wd:Q42889 ;
+    rdfs:label "Citroën Berlingo I"@en .
+
+wd:Q187130 a wd:Q11019 ;
+    rdfs:label "watch timing machine"@en .
+
+wd:Q187140 a wd:Q987767 ;
+    rdfs:label "beaker"@en .
+
+wd:Q191931 a wd:Q42889 ;
+    rdfs:label "wheelchair"@en .
+
+wd:Q192970 a wd:Q987767 ;
+    rdfs:label "bubble chamber"@en .
+
+wd:Q1960326 a wd:Q42889 ;
+    rdfs:label "ACTUV"@en .
+
+wd:Q19615881 a wd:Q11019 ;
+    rdfs:label "cutter suction dredger"@en .
+
+wd:Q19715603 a wd:Q11019 ;
+    rdfs:label "Q19715603"^^xsd:string .
+
+wd:Q19742259 a wd:Q11019 ;
+    rdfs:label "Q19742259"^^xsd:string .
+
+wd:Q19904204 a wd:Q11019 ;
+    rdfs:label "Herodotus Machine"@en .
+
+wd:Q20014544 a wd:Q987767 ;
+    rdfs:label "Q20014544"^^xsd:string .
+
+wd:Q20014619 a wd:Q987767 ;
+    rdfs:label "Q20014619"^^xsd:string .
+
+wd:Q20015090 a wd:Q987767 ;
+    rdfs:label "Q20015090"^^xsd:string .
+
+wd:Q20081025 a wd:Q193075 ;
+    rdfs:label "Lanchester petrol-electric car"@en .
+
+wd:Q20182707 a wd:Q987767 ;
+    rdfs:label "Small covered wine pot or teapot"@en .
+
+wd:Q20188263 a wd:Q987767 ;
+    rdfs:label "Small covered wine pot or teapot"@en .
+
+wd:Q2048397 a wd:Q987767 ;
+    rdfs:label "Paloxe"@en .
+
+wd:Q20820259 a wd:Q42889 ;
+    rdfs:label "Q20820259"^^xsd:string .
+
+wd:Q21043216 a wd:Q11019 ;
+    rdfs:label "bread slicer"@en .
+
+wd:Q2104556 a wd:Q987767 ;
+    rdfs:label "porrón"@en .
+
+wd:Q21087177 a wd:Q11019 ;
+    rdfs:label "Q21087177"^^xsd:string .
+
+wd:Q21087178 a wd:Q11019 ;
+    rdfs:label "Q21087178"^^xsd:string .
+
+wd:Q21087344 a wd:Q11019 ;
+    rdfs:label "Q21087344"^^xsd:string .
+
+wd:Q21087414 a wd:Q11019 ;
+    rdfs:label "Q21087414"^^xsd:string .
+
+wd:Q21161871 a wd:Q13629441 ;
+    rdfs:label "self-balancing scooter"@en .
+
+wd:Q21162337 a wd:Q11019 ;
+    rdfs:label "discharging machine"@en .
+
+wd:Q2120174 a wd:Q987767 ;
+    rdfs:label "Small parcel"@en .
+
+wd:Q213115 rdfs:label "Toyota Prius"@en ;
+    rdfs:subClassOf wd:Q11083590 .
+
+wd:Q2135734 a wd:Q11019 ;
+    rdfs:label "Q2135734"^^xsd:string .
+
+wd:Q2142260 a wd:Q11019 ;
+    rdfs:label "Q2142260"^^xsd:string .
+
+wd:Q214893 a wd:Q13629441 ;
+    rdfs:label "Segway PT"@en .
+
+wd:Q21503377 a wd:Q987767 ;
+    rdfs:label "Q21503377"^^xsd:string .
+
+wd:Q21558942 a wd:Q987767 ;
+    rdfs:label "Q21558942"^^xsd:string .
+
+wd:Q219904 a wd:Q987767 ;
+    rdfs:label "Zonensammler"@en .
+
+wd:Q22084860 a wd:Q193075 ;
+    rdfs:label "Lexus LC"@en .
+
+wd:Q2248348 rdfs:label "EMD FL9"@en ;
+    rdfs:subClassOf wd:Q232962 .
+
+wd:Q2264374 rdfs:label "FEVE 1900-class"@en ;
+    rdfs:subClassOf wd:Q232962 .
+
+wd:Q2270830 a wd:Q11019 ;
+    rdfs:label "Z-mill"@en .
+
+wd:Q22910440 a wd:Q11019 ;
+    rdfs:label "isolette"@en .
+
+wd:Q2298943 a wd:Q11019 ;
+    rdfs:label "Q2298943"^^xsd:string .
+
+wd:Q2303617 a wd:Q11019 ;
+    rdfs:label "Sorter"@en .
+
+wd:Q23070990 rdfs:label "British Rail Class 88"@en ;
+    rdfs:subClassOf wd:Q17019872,
+        wd:Q232962 .
+
+wd:Q230956 a wd:Q987767 ;
+    rdfs:label "Zustellanlage"@en .
+
+wd:Q2329326 a wd:Q987767 ;
+    rdfs:label "Cassole"@en .
+
+wd:Q23498881 a wd:Q11019 ;
+    rdfs:label "Q23498881"^^xsd:string .
+
+wd:Q2399970 a wd:Q13629441 ;
+    rdfs:label "motorized scooter"@en .
+
+wd:Q245761 a wd:Q11019 ;
+    rdfs:label "grinding machine"@en .
+
+wd:Q24933945 a wd:Q987767 ;
+    rdfs:label "Q24933945"^^xsd:string .
+
+wd:Q24960308 a wd:Q987767 ;
+    rdfs:label "Q24960308"^^xsd:string .
+
+wd:Q25056621 a wd:Q42889 ;
+    rdfs:label "Riding mower"@en .
+
+wd:Q2514555 a wd:Q987767 ;
+    rdfs:label "Lota (vessel)"@en .
+
+wd:Q25412676 a wd:Q987767 ;
+    rdfs:label "Q25412676"^^xsd:string .
+
+wd:Q25414013 a wd:Q987767 ;
+    rdfs:label "Q25414013"^^xsd:string .
+
+wd:Q257139 a wd:Q987767 ;
+    rdfs:label "Ätherkugel"@en .
+
+wd:Q26209363 a wd:Q987767 ;
+    rdfs:label "ice cube container"@en .
+
+wd:Q266809 a wd:Q11019 ;
+    rdfs:label "Diatype"@en .
+
+wd:Q2676216 a wd:Q987767 ;
+    rdfs:label "Kub"@en .
+
+wd:Q27038817 a wd:Q987767 ;
+    rdfs:label "Q27038817"^^xsd:string .
+
+wd:Q27038818 a wd:Q987767 ;
+    rdfs:label "Q27038818"^^xsd:string .
+
+wd:Q27038819 a wd:Q987767 ;
+    rdfs:label "Q27038819"^^xsd:string .
+
+wd:Q2708032 a wd:Q11019 ;
+    rdfs:label "Tattoo machine"@en .
+
+wd:Q27114133 a wd:Q11019 ;
+    rdfs:label "Q27114133"^^xsd:string .
+
+wd:Q27114135 a wd:Q11019 ;
+    rdfs:label "Q27114135"^^xsd:string .
+
+wd:Q27114139 a wd:Q11019 ;
+    rdfs:label "Q27114139"^^xsd:string .
+
+wd:Q27526212 a wd:Q42889 ;
+    rdfs:label "Q27526212"^^xsd:string .
+
+wd:Q27586 a wd:Q42889 ;
+    rdfs:label "Ferrari"@en .
+
+wd:Q28008754 a wd:Q11019 ;
+    rdfs:label "Q28008754"^^xsd:string .
+
+wd:Q28060003 a wd:Q11019 ;
+    rdfs:label "Q28060003"^^xsd:string .
+
+wd:Q28151526 a wd:Q987767 ;
+    rdfs:label "breadbox"@en .
+
+wd:Q28503169 a wd:Q11019 ;
+    rdfs:label "Q28503169"^^xsd:string .
+
+wd:Q28791943 a wd:Q987767 ;
+    rdfs:label "Q28791943"^^xsd:string .
+
+wd:Q29015019 a wd:Q987767 ;
+    rdfs:label "Box in the shape of a duck"@en .
+
+wd:Q29112906 a wd:Q42889 ;
+    rdfs:label "Q29112906"^^xsd:string .
+
+wd:Q29112907 a wd:Q42889 ;
+    rdfs:label "Q29112907"^^xsd:string .
+
+wd:Q29113735 a wd:Q42889 ;
+    rdfs:label "Q29113735"^^xsd:string .
+
+wd:Q29114539 a wd:Q42889 ;
+    rdfs:label "Q29114539"^^xsd:string .
+
+wd:Q29114542 a wd:Q42889 ;
+    rdfs:label "Q29114542"^^xsd:string .
+
+wd:Q29121326 a wd:Q42889 ;
+    rdfs:label "Q29121326"^^xsd:string .
+
+wd:Q2916210 a wd:Q11019 ;
+    rdfs:label "Mephisto"@en .
+
+wd:Q2918017 a wd:Q42889 ;
+    rdfs:label "Q2918017"^^xsd:string .
+
+wd:Q29197451 a wd:Q42889 ;
+    rdfs:label "Q29197451"^^xsd:string .
+
+wd:Q29197461 a wd:Q42889 ;
+    rdfs:label "Q29197461"^^xsd:string .
+
+wd:Q29220646 a wd:Q987767 ;
+    rdfs:label "Q29220646"^^xsd:string .
+
+wd:Q29228899 a wd:Q42889 ;
+    rdfs:label "Q29228899"^^xsd:string .
+
+wd:Q29230327 a wd:Q42889 ;
+    rdfs:label "Q29230327"^^xsd:string .
+
+wd:Q2923124 a wd:Q987767 ;
+    rdfs:label "watch case"@en .
+
+wd:Q29233004 a wd:Q987767 ;
+    rdfs:label "Q29233004"^^xsd:string .
+
+wd:Q29233005 a wd:Q987767 ;
+    rdfs:label "Q29233005"^^xsd:string .
+
+wd:Q29233006 a wd:Q987767 ;
+    rdfs:label "Q29233006"^^xsd:string .
+
+wd:Q29253173 a wd:Q42889 ;
+    rdfs:label "Q29253173"^^xsd:string .
+
+wd:Q29253176 a wd:Q42889 ;
+    rdfs:label "Q29253176"^^xsd:string .
+
+wd:Q29253693 a wd:Q42889 ;
+    rdfs:label "Q29253693"^^xsd:string .
+
+wd:Q29254049 a wd:Q42889 ;
+    rdfs:label "Q29254049"^^xsd:string .
+
+wd:Q29254096 a wd:Q42889 ;
+    rdfs:label "Q29254096"^^xsd:string .
+
+wd:Q29254691 a wd:Q42889 ;
+    rdfs:label "Q29254691"^^xsd:string .
+
+wd:Q29254696 a wd:Q42889 ;
+    rdfs:label "Q29254696"^^xsd:string .
+
+wd:Q29255583 a wd:Q42889 ;
+    rdfs:label "Q29255583"^^xsd:string .
+
+wd:Q29257325 a wd:Q42889 ;
+    rdfs:label "Q29257325"^^xsd:string .
+
+wd:Q29257747 a wd:Q42889 ;
+    rdfs:label "Q29257747"^^xsd:string .
+
+wd:Q29284406 a wd:Q42889 ;
+    rdfs:label "Q29284406"^^xsd:string .
+
+wd:Q29289884 a wd:Q42889 ;
+    rdfs:label "Q29289884"^^xsd:string .
+
+wd:Q29300742 a wd:Q42889 ;
+    rdfs:label "Q29300742"^^xsd:string .
+
+wd:Q2936605 a wd:Q987767 ;
+    rdfs:label "Cantil"@en .
+
+wd:Q29382902 a wd:Q987767 ;
+    rdfs:label "Chocolate Pot"@en .
+
+wd:Q29384243 a wd:Q987767 ;
+    rdfs:label "Double-Chambered Vessel"@en .
+
+wd:Q29384372 a wd:Q987767 ;
+    rdfs:label "Lidded Vessel"@en .
+
+wd:Q29384499 a wd:Q987767 ;
+    rdfs:label "Cult vessel in the form of a tower with cylinder seal impressions near the top"@en .
+
+wd:Q29639195 a wd:Q11019 ;
+    rdfs:label "Cornell Pulpwood Stacker"@en .
+
+wd:Q2972160 a wd:Q987767 ;
+    rdfs:label "Chōzubachi"@en .
+
+wd:Q29788099 a wd:Q987767 ;
+    rdfs:label "oxybaphon"@en .
+
+wd:Q2979456 a wd:Q11019 ;
+    rdfs:label "Cloaca"@en .
+
+wd:Q3007964 a wd:Q987767 ;
+    rdfs:label "Q3007964"^^xsd:string .
+
+wd:Q3008012 a wd:Q13629441 ;
+    rdfs:label "Q3008012"^^xsd:string .
+
+wd:Q30280458 a wd:Q13629441,
+        wd:Q42889 ;
+    rdfs:label "FEDDZ"@en .
+
+wd:Q30302618 a wd:Q13629441 ;
+    rdfs:label "Bultaco Brinco"@en .
+
+wd:Q3041602 rdfs:label "Toyota Prius c"@en ;
+    rdfs:subClassOf wd:Q11083590 .
+
+wd:Q30765198 a wd:Q13629441 ;
+    rdfs:label "Volkswagen I.D. Buzz"@en .
+
+wd:Q3093250 a wd:Q42889 ;
+    rdfs:label "Q3093250"^^xsd:string .
+
+wd:Q31790926 rdfs:label "hybrid electric aircraft"@en ;
+    rdfs:subClassOf wd:Q11083590 .
+
+wd:Q324870 a wd:Q42889 ;
+    rdfs:label "ICE 4"@en .
+
+wd:Q3411711 a wd:Q987767 ;
+    rdfs:label "Q3411711"^^xsd:string .
+
+wd:Q3495733 a wd:Q11019 ;
+    rdfs:label "Gestetner"@en .
+
+wd:Q354757 a wd:Q3245975 ;
+    rdfs:label "lumber"@en .
+
+wd:Q3564008 a wd:Q42889 ;
+    rdfs:label "Q3564008"^^xsd:string .
+
+wd:Q356824 a wd:Q42889 ;
+    rdfs:label "Dragster"@en .
+
+wd:Q3579073 a wd:Q987767 ;
+    rdfs:label "Bowl"@en .
+
+wd:Q36179034 a wd:Q987767 ;
+    rdfs:label "Elegant Gathering of the Western Garden"@en .
+
+wd:Q3709176 a wd:Q11019 ;
+    rdfs:label "Dirod"@en .
+
+wd:Q373613 a wd:Q42889 ;
+    rdfs:label "Reed boat"@en .
+
+wd:Q37376085 a wd:Q42889 ;
+    rdfs:label "Fourgons mousse grande puissance"@en .
+
+wd:Q37446298 a wd:Q987767 ;
+    rdfs:label "Q37446298"^^xsd:string .
+
+wd:Q38044231 a wd:Q11019 ;
+    rdfs:label "Q38044231"^^xsd:string .
+
+wd:Q3826691 a wd:Q11019 ;
+    rdfs:label "Q3826691"^^xsd:string .
+
+wd:Q3836059 a wd:Q42889 ;
+    rdfs:label "JŽ 342 class"@en .
+
+wd:Q38509691 a wd:Q987767 ;
+    rdfs:label "Q38509691"^^xsd:string .
+
+wd:Q39080144 a wd:Q42889 ;
+    rdfs:label "Unimog 411"@en .
+
+wd:Q40007330 a wd:Q11019 ;
+    rdfs:label "Q40007330"^^xsd:string .
+
+wd:Q4030618 a wd:Q42889 ;
+    rdfs:label "2П32"@en .
+
+wd:Q4032811 a wd:Q42889 ;
+    rdfs:label "9А38"@en .
+
+wd:Q4032967 a wd:Q42889 ;
+    rdfs:label "Q4032967"^^xsd:string .
+
+wd:Q403898 a wd:Q11019 ;
+    rdfs:label "Actinometer"@en .
+
+wd:Q41356918 a wd:Q11019 ;
+    rdfs:label "multimixer"@en .
+
+wd:Q4150635 a wd:Q11019 ;
+    rdfs:label "Q4150635"^^xsd:string .
+
+wd:Q41525869 a wd:Q13629441 ;
+    rdfs:label "BMW Concept Link"@en .
+
+wd:Q4153466 rdfs:label "DT1 multiple unit"@en ;
+    rdfs:subClassOf wd:Q232962 .
+
+wd:Q4153467 a wd:Q42889 ;
+    rdfs:label "Vityaz"@en .
+
+wd:Q41560558 a wd:Q13629441 ;
+    rdfs:label "Q41560558"^^xsd:string .
+
+wd:Q4229164 a wd:Q42889 ;
+    rdfs:label "Q4229164"^^xsd:string .
+
+wd:Q432706 rdfs:label "ALP-45DP"@en ;
+    rdfs:subClassOf wd:Q232962 .
+
+wd:Q4328980 rdfs:label "Soviet Railways ОПЭ1"@en ;
+    rdfs:subClassOf wd:Q232962 .
+
+wd:Q4453968 a wd:Q42889 ;
+    rdfs:label "Cugnot's Cart"@en .
+
+wd:Q45990805 a wd:Q987767 ;
+    rdfs:label "Zeng-AA 77"@en .
+
+wd:Q46465241 a wd:Q987767 ;
+    rdfs:label "Gui-like container-AA 79"@en .
+
+wd:Q47005327 a wd:Q42889 ;
+    rdfs:label "Q47005327"^^xsd:string .
+
+wd:Q47005331 a wd:Q42889 ;
+    rdfs:label "Q47005331"^^xsd:string .
+
+wd:Q47005338 a wd:Q42889 ;
+    rdfs:label "Q47005338"^^xsd:string .
+
+wd:Q47165651 a wd:Q42889 ;
+    rdfs:label "Q47165651"^^xsd:string .
+
+wd:Q47293423 a wd:Q42889 ;
+    rdfs:label "Q47293423"^^xsd:string .
+
+wd:Q4795921 a wd:Q11019 ;
+    rdfs:label "Q4795921"^^xsd:string .
+
+wd:Q48781379 a wd:Q987767 ;
+    rdfs:label "Q48781379"^^xsd:string .
+
+wd:Q492461 a wd:Q987767 ;
+    rdfs:label "kalathos"@en .
+
+wd:Q49400370 a wd:Q987767 ;
+    rdfs:label "Q49400370"^^xsd:string .
+
+wd:Q4949127 a wd:Q42889 ;
+    rdfs:label "Bottom crawler"@en .
+
+wd:Q4970846 rdfs:label "British Rail Class 73"@en ;
+    rdfs:subClassOf wd:Q232962 .
+
+wd:Q4970847 rdfs:label "British Rail Class 74"@en ;
+    rdfs:subClassOf wd:Q232962 .
+
+wd:Q4986058 a wd:Q42889 ;
+    rdfs:label "BugE"@en .
+
+wd:Q50018318 a wd:Q42889 ;
+    rdfs:label "demining vehicle"@en .
+
+wd:Q50078381 a wd:Q42889 ;
+    rdfs:label "2-man bob"@en .
+
+wd:Q50078622 a wd:Q42889 ;
+    rdfs:label "4-man bob"@en .
+
+wd:Q50141068 a wd:Q42889 ;
+    rdfs:label "gandola"@en .
+
+wd:Q50379353 a wd:Q193075 ;
+    rdfs:label "Lexus UX"@en .
+
+wd:Q52147878 a wd:Q987767 ;
+    rdfs:label "Peach-shaped wine pot or teapot"@en .
+
+wd:Q52169426 a wd:Q42889 ;
+    rdfs:label "gandoler"@en .
+
+wd:Q5322745 a wd:Q42889 ;
+    rdfs:label "ECRV"@en .
+
+wd:Q5357557 a wd:Q11019 ;
+    rdfs:label "Electric boiler"@en .
+
+wd:Q53673378 a wd:Q987767 ;
+    rdfs:label "Gillo"@en .
+
+wd:Q5427482 a wd:Q42889 ;
+    rdfs:label "F B"@en .
+
+wd:Q54411366 a wd:Q42889 ;
+    rdfs:label "Millet petrol tricycle-CnAM 14327"@en .
+
+wd:Q5441217 a wd:Q987767 ;
+    rdfs:label "Feeder"@en .
+
+wd:Q5472665 a wd:Q42889 ;
+    rdfs:label "Fortis"@en .
+
+wd:Q55121526 a wd:Q42889 ;
+    rdfs:label "JAC Rein"@en .
+
+wd:Q55505522 a wd:Q987767 ;
+    rdfs:label "Q55505522"^^xsd:string .
+
+wd:Q5575240 a wd:Q987767 ;
+    rdfs:label "Q5575240"^^xsd:string .
+
+wd:Q55776738 a wd:Q987767 ;
+    rdfs:label "Cooling Basin:The Drunkenness of Bacchus"@en .
+
+wd:Q55841479 a wd:Q987767 ;
+    rdfs:label "Kohl case as monkey with palm-E 7985"@en .
+
+wd:Q55873949 a wd:Q987767 ;
+    rdfs:label "Q55873949"^^xsd:string .
+
+wd:Q56259040 a wd:Q42889 ;
+    rdfs:label "Force Traveller"@en .
+
+wd:Q56297888 a wd:Q987767 ;
+    rdfs:label "Q56297888"^^xsd:string .
+
+wd:Q56313035 a wd:Q11019 ;
+    rdfs:label "Q56313035"^^xsd:string .
+
+wd:Q5642413 a wd:Q42889 ;
+    rdfs:label "Q5642413"^^xsd:string .
+
+wd:Q5647940 a wd:Q987767 ;
+    rdfs:label "Q5647940"^^xsd:string .
+
+wd:Q56612793 a wd:Q987767 ;
+    rdfs:label "Roman basin from Montfort"@en .
+
+wd:Q56653493 a wd:Q987767 ;
+    rdfs:label "Magical papyrus box-E 3316"@en .
+
+wd:Q56676381 a wd:Q42889 ;
+    rdfs:label "Q56676381"^^xsd:string .
+
+wd:Q5716196 a wd:Q987767 ;
+    rdfs:label "chamber pot"@en .
+
+wd:Q577397 a wd:Q193075 ;
+    rdfs:label "Lexus ES"@en .
+
+wd:Q5795907 a wd:Q987767 ;
+    rdfs:label "Q5795907"^^xsd:string .
+
+wd:Q5795912 a wd:Q987767 ;
+    rdfs:label "Q5795912"^^xsd:string .
+
+wd:Q5923310 a wd:Q42889 ;
+    rdfs:label "Gila APC"@en .
+
+wd:Q59351446 a wd:Q42889 ;
+    rdfs:label "Perrera"@en .
+
+wd:Q5953192 rdfs:label "hybrid electric truck"@en ;
+    rdfs:subClassOf wd:Q11083590 .
+
+wd:Q5971875 a wd:Q987767 ;
+    rdfs:label "Q5971875"^^xsd:string .
+
+wd:Q59753955 a wd:Q11019 ;
+    rdfs:label "Q59753955"^^xsd:string .
+
+wd:Q60170278 a wd:Q987767 ;
+    rdfs:label "Q60170278"^^xsd:string .
+
+wd:Q60740124 a wd:Q987767 ;
+    rdfs:label "Unguent Bottle (Amphoriskos)"@en .
+
+wd:Q60740171 a wd:Q987767 ;
+    rdfs:label "Pyxis with Lid"@en .
+
+wd:Q60740245 a wd:Q987767 ;
+    rdfs:label "Alabastron"@en .
+
+wd:Q60741980 a wd:Q987767 ;
+    rdfs:label "Black-Topped Beaker"@en .
+
+wd:Q60746481 a wd:Q987767 ;
+    rdfs:label "Cosmetic Jar in the Form of the God Bes"@en .
+
+wd:Q60746574 a wd:Q987767 ;
+    rdfs:label "Cosmetic Vessel (Beaker)"@en .
+
+wd:Q60746831 a wd:Q987767 ;
+    rdfs:label "Shallow Dish"@en .
+
+wd:Q60748015 a wd:Q987767 ;
+    rdfs:label "Vessel in the Form of an Ostrich Egg"@en .
+
+wd:Q60749684 a wd:Q987767 ;
+    rdfs:label "Spouted Bowl"@en .
+
+wd:Q60750889 a wd:Q987767 ;
+    rdfs:label "Bowl with Lotus Bud Decoration"@en .
+
+wd:Q60751834 a wd:Q987767 ;
+    rdfs:label "Wavy-Lined Jar"@en .
+
+wd:Q60752187 a wd:Q987767 ;
+    rdfs:label "Deer-Headed Figure Vessel"@en .
+
+wd:Q60754824 a wd:Q987767 ;
+    rdfs:label "Box (Pyxis) in the Form of a Composite Capital"@en .
+
+wd:Q60756821 a wd:Q987767 ;
+    rdfs:label "Cosmetic Vessel"@en .
+
+wd:Q60757529 a wd:Q987767 ;
+    rdfs:label "Alabastron (stopper)"@en .
+
+wd:Q60757714 a wd:Q987767 ;
+    rdfs:label "Pyxis with Lid (lid)"@en .
+
+wd:Q60758383 a wd:Q987767 ;
+    rdfs:label "White Cross-Lined Bowl with Turtle and Sun"@en .
+
+wd:Q60758999 a wd:Q987767 ;
+    rdfs:label "Squat Jar with Lug Handles"@en .
+
+wd:Q60761254 a wd:Q987767 ;
+    rdfs:label "Box (Pyxis) in the Form of a Composite Capital (lid)"@en .
+
+wd:Q60761409 a wd:Q987767 ;
+    rdfs:label "Mit Rahina Ware Vessel"@en .
+
+wd:Q60761659 a wd:Q987767 ;
+    rdfs:label "Decorated Jar with Boat Scenes"@en .
+
+wd:Q60762279 a wd:Q987767 ;
+    rdfs:label "Unguent Bottle (Krateriskos)"@en .
+
+wd:Q60763038 a wd:Q987767 ;
+    rdfs:label "Lentoid Flask (Pilgrim Flask)"@en .
+
+wd:Q60763137 a wd:Q987767 ;
+    rdfs:label "Decorated Situla"@en .
+
+wd:Q60763563 a wd:Q987767 ;
+    rdfs:label "Flask in the Form of a Leather Bag"@en .
+
+wd:Q60778386 a wd:Q987767 ;
+    rdfs:label "Alabastron"@en .
+
+wd:Q60779462 a wd:Q987767 ;
+    rdfs:label "Pyxis with Lid"@en .
+
+wd:Q60779470 a wd:Q987767 ;
+    rdfs:label "Black-Topped Beaker"@en .
+
+wd:Q60779497 a wd:Q987767 ;
+    rdfs:label "Squat Jar with Lug Handles"@en .
+
+wd:Q60779664 a wd:Q987767 ;
+    rdfs:label "Box (Pyxis) in the Form of a Composite Capital"@en .
+
+wd:Q610417 a wd:Q987767 ;
+    rdfs:label "Q610417"^^xsd:string .
+
+wd:Q6116228 a wd:Q42889 ;
+    rdfs:label "SMX"@en .
+
+wd:Q61610457 a wd:Q987767 ;
+    rdfs:label "Q61610457"^^xsd:string .
+
+wd:Q61744394 a wd:Q987767 ;
+    rdfs:label "Q61744394"^^xsd:string .
+
+wd:Q62018876 rdfs:label "Q62018876"^^xsd:string ;
+    rdfs:subClassOf wd:Q62018791 .
+
+wd:Q62117848 a wd:Q987767 ;
+    rdfs:label "Q62117848"^^xsd:string .
+
+wd:Q62117864 a wd:Q987767 ;
+    rdfs:label "Q62117864"^^xsd:string .
+
+wd:Q62117869 a wd:Q987767 ;
+    rdfs:label "Q62117869"^^xsd:string .
+
+wd:Q62469932 a wd:Q987767 ;
+    rdfs:label "Q62469932"^^xsd:string .
+
+wd:Q62592928 a wd:Q987767 ;
+    rdfs:label "milk pot"@en .
+
+wd:Q63118761 rdfs:label "Mitsubishi Engelberg Tourer"@en ;
+    rdfs:subClassOf wd:Q1483388 .
+
+wd:Q63165317 a wd:Q987767 ;
+    rdfs:label "Q63165317"^^xsd:string .
+
+wd:Q631892 rdfs:label "BYD F3DM"@en ;
+    rdfs:subClassOf wd:Q1483388 .
+
+wd:Q63256548 a wd:Q987767 ;
+    rdfs:label "painted wood container for food offerings-GEM 6831"@en .
+
+wd:Q63313540 a wd:Q987767 ;
+    rdfs:label "painted wood container for food offerings - GEM 4892"@en .
+
+wd:Q63313633 a wd:Q987767 ;
+    rdfs:label "painted wood container for food offerings - GEM 4902"@en .
+
+wd:Q63313716 a wd:Q987767 ;
+    rdfs:label "painted wood container for food offerings - GEM 4903"@en .
+
+wd:Q63437164 a wd:Q11019 ;
+    rdfs:label "Q63437164"^^xsd:string .
+
+wd:Q63871204 a wd:Q42889 ;
+    rdfs:label "ACMAT ALTV"@en .
+
+wd:Q644997 a wd:Q11019 ;
+    rdfs:label "water turbine"@en .
+
+wd:Q6498398 a wd:Q11019 ;
+    rdfs:label "mechanical fan"@en .
+
+wd:Q65028463 a wd:Q11083590 ;
+    rdfs:label "Lexus RX L"@en .
+
+wd:Q65033136 a wd:Q42889 ;
+    rdfs:label "Brinquedo - Veículo - Ambulância (Com Movimento?)"@en .
+
+wd:Q65038372 a wd:Q987767 ;
+    rdfs:label "Q65038372"^^xsd:string .
+
+wd:Q65252378 a wd:Q42889 ;
+    rdfs:label "Bimbulance"@en .
+
+wd:Q65395237 a wd:Q42889 ;
+    rdfs:label "Starhopper"@en .
+
+wd:Q6550314 a wd:Q1483388 ;
+    rdfs:label "LincVolt"@en .
+
+wd:Q660273 a wd:Q11083590 ;
+    rdfs:label "Lexus RX"@en .
+
+wd:Q66311587 a wd:Q13629441 ;
+    rdfs:label "Tesla Cybertruck"@en .
+
+wd:Q664571 a wd:Q11019 ;
+    rdfs:label "fuse"@en .
+
+wd:Q665471 rdfs:label "SBB-CFF-FFS Eem 923"@en ;
+    rdfs:subClassOf wd:Q232962 .
+
+wd:Q6670814 a wd:Q42889 ;
+    rdfs:label "London Steam Carriage"@en .
+
+wd:Q66741578 a wd:Q11019 ;
+    rdfs:label "plowshare (US) or ploughshare (UK)"@en .
+
+wd:Q670213 rdfs:label "Rhaetian Railway Gem 4/4"@en ;
+    rdfs:subClassOf wd:Q232962 .
+
+wd:Q67130827 a wd:Q987767 ;
+    rdfs:label "Q67130827"^^xsd:string .
+
+wd:Q67204201 a wd:Q987767 ;
+    rdfs:label "Containment system for spills"@en .
+
+wd:Q67324338 a wd:Q987767 ;
+    rdfs:label "Q67324338"^^xsd:string .
+
+wd:Q6818581 a wd:Q11019 ;
+    rdfs:label "Mercury"@en .
+
+wd:Q68393471 a wd:Q42889 ;
+    rdfs:label "Main Street Horseless Carriage"@en .
+
+wd:Q68461147 a wd:Q987767 ;
+    rdfs:label "Street Orderly Bin"@en .
+
+wd:Q68593575 a wd:Q42889 ;
+    rdfs:label "Disneyland Omnibus"@en .
+
+wd:Q6918178 a wd:Q42889 ;
+    rdfs:label "Motor bus"@en .
+
+wd:Q70329355 a wd:Q42889 ;
+    rdfs:label "Q70329355"^^xsd:string .
+
+wd:Q72170228 a wd:Q11019 ;
+    rdfs:label "Q72170228"^^xsd:string .
+
+wd:Q72170229 a wd:Q11019 ;
+    rdfs:label "Q72170229"^^xsd:string .
+
+wd:Q72170234 a wd:Q11019 ;
+    rdfs:label "Q72170234"^^xsd:string .
+
+wd:Q72170235 a wd:Q11019 ;
+    rdfs:label "Q72170235"^^xsd:string .
+
+wd:Q72170239 a wd:Q11019 ;
+    rdfs:label "Q72170239"^^xsd:string .
+
+wd:Q72170242 a wd:Q11019 ;
+    rdfs:label "Q72170242"^^xsd:string .
+
+wd:Q72313 a wd:Q11019 ;
+    rdfs:label "electric motor"@en .
+
+wd:Q7236656 a wd:Q11019 ;
+    rdfs:label "power trowel"@en .
+
+wd:Q7268183 a wd:Q42889 ;
+    rdfs:label "Qpod"@en .
+
+wd:Q72810516 a wd:Q987767 ;
+    rdfs:label "Museum of natural history Toulouse MHNT ETH.AC.SL.20"@en .
+
+wd:Q7302859 a wd:Q11019 ;
+    rdfs:label "record press"@en .
+
+wd:Q732286 a wd:Q987767 ;
+    rdfs:label "askos"@en .
+
+wd:Q75257036 a wd:Q987767 ;
+    rdfs:label "Q75257036"^^xsd:string .
+
+wd:Q7565523 rdfs:label "South African Class 38-000"@en ;
+    rdfs:subClassOf wd:Q232962 .
+
+wd:Q76392118 a wd:Q987767 ;
+    rdfs:label "Muff box"@en .
+
+wd:Q7830856 a wd:Q11083590 ;
+    rdfs:label "Toyota Prius (XW10)"@en .
+
+wd:Q7830857 a wd:Q11083590 ;
+    rdfs:label "Toyota Prius (XW20)"@en .
+
+wd:Q7830860 rdfs:label "Toyota Prius Plug-in Hybrid"@en ;
+    rdfs:subClassOf wd:Q11083590 .
+
+wd:Q79473723 a wd:Q987767 ;
+    rdfs:label "Long-Necked Flask with Strap Handle"@en .
+
+wd:Q79473806 a wd:Q987767 ;
+    rdfs:label "Jug or Pitcher"@en .
+
+wd:Q79473810 a wd:Q987767 ;
+    rdfs:label "Cylindrical Bowl or Jar"@en .
+
+wd:Q79473813 a wd:Q987767 ;
+    rdfs:label "Deep Bowl"@en .
+
+wd:Q79473911 a wd:Q987767 ;
+    rdfs:label "Decorated Bowl"@en .
+
+wd:Q79473916 a wd:Q987767 ;
+    rdfs:label "Jar with Tall Neck"@en .
+
+wd:Q79473918 a wd:Q987767 ;
+    rdfs:label "Situla"@en .
+
+wd:Q79473923 a wd:Q987767 ;
+    rdfs:label "Pomegranate Vase"@en .
+
+wd:Q79473926 a wd:Q987767 ;
+    rdfs:label "Marsh Bowl Fragment"@en .
+
+wd:Q79473929 a wd:Q987767 ;
+    rdfs:label "Marsh Bowl"@en .
+
+wd:Q79473940 a wd:Q987767 ;
+    rdfs:label "Long-Necked Flask with Strap Handle and Lid"@en .
+
+wd:Q79473943 a wd:Q987767 ;
+    rdfs:label "Long-Necked Flask with Strap Handle and Lid"@en .
+
+wd:Q79473945 a wd:Q987767 ;
+    rdfs:label "Long-Necked Flask with Strap Handle and Lid (Lid)"@en .
+
+wd:Q79473947 a wd:Q987767 ;
+    rdfs:label "Long-Necked Flask with Lid"@en .
+
+wd:Q79473949 a wd:Q987767 ;
+    rdfs:label "Long-Necked Flask with Lid"@en .
+
+wd:Q79473953 a wd:Q987767 ;
+    rdfs:label "Long-Necked Flask with Lid (Lid)"@en .
+
+wd:Q79473955 a wd:Q987767 ;
+    rdfs:label "Collared Jar"@en .
+
+wd:Q79473958 a wd:Q987767 ;
+    rdfs:label "Alabastron"@en .
+
+wd:Q79473961 a wd:Q987767 ;
+    rdfs:label "Tall Jar with Rope Patterns"@en .
+
+wd:Q79473964 a wd:Q987767 ;
+    rdfs:label "Ribbed Bowl (Tazza)"@en .
+
+wd:Q79473986 a wd:Q987767 ;
+    rdfs:label "Cosmetic Vessel"@en .
+
+wd:Q79473989 a wd:Q987767 ;
+    rdfs:label "Squat Dummy Jar with Lug Handles"@en .
+
+wd:Q79473992 a wd:Q987767 ;
+    rdfs:label "Hathor Jar"@en .
+
+wd:Q79474034 a wd:Q987767 ;
+    rdfs:label "Dish"@en .
+
+wd:Q79474039 a wd:Q987767 ;
+    rdfs:label "Squat Dummy Jar with Lug Handles"@en .
+
+wd:Q79474045 a wd:Q987767 ;
+    rdfs:label "Offering Table"@en .
+
+wd:Q79474138 a wd:Q987767 ;
+    rdfs:label "Magic Bottle"@en .
+
+wd:Q79474994 a wd:Q987767 ;
+    rdfs:label "Long-Necked Flask (Krateriskos)"@en .
+
+wd:Q79474997 a wd:Q987767 ;
+    rdfs:label "Cosmetic Vessel (Cylinder Beaker)"@en .
+
+wd:Q79475000 a wd:Q987767 ;
+    rdfs:label "Dish in the Form of a Shell"@en .
+
+wd:Q79475155 a wd:Q987767 ;
+    rdfs:label "Kohl Jar with Lid"@en .
+
+wd:Q79475160 a wd:Q987767 ;
+    rdfs:label "Kohl Jar with Lid"@en .
+
+wd:Q79475164 a wd:Q987767 ;
+    rdfs:label "Kohl Jar with Lid (lid)"@en .
+
+wd:Q79475706 a wd:Q987767 ;
+    rdfs:label "Drinking Cup"@en .
+
+wd:Q79475799 a wd:Q987767 ;
+    rdfs:label "Spouted Jar"@en .
+
+wd:Q79476072 a wd:Q987767 ;
+    rdfs:label "Water Jar (Globular Jar)"@en .
+
+wd:Q79476290 a wd:Q987767 ;
+    rdfs:label "Bowl"@en .
+
+wd:Q79479186 a wd:Q987767 ;
+    rdfs:label "Shallow Dish"@en .
+
+wd:Q79479192 a wd:Q987767 ;
+    rdfs:label "Bowl"@en .
+
+wd:Q79479264 a wd:Q987767 ;
+    rdfs:label "Bowl"@en .
+
+wd:Q79496567 a wd:Q987767 ;
+    rdfs:label "Wavy-Handled Jar"@en .
+
+wd:Q79496575 a wd:Q987767 ;
+    rdfs:label "Storage Jar"@en .
+
+wd:Q79496582 a wd:Q987767 ;
+    rdfs:label "Decorated Jar with Rope Pattern"@en .
+
+wd:Q79496586 a wd:Q987767 ;
+    rdfs:label "Squat Jar with Lug Handles"@en .
+
+wd:Q79496611 a wd:Q987767 ;
+    rdfs:label "Barbotine Vase"@en .
+
+wd:Q79496614 a wd:Q987767 ;
+    rdfs:label "Decorated Amphora with Ibex Head"@en .
+
+wd:Q79496630 a wd:Q987767 ;
+    rdfs:label "Black-Topped Bowl"@en .
+
+wd:Q79498845 a wd:Q987767 ;
+    rdfs:label "shaving stand"@en .
+
+wd:Q797134 rdfs:label "BVG 5050 and 5051"@en ;
+    rdfs:subClassOf wd:Q232962 .
+
+wd:Q79939395 a wd:Q987767 ;
+    rdfs:label "Bes Lamp"@en .
+
+wd:Q79941195 a wd:Q987767 ;
+    rdfs:label "Bull's-head Lamp"@en .
+
+wd:Q79979146 a wd:Q987767 ;
+    rdfs:label "Cup"@en .
+
+wd:Q79982514 a wd:Q987767 ;
+    rdfs:label "Carved Bowl"@en .
+
+wd:Q79982546 a wd:Q987767 ;
+    rdfs:label "Carved Bowl"@en .
+
+wd:Q80005871 a wd:Q987767 ;
+    rdfs:label "Blue-Painted Jar"@en .
+
+wd:Q80005959 a wd:Q987767 ;
+    rdfs:label "Fragment"@en .
+
+wd:Q80251843 a wd:Q987767 ;
+    rdfs:label "Paccha"@en .
+
+wd:Q8041683 a wd:Q42889 ;
+    rdfs:label "XAV"@en .
+
+wd:Q81754026 a wd:Q987767 ;
+    rdfs:label "Q81754026"^^xsd:string .
+
+wd:Q81771704 a wd:Q11019 ;
+    rdfs:label "Q81771704"^^xsd:string .
+
+wd:Q8239473 a wd:Q987767 ;
+    rdfs:label "Q8239473"^^xsd:string .
+
+wd:Q83230110 a wd:Q42889 ;
+    rdfs:label "Q83230110"^^xsd:string .
+
+wd:Q83562034 a wd:Q987767 ;
+    rdfs:label "Vessel in the form of an Elephant with Rider"@en .
+
+wd:Q83562052 a wd:Q987767 ;
+    rdfs:label "Container with Spiral Decoration"@en .
+
+wd:Q83562194 a wd:Q987767 ;
+    rdfs:label "새 모양 토기 삼국 (삼한시대)|鳥形土器 三國 (三韓時代)|Bird-shaped vessel"@en .
+
+wd:Q83562200 a wd:Q987767 ;
+    rdfs:label "把手附盞   三國|Double-handled vessel"@en .
+
+wd:Q83562220 a wd:Q987767 ;
+    rdfs:label "円筒形深鉢土器|Deep Vessel"@en .
+
+wd:Q83562512 a wd:Q987767 ;
+    rdfs:label "Vessel (zun)"@en .
+
+wd:Q83562568 a wd:Q987767 ;
+    rdfs:label "Vessel in the Form of a Horn"@en .
+
+wd:Q83705926 a wd:Q11019 ;
+    rdfs:label "Q83705926"^^xsd:string .
+
+wd:Q838833 a wd:Q11083590 ;
+    rdfs:label "Lexus IS"@en .
+
+wd:Q8449254 a wd:Q42889 ;
+    rdfs:label "alternative fuel vehicle"@en .
+
+wd:Q850905 a wd:Q987767 ;
+    rdfs:label "Copper Age wagon, Budakalász"@en .
+
+wd:Q85742642 a wd:Q987767 ;
+    rdfs:label "Archa"@en .
+
+wd:Q882419 a wd:Q11019 ;
+    rdfs:label "berry-picking rake"@en .
+
+wd:Q894671 a wd:Q987767 ;
+    rdfs:label "Vasculum"@en .
+
+wd:Q8962103 a wd:Q11019 ;
+    rdfs:label "Q8962103"^^xsd:string .
+
+wd:Q9009009 a wd:Q11019 ;
+    rdfs:label "Q9009009"^^xsd:string .
+
+wd:Q9137373 a wd:Q42889 ;
+    rdfs:label "ARE"@en .
+
+wd:Q9150184 a wd:Q987767 ;
+    rdfs:label "Q9150184"^^xsd:string .
+
+wd:Q9182548 a wd:Q42889 ;
+    rdfs:label "Bxhpi"@en .
+
+wd:Q936754 a wd:Q42889 ;
+    rdfs:label "Kago"@en .
+
+wd:Q937106 a wd:Q987767 ;
+    rdfs:label "Snuffboxes"@en .
+
+wd:Q9371516 a wd:Q42889 ;
+    rdfs:label "Wasąg"@en .
+
+wd:Q17019872 rdfs:label "Stadler Euro Dual"@en ;
+    rdfs:subClassOf wd:Q232962 .
+
+wd:Q62018791 rdfs:label "CAF Bitrac"@en ;
+    rdfs:subClassOf wd:Q232962 .
+
+wd:Q3245975 rdfs:label "finished good"@en .
+
+wd:Q1483388 rdfs:label "plug-in hybrid"@en ;
+    rdfs:subClassOf wd:Q11083590 .
+
+wd:Q193075 rdfs:label "hybrid vehicle"@en ;
+    rdfs:subClassOf wd:Q42889 .
+
+wd:Q13629441 rdfs:label "electric vehicle"@en ;
+    rdfs:subClassOf wd:Q42889 .
+
+wd:Q11083590 rdfs:label "hybrid electric vehicle"@en ;
+    rdfs:subClassOf wd:Q13629441,
+        wd:Q193075 .
+
+wd:Q232962 rdfs:label "electro–diesel locomotive"@en ;
+    rdfs:subClassOf wd:Q11083590 .
+
+wd:Q11019 rdfs:label "machine"@en .
+
+wd:Q42889 rdfs:label "vehicle"@en ;
+    rdfs:subClassOf wd:Q11019,
+        wd:Q3245975,
+        wd:Q987767 .
+
+wd:Q987767 rdfs:label "container"@en .
+

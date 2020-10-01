@@ -1,0 +1,1643 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q10570905 a wd:Q1183543 ;
+    rdfs:label "Q10570905"^^xsd:string .
+
+wd:Q10851588 a wd:Q1183543 ;
+    rdfs:label "MYO"@en .
+
+wd:Q1096951 a wd:Q1183543 ;
+    rdfs:label "Q1096951"^^xsd:string .
+
+wd:Q1109118 a wd:Q1183543 ;
+    rdfs:label "light table"@en .
+
+wd:Q11195825 a wd:Q1183543 ;
+    rdfs:label "DICS"@en .
+
+wd:Q11196461 a wd:Q1183543 ;
+    rdfs:label "DVNR"@en .
+
+wd:Q11198664 a wd:Q1183543 ;
+    rdfs:label "F-06C"@en .
+
+wd:Q11198804 a wd:Q1183543 ;
+    rdfs:label "F700i"@en .
+
+wd:Q11223961 a wd:Q1183543 ;
+    rdfs:label "IHCC"@en .
+
+wd:Q11228021 a wd:Q1183543 ;
+    rdfs:label "KMX"@en .
+
+wd:Q11228711 a wd:Q1183543 ;
+    rdfs:label "L-05A"@en .
+
+wd:Q11228715 a wd:Q1183543 ;
+    rdfs:label "L-08C"@en .
+
+wd:Q11229867 a wd:Q1183543 ;
+    rdfs:label "Lavca"@en .
+
+wd:Q11237242 a wd:Q1183543 ;
+    rdfs:label "Q11237242"^^xsd:string .
+
+wd:Q11684024 a wd:Q1183543 ;
+    rdfs:label "ARES"@en .
+
+wd:Q11691356 a wd:Q1183543 ;
+    rdfs:label "Combo"@en .
+
+wd:Q11734959 a wd:Q1183543 ;
+    rdfs:label "Kanka"@en .
+
+wd:Q11775002 a wd:Q1183543 ;
+    rdfs:label "Longe"@en .
+
+wd:Q11783638 a wd:Q1183543 ;
+    rdfs:label "Miurg"@en .
+
+wd:Q11801725 a wd:Q1183543 ;
+    rdfs:label "P-50"@en .
+
+wd:Q1193170 a wd:Q1183543 ;
+    rdfs:label "headset"@en .
+
+wd:Q1196338 a wd:Q1183543 ;
+    rdfs:label "ard"@en .
+
+wd:Q11968972 a wd:Q1183543 ;
+    rdfs:label "Q11968972"^^xsd:string .
+
+wd:Q12042802 a wd:Q1183543 ;
+    rdfs:label "Oplen"@en .
+
+wd:Q12049073 a wd:Q1183543 ;
+    rdfs:label "steam regenerator"@en .
+
+wd:Q1227060 a wd:Q1751850 ;
+    rdfs:label "Dioptra"@en .
+
+wd:Q12366010 a wd:Q1183543 ;
+    rdfs:label "Q12366010"^^xsd:string .
+
+wd:Q12377753 a wd:Q1183543 ;
+    rdfs:label "Und"@en .
+
+wd:Q1251293 a wd:Q1183543 ;
+    rdfs:label "Dotwin"@en .
+
+wd:Q12637933 a wd:Q1751850 ;
+    rdfs:label "NVG"@en .
+
+wd:Q12715715 a wd:Q1183543 ;
+    rdfs:label "Ice drill machine"@en .
+
+wd:Q1275051 a wd:Q1183543 ;
+    rdfs:label "Q1275051"^^xsd:string .
+
+wd:Q12818908 a wd:Q1183543 ;
+    rdfs:label "Q12818908"^^xsd:string .
+
+wd:Q12820683 a wd:Q1183543 ;
+    rdfs:label "Burov"@en .
+
+wd:Q12820976 a wd:Q1183543 ;
+    rdfs:label "Dam"@en .
+
+wd:Q13092493 a wd:Q1183543 ;
+    rdfs:label "Copok"@en .
+
+wd:Q13093062 a wd:Q1183543 ;
+    rdfs:label "Garu"@en .
+
+wd:Q13094332 a wd:Q1183543 ;
+    rdfs:label "Fan"@en .
+
+wd:Q1320847 a wd:Q1183543 ;
+    rdfs:label "foghorn"@en .
+
+wd:Q1335143 a wd:Q1183543 ;
+    rdfs:label "Valve gear"@en .
+
+wd:Q13582654 a wd:Q3099911 ;
+    rdfs:label "Neutron Star Interior Composition Explorer"@en .
+
+wd:Q1372565 a wd:Q1183543 ;
+    rdfs:label "Heavy ion accelerator"@en .
+
+wd:Q1401457 a wd:Q1183543 ;
+    rdfs:label "V beam"@en .
+
+wd:Q140690 a wd:Q1183543 ;
+    rdfs:label "Addiator"@en .
+
+wd:Q140944 a wd:Q1183543 ;
+    rdfs:label "Samsung Galaxy S III"@en .
+
+wd:Q1409700 a wd:Q1183543 ;
+    rdfs:label "Historical fire engines"@en .
+
+wd:Q1435355 a wd:Q1183543 ;
+    rdfs:label "siren"@en .
+
+wd:Q1457473 a wd:Q1183543 ;
+    rdfs:label "oral irrigator"@en .
+
+wd:Q1463565 a wd:Q1183543 ;
+    rdfs:label "cash"@en .
+
+wd:Q1476837 a wd:Q1183543 ;
+    rdfs:label "gas generator"@en .
+
+wd:Q14906073 a wd:Q1751850 ;
+    rdfs:label "Q14906073"^^xsd:string .
+
+wd:Q1502320 a wd:Q1183543 ;
+    rdfs:label "Gene gun"@en .
+
+wd:Q1512054 a wd:Q1183543 ;
+    rdfs:label "acoustic horn"@en .
+
+wd:Q152596 a wd:Q1183543 ;
+    rdfs:label "pacifier"@en .
+
+wd:Q1542899 a wd:Q1183543 ;
+    rdfs:label "sandbox"@en .
+
+wd:Q15835422 a wd:Q3099911 ;
+    rdfs:label "Mobile Asteroid Surface Scout"@en .
+
+wd:Q1584192 a wd:Q1751850 ;
+    rdfs:label "haploscope"@en .
+
+wd:Q15852805 a wd:Q1183543 ;
+    rdfs:label "Bowl feeder"@en .
+
+wd:Q159391 a wd:Q1183543 ;
+    rdfs:label "radio receiver"@en .
+
+wd:Q1597265 a wd:Q1183543 ;
+    rdfs:label "Q1597265"^^xsd:string .
+
+wd:Q16666157 a wd:Q1183543 ;
+    rdfs:label "Q16666157"^^xsd:string .
+
+wd:Q1668448 a wd:Q1183543 ;
+    rdfs:label "spinal cord stimulator"@en .
+
+wd:Q1687894 a wd:Q1183543 ;
+    rdfs:label "grease fitting"@en .
+
+wd:Q16938336 a wd:Q3099911 ;
+    rdfs:label "Mooney viscometer"@en .
+
+wd:Q16999717 a wd:Q3099911 ;
+    rdfs:label "Infrared interferometer spectrometer and radiometer"@en .
+
+wd:Q17006945 a wd:Q3099911 ;
+    rdfs:label "Global-scale Observations of the Limb and Disk"@en .
+
+wd:Q1703279 a wd:Q1183543 ;
+    rdfs:label "Stromuhr"@en .
+
+wd:Q17143726 a wd:Q3099911 ;
+    rdfs:label "Odin-OSIRIS"@en .
+
+wd:Q17231034 a wd:Q3099911 ;
+    rdfs:label "MINERVA (spacecraft)"@en .
+
+wd:Q1744311 a wd:Q1183543 ;
+    rdfs:label "On-Board-Unit"@en .
+
+wd:Q17599426 a wd:Q1183543 ;
+    rdfs:label "Pencil extender"@en .
+
+wd:Q18011269 a wd:Q1183543 ;
+    rdfs:label "Q18011269"^^xsd:string .
+
+wd:Q1807473 a wd:Q1183543 ;
+    rdfs:label "crane trolley"@en .
+
+wd:Q1816096 a wd:Q1183543 ;
+    rdfs:label "mechanical lathe"@en .
+
+wd:Q18192457 a wd:Q1751850 ;
+    rdfs:label "VISOR"@en .
+
+wd:Q183122 a wd:Q1751850 ;
+    rdfs:label "periscope"@en .
+
+wd:Q18379183 a wd:Q1183543 ;
+    rdfs:label "NanoRacks CubeSat Deployer"@en .
+
+wd:Q190883 a wd:Q1183543 ;
+    rdfs:label "Zentrierhilfe"@en .
+
+wd:Q1930110 a wd:Q1183543 ;
+    rdfs:label "Spectroheliograph"@en .
+
+wd:Q19596427 a wd:Q3099911 ;
+    rdfs:label "Cold Atom Laboratory"@en .
+
+wd:Q199333 a wd:Q1183543 ;
+    rdfs:label "Rolling machine"@en .
+
+wd:Q2032544 a wd:Q1183543 ;
+    rdfs:label "expansion slot"@en .
+
+wd:Q2036607 a wd:Q1183543 ;
+    rdfs:label "Oscillograph"@en .
+
+wd:Q2043697 a wd:Q1183543 ;
+    rdfs:label "PAR-80"@en .
+
+wd:Q20819649 a wd:Q20819639 ;
+    rdfs:label "RIEGL LMS-Q680i"@en .
+
+wd:Q20888289 a wd:Q1183543 ;
+    rdfs:label "Westerland tide meter"@en .
+
+wd:Q2094183 a wd:Q1183543 ;
+    rdfs:label "Q2094183"^^xsd:string .
+
+wd:Q2100341 a wd:Q1751850 ;
+    rdfs:label "Q2100341"^^xsd:string .
+
+wd:Q21027959 a wd:Q3099911 ;
+    rdfs:label "Visual Monitoring Camera"@en .
+
+wd:Q2105063 a wd:Q1183543 ;
+    rdfs:label "Q2105063"^^xsd:string .
+
+wd:Q2130082 a wd:Q1183543 ;
+    rdfs:label "Bookwheel"@en .
+
+wd:Q2141986 a wd:Q1183543 ;
+    rdfs:label "immersion heater"@en .
+
+wd:Q2243178 a wd:Q1183543 ;
+    rdfs:label "digital center"@en .
+
+wd:Q23012346 a wd:Q3099911 ;
+    rdfs:label "Dark Energy Spectroscopic Instrument"@en .
+
+wd:Q2324510 a wd:Q3099911 ;
+    rdfs:label "Large electrostatic generator"@en .
+
+wd:Q2408918 a wd:Q1183543 ;
+    rdfs:label "rapid sand filter"@en .
+
+wd:Q24284745 a wd:Q3099911 ;
+    rdfs:label "DU spectrophotometer"@en .
+
+wd:Q2429490 a wd:Q1751850 ;
+    rdfs:label "opera glasses"@en .
+
+wd:Q248256 a wd:Q1183543 ;
+    rdfs:label "Blasting machine"@en .
+
+wd:Q24876220 a wd:Q2920313 ;
+    rdfs:label "Triplet lens"@en .
+
+wd:Q2549717 a wd:Q1183543 ;
+    rdfs:label "Q2549717"^^xsd:string .
+
+wd:Q2553725 a wd:Q1751850 ;
+    rdfs:label "Interchangeable"@en .
+
+wd:Q26267222 a wd:Q1183543 ;
+    rdfs:label "Archer Fork with clamping screw for fuse in the shape of a dragon's head"@en .
+
+wd:Q2636973 a wd:Q1183543 ;
+    rdfs:label "Q2636973"^^xsd:string .
+
+wd:Q2659787 a wd:Q1183543 ;
+    rdfs:label "Motion detector"@en .
+
+wd:Q275924 a wd:Q1183543 ;
+    rdfs:label "The Turk"@en .
+
+wd:Q27868004 a wd:Q1183543 ;
+    rdfs:label "Janssen revolver"@en .
+
+wd:Q27940511 a wd:Q3099911 ;
+    rdfs:label "Radar Altimeter 2"@en .
+
+wd:Q27940516 a wd:Q3099911 ;
+    rdfs:label "Laser Retro-Reflector"@en .
+
+wd:Q2845593 a wd:Q1183543 ;
+    rdfs:label "globe valve"@en .
+
+wd:Q286649 a wd:Q1183543 ;
+    rdfs:label "Aquarius"@en .
+
+wd:Q29121132 a wd:Q3099911 ;
+    rdfs:label "Q29121132"^^xsd:string .
+
+wd:Q29158106 a wd:Q3099911 ;
+    rdfs:label "Q29158106"^^xsd:string .
+
+wd:Q29158107 a wd:Q3099911 ;
+    rdfs:label "Q29158107"^^xsd:string .
+
+wd:Q29158108 a wd:Q3099911 ;
+    rdfs:label "Q29158108"^^xsd:string .
+
+wd:Q29158109 a wd:Q3099911 ;
+    rdfs:label "Q29158109"^^xsd:string .
+
+wd:Q29158110 a wd:Q3099911 ;
+    rdfs:label "Q29158110"^^xsd:string .
+
+wd:Q29158111 a wd:Q3099911 ;
+    rdfs:label "Q29158111"^^xsd:string .
+
+wd:Q29158112 a wd:Q3099911 ;
+    rdfs:label "Q29158112"^^xsd:string .
+
+wd:Q29158113 a wd:Q3099911 ;
+    rdfs:label "Q29158113"^^xsd:string .
+
+wd:Q29158115 a wd:Q3099911 ;
+    rdfs:label "Q29158115"^^xsd:string .
+
+wd:Q29158117 a wd:Q3099911 ;
+    rdfs:label "Q29158117"^^xsd:string .
+
+wd:Q29158118 a wd:Q3099911 ;
+    rdfs:label "Q29158118"^^xsd:string .
+
+wd:Q29158120 a wd:Q3099911 ;
+    rdfs:label "Q29158120"^^xsd:string .
+
+wd:Q29158121 a wd:Q3099911 ;
+    rdfs:label "Q29158121"^^xsd:string .
+
+wd:Q29158122 a wd:Q3099911 ;
+    rdfs:label "Q29158122"^^xsd:string .
+
+wd:Q29158123 a wd:Q3099911 ;
+    rdfs:label "Q29158123"^^xsd:string .
+
+wd:Q29158124 a wd:Q3099911 ;
+    rdfs:label "Q29158124"^^xsd:string .
+
+wd:Q29158125 a wd:Q3099911 ;
+    rdfs:label "Q29158125"^^xsd:string .
+
+wd:Q29158126 a wd:Q3099911 ;
+    rdfs:label "Q29158126"^^xsd:string .
+
+wd:Q29158127 a wd:Q3099911 ;
+    rdfs:label "Q29158127"^^xsd:string .
+
+wd:Q29158128 a wd:Q3099911 ;
+    rdfs:label "Q29158128"^^xsd:string .
+
+wd:Q29158129 a wd:Q3099911 ;
+    rdfs:label "Q29158129"^^xsd:string .
+
+wd:Q29158130 a wd:Q3099911 ;
+    rdfs:label "Q29158130"^^xsd:string .
+
+wd:Q29158131 a wd:Q3099911 ;
+    rdfs:label "Q29158131"^^xsd:string .
+
+wd:Q29158132 a wd:Q3099911 ;
+    rdfs:label "Q29158132"^^xsd:string .
+
+wd:Q29158133 a wd:Q3099911 ;
+    rdfs:label "Q29158133"^^xsd:string .
+
+wd:Q29158134 a wd:Q3099911 ;
+    rdfs:label "Q29158134"^^xsd:string .
+
+wd:Q29158135 a wd:Q3099911 ;
+    rdfs:label "Q29158135"^^xsd:string .
+
+wd:Q29158136 a wd:Q3099911 ;
+    rdfs:label "Q29158136"^^xsd:string .
+
+wd:Q29158137 a wd:Q3099911 ;
+    rdfs:label "Q29158137"^^xsd:string .
+
+wd:Q29158138 a wd:Q3099911 ;
+    rdfs:label "Q29158138"^^xsd:string .
+
+wd:Q29158139 a wd:Q3099911 ;
+    rdfs:label "Q29158139"^^xsd:string .
+
+wd:Q29158140 a wd:Q3099911 ;
+    rdfs:label "Q29158140"^^xsd:string .
+
+wd:Q29158141 a wd:Q3099911 ;
+    rdfs:label "Q29158141"^^xsd:string .
+
+wd:Q29158142 a wd:Q3099911 ;
+    rdfs:label "Q29158142"^^xsd:string .
+
+wd:Q29158143 a wd:Q3099911 ;
+    rdfs:label "Q29158143"^^xsd:string .
+
+wd:Q29158144 a wd:Q3099911 ;
+    rdfs:label "Q29158144"^^xsd:string .
+
+wd:Q29158145 a wd:Q3099911 ;
+    rdfs:label "Q29158145"^^xsd:string .
+
+wd:Q29158146 a wd:Q3099911 ;
+    rdfs:label "Q29158146"^^xsd:string .
+
+wd:Q29158147 a wd:Q3099911 ;
+    rdfs:label "Q29158147"^^xsd:string .
+
+wd:Q29158148 a wd:Q3099911 ;
+    rdfs:label "Q29158148"^^xsd:string .
+
+wd:Q29158149 a wd:Q3099911 ;
+    rdfs:label "Q29158149"^^xsd:string .
+
+wd:Q29158150 a wd:Q3099911 ;
+    rdfs:label "Q29158150"^^xsd:string .
+
+wd:Q29158152 a wd:Q3099911 ;
+    rdfs:label "Q29158152"^^xsd:string .
+
+wd:Q29158153 a wd:Q3099911 ;
+    rdfs:label "Q29158153"^^xsd:string .
+
+wd:Q29158154 a wd:Q3099911 ;
+    rdfs:label "Q29158154"^^xsd:string .
+
+wd:Q29158155 a wd:Q3099911 ;
+    rdfs:label "Q29158155"^^xsd:string .
+
+wd:Q29158156 a wd:Q3099911 ;
+    rdfs:label "Q29158156"^^xsd:string .
+
+wd:Q29158157 a wd:Q3099911 ;
+    rdfs:label "Q29158157"^^xsd:string .
+
+wd:Q29158158 a wd:Q3099911 ;
+    rdfs:label "Q29158158"^^xsd:string .
+
+wd:Q29158159 a wd:Q3099911 ;
+    rdfs:label "Q29158159"^^xsd:string .
+
+wd:Q29158160 a wd:Q3099911 ;
+    rdfs:label "Q29158160"^^xsd:string .
+
+wd:Q29158161 a wd:Q3099911 ;
+    rdfs:label "Q29158161"^^xsd:string .
+
+wd:Q29158162 a wd:Q3099911 ;
+    rdfs:label "Q29158162"^^xsd:string .
+
+wd:Q29158163 a wd:Q3099911 ;
+    rdfs:label "Q29158163"^^xsd:string .
+
+wd:Q29158164 a wd:Q3099911 ;
+    rdfs:label "Q29158164"^^xsd:string .
+
+wd:Q29158165 a wd:Q3099911 ;
+    rdfs:label "Q29158165"^^xsd:string .
+
+wd:Q29158166 a wd:Q3099911 ;
+    rdfs:label "Q29158166"^^xsd:string .
+
+wd:Q29158167 a wd:Q3099911 ;
+    rdfs:label "Q29158167"^^xsd:string .
+
+wd:Q29158168 a wd:Q3099911 ;
+    rdfs:label "Q29158168"^^xsd:string .
+
+wd:Q29158169 a wd:Q3099911 ;
+    rdfs:label "Q29158169"^^xsd:string .
+
+wd:Q29158170 a wd:Q3099911 ;
+    rdfs:label "Q29158170"^^xsd:string .
+
+wd:Q29158171 a wd:Q3099911 ;
+    rdfs:label "Q29158171"^^xsd:string .
+
+wd:Q29158172 a wd:Q3099911 ;
+    rdfs:label "Q29158172"^^xsd:string .
+
+wd:Q29158173 a wd:Q3099911 ;
+    rdfs:label "Q29158173"^^xsd:string .
+
+wd:Q29158174 a wd:Q3099911 ;
+    rdfs:label "Q29158174"^^xsd:string .
+
+wd:Q29158175 a wd:Q3099911 ;
+    rdfs:label "Q29158175"^^xsd:string .
+
+wd:Q29158176 a wd:Q3099911 ;
+    rdfs:label "Q29158176"^^xsd:string .
+
+wd:Q29158177 a wd:Q3099911 ;
+    rdfs:label "Q29158177"^^xsd:string .
+
+wd:Q29158178 a wd:Q3099911 ;
+    rdfs:label "Q29158178"^^xsd:string .
+
+wd:Q29158179 a wd:Q3099911 ;
+    rdfs:label "Q29158179"^^xsd:string .
+
+wd:Q29158180 a wd:Q3099911 ;
+    rdfs:label "Q29158180"^^xsd:string .
+
+wd:Q29158181 a wd:Q3099911 ;
+    rdfs:label "Q29158181"^^xsd:string .
+
+wd:Q29158183 a wd:Q3099911 ;
+    rdfs:label "Q29158183"^^xsd:string .
+
+wd:Q29158184 a wd:Q3099911 ;
+    rdfs:label "Q29158184"^^xsd:string .
+
+wd:Q29158186 a wd:Q3099911 ;
+    rdfs:label "Q29158186"^^xsd:string .
+
+wd:Q29158187 a wd:Q3099911 ;
+    rdfs:label "Q29158187"^^xsd:string .
+
+wd:Q29158188 a wd:Q3099911 ;
+    rdfs:label "Q29158188"^^xsd:string .
+
+wd:Q29158189 a wd:Q3099911 ;
+    rdfs:label "Q29158189"^^xsd:string .
+
+wd:Q29158190 a wd:Q3099911 ;
+    rdfs:label "Q29158190"^^xsd:string .
+
+wd:Q29158191 a wd:Q3099911 ;
+    rdfs:label "Q29158191"^^xsd:string .
+
+wd:Q29158192 a wd:Q3099911 ;
+    rdfs:label "Q29158192"^^xsd:string .
+
+wd:Q29158193 a wd:Q3099911 ;
+    rdfs:label "Q29158193"^^xsd:string .
+
+wd:Q29158195 a wd:Q3099911 ;
+    rdfs:label "Q29158195"^^xsd:string .
+
+wd:Q29158196 a wd:Q3099911 ;
+    rdfs:label "Q29158196"^^xsd:string .
+
+wd:Q29158197 a wd:Q3099911 ;
+    rdfs:label "Q29158197"^^xsd:string .
+
+wd:Q29158198 a wd:Q3099911 ;
+    rdfs:label "Q29158198"^^xsd:string .
+
+wd:Q29158199 a wd:Q3099911 ;
+    rdfs:label "Q29158199"^^xsd:string .
+
+wd:Q29158201 a wd:Q3099911 ;
+    rdfs:label "Q29158201"^^xsd:string .
+
+wd:Q29158202 a wd:Q3099911 ;
+    rdfs:label "Q29158202"^^xsd:string .
+
+wd:Q29158203 a wd:Q3099911 ;
+    rdfs:label "Q29158203"^^xsd:string .
+
+wd:Q29158204 a wd:Q3099911 ;
+    rdfs:label "Q29158204"^^xsd:string .
+
+wd:Q29158205 a wd:Q3099911 ;
+    rdfs:label "Q29158205"^^xsd:string .
+
+wd:Q29158206 a wd:Q3099911 ;
+    rdfs:label "Q29158206"^^xsd:string .
+
+wd:Q29158207 a wd:Q3099911 ;
+    rdfs:label "Q29158207"^^xsd:string .
+
+wd:Q29158208 a wd:Q3099911 ;
+    rdfs:label "Q29158208"^^xsd:string .
+
+wd:Q29158209 a wd:Q3099911 ;
+    rdfs:label "Q29158209"^^xsd:string .
+
+wd:Q29158210 a wd:Q3099911 ;
+    rdfs:label "Q29158210"^^xsd:string .
+
+wd:Q29158212 a wd:Q3099911 ;
+    rdfs:label "Q29158212"^^xsd:string .
+
+wd:Q29158213 a wd:Q3099911 ;
+    rdfs:label "Q29158213"^^xsd:string .
+
+wd:Q29158214 a wd:Q3099911 ;
+    rdfs:label "Q29158214"^^xsd:string .
+
+wd:Q29158215 a wd:Q3099911 ;
+    rdfs:label "Q29158215"^^xsd:string .
+
+wd:Q29158216 a wd:Q3099911 ;
+    rdfs:label "Q29158216"^^xsd:string .
+
+wd:Q29158217 a wd:Q3099911 ;
+    rdfs:label "Q29158217"^^xsd:string .
+
+wd:Q29158218 a wd:Q3099911 ;
+    rdfs:label "Q29158218"^^xsd:string .
+
+wd:Q29158219 a wd:Q3099911 ;
+    rdfs:label "Q29158219"^^xsd:string .
+
+wd:Q29158220 a wd:Q3099911 ;
+    rdfs:label "Q29158220"^^xsd:string .
+
+wd:Q29158221 a wd:Q3099911 ;
+    rdfs:label "Q29158221"^^xsd:string .
+
+wd:Q29158222 a wd:Q3099911 ;
+    rdfs:label "Q29158222"^^xsd:string .
+
+wd:Q29158223 a wd:Q3099911 ;
+    rdfs:label "Q29158223"^^xsd:string .
+
+wd:Q29158224 a wd:Q3099911 ;
+    rdfs:label "Q29158224"^^xsd:string .
+
+wd:Q29158225 a wd:Q3099911 ;
+    rdfs:label "Q29158225"^^xsd:string .
+
+wd:Q29158226 a wd:Q3099911 ;
+    rdfs:label "Q29158226"^^xsd:string .
+
+wd:Q29158227 a wd:Q3099911 ;
+    rdfs:label "Q29158227"^^xsd:string .
+
+wd:Q29158228 a wd:Q3099911 ;
+    rdfs:label "Q29158228"^^xsd:string .
+
+wd:Q29158229 a wd:Q3099911 ;
+    rdfs:label "Q29158229"^^xsd:string .
+
+wd:Q29158231 a wd:Q3099911 ;
+    rdfs:label "Q29158231"^^xsd:string .
+
+wd:Q29158232 a wd:Q3099911 ;
+    rdfs:label "Q29158232"^^xsd:string .
+
+wd:Q29158233 a wd:Q3099911 ;
+    rdfs:label "Q29158233"^^xsd:string .
+
+wd:Q29158234 a wd:Q3099911 ;
+    rdfs:label "Q29158234"^^xsd:string .
+
+wd:Q29158235 a wd:Q3099911 ;
+    rdfs:label "Q29158235"^^xsd:string .
+
+wd:Q29158236 a wd:Q3099911 ;
+    rdfs:label "Q29158236"^^xsd:string .
+
+wd:Q29158237 a wd:Q3099911 ;
+    rdfs:label "Q29158237"^^xsd:string .
+
+wd:Q29158238 a wd:Q3099911 ;
+    rdfs:label "Q29158238"^^xsd:string .
+
+wd:Q29158239 a wd:Q3099911 ;
+    rdfs:label "Q29158239"^^xsd:string .
+
+wd:Q29158240 a wd:Q3099911 ;
+    rdfs:label "Q29158240"^^xsd:string .
+
+wd:Q29158241 a wd:Q3099911 ;
+    rdfs:label "Q29158241"^^xsd:string .
+
+wd:Q29158242 a wd:Q3099911 ;
+    rdfs:label "Q29158242"^^xsd:string .
+
+wd:Q29158243 a wd:Q3099911 ;
+    rdfs:label "Q29158243"^^xsd:string .
+
+wd:Q29158244 a wd:Q3099911 ;
+    rdfs:label "Q29158244"^^xsd:string .
+
+wd:Q29158245 a wd:Q3099911 ;
+    rdfs:label "Q29158245"^^xsd:string .
+
+wd:Q29158247 a wd:Q3099911 ;
+    rdfs:label "Q29158247"^^xsd:string .
+
+wd:Q29158248 a wd:Q3099911 ;
+    rdfs:label "Q29158248"^^xsd:string .
+
+wd:Q29158249 a wd:Q3099911 ;
+    rdfs:label "Q29158249"^^xsd:string .
+
+wd:Q29158250 a wd:Q3099911 ;
+    rdfs:label "Q29158250"^^xsd:string .
+
+wd:Q29158251 a wd:Q3099911 ;
+    rdfs:label "Q29158251"^^xsd:string .
+
+wd:Q29158252 a wd:Q3099911 ;
+    rdfs:label "Q29158252"^^xsd:string .
+
+wd:Q29158253 a wd:Q3099911 ;
+    rdfs:label "Q29158253"^^xsd:string .
+
+wd:Q29158254 a wd:Q3099911 ;
+    rdfs:label "Q29158254"^^xsd:string .
+
+wd:Q29158255 a wd:Q3099911 ;
+    rdfs:label "Q29158255"^^xsd:string .
+
+wd:Q29158256 a wd:Q3099911 ;
+    rdfs:label "Q29158256"^^xsd:string .
+
+wd:Q29158257 a wd:Q3099911 ;
+    rdfs:label "Q29158257"^^xsd:string .
+
+wd:Q29158258 a wd:Q3099911 ;
+    rdfs:label "Q29158258"^^xsd:string .
+
+wd:Q29158259 a wd:Q3099911 ;
+    rdfs:label "Q29158259"^^xsd:string .
+
+wd:Q29158260 a wd:Q3099911 ;
+    rdfs:label "Q29158260"^^xsd:string .
+
+wd:Q29158261 a wd:Q3099911 ;
+    rdfs:label "Q29158261"^^xsd:string .
+
+wd:Q29158262 a wd:Q3099911 ;
+    rdfs:label "Q29158262"^^xsd:string .
+
+wd:Q29158263 a wd:Q3099911 ;
+    rdfs:label "Q29158263"^^xsd:string .
+
+wd:Q29158264 a wd:Q3099911 ;
+    rdfs:label "Q29158264"^^xsd:string .
+
+wd:Q29158265 a wd:Q3099911 ;
+    rdfs:label "Q29158265"^^xsd:string .
+
+wd:Q29158266 a wd:Q3099911 ;
+    rdfs:label "Q29158266"^^xsd:string .
+
+wd:Q29158267 a wd:Q3099911 ;
+    rdfs:label "Q29158267"^^xsd:string .
+
+wd:Q29158268 a wd:Q3099911 ;
+    rdfs:label "Q29158268"^^xsd:string .
+
+wd:Q29158270 a wd:Q3099911 ;
+    rdfs:label "Q29158270"^^xsd:string .
+
+wd:Q29158271 a wd:Q3099911 ;
+    rdfs:label "Q29158271"^^xsd:string .
+
+wd:Q29158272 a wd:Q3099911 ;
+    rdfs:label "Q29158272"^^xsd:string .
+
+wd:Q29158273 a wd:Q3099911 ;
+    rdfs:label "Q29158273"^^xsd:string .
+
+wd:Q29158274 a wd:Q3099911 ;
+    rdfs:label "Q29158274"^^xsd:string .
+
+wd:Q29158275 a wd:Q3099911 ;
+    rdfs:label "Q29158275"^^xsd:string .
+
+wd:Q29158278 a wd:Q3099911 ;
+    rdfs:label "Q29158278"^^xsd:string .
+
+wd:Q29158279 a wd:Q3099911 ;
+    rdfs:label "double cone by Nollet"@en .
+
+wd:Q29158280 a wd:Q3099911 ;
+    rdfs:label "Q29158280"^^xsd:string .
+
+wd:Q29158281 a wd:Q3099911 ;
+    rdfs:label "Q29158281"^^xsd:string .
+
+wd:Q29158282 a wd:Q3099911 ;
+    rdfs:label "Q29158282"^^xsd:string .
+
+wd:Q29158284 a wd:Q3099911 ;
+    rdfs:label "Q29158284"^^xsd:string .
+
+wd:Q29158285 a wd:Q3099911 ;
+    rdfs:label "Q29158285"^^xsd:string .
+
+wd:Q29158286 a wd:Q3099911 ;
+    rdfs:label "Q29158286"^^xsd:string .
+
+wd:Q29158287 a wd:Q3099911 ;
+    rdfs:label "Q29158287"^^xsd:string .
+
+wd:Q29158288 a wd:Q3099911 ;
+    rdfs:label "Q29158288"^^xsd:string .
+
+wd:Q29158289 a wd:Q3099911 ;
+    rdfs:label "Q29158289"^^xsd:string .
+
+wd:Q29158291 a wd:Q3099911 ;
+    rdfs:label "Q29158291"^^xsd:string .
+
+wd:Q29158292 a wd:Q3099911 ;
+    rdfs:label "Q29158292"^^xsd:string .
+
+wd:Q29158293 a wd:Q3099911 ;
+    rdfs:label "Q29158293"^^xsd:string .
+
+wd:Q29158294 a wd:Q3099911 ;
+    rdfs:label "Q29158294"^^xsd:string .
+
+wd:Q29158296 a wd:Q3099911 ;
+    rdfs:label "Q29158296"^^xsd:string .
+
+wd:Q29158297 a wd:Q3099911 ;
+    rdfs:label "Q29158297"^^xsd:string .
+
+wd:Q29158298 a wd:Q3099911 ;
+    rdfs:label "Q29158298"^^xsd:string .
+
+wd:Q29158299 a wd:Q3099911 ;
+    rdfs:label "Q29158299"^^xsd:string .
+
+wd:Q29158300 a wd:Q3099911 ;
+    rdfs:label "Q29158300"^^xsd:string .
+
+wd:Q29158301 a wd:Q3099911 ;
+    rdfs:label "Q29158301"^^xsd:string .
+
+wd:Q29158302 a wd:Q3099911 ;
+    rdfs:label "Q29158302"^^xsd:string .
+
+wd:Q29158303 a wd:Q3099911 ;
+    rdfs:label "Q29158303"^^xsd:string .
+
+wd:Q29158304 a wd:Q3099911 ;
+    rdfs:label "Q29158304"^^xsd:string .
+
+wd:Q29158305 a wd:Q3099911 ;
+    rdfs:label "Q29158305"^^xsd:string .
+
+wd:Q29158307 a wd:Q3099911 ;
+    rdfs:label "Q29158307"^^xsd:string .
+
+wd:Q29158308 a wd:Q3099911 ;
+    rdfs:label "Q29158308"^^xsd:string .
+
+wd:Q29158309 a wd:Q3099911 ;
+    rdfs:label "Q29158309"^^xsd:string .
+
+wd:Q29158310 a wd:Q3099911 ;
+    rdfs:label "Q29158310"^^xsd:string .
+
+wd:Q29158311 a wd:Q3099911 ;
+    rdfs:label "Q29158311"^^xsd:string .
+
+wd:Q29158312 a wd:Q3099911 ;
+    rdfs:label "Q29158312"^^xsd:string .
+
+wd:Q29158313 a wd:Q3099911 ;
+    rdfs:label "Q29158313"^^xsd:string .
+
+wd:Q29158314 a wd:Q3099911 ;
+    rdfs:label "Q29158314"^^xsd:string .
+
+wd:Q29158315 a wd:Q3099911 ;
+    rdfs:label "Q29158315"^^xsd:string .
+
+wd:Q29158316 a wd:Q3099911 ;
+    rdfs:label "Q29158316"^^xsd:string .
+
+wd:Q29158317 a wd:Q3099911 ;
+    rdfs:label "Q29158317"^^xsd:string .
+
+wd:Q29158318 a wd:Q3099911 ;
+    rdfs:label "Q29158318"^^xsd:string .
+
+wd:Q29158319 a wd:Q3099911 ;
+    rdfs:label "Q29158319"^^xsd:string .
+
+wd:Q29158321 a wd:Q3099911 ;
+    rdfs:label "Q29158321"^^xsd:string .
+
+wd:Q29158322 a wd:Q3099911 ;
+    rdfs:label "Q29158322"^^xsd:string .
+
+wd:Q29158323 a wd:Q3099911 ;
+    rdfs:label "Q29158323"^^xsd:string .
+
+wd:Q29158324 a wd:Q3099911 ;
+    rdfs:label "Q29158324"^^xsd:string .
+
+wd:Q29158325 a wd:Q3099911 ;
+    rdfs:label "Q29158325"^^xsd:string .
+
+wd:Q29158326 a wd:Q3099911 ;
+    rdfs:label "Q29158326"^^xsd:string .
+
+wd:Q29158327 a wd:Q3099911 ;
+    rdfs:label "Q29158327"^^xsd:string .
+
+wd:Q29158328 a wd:Q3099911 ;
+    rdfs:label "Q29158328"^^xsd:string .
+
+wd:Q29158329 a wd:Q3099911 ;
+    rdfs:label "Q29158329"^^xsd:string .
+
+wd:Q29158330 a wd:Q3099911 ;
+    rdfs:label "Q29158330"^^xsd:string .
+
+wd:Q29158332 a wd:Q3099911 ;
+    rdfs:label "Q29158332"^^xsd:string .
+
+wd:Q29158333 a wd:Q3099911 ;
+    rdfs:label "Q29158333"^^xsd:string .
+
+wd:Q29158334 a wd:Q3099911 ;
+    rdfs:label "Q29158334"^^xsd:string .
+
+wd:Q29158335 a wd:Q3099911 ;
+    rdfs:label "Q29158335"^^xsd:string .
+
+wd:Q29158336 a wd:Q3099911 ;
+    rdfs:label "Q29158336"^^xsd:string .
+
+wd:Q29158337 a wd:Q3099911 ;
+    rdfs:label "Q29158337"^^xsd:string .
+
+wd:Q29158338 a wd:Q3099911 ;
+    rdfs:label "Q29158338"^^xsd:string .
+
+wd:Q29158339 a wd:Q3099911 ;
+    rdfs:label "Q29158339"^^xsd:string .
+
+wd:Q29158340 a wd:Q3099911 ;
+    rdfs:label "Q29158340"^^xsd:string .
+
+wd:Q29158341 a wd:Q3099911 ;
+    rdfs:label "Q29158341"^^xsd:string .
+
+wd:Q29158342 a wd:Q3099911 ;
+    rdfs:label "Q29158342"^^xsd:string .
+
+wd:Q29158343 a wd:Q3099911 ;
+    rdfs:label "Q29158343"^^xsd:string .
+
+wd:Q29158344 a wd:Q3099911 ;
+    rdfs:label "Q29158344"^^xsd:string .
+
+wd:Q29158345 a wd:Q3099911 ;
+    rdfs:label "Q29158345"^^xsd:string .
+
+wd:Q29158346 a wd:Q3099911 ;
+    rdfs:label "Q29158346"^^xsd:string .
+
+wd:Q29158347 a wd:Q3099911 ;
+    rdfs:label "Q29158347"^^xsd:string .
+
+wd:Q29158348 a wd:Q3099911 ;
+    rdfs:label "Q29158348"^^xsd:string .
+
+wd:Q29158349 a wd:Q3099911 ;
+    rdfs:label "Q29158349"^^xsd:string .
+
+wd:Q29158350 a wd:Q3099911 ;
+    rdfs:label "Q29158350"^^xsd:string .
+
+wd:Q29158351 a wd:Q3099911 ;
+    rdfs:label "Q29158351"^^xsd:string .
+
+wd:Q29158353 a wd:Q3099911 ;
+    rdfs:label "Q29158353"^^xsd:string .
+
+wd:Q29158354 a wd:Q3099911 ;
+    rdfs:label "Q29158354"^^xsd:string .
+
+wd:Q29158355 a wd:Q3099911 ;
+    rdfs:label "Q29158355"^^xsd:string .
+
+wd:Q29158356 a wd:Q3099911 ;
+    rdfs:label "Q29158356"^^xsd:string .
+
+wd:Q29158357 a wd:Q3099911 ;
+    rdfs:label "Q29158357"^^xsd:string .
+
+wd:Q29158358 a wd:Q3099911 ;
+    rdfs:label "Q29158358"^^xsd:string .
+
+wd:Q29158359 a wd:Q3099911 ;
+    rdfs:label "Q29158359"^^xsd:string .
+
+wd:Q29158360 a wd:Q3099911 ;
+    rdfs:label "Q29158360"^^xsd:string .
+
+wd:Q29158361 a wd:Q3099911 ;
+    rdfs:label "Q29158361"^^xsd:string .
+
+wd:Q29158362 a wd:Q3099911 ;
+    rdfs:label "Q29158362"^^xsd:string .
+
+wd:Q29158363 a wd:Q3099911 ;
+    rdfs:label "Q29158363"^^xsd:string .
+
+wd:Q29158364 a wd:Q3099911 ;
+    rdfs:label "Q29158364"^^xsd:string .
+
+wd:Q29158365 a wd:Q3099911 ;
+    rdfs:label "Q29158365"^^xsd:string .
+
+wd:Q29158366 a wd:Q3099911 ;
+    rdfs:label "Q29158366"^^xsd:string .
+
+wd:Q29158367 a wd:Q3099911 ;
+    rdfs:label "Q29158367"^^xsd:string .
+
+wd:Q29158368 a wd:Q3099911 ;
+    rdfs:label "Q29158368"^^xsd:string .
+
+wd:Q29158369 a wd:Q3099911 ;
+    rdfs:label "Q29158369"^^xsd:string .
+
+wd:Q29158370 a wd:Q3099911 ;
+    rdfs:label "Q29158370"^^xsd:string .
+
+wd:Q29158371 a wd:Q3099911 ;
+    rdfs:label "Q29158371"^^xsd:string .
+
+wd:Q29158372 a wd:Q3099911 ;
+    rdfs:label "Q29158372"^^xsd:string .
+
+wd:Q29158373 a wd:Q3099911 ;
+    rdfs:label "Q29158373"^^xsd:string .
+
+wd:Q29158374 a wd:Q3099911 ;
+    rdfs:label "Q29158374"^^xsd:string .
+
+wd:Q29158375 a wd:Q3099911 ;
+    rdfs:label "Q29158375"^^xsd:string .
+
+wd:Q29158376 a wd:Q3099911 ;
+    rdfs:label "Q29158376"^^xsd:string .
+
+wd:Q29158377 a wd:Q3099911 ;
+    rdfs:label "Q29158377"^^xsd:string .
+
+wd:Q29158378 a wd:Q3099911 ;
+    rdfs:label "Q29158378"^^xsd:string .
+
+wd:Q29158379 a wd:Q3099911 ;
+    rdfs:label "Q29158379"^^xsd:string .
+
+wd:Q29158380 a wd:Q3099911 ;
+    rdfs:label "Q29158380"^^xsd:string .
+
+wd:Q29158381 a wd:Q3099911 ;
+    rdfs:label "Q29158381"^^xsd:string .
+
+wd:Q29158383 a wd:Q3099911 ;
+    rdfs:label "Q29158383"^^xsd:string .
+
+wd:Q29158384 a wd:Q3099911 ;
+    rdfs:label "Q29158384"^^xsd:string .
+
+wd:Q29158385 a wd:Q3099911 ;
+    rdfs:label "Q29158385"^^xsd:string .
+
+wd:Q29158386 a wd:Q3099911 ;
+    rdfs:label "Q29158386"^^xsd:string .
+
+wd:Q29158387 a wd:Q3099911 ;
+    rdfs:label "Q29158387"^^xsd:string .
+
+wd:Q29158388 a wd:Q3099911 ;
+    rdfs:label "Q29158388"^^xsd:string .
+
+wd:Q29158389 a wd:Q3099911 ;
+    rdfs:label "Q29158389"^^xsd:string .
+
+wd:Q29158390 a wd:Q3099911 ;
+    rdfs:label "Q29158390"^^xsd:string .
+
+wd:Q29158391 a wd:Q3099911 ;
+    rdfs:label "Q29158391"^^xsd:string .
+
+wd:Q29158392 a wd:Q3099911 ;
+    rdfs:label "Q29158392"^^xsd:string .
+
+wd:Q29158394 a wd:Q3099911 ;
+    rdfs:label "Q29158394"^^xsd:string .
+
+wd:Q29158395 a wd:Q3099911 ;
+    rdfs:label "Q29158395"^^xsd:string .
+
+wd:Q29158396 a wd:Q3099911 ;
+    rdfs:label "Q29158396"^^xsd:string .
+
+wd:Q29158397 a wd:Q3099911 ;
+    rdfs:label "Q29158397"^^xsd:string .
+
+wd:Q29158398 a wd:Q3099911 ;
+    rdfs:label "Q29158398"^^xsd:string .
+
+wd:Q29158638 a wd:Q3099911 ;
+    rdfs:label "Q29158638"^^xsd:string .
+
+wd:Q29212986 a wd:Q3099911 ;
+    rdfs:label "Q29212986"^^xsd:string .
+
+wd:Q29213080 a wd:Q3099911 ;
+    rdfs:label "Q29213080"^^xsd:string .
+
+wd:Q29213092 a wd:Q3099911 ;
+    rdfs:label "Q29213092"^^xsd:string .
+
+wd:Q29213118 a wd:Q3099911 ;
+    rdfs:label "Q29213118"^^xsd:string .
+
+wd:Q29218043 a wd:Q3099911 ;
+    rdfs:label "Q29218043"^^xsd:string .
+
+wd:Q29218044 a wd:Q3099911 ;
+    rdfs:label "Q29218044"^^xsd:string .
+
+wd:Q29218046 a wd:Q3099911 ;
+    rdfs:label "Q29218046"^^xsd:string .
+
+wd:Q29218047 a wd:Q3099911 ;
+    rdfs:label "Q29218047"^^xsd:string .
+
+wd:Q29218054 a wd:Q3099911 ;
+    rdfs:label "Q29218054"^^xsd:string .
+
+wd:Q29218060 a wd:Q3099911 ;
+    rdfs:label "Q29218060"^^xsd:string .
+
+wd:Q29220936 a wd:Q3099911 ;
+    rdfs:label "Orsay Linac"@en .
+
+wd:Q29233789 a wd:Q3099911 ;
+    rdfs:label "Q29233789"^^xsd:string .
+
+wd:Q29233792 a wd:Q3099911 ;
+    rdfs:label "Q29233792"^^xsd:string .
+
+wd:Q29234144 a wd:Q3099911 ;
+    rdfs:label "Q29234144"^^xsd:string .
+
+wd:Q29253180 a wd:Q3099911 ;
+    rdfs:label "Q29253180"^^xsd:string .
+
+wd:Q29255816 a wd:Q3099911 ;
+    rdfs:label "Q29255816"^^xsd:string .
+
+wd:Q30089515 a wd:Q1183543 ;
+    rdfs:label "Q30089515"^^xsd:string .
+
+wd:Q3021045 a wd:Q1183543 ;
+    rdfs:label "Decsat"@en .
+
+wd:Q3040038 a wd:Q1183543 ;
+    rdfs:label "Tiller rope"@en .
+
+wd:Q3042193 a wd:Q1183543 ;
+    rdfs:label "Dzi"@en .
+
+wd:Q3093323 a wd:Q3099911 ;
+    rdfs:label "Global Ozone Monitoring by Occultation of Stars"@en .
+
+wd:Q3120609 a wd:Q1183543 ;
+    rdfs:label "Guinde"@en .
+
+wd:Q3181284 a wd:Q1183543 ;
+    rdfs:label "eddy current separator"@en .
+
+wd:Q319322 a wd:Q1183543 ;
+    rdfs:label "Metox"@en .
+
+wd:Q3229522 a wd:Q1751850 ;
+    rdfs:label "phase telescope"@en .
+
+wd:Q328989 a wd:Q1183543 ;
+    rdfs:label "night vision device"@en .
+
+wd:Q332714 a wd:Q1183543 ;
+    rdfs:label "Q332714"^^xsd:string .
+
+wd:Q352466 a wd:Q1183543 ;
+    rdfs:label "Fire flapper"@en .
+
+wd:Q3561018 a wd:Q3099911 ;
+    rdfs:label "Visible Multi Object Spectrograph"@en .
+
+wd:Q3563267 a wd:Q1183543 ;
+    rdfs:label "Q3563267"^^xsd:string .
+
+wd:Q3633354 a wd:Q1183543 ;
+    rdfs:label "ball and chain"@en .
+
+wd:Q3657262 a wd:Q1183543 ;
+    rdfs:label "Capone"@en .
+
+wd:Q3709372 a wd:Q1751850 ;
+    rdfs:label "Q3709372"^^xsd:string .
+
+wd:Q3753782 a wd:Q1183543 ;
+    rdfs:label "Fruit machine"@en .
+
+wd:Q375647 a wd:Q1183543 ;
+    rdfs:label "centrifugal governor"@en .
+
+wd:Q3999747 a wd:Q3099911 ;
+    rdfs:label "Tropospheric Emission Spectrometer"@en .
+
+wd:Q4037842 a wd:Q1183543 ;
+    rdfs:label "EToken"@en .
+
+wd:Q404263 a wd:Q1183543 ;
+    rdfs:label "Q404263"^^xsd:string .
+
+wd:Q4070265 a wd:Q1751850 ;
+    rdfs:label "Q4070265"^^xsd:string .
+
+wd:Q42586063 a wd:Q1183543 ;
+    rdfs:label "encoder"@en .
+
+wd:Q4339909 a wd:Q1183543 ;
+    rdfs:label "Bird scarer"@en .
+
+wd:Q4381802 a wd:Q1183543 ;
+    rdfs:label "Q4381802"^^xsd:string .
+
+wd:Q44488745 a wd:Q3099911 ;
+    rdfs:label "Tropomi"@en .
+
+wd:Q4536309 a wd:Q1183543 ;
+    rdfs:label "Cheget"@en .
+
+wd:Q460209 a wd:Q1183543 ;
+    rdfs:label "Amchaqab"@en .
+
+wd:Q4649950 a wd:Q3099911 ;
+    rdfs:label "Advanced Along Track Scanning Radiometer"@en .
+
+wd:Q4677550 a wd:Q3099911 ;
+    rdfs:label "Active cavity radiometer"@en .
+
+wd:Q484921 a wd:Q1183543 ;
+    rdfs:label "Analog telephone adapter"@en .
+
+wd:Q48797819 a wd:Q3099911 ;
+    rdfs:label "Seismic Experiment for Interior Structure"@en .
+
+wd:Q48838225 a wd:Q3099911 ;
+    rdfs:label "Mapping Imaging Spectrometer for Europa"@en .
+
+wd:Q48838349 a wd:Q3099911 ;
+    rdfs:label "Mass Spectrometer for Planetary Exploration"@en .
+
+wd:Q48838592 a wd:Q3099911 ;
+    rdfs:label "Surface Dust Analyser"@en .
+
+wd:Q48839382 a wd:Q3099911 ;
+    rdfs:label "Europa Imaging System"@en .
+
+wd:Q48839447 a wd:Q3099911 ;
+    rdfs:label "Europa Thermal Emission Imaging System"@en .
+
+wd:Q48839457 a wd:Q3099911 ;
+    rdfs:label "Interior Characterization of Europa using Magnetometry"@en .
+
+wd:Q48839464 a wd:Q3099911 ;
+    rdfs:label "Radar for Europa Assessment and Sounding: Ocean to Near-surface"@en .
+
+wd:Q48839466 a wd:Q3099911 ;
+    rdfs:label "Europa Ultraviolet Spectrograph"@en .
+
+wd:Q48839527 a wd:Q3099911 ;
+    rdfs:label "Plasma Instrument for Magnetic Sounding"@en .
+
+wd:Q48892659 a wd:Q1183543 ;
+    rdfs:label "Q48892659"^^xsd:string .
+
+wd:Q4915226 a wd:Q1183543 ;
+    rdfs:label "Bioptics"@en .
+
+wd:Q495186 a wd:Q1183543 ;
+    rdfs:label "Precision approach radar"@en .
+
+wd:Q499212 a wd:Q1751850 ;
+    rdfs:label "Corrective Optics Space Telescope Axial Replacement"@en .
+
+wd:Q5013409 a wd:Q3099911 ;
+    rdfs:label "CONSERT"@en .
+
+wd:Q5088743 a wd:Q3099911 ;
+    rdfs:label "CheMin"@en .
+
+wd:Q5135731 a wd:Q1183543 ;
+    rdfs:label "cloudbuster"@en .
+
+wd:Q517596 a wd:Q1183543 ;
+    rdfs:label "mechanism"@en .
+
+wd:Q52146163 a wd:Q1183543 ;
+    rdfs:label "Q52146163"^^xsd:string .
+
+wd:Q52880233 a wd:Q1183543 ;
+    rdfs:label "Passive autocatalytic recombiner"@en .
+
+wd:Q53699 a wd:Q1183543 ;
+    rdfs:label "rotary encoder"@en .
+
+wd:Q5396057 a wd:Q1183543 ;
+    rdfs:label "LPG"@en .
+
+wd:Q5411176 a wd:Q1183543 ;
+    rdfs:label "Q5411176"^^xsd:string .
+
+wd:Q54933585 a wd:Q3099911 ;
+    rdfs:label "Sylvester apparatus-CnAM 8044"@en .
+
+wd:Q55613553 a wd:Q3099911 ;
+    rdfs:label "Heat Flow and Physical Properties Package"@en .
+
+wd:Q55758336 a wd:Q1183543 ;
+    rdfs:label "Q55758336"^^xsd:string .
+
+wd:Q55841579 a wd:Q3099911 ;
+    rdfs:label "Mariotte reaction apparatus-CnAM 2405"@en .
+
+wd:Q55999997 a wd:Q1183543 ;
+    rdfs:label "Q55999997"^^xsd:string .
+
+wd:Q56278925 a wd:Q3099911 ;
+    rdfs:label "FIELDS"@en .
+
+wd:Q56400906 a wd:Q1183543 ;
+    rdfs:label "oil press"@en .
+
+wd:Q56422628 a wd:Q3099911 ;
+    rdfs:label "HOPE"@en .
+
+wd:Q57979069 a wd:Q3099911 ;
+    rdfs:label "Venetia Burney Student Dust Counter"@en .
+
+wd:Q58451602 a wd:Q3099911 ;
+    rdfs:label "Wide-Field Imager for Solar Probe"@en .
+
+wd:Q58452201 a wd:Q3099911 ;
+    rdfs:label "Integrated Science Investigation of the Sun"@en .
+
+wd:Q58456758 a wd:Q3099911 ;
+    rdfs:label "Solar Wind Electrons Alphas and Protons"@en .
+
+wd:Q58460577 a wd:Q3099911 ;
+    rdfs:label "Solar Probe Cup"@en .
+
+wd:Q586119 a wd:Q1183543 ;
+    rdfs:label "incubator"@en .
+
+wd:Q59246990 a wd:Q3099911 ;
+    rdfs:label "Temperature and Winds for InSight"@en .
+
+wd:Q596400 a wd:Q1183543 ;
+    rdfs:label "calculagraph"@en .
+
+wd:Q598686 a wd:Q1183543 ;
+    rdfs:label "Q598686"^^xsd:string .
+
+wd:Q60786374 a wd:Q3099911 ;
+    rdfs:label "Rotation and Interior Structure Experiment"@en .
+
+wd:Q6154799 a wd:Q1183543 ;
+    rdfs:label "UFCAP"@en .
+
+wd:Q6156142 a wd:Q1183543 ;
+    rdfs:label "Q6156142"^^xsd:string .
+
+wd:Q615715 a wd:Q3099911 ;
+    rdfs:label "Doppler Orbitography and Radiopositioning Integrated by Satellite"@en .
+
+wd:Q61755820 a wd:Q1751850 ;
+    rdfs:label "Óculo"@en .
+
+wd:Q61766371 a wd:Q1751850 ;
+    rdfs:label "Lente (Estojo)"@en .
+
+wd:Q6332343 a wd:Q1183543 ;
+    rdfs:label "KL-43"@en .
+
+wd:Q6436411 a wd:Q1183543 ;
+    rdfs:label "Kratos MS 50"@en .
+
+wd:Q64667293 a wd:Q1183543 ;
+    rdfs:label "Q64667293"^^xsd:string .
+
+wd:Q64767836 a wd:Q3099911 ;
+    rdfs:label "Tropospheric Emissions: Monitoring of Pollution"@en .
+
+wd:Q64828360 a wd:Q1183543 ;
+    rdfs:label "Audiphon"@en .
+
+wd:Q653807 a wd:Q1183543 ;
+    rdfs:label "catalytic converter"@en .
+
+wd:Q65534662 a wd:Q3099911 ;
+    rdfs:label "Lunar Laser Ranging Instrument"@en .
+
+wd:Q65535607 a wd:Q3099911 ;
+    rdfs:label "Sub-keV Atom Reflecting Analyzer"@en .
+
+wd:Q65548916 a wd:Q3099911 ;
+    rdfs:label "Solar X-ray monitor"@en .
+
+wd:Q65548928 a wd:Q3099911 ;
+    rdfs:label "Imaging IR Spectrometer"@en .
+
+wd:Q65962046 a wd:Q1183543 ;
+    rdfs:label "Q65962046"^^xsd:string .
+
+wd:Q67126484 a wd:Q3099911 ;
+    rdfs:label "flow cytometer"@en .
+
+wd:Q6716625 a wd:Q1183543 ;
+    rdfs:label "MLSSA"@en .
+
+wd:Q67296466 a wd:Q1183543 ;
+    rdfs:label "Compton generator"@en .
+
+wd:Q6918280 a wd:Q1183543 ;
+    rdfs:label "motorcycle trailer"@en .
+
+wd:Q6934841 a wd:Q1183543 ;
+    rdfs:label "multiphase flow meter"@en .
+
+wd:Q6982202 a wd:Q3099911 ;
+    rdfs:label "Navcam"@en .
+
+wd:Q70442196 a wd:Q1183543 ;
+    rdfs:label "Q70442196"^^xsd:string .
+
+wd:Q7120351 a wd:Q1183543 ;
+    rdfs:label "PRL Advanced Radial-velocity All-sky Search"@en .
+
+wd:Q715223 a wd:Q1183543 ;
+    rdfs:label "sound module"@en .
+
+wd:Q7387075 a wd:Q1183543 ;
+    rdfs:label "S-Phone"@en .
+
+wd:Q74458329 a wd:Q1183543 ;
+    rdfs:label "Q74458329"^^xsd:string .
+
+wd:Q74458418 a wd:Q1183543 ;
+    rdfs:label "Q74458418"^^xsd:string .
+
+wd:Q7447975 a wd:Q1183543 ;
+    rdfs:label "Self-Injurious Behavior Inhibiting System"@en .
+
+wd:Q75366045 a wd:Q1183543 ;
+    rdfs:label "Q75366045"^^xsd:string .
+
+wd:Q75717446 a wd:Q1183543 ;
+    rdfs:label "Q75717446"^^xsd:string .
+
+wd:Q7575251 a wd:Q3099911 ;
+    rdfs:label "Spectronic 20"@en .
+
+wd:Q758891 a wd:Q1183543 ;
+    rdfs:label "Q758891"^^xsd:string .
+
+wd:Q7661746 a wd:Q3099911 ;
+    rdfs:label "Sympiesometer"@en .
+
+wd:Q7672094 a wd:Q1183543 ;
+    rdfs:label "TV2Me"@en .
+
+wd:Q7841696 a wd:Q1183543 ;
+    rdfs:label "Trigger"@en .
+
+wd:Q7859467 a wd:Q1183543 ;
+    rdfs:label "twofer"@en .
+
+wd:Q79067623 a wd:Q3099911 ;
+    rdfs:label "Two foot rule owned by James Cook"@en .
+
+wd:Q7913723 a wd:Q1183543 ;
+    rdfs:label "Van Veen Grab Sampler"@en .
+
+wd:Q7927940 a wd:Q1183543 ;
+    rdfs:label "Tape head cleaner"@en .
+
+wd:Q7973454 a wd:Q1183543 ;
+    rdfs:label "Water brake"@en .
+
+wd:Q7993652 a wd:Q1183543 ;
+    rdfs:label "Whim"@en .
+
+wd:Q80374484 a wd:Q3099911 ;
+    rdfs:label "Captain James Cook's sextant"@en .
+
+wd:Q80376117 a wd:Q3099911 ;
+    rdfs:label "Captain James Cook's pair of parallel rules"@en .
+
+wd:Q80380390 a wd:Q3099911 ;
+    rdfs:label "Telescope which may have been owned by Captain James Cook"@en .
+
+wd:Q8042291 a wd:Q1183543 ;
+    rdfs:label "XM2go"@en .
+
+wd:Q813243 a wd:Q1183543 ;
+    rdfs:label "Medical ventilator"@en .
+
+wd:Q813779 a wd:Q1183543 ;
+    rdfs:label "bedmover"@en .
+
+wd:Q83291145 a wd:Q1183543 ;
+    rdfs:label "Forest Penetrator"@en .
+
+wd:Q83981560 a wd:Q1183543 ;
+    rdfs:label "Q83981560"^^xsd:string .
+
+wd:Q83981564 a wd:Q1183543 ;
+    rdfs:label "Q83981564"^^xsd:string .
+
+wd:Q84083212 a wd:Q1183543 ;
+    rdfs:label "tonograph"@en .
+
+wd:Q84309308 a wd:Q1183543 ;
+    rdfs:label "Exolung"@en .
+
+wd:Q84858674 a wd:Q1183543 ;
+    rdfs:label "Q84858674"^^xsd:string .
+
+wd:Q849453 a wd:Q1751850 ;
+    rdfs:label "heliograph"@en .
+
+wd:Q86079543 a wd:Q1183543 ;
+    rdfs:label "tanning bed"@en .
+
+wd:Q861383 a wd:Q1183543 ;
+    rdfs:label "videophone"@en .
+
+wd:Q86857919 a wd:Q1183543 ;
+    rdfs:label "Phonograph tone arm assembly"@en .
+
+wd:Q86987181 a wd:Q1183543 ;
+    rdfs:label "ship horn"@en .
+
+wd:Q898306 a wd:Q1751850 ;
+    rdfs:label "Monochromator"@en .
+
+wd:Q899119 a wd:Q1183543 ;
+    rdfs:label "salt bridge"@en .
+
+wd:Q904343 a wd:Q3099911 ;
+    rdfs:label "copper coulometer"@en .
+
+wd:Q910414 a wd:Q3099911 ;
+    rdfs:label "Near Infrared Camera and Multi-Object Spectrometer"@en .
+
+wd:Q9200374 a wd:Q1183543 ;
+    rdfs:label "DCX"@en .
+
+wd:Q926908 a wd:Q1183543 ;
+    rdfs:label "Pantelegraph"@en .
+
+wd:Q946725 a wd:Q1183543 ;
+    rdfs:label "cotton mill"@en .
+
+wd:Q959646 a wd:Q1183543 ;
+    rdfs:label "phonautograph"@en .
+
+wd:Q1454986 rdfs:label "physical system"@en .
+
+wd:Q20819639 rdfs:label "Airborne Laser Scanner"@en ;
+    rdfs:subClassOf wd:Q504027 .
+
+wd:Q504027 rdfs:label "LIDAR"@en ;
+    rdfs:subClassOf wd:Q1751850 .
+
+wd:Q2920313 rdfs:label "optical system"@en ;
+    rdfs:subClassOf wd:Q1454986 .
+
+wd:Q1751850 rdfs:label "optical instrument"@en ;
+    rdfs:subClassOf wd:Q2920313,
+        wd:Q3099911 .
+
+wd:Q1183543 rdfs:label "device"@en .
+
+wd:Q3099911 rdfs:label "scientific instrument"@en ;
+    rdfs:subClassOf wd:Q1183543 .
+

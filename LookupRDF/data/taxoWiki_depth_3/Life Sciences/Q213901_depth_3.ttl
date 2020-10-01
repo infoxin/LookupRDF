@@ -1,0 +1,1399 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1003804 a wd:Q46857 ;
+    rdfs:label "Freinet pedagogy"@en .
+
+wd:Q1023626 a wd:Q179661 ;
+    rdfs:label "CHIVA"@en .
+
+wd:Q10271302 a wd:Q3249551 ;
+    rdfs:label "bids for the 1992 Summer Olympics"@en .
+
+wd:Q1031268 a wd:Q41689629 ;
+    rdfs:label "Pushback"@en .
+
+wd:Q10343536 a wd:Q7406919 ;
+    rdfs:label "Paggo"@en .
+
+wd:Q10354133 a wd:Q3249551 ;
+    rdfs:label "Q10354133"^^xsd:string .
+
+wd:Q10601481 a wd:Q179661 ;
+    rdfs:label "NoCut"@en .
+
+wd:Q1067135 a wd:Q179661 ;
+    rdfs:label "therapeutic horseback riding"@en .
+
+wd:Q10676124 a wd:Q3249551 ;
+    rdfs:label "Q10676124"^^xsd:string .
+
+wd:Q1068759 a wd:Q41689629 ;
+    rdfs:label "airport check-in"@en .
+
+wd:Q1078266 a wd:Q7406919 ;
+    rdfs:label "interlibrary loan"@en .
+
+wd:Q1087682 a wd:Q3249551 ;
+    rdfs:label "background check"@en .
+
+wd:Q10933889 a wd:Q7406919 ;
+    rdfs:label "Q10933889"^^xsd:string .
+
+wd:Q11199058 a wd:Q7406919 ;
+    rdfs:label "FELIX"@en .
+
+wd:Q11200670 a wd:Q7406919 ;
+    rdfs:label "G-LEX"@en .
+
+wd:Q11225279 a wd:Q7406919 ;
+    rdfs:label "JAIRO"@en .
+
+wd:Q11225282 a wd:Q7406919 ;
+    rdfs:label "JAL IC service"@en .
+
+wd:Q11228988 a wd:Q41689629 ;
+    rdfs:label "LFM"@en .
+
+wd:Q11232586 a wd:Q7406919 ;
+    rdfs:label "MY割"@en .
+
+wd:Q11248147 a wd:Q7406919 ;
+    rdfs:label "TAP-i"@en .
+
+wd:Q113943 a wd:Q213901 ;
+    rdfs:label "Repoxygen"@en .
+
+wd:Q1144114 a wd:Q179661 ;
+    rdfs:label "embolization"@en .
+
+wd:Q1154530 a wd:Q3249551 ;
+    rdfs:label "DMADV"@en .
+
+wd:Q1172580 a wd:Q7406919 ;
+    rdfs:label "Datex-J"@en .
+
+wd:Q117636 a wd:Q179661 ;
+    rdfs:label "FOLFOX"@en .
+
+wd:Q1185789 a wd:Q179661 ;
+    rdfs:label "Treading water"@en .
+
+wd:Q1186844 a wd:Q3249551 ;
+    rdfs:label "leather crafting"@en .
+
+wd:Q1200681 a wd:Q3249551 ;
+    rdfs:label "designation"@en .
+
+wd:Q12027736 a wd:Q46857 ;
+    rdfs:label "callogenesis"@en .
+
+wd:Q12056863 a wd:Q7406919 ;
+    rdfs:label "Q12056863"^^xsd:string .
+
+wd:Q1227658 a wd:Q7406919 ;
+    rdfs:label "Executive search"@en .
+
+wd:Q12371171 a wd:Q3249551 ;
+    rdfs:label "Q12371171"^^xsd:string .
+
+wd:Q1243155 a wd:Q179661 ;
+    rdfs:label "Q1243155"^^xsd:string .
+
+wd:Q125587 a wd:Q3249551 ;
+    rdfs:label "interpretatio graeca"@en .
+
+wd:Q1261559 a wd:Q179661 ;
+    rdfs:label "Dry needling"@en .
+
+wd:Q1278797 a wd:Q179661 ;
+    rdfs:label "Intermittent pneumatic compression"@en .
+
+wd:Q12823193 a wd:Q179661 ;
+    rdfs:label "Ilgir"@en .
+
+wd:Q1303078 a wd:Q179661 ;
+    rdfs:label "autohemotherapy"@en .
+
+wd:Q1304270 a wd:Q179661 ;
+    rdfs:label "combination therapy"@en .
+
+wd:Q1304791 a wd:Q3249551 ;
+    rdfs:label "goldwork"@en .
+
+wd:Q1321267 a wd:Q3249551 ;
+    rdfs:label "egg tempera"@en .
+
+wd:Q13233408 a wd:Q179661 ;
+    rdfs:label "radioactive iodine therapy"@en .
+
+wd:Q1324934 a wd:Q7406919 ;
+    rdfs:label "waste collection"@en .
+
+wd:Q1326160 a wd:Q7406919 ;
+    rdfs:label "Electronic System for Travel Authorization"@en .
+
+wd:Q133067 a wd:Q3249551 ;
+    rdfs:label "mosaic"@en .
+
+wd:Q1342134 a wd:Q46857 ;
+    rdfs:label "Q1342134"^^xsd:string .
+
+wd:Q13427605 a wd:Q41689629 ;
+    rdfs:label "Q13427605"^^xsd:string .
+
+wd:Q1362274 a wd:Q3249551 ;
+    rdfs:label "hominization"@en .
+
+wd:Q1371437 a wd:Q46857 ;
+    rdfs:label "ethogram"@en .
+
+wd:Q1381652 a wd:Q179661 ;
+    rdfs:label "oral rehydration therapy"@en .
+
+wd:Q1385716 a wd:Q179661 ;
+    rdfs:label "Eye movement desensitization and reprocessing"@en .
+
+wd:Q1389369 a wd:Q179661 ;
+    rdfs:label "FOLFIRI"@en .
+
+wd:Q13913116 a wd:Q179661 ;
+    rdfs:label "Q13913116"^^xsd:string .
+
+wd:Q1396390 a wd:Q3249551 ;
+    rdfs:label "color grading"@en .
+
+wd:Q1399180 a wd:Q3249551 ;
+    rdfs:label "interpretatio romana"@en .
+
+wd:Q1420139 a wd:Q179661 ;
+    rdfs:label "thalassotherapy"@en .
+
+wd:Q1427967 a wd:Q179661 ;
+    rdfs:label "manual therapy"@en .
+
+wd:Q14635691 a wd:Q179661 ;
+    rdfs:label "Q14635691"^^xsd:string .
+
+wd:Q1474378 a wd:Q41689629 ;
+    rdfs:label "spark testing"@en .
+
+wd:Q1490242 a wd:Q179661 ;
+    rdfs:label "palliative sedation"@en .
+
+wd:Q1492781 a wd:Q179661 ;
+    rdfs:label "galvanotherapy"@en .
+
+wd:Q1498206 a wd:Q41689629 ;
+    rdfs:label "officia oratoris"@en .
+
+wd:Q1503202 a wd:Q46857 ;
+    rdfs:label "mass comparison"@en .
+
+wd:Q1503523 a wd:Q179661 ;
+    rdfs:label "past life regression"@en .
+
+wd:Q1520743 a wd:Q3249551 ;
+    rdfs:label "Canadian Confederation"@en .
+
+wd:Q1562326 a wd:Q41689629 ;
+    rdfs:label "cooperation procedure"@en .
+
+wd:Q1571081 a wd:Q179661 ;
+    rdfs:label "Orthokeratology"@en .
+
+wd:Q1571094 a wd:Q41689629 ;
+    rdfs:label "ordinary legislative procedure"@en .
+
+wd:Q15712210 a wd:Q7406919 ;
+    rdfs:label "IC Bus"@en .
+
+wd:Q15823132 a wd:Q7406919 ;
+    rdfs:label "Primary ticket outlet"@en .
+
+wd:Q1625089 a wd:Q3249551 ;
+    rdfs:label "Holotropic Breathwork"@en .
+
+wd:Q16257502 a wd:Q179661 ;
+    rdfs:label "Keloid removal"@en .
+
+wd:Q1631610 a wd:Q179661 ;
+    rdfs:label "taxis"@en .
+
+wd:Q16348405 a wd:Q179661 ;
+    rdfs:label "Q16348405"^^xsd:string .
+
+wd:Q1641412 a wd:Q179661 ;
+    rdfs:label "Allergen immunotherapy"@en .
+
+wd:Q1660148 a wd:Q179661 ;
+    rdfs:label "Immunoadsorption"@en .
+
+wd:Q16643870 a wd:Q179661 ;
+    rdfs:label "Q16643870"^^xsd:string .
+
+wd:Q1666676 a wd:Q179661 ;
+    rdfs:label "post-isometric relaxation"@en .
+
+wd:Q1668135 a wd:Q3249551 ;
+    rdfs:label "interpretatio celtica"@en .
+
+wd:Q16972704 a wd:Q7406919 ;
+    rdfs:label "CM/ECF"@en .
+
+wd:Q17003258 a wd:Q7406919 ;
+    rdfs:label "Insurance Repository"@en .
+
+wd:Q17009050 a wd:Q179661 ;
+    rdfs:label "Oxytocin treatment for postpartum depression"@en .
+
+wd:Q17086007 a wd:Q3249551 ;
+    rdfs:label "tokenization"@en .
+
+wd:Q17092352 a wd:Q7406919 ;
+    rdfs:label "patient selection"@en .
+
+wd:Q17105337 a wd:Q41689629 ;
+    rdfs:label "power cycling"@en .
+
+wd:Q17141366 a wd:Q179661 ;
+    rdfs:label "Diaphragm pacing"@en .
+
+wd:Q17141444 a wd:Q3249551 ;
+    rdfs:label "mixed technique"@en .
+
+wd:Q17141634 a wd:Q3249551 ;
+    rdfs:label "codification"@en .
+
+wd:Q17144616 a wd:Q179661 ;
+    rdfs:label "Graft versus tumor effect"@en .
+
+wd:Q17144959 a wd:Q179661 ;
+    rdfs:label "FOLFIRINOX"@en .
+
+wd:Q17146657 a wd:Q179661 ;
+    rdfs:label "Treatments for overactive bladder"@en .
+
+wd:Q17156403 a wd:Q179661 ;
+    rdfs:label "Management of dehydration"@en .
+
+wd:Q17156787 rdfs:label "Gene therapy for epilepsy"@en ;
+    rdfs:subClassOf wd:Q213901 .
+
+wd:Q17156993 a wd:Q179661 ;
+    rdfs:label "tobacco smoke enema"@en .
+
+wd:Q17157138 rdfs:label "Gene therapy for color blindness"@en ;
+    rdfs:subClassOf wd:Q213901 .
+
+wd:Q17163144 a wd:Q179661 ;
+    rdfs:label "Management of ulcerative colitis"@en .
+
+wd:Q17232201 a wd:Q3249551 ;
+    rdfs:label "folding"@en .
+
+wd:Q1736595 a wd:Q46857 ;
+    rdfs:label "Q1736595"^^xsd:string .
+
+wd:Q1750760 a wd:Q179661 ;
+    rdfs:label "Kneipp Cure"@en .
+
+wd:Q175166 a wd:Q3249551 ;
+    rdfs:label "tempera"@en .
+
+wd:Q175873 a wd:Q3249551 ;
+    rdfs:label "Dry sterilisation process"@en .
+
+wd:Q1759552 a wd:Q179661 ;
+    rdfs:label "transurethral resection of the prostate"@en .
+
+wd:Q1760601 a wd:Q46857 ;
+    rdfs:label "Ray transfer matrix analysis"@en .
+
+wd:Q1773819 a wd:Q41689629 ;
+    rdfs:label "Standard Instrument Departure"@en .
+
+wd:Q1774425 a wd:Q179661 ;
+    rdfs:label "climatotherapy"@en .
+
+wd:Q1775972 a wd:Q3249551 ;
+    rdfs:label "development of doctrine"@en .
+
+wd:Q1777267 a wd:Q179661 ;
+    rdfs:label "bone fracture treatment"@en .
+
+wd:Q1792138 a wd:Q46857 ;
+    rdfs:label "Kundt's tube"@en .
+
+wd:Q18088799 a wd:Q179661 ;
+    rdfs:label "Q18088799"^^xsd:string .
+
+wd:Q1816369 a wd:Q179661 ;
+    rdfs:label "Q1816369"^^xsd:string .
+
+wd:Q1829202 a wd:Q41689629 ;
+    rdfs:label "procedure for preventing conflicts of jurisdiction"@en .
+
+wd:Q1851388 a wd:Q41689629 ;
+    rdfs:label "Q1851388"^^xsd:string .
+
+wd:Q1853290 a wd:Q7406919 ;
+    rdfs:label "Q1853290"^^xsd:string .
+
+wd:Q1856025 a wd:Q179661 ;
+    rdfs:label "athletic taping"@en .
+
+wd:Q18668066 a wd:Q46857 ;
+    rdfs:label "homotextuality"@en .
+
+wd:Q188257 a wd:Q41689629 ;
+    rdfs:label "bottom procedure"@en .
+
+wd:Q1897725 a wd:Q179661 ;
+    rdfs:label "organotherapy"@en .
+
+wd:Q19001356 a wd:Q179661 ;
+    rdfs:label "Rhesus isoimmunisation affecting management of mother"@en .
+
+wd:Q1915261 a wd:Q3249551 ;
+    rdfs:label "Q1915261"^^xsd:string .
+
+wd:Q1923043 a wd:Q46857 ;
+    rdfs:label "Pronator drift"@en .
+
+wd:Q1932004 a wd:Q179661 ;
+    rdfs:label "Token economy"@en .
+
+wd:Q19374105 a wd:Q31207 ;
+    rdfs:label "Q19374105"^^xsd:string .
+
+wd:Q1988216 a wd:Q179661 ;
+    rdfs:label "oxygen therapy"@en .
+
+wd:Q19974118 a wd:Q7406919 ;
+    rdfs:label "Q19974118"^^xsd:string .
+
+wd:Q20021610 a wd:Q7406919 ;
+    rdfs:label "Q20021610"^^xsd:string .
+
+wd:Q2002370 a wd:Q179661 ;
+    rdfs:label "Insulin therapy"@en .
+
+wd:Q20091852 a wd:Q3249551 ;
+    rdfs:label "instrument-making"@en .
+
+wd:Q2015387 a wd:Q179661 ;
+    rdfs:label "Q2015387"^^xsd:string .
+
+wd:Q2034423 a wd:Q179661 ;
+    rdfs:label "Osmotherapy"@en .
+
+wd:Q2048970 a wd:Q7406919 ;
+    rdfs:label "room service"@en .
+
+wd:Q2062293 a wd:Q179661 ;
+    rdfs:label "vagus nerve stimulation"@en .
+
+wd:Q2071902 a wd:Q3249551 ;
+    rdfs:label "coalescence"@en .
+
+wd:Q20824223 rdfs:label "somatic cell gene therapy"@en ;
+    rdfs:subClassOf wd:Q213901 .
+
+wd:Q21013382 a wd:Q41689629 ;
+    rdfs:label "special legislative procedure"@en .
+
+wd:Q2101716 a wd:Q46857 ;
+    rdfs:label "open circuit test"@en .
+
+wd:Q2102968 a wd:Q179661 ;
+    rdfs:label "Mensendieck system"@en .
+
+wd:Q21087295 a wd:Q3249551 ;
+    rdfs:label "Q21087295"^^xsd:string .
+
+wd:Q2112558 a wd:Q3249551 ;
+    rdfs:label "project planning"@en .
+
+wd:Q211578 a wd:Q3249551 ;
+    rdfs:label "tanning"@en .
+
+wd:Q2121103 a wd:Q179661 ;
+    rdfs:label "fecal bacteriotherapy"@en .
+
+wd:Q2136051 a wd:Q179661 ;
+    rdfs:label "Triple C-support pyramid"@en .
+
+wd:Q2138712 a wd:Q46857 ;
+    rdfs:label "regression discontinuity design"@en .
+
+wd:Q2141717 a wd:Q179661 ;
+    rdfs:label "Snoezelen"@en .
+
+wd:Q2145130 a wd:Q179661 ;
+    rdfs:label "Reduction"@en .
+
+wd:Q2156873 a wd:Q179661 ;
+    rdfs:label "Q2156873"^^xsd:string .
+
+wd:Q21651879 a wd:Q3249551 ;
+    rdfs:label "Q21651879"^^xsd:string .
+
+wd:Q21756696 a wd:Q179661 ;
+    rdfs:label "electrolyte replacement"@en .
+
+wd:Q21856751 a wd:Q179661 ;
+    rdfs:label "Q21856751"^^xsd:string .
+
+wd:Q2234987 a wd:Q796194 ;
+    rdfs:label "Culdocentesis"@en .
+
+wd:Q2238004 a wd:Q179661 ;
+    rdfs:label "deep sleep therapy"@en .
+
+wd:Q2246822 a wd:Q179661 ;
+    rdfs:label "4 K model"@en .
+
+wd:Q2258142 a wd:Q179661 ;
+    rdfs:label "Q2258142"^^xsd:string .
+
+wd:Q2263889 a wd:Q41689629 ;
+    rdfs:label "Secondary Security Screening Selection"@en .
+
+wd:Q2267963 a wd:Q179661 ;
+    rdfs:label "selective internal radiation therapy"@en .
+
+wd:Q22942182 a wd:Q179661 ;
+    rdfs:label "Q22942182"^^xsd:string .
+
+wd:Q2301304 a wd:Q41689629 ;
+    rdfs:label "consent procedure"@en .
+
+wd:Q23201577 a wd:Q3249551 ;
+    rdfs:label "carving"@en .
+
+wd:Q23304806 a wd:Q3249551 ;
+    rdfs:label "extra-illustration"@en .
+
+wd:Q2348121 a wd:Q3249551 ;
+    rdfs:label "clock recovery"@en .
+
+wd:Q2370423 a wd:Q179661 ;
+    rdfs:label "Q2370423"^^xsd:string .
+
+wd:Q2405132 a wd:Q179661 ;
+    rdfs:label "Sherborne therapy"@en .
+
+wd:Q2417420 a wd:Q41689629 ;
+    rdfs:label "Q2417420"^^xsd:string .
+
+wd:Q2419446 a wd:Q179661 ;
+    rdfs:label "Management of schizophrenia"@en .
+
+wd:Q2435864 a wd:Q179661 ;
+    rdfs:label "Tinnitus retraining therapy"@en .
+
+wd:Q245117 a wd:Q3249551 ;
+    rdfs:label "relief sculpture"@en .
+
+wd:Q245169 a wd:Q179661 ;
+    rdfs:label "Twelve-step program"@en .
+
+wd:Q2454805 a wd:Q7406919 ;
+    rdfs:label "Q2454805"^^xsd:string .
+
+wd:Q2464535 a wd:Q41689629 ;
+    rdfs:label "Coordinated Regional Incident Management"@en .
+
+wd:Q24747800 a wd:Q7406919 ;
+    rdfs:label "LIGO Open Science Center"@en .
+
+wd:Q2478184 a wd:Q41689629 ;
+    rdfs:label "Q2478184"^^xsd:string .
+
+wd:Q24883234 a wd:Q7406919 ;
+    rdfs:label "Systematic Alien Verification for Entitlements Program"@en .
+
+wd:Q24885926 a wd:Q179661 ;
+    rdfs:label "intravenous fluid replacement"@en .
+
+wd:Q2491359 a wd:Q7406919 ;
+    rdfs:label "line shipping"@en .
+
+wd:Q24975420 a wd:Q179661 ;
+    rdfs:label "treatment as prevention"@en .
+
+wd:Q2501772 a wd:Q179661 ;
+    rdfs:label "Epidural blood patch"@en .
+
+wd:Q2505715 a wd:Q41689629 ;
+    rdfs:label "Article 5 procedure"@en .
+
+wd:Q25091533 a wd:Q179661 ;
+    rdfs:label "Urethral bulking injections"@en .
+
+wd:Q25091543 a wd:Q3249551 ;
+    rdfs:label "repopulation"@en .
+
+wd:Q2521351 a wd:Q41689629 ;
+    rdfs:label "consultation procedure"@en .
+
+wd:Q2552459 a wd:Q7406919 ;
+    rdfs:label "Watcha"@en .
+
+wd:Q25633184 a wd:Q179661 ;
+    rdfs:label "erectile dysfunction  therapy"@en .
+
+wd:Q2590515 a wd:Q7406919 ;
+    rdfs:label "GINAF Rally Service"@en .
+
+wd:Q2593013 a wd:Q179661 ;
+    rdfs:label "voice therapy"@en .
+
+wd:Q25939196 a wd:Q7406919 ;
+    rdfs:label "Yle Tunnus"@en .
+
+wd:Q25942322 a wd:Q7406919 ;
+    rdfs:label "Rio Areena"@en .
+
+wd:Q2608910 a wd:Q7406919 ;
+    rdfs:label "Q2608910"^^xsd:string .
+
+wd:Q2624115 a wd:Q7406919 ;
+    rdfs:label "CP Urban Services (Porto)"@en .
+
+wd:Q263962 a wd:Q179661,
+        wd:Q41689629 ;
+    rdfs:label "transcranial magnetic stimulation"@en .
+
+wd:Q2673285 a wd:Q3249551 ;
+    rdfs:label "Q2673285"^^xsd:string .
+
+wd:Q2682569 a wd:Q179661 ;
+    rdfs:label "Diadynamic therapy"@en .
+
+wd:Q2684143 a wd:Q179661 ;
+    rdfs:label "Q2684143"^^xsd:string .
+
+wd:Q268626 a wd:Q7406919 ;
+    rdfs:label "consultation"@en .
+
+wd:Q2690337 a wd:Q7406919 ;
+    rdfs:label "RoboBraille"@en .
+
+wd:Q27058 a wd:Q46857 ;
+    rdfs:label "approximation"@en .
+
+wd:Q2713311 a wd:Q41689629 ;
+    rdfs:label "Q2713311"^^xsd:string .
+
+wd:Q2762801 a wd:Q7406919 ;
+    rdfs:label "Q2762801"^^xsd:string .
+
+wd:Q27910302 a wd:Q7406919 ;
+    rdfs:label "Q27910302"^^xsd:string .
+
+wd:Q27926656 a wd:Q179661 ;
+    rdfs:label "Q27926656"^^xsd:string .
+
+wd:Q28195494 a wd:Q3249551 ;
+    rdfs:label "fluid flow"@en .
+
+wd:Q283635 a wd:Q3249551 ;
+    rdfs:label "Gold fixing"@en .
+
+wd:Q28453488 a wd:Q179661 ;
+    rdfs:label "medical use of acetic acid"@en .
+
+wd:Q28456114 a wd:Q179661 ;
+    rdfs:label "flea treatment"@en .
+
+wd:Q285332 a wd:Q3249551 ;
+    rdfs:label "Bergeron process"@en .
+
+wd:Q2858735 a wd:Q7406919 ;
+    rdfs:label "AppleCare"@en .
+
+wd:Q28836387 a wd:Q7406919 ;
+    rdfs:label "SIPCA"@en .
+
+wd:Q28862038 a wd:Q179661 ;
+    rdfs:label "Conventional treatment"@en .
+
+wd:Q2893308 a wd:Q179661 ;
+    rdfs:label "Early intervention in psychosis"@en .
+
+wd:Q28940548 a wd:Q7406919 ;
+    rdfs:label "Turkey Relocation Management Services"@en .
+
+wd:Q28940651 a wd:Q7406919 ;
+    rdfs:label "Orient Relocation Services"@en .
+
+wd:Q28940694 a wd:Q7406919 ;
+    rdfs:label "Elit Global"@en .
+
+wd:Q28940717 a wd:Q7406919 ;
+    rdfs:label "XPR solutions"@en .
+
+wd:Q29010608 a wd:Q3249551 ;
+    rdfs:label "efforts to impeach Donald Trump"@en .
+
+wd:Q290912 a wd:Q179661 ;
+    rdfs:label "Hippotherapy"@en .
+
+wd:Q2920267 a wd:Q3249551 ;
+    rdfs:label "Engineering design process"@en .
+
+wd:Q295441 a wd:Q46857 ;
+    rdfs:label "Ökoskopie"@en .
+
+wd:Q295968 a wd:Q7406919 ;
+    rdfs:label "AOL-Phone"@en .
+
+wd:Q296486 a wd:Q3249551 ;
+    rdfs:label "ecocide"@en .
+
+wd:Q2982723 a wd:Q179661 ;
+    rdfs:label "artificial pneumothorax"@en .
+
+wd:Q29864623 a wd:Q31207 ;
+    rdfs:label "Physicians Regional Medical Group"@en .
+
+wd:Q300870 a wd:Q7406919 ;
+    rdfs:label "eBooks on Demand"@en .
+
+wd:Q30087624 a wd:Q7406919 ;
+    rdfs:label "Jalis Express"@en .
+
+wd:Q3011403 a wd:Q41689629 ;
+    rdfs:label "Q3011403"^^xsd:string .
+
+wd:Q30267048 a wd:Q31207 ;
+    rdfs:label "Institut für Salutogenese"@en .
+
+wd:Q30303305 a wd:Q7406919 ;
+    rdfs:label "beauty service"@en .
+
+wd:Q30314402 rdfs:label "Neovasculgen"@en ;
+    rdfs:subClassOf wd:Q213901 .
+
+wd:Q30314851 a wd:Q179661 ;
+    rdfs:label "axicabtagene ciloleucel"@en .
+
+wd:Q30314871 a wd:Q179661 ;
+    rdfs:label "Stromagen"@en .
+
+wd:Q30324198 a wd:Q7406919 ;
+    rdfs:label "Lesbian bar"@en .
+
+wd:Q3059314 a wd:Q46857 ;
+    rdfs:label "Q3059314"^^xsd:string .
+
+wd:Q30753351 a wd:Q179661 ;
+    rdfs:label "Q30753351"^^xsd:string .
+
+wd:Q3146574 a wd:Q179661 ;
+    rdfs:label "IDDEES"@en .
+
+wd:Q31838544 a wd:Q46857 ;
+    rdfs:label "Q31838544"^^xsd:string .
+
+wd:Q321824 a wd:Q179661 ;
+    rdfs:label "Abklatschung"@en .
+
+wd:Q322255 a wd:Q3249551 ;
+    rdfs:label "distributing"@en .
+
+wd:Q32488645 a wd:Q179661 ;
+    rdfs:label "diet therapy"@en .
+
+wd:Q3252988 a wd:Q179661 ;
+    rdfs:label "Chemotherapy"@en .
+
+wd:Q3320995 a wd:Q7406919 ;
+    rdfs:label "website monitoring"@en .
+
+wd:Q3331334 a wd:Q46857 ;
+    rdfs:label "experimentation"@en .
+
+wd:Q3352690 a wd:Q7406919 ;
+    rdfs:label "One tv"@en .
+
+wd:Q3362426 a wd:Q179661 ;
+    rdfs:label "pressure dressing"@en .
+
+wd:Q3466725 a wd:Q179661 ;
+    rdfs:label "traction therapy"@en .
+
+wd:Q3508687 a wd:Q3249551 ;
+    rdfs:label "staging"@en .
+
+wd:Q3516897 a wd:Q179661 ;
+    rdfs:label "Muscle energy technique"@en .
+
+wd:Q3527304 a wd:Q179661 ;
+    rdfs:label "reality therapy"@en .
+
+wd:Q3527308 a wd:Q179661 ;
+    rdfs:label "virtual reality therapy"@en .
+
+wd:Q35587 a wd:Q3249551 ;
+    rdfs:label "WWE Brand Extension"@en .
+
+wd:Q356405 a wd:Q179661 ;
+    rdfs:label "bloodletting"@en .
+
+wd:Q3610005 a wd:Q46857 ;
+    rdfs:label "geophysical survey"@en .
+
+wd:Q3614 a wd:Q179661 ;
+    rdfs:label "Occipital nerve stimulation"@en .
+
+wd:Q36710 a wd:Q46857 ;
+    rdfs:label "qualitative inorganic analysis"@en .
+
+wd:Q3771935 a wd:Q179661 ;
+    rdfs:label "stem-cell therapy"@en .
+
+wd:Q379750 a wd:Q41689629 ;
+    rdfs:label "Advanced trauma life support"@en .
+
+wd:Q387152 a wd:Q179661 ;
+    rdfs:label "Malariotherapy"@en .
+
+wd:Q3982994 a wd:Q7406919 ;
+    rdfs:label "Televideo"@en .
+
+wd:Q4027403 a wd:Q179661 ;
+    rdfs:label "Q4027403"^^xsd:string .
+
+wd:Q4135101 a wd:Q179661 ;
+    rdfs:label "Helminthic therapy"@en .
+
+wd:Q41522805 a wd:Q7406919 ;
+    rdfs:label "drive-thru bank"@en .
+
+wd:Q4153449 a wd:Q46857 ;
+    rdfs:label "JSM-method"@en .
+
+wd:Q41630 a wd:Q179661 ;
+    rdfs:label "psychoanalysis"@en .
+
+wd:Q41658026 a wd:Q7406919 ;
+    rdfs:label "Soite"@en .
+
+wd:Q41904352 a wd:Q7406919 ;
+    rdfs:label "LocationSmart"@en .
+
+wd:Q42429263 a wd:Q7406919 ;
+    rdfs:label "Katso Identification System"@en .
+
+wd:Q4311765 a wd:Q3249551 ;
+    rdfs:label "heating"@en .
+
+wd:Q4335805 a wd:Q179661 ;
+    rdfs:label "Q4335805"^^xsd:string .
+
+wd:Q43379246 a wd:Q31207 ;
+    rdfs:label "Indian Society of Health Professionals"@en .
+
+wd:Q43398530 a wd:Q31207 ;
+    rdfs:label "Raptakos, Brett & Co.Ltd"@en .
+
+wd:Q4430301 a wd:Q179661 ;
+    rdfs:label "sociodrama"@en .
+
+wd:Q45186328 a wd:Q31207 ;
+    rdfs:label "Home health care"@en .
+
+wd:Q4529664 a wd:Q179661 ;
+    rdfs:label "fluid replacement"@en .
+
+wd:Q459499 a wd:Q179661 ;
+    rdfs:label "medical restraint"@en .
+
+wd:Q466952 a wd:Q179661 ;
+    rdfs:label "psychodrama"@en .
+
+wd:Q4713308 a wd:Q179661 ;
+    rdfs:label "Alcohol septal ablation"@en .
+
+wd:Q47161436 a wd:Q3249551 ;
+    rdfs:label "Q47161436"^^xsd:string .
+
+wd:Q47454157 a wd:Q213901 ;
+    rdfs:label "Antisense inhibition"@en .
+
+wd:Q47527110 a wd:Q7406919 ;
+    rdfs:label "Q47527110"^^xsd:string .
+
+wd:Q478590 a wd:Q179661 ;
+    rdfs:label "therapeutic hypothermia"@en .
+
+wd:Q4790326 a wd:Q3249551 ;
+    rdfs:label "Aridification"@en .
+
+wd:Q481374 a wd:Q7406919 ;
+    rdfs:label "Amtstag"@en .
+
+wd:Q4839705 a wd:Q7406919 ;
+    rdfs:label "Backpage"@en .
+
+wd:Q48632515 a wd:Q7406919 ;
+    rdfs:label "Distributed Research using Advanced Computing (DiRAC)"@en .
+
+wd:Q48818118 a wd:Q179661 ;
+    rdfs:label "Nature therapy"@en .
+
+wd:Q48945072 a wd:Q7406919 ;
+    rdfs:label "Q48945072"^^xsd:string .
+
+wd:Q48969410 a wd:Q7406919 ;
+    rdfs:label "Login.gov"@en .
+
+wd:Q498902 a wd:Q179661 ;
+    rdfs:label "drug withdrawal"@en .
+
+wd:Q5038717 a wd:Q179661 ;
+    rdfs:label "Cardiopulmonary rehabilitation"@en .
+
+wd:Q5065757 a wd:Q179661 ;
+    rdfs:label "Cevira"@en .
+
+wd:Q5104534 a wd:Q179661 ;
+    rdfs:label "Chondroitinase treatment"@en .
+
+wd:Q5114262 a wd:Q179661 ;
+    rdfs:label "Chronotherapy"@en .
+
+wd:Q5125031 a wd:Q41689629 ;
+    rdfs:label "Q5125031"^^xsd:string .
+
+wd:Q5148596 a wd:Q3249551 ;
+    rdfs:label "color correction"@en .
+
+wd:Q51879341 a wd:Q41689629 ;
+    rdfs:label "Universal Procedure for Library Assessment"@en .
+
+wd:Q5190625 a wd:Q41689629 ;
+    rdfs:label "Cryptanalysis of the Lorenz cipher"@en .
+
+wd:Q5209391 a wd:Q41689629 ;
+    rdfs:label "daily build"@en .
+
+wd:Q5249554 a wd:Q3249551 ;
+    rdfs:label "decolonisation of Asia"@en .
+
+wd:Q5275276 a wd:Q46857 ;
+    rdfs:label "difference in differences"@en .
+
+wd:Q5321446 a wd:Q7406919 ;
+    rdfs:label "e-QIP"@en .
+
+wd:Q5321473 a wd:Q7406919 ;
+    rdfs:label "E-Verify"@en .
+
+wd:Q5322585 a wd:Q179661 ;
+    rdfs:label "EBOO"@en .
+
+wd:Q5323274 a wd:Q7406919 ;
+    rdfs:label "ELDIS"@en .
+
+wd:Q53502936 a wd:Q7406919 ;
+    rdfs:label "Q53502936"^^xsd:string .
+
+wd:Q53728092 a wd:Q7406919 ;
+    rdfs:label "TSA Pre✓"@en .
+
+wd:Q5373808 a wd:Q179661 ;
+    rdfs:label "Emotionally focused therapy"@en .
+
+wd:Q5376416 a wd:Q796194 ;
+    rdfs:label "Endoscopic stenting"@en .
+
+wd:Q5420061 a wd:Q179661 ;
+    rdfs:label "exercise prescription"@en .
+
+wd:Q5420064 a wd:Q179661 ;
+    rdfs:label "Exercise therapy for idiopathic inflammatory myopathies"@en .
+
+wd:Q54505596 a wd:Q7406919 ;
+    rdfs:label "Student and Exchange Visitor Information System"@en .
+
+wd:Q54824289 a wd:Q7406919 ;
+    rdfs:label "Q54824289"^^xsd:string .
+
+wd:Q54954599 a wd:Q7406919 ;
+    rdfs:label "ArtWorks, the Naomi Cohain Foundation"@en .
+
+wd:Q55181729 a wd:Q41689629 ;
+    rdfs:label "Q55181729"^^xsd:string .
+
+wd:Q559117 a wd:Q7406919 ;
+    rdfs:label "Reverse SMS billing"@en .
+
+wd:Q55971617 a wd:Q179661 ;
+    rdfs:label "exercise-based rehabilitation"@en .
+
+wd:Q5602214 a wd:Q179661 ;
+    rdfs:label "GreenLight Laser Therapy"@en .
+
+wd:Q56196824 a wd:Q7406919 ;
+    rdfs:label "Automated Weather Data Network"@en .
+
+wd:Q5619805 a wd:Q179661 ;
+    rdfs:label "Gurah"@en .
+
+wd:Q56256190 a wd:Q7406919 ;
+    rdfs:label "Ingenta Connect"@en .
+
+wd:Q56297515 a wd:Q7406919 ;
+    rdfs:label "Mitschnittservice"@en .
+
+wd:Q56402796 a wd:Q7406919 ;
+    rdfs:label "Q56402796"^^xsd:string .
+
+wd:Q564740 a wd:Q179661 ;
+    rdfs:label "Q564740"^^xsd:string .
+
+wd:Q564875 a wd:Q179661 ;
+    rdfs:label "therapeutic ultrasound"@en .
+
+wd:Q5658634 a wd:Q179661 ;
+    rdfs:label "Q5658634"^^xsd:string .
+
+wd:Q56665136 a wd:Q46857 ;
+    rdfs:label "discovery science"@en .
+
+wd:Q56676227 a wd:Q3249551 ;
+    rdfs:label "oil painting"@en .
+
+wd:Q56683065 a wd:Q41689629 ;
+    rdfs:label "Q56683065"^^xsd:string .
+
+wd:Q56761385 a wd:Q179661 ;
+    rdfs:label "Q56761385"^^xsd:string .
+
+wd:Q56840306 a wd:Q7406919 ;
+    rdfs:label "VéloStation in Dijon"@en .
+
+wd:Q56934130 a wd:Q213901 ;
+    rdfs:label "Onasemnogene abeparvovec"@en .
+
+wd:Q575241 a wd:Q3249551 ;
+    rdfs:label "Immune complex"@en .
+
+wd:Q57699384 a wd:Q7406919 ;
+    rdfs:label "reference"@en .
+
+wd:Q58368108 a wd:Q7406919 ;
+    rdfs:label "Your Handyman of Chicagoland"@en .
+
+wd:Q58864601 a wd:Q3249551 ;
+    rdfs:label "Q58864601"^^xsd:string .
+
+wd:Q5941904 a wd:Q3249551 ;
+    rdfs:label "Humvee replacement process"@en .
+
+wd:Q59489099 a wd:Q7406919 ;
+    rdfs:label "Q59489099"^^xsd:string .
+
+wd:Q59627780 a wd:Q3249551 ;
+    rdfs:label "transition"@en .
+
+wd:Q59771126 a wd:Q179661 ;
+    rdfs:label "FOLFOX-4"@en .
+
+wd:Q60575020 a wd:Q179661 ;
+    rdfs:label "Antenatal steroid"@en .
+
+wd:Q60742850 a wd:Q179661 ;
+    rdfs:label "Vestibular rehabilitation"@en .
+
+wd:Q608613 a wd:Q3249551 ;
+    rdfs:label "fall of the Western Roman Empire"@en .
+
+wd:Q60972106 a wd:Q3249551 ;
+    rdfs:label "Q60972106"^^xsd:string .
+
+wd:Q6100763 a wd:Q179661 ;
+    rdfs:label "Cinema therapy"@en .
+
+wd:Q61695203 a wd:Q3249551 ;
+    rdfs:label "Digital Intermediate"@en .
+
+wd:Q61864293 a wd:Q3249551 ;
+    rdfs:label "Q61864293"^^xsd:string .
+
+wd:Q61960396 a wd:Q3249551 ;
+    rdfs:label "prudent behavior"@en .
+
+wd:Q62068120 a wd:Q3249551 ;
+    rdfs:label "personal data ecosystem mapping process"@en .
+
+wd:Q622676 a wd:Q179661 ;
+    rdfs:label "hydrotherapy"@en .
+
+wd:Q62390833 a wd:Q179661 ;
+    rdfs:label "Q62390833"^^xsd:string .
+
+wd:Q62421649 a wd:Q179661 ;
+    rdfs:label "LEGO therapy"@en .
+
+wd:Q62718822 a wd:Q7406919 ;
+    rdfs:label "Sculpture Conservation Studio of Constantinople Inc."@en .
+
+wd:Q627339 a wd:Q3249551 ;
+    rdfs:label "Job analysis"@en .
+
+wd:Q6298197 a wd:Q179661 ;
+    rdfs:label "sclerotherapy"@en .
+
+wd:Q63100 a wd:Q3249551 ;
+    rdfs:label "urban design"@en .
+
+wd:Q63302202 a wd:Q3249551 ;
+    rdfs:label "language standardization"@en .
+
+wd:Q63435709 a wd:Q7406919 ;
+    rdfs:label "Substack"@en .
+
+wd:Q63859027 a wd:Q3249551 ;
+    rdfs:label "river renaturalization"@en .
+
+wd:Q63927838 a wd:Q3249551 ;
+    rdfs:label "hyperlocalization"@en .
+
+wd:Q640990 a wd:Q7406919 ;
+    rdfs:label "phone sex"@en .
+
+wd:Q6458680 a wd:Q179661 ;
+    rdfs:label "LILFU"@en .
+
+wd:Q64698618 a wd:Q7406919 ;
+    rdfs:label "Q64698618"^^xsd:string .
+
+wd:Q64765658 a wd:Q179661 ;
+    rdfs:label "Q64765658"^^xsd:string .
+
+wd:Q64797009 a wd:Q179661 ;
+    rdfs:label "Q64797009"^^xsd:string .
+
+wd:Q64935171 a wd:Q179661 ;
+    rdfs:label "perfusion"@en .
+
+wd:Q65042425 a wd:Q3249551 ;
+    rdfs:label "percent free time"@en .
+
+wd:Q65269551 a wd:Q179661 ;
+    rdfs:label "Q65269551"^^xsd:string .
+
+wd:Q6542545 a wd:Q3249551 ;
+    rdfs:label "Library assessment"@en .
+
+wd:Q65546861 a wd:Q41689629 ;
+    rdfs:label "Q65546861"^^xsd:string .
+
+wd:Q66150420 a wd:Q3249551 ;
+    rdfs:label "brickmaking"@en .
+
+wd:Q66157046 a wd:Q3249551 ;
+    rdfs:label "mainstreaming"@en .
+
+wd:Q66309832 a wd:Q3249551 ;
+    rdfs:label "ironworking"@en .
+
+wd:Q66686287 a wd:Q179661 ;
+    rdfs:label "Q66686287"^^xsd:string .
+
+wd:Q66686291 a wd:Q179661 ;
+    rdfs:label "Q66686291"^^xsd:string .
+
+wd:Q66828125 a wd:Q3249551 ;
+    rdfs:label "Spanish settlement at San Tomas, Hispaniola"@en .
+
+wd:Q66972929 a wd:Q3249551 ;
+    rdfs:label "Spanish discovery of gold in Cibao"@en .
+
+wd:Q6714655 a wd:Q3249551 ;
+    rdfs:label "MBASE"@en .
+
+wd:Q6735317 a wd:Q7406919 ;
+    rdfs:label "Maid service"@en .
+
+wd:Q67399449 a wd:Q31207 ;
+    rdfs:label "Q67399449"^^xsd:string .
+
+wd:Q67432257 a wd:Q179661 ;
+    rdfs:label "ischemic postconditioning"@en .
+
+wd:Q675351 a wd:Q7406919 ;
+    rdfs:label "Aeronautical Information Service"@en .
+
+wd:Q67777802 a wd:Q7406919 ;
+    rdfs:label "NHS Hospital Advisory Service"@en .
+
+wd:Q6900510 a wd:Q3249551 ;
+    rdfs:label "Monitoring in clinical trials"@en .
+
+wd:Q6928435 a wd:Q41689629 ;
+    rdfs:label "Mr. Big"@en .
+
+wd:Q6947268 a wd:Q179661 ;
+    rdfs:label "Mydicar"@en .
+
+wd:Q69994234 a wd:Q179661 ;
+    rdfs:label "Q69994234"^^xsd:string .
+
+wd:Q7118047 a wd:Q7406919 ;
+    rdfs:label "PACER"@en .
+
+wd:Q7133249 a wd:Q179661 ;
+    rdfs:label "Papworth method"@en .
+
+wd:Q7145044 a wd:Q3249551 ;
+    rdfs:label "Patio process"@en .
+
+wd:Q7181 a wd:Q3249551 ;
+    rdfs:label "globalization"@en .
+
+wd:Q71824695 a wd:Q7406919 ;
+    rdfs:label "Advanpro"@en .
+
+wd:Q72316098 a wd:Q3249551 ;
+    rdfs:label "mobilisation"@en .
+
+wd:Q7239230 a wd:Q179661 ;
+    rdfs:label "pre-exposure prophylaxis"@en .
+
+wd:Q72400633 a wd:Q3249551 ;
+    rdfs:label "VisualAudio"@en .
+
+wd:Q7251222 a wd:Q179661 ;
+    rdfs:label "protease-sparing regimen"@en .
+
+wd:Q725710 a wd:Q179661 ;
+    rdfs:label "Ashley Treatment"@en .
+
+wd:Q7259691 a wd:Q179661 ;
+    rdfs:label "Pulsed electromagnetic field therapy"@en .
+
+wd:Q73040268 a wd:Q179661 ;
+    rdfs:label "Tocolysis"@en .
+
+wd:Q73524156 a wd:Q179661 ;
+    rdfs:label "Rewarming"@en .
+
+wd:Q7368126 a wd:Q31207 ;
+    rdfs:label "Rosecrance"@en .
+
+wd:Q7386727 a wd:Q7406919 ;
+    rdfs:label "Røros Flyservice"@en .
+
+wd:Q7390193 a wd:Q7406919 ;
+    rdfs:label "SHERPA"@en .
+
+wd:Q7417625 a wd:Q31207 ;
+    rdfs:label "Sanford Health"@en .
+
+wd:Q7439057 a wd:Q3249551 ;
+    rdfs:label "Screening resumes"@en .
+
+wd:Q7452043 a wd:Q179661 ;
+    rdfs:label "Septal myectomy"@en .
+
+wd:Q7456819 a wd:Q179661 ;
+    rdfs:label "Seton stitch"@en .
+
+wd:Q74666741 a wd:Q31207 ;
+    rdfs:label "Q74666741"^^xsd:string .
+
+wd:Q748015 a wd:Q3249551 ;
+    rdfs:label "Chilean transition to democracy"@en .
+
+wd:Q7502024 a wd:Q46857 ;
+    rdfs:label "short circuit test"@en .
+
+wd:Q75145881 a wd:Q7406919 ;
+    rdfs:label "JUDO ERP Solutions"@en .
+
+wd:Q7522031 a wd:Q179661 ;
+    rdfs:label "Sinclair Method"@en .
+
+wd:Q7531796 a wd:Q3249551 ;
+    rdfs:label "site selection"@en .
+
+wd:Q75341577 a wd:Q7406919 ;
+    rdfs:label "TAK Cleaning Services"@en .
+
+wd:Q7539765 a wd:Q179661 ;
+    rdfs:label "Sleep phase chronotherapy"@en .
+
+wd:Q7577455 a wd:Q179661 ;
+    rdfs:label "Spinal decompression"@en .
+
+wd:Q7635413 a wd:Q3249551 ;
+    rdfs:label "Suicide watch"@en .
+
+wd:Q7690600 a wd:Q179661 ;
+    rdfs:label "Tbx18 transduction"@en .
+
+wd:Q770206 a wd:Q179661 ;
+    rdfs:label "airway extubation"@en .
+
+wd:Q77686553 a wd:Q31207 ;
+    rdfs:label "Q77686553"^^xsd:string .
+
+wd:Q7831079 a wd:Q179661 ;
+    rdfs:label "Trabeculoplasty"@en .
+
+wd:Q7833947 a wd:Q179661 ;
+    rdfs:label "Transcutaneous pacing"@en .
+
+wd:Q7836912 a wd:Q179661 ;
+    rdfs:label "Treatment of warts by keratolysis"@en .
+
+wd:Q78815097 a wd:Q41689629 ;
+    rdfs:label "Human Rights Council Complaint Procedure"@en .
+
+wd:Q79002247 a wd:Q3249551 ;
+    rdfs:label "blood typing"@en .
+
+wd:Q790640 a wd:Q179661 ;
+    rdfs:label "aversion therapy"@en .
+
+wd:Q79119380 a wd:Q31207 ;
+    rdfs:label "Q79119380"^^xsd:string .
+
+wd:Q795594 a wd:Q7406919 ;
+    rdfs:label "BBC Red Button"@en .
+
+wd:Q7961010 a wd:Q179661 ;
+    rdfs:label "Wake therapy"@en .
+
+wd:Q7973430 a wd:Q3249551 ;
+    rdfs:label "water aeration"@en .
+
+wd:Q81137196 a wd:Q179661 ;
+    rdfs:label "orthodontic treatment"@en .
+
+wd:Q813230 a wd:Q179661 ;
+    rdfs:label "weaning from mechanical ventilation"@en .
+
+wd:Q81329686 a wd:Q179661 ;
+    rdfs:label "Q81329686"^^xsd:string .
+
+wd:Q8184747 a wd:Q7406919 ;
+    rdfs:label "Q8184747"^^xsd:string .
+
+wd:Q82086674 a wd:Q179661 ;
+    rdfs:label "Cerumen removal"@en .
+
+wd:Q82648864 a wd:Q179661 ;
+    rdfs:label "amnioreduction"@en .
+
+wd:Q84757986 a wd:Q3249551 ;
+    rdfs:label "evaluation (education)"@en .
+
+wd:Q847651 a wd:Q7406919 ;
+    rdfs:label "CP Urban Services (Lisbon)"@en .
+
+wd:Q84846960 a wd:Q3249551 ;
+    rdfs:label "water deficit"@en .
+
+wd:Q84847152 a wd:Q3249551 ;
+    rdfs:label "Fluvial processes"@en .
+
+wd:Q852506 a wd:Q179661 ;
+    rdfs:label "Q852506"^^xsd:string .
+
+wd:Q85502 a wd:Q3249551 ;
+    rdfs:label "secularization"@en .
+
+wd:Q85621166 a wd:Q3249551 ;
+    rdfs:label "pencil drawing"@en .
+
+wd:Q86065209 a wd:Q7406919 ;
+    rdfs:label "Q86065209"^^xsd:string .
+
+wd:Q86500202 a wd:Q3249551 ;
+    rdfs:label "Joining of the Archdiocese of Russian Orthodox churches in Western Europe to the Moscow Patriarchate"@en .
+
+wd:Q86908652 a wd:Q3249551 ;
+    rdfs:label "Drawing made with watered China ink"@en .
+
+wd:Q86908790 a wd:Q3249551 ;
+    rdfs:label "Semi-oil"@en .
+
+wd:Q876072 a wd:Q3249551 ;
+    rdfs:label "Universal Periodic Review"@en .
+
+wd:Q898934 a wd:Q46857 ;
+    rdfs:label "Kjeldahl method"@en .
+
+wd:Q899277 a wd:Q7406919 ;
+    rdfs:label "recruitment"@en .
+
+wd:Q902898 a wd:Q3249551 ;
+    rdfs:label "electron transfer"@en .
+
+wd:Q903397 a wd:Q3249551 ;
+    rdfs:label "Phlegmatized"@en .
+
+wd:Q911439 a wd:Q7406919 ;
+    rdfs:label "Scalr"@en .
+
+wd:Q916766 a wd:Q179661 ;
+    rdfs:label "Enzyme replacement therapy"@en .
+
+wd:Q920313 a wd:Q7406919 ;
+    rdfs:label "iAd"@en .
+
+wd:Q928865 a wd:Q179661 ;
+    rdfs:label "art therapy"@en .
+
+wd:Q959049 a wd:Q3249551 ;
+    rdfs:label "music production"@en .
+
+wd:Q966233 a wd:Q41689629 ;
+    rdfs:label "Actio familiae erciscundae"@en .
+
+wd:Q977984 a wd:Q3249551 ;
+    rdfs:label "deglobalization"@en .
+
+wd:Q980517 a wd:Q179661 ;
+    rdfs:label "list of twelve-step groups"@en .
+
+wd:Q2421951 rdfs:label "care"@en .
+
+wd:Q26256310 rdfs:label "treatment"@en ;
+    rdfs:subClassOf wd:Q3249551 .
+
+wd:Q796194 rdfs:label "medical procedure"@en ;
+    rdfs:subClassOf wd:Q3249551,
+        wd:Q41689629,
+        wd:Q46857 .
+
+wd:Q213901 rdfs:label "gene therapy"@en ;
+    rdfs:subClassOf wd:Q179661 .
+
+wd:Q31207 rdfs:label "health care"@en ;
+    rdfs:subClassOf wd:Q2421951,
+        wd:Q7406919 .
+
+wd:Q46857 rdfs:label "scientific method"@en .
+
+wd:Q41689629 rdfs:label "procedure"@en .
+
+wd:Q7406919 rdfs:label "service"@en .
+
+wd:Q3249551 rdfs:label "process"@en .
+
+wd:Q179661 rdfs:label "treatment"@en ;
+    rdfs:subClassOf wd:Q26256310,
+        wd:Q31207,
+        wd:Q796194 .
+

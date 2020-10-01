@@ -1,0 +1,4499 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1005897 a wd:Q7590 ;
+    rdfs:label "Public transport in Fót"@en .
+
+wd:Q10119735 a wd:Q7590 ;
+    rdfs:label "Q10119735"^^xsd:string .
+
+wd:Q10263732 a wd:Q1420 ;
+    rdfs:label "Q10263732"^^xsd:string .
+
+wd:Q10287221 a wd:Q1420 ;
+    rdfs:label "GMC Sonoma"@en .
+
+wd:Q10293027 a wd:Q1420 ;
+    rdfs:label "Q10293027"^^xsd:string .
+
+wd:Q10293029 a wd:Q1420 ;
+    rdfs:label "Gurgel Carajás"@en .
+
+wd:Q10293031 a wd:Q1420 ;
+    rdfs:label "Q10293031"^^xsd:string .
+
+wd:Q10293032 a wd:Q1420 ;
+    rdfs:label "Q10293032"^^xsd:string .
+
+wd:Q10293033 a wd:Q1420 ;
+    rdfs:label "Q10293033"^^xsd:string .
+
+wd:Q10293037 a wd:Q1420 ;
+    rdfs:label "Q10293037"^^xsd:string .
+
+wd:Q10293039 a wd:Q1420 ;
+    rdfs:label "Q10293039"^^xsd:string .
+
+wd:Q10293040 a wd:Q1420 ;
+    rdfs:label "Q10293040"^^xsd:string .
+
+wd:Q10293041 a wd:Q1420 ;
+    rdfs:label "Q10293041"^^xsd:string .
+
+wd:Q10293042 a wd:Q1420 ;
+    rdfs:label "Q10293042"^^xsd:string .
+
+wd:Q10293043 a wd:Q1420 ;
+    rdfs:label "Q10293043"^^xsd:string .
+
+wd:Q10293044 a wd:Q1420 ;
+    rdfs:label "Q10293044"^^xsd:string .
+
+wd:Q10293045 a wd:Q1420 ;
+    rdfs:label "Q10293045"^^xsd:string .
+
+wd:Q10293046 a wd:Q1420 ;
+    rdfs:label "Q10293046"^^xsd:string .
+
+wd:Q10314280 a wd:Q1420 ;
+    rdfs:label "Q10314280"^^xsd:string .
+
+wd:Q10352307 a wd:Q1420 ;
+    rdfs:label "Jaguar XK Type"@en .
+
+wd:Q10360769 a wd:Q1420 ;
+    rdfs:label "ACM Enduro X4"@en .
+
+wd:Q10405271 a wd:Q1420 ;
+    rdfs:label "Q10405271"^^xsd:string .
+
+wd:Q1063283 a wd:Q1420 ;
+    rdfs:label "Kharkovchanka"@en .
+
+wd:Q1070119 a wd:Q7590 ;
+    rdfs:label "1925 serum run to Nome"@en .
+
+wd:Q10774807 a wd:Q1420 ;
+    rdfs:label "Q10774807"^^xsd:string .
+
+wd:Q10858998 a wd:Q1420 ;
+    rdfs:label "Q10858998"^^xsd:string .
+
+wd:Q10859003 a wd:Q1420 ;
+    rdfs:label "Q10859003"^^xsd:string .
+
+wd:Q10859038 a wd:Q1420 ;
+    rdfs:label "Audi 100 Coupé S"@en .
+
+wd:Q1093683 a wd:Q1420 ;
+    rdfs:label "Citroën Typ 32"@en .
+
+wd:Q11231465 a wd:Q1420 ;
+    rdfs:label "Q11231465"^^xsd:string .
+
+wd:Q1127290 a wd:Q1420 ;
+    rdfs:label "Q1127290"^^xsd:string .
+
+wd:Q11344085 a wd:Q1420 ;
+    rdfs:label "Mercedes-Benz W207"@en .
+
+wd:Q1146709 a wd:Q1420 ;
+    rdfs:label "Fiat Fiorino"@en .
+
+wd:Q114991 a wd:Q7590 ;
+    rdfs:label "Transport in Spain"@en .
+
+wd:Q11682247 a wd:Q1420 ;
+    rdfs:label "Renault EF1"@en .
+
+wd:Q11682583 a wd:Q1420 ;
+    rdfs:label "TVR Tuscan T400R"@en .
+
+wd:Q11682875 a wd:Q1420 ;
+    rdfs:label "Vauxhall Nova"@en .
+
+wd:Q11752685 a wd:Q1420 ;
+    rdfs:label "Q11752685"^^xsd:string .
+
+wd:Q11753294 a wd:Q1420 ;
+    rdfs:label "Q11753294"^^xsd:string .
+
+wd:Q11773888 a wd:Q1420 ;
+    rdfs:label "Q11773888"^^xsd:string .
+
+wd:Q11774032 a wd:Q1420 ;
+    rdfs:label "Dacia 1410"@en .
+
+wd:Q11785743 a wd:Q1420 ;
+    rdfs:label "Q11785743"^^xsd:string .
+
+wd:Q11821951 a wd:Q1420 ;
+    rdfs:label "Polonia"@en .
+
+wd:Q11856213 a wd:Q1420 ;
+    rdfs:label "Q11856213"^^xsd:string .
+
+wd:Q11886105 a wd:Q7590 ;
+    rdfs:label "Transport in Oulu"@en .
+
+wd:Q119859 a wd:Q1420 ;
+    rdfs:label "Citroën C8"@en .
+
+wd:Q12032398 a wd:Q1420 ;
+    rdfs:label "Q12032398"^^xsd:string .
+
+wd:Q12032705 a wd:Q1420 ;
+    rdfs:label "Land Rover Defender 130 Kajman (ACR)"@en .
+
+wd:Q12032782 a wd:Q1420 ;
+    rdfs:label "Q12032782"^^xsd:string .
+
+wd:Q12032783 a wd:Q1420 ;
+    rdfs:label "Q12032783"^^xsd:string .
+
+wd:Q12032784 a wd:Q1420 ;
+    rdfs:label "Q12032784"^^xsd:string .
+
+wd:Q12032785 a wd:Q1420 ;
+    rdfs:label "Q12032785"^^xsd:string .
+
+wd:Q12032786 a wd:Q1420 ;
+    rdfs:label "Q12032786"^^xsd:string .
+
+wd:Q12032787 a wd:Q1420 ;
+    rdfs:label "Q12032787"^^xsd:string .
+
+wd:Q12038717 a wd:Q1420 ;
+    rdfs:label "Moskvich-2138"@en .
+
+wd:Q12058348 a wd:Q1420 ;
+    rdfs:label "Q12058348"^^xsd:string .
+
+wd:Q12058352 a wd:Q1420 ;
+    rdfs:label "Q12058352"^^xsd:string .
+
+wd:Q12058353 a wd:Q1420 ;
+    rdfs:label "Tatra 613-4 Mi Long Electronic"@en .
+
+wd:Q12058354 a wd:Q1420 ;
+    rdfs:label "Q12058354"^^xsd:string .
+
+wd:Q12059671 a wd:Q1420 ;
+    rdfs:label "Q12059671"^^xsd:string .
+
+wd:Q12059673 a wd:Q1420 ;
+    rdfs:label "Q12059673"^^xsd:string .
+
+wd:Q12059748 a wd:Q7590 ;
+    rdfs:label "Q12059748"^^xsd:string .
+
+wd:Q12313060 a wd:Q7590 ;
+    rdfs:label "FL-Group"@en .
+
+wd:Q12500210 a wd:Q752870 ;
+    rdfs:label "Nayor"@en .
+
+wd:Q12538522 a wd:Q1420 ;
+    rdfs:label "Q12538522"^^xsd:string .
+
+wd:Q126703 a wd:Q1420 ;
+    rdfs:label "VAZ-21099"@en .
+
+wd:Q1267176 a wd:Q1420 ;
+    rdfs:label "Ligier Nova"@en .
+
+wd:Q12777205 a wd:Q1420 ;
+    rdfs:label "TAZ 1500"@en .
+
+wd:Q12779191 a wd:Q1420 ;
+    rdfs:label "Q12779191"^^xsd:string .
+
+wd:Q12785277 a wd:Q1420 ;
+    rdfs:label "Auto-Union Typ B"@en .
+
+wd:Q1283235 a wd:Q7590 ;
+    rdfs:label "Transport in Italy"@en .
+
+wd:Q1287964 a wd:Q7590 ;
+    rdfs:label "Transport in Ireland"@en .
+
+wd:Q1291345 a wd:Q1420 ;
+    rdfs:label "Ferrari 612 CanAm"@en .
+
+wd:Q13383498 a wd:Q7590 ;
+    rdfs:label "transport in Île-de-France"@en .
+
+wd:Q13424405 a wd:Q1420 ;
+    rdfs:label "Q13424405"^^xsd:string .
+
+wd:Q1356018 a wd:Q1420 ;
+    rdfs:label "Ferrari 330LMB"@en .
+
+wd:Q13581439 a wd:Q1420 ;
+    rdfs:label "Audi R8R"@en .
+
+wd:Q1400127 a wd:Q741490 ;
+    rdfs:label "Spirit of Berlin"@en .
+
+wd:Q1407614 a wd:Q1420 ;
+    rdfs:label "Ferrari 212E Mountain"@en .
+
+wd:Q1407616 a wd:Q1420 ;
+    rdfs:label "Ferrari 212F2"@en .
+
+wd:Q1407626 a wd:Q1420 ;
+    rdfs:label "Ferrari 250P"@en .
+
+wd:Q1407645 a wd:Q1420 ;
+    rdfs:label "Ferrari 290S"@en .
+
+wd:Q1407694 a wd:Q1420 ;
+    rdfs:label "Ferrari 375 Plus"@en .
+
+wd:Q1407727 a wd:Q1420 ;
+    rdfs:label "Ferrari 857S"@en .
+
+wd:Q1407744 a wd:Q1420 ;
+    rdfs:label "Ferrari Dino 166 F2"@en .
+
+wd:Q1431175 a wd:Q741490 ;
+    rdfs:label "Stanley"@en .
+
+wd:Q14516277 a wd:Q1420 ;
+    rdfs:label "Volkswagen Golf Rally G60"@en .
+
+wd:Q14607513 a wd:Q1420 ;
+    rdfs:label "Toyota FT-86"@en .
+
+wd:Q1465396 a wd:Q7590 ;
+    rdfs:label "K+R"@en .
+
+wd:Q1485965 a wd:Q1420 ;
+    rdfs:label "GMC Yukon"@en .
+
+wd:Q15041685 a wd:Q1420 ;
+    rdfs:label "Q15041685"^^xsd:string .
+
+wd:Q15041687 a wd:Q1420 ;
+    rdfs:label "Q15041687"^^xsd:string .
+
+wd:Q15055356 a wd:Q1420 ;
+    rdfs:label "Bugatti Type 68"@en .
+
+wd:Q15059068 a wd:Q1420 ;
+    rdfs:label "Q15059068"^^xsd:string .
+
+wd:Q15116742 a wd:Q1420 ;
+    rdfs:label "Q15116742"^^xsd:string .
+
+wd:Q15140899 a wd:Q1420 ;
+    rdfs:label "Q15140899"^^xsd:string .
+
+wd:Q15141118 a wd:Q1420 ;
+    rdfs:label "Q15141118"^^xsd:string .
+
+wd:Q15141237 a wd:Q1420 ;
+    rdfs:label "Q15141237"^^xsd:string .
+
+wd:Q15141507 a wd:Q1420 ;
+    rdfs:label "Q15141507"^^xsd:string .
+
+wd:Q15141508 a wd:Q1420 ;
+    rdfs:label "Q15141508"^^xsd:string .
+
+wd:Q15141716 a wd:Q1420 ;
+    rdfs:label "Q15141716"^^xsd:string .
+
+wd:Q15221255 a wd:Q1420 ;
+    rdfs:label "Q15221255"^^xsd:string .
+
+wd:Q15277153 a wd:Q1420 ;
+    rdfs:label "Aston Martin DP212"@en .
+
+wd:Q15617360 a wd:Q1420 ;
+    rdfs:label "Fiat Ottimo"@en .
+
+wd:Q15622878 a wd:Q1420 ;
+    rdfs:label "Q15622878"^^xsd:string .
+
+wd:Q1562653 a wd:Q741490 ;
+    rdfs:label "H1ghlander"@en .
+
+wd:Q15726726 a wd:Q1420 ;
+    rdfs:label "Peugeot Hoggar (coupé utility)"@en .
+
+wd:Q15845693 a wd:Q1420 ;
+    rdfs:label "Sbarro Chrono"@en .
+
+wd:Q15851515 a wd:Q752870 ;
+    rdfs:label "Q15851515"^^xsd:string .
+
+wd:Q15890647 a wd:Q1420 ;
+    rdfs:label "Q15890647"^^xsd:string .
+
+wd:Q15962463 a wd:Q1420 ;
+    rdfs:label "Q15962463"^^xsd:string .
+
+wd:Q15962464 a wd:Q1420 ;
+    rdfs:label "Q15962464"^^xsd:string .
+
+wd:Q15966364 a wd:Q1420 ;
+    rdfs:label "Q15966364"^^xsd:string .
+
+wd:Q15981273 a wd:Q1420 ;
+    rdfs:label "Q15981273"^^xsd:string .
+
+wd:Q15991388 a wd:Q1420 ;
+    rdfs:label "Toyota Yaris WRC"@en .
+
+wd:Q16034230 a wd:Q1420 ;
+    rdfs:label "Q16034230"^^xsd:string .
+
+wd:Q16039782 a wd:Q1420 ;
+    rdfs:label "Q16039782"^^xsd:string .
+
+wd:Q16039818 a wd:Q1420 ;
+    rdfs:label "Q16039818"^^xsd:string .
+
+wd:Q16039822 a wd:Q1420 ;
+    rdfs:label "Q16039822"^^xsd:string .
+
+wd:Q16039824 a wd:Q1420 ;
+    rdfs:label "Q16039824"^^xsd:string .
+
+wd:Q16039826 a wd:Q1420 ;
+    rdfs:label "Q16039826"^^xsd:string .
+
+wd:Q16039940 a wd:Q1420 ;
+    rdfs:label "Q16039940"^^xsd:string .
+
+wd:Q16039957 a wd:Q1420 ;
+    rdfs:label "Q16039957"^^xsd:string .
+
+wd:Q16040026 a wd:Q1420 ;
+    rdfs:label "Q16040026"^^xsd:string .
+
+wd:Q16040086 a wd:Q1420 ;
+    rdfs:label "Q16040086"^^xsd:string .
+
+wd:Q16040170 a wd:Q1420 ;
+    rdfs:label "Q16040170"^^xsd:string .
+
+wd:Q16040174 a wd:Q1420 ;
+    rdfs:label "Q16040174"^^xsd:string .
+
+wd:Q16040199 a wd:Q1420 ;
+    rdfs:label "Q16040199"^^xsd:string .
+
+wd:Q16040201 a wd:Q1420 ;
+    rdfs:label "Cadillac Escalade EXT"@en .
+
+wd:Q16040443 a wd:Q1420 ;
+    rdfs:label "Q16040443"^^xsd:string .
+
+wd:Q16040478 a wd:Q1420 ;
+    rdfs:label "Q16040478"^^xsd:string .
+
+wd:Q16040480 a wd:Q1420 ;
+    rdfs:label "Q16040480"^^xsd:string .
+
+wd:Q16040558 a wd:Q1420 ;
+    rdfs:label "Q16040558"^^xsd:string .
+
+wd:Q16040562 a wd:Q1420 ;
+    rdfs:label "Q16040562"^^xsd:string .
+
+wd:Q16040564 a wd:Q1420 ;
+    rdfs:label "Q16040564"^^xsd:string .
+
+wd:Q16040566 a wd:Q1420 ;
+    rdfs:label "Q16040566"^^xsd:string .
+
+wd:Q16040570 a wd:Q1420 ;
+    rdfs:label "Q16040570"^^xsd:string .
+
+wd:Q16040606 a wd:Q1420 ;
+    rdfs:label "Q16040606"^^xsd:string .
+
+wd:Q16040764 a wd:Q1420 ;
+    rdfs:label "Q16040764"^^xsd:string .
+
+wd:Q16040768 a wd:Q1420 ;
+    rdfs:label "Q16040768"^^xsd:string .
+
+wd:Q16040782 a wd:Q1420 ;
+    rdfs:label "Q16040782"^^xsd:string .
+
+wd:Q16040791 a wd:Q1420 ;
+    rdfs:label "Q16040791"^^xsd:string .
+
+wd:Q16040931 a wd:Q1420 ;
+    rdfs:label "Q16040931"^^xsd:string .
+
+wd:Q16040942 a wd:Q1420 ;
+    rdfs:label "Q16040942"^^xsd:string .
+
+wd:Q16041012 a wd:Q1420 ;
+    rdfs:label "Q16041012"^^xsd:string .
+
+wd:Q16041116 a wd:Q1420 ;
+    rdfs:label "Q16041116"^^xsd:string .
+
+wd:Q16041130 a wd:Q1420 ;
+    rdfs:label "Q16041130"^^xsd:string .
+
+wd:Q16041184 a wd:Q1420 ;
+    rdfs:label "Q16041184"^^xsd:string .
+
+wd:Q16041190 a wd:Q1420 ;
+    rdfs:label "Q16041190"^^xsd:string .
+
+wd:Q16041222 a wd:Q1420 ;
+    rdfs:label "Q16041222"^^xsd:string .
+
+wd:Q16041224 a wd:Q1420 ;
+    rdfs:label "TVR 280i"@en .
+
+wd:Q16041228 a wd:Q1420 ;
+    rdfs:label "Delahaye Type 32"@en .
+
+wd:Q16041291 a wd:Q1420 ;
+    rdfs:label "Q16041291"^^xsd:string .
+
+wd:Q16041293 a wd:Q1420 ;
+    rdfs:label "Q16041293"^^xsd:string .
+
+wd:Q16041297 a wd:Q1420 ;
+    rdfs:label "Q16041297"^^xsd:string .
+
+wd:Q16041306 a wd:Q1420 ;
+    rdfs:label "Q16041306"^^xsd:string .
+
+wd:Q1606053 a wd:Q1420 ;
+    rdfs:label "Pagani Zonda F"@en .
+
+wd:Q16161728 a wd:Q1420 ;
+    rdfs:label "Q16161728"^^xsd:string .
+
+wd:Q1620245 a wd:Q1420 ;
+    rdfs:label "Golden Arrow"@en .
+
+wd:Q16268227 a wd:Q1420 ;
+    rdfs:label "Ferrari California T"@en .
+
+wd:Q16268440 a wd:Q1420 ;
+    rdfs:label "Q16268440"^^xsd:string .
+
+wd:Q16467691 a wd:Q1420 ;
+    rdfs:label "Peugeot Exalt Concept"@en .
+
+wd:Q16468673 a wd:Q1420 ;
+    rdfs:label "Sbarro GT1"@en .
+
+wd:Q16469603 a wd:Q1420 ;
+    rdfs:label "Sbarro Formula 5000"@en .
+
+wd:Q16487484 a wd:Q1420 ;
+    rdfs:label "Maserati A6G"@en .
+
+wd:Q16524523 a wd:Q1420 ;
+    rdfs:label "Abarth 207 A"@en .
+
+wd:Q16525340 a wd:Q1420 ;
+    rdfs:label "Q16525340"^^xsd:string .
+
+wd:Q16526063 a wd:Q1420 ;
+    rdfs:label "Q16526063"^^xsd:string .
+
+wd:Q16528887 a wd:Q1420 ;
+    rdfs:label "Q16528887"^^xsd:string .
+
+wd:Q16529423 a wd:Q1420 ;
+    rdfs:label "Q16529423"^^xsd:string .
+
+wd:Q16529426 a wd:Q1420 ;
+    rdfs:label "Q16529426"^^xsd:string .
+
+wd:Q16529430 a wd:Q1420 ;
+    rdfs:label "Q16529430"^^xsd:string .
+
+wd:Q16529434 a wd:Q1420 ;
+    rdfs:label "Q16529434"^^xsd:string .
+
+wd:Q16529439 a wd:Q1420 ;
+    rdfs:label "Q16529439"^^xsd:string .
+
+wd:Q16529443 a wd:Q1420 ;
+    rdfs:label "Aston Martin International"@en .
+
+wd:Q16529448 a wd:Q1420 ;
+    rdfs:label "Q16529448"^^xsd:string .
+
+wd:Q16529456 a wd:Q1420 ;
+    rdfs:label "Q16529456"^^xsd:string .
+
+wd:Q16529840 a wd:Q1420 ;
+    rdfs:label "Audi Nanuk quattro Concept"@en .
+
+wd:Q16530184 a wd:Q1420 ;
+    rdfs:label "Q16530184"^^xsd:string .
+
+wd:Q16530515 a wd:Q1420 ;
+    rdfs:label "Q16530515"^^xsd:string .
+
+wd:Q16530845 a wd:Q1420 ;
+    rdfs:label "Q16530845"^^xsd:string .
+
+wd:Q16534084 a wd:Q1420 ;
+    rdfs:label "Q16534084"^^xsd:string .
+
+wd:Q16539569 a wd:Q1420 ;
+    rdfs:label "Q16539569"^^xsd:string .
+
+wd:Q16540029 a wd:Q1420 ;
+    rdfs:label "Citroën C3-XR"@en .
+
+wd:Q16546367 a wd:Q1420 ;
+    rdfs:label "Q16546367"^^xsd:string .
+
+wd:Q16555918 a wd:Q1420 ;
+    rdfs:label "Q16555918"^^xsd:string .
+
+wd:Q16555921 a wd:Q1420 ;
+    rdfs:label "Q16555921"^^xsd:string .
+
+wd:Q16555927 a wd:Q1420 ;
+    rdfs:label "Q16555927"^^xsd:string .
+
+wd:Q16563328 a wd:Q1420 ;
+    rdfs:label "Q16563328"^^xsd:string .
+
+wd:Q16563331 a wd:Q1420 ;
+    rdfs:label "Q16563331"^^xsd:string .
+
+wd:Q16563335 a wd:Q1420 ;
+    rdfs:label "Q16563335"^^xsd:string .
+
+wd:Q16563338 a wd:Q1420 ;
+    rdfs:label "Q16563338"^^xsd:string .
+
+wd:Q16563341 a wd:Q1420 ;
+    rdfs:label "Q16563341"^^xsd:string .
+
+wd:Q16563344 a wd:Q1420 ;
+    rdfs:label "Q16563344"^^xsd:string .
+
+wd:Q16563347 a wd:Q1420 ;
+    rdfs:label "Q16563347"^^xsd:string .
+
+wd:Q16563600 a wd:Q1420 ;
+    rdfs:label "Q16563600"^^xsd:string .
+
+wd:Q16563665 a wd:Q1420 ;
+    rdfs:label "Q16563665"^^xsd:string .
+
+wd:Q16563668 a wd:Q1420 ;
+    rdfs:label "Q16563668"^^xsd:string .
+
+wd:Q16563671 a wd:Q1420 ;
+    rdfs:label "Q16563671"^^xsd:string .
+
+wd:Q16563674 a wd:Q1420 ;
+    rdfs:label "Q16563674"^^xsd:string .
+
+wd:Q16563677 a wd:Q1420 ;
+    rdfs:label "Q16563677"^^xsd:string .
+
+wd:Q16563680 a wd:Q1420 ;
+    rdfs:label "Q16563680"^^xsd:string .
+
+wd:Q16566719 a wd:Q1420 ;
+    rdfs:label "Giugiaro Brivido"@en .
+
+wd:Q16566722 a wd:Q1420 ;
+    rdfs:label "Giugiaro Parcour"@en .
+
+wd:Q16567238 a wd:Q1420 ;
+    rdfs:label "Q16567238"^^xsd:string .
+
+wd:Q16572633 a wd:Q1420 ;
+    rdfs:label "Q16572633"^^xsd:string .
+
+wd:Q16573362 a wd:Q1420 ;
+    rdfs:label "Q16573362"^^xsd:string .
+
+wd:Q16573691 a wd:Q1420 ;
+    rdfs:label "Q16573691"^^xsd:string .
+
+wd:Q16576854 a wd:Q1420 ;
+    rdfs:label "Q16576854"^^xsd:string .
+
+wd:Q16577904 a wd:Q1420 ;
+    rdfs:label "Q16577904"^^xsd:string .
+
+wd:Q16586728 a wd:Q1420 ;
+    rdfs:label "Q16586728"^^xsd:string .
+
+wd:Q16595562 a wd:Q1420 ;
+    rdfs:label "Renault 11"@en .
+
+wd:Q16595595 a wd:Q1420 ;
+    rdfs:label "Q16595595"^^xsd:string .
+
+wd:Q16598964 a wd:Q1420 ;
+    rdfs:label "Q16598964"^^xsd:string .
+
+wd:Q16600748 a wd:Q1420 ;
+    rdfs:label "Sbarro Alcador"@en .
+
+wd:Q16600751 a wd:Q1420 ;
+    rdfs:label "Sbarro Astro"@en .
+
+wd:Q16600754 a wd:Q1420 ;
+    rdfs:label "Sbarro Autobau Concept"@en .
+
+wd:Q16600757 a wd:Q1420 ;
+    rdfs:label "Sbarro Brescia"@en .
+
+wd:Q16600761 a wd:Q1420 ;
+    rdfs:label "Sbarro Ellipsis"@en .
+
+wd:Q16600764 a wd:Q1420 ;
+    rdfs:label "Sbarro Essenza"@en .
+
+wd:Q16600769 a wd:Q1420 ;
+    rdfs:label "Sbarro Filipinetti II"@en .
+
+wd:Q16600772 a wd:Q1420 ;
+    rdfs:label "Sbarro Monster G"@en .
+
+wd:Q16616088 a wd:Q1420 ;
+    rdfs:label "Q16616088"^^xsd:string .
+
+wd:Q16617770 a wd:Q1420 ;
+    rdfs:label "Q16617770"^^xsd:string .
+
+wd:Q16623518 a wd:Q1420 ;
+    rdfs:label "Q16623518"^^xsd:string .
+
+wd:Q16623805 a wd:Q1420 ;
+    rdfs:label "Q16623805"^^xsd:string .
+
+wd:Q16914796 a wd:Q1420 ;
+    rdfs:label "Malcolm Jones"@en .
+
+wd:Q16950400 a wd:Q1420 ;
+    rdfs:label "Horsey Horseless"@en .
+
+wd:Q16957849 a wd:Q1420 ;
+    rdfs:label "Toyota 88C-V"@en .
+
+wd:Q16980368 a wd:Q1420 ;
+    rdfs:label "Honda Indy V8"@en .
+
+wd:Q17050002 a wd:Q1420 ;
+    rdfs:label "Mahindra Bolero"@en .
+
+wd:Q17056856 a wd:Q1420 ;
+    rdfs:label "Q17056856"^^xsd:string .
+
+wd:Q1710187 a wd:Q1420 ;
+    rdfs:label "Maserati 8CTF"@en .
+
+wd:Q17212583 a wd:Q1420 ;
+    rdfs:label "Daihatsu MidgetⅡ"@en .
+
+wd:Q172389 a wd:Q1420 ;
+    rdfs:label "Toyota TF109"@en .
+
+wd:Q1725146 a wd:Q1420 ;
+    rdfs:label "Suzuki Escudo Pikes Peak"@en .
+
+wd:Q172705 a wd:Q1420 ;
+    rdfs:label "Ferrari 246 F1"@en .
+
+wd:Q172900 a wd:Q1420 ;
+    rdfs:label "Renault R29"@en .
+
+wd:Q173598 a wd:Q1420 ;
+    rdfs:label "Ferrari 126 C"@en .
+
+wd:Q173624 a wd:Q1420 ;
+    rdfs:label "Q173624"^^xsd:string .
+
+wd:Q17383408 a wd:Q1420 ;
+    rdfs:label "Q17383408"^^xsd:string .
+
+wd:Q173936 a wd:Q1420 ;
+    rdfs:label "Q173936"^^xsd:string .
+
+wd:Q1748407 a wd:Q1420 ;
+    rdfs:label "Q1748407"^^xsd:string .
+
+wd:Q1756131 a wd:Q752870 ;
+    rdfs:label "Antarctic Snow Cruiser"@en .
+
+wd:Q17562170 a wd:Q1420 ;
+    rdfs:label "Q17562170"^^xsd:string .
+
+wd:Q17619950 a wd:Q1420 ;
+    rdfs:label "Q17619950"^^xsd:string .
+
+wd:Q17619953 a wd:Q1420 ;
+    rdfs:label "Q17619953"^^xsd:string .
+
+wd:Q17619957 a wd:Q1420 ;
+    rdfs:label "Q17619957"^^xsd:string .
+
+wd:Q17619959 a wd:Q1420 ;
+    rdfs:label "Q17619959"^^xsd:string .
+
+wd:Q17619963 a wd:Q1420 ;
+    rdfs:label "Q17619963"^^xsd:string .
+
+wd:Q17620355 a wd:Q1420 ;
+    rdfs:label "Alfa Romeo Disco Volante by Touring"@en .
+
+wd:Q17621846 a wd:Q1420 ;
+    rdfs:label "Q17621846"^^xsd:string .
+
+wd:Q17621862 a wd:Q1420 ;
+    rdfs:label "Q17621862"^^xsd:string .
+
+wd:Q17622971 a wd:Q1420 ;
+    rdfs:label "Q17622971"^^xsd:string .
+
+wd:Q17625324 a wd:Q1420 ;
+    rdfs:label "Q17625324"^^xsd:string .
+
+wd:Q17625614 a wd:Q1420 ;
+    rdfs:label "Cisitalia 204"@en .
+
+wd:Q17628422 a wd:Q1420 ;
+    rdfs:label "Q17628422"^^xsd:string .
+
+wd:Q17630452 a wd:Q1420 ;
+    rdfs:label "Q17630452"^^xsd:string .
+
+wd:Q17631870 a wd:Q1420 ;
+    rdfs:label "L'Éclair"@en .
+
+wd:Q17635212 a wd:Q1420 ;
+    rdfs:label "Q17635212"^^xsd:string .
+
+wd:Q17635911 a wd:Q1420 ;
+    rdfs:label "Q17635911"^^xsd:string .
+
+wd:Q17636316 a wd:Q1420 ;
+    rdfs:label "Q17636316"^^xsd:string .
+
+wd:Q17637956 a wd:Q1420 ;
+    rdfs:label "Q17637956"^^xsd:string .
+
+wd:Q17638042 a wd:Q1420 ;
+    rdfs:label "Q17638042"^^xsd:string .
+
+wd:Q17638824 a wd:Q1420 ;
+    rdfs:label "Q17638824"^^xsd:string .
+
+wd:Q17639688 a wd:Q1420 ;
+    rdfs:label "Volkswagen GTI Roadster Vision Gran Turismo"@en .
+
+wd:Q17640568 a wd:Q1420 ;
+    rdfs:label "Peugeot 2008 DKR"@en .
+
+wd:Q17652175 a wd:Q1420 ;
+    rdfs:label "Sbarro Oxalys"@en .
+
+wd:Q17652176 a wd:Q1420 ;
+    rdfs:label "Sbarro Robur"@en .
+
+wd:Q1766766 a wd:Q1420 ;
+    rdfs:label "Maserati 6C 34"@en .
+
+wd:Q17749733 a wd:Q1420 ;
+    rdfs:label "Q17749733"^^xsd:string .
+
+wd:Q17993431 a wd:Q1420 ;
+    rdfs:label "Q17993431"^^xsd:string .
+
+wd:Q18125406 a wd:Q1420 ;
+    rdfs:label "Hafei Saibao"@en .
+
+wd:Q18126670 a wd:Q1420 ;
+    rdfs:label "McLaren M8A"@en .
+
+wd:Q18192039 a wd:Q1420 ;
+    rdfs:label "Q18192039"^^xsd:string .
+
+wd:Q18214402 a wd:Q1420 ;
+    rdfs:label "Q18214402"^^xsd:string .
+
+wd:Q1824717 a wd:Q1420 ;
+    rdfs:label "Ligier JS1"@en .
+
+wd:Q18343693 a wd:Q1420 ;
+    rdfs:label "Porsche Type 12"@en .
+
+wd:Q18384572 a wd:Q1420 ;
+    rdfs:label "Q18384572"^^xsd:string .
+
+wd:Q18412508 a wd:Q1420 ;
+    rdfs:label "Q18412508"^^xsd:string .
+
+wd:Q18412510 a wd:Q1420 ;
+    rdfs:label "Renault 11CV"@en .
+
+wd:Q18412514 a wd:Q1420 ;
+    rdfs:label "Q18412514"^^xsd:string .
+
+wd:Q18412517 a wd:Q1420 ;
+    rdfs:label "Q18412517"^^xsd:string .
+
+wd:Q18412518 a wd:Q1420 ;
+    rdfs:label "Q18412518"^^xsd:string .
+
+wd:Q18412522 a wd:Q1420 ;
+    rdfs:label "Q18412522"^^xsd:string .
+
+wd:Q18412525 a wd:Q1420 ;
+    rdfs:label "Q18412525"^^xsd:string .
+
+wd:Q18412529 a wd:Q1420 ;
+    rdfs:label "Q18412529"^^xsd:string .
+
+wd:Q18412533 a wd:Q1420 ;
+    rdfs:label "Q18412533"^^xsd:string .
+
+wd:Q18412534 a wd:Q1420 ;
+    rdfs:label "Q18412534"^^xsd:string .
+
+wd:Q18412535 a wd:Q1420 ;
+    rdfs:label "Q18412535"^^xsd:string .
+
+wd:Q18412536 a wd:Q1420 ;
+    rdfs:label "Renault 9CV"@en .
+
+wd:Q18414169 a wd:Q1420 ;
+    rdfs:label "Q18414169"^^xsd:string .
+
+wd:Q18414170 a wd:Q1420 ;
+    rdfs:label "Ferrari F80 Concept"@en .
+
+wd:Q18414992 a wd:Q1420 ;
+    rdfs:label "Q18414992"^^xsd:string .
+
+wd:Q18417113 a wd:Q1420 ;
+    rdfs:label "Q18417113"^^xsd:string .
+
+wd:Q18417908 a wd:Q1420 ;
+    rdfs:label "Ferrari 458 Italia GT2"@en .
+
+wd:Q18589861 a wd:Q1420 ;
+    rdfs:label "Q18589861"^^xsd:string .
+
+wd:Q18589871 a wd:Q1420 ;
+    rdfs:label "Q18589871"^^xsd:string .
+
+wd:Q18589872 a wd:Q1420 ;
+    rdfs:label "Q18589872"^^xsd:string .
+
+wd:Q18589880 a wd:Q1420 ;
+    rdfs:label "Q18589880"^^xsd:string .
+
+wd:Q18589881 a wd:Q1420 ;
+    rdfs:label "Q18589881"^^xsd:string .
+
+wd:Q18589891 a wd:Q1420 ;
+    rdfs:label "Citroën C5 I"@en .
+
+wd:Q18589895 a wd:Q1420 ;
+    rdfs:label "Citroën C1 I"@en .
+
+wd:Q18610844 a wd:Q1420 ;
+    rdfs:label "Citroën Berlingo II"@en .
+
+wd:Q18610895 a wd:Q1420 ;
+    rdfs:label "Citroën C4"@en .
+
+wd:Q18624734 a wd:Q1420 ;
+    rdfs:label "Berliet"@en .
+
+wd:Q18630142 a wd:Q1420 ;
+    rdfs:label "Renault 35 CV"@en .
+
+wd:Q18644357 a wd:Q1420 ;
+    rdfs:label "McLaren MP4-30"@en .
+
+wd:Q1868634 a wd:Q1420 ;
+    rdfs:label "Lola B2K/10"@en .
+
+wd:Q1871228 a wd:Q1420 ;
+    rdfs:label "Lotus 29"@en .
+
+wd:Q18745264 a wd:Q1420 ;
+    rdfs:label "Q18745264"^^xsd:string .
+
+wd:Q18745484 a wd:Q1420 ;
+    rdfs:label "Citroën C1 II"@en .
+
+wd:Q18752464 a wd:Q1420 ;
+    rdfs:label "Q18752464"^^xsd:string .
+
+wd:Q18819716 a wd:Q1420 ;
+    rdfs:label "Tatra 92"@en .
+
+wd:Q18821983 a wd:Q1420 ;
+    rdfs:label "Williams FW37"@en .
+
+wd:Q1886288 a wd:Q1420 ;
+    rdfs:label "Spyker C8 Aileron"@en .
+
+wd:Q18907797 a wd:Q1420 ;
+    rdfs:label "Lotus E23 Hybrid"@en .
+
+wd:Q18918027 a wd:Q1420 ;
+    rdfs:label "Mercedes F1 W06 Hybrid"@en .
+
+wd:Q18918144 a wd:Q1420 ;
+    rdfs:label "Ferrari SF15-T"@en .
+
+wd:Q18921144 a wd:Q1420 ;
+    rdfs:label "Toro Rosso STR10"@en .
+
+wd:Q1908926 a wd:Q1420 ;
+    rdfs:label "Matra MS630"@en .
+
+wd:Q19298454 a wd:Q1420 ;
+    rdfs:label "Q19298454"^^xsd:string .
+
+wd:Q1971953 a wd:Q1420 ;
+    rdfs:label "Chitty Bang Bang"@en .
+
+wd:Q1982880 a wd:Q1420 ;
+    rdfs:label "Volkswagen Group New Small Family platform"@en .
+
+wd:Q19903387 a wd:Q1420 ;
+    rdfs:label "Audi R8 e-tron"@en .
+
+wd:Q20007952 a wd:Q1420 ;
+    rdfs:label "Q20007952"^^xsd:string .
+
+wd:Q20009930 a wd:Q1420 ;
+    rdfs:label "Q20009930"^^xsd:string .
+
+wd:Q20009954 a wd:Q1420 ;
+    rdfs:label "Q20009954"^^xsd:string .
+
+wd:Q20009955 a wd:Q1420 ;
+    rdfs:label "Q20009955"^^xsd:string .
+
+wd:Q20010009 a wd:Q1420 ;
+    rdfs:label "Q20010009"^^xsd:string .
+
+wd:Q20010040 a wd:Q1420 ;
+    rdfs:label "Q20010040"^^xsd:string .
+
+wd:Q20062650 a wd:Q1420 ;
+    rdfs:label "Q20062650"^^xsd:string .
+
+wd:Q20164995 a wd:Q1420 ;
+    rdfs:label "Q20164995"^^xsd:string .
+
+wd:Q201894 a wd:Q1420 ;
+    rdfs:label "Audi e-tron"@en .
+
+wd:Q20444180 a wd:Q1420 ;
+    rdfs:label "Kia KX3"@en .
+
+wd:Q20482253 a wd:Q1420 ;
+    rdfs:label "Esperanto"@en .
+
+wd:Q20538511 a wd:Q1420 ;
+    rdfs:label "Gv-pv-18"@en .
+
+wd:Q20538617 a wd:Q1420 ;
+    rdfs:label "1-dmx-460"@en .
+
+wd:Q20680184 a wd:Q1420 ;
+    rdfs:label "Q20680184"^^xsd:string .
+
+wd:Q20680325 a wd:Q1420 ;
+    rdfs:label "Q20680325"^^xsd:string .
+
+wd:Q20723182 a wd:Q1420 ;
+    rdfs:label "Q20723182"^^xsd:string .
+
+wd:Q20723215 a wd:Q1420 ;
+    rdfs:label "Q20723215"^^xsd:string .
+
+wd:Q20724366 a wd:Q1420 ;
+    rdfs:label "Q20724366"^^xsd:string .
+
+wd:Q20745875 a wd:Q1420 ;
+    rdfs:label "Q20745875"^^xsd:string .
+
+wd:Q20746937 a wd:Q1420 ;
+    rdfs:label "Q20746937"^^xsd:string .
+
+wd:Q20746965 a wd:Q1420 ;
+    rdfs:label "Q20746965"^^xsd:string .
+
+wd:Q20748286 a wd:Q1420 ;
+    rdfs:label "Q20748286"^^xsd:string .
+
+wd:Q20771077 a wd:Q1420 ;
+    rdfs:label "Q20771077"^^xsd:string .
+
+wd:Q20787912 a wd:Q1420 ;
+    rdfs:label "Q20787912"^^xsd:string .
+
+wd:Q20787939 a wd:Q1420 ;
+    rdfs:label "Peugeot Type 146"@en .
+
+wd:Q20797029 a wd:Q1420 ;
+    rdfs:label "Q20797029"^^xsd:string .
+
+wd:Q20821582 a wd:Q1420 ;
+    rdfs:label "Q20821582"^^xsd:string .
+
+wd:Q20826128 a wd:Q1420 ;
+    rdfs:label "Q20826128"^^xsd:string .
+
+wd:Q20826130 a wd:Q1420 ;
+    rdfs:label "Q20826130"^^xsd:string .
+
+wd:Q20826132 a wd:Q1420 ;
+    rdfs:label "Q20826132"^^xsd:string .
+
+wd:Q20826136 a wd:Q1420 ;
+    rdfs:label "Q20826136"^^xsd:string .
+
+wd:Q20826140 a wd:Q1420 ;
+    rdfs:label "Peugeot Type 39"@en .
+
+wd:Q20826142 a wd:Q1420 ;
+    rdfs:label "Q20826142"^^xsd:string .
+
+wd:Q20826146 a wd:Q1420 ;
+    rdfs:label "Q20826146"^^xsd:string .
+
+wd:Q20826148 a wd:Q1420 ;
+    rdfs:label "Q20826148"^^xsd:string .
+
+wd:Q20826150 a wd:Q1420 ;
+    rdfs:label "Q20826150"^^xsd:string .
+
+wd:Q20826166 a wd:Q1420 ;
+    rdfs:label "Q20826166"^^xsd:string .
+
+wd:Q20826168 a wd:Q1420 ;
+    rdfs:label "Q20826168"^^xsd:string .
+
+wd:Q20826180 a wd:Q1420 ;
+    rdfs:label "Q20826180"^^xsd:string .
+
+wd:Q20826182 a wd:Q1420 ;
+    rdfs:label "Q20826182"^^xsd:string .
+
+wd:Q20826184 a wd:Q1420 ;
+    rdfs:label "Q20826184"^^xsd:string .
+
+wd:Q20859917 a wd:Q1420 ;
+    rdfs:label "Q20859917"^^xsd:string .
+
+wd:Q20889503 a wd:Q1420 ;
+    rdfs:label "Dacia Estafette"@en .
+
+wd:Q20965597 a wd:Q1420 ;
+    rdfs:label "Q20965597"^^xsd:string .
+
+wd:Q20965598 a wd:Q1420 ;
+    rdfs:label "Q20965598"^^xsd:string .
+
+wd:Q20969072 a wd:Q1420 ;
+    rdfs:label "Q20969072"^^xsd:string .
+
+wd:Q21029339 a wd:Q1420 ;
+    rdfs:label "Q21029339"^^xsd:string .
+
+wd:Q21029591 a wd:Q1420 ;
+    rdfs:label "V12 Matra Sports engine"@en .
+
+wd:Q21116153 a wd:Q1420 ;
+    rdfs:label "Q21116153"^^xsd:string .
+
+wd:Q21130025 a wd:Q1420 ;
+    rdfs:label "Bootmobile"@en .
+
+wd:Q2117826 a wd:Q1420 ;
+    rdfs:label "9C1"@en .
+
+wd:Q21192468 a wd:Q1420 ;
+    rdfs:label "Q21192468"^^xsd:string .
+
+wd:Q21197977 a wd:Q1420 ;
+    rdfs:label "Q21197977"^^xsd:string .
+
+wd:Q21207039 a wd:Q1420 ;
+    rdfs:label "Sbarro Bi-moto Scorpius"@en .
+
+wd:Q21207474 a wd:Q1420 ;
+    rdfs:label "Q21207474"^^xsd:string .
+
+wd:Q21208869 a wd:Q1420 ;
+    rdfs:label "Q21208869"^^xsd:string .
+
+wd:Q21208877 a wd:Q1420 ;
+    rdfs:label "Q21208877"^^xsd:string .
+
+wd:Q21208902 a wd:Q1420 ;
+    rdfs:label "Q21208902"^^xsd:string .
+
+wd:Q21208911 a wd:Q1420 ;
+    rdfs:label "Q21208911"^^xsd:string .
+
+wd:Q21208921 a wd:Q1420 ;
+    rdfs:label "Q21208921"^^xsd:string .
+
+wd:Q21234433 a wd:Q1420 ;
+    rdfs:label "Q21234433"^^xsd:string .
+
+wd:Q21234439 a wd:Q1420 ;
+    rdfs:label "Q21234439"^^xsd:string .
+
+wd:Q21234498 a wd:Q1420 ;
+    rdfs:label "Q21234498"^^xsd:string .
+
+wd:Q21235013 a wd:Q1420 ;
+    rdfs:label "Q21235013"^^xsd:string .
+
+wd:Q21272434 a wd:Q1420 ;
+    rdfs:label "Q21272434"^^xsd:string .
+
+wd:Q21272436 a wd:Q1420 ;
+    rdfs:label "Q21272436"^^xsd:string .
+
+wd:Q21272538 a wd:Q1420 ;
+    rdfs:label "Q21272538"^^xsd:string .
+
+wd:Q21282284 a wd:Q1420 ;
+    rdfs:label "Q21282284"^^xsd:string .
+
+wd:Q2130042 a wd:Q1420 ;
+    rdfs:label "Q2130042"^^xsd:string .
+
+wd:Q21427874 a wd:Q1420 ;
+    rdfs:label "Q21427874"^^xsd:string .
+
+wd:Q21428024 a wd:Q1420 ;
+    rdfs:label "Q21428024"^^xsd:string .
+
+wd:Q21512262 a wd:Q1420 ;
+    rdfs:label "Q21512262"^^xsd:string .
+
+wd:Q21592079 a wd:Q1420 ;
+    rdfs:label "Ala Kart"@en .
+
+wd:Q21854978 a wd:Q1420 ;
+    rdfs:label "Buick Avenir"@en .
+
+wd:Q21937964 a wd:Q1420 ;
+    rdfs:label "Q21937964"^^xsd:string .
+
+wd:Q22249400 a wd:Q1420 ;
+    rdfs:label "Q22249400"^^xsd:string .
+
+wd:Q22249457 a wd:Q1420 ;
+    rdfs:label "Bugatti Vision Gran Turismo"@en .
+
+wd:Q22264390 a wd:Q1420 ;
+    rdfs:label "Q22264390"^^xsd:string .
+
+wd:Q22264392 a wd:Q1420 ;
+    rdfs:label "Q22264392"^^xsd:string .
+
+wd:Q2260204 a wd:Q1420 ;
+    rdfs:label "Q2260204"^^xsd:string .
+
+wd:Q22915273 a wd:Q1420 ;
+    rdfs:label "Force India VJM09"@en .
+
+wd:Q22915275 a wd:Q1420 ;
+    rdfs:label "Toro Rosso STR11"@en .
+
+wd:Q2297423 a wd:Q1420 ;
+    rdfs:label "Sofia"@en .
+
+wd:Q23017576 a wd:Q1420 ;
+    rdfs:label "Aston Martin DP100"@en .
+
+wd:Q23017684 a wd:Q1420 ;
+    rdfs:label "Audi e-tron quattro"@en .
+
+wd:Q23021036 a wd:Q1420 ;
+    rdfs:label "Q23021036"^^xsd:string .
+
+wd:Q23021884 a wd:Q1420 ;
+    rdfs:label "Q23021884"^^xsd:string .
+
+wd:Q23685895 a wd:Q1420 ;
+    rdfs:label "Q23685895"^^xsd:string .
+
+wd:Q23808111 a wd:Q1420 ;
+    rdfs:label "Rover JET1"@en .
+
+wd:Q23924645 a wd:Q1420 ;
+    rdfs:label "Suzuki Baleno"@en .
+
+wd:Q239996 a wd:Q1420 ;
+    rdfs:label "Q239996"^^xsd:string .
+
+wd:Q24045658 a wd:Q3509172 ;
+    rdfs:label "Q24045658"^^xsd:string .
+
+wd:Q24056597 a wd:Q1420 ;
+    rdfs:label "Bianchi 8 HP"@en .
+
+wd:Q24195994 a wd:Q1420 ;
+    rdfs:label "Q24195994"^^xsd:string .
+
+wd:Q24451144 a wd:Q1420 ;
+    rdfs:label "Bilenkin Vintage"@en .
+
+wd:Q2448477 a wd:Q1420 ;
+    rdfs:label "Ferrari 156/85"@en .
+
+wd:Q24913565 a wd:Q7590 ;
+    rdfs:label "Jug Turist"@en .
+
+wd:Q2528029 a wd:Q7590 ;
+    rdfs:label "Transport in Oman"@en .
+
+wd:Q25436943 a wd:Q1420 ;
+    rdfs:label "BMW next 100"@en .
+
+wd:Q25446635 a wd:Q7590 ;
+    rdfs:label "Q25446635"^^xsd:string .
+
+wd:Q2551745 a wd:Q1420 ;
+    rdfs:label "Silver Stream"@en .
+
+wd:Q25808511 a wd:Q1420 ;
+    rdfs:label "Q25808511"^^xsd:string .
+
+wd:Q2602164 a wd:Q1420 ;
+    rdfs:label "Q2602164"^^xsd:string .
+
+wd:Q2613671 a wd:Q1420 ;
+    rdfs:label "Alvis TA 14"@en .
+
+wd:Q2624264 a wd:Q1420 ;
+    rdfs:label "Ferrari 625LM Spyder Touring"@en .
+
+wd:Q26256717 a wd:Q1420 ;
+    rdfs:label "Q26256717"^^xsd:string .
+
+wd:Q26261760 a wd:Q1420 ;
+    rdfs:label "Mini Cooper"@en .
+
+wd:Q2644235 a wd:Q1420 ;
+    rdfs:label "Q2644235"^^xsd:string .
+
+wd:Q2651154 a wd:Q1420 ;
+    rdfs:label "Q2651154"^^xsd:string .
+
+wd:Q2662582 a wd:Q1420 ;
+    rdfs:label "Forti FG03"@en .
+
+wd:Q2668418 a wd:Q1420 ;
+    rdfs:label "Alfa Romeo Bella"@en .
+
+wd:Q26897869 a wd:Q1420 ;
+    rdfs:label "Buick Encore"@en .
+
+wd:Q2714958 a wd:Q7590 ;
+    rdfs:label "Transport in Finland"@en .
+
+wd:Q2746076 a wd:Q1420 ;
+    rdfs:label "Fiat 1100 Siata Type Office"@en .
+
+wd:Q27623889 a wd:Q1420 ;
+    rdfs:label "Q27623889"^^xsd:string .
+
+wd:Q27686893 a wd:Q1420 ;
+    rdfs:label "Presidential state car"@en .
+
+wd:Q27962348 a wd:Q7590 ;
+    rdfs:label "Transportation in Neyyattinkara"@en .
+
+wd:Q28105481 a wd:Q1420 ;
+    rdfs:label "Q28105481"^^xsd:string .
+
+wd:Q28127130 a wd:Q1420 ;
+    rdfs:label "Karma Revero"@en .
+
+wd:Q2814163 a wd:Q1420 ;
+    rdfs:label "Fiat ESV"@en .
+
+wd:Q28152104 a wd:Q1420 ;
+    rdfs:label "Mercedes-Benz EQ"@en .
+
+wd:Q28175008 a wd:Q1420 ;
+    rdfs:label "Ford F-Series fourteenth generation"@en .
+
+wd:Q28194695 a wd:Q11481471 ;
+    rdfs:label "Artificial feel devices"@en .
+
+wd:Q2834735 a wd:Q1420 ;
+    rdfs:label "Q2834735"^^xsd:string .
+
+wd:Q2834745 a wd:Q1420 ;
+    rdfs:label "Q2834745"^^xsd:string .
+
+wd:Q2834746 a wd:Q1420 ;
+    rdfs:label "Q2834746"^^xsd:string .
+
+wd:Q2834748 a wd:Q1420 ;
+    rdfs:label "Alfa Romeo 8C-35"@en .
+
+wd:Q2834765 a wd:Q1420 ;
+    rdfs:label "Q2834765"^^xsd:string .
+
+wd:Q2840085 a wd:Q1420 ;
+    rdfs:label "Q2840085"^^xsd:string .
+
+wd:Q28529240 a wd:Q1420 ;
+    rdfs:label "Ellenator"@en .
+
+wd:Q2868476 a wd:Q1420 ;
+    rdfs:label "Q2868476"^^xsd:string .
+
+wd:Q2870721 a wd:Q1420 ;
+    rdfs:label "Q2870721"^^xsd:string .
+
+wd:Q2870725 a wd:Q1420 ;
+    rdfs:label "Q2870725"^^xsd:string .
+
+wd:Q2870728 a wd:Q1420 ;
+    rdfs:label "Q2870728"^^xsd:string .
+
+wd:Q2870729 a wd:Q1420 ;
+    rdfs:label "Audi R18 e-tron quattro"@en .
+
+wd:Q2870734 a wd:Q1420 ;
+    rdfs:label "Q2870734"^^xsd:string .
+
+wd:Q2877198 a wd:Q1420 ;
+    rdfs:label "BMW HH"@en .
+
+wd:Q2877213 a wd:Q1420 ;
+    rdfs:label "Q2877213"^^xsd:string .
+
+wd:Q2877227 a wd:Q1420 ;
+    rdfs:label "BMW M5 E28"@en .
+
+wd:Q2877229 a wd:Q1420 ;
+    rdfs:label "Q2877229"^^xsd:string .
+
+wd:Q2877234 a wd:Q1420 ;
+    rdfs:label "Q2877234"^^xsd:string .
+
+wd:Q2877238 a wd:Q1420 ;
+    rdfs:label "Q2877238"^^xsd:string .
+
+wd:Q2877301 a wd:Q1420 ;
+    rdfs:label "Q2877301"^^xsd:string .
+
+wd:Q29112748 a wd:Q1420 ;
+    rdfs:label "Q29112748"^^xsd:string .
+
+wd:Q29112749 a wd:Q1420 ;
+    rdfs:label "Q29112749"^^xsd:string .
+
+wd:Q29112750 a wd:Q1420 ;
+    rdfs:label "Q29112750"^^xsd:string .
+
+wd:Q29112751 a wd:Q1420 ;
+    rdfs:label "Q29112751"^^xsd:string .
+
+wd:Q29112755 a wd:Q1420 ;
+    rdfs:label "Q29112755"^^xsd:string .
+
+wd:Q29112764 a wd:Q1420 ;
+    rdfs:label "Q29112764"^^xsd:string .
+
+wd:Q29112765 a wd:Q1420 ;
+    rdfs:label "Q29112765"^^xsd:string .
+
+wd:Q29112766 a wd:Q1420 ;
+    rdfs:label "Q29112766"^^xsd:string .
+
+wd:Q29112768 a wd:Q1420 ;
+    rdfs:label "Q29112768"^^xsd:string .
+
+wd:Q29112773 a wd:Q1420 ;
+    rdfs:label "Q29112773"^^xsd:string .
+
+wd:Q29112776 a wd:Q1420 ;
+    rdfs:label "Q29112776"^^xsd:string .
+
+wd:Q29112777 a wd:Q1420 ;
+    rdfs:label "Q29112777"^^xsd:string .
+
+wd:Q29112784 a wd:Q1420 ;
+    rdfs:label "Q29112784"^^xsd:string .
+
+wd:Q29112793 a wd:Q1420 ;
+    rdfs:label "Q29112793"^^xsd:string .
+
+wd:Q29112795 a wd:Q1420 ;
+    rdfs:label "Q29112795"^^xsd:string .
+
+wd:Q29112796 a wd:Q1420 ;
+    rdfs:label "Q29112796"^^xsd:string .
+
+wd:Q29112797 a wd:Q1420 ;
+    rdfs:label "Q29112797"^^xsd:string .
+
+wd:Q29112798 a wd:Q1420 ;
+    rdfs:label "Q29112798"^^xsd:string .
+
+wd:Q29112799 a wd:Q1420 ;
+    rdfs:label "Q29112799"^^xsd:string .
+
+wd:Q29112800 a wd:Q1420 ;
+    rdfs:label "Q29112800"^^xsd:string .
+
+wd:Q29112801 a wd:Q1420 ;
+    rdfs:label "Q29112801"^^xsd:string .
+
+wd:Q29112802 a wd:Q1420 ;
+    rdfs:label "Q29112802"^^xsd:string .
+
+wd:Q29112807 a wd:Q1420 ;
+    rdfs:label "Q29112807"^^xsd:string .
+
+wd:Q29112808 a wd:Q1420 ;
+    rdfs:label "Q29112808"^^xsd:string .
+
+wd:Q29112810 a wd:Q1420 ;
+    rdfs:label "Q29112810"^^xsd:string .
+
+wd:Q29112811 a wd:Q1420 ;
+    rdfs:label "Q29112811"^^xsd:string .
+
+wd:Q29112812 a wd:Q1420 ;
+    rdfs:label "Q29112812"^^xsd:string .
+
+wd:Q29112813 a wd:Q1420 ;
+    rdfs:label "Q29112813"^^xsd:string .
+
+wd:Q29112814 a wd:Q1420 ;
+    rdfs:label "Q29112814"^^xsd:string .
+
+wd:Q29112818 a wd:Q1420 ;
+    rdfs:label "Q29112818"^^xsd:string .
+
+wd:Q29112819 a wd:Q1420 ;
+    rdfs:label "Q29112819"^^xsd:string .
+
+wd:Q29112820 a wd:Q1420 ;
+    rdfs:label "Q29112820"^^xsd:string .
+
+wd:Q29112821 a wd:Q1420 ;
+    rdfs:label "Q29112821"^^xsd:string .
+
+wd:Q29112826 a wd:Q1420 ;
+    rdfs:label "Q29112826"^^xsd:string .
+
+wd:Q29112827 a wd:Q1420 ;
+    rdfs:label "Q29112827"^^xsd:string .
+
+wd:Q29112828 a wd:Q1420 ;
+    rdfs:label "Q29112828"^^xsd:string .
+
+wd:Q29112829 a wd:Q1420 ;
+    rdfs:label "Q29112829"^^xsd:string .
+
+wd:Q29112830 a wd:Q1420 ;
+    rdfs:label "Q29112830"^^xsd:string .
+
+wd:Q29112831 a wd:Q1420 ;
+    rdfs:label "Q29112831"^^xsd:string .
+
+wd:Q29112832 a wd:Q1420 ;
+    rdfs:label "Q29112832"^^xsd:string .
+
+wd:Q29112837 a wd:Q1420 ;
+    rdfs:label "Q29112837"^^xsd:string .
+
+wd:Q29112838 a wd:Q1420 ;
+    rdfs:label "Q29112838"^^xsd:string .
+
+wd:Q29112840 a wd:Q1420 ;
+    rdfs:label "Q29112840"^^xsd:string .
+
+wd:Q29112841 a wd:Q1420 ;
+    rdfs:label "Q29112841"^^xsd:string .
+
+wd:Q29112842 a wd:Q1420 ;
+    rdfs:label "Q29112842"^^xsd:string .
+
+wd:Q29112843 a wd:Q1420 ;
+    rdfs:label "Q29112843"^^xsd:string .
+
+wd:Q29112844 a wd:Q1420 ;
+    rdfs:label "Q29112844"^^xsd:string .
+
+wd:Q29112845 a wd:Q1420 ;
+    rdfs:label "Q29112845"^^xsd:string .
+
+wd:Q29112846 a wd:Q1420 ;
+    rdfs:label "Q29112846"^^xsd:string .
+
+wd:Q29112847 a wd:Q1420 ;
+    rdfs:label "Q29112847"^^xsd:string .
+
+wd:Q29112850 a wd:Q1420 ;
+    rdfs:label "Q29112850"^^xsd:string .
+
+wd:Q29112851 a wd:Q1420 ;
+    rdfs:label "Q29112851"^^xsd:string .
+
+wd:Q29112852 a wd:Q1420 ;
+    rdfs:label "Q29112852"^^xsd:string .
+
+wd:Q29112853 a wd:Q1420 ;
+    rdfs:label "Q29112853"^^xsd:string .
+
+wd:Q29112854 a wd:Q1420 ;
+    rdfs:label "Q29112854"^^xsd:string .
+
+wd:Q29112855 a wd:Q1420 ;
+    rdfs:label "Q29112855"^^xsd:string .
+
+wd:Q29112856 a wd:Q1420 ;
+    rdfs:label "Q29112856"^^xsd:string .
+
+wd:Q29112857 a wd:Q1420 ;
+    rdfs:label "Q29112857"^^xsd:string .
+
+wd:Q29112861 a wd:Q1420 ;
+    rdfs:label "Q29112861"^^xsd:string .
+
+wd:Q29112865 a wd:Q1420 ;
+    rdfs:label "Q29112865"^^xsd:string .
+
+wd:Q29112866 a wd:Q1420 ;
+    rdfs:label "Q29112866"^^xsd:string .
+
+wd:Q29112867 a wd:Q1420 ;
+    rdfs:label "Q29112867"^^xsd:string .
+
+wd:Q29112868 a wd:Q1420 ;
+    rdfs:label "Q29112868"^^xsd:string .
+
+wd:Q29112869 a wd:Q1420 ;
+    rdfs:label "Q29112869"^^xsd:string .
+
+wd:Q29112872 a wd:Q1420 ;
+    rdfs:label "Q29112872"^^xsd:string .
+
+wd:Q29112877 a wd:Q1420 ;
+    rdfs:label "Q29112877"^^xsd:string .
+
+wd:Q29112878 a wd:Q1420 ;
+    rdfs:label "Q29112878"^^xsd:string .
+
+wd:Q29112879 a wd:Q1420 ;
+    rdfs:label "Q29112879"^^xsd:string .
+
+wd:Q29112880 a wd:Q1420 ;
+    rdfs:label "Q29112880"^^xsd:string .
+
+wd:Q29112881 a wd:Q1420 ;
+    rdfs:label "Q29112881"^^xsd:string .
+
+wd:Q29112882 a wd:Q1420 ;
+    rdfs:label "Q29112882"^^xsd:string .
+
+wd:Q29112883 a wd:Q1420 ;
+    rdfs:label "Q29112883"^^xsd:string .
+
+wd:Q29112885 a wd:Q1420 ;
+    rdfs:label "Q29112885"^^xsd:string .
+
+wd:Q29112887 a wd:Q1420 ;
+    rdfs:label "Q29112887"^^xsd:string .
+
+wd:Q29112888 a wd:Q1420 ;
+    rdfs:label "Q29112888"^^xsd:string .
+
+wd:Q29112890 a wd:Q1420 ;
+    rdfs:label "Q29112890"^^xsd:string .
+
+wd:Q29112893 a wd:Q1420 ;
+    rdfs:label "Q29112893"^^xsd:string .
+
+wd:Q29112894 a wd:Q1420 ;
+    rdfs:label "Q29112894"^^xsd:string .
+
+wd:Q29112895 a wd:Q1420 ;
+    rdfs:label "Q29112895"^^xsd:string .
+
+wd:Q29112897 a wd:Q1420 ;
+    rdfs:label "Q29112897"^^xsd:string .
+
+wd:Q29112898 a wd:Q1420 ;
+    rdfs:label "Q29112898"^^xsd:string .
+
+wd:Q29112899 a wd:Q1420 ;
+    rdfs:label "Q29112899"^^xsd:string .
+
+wd:Q29112900 a wd:Q1420 ;
+    rdfs:label "Q29112900"^^xsd:string .
+
+wd:Q29112901 a wd:Q1420 ;
+    rdfs:label "Q29112901"^^xsd:string .
+
+wd:Q29112902 a wd:Q1420 ;
+    rdfs:label "Q29112902"^^xsd:string .
+
+wd:Q29112903 a wd:Q1420 ;
+    rdfs:label "Q29112903"^^xsd:string .
+
+wd:Q29112909 a wd:Q1420 ;
+    rdfs:label "Q29112909"^^xsd:string .
+
+wd:Q29112911 a wd:Q1420 ;
+    rdfs:label "Q29112911"^^xsd:string .
+
+wd:Q29112912 a wd:Q1420 ;
+    rdfs:label "Q29112912"^^xsd:string .
+
+wd:Q29112913 a wd:Q1420 ;
+    rdfs:label "Q29112913"^^xsd:string .
+
+wd:Q29112914 a wd:Q1420 ;
+    rdfs:label "Q29112914"^^xsd:string .
+
+wd:Q29112915 a wd:Q1420 ;
+    rdfs:label "Q29112915"^^xsd:string .
+
+wd:Q29112916 a wd:Q1420 ;
+    rdfs:label "Q29112916"^^xsd:string .
+
+wd:Q29112917 a wd:Q1420 ;
+    rdfs:label "Q29112917"^^xsd:string .
+
+wd:Q29112918 a wd:Q1420 ;
+    rdfs:label "Q29112918"^^xsd:string .
+
+wd:Q29112919 a wd:Q1420 ;
+    rdfs:label "Q29112919"^^xsd:string .
+
+wd:Q29112921 a wd:Q1420 ;
+    rdfs:label "Q29112921"^^xsd:string .
+
+wd:Q29112927 a wd:Q1420 ;
+    rdfs:label "Q29112927"^^xsd:string .
+
+wd:Q29112928 a wd:Q1420 ;
+    rdfs:label "Q29112928"^^xsd:string .
+
+wd:Q29112929 a wd:Q1420 ;
+    rdfs:label "Q29112929"^^xsd:string .
+
+wd:Q29112930 a wd:Q1420 ;
+    rdfs:label "Q29112930"^^xsd:string .
+
+wd:Q29112931 a wd:Q1420 ;
+    rdfs:label "Q29112931"^^xsd:string .
+
+wd:Q29112933 a wd:Q1420 ;
+    rdfs:label "Q29112933"^^xsd:string .
+
+wd:Q29112938 a wd:Q1420 ;
+    rdfs:label "Q29112938"^^xsd:string .
+
+wd:Q29112941 a wd:Q1420 ;
+    rdfs:label "Q29112941"^^xsd:string .
+
+wd:Q29112944 a wd:Q1420 ;
+    rdfs:label "Q29112944"^^xsd:string .
+
+wd:Q29112945 a wd:Q1420 ;
+    rdfs:label "Q29112945"^^xsd:string .
+
+wd:Q29112946 a wd:Q1420 ;
+    rdfs:label "Q29112946"^^xsd:string .
+
+wd:Q29112947 a wd:Q1420 ;
+    rdfs:label "Q29112947"^^xsd:string .
+
+wd:Q29112948 a wd:Q1420 ;
+    rdfs:label "Q29112948"^^xsd:string .
+
+wd:Q29112949 a wd:Q1420 ;
+    rdfs:label "Q29112949"^^xsd:string .
+
+wd:Q29112950 a wd:Q1420 ;
+    rdfs:label "Q29112950"^^xsd:string .
+
+wd:Q29112953 a wd:Q1420 ;
+    rdfs:label "Q29112953"^^xsd:string .
+
+wd:Q29112954 a wd:Q1420 ;
+    rdfs:label "Q29112954"^^xsd:string .
+
+wd:Q29112956 a wd:Q1420 ;
+    rdfs:label "Q29112956"^^xsd:string .
+
+wd:Q29112962 a wd:Q1420 ;
+    rdfs:label "Q29112962"^^xsd:string .
+
+wd:Q29112964 a wd:Q1420 ;
+    rdfs:label "Q29112964"^^xsd:string .
+
+wd:Q29112965 a wd:Q1420 ;
+    rdfs:label "Q29112965"^^xsd:string .
+
+wd:Q29112966 a wd:Q1420 ;
+    rdfs:label "Q29112966"^^xsd:string .
+
+wd:Q29112967 a wd:Q1420 ;
+    rdfs:label "Q29112967"^^xsd:string .
+
+wd:Q29112968 a wd:Q1420 ;
+    rdfs:label "Q29112968"^^xsd:string .
+
+wd:Q29112969 a wd:Q1420 ;
+    rdfs:label "Q29112969"^^xsd:string .
+
+wd:Q29112970 a wd:Q1420 ;
+    rdfs:label "Q29112970"^^xsd:string .
+
+wd:Q29112971 a wd:Q1420 ;
+    rdfs:label "Q29112971"^^xsd:string .
+
+wd:Q29112972 a wd:Q1420 ;
+    rdfs:label "Q29112972"^^xsd:string .
+
+wd:Q29112973 a wd:Q1420 ;
+    rdfs:label "Q29112973"^^xsd:string .
+
+wd:Q29112974 a wd:Q1420 ;
+    rdfs:label "Q29112974"^^xsd:string .
+
+wd:Q29112975 a wd:Q1420 ;
+    rdfs:label "Q29112975"^^xsd:string .
+
+wd:Q29112976 a wd:Q1420 ;
+    rdfs:label "Q29112976"^^xsd:string .
+
+wd:Q29112979 a wd:Q1420 ;
+    rdfs:label "Q29112979"^^xsd:string .
+
+wd:Q29112980 a wd:Q1420 ;
+    rdfs:label "Q29112980"^^xsd:string .
+
+wd:Q29112981 a wd:Q1420 ;
+    rdfs:label "Q29112981"^^xsd:string .
+
+wd:Q29112982 a wd:Q1420 ;
+    rdfs:label "Q29112982"^^xsd:string .
+
+wd:Q29112983 a wd:Q1420 ;
+    rdfs:label "Q29112983"^^xsd:string .
+
+wd:Q29112985 a wd:Q1420 ;
+    rdfs:label "Q29112985"^^xsd:string .
+
+wd:Q29112986 a wd:Q1420 ;
+    rdfs:label "Q29112986"^^xsd:string .
+
+wd:Q29112987 a wd:Q1420 ;
+    rdfs:label "Q29112987"^^xsd:string .
+
+wd:Q29112989 a wd:Q1420 ;
+    rdfs:label "Q29112989"^^xsd:string .
+
+wd:Q29112993 a wd:Q1420 ;
+    rdfs:label "Q29112993"^^xsd:string .
+
+wd:Q29112998 a wd:Q1420 ;
+    rdfs:label "Q29112998"^^xsd:string .
+
+wd:Q29112999 a wd:Q1420 ;
+    rdfs:label "Q29112999"^^xsd:string .
+
+wd:Q29113002 a wd:Q1420 ;
+    rdfs:label "Q29113002"^^xsd:string .
+
+wd:Q29113003 a wd:Q1420 ;
+    rdfs:label "Q29113003"^^xsd:string .
+
+wd:Q29113004 a wd:Q1420 ;
+    rdfs:label "Q29113004"^^xsd:string .
+
+wd:Q29113005 a wd:Q1420 ;
+    rdfs:label "Q29113005"^^xsd:string .
+
+wd:Q29113006 a wd:Q1420 ;
+    rdfs:label "Q29113006"^^xsd:string .
+
+wd:Q29113007 a wd:Q1420 ;
+    rdfs:label "Q29113007"^^xsd:string .
+
+wd:Q29113008 a wd:Q1420 ;
+    rdfs:label "Q29113008"^^xsd:string .
+
+wd:Q29113009 a wd:Q1420 ;
+    rdfs:label "Q29113009"^^xsd:string .
+
+wd:Q29113011 a wd:Q1420 ;
+    rdfs:label "Q29113011"^^xsd:string .
+
+wd:Q29113012 a wd:Q1420 ;
+    rdfs:label "Q29113012"^^xsd:string .
+
+wd:Q29113013 a wd:Q1420 ;
+    rdfs:label "Q29113013"^^xsd:string .
+
+wd:Q29113014 a wd:Q1420 ;
+    rdfs:label "Q29113014"^^xsd:string .
+
+wd:Q29113015 a wd:Q1420 ;
+    rdfs:label "Q29113015"^^xsd:string .
+
+wd:Q29113016 a wd:Q1420 ;
+    rdfs:label "Q29113016"^^xsd:string .
+
+wd:Q29113017 a wd:Q1420 ;
+    rdfs:label "Q29113017"^^xsd:string .
+
+wd:Q29113019 a wd:Q1420 ;
+    rdfs:label "Q29113019"^^xsd:string .
+
+wd:Q29113020 a wd:Q1420 ;
+    rdfs:label "Q29113020"^^xsd:string .
+
+wd:Q29113021 a wd:Q1420 ;
+    rdfs:label "Q29113021"^^xsd:string .
+
+wd:Q29113023 a wd:Q1420 ;
+    rdfs:label "Q29113023"^^xsd:string .
+
+wd:Q29113024 a wd:Q1420 ;
+    rdfs:label "Q29113024"^^xsd:string .
+
+wd:Q29113026 a wd:Q1420 ;
+    rdfs:label "Q29113026"^^xsd:string .
+
+wd:Q29113027 a wd:Q1420 ;
+    rdfs:label "Q29113027"^^xsd:string .
+
+wd:Q29113028 a wd:Q1420 ;
+    rdfs:label "Q29113028"^^xsd:string .
+
+wd:Q29113029 a wd:Q1420 ;
+    rdfs:label "Q29113029"^^xsd:string .
+
+wd:Q29113030 a wd:Q1420 ;
+    rdfs:label "Q29113030"^^xsd:string .
+
+wd:Q29113031 a wd:Q1420 ;
+    rdfs:label "Q29113031"^^xsd:string .
+
+wd:Q29113032 a wd:Q1420 ;
+    rdfs:label "Q29113032"^^xsd:string .
+
+wd:Q29113033 a wd:Q1420 ;
+    rdfs:label "Q29113033"^^xsd:string .
+
+wd:Q29113034 a wd:Q1420 ;
+    rdfs:label "Q29113034"^^xsd:string .
+
+wd:Q29113035 a wd:Q1420 ;
+    rdfs:label "Q29113035"^^xsd:string .
+
+wd:Q29113037 a wd:Q1420 ;
+    rdfs:label "Q29113037"^^xsd:string .
+
+wd:Q29113039 a wd:Q1420 ;
+    rdfs:label "Q29113039"^^xsd:string .
+
+wd:Q29113041 a wd:Q1420 ;
+    rdfs:label "Q29113041"^^xsd:string .
+
+wd:Q29113047 a wd:Q1420 ;
+    rdfs:label "Q29113047"^^xsd:string .
+
+wd:Q29113052 a wd:Q1420 ;
+    rdfs:label "Q29113052"^^xsd:string .
+
+wd:Q29113067 a wd:Q1420 ;
+    rdfs:label "Q29113067"^^xsd:string .
+
+wd:Q29113069 a wd:Q1420 ;
+    rdfs:label "Q29113069"^^xsd:string .
+
+wd:Q29113072 a wd:Q1420 ;
+    rdfs:label "Q29113072"^^xsd:string .
+
+wd:Q29113082 a wd:Q1420 ;
+    rdfs:label "Q29113082"^^xsd:string .
+
+wd:Q29113089 a wd:Q1420 ;
+    rdfs:label "Q29113089"^^xsd:string .
+
+wd:Q29113092 a wd:Q1420 ;
+    rdfs:label "Q29113092"^^xsd:string .
+
+wd:Q29113101 a wd:Q1420 ;
+    rdfs:label "Q29113101"^^xsd:string .
+
+wd:Q29113104 a wd:Q1420 ;
+    rdfs:label "Q29113104"^^xsd:string .
+
+wd:Q29113107 a wd:Q1420 ;
+    rdfs:label "Q29113107"^^xsd:string .
+
+wd:Q29113109 a wd:Q1420 ;
+    rdfs:label "Q29113109"^^xsd:string .
+
+wd:Q29113110 a wd:Q1420 ;
+    rdfs:label "Q29113110"^^xsd:string .
+
+wd:Q29113112 a wd:Q1420 ;
+    rdfs:label "Q29113112"^^xsd:string .
+
+wd:Q29113113 a wd:Q1420 ;
+    rdfs:label "Q29113113"^^xsd:string .
+
+wd:Q29113114 a wd:Q1420 ;
+    rdfs:label "Q29113114"^^xsd:string .
+
+wd:Q29113122 a wd:Q1420 ;
+    rdfs:label "Q29113122"^^xsd:string .
+
+wd:Q29113124 a wd:Q1420 ;
+    rdfs:label "Q29113124"^^xsd:string .
+
+wd:Q29113125 a wd:Q1420 ;
+    rdfs:label "Q29113125"^^xsd:string .
+
+wd:Q29113126 a wd:Q1420 ;
+    rdfs:label "Q29113126"^^xsd:string .
+
+wd:Q29113127 a wd:Q1420 ;
+    rdfs:label "Q29113127"^^xsd:string .
+
+wd:Q29113128 a wd:Q1420 ;
+    rdfs:label "Q29113128"^^xsd:string .
+
+wd:Q29113129 a wd:Q1420 ;
+    rdfs:label "Q29113129"^^xsd:string .
+
+wd:Q29113130 a wd:Q1420 ;
+    rdfs:label "Q29113130"^^xsd:string .
+
+wd:Q29113131 a wd:Q1420 ;
+    rdfs:label "Q29113131"^^xsd:string .
+
+wd:Q29113132 a wd:Q1420 ;
+    rdfs:label "Q29113132"^^xsd:string .
+
+wd:Q29113133 a wd:Q1420 ;
+    rdfs:label "Q29113133"^^xsd:string .
+
+wd:Q29113134 a wd:Q1420 ;
+    rdfs:label "Q29113134"^^xsd:string .
+
+wd:Q29113136 a wd:Q1420 ;
+    rdfs:label "Q29113136"^^xsd:string .
+
+wd:Q29113137 a wd:Q1420 ;
+    rdfs:label "Q29113137"^^xsd:string .
+
+wd:Q29113138 a wd:Q1420 ;
+    rdfs:label "Q29113138"^^xsd:string .
+
+wd:Q29113139 a wd:Q1420 ;
+    rdfs:label "Q29113139"^^xsd:string .
+
+wd:Q29113140 a wd:Q1420 ;
+    rdfs:label "Q29113140"^^xsd:string .
+
+wd:Q29113148 a wd:Q1420 ;
+    rdfs:label "Q29113148"^^xsd:string .
+
+wd:Q29113149 a wd:Q1420 ;
+    rdfs:label "Q29113149"^^xsd:string .
+
+wd:Q29113150 a wd:Q1420 ;
+    rdfs:label "Q29113150"^^xsd:string .
+
+wd:Q29113153 a wd:Q1420 ;
+    rdfs:label "Q29113153"^^xsd:string .
+
+wd:Q29113154 a wd:Q1420 ;
+    rdfs:label "Q29113154"^^xsd:string .
+
+wd:Q29113155 a wd:Q1420 ;
+    rdfs:label "Q29113155"^^xsd:string .
+
+wd:Q29113156 a wd:Q1420 ;
+    rdfs:label "Q29113156"^^xsd:string .
+
+wd:Q29113157 a wd:Q1420 ;
+    rdfs:label "Q29113157"^^xsd:string .
+
+wd:Q29113159 a wd:Q1420 ;
+    rdfs:label "Q29113159"^^xsd:string .
+
+wd:Q29113160 a wd:Q1420 ;
+    rdfs:label "Q29113160"^^xsd:string .
+
+wd:Q29113161 a wd:Q1420 ;
+    rdfs:label "Q29113161"^^xsd:string .
+
+wd:Q29113162 a wd:Q1420 ;
+    rdfs:label "Q29113162"^^xsd:string .
+
+wd:Q29113163 a wd:Q1420 ;
+    rdfs:label "Q29113163"^^xsd:string .
+
+wd:Q29113164 a wd:Q1420 ;
+    rdfs:label "Q29113164"^^xsd:string .
+
+wd:Q29113165 a wd:Q1420 ;
+    rdfs:label "Q29113165"^^xsd:string .
+
+wd:Q29113166 a wd:Q1420 ;
+    rdfs:label "Q29113166"^^xsd:string .
+
+wd:Q29113168 a wd:Q1420 ;
+    rdfs:label "Q29113168"^^xsd:string .
+
+wd:Q29113169 a wd:Q1420 ;
+    rdfs:label "Q29113169"^^xsd:string .
+
+wd:Q29113170 a wd:Q1420 ;
+    rdfs:label "Q29113170"^^xsd:string .
+
+wd:Q29113171 a wd:Q1420 ;
+    rdfs:label "Q29113171"^^xsd:string .
+
+wd:Q29113172 a wd:Q1420 ;
+    rdfs:label "Q29113172"^^xsd:string .
+
+wd:Q29113174 a wd:Q1420 ;
+    rdfs:label "Q29113174"^^xsd:string .
+
+wd:Q29113177 a wd:Q1420 ;
+    rdfs:label "Q29113177"^^xsd:string .
+
+wd:Q29113713 a wd:Q1420 ;
+    rdfs:label "Q29113713"^^xsd:string .
+
+wd:Q29113715 a wd:Q1420 ;
+    rdfs:label "Q29113715"^^xsd:string .
+
+wd:Q29113716 a wd:Q1420 ;
+    rdfs:label "Q29113716"^^xsd:string .
+
+wd:Q29113717 a wd:Q1420 ;
+    rdfs:label "Q29113717"^^xsd:string .
+
+wd:Q29113718 a wd:Q1420 ;
+    rdfs:label "Q29113718"^^xsd:string .
+
+wd:Q29113719 a wd:Q1420 ;
+    rdfs:label "Q29113719"^^xsd:string .
+
+wd:Q29113721 a wd:Q1420 ;
+    rdfs:label "Q29113721"^^xsd:string .
+
+wd:Q29113722 a wd:Q1420 ;
+    rdfs:label "Q29113722"^^xsd:string .
+
+wd:Q29113723 a wd:Q1420 ;
+    rdfs:label "Q29113723"^^xsd:string .
+
+wd:Q29113724 a wd:Q1420 ;
+    rdfs:label "Q29113724"^^xsd:string .
+
+wd:Q29113726 a wd:Q1420 ;
+    rdfs:label "Q29113726"^^xsd:string .
+
+wd:Q29113727 a wd:Q1420 ;
+    rdfs:label "Q29113727"^^xsd:string .
+
+wd:Q29113728 a wd:Q1420 ;
+    rdfs:label "Q29113728"^^xsd:string .
+
+wd:Q29113729 a wd:Q1420 ;
+    rdfs:label "Q29113729"^^xsd:string .
+
+wd:Q29113730 a wd:Q1420 ;
+    rdfs:label "Q29113730"^^xsd:string .
+
+wd:Q29113731 a wd:Q1420 ;
+    rdfs:label "Q29113731"^^xsd:string .
+
+wd:Q29113732 a wd:Q1420 ;
+    rdfs:label "Q29113732"^^xsd:string .
+
+wd:Q29113733 a wd:Q1420 ;
+    rdfs:label "Q29113733"^^xsd:string .
+
+wd:Q29113734 a wd:Q1420 ;
+    rdfs:label "Q29113734"^^xsd:string .
+
+wd:Q29113737 a wd:Q1420 ;
+    rdfs:label "Q29113737"^^xsd:string .
+
+wd:Q29113741 a wd:Q1420 ;
+    rdfs:label "Q29113741"^^xsd:string .
+
+wd:Q29113742 a wd:Q1420 ;
+    rdfs:label "Q29113742"^^xsd:string .
+
+wd:Q29113743 a wd:Q1420 ;
+    rdfs:label "Q29113743"^^xsd:string .
+
+wd:Q29113744 a wd:Q1420 ;
+    rdfs:label "Q29113744"^^xsd:string .
+
+wd:Q29113745 a wd:Q1420 ;
+    rdfs:label "Q29113745"^^xsd:string .
+
+wd:Q29113746 a wd:Q1420 ;
+    rdfs:label "Q29113746"^^xsd:string .
+
+wd:Q29113747 a wd:Q1420 ;
+    rdfs:label "Q29113747"^^xsd:string .
+
+wd:Q29113748 a wd:Q1420 ;
+    rdfs:label "Q29113748"^^xsd:string .
+
+wd:Q29113749 a wd:Q1420 ;
+    rdfs:label "Q29113749"^^xsd:string .
+
+wd:Q29113750 a wd:Q1420 ;
+    rdfs:label "Q29113750"^^xsd:string .
+
+wd:Q29113751 a wd:Q1420 ;
+    rdfs:label "Q29113751"^^xsd:string .
+
+wd:Q29113752 a wd:Q1420 ;
+    rdfs:label "Q29113752"^^xsd:string .
+
+wd:Q29113755 a wd:Q1420 ;
+    rdfs:label "Q29113755"^^xsd:string .
+
+wd:Q29113767 a wd:Q1420 ;
+    rdfs:label "Q29113767"^^xsd:string .
+
+wd:Q29113771 a wd:Q1420 ;
+    rdfs:label "Q29113771"^^xsd:string .
+
+wd:Q29113772 a wd:Q1420 ;
+    rdfs:label "Q29113772"^^xsd:string .
+
+wd:Q29113773 a wd:Q1420 ;
+    rdfs:label "Q29113773"^^xsd:string .
+
+wd:Q29113775 a wd:Q1420 ;
+    rdfs:label "Q29113775"^^xsd:string .
+
+wd:Q29113778 a wd:Q1420 ;
+    rdfs:label "Q29113778"^^xsd:string .
+
+wd:Q29113786 a wd:Q1420 ;
+    rdfs:label "Q29113786"^^xsd:string .
+
+wd:Q29113787 a wd:Q1420 ;
+    rdfs:label "Q29113787"^^xsd:string .
+
+wd:Q29113788 a wd:Q1420 ;
+    rdfs:label "Q29113788"^^xsd:string .
+
+wd:Q29113789 a wd:Q1420 ;
+    rdfs:label "Q29113789"^^xsd:string .
+
+wd:Q29113790 a wd:Q1420 ;
+    rdfs:label "Q29113790"^^xsd:string .
+
+wd:Q29113793 a wd:Q1420 ;
+    rdfs:label "Q29113793"^^xsd:string .
+
+wd:Q29113794 a wd:Q1420 ;
+    rdfs:label "Q29113794"^^xsd:string .
+
+wd:Q29113795 a wd:Q1420 ;
+    rdfs:label "Q29113795"^^xsd:string .
+
+wd:Q29113796 a wd:Q1420 ;
+    rdfs:label "Q29113796"^^xsd:string .
+
+wd:Q29113797 a wd:Q1420 ;
+    rdfs:label "Q29113797"^^xsd:string .
+
+wd:Q29113798 a wd:Q1420 ;
+    rdfs:label "Q29113798"^^xsd:string .
+
+wd:Q29113799 a wd:Q1420 ;
+    rdfs:label "Q29113799"^^xsd:string .
+
+wd:Q29113800 a wd:Q1420 ;
+    rdfs:label "Q29113800"^^xsd:string .
+
+wd:Q29113801 a wd:Q1420 ;
+    rdfs:label "Q29113801"^^xsd:string .
+
+wd:Q29113802 a wd:Q1420 ;
+    rdfs:label "Q29113802"^^xsd:string .
+
+wd:Q29113804 a wd:Q1420 ;
+    rdfs:label "Q29113804"^^xsd:string .
+
+wd:Q29113805 a wd:Q1420 ;
+    rdfs:label "Q29113805"^^xsd:string .
+
+wd:Q29113806 a wd:Q1420 ;
+    rdfs:label "Q29113806"^^xsd:string .
+
+wd:Q29113807 a wd:Q1420 ;
+    rdfs:label "Q29113807"^^xsd:string .
+
+wd:Q29113808 a wd:Q1420 ;
+    rdfs:label "Q29113808"^^xsd:string .
+
+wd:Q29113810 a wd:Q1420 ;
+    rdfs:label "Q29113810"^^xsd:string .
+
+wd:Q29114536 a wd:Q1420 ;
+    rdfs:label "Q29114536"^^xsd:string .
+
+wd:Q29122840 a wd:Q1420 ;
+    rdfs:label "Q29122840"^^xsd:string .
+
+wd:Q2925556 a wd:Q1420 ;
+    rdfs:label "Q2925556"^^xsd:string .
+
+wd:Q2927693 a wd:Q1420 ;
+    rdfs:label "Bugatti Type 16"@en .
+
+wd:Q2927696 a wd:Q1420 ;
+    rdfs:label "Bugatti EB 112"@en .
+
+wd:Q2927698 a wd:Q1420 ;
+    rdfs:label "Q2927698"^^xsd:string .
+
+wd:Q2927700 a wd:Q1420 ;
+    rdfs:label "Q2927700"^^xsd:string .
+
+wd:Q2927755 a wd:Q1420 ;
+    rdfs:label "Q2927755"^^xsd:string .
+
+wd:Q2927759 a wd:Q1420 ;
+    rdfs:label "Q2927759"^^xsd:string .
+
+wd:Q2931417 a wd:Q1420 ;
+    rdfs:label "Q2931417"^^xsd:string .
+
+wd:Q2931418 a wd:Q1420 ;
+    rdfs:label "Q2931418"^^xsd:string .
+
+wd:Q2931419 a wd:Q1420 ;
+    rdfs:label "Q2931419"^^xsd:string .
+
+wd:Q2941745 a wd:Q1420 ;
+    rdfs:label "Q2941745"^^xsd:string .
+
+wd:Q2962811 a wd:Q1420 ;
+    rdfs:label "Q2962811"^^xsd:string .
+
+wd:Q2963103 a wd:Q1420 ;
+    rdfs:label "Q2963103"^^xsd:string .
+
+wd:Q2963109 a wd:Q1420 ;
+    rdfs:label "Chevrolet Sonic"@en .
+
+wd:Q2974335 a wd:Q1420 ;
+    rdfs:label "Q2974335"^^xsd:string .
+
+wd:Q2974494 a wd:Q1420 ;
+    rdfs:label "Citroën C3 II"@en .
+
+wd:Q2974508 a wd:Q1420 ;
+    rdfs:label "Citroën ID"@en .
+
+wd:Q2974510 a wd:Q1420 ;
+    rdfs:label "Q2974510"^^xsd:string .
+
+wd:Q2974514 a wd:Q1420 ;
+    rdfs:label "Q2974514"^^xsd:string .
+
+wd:Q2974520 a wd:Q1420 ;
+    rdfs:label "Q2974520"^^xsd:string .
+
+wd:Q2974523 a wd:Q1420 ;
+    rdfs:label "Q2974523"^^xsd:string .
+
+wd:Q2994813 a wd:Q1420 ;
+    rdfs:label "VAZ-2104"@en .
+
+wd:Q3021432 a wd:Q1420 ;
+    rdfs:label "Delage Type AB"@en .
+
+wd:Q3021434 a wd:Q1420 ;
+    rdfs:label "Delahaye Type 145"@en .
+
+wd:Q3021435 a wd:Q1420 ;
+    rdfs:label "Q3021435"^^xsd:string .
+
+wd:Q3021438 a wd:Q1420 ;
+    rdfs:label "Q3021438"^^xsd:string .
+
+wd:Q3021439 a wd:Q1420 ;
+    rdfs:label "Q3021439"^^xsd:string .
+
+wd:Q3028379 a wd:Q1420 ;
+    rdfs:label "Dino 206 S"@en .
+
+wd:Q30605343 a wd:Q1420 ;
+    rdfs:label "Night Stalker"@en .
+
+wd:Q30640335 a wd:Q1420 ;
+    rdfs:label "Maruti Suzuki Dzire"@en .
+
+wd:Q3064112 a wd:Q1420 ;
+    rdfs:label "Q3064112"^^xsd:string .
+
+wd:Q3069654 a wd:Q1420 ;
+    rdfs:label "Ferrari 208"@en .
+
+wd:Q3069656 a wd:Q1420 ;
+    rdfs:label "Q3069656"^^xsd:string .
+
+wd:Q3069657 a wd:Q1420 ;
+    rdfs:label "Ferrari 250 GT Berlinetta Tour de France"@en .
+
+wd:Q3069663 a wd:Q1420 ;
+    rdfs:label "Ferrari 250 GT Coupé Pinin Farina"@en .
+
+wd:Q3069664 a wd:Q1420 ;
+    rdfs:label "Ferrari 250 MM"@en .
+
+wd:Q3069667 a wd:Q1420 ;
+    rdfs:label "Ferrari 250 S"@en .
+
+wd:Q3071122 a wd:Q1420 ;
+    rdfs:label "Fiat 128 Moretti Roadster"@en .
+
+wd:Q3071124 a wd:Q1420 ;
+    rdfs:label "Q3071124"^^xsd:string .
+
+wd:Q3071161 a wd:Q1420 ;
+    rdfs:label "Q3071161"^^xsd:string .
+
+wd:Q3071165 a wd:Q1420 ;
+    rdfs:label "Q3071165"^^xsd:string .
+
+wd:Q3071167 a wd:Q1420 ;
+    rdfs:label "Q3071167"^^xsd:string .
+
+wd:Q3071215 a wd:Q1420 ;
+    rdfs:label "Q3071215"^^xsd:string .
+
+wd:Q3071216 a wd:Q1420 ;
+    rdfs:label "Fiat 801"@en .
+
+wd:Q3071217 a wd:Q1420 ;
+    rdfs:label "Q3071217"^^xsd:string .
+
+wd:Q3071218 a wd:Q1420 ;
+    rdfs:label "Q3071218"^^xsd:string .
+
+wd:Q3071220 a wd:Q1420 ;
+    rdfs:label "Fiat 804"@en .
+
+wd:Q3071222 a wd:Q1420 ;
+    rdfs:label "Q3071222"^^xsd:string .
+
+wd:Q3071223 a wd:Q1420 ;
+    rdfs:label "Fiat 850 Coupé"@en .
+
+wd:Q3071226 a wd:Q1420 ;
+    rdfs:label "Q3071226"^^xsd:string .
+
+wd:Q3071227 a wd:Q1420 ;
+    rdfs:label "Q3071227"^^xsd:string .
+
+wd:Q3071229 a wd:Q1420 ;
+    rdfs:label "Q3071229"^^xsd:string .
+
+wd:Q3071253 a wd:Q1420 ;
+    rdfs:label "Q3071253"^^xsd:string .
+
+wd:Q3071270 a wd:Q1420 ;
+    rdfs:label "Q3071270"^^xsd:string .
+
+wd:Q3071271 a wd:Q1420 ;
+    rdfs:label "Q3071271"^^xsd:string .
+
+wd:Q3071275 a wd:Q1420 ;
+    rdfs:label "Q3071275"^^xsd:string .
+
+wd:Q3071284 a wd:Q1420 ;
+    rdfs:label "Q3071284"^^xsd:string .
+
+wd:Q3071285 a wd:Q1420 ;
+    rdfs:label "Q3071285"^^xsd:string .
+
+wd:Q3071290 a wd:Q1420 ;
+    rdfs:label "Fiat Talento"@en .
+
+wd:Q3077091 a wd:Q1420 ;
+    rdfs:label "Q3077091"^^xsd:string .
+
+wd:Q3077099 a wd:Q1420 ;
+    rdfs:label "Q3077099"^^xsd:string .
+
+wd:Q3077101 a wd:Q1420 ;
+    rdfs:label "Q3077101"^^xsd:string .
+
+wd:Q3077588 a wd:Q1420 ;
+    rdfs:label "Q3077588"^^xsd:string .
+
+wd:Q3077595 a wd:Q1420 ;
+    rdfs:label "Formula Super Vee"@en .
+
+wd:Q3079041 a wd:Q1420 ;
+    rdfs:label "Fiat Grand Siena"@en .
+
+wd:Q3089578 a wd:Q1420 ;
+    rdfs:label "Q3089578"^^xsd:string .
+
+wd:Q3090979 a wd:Q1420 ;
+    rdfs:label "Q3090979"^^xsd:string .
+
+wd:Q30933904 a wd:Q1420 ;
+    rdfs:label "Q30933904"^^xsd:string .
+
+wd:Q3095468 a wd:Q1420 ;
+    rdfs:label "Q3095468"^^xsd:string .
+
+wd:Q3099970 a wd:Q1420 ;
+    rdfs:label "Q3099970"^^xsd:string .
+
+wd:Q3100081 a wd:Q1420 ;
+    rdfs:label "Q3100081"^^xsd:string .
+
+wd:Q3100082 a wd:Q1420 ;
+    rdfs:label "Q3100082"^^xsd:string .
+
+wd:Q3100311 a wd:Q1420 ;
+    rdfs:label "Gemballa Mirage GT"@en .
+
+wd:Q31197786 a wd:Q1420 ;
+    rdfs:label "Q31197786"^^xsd:string .
+
+wd:Q3136505 a wd:Q1420 ;
+    rdfs:label "HIspano-Suiza K8"@en .
+
+wd:Q3138381 a wd:Q1420 ;
+    rdfs:label "Spiano"@en .
+
+wd:Q3143254 a wd:Q1420 ;
+    rdfs:label "Hummer O2"@en .
+
+wd:Q3144460 a wd:Q1420 ;
+    rdfs:label "Q3144460"^^xsd:string .
+
+wd:Q3151404 a wd:Q1420 ;
+    rdfs:label "Q3151404"^^xsd:string .
+
+wd:Q3155632 a wd:Q1420 ;
+    rdfs:label "Isotta Fraschini Tipo 8"@en .
+
+wd:Q3196295 a wd:Q1420 ;
+    rdfs:label "Kia Sidewinder"@en .
+
+wd:Q3216098 a wd:Q1420 ;
+    rdfs:label "Q3216098"^^xsd:string .
+
+wd:Q3216099 a wd:Q1420 ;
+    rdfs:label "Q3216099"^^xsd:string .
+
+wd:Q3216675 a wd:Q1420 ;
+    rdfs:label "Q3216675"^^xsd:string .
+
+wd:Q3216676 a wd:Q1420 ;
+    rdfs:label "Lamborghini Countach QVX"@en .
+
+wd:Q3216995 a wd:Q1420 ;
+    rdfs:label "Q3216995"^^xsd:string .
+
+wd:Q3216996 a wd:Q1420 ;
+    rdfs:label "Lancia Delta HF Integrale"@en .
+
+wd:Q3217005 a wd:Q1420 ;
+    rdfs:label "Q3217005"^^xsd:string .
+
+wd:Q3217006 a wd:Q1420 ;
+    rdfs:label "Q3217006"^^xsd:string .
+
+wd:Q3217023 a wd:Q1420 ;
+    rdfs:label "Q3217023"^^xsd:string .
+
+wd:Q3231574 a wd:Q1420 ;
+    rdfs:label "Q3231574"^^xsd:string .
+
+wd:Q3258755 a wd:Q1420 ;
+    rdfs:label "Lola B12/60"@en .
+
+wd:Q3258765 a wd:Q1420 ;
+    rdfs:label "Q3258765"^^xsd:string .
+
+wd:Q3260067 a wd:Q1420 ;
+    rdfs:label "Q3260067"^^xsd:string .
+
+wd:Q3260068 a wd:Q1420 ;
+    rdfs:label "Q3260068"^^xsd:string .
+
+wd:Q3260076 a wd:Q1420 ;
+    rdfs:label "Q3260076"^^xsd:string .
+
+wd:Q3260078 a wd:Q1420 ;
+    rdfs:label "Q3260078"^^xsd:string .
+
+wd:Q3277729 a wd:Q1420 ;
+    rdfs:label "Q3277729"^^xsd:string .
+
+wd:Q3277731 a wd:Q1420 ;
+    rdfs:label "Q3277731"^^xsd:string .
+
+wd:Q3296023 a wd:Q1420 ;
+    rdfs:label "Q3296023"^^xsd:string .
+
+wd:Q3296025 a wd:Q1420 ;
+    rdfs:label "Q3296025"^^xsd:string .
+
+wd:Q3297240 a wd:Q1420 ;
+    rdfs:label "Maserati Chicane"@en .
+
+wd:Q3302939 a wd:Q1420 ;
+    rdfs:label "Q3302939"^^xsd:string .
+
+wd:Q3303077 a wd:Q1420 ;
+    rdfs:label "Q3303077"^^xsd:string .
+
+wd:Q3303083 a wd:Q1420 ;
+    rdfs:label "Q3303083"^^xsd:string .
+
+wd:Q3303085 a wd:Q1420 ;
+    rdfs:label "Q3303085"^^xsd:string .
+
+wd:Q3303088 a wd:Q1420 ;
+    rdfs:label "Q3303088"^^xsd:string .
+
+wd:Q3304211 a wd:Q1420 ;
+    rdfs:label "Q3304211"^^xsd:string .
+
+wd:Q3304241 a wd:Q1420 ;
+    rdfs:label "Q3304241"^^xsd:string .
+
+wd:Q3306276 a wd:Q1420 ;
+    rdfs:label "Q3306276"^^xsd:string .
+
+wd:Q3306284 a wd:Q1420 ;
+    rdfs:label "Q3306284"^^xsd:string .
+
+wd:Q3306286 a wd:Q1420 ;
+    rdfs:label "Mercedes-Benz SS"@en .
+
+wd:Q3306293 a wd:Q1420 ;
+    rdfs:label "Mercedes-Benz W129"@en .
+
+wd:Q3306316 a wd:Q1420 ;
+    rdfs:label "Q3306316"^^xsd:string .
+
+wd:Q3342159 a wd:Q1420 ;
+    rdfs:label "Q3342159"^^xsd:string .
+
+wd:Q3342164 a wd:Q1420 ;
+    rdfs:label "Nissan Skyline"@en .
+
+wd:Q3354475 a wd:Q1420 ;
+    rdfs:label "Mazda 323F"@en .
+
+wd:Q3362089 a wd:Q1420 ;
+    rdfs:label "Q3362089"^^xsd:string .
+
+wd:Q3377750 a wd:Q1420 ;
+    rdfs:label "Q3377750"^^xsd:string .
+
+wd:Q3377756 a wd:Q1420 ;
+    rdfs:label "Q3377756"^^xsd:string .
+
+wd:Q3377761 a wd:Q1420 ;
+    rdfs:label "Q3377761"^^xsd:string .
+
+wd:Q3377765 a wd:Q1420 ;
+    rdfs:label "Q3377765"^^xsd:string .
+
+wd:Q3377768 a wd:Q1420 ;
+    rdfs:label "Q3377768"^^xsd:string .
+
+wd:Q3377771 a wd:Q1420 ;
+    rdfs:label "Peugeot Moovie"@en .
+
+wd:Q3377772 a wd:Q1420 ;
+    rdfs:label "Peugeot Onyx"@en .
+
+wd:Q3377796 a wd:Q1420 ;
+    rdfs:label "Q3377796"^^xsd:string .
+
+wd:Q3393266 a wd:Q1420 ;
+    rdfs:label "Gross axle weight rating"@en .
+
+wd:Q3407133 a wd:Q1420 ;
+    rdfs:label "Q3407133"^^xsd:string .
+
+wd:Q3425026 a wd:Q1420 ;
+    rdfs:label "Q3425026"^^xsd:string .
+
+wd:Q3425028 a wd:Q1420 ;
+    rdfs:label "Q3425028"^^xsd:string .
+
+wd:Q3425030 a wd:Q1420 ;
+    rdfs:label "Q3425030"^^xsd:string .
+
+wd:Q3425032 a wd:Q1420 ;
+    rdfs:label "Q3425032"^^xsd:string .
+
+wd:Q3425043 a wd:Q1420 ;
+    rdfs:label "Q3425043"^^xsd:string .
+
+wd:Q3425058 a wd:Q1420 ;
+    rdfs:label "Renault PR118"@en .
+
+wd:Q3425067 a wd:Q1420 ;
+    rdfs:label "Q3425067"^^xsd:string .
+
+wd:Q3425069 a wd:Q1420 ;
+    rdfs:label "Q3425069"^^xsd:string .
+
+wd:Q3425070 a wd:Q1420 ;
+    rdfs:label "Q3425070"^^xsd:string .
+
+wd:Q3425077 a wd:Q1420 ;
+    rdfs:label "Q3425077"^^xsd:string .
+
+wd:Q3425114 a wd:Q1420 ;
+    rdfs:label "Q3425114"^^xsd:string .
+
+wd:Q34412209 a wd:Q741490 ;
+    rdfs:label "kar-go"@en .
+
+wd:Q3441717 a wd:Q1420 ;
+    rdfs:label "Q3441717"^^xsd:string .
+
+wd:Q3460379 a wd:Q1420 ;
+    rdfs:label "Q3460379"^^xsd:string .
+
+wd:Q3460380 a wd:Q1420 ;
+    rdfs:label "Q3460380"^^xsd:string .
+
+wd:Q3460381 a wd:Q1420 ;
+    rdfs:label "Q3460381"^^xsd:string .
+
+wd:Q3460382 a wd:Q1420 ;
+    rdfs:label "Q3460382"^^xsd:string .
+
+wd:Q3469674 a wd:Q1420 ;
+    rdfs:label "Q3469674"^^xsd:string .
+
+wd:Q3475429 a wd:Q1420 ;
+    rdfs:label "Buggy Schlesser"@en .
+
+wd:Q3484104 a wd:Q1420 ;
+    rdfs:label "Simca 1000 Rallye"@en .
+
+wd:Q3484108 a wd:Q1420 ;
+    rdfs:label "Q3484108"^^xsd:string .
+
+wd:Q3493596 a wd:Q1420 ;
+    rdfs:label "Q3493596"^^xsd:string .
+
+wd:Q3502379 a wd:Q1420 ;
+    rdfs:label "Tarpan Honker"@en .
+
+wd:Q3502404 a wd:Q1420 ;
+    rdfs:label "Subaru B5 TPH"@en .
+
+wd:Q3502408 a wd:Q1420 ;
+    rdfs:label "Q3502408"^^xsd:string .
+
+wd:Q3512572 a wd:Q1420 ;
+    rdfs:label "Q3512572"^^xsd:string .
+
+wd:Q3512576 a wd:Q1420 ;
+    rdfs:label "Q3512576"^^xsd:string .
+
+wd:Q3512578 a wd:Q1420 ;
+    rdfs:label "Q3512578"^^xsd:string .
+
+wd:Q3512579 a wd:Q1420 ;
+    rdfs:label "Q3512579"^^xsd:string .
+
+wd:Q3514445 a wd:Q1420 ;
+    rdfs:label "Talbot 1510"@en .
+
+wd:Q3514447 a wd:Q1420 ;
+    rdfs:label "Talbot Samba Rallye"@en .
+
+wd:Q3539717 a wd:Q1420 ;
+    rdfs:label "Triumph TR3A"@en .
+
+wd:Q3541248 a wd:Q1420 ;
+    rdfs:label "Alfa Romeo Quadrifoglio"@en .
+
+wd:Q3555640 a wd:Q1420 ;
+    rdfs:label "Q3555640"^^xsd:string .
+
+wd:Q3555644 a wd:Q1420 ;
+    rdfs:label "Q3555644"^^xsd:string .
+
+wd:Q3555649 a wd:Q1420 ;
+    rdfs:label "Q3555649"^^xsd:string .
+
+wd:Q3555651 a wd:Q1420 ;
+    rdfs:label "venturi Eclectic"@en .
+
+wd:Q3555653 a wd:Q1420 ;
+    rdfs:label "Q3555653"^^xsd:string .
+
+wd:Q3562806 a wd:Q1420 ;
+    rdfs:label "Volkswagen Golf City"@en .
+
+wd:Q3562808 a wd:Q1420 ;
+    rdfs:label "Q3562808"^^xsd:string .
+
+wd:Q3562817 a wd:Q1420 ;
+    rdfs:label "Q3562817"^^xsd:string .
+
+wd:Q3564730 a wd:Q1420 ;
+    rdfs:label "Q3564730"^^xsd:string .
+
+wd:Q356698 a wd:Q1420 ;
+    rdfs:label "Decrepit car"@en .
+
+wd:Q3574892 a wd:Q1420 ;
+    rdfs:label "Q3574892"^^xsd:string .
+
+wd:Q3594275 a wd:Q1420 ;
+    rdfs:label "Q3594275"^^xsd:string .
+
+wd:Q3610958 a wd:Q1420 ;
+    rdfs:label "Q3610958"^^xsd:string .
+
+wd:Q3610959 a wd:Q1420 ;
+    rdfs:label "Alfa Romeo 155 V6 TI"@en .
+
+wd:Q3610963 a wd:Q1420 ;
+    rdfs:label "Alfa Romeo Iguana"@en .
+
+wd:Q3610967 a wd:Q1420 ;
+    rdfs:label "Q3610967"^^xsd:string .
+
+wd:Q3610973 a wd:Q1420 ;
+    rdfs:label "Q3610973"^^xsd:string .
+
+wd:Q3610974 a wd:Q1420 ;
+    rdfs:label "Q3610974"^^xsd:string .
+
+wd:Q3610975 a wd:Q1420 ;
+    rdfs:label "Q3610975"^^xsd:string .
+
+wd:Q3610993 a wd:Q1420 ;
+    rdfs:label "Alfa Romeo Eagle"@en .
+
+wd:Q3610996 a wd:Q1420 ;
+    rdfs:label "Alfa Romeo Delfino"@en .
+
+wd:Q3610999 a wd:Q1420 ;
+    rdfs:label "Alfa Romeo Giulia GTC"@en .
+
+wd:Q3611002 a wd:Q1420 ;
+    rdfs:label "Q3611002"^^xsd:string .
+
+wd:Q3611012 a wd:Q1420 ;
+    rdfs:label "Alfa Romeo RZ"@en .
+
+wd:Q3611019 a wd:Q1420 ;
+    rdfs:label "Q3611019"^^xsd:string .
+
+wd:Q3613031 a wd:Q1420 ;
+    rdfs:label "Q3613031"^^xsd:string .
+
+wd:Q3613032 a wd:Q1420 ;
+    rdfs:label "Q3613032"^^xsd:string .
+
+wd:Q3614299 a wd:Q1420 ;
+    rdfs:label "Q3614299"^^xsd:string .
+
+wd:Q3614300 a wd:Q1420 ;
+    rdfs:label "Q3614300"^^xsd:string .
+
+wd:Q3614302 a wd:Q1420 ;
+    rdfs:label "Q3614302"^^xsd:string .
+
+wd:Q3614306 a wd:Q1420 ;
+    rdfs:label "Q3614306"^^xsd:string .
+
+wd:Q3614307 a wd:Q1420 ;
+    rdfs:label "Q3614307"^^xsd:string .
+
+wd:Q3614308 a wd:Q1420 ;
+    rdfs:label "Q3614308"^^xsd:string .
+
+wd:Q3629929 a wd:Q1420 ;
+    rdfs:label "Q3629929"^^xsd:string .
+
+wd:Q3629932 a wd:Q1420 ;
+    rdfs:label "Q3629932"^^xsd:string .
+
+wd:Q3630451 a wd:Q1420 ;
+    rdfs:label "Q3630451"^^xsd:string .
+
+wd:Q3630905 a wd:Q1420 ;
+    rdfs:label "Q3630905"^^xsd:string .
+
+wd:Q3630907 a wd:Q1420 ;
+    rdfs:label "Q3630907"^^xsd:string .
+
+wd:Q3631916 a wd:Q1420 ;
+    rdfs:label "Minissima"@en .
+
+wd:Q3632095 a wd:Q1420 ;
+    rdfs:label "Q3632095"^^xsd:string .
+
+wd:Q3632113 a wd:Q1420 ;
+    rdfs:label "Q3632113"^^xsd:string .
+
+wd:Q3632118 a wd:Q1420 ;
+    rdfs:label "Q3632118"^^xsd:string .
+
+wd:Q3632119 a wd:Q1420 ;
+    rdfs:label "BMW Zagato coupè"@en .
+
+wd:Q3634080 a wd:Q1420 ;
+    rdfs:label "Bandini GT"@en .
+
+wd:Q3638375 a wd:Q1420 ;
+    rdfs:label "Q3638375"^^xsd:string .
+
+wd:Q3638379 a wd:Q1420 ;
+    rdfs:label "Q3638379"^^xsd:string .
+
+wd:Q3638384 a wd:Q1420 ;
+    rdfs:label "Q3638384"^^xsd:string .
+
+wd:Q3638387 a wd:Q1420 ;
+    rdfs:label "Q3638387"^^xsd:string .
+
+wd:Q3638388 a wd:Q1420 ;
+    rdfs:label "Q3638388"^^xsd:string .
+
+wd:Q3638389 a wd:Q1420 ;
+    rdfs:label "Q3638389"^^xsd:string .
+
+wd:Q3638395 a wd:Q1420 ;
+    rdfs:label "Q3638395"^^xsd:string .
+
+wd:Q3638396 a wd:Q1420 ;
+    rdfs:label "Q3638396"^^xsd:string .
+
+wd:Q3638399 a wd:Q1420 ;
+    rdfs:label "Q3638399"^^xsd:string .
+
+wd:Q3638946 a wd:Q1420 ;
+    rdfs:label "Alfa Romeo BAT 11"@en .
+
+wd:Q3638947 a wd:Q1420 ;
+    rdfs:label "Q3638947"^^xsd:string .
+
+wd:Q3638948 a wd:Q1420 ;
+    rdfs:label "Q3638948"^^xsd:string .
+
+wd:Q3638949 a wd:Q1420 ;
+    rdfs:label "Bertone Freeclimber"@en .
+
+wd:Q3638950 a wd:Q1420 ;
+    rdfs:label "Lancia Kayak"@en .
+
+wd:Q3638951 a wd:Q1420 ;
+    rdfs:label "Q3638951"^^xsd:string .
+
+wd:Q3646633 a wd:Q1420 ;
+    rdfs:label "Bugatti Type 19"@en .
+
+wd:Q3646635 a wd:Q1420 ;
+    rdfs:label "Bugatti Type 22"@en .
+
+wd:Q3646640 a wd:Q1420 ;
+    rdfs:label "Bugatti Type 57 Aérolithe"@en .
+
+wd:Q3649984 a wd:Q1420 ;
+    rdfs:label "Cal looker"@en .
+
+wd:Q3658221 a wd:Q1420 ;
+    rdfs:label "Q3658221"^^xsd:string .
+
+wd:Q3658223 a wd:Q1420 ;
+    rdfs:label "Q3658223"^^xsd:string .
+
+wd:Q3658224 a wd:Q1420 ;
+    rdfs:label "Q3658224"^^xsd:string .
+
+wd:Q3658225 a wd:Q1420 ;
+    rdfs:label "Q3658225"^^xsd:string .
+
+wd:Q3658226 a wd:Q1420 ;
+    rdfs:label "Q3658226"^^xsd:string .
+
+wd:Q3658228 a wd:Q1420 ;
+    rdfs:label "Q3658228"^^xsd:string .
+
+wd:Q3658229 a wd:Q1420 ;
+    rdfs:label "Q3658229"^^xsd:string .
+
+wd:Q3658230 a wd:Q1420 ;
+    rdfs:label "Q3658230"^^xsd:string .
+
+wd:Q3658231 a wd:Q1420 ;
+    rdfs:label "Q3658231"^^xsd:string .
+
+wd:Q3658232 a wd:Q1420 ;
+    rdfs:label "Q3658232"^^xsd:string .
+
+wd:Q3661987 a wd:Q1420 ;
+    rdfs:label "Q3661987"^^xsd:string .
+
+wd:Q3667297 a wd:Q1420 ;
+    rdfs:label "Q3667297"^^xsd:string .
+
+wd:Q3675980 a wd:Q1420 ;
+    rdfs:label "Q3675980"^^xsd:string .
+
+wd:Q3675982 a wd:Q1420 ;
+    rdfs:label "Chrysler Thunderbolt"@en .
+
+wd:Q3678223 a wd:Q1420 ;
+    rdfs:label "Cisitalia 202"@en .
+
+wd:Q3678346 a wd:Q1420 ;
+    rdfs:label "Q3678346"^^xsd:string .
+
+wd:Q3700802 a wd:Q1420 ;
+    rdfs:label "Q3700802"^^xsd:string .
+
+wd:Q3700900 a wd:Q1420 ;
+    rdfs:label "Q3700900"^^xsd:string .
+
+wd:Q3700901 a wd:Q1420 ;
+    rdfs:label "Daimler Riemenwagen"@en .
+
+wd:Q3700902 a wd:Q1420 ;
+    rdfs:label "Q3700902"^^xsd:string .
+
+wd:Q3702808 a wd:Q1420 ;
+    rdfs:label "Q3702808"^^xsd:string .
+
+wd:Q3702809 a wd:Q1420 ;
+    rdfs:label "Q3702809"^^xsd:string .
+
+wd:Q3702810 a wd:Q1420 ;
+    rdfs:label "Q3702810"^^xsd:string .
+
+wd:Q3702811 a wd:Q1420 ;
+    rdfs:label "Q3702811"^^xsd:string .
+
+wd:Q3702812 a wd:Q1420 ;
+    rdfs:label "Q3702812"^^xsd:string .
+
+wd:Q3702813 a wd:Q1420 ;
+    rdfs:label "Q3702813"^^xsd:string .
+
+wd:Q3702814 a wd:Q1420 ;
+    rdfs:label "Q3702814"^^xsd:string .
+
+wd:Q3702815 a wd:Q1420 ;
+    rdfs:label "Q3702815"^^xsd:string .
+
+wd:Q3703932 a wd:Q1420 ;
+    rdfs:label "Q3703932"^^xsd:string .
+
+wd:Q3703933 a wd:Q1420 ;
+    rdfs:label "Q3703933"^^xsd:string .
+
+wd:Q3703934 a wd:Q1420 ;
+    rdfs:label "Q3703934"^^xsd:string .
+
+wd:Q3703935 a wd:Q1420 ;
+    rdfs:label "Q3703935"^^xsd:string .
+
+wd:Q3703937 a wd:Q1420 ;
+    rdfs:label "Q3703937"^^xsd:string .
+
+wd:Q3703939 a wd:Q1420 ;
+    rdfs:label "Q3703939"^^xsd:string .
+
+wd:Q3703940 a wd:Q1420 ;
+    rdfs:label "Q3703940"^^xsd:string .
+
+wd:Q3703941 a wd:Q1420 ;
+    rdfs:label "Q3703941"^^xsd:string .
+
+wd:Q3703942 a wd:Q1420 ;
+    rdfs:label "Q3703942"^^xsd:string .
+
+wd:Q3703943 a wd:Q1420 ;
+    rdfs:label "Q3703943"^^xsd:string .
+
+wd:Q3703945 a wd:Q1420 ;
+    rdfs:label "De Dion-Bouton V-8 passenger cars"@en .
+
+wd:Q3704062 a wd:Q1420 ;
+    rdfs:label "De Tomaso Sport 5000"@en .
+
+wd:Q3704063 a wd:Q1420 ;
+    rdfs:label "Q3704063"^^xsd:string .
+
+wd:Q3704894 a wd:Q1420 ;
+    rdfs:label "Q3704894"^^xsd:string .
+
+wd:Q3704895 a wd:Q1420 ;
+    rdfs:label "Q3704895"^^xsd:string .
+
+wd:Q3704896 a wd:Q1420 ;
+    rdfs:label "Q3704896"^^xsd:string .
+
+wd:Q3704897 a wd:Q1420 ;
+    rdfs:label "Q3704897"^^xsd:string .
+
+wd:Q3704898 a wd:Q1420 ;
+    rdfs:label "Q3704898"^^xsd:string .
+
+wd:Q3704899 a wd:Q1420 ;
+    rdfs:label "Q3704899"^^xsd:string .
+
+wd:Q3704900 a wd:Q1420 ;
+    rdfs:label "Q3704900"^^xsd:string .
+
+wd:Q3704901 a wd:Q1420 ;
+    rdfs:label "Q3704901"^^xsd:string .
+
+wd:Q3704902 a wd:Q1420 ;
+    rdfs:label "Q3704902"^^xsd:string .
+
+wd:Q3704903 a wd:Q1420 ;
+    rdfs:label "Q3704903"^^xsd:string .
+
+wd:Q3704904 a wd:Q1420 ;
+    rdfs:label "Q3704904"^^xsd:string .
+
+wd:Q3704905 a wd:Q1420 ;
+    rdfs:label "Q3704905"^^xsd:string .
+
+wd:Q3704906 a wd:Q1420 ;
+    rdfs:label "Q3704906"^^xsd:string .
+
+wd:Q3704907 a wd:Q1420 ;
+    rdfs:label "Q3704907"^^xsd:string .
+
+wd:Q3704908 a wd:Q1420 ;
+    rdfs:label "Q3704908"^^xsd:string .
+
+wd:Q3704909 a wd:Q1420 ;
+    rdfs:label "Q3704909"^^xsd:string .
+
+wd:Q3704910 a wd:Q1420 ;
+    rdfs:label "Q3704910"^^xsd:string .
+
+wd:Q3704911 a wd:Q1420 ;
+    rdfs:label "Q3704911"^^xsd:string .
+
+wd:Q3704914 a wd:Q1420 ;
+    rdfs:label "Q3704914"^^xsd:string .
+
+wd:Q3704915 a wd:Q1420 ;
+    rdfs:label "Q3704915"^^xsd:string .
+
+wd:Q3704916 a wd:Q1420 ;
+    rdfs:label "Q3704916"^^xsd:string .
+
+wd:Q3704918 a wd:Q1420 ;
+    rdfs:label "Q3704918"^^xsd:string .
+
+wd:Q3704919 a wd:Q1420 ;
+    rdfs:label "Q3704919"^^xsd:string .
+
+wd:Q3704921 a wd:Q1420 ;
+    rdfs:label "Q3704921"^^xsd:string .
+
+wd:Q3704922 a wd:Q1420 ;
+    rdfs:label "Q3704922"^^xsd:string .
+
+wd:Q3704924 a wd:Q1420 ;
+    rdfs:label "Q3704924"^^xsd:string .
+
+wd:Q3704925 a wd:Q1420 ;
+    rdfs:label "Q3704925"^^xsd:string .
+
+wd:Q3704926 a wd:Q1420 ;
+    rdfs:label "Q3704926"^^xsd:string .
+
+wd:Q3705231 a wd:Q1420 ;
+    rdfs:label "Delta Yeti"@en .
+
+wd:Q3714866 a wd:Q1420 ;
+    rdfs:label "Q3714866"^^xsd:string .
+
+wd:Q3743035 a wd:Q1420 ;
+    rdfs:label "Ferrari 125 C"@en .
+
+wd:Q3743040 a wd:Q1420 ;
+    rdfs:label "Ferrari 156 F1-63"@en .
+
+wd:Q3743042 a wd:Q1420 ;
+    rdfs:label "Ferrari 159 C"@en .
+
+wd:Q3743044 a wd:Q1420 ;
+    rdfs:label "Ferrari 166 F2"@en .
+
+wd:Q3743045 a wd:Q1420 ;
+    rdfs:label "Ferrari 166 FL"@en .
+
+wd:Q3743046 a wd:Q1420 ;
+    rdfs:label "Ferrari 166 Inter Corsa"@en .
+
+wd:Q3743047 a wd:Q1420 ;
+    rdfs:label "Ferrari 166 Inter Sport"@en .
+
+wd:Q3743049 a wd:Q1420 ;
+    rdfs:label "Ferrari 166 SC"@en .
+
+wd:Q3743052 a wd:Q1420 ;
+    rdfs:label "Ferrari 196 SP"@en .
+
+wd:Q3743057 a wd:Q1420 ;
+    rdfs:label "Ferrari 246 SP"@en .
+
+wd:Q3743059 a wd:Q1420 ;
+    rdfs:label "Ferrari 248 SP"@en .
+
+wd:Q3743060 a wd:Q1420 ;
+    rdfs:label "Ferrari 250 Europe GT"@en .
+
+wd:Q3743066 a wd:Q1420 ;
+    rdfs:label "Ferrari 250 Monza"@en .
+
+wd:Q3743070 a wd:Q1420 ;
+    rdfs:label "Ferrari 268 SP"@en .
+
+wd:Q3743071 a wd:Q1420 ;
+    rdfs:label "Ferrari 275 S"@en .
+
+wd:Q3743072 a wd:Q1420 ;
+    rdfs:label "Ferrari 286 SP"@en .
+
+wd:Q3743077 a wd:Q1420 ;
+    rdfs:label "Ferrari 312 S"@en .
+
+wd:Q3743079 a wd:Q1420 ;
+    rdfs:label "Ferrari 326 MI"@en .
+
+wd:Q3743081 a wd:Q1420 ;
+    rdfs:label "Ferrari 330 TR/LM"@en .
+
+wd:Q3743082 a wd:Q1420 ;
+    rdfs:label "Ferrari 340 F1"@en .
+
+wd:Q3743085 a wd:Q1420 ;
+    rdfs:label "Ferrari 350 Can Am"@en .
+
+wd:Q3743087 a wd:Q1420 ;
+    rdfs:label "Ferrari 360 GTC"@en .
+
+wd:Q3743089 a wd:Q1420 ;
+    rdfs:label "Ferrari 365 GTC"@en .
+
+wd:Q3743093 a wd:Q1420 ;
+    rdfs:label "Ferrari 375 Indy"@en .
+
+wd:Q3743094 a wd:Q1420 ;
+    rdfs:label "Ferrari 376 S"@en .
+
+wd:Q3743095 a wd:Q1420 ;
+    rdfs:label "Ferrari 408 4RM"@en .
+
+wd:Q3743097 a wd:Q1420 ;
+    rdfs:label "Ferrari 410 S"@en .
+
+wd:Q3743098 a wd:Q1420 ;
+    rdfs:label "Ferrari 412 MI"@en .
+
+wd:Q3743099 a wd:Q1420 ;
+    rdfs:label "Ferrari 412 S"@en .
+
+wd:Q3743104 a wd:Q1420 ;
+    rdfs:label "Ferrari 625 TF"@en .
+
+wd:Q3743105 a wd:Q1420 ;
+    rdfs:label "Ferrari 735 LM"@en .
+
+wd:Q3743114 a wd:Q1420 ;
+    rdfs:label "Ferrari Dino 166 P"@en .
+
+wd:Q3743116 a wd:Q1420 ;
+    rdfs:label "Ferrari Dino 196 S"@en .
+
+wd:Q3743122 a wd:Q1420 ;
+    rdfs:label "Ferrari Dino 246 S"@en .
+
+wd:Q3743123 a wd:Q1420 ;
+    rdfs:label "Ferrari Dino 246 Tasmania"@en .
+
+wd:Q3743125 a wd:Q1420 ;
+    rdfs:label "Ferrari Dino 296 S"@en .
+
+wd:Q3743126 a wd:Q1420 ;
+    rdfs:label "Q3743126"^^xsd:string .
+
+wd:Q3743132 a wd:Q1420 ;
+    rdfs:label "Ferrari P2"@en .
+
+wd:Q3743135 a wd:Q1420 ;
+    rdfs:label "Ferrari Type 001"@en .
+
+wd:Q3744380 a wd:Q1420 ;
+    rdfs:label "Q3744380"^^xsd:string .
+
+wd:Q3744385 a wd:Q1420 ;
+    rdfs:label "Q3744385"^^xsd:string .
+
+wd:Q3744399 a wd:Q1420 ;
+    rdfs:label "Q3744399"^^xsd:string .
+
+wd:Q3744400 a wd:Q1420 ;
+    rdfs:label "Q3744400"^^xsd:string .
+
+wd:Q3744409 a wd:Q1420 ;
+    rdfs:label "Q3744409"^^xsd:string .
+
+wd:Q3744410 a wd:Q1420 ;
+    rdfs:label "Q3744410"^^xsd:string .
+
+wd:Q3744450 a wd:Q1420 ;
+    rdfs:label "Fiat City Taxi"@en .
+
+wd:Q3744463 a wd:Q1420 ;
+    rdfs:label "Fiat Nuova 500 Francis Lombardi My Car"@en .
+
+wd:Q3744467 a wd:Q1420 ;
+    rdfs:label "Q3744467"^^xsd:string .
+
+wd:Q3747961 a wd:Q1420 ;
+    rdfs:label "Q3747961"^^xsd:string .
+
+wd:Q3747968 a wd:Q1420 ;
+    rdfs:label "Q3747968"^^xsd:string .
+
+wd:Q3747969 a wd:Q1420 ;
+    rdfs:label "Cosworth GBA engine"@en .
+
+wd:Q3747972 a wd:Q1420 ;
+    rdfs:label "Q3747972"^^xsd:string .
+
+wd:Q3748344 a wd:Q1420 ;
+    rdfs:label "Q3748344"^^xsd:string .
+
+wd:Q3748345 a wd:Q1420 ;
+    rdfs:label "Q3748345"^^xsd:string .
+
+wd:Q3759485 a wd:Q1420 ;
+    rdfs:label "Q3759485"^^xsd:string .
+
+wd:Q3776148 a wd:Q1420 ;
+    rdfs:label "Q3776148"^^xsd:string .
+
+wd:Q3776149 a wd:Q1420 ;
+    rdfs:label "Great Wall SoCool"@en .
+
+wd:Q3785639 a wd:Q1420 ;
+    rdfs:label "Hillman Gazelle"@en .
+
+wd:Q3785851 a wd:Q1420 ;
+    rdfs:label "Q3785851"^^xsd:string .
+
+wd:Q3785853 a wd:Q1420 ;
+    rdfs:label "Q3785853"^^xsd:string .
+
+wd:Q3785854 a wd:Q1420 ;
+    rdfs:label "Q3785854"^^xsd:string .
+
+wd:Q3785855 a wd:Q1420 ;
+    rdfs:label "Q3785855"^^xsd:string .
+
+wd:Q3785857 a wd:Q1420 ;
+    rdfs:label "Q3785857"^^xsd:string .
+
+wd:Q3785858 a wd:Q1420 ;
+    rdfs:label "Hispano-Suiza K6"@en .
+
+wd:Q3785860 a wd:Q1420 ;
+    rdfs:label "Q3785860"^^xsd:string .
+
+wd:Q3785861 a wd:Q1420 ;
+    rdfs:label "Q3785861"^^xsd:string .
+
+wd:Q3786757 a wd:Q1420 ;
+    rdfs:label "Q3786757"^^xsd:string .
+
+wd:Q3786759 a wd:Q1420 ;
+    rdfs:label "Q3786759"^^xsd:string .
+
+wd:Q3786760 a wd:Q1420 ;
+    rdfs:label "Q3786760"^^xsd:string .
+
+wd:Q3786761 a wd:Q1420 ;
+    rdfs:label "Q3786761"^^xsd:string .
+
+wd:Q3786762 a wd:Q1420 ;
+    rdfs:label "Q3786762"^^xsd:string .
+
+wd:Q3786763 a wd:Q1420 ;
+    rdfs:label "Q3786763"^^xsd:string .
+
+wd:Q3786764 a wd:Q1420 ;
+    rdfs:label "Q3786764"^^xsd:string .
+
+wd:Q3786765 a wd:Q1420 ;
+    rdfs:label "Q3786765"^^xsd:string .
+
+wd:Q3786766 a wd:Q1420 ;
+    rdfs:label "Q3786766"^^xsd:string .
+
+wd:Q3786917 a wd:Q1420 ;
+    rdfs:label "Q3786917"^^xsd:string .
+
+wd:Q3786919 a wd:Q1420 ;
+    rdfs:label "Q3786919"^^xsd:string .
+
+wd:Q3786920 a wd:Q1420 ;
+    rdfs:label "Q3786920"^^xsd:string .
+
+wd:Q3786921 a wd:Q1420 ;
+    rdfs:label "Q3786921"^^xsd:string .
+
+wd:Q3786922 a wd:Q1420 ;
+    rdfs:label "Q3786922"^^xsd:string .
+
+wd:Q3786923 a wd:Q1420 ;
+    rdfs:label "Q3786923"^^xsd:string .
+
+wd:Q3786924 a wd:Q1420 ;
+    rdfs:label "Q3786924"^^xsd:string .
+
+wd:Q3786925 a wd:Q1420 ;
+    rdfs:label "Q3786925"^^xsd:string .
+
+wd:Q3786928 a wd:Q1420 ;
+    rdfs:label "Q3786928"^^xsd:string .
+
+wd:Q3786929 a wd:Q1420 ;
+    rdfs:label "Q3786929"^^xsd:string .
+
+wd:Q3786930 a wd:Q1420 ;
+    rdfs:label "Q3786930"^^xsd:string .
+
+wd:Q3786931 a wd:Q1420 ;
+    rdfs:label "Q3786931"^^xsd:string .
+
+wd:Q3787583 a wd:Q1420 ;
+    rdfs:label "Humber Heavy Utility Car"@en .
+
+wd:Q3787584 a wd:Q1420 ;
+    rdfs:label "Q3787584"^^xsd:string .
+
+wd:Q3796495 a wd:Q1420 ;
+    rdfs:label "Q3796495"^^xsd:string .
+
+wd:Q3797524 a wd:Q1420 ;
+    rdfs:label "Q3797524"^^xsd:string .
+
+wd:Q3802468 a wd:Q1420 ;
+    rdfs:label "BMW 1600 GT"@en .
+
+wd:Q3802875 a wd:Q1420 ;
+    rdfs:label "Bentley 4¼ Litre"@en .
+
+wd:Q3802894 a wd:Q1420 ;
+    rdfs:label "Q3802894"^^xsd:string .
+
+wd:Q3803340 a wd:Q1420 ;
+    rdfs:label "Isotta Fraschini Tipo KM"@en .
+
+wd:Q3804072 a wd:Q1420 ;
+    rdfs:label "Q3804072"^^xsd:string .
+
+wd:Q3804073 a wd:Q1420 ;
+    rdfs:label "Q3804073"^^xsd:string .
+
+wd:Q3809948 a wd:Q1420 ;
+    rdfs:label "Q3809948"^^xsd:string .
+
+wd:Q3816977 a wd:Q1420 ;
+    rdfs:label "Q3816977"^^xsd:string .
+
+wd:Q3826400 a wd:Q1420 ;
+    rdfs:label "Q3826400"^^xsd:string .
+
+wd:Q3826648 a wd:Q1420 ;
+    rdfs:label "Q3826648"^^xsd:string .
+
+wd:Q3826651 a wd:Q1420 ;
+    rdfs:label "Q3826651"^^xsd:string .
+
+wd:Q3826653 a wd:Q1420 ;
+    rdfs:label "Q3826653"^^xsd:string .
+
+wd:Q3826654 a wd:Q1420 ;
+    rdfs:label "Q3826654"^^xsd:string .
+
+wd:Q3826655 a wd:Q1420 ;
+    rdfs:label "Lancia Aurelia B20"@en .
+
+wd:Q3826656 a wd:Q1420 ;
+    rdfs:label "Q3826656"^^xsd:string .
+
+wd:Q3826657 a wd:Q1420 ;
+    rdfs:label "Q3826657"^^xsd:string .
+
+wd:Q3826658 a wd:Q1420 ;
+    rdfs:label "Q3826658"^^xsd:string .
+
+wd:Q3826659 a wd:Q1420 ;
+    rdfs:label "Q3826659"^^xsd:string .
+
+wd:Q3826661 a wd:Q1420 ;
+    rdfs:label "Q3826661"^^xsd:string .
+
+wd:Q3826665 a wd:Q1420 ;
+    rdfs:label "Q3826665"^^xsd:string .
+
+wd:Q3826667 a wd:Q1420 ;
+    rdfs:label "Q3826667"^^xsd:string .
+
+wd:Q3826668 a wd:Q1420 ;
+    rdfs:label "Q3826668"^^xsd:string .
+
+wd:Q3826669 a wd:Q1420 ;
+    rdfs:label "Q3826669"^^xsd:string .
+
+wd:Q3826674 a wd:Q1420 ;
+    rdfs:label "Lancia Zeta-12/15hp"@en .
+
+wd:Q3833170 a wd:Q1420 ;
+    rdfs:label "Q3833170"^^xsd:string .
+
+wd:Q3836508 a wd:Q1420 ;
+    rdfs:label "Lola Mk6"@en .
+
+wd:Q3841302 a wd:Q1420 ;
+    rdfs:label "Q3841302"^^xsd:string .
+
+wd:Q3841305 a wd:Q1420 ;
+    rdfs:label "Q3841305"^^xsd:string .
+
+wd:Q3850743 a wd:Q1420 ;
+    rdfs:label "Q3850743"^^xsd:string .
+
+wd:Q3850747 a wd:Q1420 ;
+    rdfs:label "Q3850747"^^xsd:string .
+
+wd:Q3850749 a wd:Q1420 ;
+    rdfs:label "Q3850749"^^xsd:string .
+
+wd:Q3850750 a wd:Q1420 ;
+    rdfs:label "Q3850750"^^xsd:string .
+
+wd:Q3850751 a wd:Q1420 ;
+    rdfs:label "Q3850751"^^xsd:string .
+
+wd:Q3850762 a wd:Q1420 ;
+    rdfs:label "Q3850762"^^xsd:string .
+
+wd:Q3850766 a wd:Q1420 ;
+    rdfs:label "Q3850766"^^xsd:string .
+
+wd:Q3850768 a wd:Q1420 ;
+    rdfs:label "Q3850768"^^xsd:string .
+
+wd:Q3850771 a wd:Q1420 ;
+    rdfs:label "Q3850771"^^xsd:string .
+
+wd:Q3850772 a wd:Q1420 ;
+    rdfs:label "Q3850772"^^xsd:string .
+
+wd:Q3850773 a wd:Q1420 ;
+    rdfs:label "Q3850773"^^xsd:string .
+
+wd:Q3850775 a wd:Q1420 ;
+    rdfs:label "Q3850775"^^xsd:string .
+
+wd:Q3850776 a wd:Q1420 ;
+    rdfs:label "Maserati Tipo V4"@en .
+
+wd:Q3851786 a wd:Q1420 ;
+    rdfs:label "Q3851786"^^xsd:string .
+
+wd:Q3851810 a wd:Q1420 ;
+    rdfs:label "Q3851810"^^xsd:string .
+
+wd:Q3851812 a wd:Q1420 ;
+    rdfs:label "Q3851812"^^xsd:string .
+
+wd:Q3851813 a wd:Q1420 ;
+    rdfs:label "Q3851813"^^xsd:string .
+
+wd:Q3851814 a wd:Q1420 ;
+    rdfs:label "Q3851814"^^xsd:string .
+
+wd:Q3851815 a wd:Q1420 ;
+    rdfs:label "Q3851815"^^xsd:string .
+
+wd:Q3851816 a wd:Q1420 ;
+    rdfs:label "Q3851816"^^xsd:string .
+
+wd:Q3851817 a wd:Q1420 ;
+    rdfs:label "Q3851817"^^xsd:string .
+
+wd:Q3851818 a wd:Q1420 ;
+    rdfs:label "Q3851818"^^xsd:string .
+
+wd:Q3851819 a wd:Q1420 ;
+    rdfs:label "Q3851819"^^xsd:string .
+
+wd:Q3851820 a wd:Q1420 ;
+    rdfs:label "Q3851820"^^xsd:string .
+
+wd:Q3851822 a wd:Q1420 ;
+    rdfs:label "Q3851822"^^xsd:string .
+
+wd:Q3851823 a wd:Q1420 ;
+    rdfs:label "Q3851823"^^xsd:string .
+
+wd:Q3851824 a wd:Q1420 ;
+    rdfs:label "Q3851824"^^xsd:string .
+
+wd:Q3851825 a wd:Q1420 ;
+    rdfs:label "Q3851825"^^xsd:string .
+
+wd:Q3851826 a wd:Q1420 ;
+    rdfs:label "Q3851826"^^xsd:string .
+
+wd:Q3851827 a wd:Q1420 ;
+    rdfs:label "Q3851827"^^xsd:string .
+
+wd:Q3851828 a wd:Q1420 ;
+    rdfs:label "Q3851828"^^xsd:string .
+
+wd:Q3851829 a wd:Q1420 ;
+    rdfs:label "Q3851829"^^xsd:string .
+
+wd:Q3851830 a wd:Q1420 ;
+    rdfs:label "Q3851830"^^xsd:string .
+
+wd:Q3851832 a wd:Q1420 ;
+    rdfs:label "Q3851832"^^xsd:string .
+
+wd:Q3851833 a wd:Q1420 ;
+    rdfs:label "Q3851833"^^xsd:string .
+
+wd:Q3851834 a wd:Q1420 ;
+    rdfs:label "Q3851834"^^xsd:string .
+
+wd:Q3851835 a wd:Q1420 ;
+    rdfs:label "Q3851835"^^xsd:string .
+
+wd:Q3851836 a wd:Q1420 ;
+    rdfs:label "Mathis Type ZYZZ and Type Z"@en .
+
+wd:Q3851837 a wd:Q1420 ;
+    rdfs:label "Q3851837"^^xsd:string .
+
+wd:Q3853161 a wd:Q1420 ;
+    rdfs:label "Q3853161"^^xsd:string .
+
+wd:Q3853162 a wd:Q1420 ;
+    rdfs:label "Maybach W1"@en .
+
+wd:Q3853165 a wd:Q1420 ;
+    rdfs:label "Q3853165"^^xsd:string .
+
+wd:Q3853228 a wd:Q1420 ;
+    rdfs:label "Q3853228"^^xsd:string .
+
+wd:Q3853385 a wd:Q1420 ;
+    rdfs:label "McLaren M6A"@en .
+
+wd:Q3854906 a wd:Q1420 ;
+    rdfs:label "Mercedes-Benz M194 engine"@en .
+
+wd:Q3854931 a wd:Q1420 ;
+    rdfs:label "Q3854931"^^xsd:string .
+
+wd:Q3854932 a wd:Q1420 ;
+    rdfs:label "Q3854932"^^xsd:string .
+
+wd:Q3854933 a wd:Q1420 ;
+    rdfs:label "Q3854933"^^xsd:string .
+
+wd:Q3854934 a wd:Q1420 ;
+    rdfs:label "Q3854934"^^xsd:string .
+
+wd:Q3854935 a wd:Q1420 ;
+    rdfs:label "Q3854935"^^xsd:string .
+
+wd:Q3854936 a wd:Q1420 ;
+    rdfs:label "Q3854936"^^xsd:string .
+
+wd:Q3854937 a wd:Q1420 ;
+    rdfs:label "Q3854937"^^xsd:string .
+
+wd:Q3854938 a wd:Q1420 ;
+    rdfs:label "Q3854938"^^xsd:string .
+
+wd:Q3854939 a wd:Q1420 ;
+    rdfs:label "Q3854939"^^xsd:string .
+
+wd:Q3854940 a wd:Q1420 ;
+    rdfs:label "Q3854940"^^xsd:string .
+
+wd:Q3854941 a wd:Q1420 ;
+    rdfs:label "Q3854941"^^xsd:string .
+
+wd:Q3854942 a wd:Q1420 ;
+    rdfs:label "Q3854942"^^xsd:string .
+
+wd:Q3854943 a wd:Q1420 ;
+    rdfs:label "Q3854943"^^xsd:string .
+
+wd:Q3854944 a wd:Q1420 ;
+    rdfs:label "Q3854944"^^xsd:string .
+
+wd:Q3854945 a wd:Q1420 ;
+    rdfs:label "Q3854945"^^xsd:string .
+
+wd:Q3854946 a wd:Q1420 ;
+    rdfs:label "Q3854946"^^xsd:string .
+
+wd:Q3855049 a wd:Q1420 ;
+    rdfs:label "Q3855049"^^xsd:string .
+
+wd:Q3855050 a wd:Q1420 ;
+    rdfs:label "Q3855050"^^xsd:string .
+
+wd:Q3855055 a wd:Q1420 ;
+    rdfs:label "Q3855055"^^xsd:string .
+
+wd:Q3877338 a wd:Q1420 ;
+    rdfs:label "Q3877338"^^xsd:string .
+
+wd:Q3880187 a wd:Q1420 ;
+    rdfs:label "Q3880187"^^xsd:string .
+
+wd:Q3880189 a wd:Q1420 ;
+    rdfs:label "OM 665 Superba"@en .
+
+wd:Q38881307 a wd:Q1420 ;
+    rdfs:label "Q38881307"^^xsd:string .
+
+wd:Q3892769 a wd:Q1420 ;
+    rdfs:label "Q3892769"^^xsd:string .
+
+wd:Q3893257 a wd:Q1420 ;
+    rdfs:label "Q3893257"^^xsd:string .
+
+wd:Q3893258 a wd:Q1420 ;
+    rdfs:label "Q3893258"^^xsd:string .
+
+wd:Q3893259 a wd:Q1420 ;
+    rdfs:label "Q3893259"^^xsd:string .
+
+wd:Q3893260 a wd:Q1420 ;
+    rdfs:label "Q3893260"^^xsd:string .
+
+wd:Q3893262 a wd:Q1420 ;
+    rdfs:label "Q3893262"^^xsd:string .
+
+wd:Q3893263 a wd:Q1420 ;
+    rdfs:label "Q3893263"^^xsd:string .
+
+wd:Q3893264 a wd:Q1420 ;
+    rdfs:label "Q3893264"^^xsd:string .
+
+wd:Q3893266 a wd:Q1420 ;
+    rdfs:label "Q3893266"^^xsd:string .
+
+wd:Q3893267 a wd:Q1420 ;
+    rdfs:label "Q3893267"^^xsd:string .
+
+wd:Q3893269 a wd:Q1420 ;
+    rdfs:label "Q3893269"^^xsd:string .
+
+wd:Q3901207 a wd:Q1420 ;
+    rdfs:label "Peugeot iOn"@en .
+
+wd:Q3905214 a wd:Q1420 ;
+    rdfs:label "Q3905214"^^xsd:string .
+
+wd:Q3906829 a wd:Q1420 ;
+    rdfs:label "Q3906829"^^xsd:string .
+
+wd:Q3908563 a wd:Q1420 ;
+    rdfs:label "Q3908563"^^xsd:string .
+
+wd:Q39086077 a wd:Q741490 ;
+    rdfs:label "Robo-Taxi"@en .
+
+wd:Q3928589 a wd:Q1420 ;
+    rdfs:label "Q3928589"^^xsd:string .
+
+wd:Q3932849 a wd:Q1420 ;
+    rdfs:label "Renault Clio Storia"@en .
+
+wd:Q3932873 a wd:Q1420 ;
+    rdfs:label "Q3932873"^^xsd:string .
+
+wd:Q3932874 a wd:Q1420 ;
+    rdfs:label "Q3932874"^^xsd:string .
+
+wd:Q3932876 a wd:Q1420 ;
+    rdfs:label "Q3932876"^^xsd:string .
+
+wd:Q3932880 a wd:Q1420 ;
+    rdfs:label "Q3932880"^^xsd:string .
+
+wd:Q3932883 a wd:Q1420 ;
+    rdfs:label "Q3932883"^^xsd:string .
+
+wd:Q3932885 a wd:Q1420 ;
+    rdfs:label "Q3932885"^^xsd:string .
+
+wd:Q3932890 a wd:Q1420 ;
+    rdfs:label "Q3932890"^^xsd:string .
+
+wd:Q3932894 a wd:Q1420 ;
+    rdfs:label "Q3932894"^^xsd:string .
+
+wd:Q3932898 a wd:Q1420 ;
+    rdfs:label "Renault Type JY and Type MG"@en .
+
+wd:Q3932899 a wd:Q1420 ;
+    rdfs:label "Q3932899"^^xsd:string .
+
+wd:Q3932902 a wd:Q1420 ;
+    rdfs:label "Q3932902"^^xsd:string .
+
+wd:Q3932903 a wd:Q1420 ;
+    rdfs:label "Q3932903"^^xsd:string .
+
+wd:Q3932904 a wd:Q1420 ;
+    rdfs:label "Q3932904"^^xsd:string .
+
+wd:Q3932905 a wd:Q1420 ;
+    rdfs:label "Renault Type PI and Type PZ"@en .
+
+wd:Q3932906 a wd:Q1420 ;
+    rdfs:label "Q3932906"^^xsd:string .
+
+wd:Q3935822 a wd:Q1420 ;
+    rdfs:label "Q3935822"^^xsd:string .
+
+wd:Q3935823 a wd:Q1420 ;
+    rdfs:label "Q3935823"^^xsd:string .
+
+wd:Q3941088 a wd:Q1420 ;
+    rdfs:label "Q3941088"^^xsd:string .
+
+wd:Q3943629 a wd:Q1420 ;
+    rdfs:label "Q3943629"^^xsd:string .
+
+wd:Q3943630 a wd:Q1420 ;
+    rdfs:label "Siata 208s"@en .
+
+wd:Q3944157 a wd:Q1420 ;
+    rdfs:label "Q3944157"^^xsd:string .
+
+wd:Q3951586 a wd:Q1420 ;
+    rdfs:label "Q3951586"^^xsd:string .
+
+wd:Q3961027 a wd:Q1420 ;
+    rdfs:label "Q3961027"^^xsd:string .
+
+wd:Q3968172 a wd:Q1420 ;
+    rdfs:label "Stanguellini-Guzzi Colibrì"@en .
+
+wd:Q3968173 a wd:Q1420 ;
+    rdfs:label "Q3968173"^^xsd:string .
+
+wd:Q3968174 a wd:Q1420 ;
+    rdfs:label "Q3968174"^^xsd:string .
+
+wd:Q3968175 a wd:Q1420 ;
+    rdfs:label "Q3968175"^^xsd:string .
+
+wd:Q3976483 a wd:Q1420 ;
+    rdfs:label "Q3976483"^^xsd:string .
+
+wd:Q3976970 a wd:Q1420 ;
+    rdfs:label "Q3976970"^^xsd:string .
+
+wd:Q3976971 a wd:Q1420 ;
+    rdfs:label "Sunbeam Tiger"@en .
+
+wd:Q3980359 a wd:Q1420 ;
+    rdfs:label "Talbot-Lago T23"@en .
+
+wd:Q3980362 a wd:Q1420 ;
+    rdfs:label "Talbot 110"@en .
+
+wd:Q3980363 a wd:Q1420 ;
+    rdfs:label "Talbot-Lago T26"@en .
+
+wd:Q3980364 a wd:Q1420 ;
+    rdfs:label "Talbot 12HP, 16HP e 24HP"@en .
+
+wd:Q3980365 a wd:Q1420 ;
+    rdfs:label "Talbot 65"@en .
+
+wd:Q3980366 a wd:Q1420 ;
+    rdfs:label "Talbot 75, 90 e 105"@en .
+
+wd:Q3980368 a wd:Q1420 ;
+    rdfs:label "Talbot DD"@en .
+
+wd:Q3980369 a wd:Q1420 ;
+    rdfs:label "Talbot M67"@en .
+
+wd:Q3980370 a wd:Q1420 ;
+    rdfs:label "Talbot Sunbeam Lotus"@en .
+
+wd:Q4009765 a wd:Q1420 ;
+    rdfs:label "Q4009765"^^xsd:string .
+
+wd:Q4018926 a wd:Q1420 ;
+    rdfs:label "Q4018926"^^xsd:string .
+
+wd:Q4034706 a wd:Q1420 ;
+    rdfs:label "Q4034706"^^xsd:string .
+
+wd:Q4053652 a wd:Q1420 ;
+    rdfs:label "Q4053652"^^xsd:string .
+
+wd:Q4101848 a wd:Q1420 ;
+    rdfs:label "Niva Marsh"@en .
+
+wd:Q41662548 a wd:Q7590 ;
+    rdfs:label "TransMiCable"@en .
+
+wd:Q4244421 a wd:Q1420 ;
+    rdfs:label "Mercedes-Benz N1300"@en .
+
+wd:Q4303803 a wd:Q1420 ;
+    rdfs:label "Q4303803"^^xsd:string .
+
+wd:Q44268046 a wd:Q1420 ;
+    rdfs:label "Mercedes-Benz CLS-Class"@en .
+
+wd:Q4426999 a wd:Q1420 ;
+    rdfs:label "Q4426999"^^xsd:string .
+
+wd:Q4455382 a wd:Q1420 ;
+    rdfs:label "Frazer"@en .
+
+wd:Q449406 a wd:Q1420 ;
+    rdfs:label "Alvis Stalwart"@en .
+
+wd:Q45312344 a wd:Q1420 ;
+    rdfs:label "Gurgel X12"@en .
+
+wd:Q4575134 a wd:Q1420 ;
+    rdfs:label "Bertone Pirana"@en .
+
+wd:Q4652464 a wd:Q1420 ;
+    rdfs:label "AL"@en .
+
+wd:Q4680291 a wd:Q1420 ;
+    rdfs:label "Adams"@en .
+
+wd:Q46992323 a wd:Q752870 ;
+    rdfs:label "Q46992323"^^xsd:string .
+
+wd:Q47007800 a wd:Q1420 ;
+    rdfs:label "Q47007800"^^xsd:string .
+
+wd:Q47089300 a wd:Q1420 ;
+    rdfs:label "Mitsubishi Pajero Evolution"@en .
+
+wd:Q47455211 a wd:Q1420 ;
+    rdfs:label "Q47455211"^^xsd:string .
+
+wd:Q47522719 a wd:Q7590 ;
+    rdfs:label "Monte Serrat funicular"@en .
+
+wd:Q4781117 a wd:Q1420 ;
+    rdfs:label "Apple"@en .
+
+wd:Q48017598 a wd:Q1420 ;
+    rdfs:label "Fiat Cronos"@en .
+
+wd:Q4804020 a wd:Q1420 ;
+    rdfs:label "Ascot"@en .
+
+wd:Q4804022 a wd:Q1420 ;
+    rdfs:label "Ascot"@en .
+
+wd:Q4808247 a wd:Q1420 ;
+    rdfs:label "Asquith"@en .
+
+wd:Q4810996 a wd:Q1420 ;
+    rdfs:label "Aston Martin DP215"@en .
+
+wd:Q48306112 a wd:Q1420 ;
+    rdfs:label "Q48306112"^^xsd:string .
+
+wd:Q4835462 a wd:Q1420 ;
+    rdfs:label "BET 3-wheeler"@en .
+
+wd:Q4838021 a wd:Q1420 ;
+    rdfs:label "Babs"@en .
+
+wd:Q484166 a wd:Q7590 ;
+    rdfs:label "Aluguer"@en .
+
+wd:Q48815290 a wd:Q1420 ;
+    rdfs:label "DRK"@en .
+
+wd:Q49100305 a wd:Q1420 ;
+    rdfs:label "Polestar 1"@en .
+
+wd:Q493641 a wd:Q7590 ;
+    rdfs:label "Multimodal transport"@en .
+
+wd:Q4986177 a wd:Q1420 ;
+    rdfs:label "Buggy"@en .
+
+wd:Q50118131 a wd:Q1420 ;
+    rdfs:label "BMW X4"@en .
+
+wd:Q50118567 a wd:Q1420 ;
+    rdfs:label "BMW X4"@en .
+
+wd:Q50413540 a wd:Q1420 ;
+    rdfs:label "Q50413540"^^xsd:string .
+
+wd:Q507883 a wd:Q1420 ;
+    rdfs:label "Q507883"^^xsd:string .
+
+wd:Q5079765 a wd:Q1420 ;
+    rdfs:label "Q5079765"^^xsd:string .
+
+wd:Q51136818 a wd:Q1420 ;
+    rdfs:label "Q51136818"^^xsd:string .
+
+wd:Q51136820 a wd:Q1420 ;
+    rdfs:label "Hyundai Celesta"@en .
+
+wd:Q51136824 a wd:Q1420 ;
+    rdfs:label "Changhe M70"@en .
+
+wd:Q51136834 a wd:Q1420 ;
+    rdfs:label "Yema T80"@en .
+
+wd:Q51136839 a wd:Q1420 ;
+    rdfs:label "Q51136839"^^xsd:string .
+
+wd:Q5136540 a wd:Q1420 ;
+    rdfs:label "Clubmans"@en .
+
+wd:Q5178853 a wd:Q1420 ;
+    rdfs:label "Couteret"@en .
+
+wd:Q52145242 a wd:Q1420 ;
+    rdfs:label "Citroën C3 R5"@en .
+
+wd:Q52169426 a wd:Q752870 ;
+    rdfs:label "gandoler"@en .
+
+wd:Q52197125 a wd:Q1420 ;
+    rdfs:label "JAC iEV6E"@en .
+
+wd:Q52378249 a wd:Q1420 ;
+    rdfs:label "Q52378249"^^xsd:string .
+
+wd:Q52428715 a wd:Q7590 ;
+    rdfs:label "Transport in Saint Barthélemy"@en .
+
+wd:Q52437880 a wd:Q7590 ;
+    rdfs:label "Transport in the Collectivity of Saint Martin"@en .
+
+wd:Q52438538 a wd:Q7590 ;
+    rdfs:label "Transport in Wallis and Futuna"@en .
+
+wd:Q5277522 a wd:Q1420 ;
+    rdfs:label "Dimitriadis 505"@en .
+
+wd:Q5352998 a wd:Q1420 ;
+    rdfs:label "antique car"@en .
+
+wd:Q5409822 a wd:Q1420 ;
+    rdfs:label "Eunos 500"@en .
+
+wd:Q5467725 a wd:Q1420 ;
+    rdfs:label "Ford EX"@en .
+
+wd:Q5467819 a wd:Q1420 ;
+    rdfs:label "Ford Indigo"@en .
+
+wd:Q5467908 a wd:Q1420 ;
+    rdfs:label "Ford Ranch Wagon"@en .
+
+wd:Q5467929 a wd:Q1420 ;
+    rdfs:label "Ford Seattle-ite XXI"@en .
+
+wd:Q54859500 a wd:Q1420 ;
+    rdfs:label "Wikimobile Citroën C3 Picasso"@en .
+
+wd:Q55116407 a wd:Q1420 ;
+    rdfs:label "Helica-propeller car-CnAM 16863"@en .
+
+wd:Q5513561 a wd:Q1420 ;
+    rdfs:label "GJG"@en .
+
+wd:Q55154923 a wd:Q1420 ;
+    rdfs:label "Santos Dumont's hearse"@en .
+
+wd:Q55180084 a wd:Q1420 ;
+    rdfs:label "Mahindra XUV700"@en .
+
+wd:Q5526416 a wd:Q1420 ;
+    rdfs:label "Gaselle"@en .
+
+wd:Q55361966 a wd:Q1420 ;
+    rdfs:label "Model N Ford Runabout"@en .
+
+wd:Q55430928 a wd:Q1420 ;
+    rdfs:label "De Dion Bouton Vis-a-Vis-CNAM 16788"@en .
+
+wd:Q55523995 a wd:Q1420 ;
+    rdfs:label "Q55523995"^^xsd:string .
+
+wd:Q55609859 a wd:Q1420 ;
+    rdfs:label "Dongfeng Fengshen AX7"@en .
+
+wd:Q55609867 a wd:Q1420 ;
+    rdfs:label "Dongfeng Fengxing Jingyi S50"@en .
+
+wd:Q55612390 a wd:Q1420 ;
+    rdfs:label "Geely Yuanjing"@en .
+
+wd:Q55638168 a wd:Q1420 ;
+    rdfs:label "Yusheng S330"@en .
+
+wd:Q55753227 a wd:Q1420 ;
+    rdfs:label "Senova X55"@en .
+
+wd:Q5598152 a wd:Q1420 ;
+    rdfs:label "Gray"@en .
+
+wd:Q5609686 a wd:Q1420 ;
+    rdfs:label "Griswold"@en .
+
+wd:Q56166695 a wd:Q1420 ;
+    rdfs:label "Mirthmobile"@en .
+
+wd:Q5620009 a wd:Q1420 ;
+    rdfs:label "Gurgel Delta"@en .
+
+wd:Q5620010 a wd:Q1420 ;
+    rdfs:label "Gurgel E500"@en .
+
+wd:Q5620018 a wd:Q1420 ;
+    rdfs:label "Gurgel Supermini"@en .
+
+wd:Q56301948 a wd:Q1420 ;
+    rdfs:label "Q56301948"^^xsd:string .
+
+wd:Q56301949 a wd:Q1420 ;
+    rdfs:label "Q56301949"^^xsd:string .
+
+wd:Q56303194 a wd:Q1420 ;
+    rdfs:label "Q56303194"^^xsd:string .
+
+wd:Q56305878 a wd:Q1420 ;
+    rdfs:label "Q56305878"^^xsd:string .
+
+wd:Q56399099 a wd:Q1420 ;
+    rdfs:label "Dallara GP2/08"@en .
+
+wd:Q5666438 a wd:Q1420 ;
+    rdfs:label "Q5666438"^^xsd:string .
+
+wd:Q5715214 a wd:Q1420 ;
+    rdfs:label "Henou"@en .
+
+wd:Q58044739 a wd:Q7590 ;
+    rdfs:label "Transport in Liberec"@en .
+
+wd:Q581517 a wd:Q1420 ;
+    rdfs:label "Q581517"^^xsd:string .
+
+wd:Q5898732 a wd:Q1420 ;
+    rdfs:label "Hispano-Suiza HS21-GTS"@en .
+
+wd:Q5946523 a wd:Q1420 ;
+    rdfs:label "Q5946523"^^xsd:string .
+
+wd:Q595955 a wd:Q1420 ;
+    rdfs:label "Ferrari 250 GT California Spyder"@en .
+
+wd:Q59816418 a wd:Q1420 ;
+    rdfs:label "Q59816418"^^xsd:string .
+
+wd:Q60074536 a wd:Q1420 ;
+    rdfs:label "Q60074536"^^xsd:string .
+
+wd:Q600827 a wd:Q1420 ;
+    rdfs:label "Q600827"^^xsd:string .
+
+wd:Q6017077 a wd:Q1420 ;
+    rdfs:label "Mini John Cooper Works S2000"@en .
+
+wd:Q60213010 a wd:Q1420 ;
+    rdfs:label "Q60213010"^^xsd:string .
+
+wd:Q60213051 a wd:Q1420 ;
+    rdfs:label "Q60213051"^^xsd:string .
+
+wd:Q606346 a wd:Q1420 ;
+    rdfs:label "Laffly V15"@en .
+
+wd:Q608721 a wd:Q1420 ;
+    rdfs:label "Q608721"^^xsd:string .
+
+wd:Q60965166 a wd:Q1420 ;
+    rdfs:label "Polestar 2"@en .
+
+wd:Q60968701 a wd:Q1420 ;
+    rdfs:label "Q60968701"^^xsd:string .
+
+wd:Q60969960 a wd:Q1420 ;
+    rdfs:label "Q60969960"^^xsd:string .
+
+wd:Q6103555 a wd:Q1420 ;
+    rdfs:label "J&S Hunter Coupe"@en .
+
+wd:Q6151761 a wd:Q7590 ;
+    rdfs:label "Q6151761"^^xsd:string .
+
+wd:Q6151766 a wd:Q7590 ;
+    rdfs:label "Q6151766"^^xsd:string .
+
+wd:Q6151785 a wd:Q7590 ;
+    rdfs:label "Q6151785"^^xsd:string .
+
+wd:Q61735324 a wd:Q1420 ;
+    rdfs:label "Q61735324"^^xsd:string .
+
+wd:Q61771507 a wd:Q1420 ;
+    rdfs:label "Tatra 25"@en .
+
+wd:Q61780278 a wd:Q1420 ;
+    rdfs:label "1957 Tropicana Las Vegas Bel Air Chevy Sedan"@en .
+
+wd:Q61882351 a wd:Q1420 ;
+    rdfs:label "Gutbrod Atlas"@en .
+
+wd:Q62030109 a wd:Q11481471 ;
+    rdfs:label "Maneuvering Characteristics Augmentation System"@en .
+
+wd:Q62056669 a wd:Q1420 ;
+    rdfs:label "Q62056669"^^xsd:string .
+
+wd:Q62072659 a wd:Q1420 ;
+    rdfs:label "Q62072659"^^xsd:string .
+
+wd:Q62107422 a wd:Q1420 ;
+    rdfs:label "Audi Q4"@en .
+
+wd:Q626252 a wd:Q1420 ;
+    rdfs:label "Q626252"^^xsd:string .
+
+wd:Q62740351 a wd:Q1420 ;
+    rdfs:label "Q62740351"^^xsd:string .
+
+wd:Q63353385 a wd:Q1420 ;
+    rdfs:label "Q63353385"^^xsd:string .
+
+wd:Q63646494 a wd:Q1420 ;
+    rdfs:label "Mahindra Stinger"@en .
+
+wd:Q6374946 a wd:Q741490 ;
+    rdfs:label "Kat-5"@en .
+
+wd:Q639069 a wd:Q1420 ;
+    rdfs:label "Q639069"^^xsd:string .
+
+wd:Q64535172 a wd:Q1420 ;
+    rdfs:label "Fengguang 370"@en .
+
+wd:Q64559508 a wd:Q741490 ;
+    rdfs:label "Q64559508"^^xsd:string .
+
+wd:Q64568873 a wd:Q1420 ;
+    rdfs:label "Q64568873"^^xsd:string .
+
+wd:Q6461912 a wd:Q1420 ;
+    rdfs:label "Fiat Punto (1993)"@en .
+
+wd:Q64658396 a wd:Q1420 ;
+    rdfs:label "Q64658396"^^xsd:string .
+
+wd:Q64663393 a wd:Q1420 ;
+    rdfs:label "Q64663393"^^xsd:string .
+
+wd:Q64918275 a wd:Q1420 ;
+    rdfs:label "Q64918275"^^xsd:string .
+
+wd:Q65033358 a wd:Q1420 ;
+    rdfs:label "Carro"@en .
+
+wd:Q65121497 a wd:Q1420 ;
+    rdfs:label "Hammer"@en .
+
+wd:Q65552542 a wd:Q1420 ;
+    rdfs:label "Hispano-Suiza H6B Dubonnet Xenia"@en .
+
+wd:Q656202 a wd:Q1420 ;
+    rdfs:label "Ferrari 250 Europa"@en .
+
+wd:Q65645770 a wd:Q7590 ;
+    rdfs:label "Nizhny Novgorod Funiculars"@en .
+
+wd:Q6603638 a wd:Q1420 ;
+    rdfs:label "list of Volkswagen Group platforms"@en .
+
+wd:Q66371921 a wd:Q1420 ;
+    rdfs:label "Laurent-Perrier Citroën"@en .
+
+wd:Q66711666 a wd:Q1420 ;
+    rdfs:label "Q66711666"^^xsd:string .
+
+wd:Q66736075 a wd:Q7590 ;
+    rdfs:label "Q66736075"^^xsd:string .
+
+wd:Q6681565 a wd:Q1420 ;
+    rdfs:label "Lorraine"@en .
+
+wd:Q672427 a wd:Q1420 ;
+    rdfs:label "Pagani Zonda Cinque"@en .
+
+wd:Q6734044 a wd:Q1420 ;
+    rdfs:label "Mahindra Legend"@en .
+
+wd:Q6839486 a wd:Q1420 ;
+    rdfs:label "Microdot"@en .
+
+wd:Q68602656 a wd:Q1420 ;
+    rdfs:label "Disneyland Jitney"@en .
+
+wd:Q68753251 a wd:Q1420 ;
+    rdfs:label "Q68753251"^^xsd:string .
+
+wd:Q68754956 a wd:Q7590 ;
+    rdfs:label "Jolly Trolley"@en .
+
+wd:Q691939 a wd:Q1420 ;
+    rdfs:label "Amilcar C6"@en .
+
+wd:Q691986 a wd:Q1420 ;
+    rdfs:label "Pagani Zonda R"@en .
+
+wd:Q7103313 a wd:Q1420 ;
+    rdfs:label "Orlo"@en .
+
+wd:Q7131565 a wd:Q1420 ;
+    rdfs:label "Panoz DP09"@en .
+
+wd:Q7230403 a wd:Q1420 ;
+    rdfs:label "Porsche LMP"@en .
+
+wd:Q72803101 a wd:Q7590 ;
+    rdfs:label "Q72803101"^^xsd:string .
+
+wd:Q7284126 a wd:Q1420 ;
+    rdfs:label "Railton Special"@en .
+
+wd:Q7287810 a wd:Q1420 ;
+    rdfs:label "Ralph Lucas"@en .
+
+wd:Q740150 a wd:Q1420 ;
+    rdfs:label "Q740150"^^xsd:string .
+
+wd:Q7416968 a wd:Q741490 ;
+    rdfs:label "Sandstorm"@en .
+
+wd:Q7428821 a wd:Q1420 ;
+    rdfs:label "Saxon"@en .
+
+wd:Q7523419 a wd:Q1420 ;
+    rdfs:label "Singer Vogue"@en .
+
+wd:Q75234729 a wd:Q1420 ;
+    rdfs:label "McLaren Elva"@en .
+
+wd:Q7530773 a wd:Q1420 ;
+    rdfs:label "Siscart"@en .
+
+wd:Q753130 a wd:Q1420 ;
+    rdfs:label "Laffly S15"@en .
+
+wd:Q758760 a wd:Q1420 ;
+    rdfs:label "Audi Coupé"@en .
+
+wd:Q7629245 a wd:Q1420 ;
+    rdfs:label "Stutz 8-Cylinder"@en .
+
+wd:Q7629246 a wd:Q1420 ;
+    rdfs:label "Stutz Defender"@en .
+
+wd:Q7629248 a wd:Q1420 ;
+    rdfs:label "Stutz Diplomatica"@en .
+
+wd:Q765503 a wd:Q7590 ;
+    rdfs:label "Transport in Turkey"@en .
+
+wd:Q7660611 a wd:Q1420 ;
+    rdfs:label "Sylva Leader"@en .
+
+wd:Q7660612 a wd:Q1420 ;
+    rdfs:label "Sylva Striker"@en .
+
+wd:Q7835016 a wd:Q7590 ;
+    rdfs:label "Transport in Lahore"@en .
+
+wd:Q7835055 a wd:Q7590 ;
+    rdfs:label "transport in Peru"@en .
+
+wd:Q7835100 a wd:Q7590 ;
+    rdfs:label "Transport in Třebíč"@en .
+
+wd:Q7835243 a wd:Q7590 ;
+    rdfs:label "Transportation in New York"@en .
+
+wd:Q7835273 a wd:Q7590 ;
+    rdfs:label "Transportation in Toronto"@en .
+
+wd:Q7901125 a wd:Q1420 ;
+    rdfs:label "Urric"@en .
+
+wd:Q80088527 a wd:Q1420 ;
+    rdfs:label "TOGG"@en .
+
+wd:Q8047337 a wd:Q1420 ;
+    rdfs:label "Yale"@en .
+
+wd:Q82094936 a wd:Q1420 ;
+    rdfs:label "Q82094936"^^xsd:string .
+
+wd:Q84358772 a wd:Q7590 ;
+    rdfs:label "Q84358772"^^xsd:string .
+
+wd:Q859994 a wd:Q7590 ;
+    rdfs:label "B+R"@en .
+
+wd:Q875149 a wd:Q7590 ;
+    rdfs:label "Gemeinnützige Krankentransport GmbH"@en .
+
+wd:Q876780 a wd:Q3509172 ;
+    rdfs:label "SkyTrain"@en .
+
+wd:Q906560 a wd:Q1420 ;
+    rdfs:label "Hippomobile"@en .
+
+wd:Q9163498 a wd:Q1420 ;
+    rdfs:label "Q9163498"^^xsd:string .
+
+wd:Q9163499 a wd:Q1420 ;
+    rdfs:label "BMW M5 F10"@en .
+
+wd:Q924123 a wd:Q1420 ;
+    rdfs:label "Rover Scarab"@en .
+
+wd:Q9261320 a wd:Q1420 ;
+    rdfs:label "Q9261320"^^xsd:string .
+
+wd:Q9261328 a wd:Q1420 ;
+    rdfs:label "Q9261328"^^xsd:string .
+
+wd:Q930373 a wd:Q1420 ;
+    rdfs:label "Q930373"^^xsd:string .
+
+wd:Q932952 a wd:Q7590 ;
+    rdfs:label "Transport in Thailand"@en .
+
+wd:Q9332295 a wd:Q1420 ;
+    rdfs:label "SRT Viper"@en .
+
+wd:Q937568 a wd:Q1420 ;
+    rdfs:label "Hispano-Suiza Alfonso XIII"@en .
+
+wd:Q966157 a wd:Q1420 ;
+    rdfs:label "Q966157"^^xsd:string .
+
+wd:Q9697780 a wd:Q7590 ;
+    rdfs:label "Carros de cesto do Monte"@en .
+
+wd:Q220858 rdfs:label "autopilot"@en ;
+    rdfs:subClassOf wd:Q11481471 .
+
+wd:Q11481471 rdfs:label "aircraft flight control system"@en .
+
+wd:Q3509172 rdfs:label "automatic transport system"@en ;
+    rdfs:subClassOf wd:Q7590 .
+
+wd:Q752870 rdfs:label "motor vehicle"@en .
+
+wd:Q741490 rdfs:label "autonomous car"@en ;
+    rdfs:subClassOf wd:Q1420,
+        wd:Q220858,
+        wd:Q3509172 .
+
+wd:Q7590 rdfs:label "transport"@en .
+
+wd:Q1420 rdfs:label "car"@en ;
+    rdfs:subClassOf wd:Q752870 .
+

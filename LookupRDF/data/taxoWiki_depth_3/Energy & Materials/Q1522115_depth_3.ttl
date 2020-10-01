@@ -1,0 +1,568 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1048366 a wd:Q488383 ;
+    rdfs:label "trace"@en .
+
+wd:Q1060813 a wd:Q488383 ;
+    rdfs:label "file descriptor"@en .
+
+wd:Q11471 a wd:Q35120 ;
+    rdfs:label "time"@en .
+
+wd:Q1147488 rdfs:label "unconventional oil"@en ;
+    rdfs:subClassOf wd:Q22656 .
+
+wd:Q11696597 a wd:Q43302 ;
+    rdfs:label "wind power in Belarus"@en .
+
+wd:Q118940 rdfs:label "final energy"@en ;
+    rdfs:subClassOf wd:Q1059714 .
+
+wd:Q11919258 rdfs:label "Q11919258"^^xsd:string ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q1364904 rdfs:label "petrochemical product"@en ;
+    rdfs:subClassOf wd:Q1059843 .
+
+wd:Q14529443 rdfs:label "Q14529443"^^xsd:string ;
+    rdfs:subClassOf wd:Q12748 .
+
+wd:Q1464747 rdfs:label "peak coal"@en ;
+    rdfs:subClassOf wd:Q24489 .
+
+wd:Q1495128 rdfs:label "Peak gas"@en ;
+    rdfs:subClassOf wd:Q40858 .
+
+wd:Q1519259 a wd:Q35120 ;
+    rdfs:label "Q1519259"^^xsd:string .
+
+wd:Q15280487 a wd:Q3412078 ;
+    rdfs:label "heavy crude oil"@en .
+
+wd:Q156267 rdfs:label "lignite"@en ;
+    rdfs:subClassOf wd:Q24489 .
+
+wd:Q16120472 rdfs:label "petroleum in Algeria"@en ;
+    rdfs:subClassOf wd:Q22656 .
+
+wd:Q16120482 rdfs:label "petroleum in Saudi Arabia"@en ;
+    rdfs:subClassOf wd:Q22656 .
+
+wd:Q17015303 rdfs:label "renewable energy in Taiwan"@en ;
+    rdfs:subClassOf wd:Q5377149 .
+
+wd:Q1896478 rdfs:label "wind power in the Netherlands"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q193788 a wd:Q1522115 ;
+    rdfs:label "sunlight"@en .
+
+wd:Q20058155 rdfs:label "solar island"@en ;
+    rdfs:subClassOf wd:Q1522115 .
+
+wd:Q20819990 a wd:Q35120 ;
+    rdfs:label "organism"@en .
+
+wd:Q2111823 a wd:Q35120 ;
+    rdfs:label "Software product line"@en .
+
+wd:Q214199 rdfs:label "fuel oil"@en ;
+    rdfs:subClassOf wd:Q22656 .
+
+wd:Q21635465 a wd:Q4202245 ;
+    rdfs:label "Q21635465"^^xsd:string .
+
+wd:Q221378 rdfs:label "oil shale"@en ;
+    rdfs:subClassOf wd:Q12748 .
+
+wd:Q2310615 rdfs:label "abiogenic petroleum origin"@en ;
+    rdfs:subClassOf wd:Q22656 .
+
+wd:Q2321286 rdfs:label "Q2321286"^^xsd:string ;
+    rdfs:subClassOf wd:Q24489 .
+
+wd:Q2331799 rdfs:label "Q2331799"^^xsd:string ;
+    rdfs:subClassOf wd:Q40858 .
+
+wd:Q2347607 rdfs:label "Wind power in Sweden"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q23583744 rdfs:label "wind power in South Korea"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q2464746 rdfs:label "wind power in Denmark"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q2490338 rdfs:label "wind power in the European Union"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q2491646 rdfs:label "Q2491646"^^xsd:string ;
+    rdfs:subClassOf wd:Q1059843 .
+
+wd:Q25028454 rdfs:label "Natural gas in the United States"@en ;
+    rdfs:subClassOf wd:Q12748 .
+
+wd:Q25326882 rdfs:label "Hot dry rock geothermal energy"@en ;
+    rdfs:subClassOf wd:Q127993 .
+
+wd:Q2611902 rdfs:label "bunker oil"@en ;
+    rdfs:subClassOf wd:Q1059843,
+        wd:Q22656 .
+
+wd:Q2639469 rdfs:label "wind power in the United States"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q28114360 a wd:Q488383 ;
+    rdfs:label "Q28114360"^^xsd:string .
+
+wd:Q28692557 a wd:Q1059843 ;
+    rdfs:label "Q28692557"^^xsd:string .
+
+wd:Q28752728 a wd:Q1522115 ;
+    rdfs:label "Q28752728"^^xsd:string .
+
+wd:Q2893420 a wd:Q488383 ;
+    rdfs:label "Q2893420"^^xsd:string .
+
+wd:Q29310294 a wd:Q488383 ;
+    rdfs:label "Q29310294"^^xsd:string .
+
+wd:Q29328814 a wd:Q488383 ;
+    rdfs:label "Q29328814"^^xsd:string .
+
+wd:Q29568713 a wd:Q182458 ;
+    rdfs:label "Anthracite-MCG 77448"@en .
+
+wd:Q2991848 rdfs:label "wind power in Germany"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q303288 rdfs:label "solar thermal energy"@en ;
+    rdfs:subClassOf wd:Q1483757 .
+
+wd:Q3109025 a wd:Q127993 ;
+    rdfs:label "The Geysers"@en .
+
+wd:Q3482521 a wd:Q1059843 ;
+    rdfs:label "Q3482521"^^xsd:string .
+
+wd:Q358333 rdfs:label "liquefied natural gas"@en ;
+    rdfs:subClassOf wd:Q1059843,
+        wd:Q40858 .
+
+wd:Q3588999 rdfs:label "Wind power in Iran"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q3747502 rdfs:label "secondary energy"@en ;
+    rdfs:subClassOf wd:Q1522115 .
+
+wd:Q3758615 a wd:Q39558 ;
+    rdfs:label "natural gasoline"@en .
+
+wd:Q38423 a wd:Q1059843 ;
+    rdfs:label "diesel"@en .
+
+wd:Q389036 rdfs:label "methane clathrate"@en ;
+    rdfs:subClassOf wd:Q40858 .
+
+wd:Q4110086 rdfs:label "wind power in Canada"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q43099445 a wd:Q1554231 ;
+    rdfs:label "Q43099445"^^xsd:string .
+
+wd:Q47227732 a wd:Q488383 ;
+    rdfs:label "Q47227732"^^xsd:string .
+
+wd:Q483639 a wd:Q1554231 ;
+    rdfs:label "cloud computing"@en .
+
+wd:Q4887162 rdfs:label "airborne wind energy"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q514434 a wd:Q31464082 ;
+    rdfs:label "Priestly source"@en .
+
+wd:Q5526333 rdfs:label "gas depletion"@en ;
+    rdfs:subClassOf wd:Q40858 .
+
+wd:Q56296692 rdfs:label "Q56296692"^^xsd:string ;
+    rdfs:subClassOf wd:Q40858 .
+
+wd:Q5638854 rdfs:label "Q5638854"^^xsd:string ;
+    rdfs:subClassOf wd:Q1483757 .
+
+wd:Q564726 rdfs:label "shale gas"@en ;
+    rdfs:subClassOf wd:Q40858 .
+
+wd:Q56556139 a wd:Q192127 ;
+    rdfs:label "Tesla Solar Roof"@en .
+
+wd:Q56681713 a wd:Q35120 ;
+    rdfs:label "Q56681713"^^xsd:string .
+
+wd:Q59284452 a wd:Q35120 ;
+    rdfs:label "Q59284452"^^xsd:string .
+
+wd:Q59386309 a wd:Q488383 ;
+    rdfs:label "Q59386309"^^xsd:string .
+
+wd:Q59386908 a wd:Q35120 ;
+    rdfs:label "Q59386908"^^xsd:string .
+
+wd:Q60458881 a wd:Q35120 ;
+    rdfs:label "Q60458881"^^xsd:string .
+
+wd:Q61637704 rdfs:label "offshore wind power"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q61864292 a wd:Q1522115 ;
+    rdfs:label "Q61864292"^^xsd:string .
+
+wd:Q62027517 a wd:Q35120 ;
+    rdfs:label "Q62027517"^^xsd:string .
+
+wd:Q62530453 a wd:Q35120 ;
+    rdfs:label "ourData Map data model element"@en .
+
+wd:Q62570709 a wd:Q35120 ;
+    rdfs:label "Q62570709"^^xsd:string .
+
+wd:Q63985060 a wd:Q35120 ;
+    rdfs:label "Church of the Heart of Jesus Christ Crimea"@en .
+
+wd:Q65171125 rdfs:label "wind power in Vietnam"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q65175462 rdfs:label "solar power in Vietnam"@en ;
+    rdfs:subClassOf wd:Q1483757 .
+
+wd:Q67210225 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 53"@en .
+
+wd:Q67210227 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 5"@en .
+
+wd:Q67210229 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 17"@en .
+
+wd:Q67210230 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza s/n"@en .
+
+wd:Q67210231 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 55"@en .
+
+wd:Q67210232 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 54"@en .
+
+wd:Q67210233 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 52"@en .
+
+wd:Q67210234 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 51"@en .
+
+wd:Q67210235 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 50"@en .
+
+wd:Q67210236 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 49"@en .
+
+wd:Q67210237 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 48"@en .
+
+wd:Q67210238 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 47"@en .
+
+wd:Q67210239 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 46"@en .
+
+wd:Q67210240 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 45"@en .
+
+wd:Q67210241 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 44"@en .
+
+wd:Q67210242 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 43"@en .
+
+wd:Q67210243 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 42"@en .
+
+wd:Q67210245 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 41"@en .
+
+wd:Q67210246 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 40"@en .
+
+wd:Q67210247 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 39"@en .
+
+wd:Q67210248 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 38"@en .
+
+wd:Q67210249 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 37"@en .
+
+wd:Q67210250 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 36"@en .
+
+wd:Q67210251 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 35"@en .
+
+wd:Q67210253 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 33"@en .
+
+wd:Q67210254 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 32"@en .
+
+wd:Q67210255 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 31"@en .
+
+wd:Q67210256 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 30"@en .
+
+wd:Q67210257 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 29"@en .
+
+wd:Q67210258 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 28"@en .
+
+wd:Q67210259 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 27"@en .
+
+wd:Q67210260 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 26"@en .
+
+wd:Q67210261 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 25"@en .
+
+wd:Q67210264 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 24"@en .
+
+wd:Q67210265 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 23"@en .
+
+wd:Q67210266 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 22"@en .
+
+wd:Q67210267 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 21"@en .
+
+wd:Q67210268 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 20"@en .
+
+wd:Q67210269 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 19"@en .
+
+wd:Q67210270 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 18"@en .
+
+wd:Q67210271 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 16"@en .
+
+wd:Q67210272 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 15"@en .
+
+wd:Q67210273 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 14"@en .
+
+wd:Q67210274 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 13"@en .
+
+wd:Q67210275 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 12"@en .
+
+wd:Q67210277 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 11"@en .
+
+wd:Q67210278 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 10"@en .
+
+wd:Q67210280 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 9"@en .
+
+wd:Q67210281 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 8"@en .
+
+wd:Q67210282 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 7"@en .
+
+wd:Q67210283 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 6"@en .
+
+wd:Q67210284 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 4"@en .
+
+wd:Q67210285 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 3"@en .
+
+wd:Q67210286 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 2"@en .
+
+wd:Q67210287 a wd:Q5309 ;
+    rdfs:label "Painel Gentileza 1"@en .
+
+wd:Q67210487 a wd:Q5309 ;
+    rdfs:label "Piso de Pedra Portuguesa de Grumari"@en .
+
+wd:Q67210488 a wd:Q5309 ;
+    rdfs:label "Painel Propaganda de Selarón"@en .
+
+wd:Q67210491 a wd:Q5309 ;
+    rdfs:label "Painel Gravidas de Selarón"@en .
+
+wd:Q7081391 rdfs:label "Oil depletion"@en ;
+    rdfs:subClassOf wd:Q22656 .
+
+wd:Q71190832 a wd:Q35120 ;
+    rdfs:label "Rescue basket"@en .
+
+wd:Q720050 rdfs:label "compressed natural gas"@en ;
+    rdfs:subClassOf wd:Q40858 .
+
+wd:Q73165306 a wd:Q35120 ;
+    rdfs:label "World Center for Women's Archives"@en .
+
+wd:Q732607 rdfs:label "bituminous coal"@en ;
+    rdfs:subClassOf wd:Q24489 .
+
+wd:Q73290548 a wd:Q35120 ;
+    rdfs:label "Gerritsen Collection"@en .
+
+wd:Q74594652 a wd:Q35120 ;
+    rdfs:label "Ariadne (archive)"@en .
+
+wd:Q7556763 a wd:Q1483757 ;
+    rdfs:label "solar power in Greece"@en .
+
+wd:Q7556803 rdfs:label "solar power in New Mexico"@en ;
+    rdfs:subClassOf wd:Q1483757 .
+
+wd:Q7556804 rdfs:label "solar power in New Jersey"@en ;
+    rdfs:subClassOf wd:Q1483757 .
+
+wd:Q7556812 rdfs:label "solar power in Ohio"@en ;
+    rdfs:subClassOf wd:Q1483757 .
+
+wd:Q76737728 a wd:Q35120 ;
+    rdfs:label "Women's suffrage in India"@en .
+
+wd:Q76985609 a wd:Q31464082 ;
+    rdfs:label "Berkeley Algal list"@en .
+
+wd:Q77370351 a wd:Q31464082 ;
+    rdfs:label "funding source"@en .
+
+wd:Q790674 rdfs:label "sub-bituminous coal"@en ;
+    rdfs:subClassOf wd:Q24489 .
+
+wd:Q79077665 a wd:Q35120 ;
+    rdfs:label "Teaching skills"@en .
+
+wd:Q7911854 a wd:Q192127 ;
+    rdfs:label "Valle 1 and Valle 2"@en .
+
+wd:Q7937223 rdfs:label "Vitrain"@en ;
+    rdfs:subClassOf wd:Q24489 .
+
+wd:Q8023991 rdfs:label "wind power in Australia"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q8023998 rdfs:label "Wind power in Greece"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q8024038 rdfs:label "wind power in South Australia"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q8024044 rdfs:label "wind power in the Philippines"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q82460623 a wd:Q35120 ;
+    rdfs:label "Q82460623"^^xsd:string .
+
+wd:Q83879447 a wd:Q35120 ;
+    rdfs:label "Q83879447"^^xsd:string .
+
+wd:Q842250 rdfs:label "Wind power in the People's Republic of China"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q86215124 a wd:Q35120 ;
+    rdfs:label "Q86215124"^^xsd:string .
+
+wd:Q898757 a wd:Q1059843 ;
+    rdfs:label "mazut"@en .
+
+wd:Q9261468 a wd:Q35120 ;
+    rdfs:label "organizational subdivision"@en .
+
+wd:Q936791 a wd:Q1554231 ;
+    rdfs:label "non-renewable resource"@en .
+
+wd:Q955546 rdfs:label "coalbed methane"@en ;
+    rdfs:subClassOf wd:Q40858 .
+
+wd:Q1059714 rdfs:label "primary energy"@en ;
+    rdfs:subClassOf wd:Q1522115 .
+
+wd:Q182458 rdfs:label "anthracite"@en ;
+    rdfs:subClassOf wd:Q24489 .
+
+wd:Q3412078 rdfs:label "crude petroleum"@en ;
+    rdfs:subClassOf wd:Q22656 .
+
+wd:Q39558 rdfs:label "gasoline"@en ;
+    rdfs:subClassOf wd:Q1059843 .
+
+wd:Q5377149 rdfs:label "energy in Taiwan"@en ;
+    rdfs:subClassOf wd:Q1522115 .
+
+wd:Q127993 rdfs:label "geothermal energy"@en ;
+    rdfs:subClassOf wd:Q4202245 .
+
+wd:Q192127 rdfs:label "photovoltaics"@en ;
+    rdfs:subClassOf wd:Q1483757 .
+
+wd:Q1554231 rdfs:label "resource"@en ;
+    rdfs:subClassOf wd:Q31464082,
+        wd:Q35120 .
+
+wd:Q4202245 rdfs:label "alternative energy"@en ;
+    rdfs:subClassOf wd:Q1522115 .
+
+wd:Q31464082 rdfs:label "source"@en ;
+    rdfs:subClassOf wd:Q488383 .
+
+wd:Q12748 rdfs:label "fossil fuel"@en ;
+    rdfs:subClassOf wd:Q1522115 .
+
+wd:Q1483757 rdfs:label "solar power"@en ;
+    rdfs:subClassOf wd:Q4202245 .
+
+wd:Q22656 rdfs:label "petroleum"@en ;
+    rdfs:subClassOf wd:Q12748 .
+
+wd:Q24489 rdfs:label "coal"@en ;
+    rdfs:subClassOf wd:Q12748 .
+
+wd:Q1059843 rdfs:label "petroleum product"@en ;
+    rdfs:subClassOf wd:Q12748 .
+
+wd:Q1522115 rdfs:label "energy source"@en ;
+    rdfs:subClassOf wd:Q1554231,
+        wd:Q31464082 .
+
+wd:Q40858 rdfs:label "natural gas"@en ;
+    rdfs:subClassOf wd:Q12748 .
+
+wd:Q488383 rdfs:label "object"@en ;
+    rdfs:subClassOf wd:Q35120 .
+
+wd:Q43302 rdfs:label "wind power"@en ;
+    rdfs:subClassOf wd:Q4202245 .
+
+wd:Q5309 rdfs:label "graphite"@en ;
+    rdfs:subClassOf wd:Q24489 .
+

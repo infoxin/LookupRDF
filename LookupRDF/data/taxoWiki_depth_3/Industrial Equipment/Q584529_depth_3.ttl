@@ -1,0 +1,659 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1001983 a wd:Q11019 ;
+    rdfs:label "Flekk"@en .
+
+wd:Q10314177 a wd:Q11012 ;
+    rdfs:label "Kenji"@en .
+
+wd:Q1047037 a wd:Q11019 ;
+    rdfs:label "Screw pump"@en .
+
+wd:Q1050572 rdfs:label "KHR-1"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q1054157 a wd:Q11012 ;
+    rdfs:label "Cog"@en .
+
+wd:Q10662761 a wd:Q11012 ;
+    rdfs:label "Jessiko"@en .
+
+wd:Q1077617 a wd:Q11012 ;
+    rdfs:label "GAT-X105 Strike"@en .
+
+wd:Q1090233 a wd:Q11019 ;
+    rdfs:label "NIST-F1"@en .
+
+wd:Q1112027 a wd:Q584529 ;
+    rdfs:label "Elektro"@en .
+
+wd:Q11222873 rdfs:label "HRP-3"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q11301651 a wd:Q11012 ;
+    rdfs:label "Q11301651"^^xsd:string .
+
+wd:Q1134062 a wd:Q11012 ;
+    rdfs:label "QRIO"@en .
+
+wd:Q1151719 rdfs:label "DARwIn-OP"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q11710044 a wd:Q584529 ;
+    rdfs:label "Honda P3"@en .
+
+wd:Q11883812 a wd:Q11012 ;
+    rdfs:label "Q11883812"^^xsd:string .
+
+wd:Q11916899 a wd:Q11019 ;
+    rdfs:label "Q11916899"^^xsd:string .
+
+wd:Q11937671 a wd:Q11019 ;
+    rdfs:label "Q11937671"^^xsd:string .
+
+wd:Q11938176 a wd:Q11019 ;
+    rdfs:label "Q11938176"^^xsd:string .
+
+wd:Q11938179 a wd:Q11019 ;
+    rdfs:label "Q11938179"^^xsd:string .
+
+wd:Q11945024 a wd:Q11019 ;
+    rdfs:label "Q11945024"^^xsd:string .
+
+wd:Q11945026 a wd:Q11019 ;
+    rdfs:label "Q11945026"^^xsd:string .
+
+wd:Q11948246 a wd:Q11019 ;
+    rdfs:label "Q11948246"^^xsd:string .
+
+wd:Q11948348 a wd:Q11019 ;
+    rdfs:label "Q11948348"^^xsd:string .
+
+wd:Q11953025 a wd:Q11019 ;
+    rdfs:label "Q11953025"^^xsd:string .
+
+wd:Q12065277 a wd:Q11012 ;
+    rdfs:label "Parallel manipulator"@en .
+
+wd:Q12177444 a wd:Q11019 ;
+    rdfs:label "boring"@en .
+
+wd:Q124441 a wd:Q11019 ;
+    rdfs:label "washing machine"@en .
+
+wd:Q12766633 a wd:Q11012 ;
+    rdfs:label "HR6"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q12766998 a wd:Q11012 ;
+    rdfs:label "Q12766998"^^xsd:string .
+
+wd:Q130760 a wd:Q11019 ;
+    rdfs:label "turbine"@en .
+
+wd:Q131313 a wd:Q11019 ;
+    rdfs:label "heat pump"@en .
+
+wd:Q1369967 a wd:Q11019 ;
+    rdfs:label "Jacquard loom"@en .
+
+wd:Q1395419 a wd:Q11012 ;
+    rdfs:label "Famulus"@en .
+
+wd:Q14248859 rdfs:label "Atlas"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q1434533 a wd:Q11019 ;
+    rdfs:label "Flybot"@en .
+
+wd:Q1464170 a wd:Q584529 ;
+    rdfs:label "Nao"@en .
+
+wd:Q148270 a wd:Q584529 ;
+    rdfs:label "Leonardo's robot"@en .
+
+wd:Q15128663 a wd:Q11012 ;
+    rdfs:label "DRDO Daksh"@en .
+
+wd:Q1526343 a wd:Q11012 ;
+    rdfs:label "Perseverance"@en .
+
+wd:Q16000328 a wd:Q11012 ;
+    rdfs:label "Snakebot"@en .
+
+wd:Q16135865 a wd:Q11019 ;
+    rdfs:label "Teaching machine"@en .
+
+wd:Q1649885 a wd:Q11012 ;
+    rdfs:label "MarkV-A1"@en .
+
+wd:Q16530158 a wd:Q1938887 ;
+    rdfs:label "Q16530158"^^xsd:string .
+
+wd:Q1653368 a wd:Q584529 ;
+    rdfs:label "iCub"@en .
+
+wd:Q16671570 a wd:Q11019 ;
+    rdfs:label "Sprayer"@en .
+
+wd:Q16733527 a wd:Q11019 ;
+    rdfs:label "Fufu Machine"@en .
+
+wd:Q16968648 rdfs:label "RoboTurk"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q17056469 a wd:Q584529 ;
+    rdfs:label "InMoov"@en .
+
+wd:Q17073046 rdfs:label "Salvius"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q1714160 a wd:Q584529 ;
+    rdfs:label "Justin"@en .
+
+wd:Q17190252 rdfs:label "Pepper"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q1720186 a wd:Q11019 ;
+    rdfs:label "Q1720186"^^xsd:string .
+
+wd:Q17242 a wd:Q11019 ;
+    rdfs:label "snow grooming vehicle"@en .
+
+wd:Q17450611 a wd:Q11012 ;
+    rdfs:label "hitchBOT"@en .
+
+wd:Q1764892 a wd:Q11019 ;
+    rdfs:label "evaporator"@en .
+
+wd:Q1778640 a wd:Q11019 ;
+    rdfs:label "fog machine"@en .
+
+wd:Q1796845 a wd:Q11012 ;
+    rdfs:label "LAURON"@en .
+
+wd:Q18087946 a wd:Q11019 ;
+    rdfs:label "Q18087946"^^xsd:string .
+
+wd:Q18114355 a wd:Q11012 ;
+    rdfs:label "RoboThespian"@en .
+
+wd:Q1816096 a wd:Q11019 ;
+    rdfs:label "mechanical lathe"@en .
+
+wd:Q18198857 a wd:Q11019 ;
+    rdfs:label "cable blowing machine"@en .
+
+wd:Q182883 a wd:Q11019 ;
+    rdfs:label "wankel engine"@en .
+
+wd:Q18393507 a wd:Q11012 ;
+    rdfs:label "Raptor"@en .
+
+wd:Q187130 a wd:Q11019 ;
+    rdfs:label "watch timing machine"@en .
+
+wd:Q1949014 a wd:Q11012 ;
+    rdfs:label "iRobot Create"@en .
+
+wd:Q19615881 a wd:Q11019 ;
+    rdfs:label "cutter suction dredger"@en .
+
+wd:Q19715603 a wd:Q11019 ;
+    rdfs:label "Q19715603"^^xsd:string .
+
+wd:Q19742259 a wd:Q11019 ;
+    rdfs:label "Q19742259"^^xsd:string .
+
+wd:Q19904204 a wd:Q11019 ;
+    rdfs:label "Herodotus Machine"@en .
+
+wd:Q20020804 a wd:Q11012 ;
+    rdfs:label "Thymio"@en .
+
+wd:Q20165102 a wd:Q11012 ;
+    rdfs:label "WALK-MAN"@en .
+
+wd:Q20439288 a wd:Q11012 ;
+    rdfs:label "Ladybird of Szeged"@en .
+
+wd:Q2053764 a wd:Q11012 ;
+    rdfs:label "Paro"@en .
+
+wd:Q20983138 rdfs:label "Telenoid R1"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q21043216 a wd:Q11019 ;
+    rdfs:label "bread slicer"@en .
+
+wd:Q21087177 a wd:Q11019 ;
+    rdfs:label "Q21087177"^^xsd:string .
+
+wd:Q21087178 a wd:Q11019 ;
+    rdfs:label "Q21087178"^^xsd:string .
+
+wd:Q21087344 a wd:Q11019 ;
+    rdfs:label "Q21087344"^^xsd:string .
+
+wd:Q21087414 a wd:Q11019 ;
+    rdfs:label "Q21087414"^^xsd:string .
+
+wd:Q21162337 a wd:Q11019 ;
+    rdfs:label "discharging machine"@en .
+
+wd:Q2135734 a wd:Q11019 ;
+    rdfs:label "Q2135734"^^xsd:string .
+
+wd:Q2142260 a wd:Q11019 ;
+    rdfs:label "Q2142260"^^xsd:string .
+
+wd:Q2233601 a wd:Q584529 ;
+    rdfs:label "TOPIO"@en .
+
+wd:Q2270830 a wd:Q11019 ;
+    rdfs:label "Z-mill"@en .
+
+wd:Q22906694 a wd:Q584529 ;
+    rdfs:label "Manav"@en .
+
+wd:Q22910440 a wd:Q11019 ;
+    rdfs:label "isolette"@en .
+
+wd:Q2298943 a wd:Q11019 ;
+    rdfs:label "Q2298943"^^xsd:string .
+
+wd:Q2303617 a wd:Q11019 ;
+    rdfs:label "Sorter"@en .
+
+wd:Q2311954 rdfs:label "HRP-4C"@en ;
+    rdfs:subClassOf wd:Q584529,
+        wd:Q730863 .
+
+wd:Q23498881 a wd:Q11019 ;
+    rdfs:label "Q23498881"^^xsd:string .
+
+wd:Q23580572 a wd:Q11012 ;
+    rdfs:label "2020 Chinese Mars Mission"@en .
+
+wd:Q2447195 rdfs:label "Toyota Partner Robot"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q245761 a wd:Q11019 ;
+    rdfs:label "grinding machine"@en .
+
+wd:Q24729767 a wd:Q11012 ;
+    rdfs:label "Musio"@en .
+
+wd:Q24911030 rdfs:label "Nadine Social Robot"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q264685 a wd:Q11012 ;
+    rdfs:label "Marvin the Paranoid Android"@en .
+
+wd:Q2647354 a wd:Q11012 ;
+    rdfs:label "Alkadur"@en .
+
+wd:Q266809 a wd:Q11019 ;
+    rdfs:label "Diatype"@en .
+
+wd:Q2708032 a wd:Q11019 ;
+    rdfs:label "Tattoo machine"@en .
+
+wd:Q27092869 a wd:Q11012 ;
+    rdfs:label "Kirobo Mini"@en .
+
+wd:Q27114133 a wd:Q11019 ;
+    rdfs:label "Q27114133"^^xsd:string .
+
+wd:Q27114135 a wd:Q11019 ;
+    rdfs:label "Q27114135"^^xsd:string .
+
+wd:Q27114139 a wd:Q11019 ;
+    rdfs:label "Q27114139"^^xsd:string .
+
+wd:Q28008754 a wd:Q11019 ;
+    rdfs:label "Q28008754"^^xsd:string .
+
+wd:Q28060003 a wd:Q11019 ;
+    rdfs:label "Q28060003"^^xsd:string .
+
+wd:Q2826052 a wd:Q11012 ;
+    rdfs:label "Affeto"@en .
+
+wd:Q28503169 a wd:Q11019 ;
+    rdfs:label "Q28503169"^^xsd:string .
+
+wd:Q29010565 a wd:Q11012 ;
+    rdfs:label "Nightmare Inducing Robot"@en .
+
+wd:Q29097344 a wd:Q11012 ;
+    rdfs:label "Lil Miquela"@en .
+
+wd:Q2916210 a wd:Q11019 ;
+    rdfs:label "Mephisto"@en .
+
+wd:Q295217 a wd:Q11012 ;
+    rdfs:label "AMOR"@en .
+
+wd:Q29639195 a wd:Q11019 ;
+    rdfs:label "Cornell Pulpwood Stacker"@en .
+
+wd:Q297769 a wd:Q11012,
+        wd:Q584529 ;
+    rdfs:label "ASIMO"@en .
+
+wd:Q2979456 a wd:Q11019 ;
+    rdfs:label "Cloaca"@en .
+
+wd:Q30601635 a wd:Q11012 ;
+    rdfs:label "Hugh"@en .
+
+wd:Q30897110 a wd:Q11012 ;
+    rdfs:label "FEDOR"@en .
+
+wd:Q30902299 a wd:Q11012 ;
+    rdfs:label "Q30902299"^^xsd:string .
+
+wd:Q3216558 a wd:Q11012 ;
+    rdfs:label "LAMA"@en .
+
+wd:Q3481971 a wd:Q11012 ;
+    rdfs:label "Q3481971"^^xsd:string .
+
+wd:Q3495733 a wd:Q11019 ;
+    rdfs:label "Gestetner"@en .
+
+wd:Q3535099 a wd:Q584529 ;
+    rdfs:label "Albert Hubo"@en .
+
+wd:Q3709176 a wd:Q11019 ;
+    rdfs:label "Dirod"@en .
+
+wd:Q3725537 a wd:Q11012 ;
+    rdfs:label "Enon"@en .
+
+wd:Q3735277 rdfs:label "EveR"@en ;
+    rdfs:subClassOf wd:Q584529,
+        wd:Q730863 .
+
+wd:Q38044231 a wd:Q11019 ;
+    rdfs:label "Q38044231"^^xsd:string .
+
+wd:Q3826691 a wd:Q11019 ;
+    rdfs:label "Q3826691"^^xsd:string .
+
+wd:Q40007330 a wd:Q11019 ;
+    rdfs:label "Q40007330"^^xsd:string .
+
+wd:Q403438 a wd:Q11012 ;
+    rdfs:label "AIBO"@en .
+
+wd:Q403898 a wd:Q11019 ;
+    rdfs:label "Actinometer"@en .
+
+wd:Q4047789 a wd:Q11012 ;
+    rdfs:label "Q4047789"^^xsd:string .
+
+wd:Q4048358 a wd:Q11012 ;
+    rdfs:label "Robot Scientist"@en .
+
+wd:Q41356918 a wd:Q11019 ;
+    rdfs:label "multimixer"@en .
+
+wd:Q4150635 a wd:Q11019 ;
+    rdfs:label "Q4150635"^^xsd:string .
+
+wd:Q42330811 a wd:Q584529 ;
+    rdfs:label "Sophia"@en .
+
+wd:Q43903136 a wd:Q11012 ;
+    rdfs:label "Ravon"@en .
+
+wd:Q4641049 a wd:Q11012 ;
+    rdfs:label "5DX"@en .
+
+wd:Q4681861 a wd:Q11012 ;
+    rdfs:label "Adelbrecht"@en .
+
+wd:Q46999844 a wd:Q11012 ;
+    rdfs:label "Kaspar"@en .
+
+wd:Q4726194 a wd:Q11012 ;
+    rdfs:label "Alice mobile robot"@en .
+
+wd:Q4795921 a wd:Q11019 ;
+    rdfs:label "Q4795921"^^xsd:string .
+
+wd:Q4835692 a wd:Q584529 ;
+    rdfs:label "BINA48"@en .
+
+wd:Q48485 a wd:Q11012 ;
+    rdfs:label "Curiosity"@en .
+
+wd:Q4873834 a wd:Q11012 ;
+    rdfs:label "Baxter"@en .
+
+wd:Q495049 a wd:Q584529 ;
+    rdfs:label "HUBO"@en .
+
+wd:Q5192201 a wd:Q11012 ;
+    rdfs:label "CubeStormer II"@en .
+
+wd:Q5245544 a wd:Q11012 ;
+    rdfs:label "Deadblow"@en .
+
+wd:Q5291324 a wd:Q584529 ;
+    rdfs:label "Domo"@en .
+
+wd:Q5357557 a wd:Q11019 ;
+    rdfs:label "Electric boiler"@en .
+
+wd:Q5381853 a wd:Q11012 ;
+    rdfs:label "Rovio"@en .
+
+wd:Q54891502 a wd:Q11012 ;
+    rdfs:label "Three-finger prehensile robot-FRE 2507 CNRS"@en .
+
+wd:Q55138855 a wd:Q11012 ;
+    rdfs:label "Squirel robot at CnAM"@en .
+
+wd:Q55139668 a wd:Q11012 ;
+    rdfs:label "Hilare-1 robot"@en .
+
+wd:Q55237924 a wd:Q11012 ;
+    rdfs:label "GSF Robostoft AutoVacC"@en .
+
+wd:Q55260719 a wd:Q11012 ;
+    rdfs:label "Cimon"@en .
+
+wd:Q5534264 rdfs:label "Geoff Peterson"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q55362596 a wd:Q11012 ;
+    rdfs:label "LVX-1"@en .
+
+wd:Q56313035 a wd:Q11019 ;
+    rdfs:label "Q56313035"^^xsd:string .
+
+wd:Q57232573 a wd:Q11012 ;
+    rdfs:label "Q57232573"^^xsd:string .
+
+wd:Q57334737 a wd:Q11012 ;
+    rdfs:label "Q57334737"^^xsd:string .
+
+wd:Q583549 a wd:Q584529 ;
+    rdfs:label "Surena"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q59753955 a wd:Q11019 ;
+    rdfs:label "Q59753955"^^xsd:string .
+
+wd:Q6024751 a wd:Q730863 ;
+    rdfs:label "Indigo"@en .
+
+wd:Q63122568 a wd:Q11012 ;
+    rdfs:label "Sina Robotic System"@en .
+
+wd:Q63437164 a wd:Q11019 ;
+    rdfs:label "Q63437164"^^xsd:string .
+
+wd:Q63790055 a wd:Q11012 ;
+    rdfs:label "Eve"@en .
+
+wd:Q644997 a wd:Q11019 ;
+    rdfs:label "water turbine"@en .
+
+wd:Q6498398 a wd:Q11019 ;
+    rdfs:label "mechanical fan"@en .
+
+wd:Q65256546 a wd:Q11012 ;
+    rdfs:label "Q65256546"^^xsd:string .
+
+wd:Q6536231 a wd:Q11012 ;
+    rdfs:label "Lewis"@en .
+
+wd:Q65595489 a wd:Q11012 ;
+    rdfs:label "SpaceBok"@en .
+
+wd:Q664571 a wd:Q11019 ;
+    rdfs:label "fuse"@en .
+
+wd:Q66741578 a wd:Q11019 ;
+    rdfs:label "plowshare (US) or ploughshare (UK)"@en .
+
+wd:Q6714220 rdfs:label "MAHRU"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q6778277 a wd:Q11012 ;
+    rdfs:label "Marvin"@en .
+
+wd:Q679062 a wd:Q11012 ;
+    rdfs:label "Armar 3"@en .
+
+wd:Q6818581 a wd:Q11019 ;
+    rdfs:label "Mercury"@en .
+
+wd:Q68555030 a wd:Q11012 ;
+    rdfs:label "TASBot"@en .
+
+wd:Q71304809 a wd:Q11012 ;
+    rdfs:label "Cytro"@en .
+
+wd:Q71306165 a wd:Q11012 ;
+    rdfs:label "DreddNaught's"@en .
+
+wd:Q72170228 a wd:Q11019 ;
+    rdfs:label "Q72170228"^^xsd:string .
+
+wd:Q72170229 a wd:Q11019 ;
+    rdfs:label "Q72170229"^^xsd:string .
+
+wd:Q72170234 a wd:Q11019 ;
+    rdfs:label "Q72170234"^^xsd:string .
+
+wd:Q72170235 a wd:Q11019 ;
+    rdfs:label "Q72170235"^^xsd:string .
+
+wd:Q72170239 a wd:Q11019 ;
+    rdfs:label "Q72170239"^^xsd:string .
+
+wd:Q72170242 a wd:Q11019 ;
+    rdfs:label "Q72170242"^^xsd:string .
+
+wd:Q72313 a wd:Q11019 ;
+    rdfs:label "electric motor"@en .
+
+wd:Q7236656 a wd:Q11019 ;
+    rdfs:label "power trowel"@en .
+
+wd:Q7275908 a wd:Q11012 ;
+    rdfs:label "RB5X"@en .
+
+wd:Q7302859 a wd:Q11019 ;
+    rdfs:label "record press"@en .
+
+wd:Q7353269 a wd:Q11012 ;
+    rdfs:label "Roboboa"@en .
+
+wd:Q7353292 a wd:Q11012 ;
+    rdfs:label "Robop"@en .
+
+wd:Q7379471 a wd:Q11012 ;
+    rdfs:label "RunBot"@en .
+
+wd:Q7390333 a wd:Q584529 ;
+    rdfs:label "SIGMO"@en .
+
+wd:Q7454692 a wd:Q11012 ;
+    rdfs:label "Serial manipulator"@en .
+
+wd:Q7486160 a wd:Q11012 ;
+    rdfs:label "Compressorhead"@en .
+
+wd:Q775992 rdfs:label "REEM"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q8041687 a wd:Q11012 ;
+    rdfs:label "XBC"@en .
+
+wd:Q8042447 a wd:Q11012 ;
+    rdfs:label "XR-2"@en .
+
+wd:Q81771704 a wd:Q11019 ;
+    rdfs:label "Q81771704"^^xsd:string .
+
+wd:Q83705926 a wd:Q11019 ;
+    rdfs:label "Q83705926"^^xsd:string .
+
+wd:Q852268 rdfs:label "Robonaut"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q855137 a wd:Q11012 ;
+    rdfs:label "Q855137"^^xsd:string .
+
+wd:Q858422 a wd:Q11012 ;
+    rdfs:label "BigDog"@en .
+
+wd:Q882419 a wd:Q11019 ;
+    rdfs:label "berry-picking rake"@en .
+
+wd:Q8962103 a wd:Q11019 ;
+    rdfs:label "Q8962103"^^xsd:string .
+
+wd:Q9009009 a wd:Q11019 ;
+    rdfs:label "Q9009009"^^xsd:string .
+
+wd:Q912212 rdfs:label "Kismet"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q9293563 a wd:Q584529 ;
+    rdfs:label "Honda P2"@en .
+
+wd:Q953727 a wd:Q11012 ;
+    rdfs:label "RoboSapien"@en .
+
+wd:Q955240 a wd:Q11012 ;
+    rdfs:label "Programmable Universal Machine for Assembly"@en .
+
+wd:Q18713403 rdfs:label "bipedal robot"@en ;
+    rdfs:subClassOf wd:Q11012 .
+
+wd:Q1938887 rdfs:label "Actroid"@en ;
+    rdfs:subClassOf wd:Q584529,
+        wd:Q730863 .
+
+wd:Q730863 rdfs:label "gynoid"@en ;
+    rdfs:subClassOf wd:Q584529 .
+
+wd:Q584529 rdfs:label "humanoid robot"@en ;
+    rdfs:subClassOf wd:Q18713403 .
+
+wd:Q11012 rdfs:label "robot"@en ;
+    rdfs:subClassOf wd:Q11019 .
+
+wd:Q11019 rdfs:label "machine"@en .
+

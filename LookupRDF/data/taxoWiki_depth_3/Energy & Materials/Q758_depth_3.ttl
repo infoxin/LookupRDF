@@ -1,0 +1,3441 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q10286149 a wd:Q79529 ;
+    rdfs:label "basic fuchsin"@en .
+
+wd:Q10305048 a wd:Q2424752 ;
+    rdfs:label "Jamel"@en .
+
+wd:Q10332599 a wd:Q2424752 ;
+    rdfs:label "Mosro"@en .
+
+wd:Q10341573 a wd:Q2424752 ;
+    rdfs:label "Orlon"@en .
+
+wd:Q10344327 a wd:Q214609 ;
+    rdfs:label "Gelatin silver paper"@en .
+
+wd:Q10371265 a wd:Q214609 ;
+    rdfs:label "shrilk"@en .
+
+wd:Q10374626 a wd:Q79529 ;
+    rdfs:label "sumatriptan succinate"@en .
+
+wd:Q1038 a wd:Q11344 ;
+    rdfs:label "zirconium"@en .
+
+wd:Q10398126 a wd:Q2424752 ;
+    rdfs:label "Absol"@en .
+
+wd:Q10423587 a wd:Q214609 ;
+    rdfs:label "Avlut"@en .
+
+wd:Q10427619 a wd:Q79529 ;
+    rdfs:label "Q10427619"^^xsd:string .
+
+wd:Q10434632 a wd:Q2424752 ;
+    rdfs:label "Brago"@en .
+
+wd:Q10438612 a wd:Q2424752 ;
+    rdfs:label "Bård"@en .
+
+wd:Q10438906 a wd:Q79529 ;
+    rdfs:label "Q10438906"^^xsd:string .
+
+wd:Q1046 a wd:Q11344 ;
+    rdfs:label "niobium"@en .
+
+wd:Q1046522 a wd:Q79529 ;
+    rdfs:label "Abacavir/lamivudine/zidovudine"@en .
+
+wd:Q10481947 a wd:Q2424752 ;
+    rdfs:label "Q10481947"^^xsd:string .
+
+wd:Q10483771 a wd:Q2424752 ;
+    rdfs:label "Enden"@en .
+
+wd:Q10521987 a wd:Q214609 ;
+    rdfs:label "henna"@en .
+
+wd:Q1053 a wd:Q11344 ;
+    rdfs:label "molybdenum"@en .
+
+wd:Q10532955 a wd:Q2424752 ;
+    rdfs:label "Europa-Profil I"@en .
+
+wd:Q1054 a wd:Q11344,
+        wd:Q79529 ;
+    rdfs:label "technetium"@en .
+
+wd:Q1055000 a wd:Q79529 ;
+    rdfs:label "Ceresin"@en .
+
+wd:Q10562020 a wd:Q2424752 ;
+    rdfs:label "Limex"@en .
+
+wd:Q10573289 a wd:Q2424752 ;
+    rdfs:label "MS-10"@en .
+
+wd:Q10606858 a wd:Q7184903 ;
+    rdfs:label "Odjur"@en .
+
+wd:Q10650865 a wd:Q2424752 ;
+    rdfs:label "Remol"@en .
+
+wd:Q10656116 a wd:Q2424752 ;
+    rdfs:label "robe"@en .
+
+wd:Q10659468 a wd:Q2424752 ;
+    rdfs:label "SB12"@en .
+
+wd:Q10660743 a wd:Q2424752 ;
+    rdfs:label "Salto"@en .
+
+wd:Q10708298 a wd:Q16889133 ;
+    rdfs:label "Not Otherwise Specified"@en .
+
+wd:Q10725050 a wd:Q2424752 ;
+    rdfs:label "Zugol"@en .
+
+wd:Q10741852 a wd:Q79529 ;
+    rdfs:label "ipratropium bromide/salbutamol"@en .
+
+wd:Q1075 a wd:Q214609 ;
+    rdfs:label "color"@en .
+
+wd:Q1086 a wd:Q11344 ;
+    rdfs:label "ruthenium"@en .
+
+wd:Q1087 a wd:Q11344 ;
+    rdfs:label "rhodium"@en .
+
+wd:Q10885857 a wd:Q2424752 ;
+    rdfs:label "Sea-Monkeys"@en .
+
+wd:Q1089 a wd:Q11344 ;
+    rdfs:label "palladium"@en .
+
+wd:Q1090 a wd:Q11344 ;
+    rdfs:label "silver"@en .
+
+wd:Q1091 a wd:Q11344 ;
+    rdfs:label "cadmium"@en .
+
+wd:Q10910389 a wd:Q2424752 ;
+    rdfs:label "Q10910389"^^xsd:string .
+
+wd:Q1094 a wd:Q11344 ;
+    rdfs:label "indium"@en .
+
+wd:Q1096 a wd:Q11344 ;
+    rdfs:label "tin"@en .
+
+wd:Q1098 a wd:Q11344 ;
+    rdfs:label "uranium"@en .
+
+wd:Q1099 a wd:Q11344 ;
+    rdfs:label "antimony"@en .
+
+wd:Q1100 a wd:Q11344 ;
+    rdfs:label "tellurium"@en .
+
+wd:Q1100813 a wd:Q16889133 ;
+    rdfs:label "Hard seat"@en .
+
+wd:Q1102 a wd:Q11344 ;
+    rdfs:label "plutonium"@en .
+
+wd:Q1103 a wd:Q11344 ;
+    rdfs:label "iodine"@en .
+
+wd:Q1105 a wd:Q11344 ;
+    rdfs:label "neptunium"@en .
+
+wd:Q1106 a wd:Q11344 ;
+    rdfs:label "xenon"@en .
+
+wd:Q1108 a wd:Q11344 ;
+    rdfs:label "Caesium"@en .
+
+wd:Q1109 a wd:Q11344 ;
+    rdfs:label "protactinium"@en .
+
+wd:Q1112 a wd:Q11344 ;
+    rdfs:label "barium"@en .
+
+wd:Q1115 a wd:Q11344 ;
+    rdfs:label "thorium"@en .
+
+wd:Q1119 a wd:Q11344 ;
+    rdfs:label "hafnium"@en .
+
+wd:Q11193111 a wd:Q2424752 ;
+    rdfs:label "CD-63"@en .
+
+wd:Q11195305 a wd:Q2424752 ;
+    rdfs:label "D01NX"@en .
+
+wd:Q11195846 a wd:Q2424752 ;
+    rdfs:label "DIGNO"@en .
+
+wd:Q1121 a wd:Q11344 ;
+    rdfs:label "actinium"@en .
+
+wd:Q11221422 a wd:Q2424752 ;
+    rdfs:label "GX700"@en .
+
+wd:Q11228705 a wd:Q2424752 ;
+    rdfs:label "L-03E"@en .
+
+wd:Q11228710 a wd:Q2424752 ;
+    rdfs:label "L-04D"@en .
+
+wd:Q11229867 a wd:Q2424752 ;
+    rdfs:label "Lavca"@en .
+
+wd:Q1123 a wd:Q11344 ;
+    rdfs:label "tantalum"@en .
+
+wd:Q11230702 a wd:Q2424752 ;
+    rdfs:label "M-05"@en .
+
+wd:Q11243770 a wd:Q2424752 ;
+    rdfs:label "SNV"@en .
+
+wd:Q11244274 a wd:Q2424752 ;
+    rdfs:label "SPiDE"@en .
+
+wd:Q11249483 a wd:Q2424752 ;
+    rdfs:label "TL-01"@en .
+
+wd:Q11252023 a wd:Q2424752 ;
+    rdfs:label "UNIHI"@en .
+
+wd:Q11252439 a wd:Q2424752 ;
+    rdfs:label "V55PI"@en .
+
+wd:Q11255708 a wd:Q2424752 ;
+    rdfs:label "ZAXIA"@en .
+
+wd:Q1128 a wd:Q11344 ;
+    rdfs:label "radium"@en .
+
+wd:Q11289368 a wd:Q11344 ;
+    rdfs:label "unsepttrium"@en .
+
+wd:Q11317706 a wd:Q79529 ;
+    rdfs:label "Thialdine"@en .
+
+wd:Q1133 a wd:Q11344 ;
+    rdfs:label "radon"@en .
+
+wd:Q11340457 a wd:Q2424752 ;
+    rdfs:label "McDonald's french fries"@en .
+
+wd:Q11343518 a wd:Q2424752 ;
+    rdfs:label "Mega Mac"@en .
+
+wd:Q1136132 a wd:Q214609 ;
+    rdfs:label "Cosmine"@en .
+
+wd:Q1139 a wd:Q11344 ;
+    rdfs:label "ununennium"@en .
+
+wd:Q1139370 a wd:Q214609 ;
+    rdfs:label "liquid nitrogen"@en .
+
+wd:Q1144687 a wd:Q79529 ;
+    rdfs:label "Fucoidan"@en .
+
+wd:Q1146 a wd:Q11344 ;
+    rdfs:label "unbinilium"@en .
+
+wd:Q11469 a wd:Q214609 ;
+    rdfs:label "glass"@en .
+
+wd:Q11475571 a wd:Q214609 ;
+    rdfs:label "Iwaenogu"@en .
+
+wd:Q11687651 a wd:Q2424752 ;
+    rdfs:label "Becik"@en .
+
+wd:Q11712601 a wd:Q214609 ;
+    rdfs:label "Inlet"@en .
+
+wd:Q11752234 a wd:Q2424752 ;
+    rdfs:label "L-2"@en .
+
+wd:Q11771957 a wd:Q8205328 ;
+    rdfs:label "Mazer"@en .
+
+wd:Q11793323 a wd:Q2424752 ;
+    rdfs:label "Novit"@en .
+
+wd:Q1180147 a wd:Q8205328 ;
+    rdfs:label "Muszuj"@en .
+
+wd:Q11801934 a wd:Q2424752 ;
+    rdfs:label "PORON"@en .
+
+wd:Q11817153 a wd:Q2424752 ;
+    rdfs:label "Pinki"@en .
+
+wd:Q11855643 a wd:Q2424752 ;
+    rdfs:label "D46"@en .
+
+wd:Q1186448 a wd:Q214609 ;
+    rdfs:label "demon core"@en .
+
+wd:Q11871727 a wd:Q2424752 ;
+    rdfs:label "ULA"@en .
+
+wd:Q11874785 a wd:Q2424752 ;
+    rdfs:label "Lasol"@en .
+
+wd:Q11923716 a wd:Q2424752 ;
+    rdfs:label "Birba Biscuits"@en .
+
+wd:Q11950728 a wd:Q2424752 ;
+    rdfs:label "TOLED"@en .
+
+wd:Q1195471 a wd:Q11344 ;
+    rdfs:label "neutronium"@en .
+
+wd:Q11964099 a wd:Q16889133 ;
+    rdfs:label "Corbett"@en .
+
+wd:Q11972429 a wd:Q16889133 ;
+    rdfs:label "Graham"@en .
+
+wd:Q1200992 a wd:Q16889133 ;
+    rdfs:label "abstraction layer"@en .
+
+wd:Q12029485 a wd:Q214609 ;
+    rdfs:label "log"@en .
+
+wd:Q12033022 a wd:Q2424752 ;
+    rdfs:label "Lep"@en .
+
+wd:Q12043446 a wd:Q2424752 ;
+    rdfs:label "PAv"@en .
+
+wd:Q12054558 a wd:Q16889133 ;
+    rdfs:label "Q12054558"^^xsd:string .
+
+wd:Q12147 a wd:Q28877 ;
+    rdfs:label "health"@en .
+
+wd:Q1225698 a wd:Q79529 ;
+    rdfs:label "Fresh frozen plasma"@en .
+
+wd:Q1226 a wd:Q11344 ;
+    rdfs:label "rutherfordium"@en .
+
+wd:Q1227364 a wd:Q2424752 ;
+    rdfs:label "DirXML"@en .
+
+wd:Q1227597 a wd:Q16889133 ;
+    rdfs:label "substantive dye"@en .
+
+wd:Q12302713 a wd:Q2424752 ;
+    rdfs:label "baby oil"@en .
+
+wd:Q1232 a wd:Q11344 ;
+    rdfs:label "dubnium"@en .
+
+wd:Q12321477 a wd:Q2424752 ;
+    rdfs:label "casaque"@en .
+
+wd:Q12329364 a wd:Q2424752 ;
+    rdfs:label "Nupo"@en .
+
+wd:Q12337666 a wd:Q2424752 ;
+    rdfs:label "Sulfo"@en .
+
+wd:Q1234 a wd:Q11344 ;
+    rdfs:label "seaborgium"@en .
+
+wd:Q12341716 a wd:Q7184903 ;
+    rdfs:label "Yooka"@en .
+
+wd:Q12386982 a wd:Q214609 ;
+    rdfs:label "Q12386982"^^xsd:string .
+
+wd:Q12388615 a wd:Q214609 ;
+    rdfs:label "Q12388615"^^xsd:string .
+
+wd:Q12391503 a wd:Q2424752 ;
+    rdfs:label "Lajta"@en .
+
+wd:Q12488383 a wd:Q7184903 ;
+    rdfs:label "content"@en .
+
+wd:Q1249 a wd:Q11344 ;
+    rdfs:label "bohrium"@en .
+
+wd:Q12503357 a wd:Q8205328 ;
+    rdfs:label "Pasak"@en .
+
+wd:Q1252 a wd:Q11344 ;
+    rdfs:label "hassium"@en .
+
+wd:Q12522300 a wd:Q2424752 ;
+    rdfs:label "Trenz"@en .
+
+wd:Q1253986 a wd:Q2424752 ;
+    rdfs:label "SAE800"@en .
+
+wd:Q1255867 a wd:Q2424752 ;
+    rdfs:label "Dratex"@en .
+
+wd:Q1258 a wd:Q11344 ;
+    rdfs:label "meitnerium"@en .
+
+wd:Q1260632 a wd:Q7184903 ;
+    rdfs:label "content"@en .
+
+wd:Q12636668 a wd:Q2424752 ;
+    rdfs:label "Melem"@en .
+
+wd:Q12644643 a wd:Q2424752 ;
+    rdfs:label "Vigor"@en .
+
+wd:Q1266 a wd:Q11344 ;
+    rdfs:label "darmstadtium"@en .
+
+wd:Q12713843 a wd:Q2424752 ;
+    rdfs:label "Bocca"@en .
+
+wd:Q1272 a wd:Q11344 ;
+    rdfs:label "roentgenium"@en .
+
+wd:Q12730133 a wd:Q214609 ;
+    rdfs:label "Hyfil"@en .
+
+wd:Q1273287 a wd:Q2424752 ;
+    rdfs:label "E ware"@en .
+
+wd:Q1275377 a wd:Q2424752 ;
+    rdfs:label "ENTIRE"@en .
+
+wd:Q1278 a wd:Q11344 ;
+    rdfs:label "copernicium"@en .
+
+wd:Q12781591 a wd:Q214609 ;
+    rdfs:label "Šeps"@en .
+
+wd:Q12797896 a wd:Q7184903 ;
+    rdfs:label "frame"@en .
+
+wd:Q12819504 a wd:Q214609 ;
+    rdfs:label "Baxya"@en .
+
+wd:Q12820140 a wd:Q214609 ;
+    rdfs:label "Q12820140"^^xsd:string .
+
+wd:Q12831616 a wd:Q214609 ;
+    rdfs:label "padding"@en .
+
+wd:Q12844423 a wd:Q2424752 ;
+    rdfs:label "Qjel"@en .
+
+wd:Q1301 a wd:Q11344 ;
+    rdfs:label "nihonium"@en .
+
+wd:Q1302 a wd:Q11344 ;
+    rdfs:label "flerovium"@en .
+
+wd:Q1303 a wd:Q11344 ;
+    rdfs:label "moscovium"@en .
+
+wd:Q1304 a wd:Q11344 ;
+    rdfs:label "livermorium"@en .
+
+wd:Q13050295 a wd:Q214609 ;
+    rdfs:label "Tillo"@en .
+
+wd:Q1306 a wd:Q11344 ;
+    rdfs:label "tennessine"@en .
+
+wd:Q1307 a wd:Q11344 ;
+    rdfs:label "oganesson"@en .
+
+wd:Q13173962 a wd:Q2424752 ;
+    rdfs:label "Q13173962"^^xsd:string .
+
+wd:Q1320721 a wd:Q16889133 ;
+    rdfs:label "Munro"@en .
+
+wd:Q133369 a wd:Q79529 ;
+    rdfs:label "Clerici solution"@en .
+
+wd:Q1335161 a wd:Q28877 ;
+    rdfs:label "model car"@en .
+
+wd:Q13425288 a wd:Q2424752 ;
+    rdfs:label "Dasida"@en .
+
+wd:Q134632 a wd:Q2424752 ;
+    rdfs:label "Perfecto"@en .
+
+wd:Q13530468 a wd:Q79529 ;
+    rdfs:label "Ephedra"@en .
+
+wd:Q135888 a wd:Q2424752 ;
+    rdfs:label "Chicken McNuggets"@en .
+
+wd:Q1363009 a wd:Q214609 ;
+    rdfs:label "rammed earth"@en .
+
+wd:Q13641632 a wd:Q214609 ;
+    rdfs:label "Q13641632"^^xsd:string .
+
+wd:Q1366419 a wd:Q11344 ;
+    rdfs:label "untriseptium"@en .
+
+wd:Q13724093 a wd:Q79529 ;
+    rdfs:label "Q13724093"^^xsd:string .
+
+wd:Q13745347 a wd:Q79529 ;
+    rdfs:label "copper gallium chloride"@en .
+
+wd:Q1385 a wd:Q11344 ;
+    rdfs:label "cerium"@en .
+
+wd:Q1386 a wd:Q11344 ;
+    rdfs:label "praseodymium"@en .
+
+wd:Q1386137 a wd:Q15401930 ;
+    rdfs:label "Continuous mandatory ventilation"@en .
+
+wd:Q1388 a wd:Q11344 ;
+    rdfs:label "neodymium"@en .
+
+wd:Q138937 a wd:Q79529 ;
+    rdfs:label "rosin"@en .
+
+wd:Q1393898 a wd:Q2424752 ;
+    rdfs:label "Falbel"@en .
+
+wd:Q1396 a wd:Q11344 ;
+    rdfs:label "europium"@en .
+
+wd:Q1401767 a wd:Q214609 ;
+    rdfs:label "Istrian stone"@en .
+
+wd:Q1402193 a wd:Q214609 ;
+    rdfs:label "Felbel"@en .
+
+wd:Q140795 a wd:Q8205328 ;
+    rdfs:label "Zahlteller"@en .
+
+wd:Q1411852 a wd:Q2424752 ;
+    rdfs:label "Havana Club"@en .
+
+wd:Q1426146 a wd:Q214609 ;
+    rdfs:label "Q1426146"^^xsd:string .
+
+wd:Q14524284 a wd:Q214609 ;
+    rdfs:label "dip pen"@en .
+
+wd:Q146537 a wd:Q79529 ;
+    rdfs:label "urea-formaldehyde"@en .
+
+wd:Q1466 a wd:Q11344 ;
+    rdfs:label "unbiunium"@en .
+
+wd:Q14934005 a wd:Q214609 ;
+    rdfs:label "paperboard"@en .
+
+wd:Q14952 a wd:Q2424752 ;
+    rdfs:label "headgear"@en .
+
+wd:Q1516291 a wd:Q2424752 ;
+    rdfs:label "gift wrapping"@en .
+
+wd:Q152024 a wd:Q2424752 ;
+    rdfs:label "malt"@en .
+
+wd:Q152563 a wd:Q2424752 ;
+    rdfs:label "blouse"@en .
+
+wd:Q1528838 a wd:Q15401930 ;
+    rdfs:label "Abridgement"@en .
+
+wd:Q1531983 a wd:Q2424752 ;
+    rdfs:label "Kool-Aid"@en .
+
+wd:Q1540864 a wd:Q2424752 ;
+    rdfs:label "grave cross"@en .
+
+wd:Q15410179 a wd:Q79529 ;
+    rdfs:label "Tegafur/gimeracil/oteracil"@en .
+
+wd:Q1552955 a wd:Q79529 ;
+    rdfs:label "Guazatine"@en .
+
+wd:Q1561096 a wd:Q2424752 ;
+    rdfs:label "Hotzen"@en .
+
+wd:Q15632783 a wd:Q79529 ;
+    rdfs:label "Pigment Red 104"@en .
+
+wd:Q15632784 a wd:Q79529 ;
+    rdfs:label "Pigment Yellow 34"@en .
+
+wd:Q1566 a wd:Q2424752 ;
+    rdfs:label "tobacco"@en .
+
+wd:Q1566012 a wd:Q2424752 ;
+    rdfs:label "HS 160"@en .
+
+wd:Q1570662 a wd:Q8205328 ;
+    rdfs:label "semi-manufactured material"@en .
+
+wd:Q15708335 a wd:Q79529 ;
+    rdfs:label "tipiracil / Trifluridine"@en .
+
+wd:Q15709155 a wd:Q79529 ;
+    rdfs:label "medical ethanol solution"@en .
+
+wd:Q15712277 a wd:Q79529 ;
+    rdfs:label "Stanene"@en .
+
+wd:Q15724721 a wd:Q79529 ;
+    rdfs:label "Protirelin"@en .
+
+wd:Q15850306 a wd:Q2424752 ;
+    rdfs:label "Q15850306"^^xsd:string .
+
+wd:Q158537 a wd:Q79529 ;
+    rdfs:label "mesamoll"@en .
+
+wd:Q15859694 a wd:Q8205328 ;
+    rdfs:label "Q15859694"^^xsd:string .
+
+wd:Q1587659 a wd:Q79529 ;
+    rdfs:label "Q1587659"^^xsd:string .
+
+wd:Q1587663 a wd:Q214609 ;
+    rdfs:label "hard-paste porcelain"@en .
+
+wd:Q15878776 a wd:Q8205328 ;
+    rdfs:label "Q15878776"^^xsd:string .
+
+wd:Q16001964 a wd:Q214609 ;
+    rdfs:label "Aerographene"@en .
+
+wd:Q160151 a wd:Q7184903 ;
+    rdfs:label "price"@en .
+
+wd:Q16078520 a wd:Q2424752 ;
+    rdfs:label "Acer BYOC"@en .
+
+wd:Q16252338 a wd:Q79529 ;
+    rdfs:label "Insulin degludec"@en .
+
+wd:Q162724 a wd:Q79529 ;
+    rdfs:label "Castoreum"@en .
+
+wd:Q16307164 a wd:Q11344 ;
+    rdfs:label "unseptbium"@en .
+
+wd:Q164789 a wd:Q214609 ;
+    rdfs:label "1000-Stunden-Glas"@en .
+
+wd:Q167732 a wd:Q79529 ;
+    rdfs:label "Fenfluramine/phentermine"@en .
+
+wd:Q16801494 a wd:Q79529 ;
+    rdfs:label "4,4-dimethyloxazolidine"@en .
+
+wd:Q1683580 a wd:Q8205328 ;
+    rdfs:label "Tree shelter"@en .
+
+wd:Q16887380 a wd:Q16889133 ;
+    rdfs:label "group"@en .
+
+wd:Q16887460 a wd:Q214609 ;
+    rdfs:label "Brickbat"@en .
+
+wd:Q16910008 a wd:Q79529 ;
+    rdfs:label "Industrial ethanol"@en .
+
+wd:Q16928226 a wd:Q15401930 ;
+    rdfs:label "automated information system"@en .
+
+wd:Q16938483 a wd:Q79529 ;
+    rdfs:label "xanthoproteic acid"@en .
+
+wd:Q16992915 a wd:Q79529 ;
+    rdfs:label "Ezetimibe/atorvastatin"@en .
+
+wd:Q17019467 a wd:Q16889133 ;
+    rdfs:label "LCC Class M: Music"@en .
+
+wd:Q17074740 a wd:Q79529 ;
+    rdfs:label "Erythromycin/sulfafurazole"@en .
+
+wd:Q17092241 a wd:Q2424752 ;
+    rdfs:label "Icelandic Glacial"@en .
+
+wd:Q17105928 a wd:Q214609 ;
+    rdfs:label "soft-paste porcelain"@en .
+
+wd:Q17125410 a wd:Q79529 ;
+    rdfs:label "Umeclidinium bromide/vilanterol"@en .
+
+wd:Q17127633 a wd:Q79529 ;
+    rdfs:label "Fluticasone furoate/vilanterol"@en .
+
+wd:Q17141444 a wd:Q214609 ;
+    rdfs:label "mixed technique"@en .
+
+wd:Q17143494 a wd:Q79529 ;
+    rdfs:label "CDK inhibitor"@en .
+
+wd:Q17148614 a wd:Q79529 ;
+    rdfs:label "Actoplus Met"@en .
+
+wd:Q17189244 a wd:Q79529 ;
+    rdfs:label "bicyclopropylidene"@en .
+
+wd:Q17189267 a wd:Q79529 ;
+    rdfs:label "quinaldic acid"@en .
+
+wd:Q17189420 a wd:Q79529 ;
+    rdfs:label "lumazine"@en .
+
+wd:Q17190515 a wd:Q79529 ;
+    rdfs:label "O,O-dimethyl dithiophosphate"@en .
+
+wd:Q17190867 a wd:Q79529 ;
+    rdfs:label "parabanic acid"@en .
+
+wd:Q17215447 a wd:Q2424752 ;
+    rdfs:label "PRO TREK"@en .
+
+wd:Q17330081 a wd:Q101843 ;
+    rdfs:label "period 10"@en .
+
+wd:Q17394326 a wd:Q79529 ;
+    rdfs:label "Vantablack"@en .
+
+wd:Q1740342 a wd:Q2424752 ;
+    rdfs:label "Q1740342"^^xsd:string .
+
+wd:Q17496378 a wd:Q2424752 ;
+    rdfs:label "Electrolux Ankarsrum Assistent"@en .
+
+wd:Q177540 a wd:Q79529 ;
+    rdfs:label "paraffin wax"@en .
+
+wd:Q178150 a wd:Q214609 ;
+    rdfs:label "insulator"@en .
+
+wd:Q179254 a wd:Q79529 ;
+    rdfs:label "gelatin"@en .
+
+wd:Q179744 a wd:Q214609 ;
+    rdfs:label "daguerreotype"@en .
+
+wd:Q17987586 a wd:Q8205328 ;
+    rdfs:label "clothes rack"@en .
+
+wd:Q1801 a wd:Q11344,
+        wd:Q79529 ;
+    rdfs:label "lanthanum"@en .
+
+wd:Q1809 a wd:Q11344 ;
+    rdfs:label "promethium"@en .
+
+wd:Q18150157 a wd:Q2424752 ;
+    rdfs:label "FXall"@en .
+
+wd:Q1815078 a wd:Q214609 ;
+    rdfs:label "woodburytype"@en .
+
+wd:Q1819 a wd:Q11344 ;
+    rdfs:label "samarium"@en .
+
+wd:Q18202121 a wd:Q79529 ;
+    rdfs:label "oxomalononitrile"@en .
+
+wd:Q18208897 a wd:Q79529 ;
+    rdfs:label "Abacavir/dolutegravir/lamivudine"@en .
+
+wd:Q1821018 a wd:Q214609 ;
+    rdfs:label "bone black"@en .
+
+wd:Q1832 a wd:Q11344 ;
+    rdfs:label "gadolinium"@en .
+
+wd:Q18341502 a wd:Q16889133 ;
+    rdfs:label "Q18341502"^^xsd:string .
+
+wd:Q18343411 a wd:Q2424752 ;
+    rdfs:label "Kite Mosquito Patch"@en .
+
+wd:Q1838 a wd:Q11344 ;
+    rdfs:label "terbium"@en .
+
+wd:Q18386075 a wd:Q79529 ;
+    rdfs:label "Sucroferric oxyhydroxide"@en .
+
+wd:Q18388737 a wd:Q214609 ;
+    rdfs:label "TetraKO"@en .
+
+wd:Q1840368 a wd:Q16889133 ;
+    rdfs:label "cloud genera"@en .
+
+wd:Q1843 a wd:Q11344 ;
+    rdfs:label "dysprosium"@en .
+
+wd:Q184398 a wd:Q79529 ;
+    rdfs:label "propolis"@en .
+
+wd:Q1846 a wd:Q11344 ;
+    rdfs:label "holmium"@en .
+
+wd:Q18476657 a wd:Q79529 ;
+    rdfs:label "Emtricitabine/rilpivirine/tenofovir"@en .
+
+wd:Q18487018 a wd:Q16889133 ;
+    rdfs:label "missile family"@en .
+
+wd:Q18487055 a wd:Q16889133 ;
+    rdfs:label "missile model"@en .
+
+wd:Q1849 a wd:Q11344 ;
+    rdfs:label "erbium"@en .
+
+wd:Q1850079 a wd:Q79529 ;
+    rdfs:label "polyethylene terephthalate glycol"@en .
+
+wd:Q185009 a wd:Q79529 ;
+    rdfs:label "whey"@en .
+
+wd:Q185082 a wd:Q79529 ;
+    rdfs:label "litmus"@en .
+
+wd:Q18511815 a wd:Q2424752 ;
+    rdfs:label "Amazon Echo"@en .
+
+wd:Q1853 a wd:Q11344 ;
+    rdfs:label "thulium"@en .
+
+wd:Q1855 a wd:Q11344 ;
+    rdfs:label "ytterbium"@en .
+
+wd:Q1857 a wd:Q11344 ;
+    rdfs:label "lutetium"@en .
+
+wd:Q18578732 a wd:Q79529 ;
+    rdfs:label "carboprost tromethamine"@en .
+
+wd:Q18611668 a wd:Q79529 ;
+    rdfs:label "10-undecen-1-ol"@en .
+
+wd:Q1872 a wd:Q11344 ;
+    rdfs:label "americium"@en .
+
+wd:Q1876 a wd:Q11344 ;
+    rdfs:label "curium"@en .
+
+wd:Q1880720 a wd:Q2424752 ;
+    rdfs:label "M-1955"@en .
+
+wd:Q1882 a wd:Q11344 ;
+    rdfs:label "berkelium"@en .
+
+wd:Q18845210 rdfs:label "zinc-54"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845211 rdfs:label "zinc-55"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845212 rdfs:label "zinc-56"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845213 rdfs:label "zinc-57"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845214 rdfs:label "zinc-58"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845215 rdfs:label "zinc-59"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845216 rdfs:label "zinc-60"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845217 rdfs:label "zinc-61"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845218 rdfs:label "zinc-62"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845219 rdfs:label "zinc-63"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845220 rdfs:label "zinc-65"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845221 rdfs:label "zinc-69"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845222 rdfs:label "zinc-71"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845223 rdfs:label "zinc-72"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845224 rdfs:label "zinc-73"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845225 rdfs:label "zinc-74"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845226 rdfs:label "zinc-75"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845227 rdfs:label "zinc-76"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845228 rdfs:label "zinc-77"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845229 rdfs:label "zinc-78"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845230 rdfs:label "zinc-79"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845231 rdfs:label "zinc-80"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845232 rdfs:label "zinc-81"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845233 rdfs:label "zinc-82"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18845234 rdfs:label "zinc-83"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q1888 a wd:Q11344 ;
+    rdfs:label "californium"@en .
+
+wd:Q18880206 rdfs:label "zinc-61m1"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18880212 rdfs:label "zinc-61m2"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18880215 rdfs:label "zinc-61m3"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18880220 rdfs:label "zinc-65m"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18880223 rdfs:label "zinc-69m"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18880228 rdfs:label "zinc-71m"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18880233 rdfs:label "zinc-73m1"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18880237 rdfs:label "zinc-73m2"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18880242 rdfs:label "zinc-77m"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q18880245 rdfs:label "zinc-78m"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q1892 a wd:Q11344 ;
+    rdfs:label "einsteinium"@en .
+
+wd:Q189318 a wd:Q79529 ;
+    rdfs:label "Zementfarbe"@en .
+
+wd:Q1896 a wd:Q11344 ;
+    rdfs:label "fermium"@en .
+
+wd:Q18967198 a wd:Q79529 ;
+    rdfs:label "calcium polyphosphate"@en .
+
+wd:Q1898 a wd:Q11344 ;
+    rdfs:label "mendelevium"@en .
+
+wd:Q1901 a wd:Q11344 ;
+    rdfs:label "nobelium"@en .
+
+wd:Q1905 a wd:Q11344 ;
+    rdfs:label "lawrencium"@en .
+
+wd:Q191326 a wd:Q79529 ;
+    rdfs:label "zeolite Y"@en .
+
+wd:Q191936 a wd:Q101843 ;
+    rdfs:label "period 1"@en .
+
+wd:Q1924102 a wd:Q79529 ;
+    rdfs:label "iron(III) carbonate"@en .
+
+wd:Q1929477 a wd:Q2424752 ;
+    rdfs:label "plug"@en .
+
+wd:Q193521 a wd:Q79529 ;
+    rdfs:label "titanium dioxide"@en .
+
+wd:Q19515368 a wd:Q15401930 ;
+    rdfs:label "dossier"@en .
+
+wd:Q19597261 a wd:Q79529 ;
+    rdfs:label "fulminating gold"@en .
+
+wd:Q19598140 a wd:Q79529 ;
+    rdfs:label "Netupitant/palonosetron"@en .
+
+wd:Q19599218 a wd:Q11344 ;
+    rdfs:label "unhexennium"@en .
+
+wd:Q19609548 a wd:Q214609 ;
+    rdfs:label "Q19609548"^^xsd:string .
+
+wd:Q19610051 a wd:Q8205328 ;
+    rdfs:label "Stephanusa"@en .
+
+wd:Q1964898 a wd:Q79529 ;
+    rdfs:label "naphthenic acid"@en .
+
+wd:Q19703279 a wd:Q2424752 ;
+    rdfs:label "mechanical pulp"@en .
+
+wd:Q19858657 a wd:Q79529 ;
+    rdfs:label "Ombitasvir/paritaprevir/ritonavir"@en .
+
+wd:Q19864811 a wd:Q79529 ;
+    rdfs:label "Empagliflozin/linagliptin"@en .
+
+wd:Q19921817 a wd:Q79529 ;
+    rdfs:label "triaminoguanidine nitrate"@en .
+
+wd:Q201382 a wd:Q79529 ;
+    rdfs:label "turpentine"@en .
+
+wd:Q201703 a wd:Q79529 ;
+    rdfs:label "Sandarac"@en .
+
+wd:Q2020653 a wd:Q2424752 ;
+    rdfs:label "Vetpak"@en .
+
+wd:Q2027966 a wd:Q2424752 ;
+    rdfs:label "Cloud Glass"@en .
+
+wd:Q204902 a wd:Q79529 ;
+    rdfs:label "zinc soap"@en .
+
+wd:Q205145 a wd:Q79529 ;
+    rdfs:label "Neocarzinostatin"@en .
+
+wd:Q20572322 a wd:Q16889133 ;
+    rdfs:label "HuMP"@en .
+
+wd:Q2064483 a wd:Q79529 ;
+    rdfs:label "diiodine"@en .
+
+wd:Q20658199 a wd:Q2424752 ;
+    rdfs:label "Go Lightly"@en .
+
+wd:Q2070245 a wd:Q2424752 ;
+    rdfs:label "Tactel"@en .
+
+wd:Q207712 a wd:Q101843 ;
+    rdfs:label "period 2"@en .
+
+wd:Q2083390 a wd:Q214609 ;
+    rdfs:label "Maki-e"@en .
+
+wd:Q20973563 a wd:Q79529 ;
+    rdfs:label "Ceftazidime/avibactam"@en .
+
+wd:Q21012207 a wd:Q79529 ;
+    rdfs:label "sodium carboxy methyl cellulose"@en .
+
+wd:Q2102184 a wd:Q79529 ;
+    rdfs:label "Bioallethrin"@en .
+
+wd:Q21086803 a wd:Q214609 ;
+    rdfs:label "Q21086803"^^xsd:string .
+
+wd:Q21086850 a wd:Q214609 ;
+    rdfs:label "Q21086850"^^xsd:string .
+
+wd:Q21086851 a wd:Q214609 ;
+    rdfs:label "Q21086851"^^xsd:string .
+
+wd:Q21087162 a wd:Q214609 ;
+    rdfs:label "Q21087162"^^xsd:string .
+
+wd:Q21087322 a wd:Q214609 ;
+    rdfs:label "Q21087322"^^xsd:string .
+
+wd:Q21097956 a wd:Q79529 ;
+    rdfs:label "(-)-thioctic acid"@en .
+
+wd:Q211331 a wd:Q101843 ;
+    rdfs:label "period 3"@en .
+
+wd:Q21175367 a wd:Q79529 ;
+    rdfs:label "Pyrethrum"@en .
+
+wd:Q2122914 a wd:Q7184903 ;
+    rdfs:label "Q2122914"^^xsd:string .
+
+wd:Q21273325 a wd:Q79529 ;
+    rdfs:label "dextroamphetamine saccharate"@en .
+
+wd:Q212894 a wd:Q2424752 ;
+    rdfs:label "snuff"@en .
+
+wd:Q2133737 rdfs:label "zinc-64"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q2139516 a wd:Q16889133 ;
+    rdfs:label "Q2139516"^^xsd:string .
+
+wd:Q215865 a wd:Q79529 ;
+    rdfs:label "nacre"@en .
+
+wd:Q21601419 a wd:Q16889133 ;
+    rdfs:label "FAO risk status"@en .
+
+wd:Q21601948 a wd:Q79529 ;
+    rdfs:label "Q-carbon"@en .
+
+wd:Q21778954 a wd:Q214609 ;
+    rdfs:label "Q21778954"^^xsd:string .
+
+wd:Q21873060 a wd:Q7184903 ;
+    rdfs:label "Säuleck"@en .
+
+wd:Q218774 a wd:Q8205328 ;
+    rdfs:label "Zollschnur"@en .
+
+wd:Q2191594 a wd:Q2424752 ;
+    rdfs:label "CALBOX"@en .
+
+wd:Q22029959 a wd:Q79529 ;
+    rdfs:label "vinyl-substituted furan"@en .
+
+wd:Q22082940 a wd:Q79529 ;
+    rdfs:label "CDP-diacyl glycerol"@en .
+
+wd:Q22083259 a wd:Q79529 ;
+    rdfs:label "1,2-diacyl-sn-glycero-3-phosphoethanolamine"@en .
+
+wd:Q22162855 a wd:Q79529 ;
+    rdfs:label "alpha-Bourbonene"@en .
+
+wd:Q22222760 a wd:Q2424752 ;
+    rdfs:label "Q22222760"^^xsd:string .
+
+wd:Q2227780 a wd:Q214609 ;
+    rdfs:label "computronium"@en .
+
+wd:Q22313918 a wd:Q11344 ;
+    rdfs:label "unpentquadium"@en .
+
+wd:Q22314315 a wd:Q11344 ;
+    rdfs:label "unpentpentium"@en .
+
+wd:Q2234721 a wd:Q16889133 ;
+    rdfs:label "Q2234721"^^xsd:string .
+
+wd:Q22569524 a wd:Q16889133 ;
+    rdfs:label "Graham"@en .
+
+wd:Q22569536 a wd:Q16889133 ;
+    rdfs:label "Murdo"@en .
+
+wd:Q2258151 a wd:Q214609 ;
+    rdfs:label "Q2258151"^^xsd:string .
+
+wd:Q22656 a wd:Q2424752 ;
+    rdfs:label "petroleum"@en .
+
+wd:Q22668726 a wd:Q79529 ;
+    rdfs:label "lipegfilgrastim"@en .
+
+wd:Q22815098 a wd:Q2424752 ;
+    rdfs:label "Magic: The Gathering set"@en .
+
+wd:Q228179 a wd:Q79529 ;
+    rdfs:label "Zufallslaser"@en .
+
+wd:Q2284519 rdfs:label "zinc-70"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q22907398 a wd:Q2424752 ;
+    rdfs:label "Commodity status of animals"@en .
+
+wd:Q22917358 a wd:Q79529 ;
+    rdfs:label "isooctene"@en .
+
+wd:Q229475 a wd:Q2424752 ;
+    rdfs:label "3Mix"@en .
+
+wd:Q2297518 a wd:Q79529 ;
+    rdfs:label "schweinfurthin"@en .
+
+wd:Q22980233 a wd:Q15401930 ;
+    rdfs:label "virtual reality headset"@en .
+
+wd:Q2306698 a wd:Q2424752 ;
+    rdfs:label "Desso GrassMaster"@en .
+
+wd:Q2309999 a wd:Q79529 ;
+    rdfs:label "Q2309999"^^xsd:string .
+
+wd:Q2310378 a wd:Q79529 ;
+    rdfs:label "Horse fat"@en .
+
+wd:Q2311684 a wd:Q2424752 ;
+    rdfs:label "Q2311684"^^xsd:string .
+
+wd:Q231458 a wd:Q79529 ;
+    rdfs:label "palm oil"@en .
+
+wd:Q23308960 a wd:Q79529 ;
+    rdfs:label "lead(II) bisulfate"@en .
+
+wd:Q233294 a wd:Q101843 ;
+    rdfs:label "Second modernity"@en .
+
+wd:Q2362625 a wd:Q79529 ;
+    rdfs:label "formalin"@en .
+
+wd:Q23661325 a wd:Q79529 ;
+    rdfs:label "Lumacaftor/ivacaftor"@en .
+
+wd:Q23716632 a wd:Q2424752 ;
+    rdfs:label "Indonesia Digital HOME"@en .
+
+wd:Q2383050 a wd:Q2424752 ;
+    rdfs:label "T-ISDN"@en .
+
+wd:Q239813 a wd:Q101843 ;
+    rdfs:label "period 6"@en .
+
+wd:Q2399140 a wd:Q11344 ;
+    rdfs:label "unquadennium"@en .
+
+wd:Q24041680 a wd:Q214609 ;
+    rdfs:label "Q24041680"^^xsd:string .
+
+wd:Q2412859 a wd:Q79529 ;
+    rdfs:label "Tenofovir/emtricitabine"@en .
+
+wd:Q241595 a wd:Q79529 ;
+    rdfs:label "lecithin"@en .
+
+wd:Q2423143 rdfs:label "zinc-67"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q244680 a wd:Q214609 ;
+    rdfs:label "latex"@en .
+
+wd:Q244979 a wd:Q101843 ;
+    rdfs:label "period 7"@en .
+
+wd:Q244982 a wd:Q101843 ;
+    rdfs:label "period 5"@en .
+
+wd:Q248262 a wd:Q79529 ;
+    rdfs:label "Ignition means"@en .
+
+wd:Q248312 a wd:Q79529 ;
+    rdfs:label "Zündstein"@en .
+
+wd:Q24894808 a wd:Q79529 ;
+    rdfs:label "Liraglutide/insulin degludek"@en .
+
+wd:Q25048068 a wd:Q79529 ;
+    rdfs:label "Buprenorphine/naloxone"@en .
+
+wd:Q25098930 a wd:Q79529 ;
+    rdfs:label "Aclidinium/formoterol"@en .
+
+wd:Q25110523 a wd:Q79529 ;
+    rdfs:label "velpatasvir/sofosbuvir"@en .
+
+wd:Q2514428 a wd:Q214609 ;
+    rdfs:label "Q2514428"^^xsd:string .
+
+wd:Q2526002 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class D, subclass DH -- History of the Low Countries and Benelux"@en .
+
+wd:Q25326955 a wd:Q79529 ;
+    rdfs:label "ceria-zirconia"@en .
+
+wd:Q2536409 a wd:Q16889133 ;
+    rdfs:label "IBA Official Cocktail"@en .
+
+wd:Q25406657 a wd:Q2424752 ;
+    rdfs:label "Font Vella Levite"@en .
+
+wd:Q2593067 a wd:Q2424752 ;
+    rdfs:label "Amazon S3"@en .
+
+wd:Q2597849 a wd:Q2424752 ;
+    rdfs:label "xaxim"@en .
+
+wd:Q265878 a wd:Q79529 ;
+    rdfs:label "peanut oil"@en .
+
+wd:Q26709961 a wd:Q16889133 ;
+    rdfs:label "Tump"@en .
+
+wd:Q26709966 a wd:Q16889133 ;
+    rdfs:label "Simm"@en .
+
+wd:Q26709969 a wd:Q16889133 ;
+    rdfs:label "Graham"@en .
+
+wd:Q26709973 a wd:Q16889133 ;
+    rdfs:label "Donald"@en .
+
+wd:Q26710654 a wd:Q16889133 ;
+    rdfs:label "Highland Five"@en .
+
+wd:Q26710662 a wd:Q16889133 ;
+    rdfs:label "Donald Dewey"@en .
+
+wd:Q26711849 a wd:Q16889133 ;
+    rdfs:label "Munro Top"@en .
+
+wd:Q26711856 a wd:Q16889133 ;
+    rdfs:label "Furth"@en .
+
+wd:Q2681712 a wd:Q7184903 ;
+    rdfs:label "Gusty"@en .
+
+wd:Q2685750 a wd:Q2512777 ;
+    rdfs:label "dibromine"@en .
+
+wd:Q2705946 a wd:Q2424752 ;
+    rdfs:label "Filet-O-Fish"@en .
+
+wd:Q27077247 a wd:Q79529 ;
+    rdfs:label "chloroprene rubber"@en .
+
+wd:Q27156132 a wd:Q79529 ;
+    rdfs:label "diminazene diaceturate"@en .
+
+wd:Q27206 a wd:Q2424752 ;
+    rdfs:label "hood"@en .
+
+wd:Q27264049 a wd:Q79529 ;
+    rdfs:label "urazamide"@en .
+
+wd:Q27275499 a wd:Q79529 ;
+    rdfs:label "silver citrate hydrate"@en .
+
+wd:Q27281516 a wd:Q79529 ;
+    rdfs:label "diminazene aceturate"@en .
+
+wd:Q272983 a wd:Q79529 ;
+    rdfs:label "green fluorescent protein"@en .
+
+wd:Q2736577 a wd:Q2424752 ;
+    rdfs:label "Q2736577"^^xsd:string .
+
+wd:Q27430123 a wd:Q79529 ;
+    rdfs:label "Ferumoxytol"@en .
+
+wd:Q2788153 a wd:Q79529 ;
+    rdfs:label "Demeton"@en .
+
+wd:Q27907779 a wd:Q2424752 ;
+    rdfs:label "Lanjarón"@en .
+
+wd:Q27910073 a wd:Q2424752 ;
+    rdfs:label "Danonino"@en .
+
+wd:Q280159 a wd:Q79529 ;
+    rdfs:label "tall oil"@en .
+
+wd:Q28134977 a wd:Q2424752 ;
+    rdfs:label "ContraPest"@en .
+
+wd:Q2815763 a wd:Q2424752 ;
+    rdfs:label "29erXS"@en .
+
+wd:Q2835646 a wd:Q214609 ;
+    rdfs:label "Alfenide"@en .
+
+wd:Q28456311 a wd:Q214609 ;
+    rdfs:label "explosive antimony"@en .
+
+wd:Q28530079 a wd:Q5127848 ;
+    rdfs:label "observable universe"@en .
+
+wd:Q285562 a wd:Q16889133 ;
+    rdfs:label "Marilyn"@en .
+
+wd:Q28657989 a wd:Q2424752 ;
+    rdfs:label "heat-not-burn product"@en .
+
+wd:Q2869808 a wd:Q79529 ;
+    rdfs:label "Emtricitabine/tenofovir/efavirenz"@en .
+
+wd:Q28719795 a wd:Q79529 ;
+    rdfs:label "disodium helide"@en .
+
+wd:Q2883496 a wd:Q214609 ;
+    rdfs:label "Q2883496"^^xsd:string .
+
+wd:Q28852345 a wd:Q79529 ;
+    rdfs:label "autologous cultured chondrocytes"@en .
+
+wd:Q28852421 a wd:Q79529 ;
+    rdfs:label "fibrinogen human"@en .
+
+wd:Q28852424 a wd:Q79529 ;
+    rdfs:label "human immunoglobulin g"@en .
+
+wd:Q28852429 a wd:Q79529 ;
+    rdfs:label "efmoroctocog alfa"@en .
+
+wd:Q28852434 a wd:Q79529 ;
+    rdfs:label "coagulation factor ix recombinant human"@en .
+
+wd:Q28852443 a wd:Q79529 ;
+    rdfs:label "epoetin theta"@en .
+
+wd:Q28856101 a wd:Q79529 ;
+    rdfs:label "canagliflozin / metformin hydrochloride"@en .
+
+wd:Q28856135 a wd:Q79529 ;
+    rdfs:label "dapagliflozin / metformin"@en .
+
+wd:Q28856155 a wd:Q79529 ;
+    rdfs:label "eftrenonacog alfa"@en .
+
+wd:Q28856418 a wd:Q79529 ;
+    rdfs:label "rosiglitazone / metformin"@en .
+
+wd:Q28859529 a wd:Q79529 ;
+    rdfs:label "memantine / donepezil"@en .
+
+wd:Q28859576 a wd:Q79529 ;
+    rdfs:label "ketorolac / phenylephrine"@en .
+
+wd:Q28859577 a wd:Q79529 ;
+    rdfs:label "nomegestrol acetate / estradiol"@en .
+
+wd:Q28859597 a wd:Q79529 ;
+    rdfs:label "alogliptin / metformin"@en .
+
+wd:Q28859598 a wd:Q79529 ;
+    rdfs:label "linagliptin / metformin"@en .
+
+wd:Q28859599 a wd:Q79529 ;
+    rdfs:label "empagliflozin / metformin"@en .
+
+wd:Q28859600 a wd:Q79529 ;
+    rdfs:label "ceftolozane / tazobactam"@en .
+
+wd:Q28859601 a wd:Q79529 ;
+    rdfs:label "alendronate sodium trihydrate / colecalciferol"@en .
+
+wd:Q28859602 a wd:Q79529 ;
+    rdfs:label "clopidogrel / acetylsalicylic acid"@en .
+
+wd:Q28859603 a wd:Q79529 ;
+    rdfs:label "alendronic acid / colecalciferol"@en .
+
+wd:Q28859604 a wd:Q79529 ;
+    rdfs:label "vildagliptin / metformin"@en .
+
+wd:Q28859605 a wd:Q79529 ;
+    rdfs:label "budesonide / salmeterol"@en .
+
+wd:Q28859607 a wd:Q79529 ;
+    rdfs:label "irbesartan / hydrochlorothiazide"@en .
+
+wd:Q28859608 a wd:Q79529 ;
+    rdfs:label "norelgestromin / ethinyl estradiol"@en .
+
+wd:Q28859611 a wd:Q79529 ;
+    rdfs:label "desloratadine / pseudophedrine sulphate"@en .
+
+wd:Q28859612 a wd:Q79529 ;
+    rdfs:label "emtricitabine / rilpivirine / tenofovir alafenamide"@en .
+
+wd:Q28859613 a wd:Q79529 ;
+    rdfs:label "follitropin alfa / lutropin alfa"@en .
+
+wd:Q28859614 a wd:Q79529 ;
+    rdfs:label "atazanavir / cobicistat"@en .
+
+wd:Q28859615 a wd:Q79529 ;
+    rdfs:label "fenofibrate / simvastatin"@en .
+
+wd:Q28859617 a wd:Q79529 ;
+    rdfs:label "laropiprant / nicotinic acid"@en .
+
+wd:Q28859618 a wd:Q79529 ;
+    rdfs:label "rosiglitazone / glimepiride"@en .
+
+wd:Q28859619 a wd:Q79529 ;
+    rdfs:label "brinzolamide / timolol"@en .
+
+wd:Q28859621 a wd:Q79529 ;
+    rdfs:label "brinzolamide / brimonidine tartrate"@en .
+
+wd:Q28859622 a wd:Q79529 ;
+    rdfs:label "darunavir / cobicistat"@en .
+
+wd:Q28859623 a wd:Q79529 ;
+    rdfs:label "emtricitabine / tenofovir alafenamide"@en .
+
+wd:Q28859624 a wd:Q79529 ;
+    rdfs:label "metformin / saxagliptin"@en .
+
+wd:Q28859628 a wd:Q79529 ;
+    rdfs:label "bimatoprost / timolol"@en .
+
+wd:Q28859630 a wd:Q79529 ;
+    rdfs:label "fluticasone furoate / vilanterol trifenatate"@en .
+
+wd:Q28859632 a wd:Q79529 ;
+    rdfs:label "fenofibrate / pravastatin"@en .
+
+wd:Q28859633 a wd:Q79529 ;
+    rdfs:label "pioglitazone / glimepiride"@en .
+
+wd:Q28859634 a wd:Q79529 ;
+    rdfs:label "amlodipine / valsartan / hydrochlorothiazide"@en .
+
+wd:Q28859635 a wd:Q79529 ;
+    rdfs:label "travoprost / timolol"@en .
+
+wd:Q28859636 a wd:Q79529 ;
+    rdfs:label "alogliptin / pioglitazone"@en .
+
+wd:Q28859653 a wd:Q79529 ;
+    rdfs:label "lamivudine / raltegravir"@en .
+
+wd:Q28859656 a wd:Q79529 ;
+    rdfs:label "elvitegravir / cobicistat / emtricitabine / tenofovir alafenamide"@en .
+
+wd:Q28859657 a wd:Q79529 ;
+    rdfs:label "aliskiren / hydrochlorothiazide"@en .
+
+wd:Q28859658 a wd:Q79529 ;
+    rdfs:label "insulin aspart / insulin degludec"@en .
+
+wd:Q28859659 a wd:Q79529 ;
+    rdfs:label "telmisartan / amlodipine"@en .
+
+wd:Q28859737 a wd:Q79529 ;
+    rdfs:label "japanese encephalitis virus strain sa 14-14-2 antigen (formaldehyde inactivated)"@en .
+
+wd:Q28859738 a wd:Q79529 ;
+    rdfs:label "hepatitis b virus hbsag surface protein antigen"@en .
+
+wd:Q28859739 a wd:Q79529 ;
+    rdfs:label "coagulation factor ix human"@en .
+
+wd:Q28859741 a wd:Q79529 ;
+    rdfs:label "varicella-zoster virus strain oka/merck live antigen"@en .
+
+wd:Q28859742 a wd:Q79529 ;
+    rdfs:label "albutrepenonacog alfa"@en .
+
+wd:Q2901318 a wd:Q16889133 ;
+    rdfs:label "mine roller"@en .
+
+wd:Q291202 a wd:Q15401930 ;
+    rdfs:label "stereotype"@en .
+
+wd:Q2920739 a wd:Q79529 ;
+    rdfs:label "Ringer's lactate solution"@en .
+
+wd:Q2933666 a wd:Q214609 ;
+    rdfs:label "Calcin"@en .
+
+wd:Q295074 a wd:Q16889133 ;
+    rdfs:label "AMD Sempron"@en .
+
+wd:Q2957662 a wd:Q79529 ;
+    rdfs:label "activated charcoal"@en .
+
+wd:Q296919 a wd:Q16889133 ;
+    rdfs:label "ARTIS"@en .
+
+wd:Q300938 a wd:Q2424752 ;
+    rdfs:label "Aalschnur"@en .
+
+wd:Q3009548 a wd:Q2424752 ;
+    rdfs:label "remembrance poppy"@en .
+
+wd:Q3013458 a wd:Q2424752 ;
+    rdfs:label "Danette"@en .
+
+wd:Q3029913 a wd:Q11344 ;
+    rdfs:label "unquadnilium"@en .
+
+wd:Q30314388 a wd:Q79529 ;
+    rdfs:label "scillitoxin"@en .
+
+wd:Q3037385 a wd:Q2424752 ;
+    rdfs:label "Dothan"@en .
+
+wd:Q3047374 a wd:Q2424752 ;
+    rdfs:label "Edel 3"@en .
+
+wd:Q30541708 a wd:Q2424752 ;
+    rdfs:label "GeoIP"@en .
+
+wd:Q305580 a wd:Q28877 ;
+    rdfs:label "Abarta"@en .
+
+wd:Q30688663 a wd:Q214609 ;
+    rdfs:label "Mondotrack"@en .
+
+wd:Q308976 a wd:Q79529 ;
+    rdfs:label "silica gel"@en .
+
+wd:Q30929350 a wd:Q11344 ;
+    rdfs:label "unhexquadium"@en .
+
+wd:Q3156409 a wd:Q2424752 ;
+    rdfs:label "Iwaver"@en .
+
+wd:Q31834028 a wd:Q5127848 ;
+    rdfs:label "confidence value"@en .
+
+wd:Q3192874 a wd:Q214609 ;
+    rdfs:label "Kapton"@en .
+
+wd:Q319936 a wd:Q79529 ;
+    rdfs:label "waste product"@en .
+
+wd:Q3216987 a wd:Q214609 ;
+    rdfs:label "Q3216987"^^xsd:string .
+
+wd:Q3272718 a wd:Q2424752 ;
+    rdfs:label "MAS 45"@en .
+
+wd:Q331490 a wd:Q2424752 ;
+    rdfs:label "Abroadband"@en .
+
+wd:Q3331795 a wd:Q214609 ;
+    rdfs:label "Q3331795"^^xsd:string .
+
+wd:Q3332002 a wd:Q214609 ;
+    rdfs:label "Clinker"@en .
+
+wd:Q3358043 a wd:Q2424752 ;
+    rdfs:label "Hardtop"@en .
+
+wd:Q3359786 a wd:Q79529 ;
+    rdfs:label "Q3359786"^^xsd:string .
+
+wd:Q3378713 a wd:Q79529 ;
+    rdfs:label "Phentermine/topiramate"@en .
+
+wd:Q3388051 a wd:Q214609 ;
+    rdfs:label "Pietra serina"@en .
+
+wd:Q3398130 a wd:Q214609 ;
+    rdfs:label "cold porcelain"@en .
+
+wd:Q340032 a wd:Q79529 ;
+    rdfs:label "mumia"@en .
+
+wd:Q340069 a wd:Q8205328 ;
+    rdfs:label "Gigantes y cabezudos"@en .
+
+wd:Q343276 a wd:Q2424752 ;
+    rdfs:label "Actimel"@en .
+
+wd:Q3479994 a wd:Q79529 ;
+    rdfs:label "sertaconazole"@en .
+
+wd:Q3487500 a wd:Q2424752 ;
+    rdfs:label "BioSteel"@en .
+
+wd:Q3511125 a wd:Q79529 ;
+    rdfs:label "seraticin"@en .
+
+wd:Q3514548 a wd:Q79529 ;
+    rdfs:label "sodium tallowate"@en .
+
+wd:Q3518543 a wd:Q214609 ;
+    rdfs:label "Q3518543"^^xsd:string .
+
+wd:Q3551918 a wd:Q11344 ;
+    rdfs:label "unpentbium"@en .
+
+wd:Q3551919 a wd:Q11344 ;
+    rdfs:label "unpentnilium"@en .
+
+wd:Q3551921 a wd:Q11344 ;
+    rdfs:label "unpentunium"@en .
+
+wd:Q3551924 a wd:Q11344 ;
+    rdfs:label "unpenttrium"@en .
+
+wd:Q3551926 a wd:Q11344 ;
+    rdfs:label "unquadhexium"@en .
+
+wd:Q3551927 a wd:Q11344 ;
+    rdfs:label "unquadbium"@en .
+
+wd:Q3551928 a wd:Q11344 ;
+    rdfs:label "unquadoctium"@en .
+
+wd:Q3551929 a wd:Q11344 ;
+    rdfs:label "unquadseptium"@en .
+
+wd:Q3551930 a wd:Q11344 ;
+    rdfs:label "unquadpentium"@en .
+
+wd:Q3551931 a wd:Q11344 ;
+    rdfs:label "unquadquadium"@en .
+
+wd:Q3551933 a wd:Q11344 ;
+    rdfs:label "unquadtrium"@en .
+
+wd:Q3551935 a wd:Q11344 ;
+    rdfs:label "unquadunium"@en .
+
+wd:Q3552038 a wd:Q11344 ;
+    rdfs:label "untripentium"@en .
+
+wd:Q3552040 a wd:Q11344 ;
+    rdfs:label "untriquadium"@en .
+
+wd:Q3552041 a wd:Q11344 ;
+    rdfs:label "untritrium"@en .
+
+wd:Q3570411 a wd:Q214609 ;
+    rdfs:label "XMC"@en .
+
+wd:Q3570440 a wd:Q2424752 ;
+    rdfs:label "XT(2)+"@en .
+
+wd:Q3571727 a wd:Q214609 ;
+    rdfs:label "muck"@en .
+
+wd:Q3604635 a wd:Q79529 ;
+    rdfs:label "chlorine solution"@en .
+
+wd:Q3613477 a wd:Q2424752 ;
+    rdfs:label "Alviso"@en .
+
+wd:Q3620771 a wd:Q8205328 ;
+    rdfs:label "Apoti"@en .
+
+wd:Q3621824 a wd:Q214609 ;
+    rdfs:label "Q3621824"^^xsd:string .
+
+wd:Q365651 a wd:Q214609 ;
+    rdfs:label "Sheet moulding compound"@en .
+
+wd:Q3667193 a wd:Q214609 ;
+    rdfs:label "cheremulite"@en .
+
+wd:Q36906466 a wd:Q5127848 ;
+    rdfs:label "universe"@en .
+
+wd:Q36940 a wd:Q2424752 ;
+    rdfs:label "sugarcane"@en .
+
+wd:Q369682 a wd:Q79529 ;
+    rdfs:label "Spermaceti"@en .
+
+wd:Q3701308 a wd:Q2424752 ;
+    rdfs:label "Dammar"@en .
+
+wd:Q37111097 a wd:Q79529 ;
+    rdfs:label "NM-100"@en .
+
+wd:Q372532 a wd:Q214609 ;
+    rdfs:label "cyanotype"@en .
+
+wd:Q3738063 a wd:Q8205328 ;
+    rdfs:label "International Prototype of the Kilogram"@en .
+
+wd:Q3774812 a wd:Q214609 ;
+    rdfs:label "Vicryl"@en .
+
+wd:Q378619 a wd:Q8205328 ;
+    rdfs:label "CC"@en .
+
+wd:Q3811351 a wd:Q2424752 ;
+    rdfs:label "Q3811351"^^xsd:string .
+
+wd:Q3827311 a wd:Q214609 ;
+    rdfs:label "Q3827311"^^xsd:string .
+
+wd:Q382915 a wd:Q16889133 ;
+    rdfs:label "Discoverer"@en .
+
+wd:Q3836750 a wd:Q79529 ;
+    rdfs:label "Lopinavir/ritonavir"@en .
+
+wd:Q3854693 a wd:Q2424752 ;
+    rdfs:label "Menlow"@en .
+
+wd:Q3860889 a wd:Q2424752 ;
+    rdfs:label "Monk's"@en .
+
+wd:Q3933203 a wd:Q2424752 ;
+    rdfs:label "Repond"@en .
+
+wd:Q3976820 a wd:Q79529 ;
+    rdfs:label "Technetium (99mTc) sulesomab"@en .
+
+wd:Q3982532 a wd:Q2424752 ;
+    rdfs:label "Tedlar"@en .
+
+wd:Q4010555 a wd:Q2424752 ;
+    rdfs:label "ViP750"@en .
+
+wd:Q4019783 a wd:Q79529 ;
+    rdfs:label "Lidocaine/prilocaine"@en .
+
+wd:Q4021706 a wd:Q2424752 ;
+    rdfs:label "Xan"@en .
+
+wd:Q4024463 rdfs:label "native zinc"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q4029127 a wd:Q2424752 ;
+    rdfs:label "16К20"@en .
+
+wd:Q4037631 a wd:Q214609 ;
+    rdfs:label "Q4037631"^^xsd:string .
+
+wd:Q4046116 rdfs:label "zinc-66"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q405357 a wd:Q79529 ;
+    rdfs:label "apiol"@en .
+
+wd:Q407879 a wd:Q214609 ;
+    rdfs:label "lead(II) oxide"@en .
+
+wd:Q410768 a wd:Q79529 ;
+    rdfs:label "Xanthan gum"@en .
+
+wd:Q41086347 a wd:Q214609 ;
+    rdfs:label "Q41086347"^^xsd:string .
+
+wd:Q4115062 a wd:Q2424752 ;
+    rdfs:label "Twaron"@en .
+
+wd:Q4133090 a wd:Q79529 ;
+    rdfs:label "Pharmaceutical preparation of gamma-Aminobutyric acid"@en .
+
+wd:Q413616 a wd:Q79529 ;
+    rdfs:label "Polysorbate 20"@en .
+
+wd:Q413995 a wd:Q79529 ;
+    rdfs:label "aniline black"@en .
+
+wd:Q414562 a wd:Q79529 ;
+    rdfs:label "resmethrin"@en .
+
+wd:Q41560840 a wd:Q8205328 ;
+    rdfs:label "Q41560840"^^xsd:string .
+
+wd:Q41560843 a wd:Q8205328 ;
+    rdfs:label "Q41560843"^^xsd:string .
+
+wd:Q41560845 a wd:Q8205328 ;
+    rdfs:label "Q41560845"^^xsd:string .
+
+wd:Q41560847 a wd:Q8205328 ;
+    rdfs:label "Q41560847"^^xsd:string .
+
+wd:Q41560848 a wd:Q8205328 ;
+    rdfs:label "Q41560848"^^xsd:string .
+
+wd:Q417157 a wd:Q79529 ;
+    rdfs:label "toxaphene"@en .
+
+wd:Q417718 a wd:Q79529 ;
+    rdfs:label "Indium tin oxide"@en .
+
+wd:Q41835868 a wd:Q79529 ;
+    rdfs:label "titanium dioxide nanoparticle"@en .
+
+wd:Q418970 a wd:Q79529 ;
+    rdfs:label "reboxetine"@en .
+
+wd:Q4195174 a wd:Q2424752 ;
+    rdfs:label "ИП-5"@en .
+
+wd:Q4205882 a wd:Q79529 ;
+    rdfs:label "pharmaceutical preparation of potassium iodide"@en .
+
+wd:Q420857 a wd:Q79529 ;
+    rdfs:label "sugammadex sodium"@en .
+
+wd:Q42168353 a wd:Q79529 ;
+    rdfs:label "Q42168353"^^xsd:string .
+
+wd:Q422071 a wd:Q79529 ;
+    rdfs:label "Guar gum"@en .
+
+wd:Q42314051 a wd:Q5127848 ;
+    rdfs:label "ammunition family"@en .
+
+wd:Q423227 a wd:Q79529 ;
+    rdfs:label "D-gulose"@en .
+
+wd:Q423412 a wd:Q79529 ;
+    rdfs:label "Pristinamycin"@en .
+
+wd:Q423741 a wd:Q79529 ;
+    rdfs:label "procaine"@en .
+
+wd:Q424057 a wd:Q79529 ;
+    rdfs:label "Sipuleucel-T"@en .
+
+wd:Q424556 a wd:Q79529 ;
+    rdfs:label "Allomone"@en .
+
+wd:Q426095 a wd:Q79529 ;
+    rdfs:label "phosphatidylethanolamines"@en .
+
+wd:Q4261107 a wd:Q2424752 ;
+    rdfs:label "Intelligent Parking Assist System"@en .
+
+wd:Q4274125 a wd:Q79529 ;
+    rdfs:label "Pharmaceutical preparation of magnesium carbonate"@en .
+
+wd:Q42848 a wd:Q7184903 ;
+    rdfs:label "data"@en .
+
+wd:Q428629 a wd:Q11344 ;
+    rdfs:label "untriunium"@en .
+
+wd:Q428635 a wd:Q11344 ;
+    rdfs:label "untribium"@en .
+
+wd:Q428640 a wd:Q11344 ;
+    rdfs:label "unbiennium"@en .
+
+wd:Q428648 a wd:Q11344 ;
+    rdfs:label "untrinilium"@en .
+
+wd:Q428685 a wd:Q11344 ;
+    rdfs:label "unbipentium"@en .
+
+wd:Q428692 a wd:Q11344 ;
+    rdfs:label "unbiseptium"@en .
+
+wd:Q428703 a wd:Q11344 ;
+    rdfs:label "unbioctium"@en .
+
+wd:Q428741 a wd:Q11344 ;
+    rdfs:label "unbiquadium"@en .
+
+wd:Q428758 a wd:Q11344 ;
+    rdfs:label "unbitrium"@en .
+
+wd:Q428818 a wd:Q101843 ;
+    rdfs:label "period 8"@en .
+
+wd:Q43150 a wd:Q2424752 ;
+    rdfs:label ".pk"@en .
+
+wd:Q4345935 a wd:Q79529 ;
+    rdfs:label "Hydrolyzed protein"@en .
+
+wd:Q43528544 a wd:Q2424752 ;
+    rdfs:label "Q43528544"^^xsd:string .
+
+wd:Q43528791 a wd:Q2424752 ;
+    rdfs:label "Q43528791"^^xsd:string .
+
+wd:Q4369087 a wd:Q16889133 ;
+    rdfs:label "jet fighter generation"@en .
+
+wd:Q4410572 a wd:Q214609 ;
+    rdfs:label "Q4410572"^^xsd:string .
+
+wd:Q441961 a wd:Q214609 ;
+    rdfs:label "BoPET"@en .
+
+wd:Q4437984 a wd:Q79529 ;
+    rdfs:label "continuous medium"@en .
+
+wd:Q4454244 a wd:Q79529 ;
+    rdfs:label "tellurophene"@en .
+
+wd:Q4457004 a wd:Q79529 ;
+    rdfs:label "pharmaceutical preparation of thyamine"@en .
+
+wd:Q445722 a wd:Q79529 ;
+    rdfs:label "Altstoff"@en .
+
+wd:Q4498216 a wd:Q79529 ;
+    rdfs:label "Pharmaceutical preparation od calcium chloride"@en .
+
+wd:Q4506510 a wd:Q2424752 ;
+    rdfs:label "Ч3-33"@en .
+
+wd:Q45242174 a wd:Q16889133 ;
+    rdfs:label "gazetted locality of Victoria"@en .
+
+wd:Q4548761 a wd:Q16889133 ;
+    rdfs:label "12ft Skiff"@en .
+
+wd:Q4573133 a wd:Q16889133 ;
+    rdfs:label "Donald Top"@en .
+
+wd:Q457556 a wd:Q79529 ;
+    rdfs:label "red phosphorus"@en .
+
+wd:Q4634305 a wd:Q2424752 ;
+    rdfs:label "300B"@en .
+
+wd:Q4673254 a wd:Q79529 ;
+    rdfs:label "Acetic acid/hydrocortisone"@en .
+
+wd:Q4673296 a wd:Q79529 ;
+    rdfs:label "acetylated lanolin alcohol"@en .
+
+wd:Q47004220 a wd:Q79529 ;
+    rdfs:label "silicocarnotite"@en .
+
+wd:Q4726988 a wd:Q79529 ;
+    rdfs:label "Aliskiren/amlodipine/hydrochlorothiazide"@en .
+
+wd:Q4726990 a wd:Q79529 ;
+    rdfs:label "Aliskiren/amlodipine"@en .
+
+wd:Q473252 a wd:Q79529 ;
+    rdfs:label "enriched uranium"@en .
+
+wd:Q47456814 rdfs:label "zinc-84"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q47456818 rdfs:label "zinc-85"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q4747075 a wd:Q79529 ;
+    rdfs:label "amlodipine/valsartan"@en .
+
+wd:Q47492509 a wd:Q8205328 ;
+    rdfs:label "Pseliumene"@en .
+
+wd:Q4827367 a wd:Q2424752 ;
+    rdfs:label "Av Pak"@en .
+
+wd:Q48561349 a wd:Q79529 ;
+    rdfs:label "Nitric Oxide / Nitrogen"@en .
+
+wd:Q48561426 a wd:Q79529 ;
+    rdfs:label "Acetaminophen / butalbital"@en .
+
+wd:Q48561428 a wd:Q79529 ;
+    rdfs:label "eprosartan / Hydrochlorothiazide"@en .
+
+wd:Q48563713 a wd:Q79529 ;
+    rdfs:label "Levonordefrin / Mepivacaine"@en .
+
+wd:Q48563715 a wd:Q79529 ;
+    rdfs:label "Metformin / pioglitazone"@en .
+
+wd:Q48564239 a wd:Q79529 ;
+    rdfs:label "acetaminophen/tramadol"@en .
+
+wd:Q48564241 a wd:Q79529 ;
+    rdfs:label "sofosbuvir / velpatasvir / voxilaprevir"@en .
+
+wd:Q48564242 a wd:Q79529 ;
+    rdfs:label "Epinephrine / Prilocaine"@en .
+
+wd:Q48564244 a wd:Q79529 ;
+    rdfs:label "Fluoxetine / olanzapine"@en .
+
+wd:Q48566623 a wd:Q79529 ;
+    rdfs:label "Dexamethasone / Tobramycin"@en .
+
+wd:Q48566624 a wd:Q79529 ;
+    rdfs:label "Codeine / Pseudoephedrine / Triprolidine"@en .
+
+wd:Q48566627 a wd:Q79529 ;
+    rdfs:label "Betamethasone / calcipotriene"@en .
+
+wd:Q48566629 a wd:Q79529 ;
+    rdfs:label "Aspirin / butalbital / Caffeine / Codeine"@en .
+
+wd:Q48566631 a wd:Q79529 ;
+    rdfs:label "Dexamethasone / Neomycin / Polymyxin B"@en .
+
+wd:Q48566633 a wd:Q79529 ;
+    rdfs:label "isoniazid / Rifampin"@en .
+
+wd:Q48566634 a wd:Q79529 ;
+    rdfs:label "Articaine / Epinephrine"@en .
+
+wd:Q48566635 a wd:Q79529 ;
+    rdfs:label "penicillin G benzathine / penicillin G procaine"@en .
+
+wd:Q48566638 a wd:Q79529 ;
+    rdfs:label "Naproxen / Sumatriptan"@en .
+
+wd:Q48566639 a wd:Q79529 ;
+    rdfs:label "Aspirin / Caffeine / dihydrocodeine"@en .
+
+wd:Q48566641 a wd:Q79529 ;
+    rdfs:label "Clindamycin / Tretinoin"@en .
+
+wd:Q48566642 a wd:Q79529 ;
+    rdfs:label "Aspirin / Omeprazole"@en .
+
+wd:Q48566646 a wd:Q79529 ;
+    rdfs:label "Guaifenesin / Hydrocodone / Pseudoephedrine"@en .
+
+wd:Q48566647 a wd:Q79529 ;
+    rdfs:label "Acetaminophen / Caffeine / dihydrocodeine"@en .
+
+wd:Q48566649 a wd:Q79529 ;
+    rdfs:label "Loratadine / Pseudoephedrine"@en .
+
+wd:Q48566651 a wd:Q79529 ;
+    rdfs:label "Ciprofloxacin / Dexamethasone"@en .
+
+wd:Q48566653 a wd:Q79529 ;
+    rdfs:label "Albuterol / Ipratropium"@en .
+
+wd:Q48566655 a wd:Q79529 ;
+    rdfs:label "Enalapril / Hydrochlorothiazide"@en .
+
+wd:Q48566657 a wd:Q79529 ;
+    rdfs:label "Hydrochlorothiazide / Triamterene"@en .
+
+wd:Q48566658 a wd:Q79529 ;
+    rdfs:label "Aspirin / Dipyridamole"@en .
+
+wd:Q48566660 a wd:Q79529 ;
+    rdfs:label "Epinephrine / Lidocaine"@en .
+
+wd:Q48566661 a wd:Q79529 ;
+    rdfs:label "Amitriptyline / Chlordiazepoxide"@en .
+
+wd:Q48566663 a wd:Q79529 ;
+    rdfs:label "dalfopristin / quinupristin"@en .
+
+wd:Q48566664 a wd:Q79529 ;
+    rdfs:label "fexofenadine / Pseudoephedrine"@en .
+
+wd:Q48566666 a wd:Q79529 ;
+    rdfs:label "Ciprofloxacin / fluocinolone"@en .
+
+wd:Q48566667 a wd:Q79529 ;
+    rdfs:label "Acetaminophen / butalbital / Caffeine / Codeine"@en .
+
+wd:Q48566668 a wd:Q79529 ;
+    rdfs:label "Cyclopentolate / Phenylephrine"@en .
+
+wd:Q48566670 a wd:Q79529 ;
+    rdfs:label "Benzoyl Peroxide / Clindamycin"@en .
+
+wd:Q48566671 a wd:Q79529 ;
+    rdfs:label "dorzolamide / Timolol"@en .
+
+wd:Q48566672 a wd:Q79529 ;
+    rdfs:label "Chlorpheniramine / Hydrocodone / Pseudoephedrine"@en .
+
+wd:Q48566673 a wd:Q79529 ;
+    rdfs:label "Betamethasone / Clotrimazole"@en .
+
+wd:Q48566674 a wd:Q79529 ;
+    rdfs:label "Bupivacaine / Epinephrine"@en .
+
+wd:Q48566676 a wd:Q79529 ;
+    rdfs:label "Aspirin / butalbital / Caffeine"@en .
+
+wd:Q48566679 a wd:Q79529 ;
+    rdfs:label "Ethinyl Estradiol / Etonogestrel"@en .
+
+wd:Q48566680 a wd:Q79529 ;
+    rdfs:label "olodaterol / tiotropium"@en .
+
+wd:Q48566682 a wd:Q79529 ;
+    rdfs:label "Hydrochlorothiazide / quinapril"@en .
+
+wd:Q48566683 a wd:Q79529 ;
+    rdfs:label "Betamethasone / Betamethasone acetate"@en .
+
+wd:Q48566689 a wd:Q79529 ;
+    rdfs:label "isoniazid / Pyrazinamide / Rifampin"@en .
+
+wd:Q48566693 a wd:Q79529 ;
+    rdfs:label "Hydrochlorothiazide / Losartan"@en .
+
+wd:Q48566694 a wd:Q79529 ;
+    rdfs:label "Hydrochlorothiazide / valsartan"@en .
+
+wd:Q48566696 a wd:Q79529 ;
+    rdfs:label "Hydrochlorothiazide / Spironolactone"@en .
+
+wd:Q48566697 a wd:Q79529 ;
+    rdfs:label "acrivastine / Pseudoephedrine"@en .
+
+wd:Q48566700 a wd:Q79529 ;
+    rdfs:label "Hydrochlorothiazide / Lisinopril"@en .
+
+wd:Q48566702 a wd:Q79529 ;
+    rdfs:label "Hydrocortisone / Neomycin / Polymyxin B"@en .
+
+wd:Q48566704 a wd:Q79529 ;
+    rdfs:label "Insulin Glargine / Lixisenatide"@en .
+
+wd:Q48566705 a wd:Q79529 ;
+    rdfs:label "ezetimibe / Simvastatin"@en .
+
+wd:Q48566706 a wd:Q79529 ;
+    rdfs:label "Ciprofloxacin / Hydrocortisone"@en .
+
+wd:Q48566708 a wd:Q79529 ;
+    rdfs:label "Hydrocortisone / pramoxine"@en .
+
+wd:Q48566709 a wd:Q79529 ;
+    rdfs:label "trandolapril / Verapamil"@en .
+
+wd:Q48566710 a wd:Q79529 ;
+    rdfs:label "Aspirin / Oxycodone"@en .
+
+wd:Q48566712 a wd:Q79529 ;
+    rdfs:label "Amlodipine / benazepril"@en .
+
+wd:Q48566714 a wd:Q79529 ;
+    rdfs:label "canagliflozin / Metformin"@en .
+
+wd:Q48566715 a wd:Q79529 ;
+    rdfs:label "Benzoyl Peroxide / Erythromycin"@en .
+
+wd:Q48566716 a wd:Q79529 ;
+    rdfs:label "Brompheniramine / Dextromethorphan / Pseudoephedrine"@en .
+
+wd:Q48566717 a wd:Q79529 ;
+    rdfs:label "Esomeprazole / Naproxen"@en .
+
+wd:Q48566719 a wd:Q79529 ;
+    rdfs:label "formoterol / Glycopyrrolate"@en .
+
+wd:Q48566720 a wd:Q79529 ;
+    rdfs:label "brimonidine / Timolol"@en .
+
+wd:Q48566724 a wd:Q79529 ;
+    rdfs:label "Amlodipine / Hydrochlorothiazide / olmesartan"@en .
+
+wd:Q48566725 a wd:Q79529 ;
+    rdfs:label "Lovastatin / Niacin"@en .
+
+wd:Q48566727 a wd:Q79529 ;
+    rdfs:label "Estradiol / Norethindrone"@en .
+
+wd:Q48566728 a wd:Q79529 ;
+    rdfs:label "Chlorpheniramine / Codeine"@en .
+
+wd:Q48566729 a wd:Q79529 ;
+    rdfs:label "Neomycin / Polymyxin B"@en .
+
+wd:Q48566731 a wd:Q79529 ;
+    rdfs:label "dolutegravir / Rilpivirine"@en .
+
+wd:Q48566733 a wd:Q79529 ;
+    rdfs:label "meropenem/vaborbactam"@en .
+
+wd:Q48566734 a wd:Q79529 ;
+    rdfs:label "ertugliflozin / sitagliptin"@en .
+
+wd:Q48566735 a wd:Q79529 ;
+    rdfs:label "Acetaminophen / Codeine"@en .
+
+wd:Q48566738 a wd:Q79529 ;
+    rdfs:label "Hydrochlorothiazide / Metoprolol"@en .
+
+wd:Q48566740 a wd:Q79529 ;
+    rdfs:label "dapagliflozin / saxagliptin"@en .
+
+wd:Q48566743 a wd:Q79529 ;
+    rdfs:label "Hydralazine / Isosorbide Dinitrate"@en .
+
+wd:Q48566747 a wd:Q79529 ;
+    rdfs:label "acetaminophen / butalbital / caffeine"@en .
+
+wd:Q48566749 a wd:Q79529 ;
+    rdfs:label "Acetaminophen / Hydrocodone"@en .
+
+wd:Q48566750 a wd:Q79529 ;
+    rdfs:label "Dutasteride / tamsulosin"@en .
+
+wd:Q48566752 a wd:Q79529 ;
+    rdfs:label "fluocinolone / hydroquinone / Tretinoin"@en .
+
+wd:Q48566754 a wd:Q79529 ;
+    rdfs:label "prednisolone / Sulfacetamide"@en .
+
+wd:Q48566756 a wd:Q79529 ;
+    rdfs:label "Hydrocodone / Ibuprofen"@en .
+
+wd:Q48566757 a wd:Q79529 ;
+    rdfs:label "Bisoprolol / Hydrochlorothiazide"@en .
+
+wd:Q48566759 a wd:Q79529 ;
+    rdfs:label "benazepril / Hydrochlorothiazide"@en .
+
+wd:Q48566761 a wd:Q79529 ;
+    rdfs:label "fluticasone / vilanterol"@en .
+
+wd:Q48566762 a wd:Q79529 ;
+    rdfs:label "Allopurinol / lesinurad"@en .
+
+wd:Q48566764 a wd:Q79529 ;
+    rdfs:label "p-Hydroxyamphetamine / Tropicamide"@en .
+
+wd:Q48566765 a wd:Q79529 ;
+    rdfs:label "ertugliflozin / Metformin"@en .
+
+wd:Q48566767 a wd:Q79529 ;
+    rdfs:label "azelastine / fluticasone"@en .
+
+wd:Q48566769 a wd:Q79529 ;
+    rdfs:label "Guaifenesin / Pseudoephedrine"@en .
+
+wd:Q48566770 a wd:Q79529 ;
+    rdfs:label "glyburide / metformin"@en .
+
+wd:Q48566771 a wd:Q79529 ;
+    rdfs:label "candesartan / Hydrochlorothiazide"@en .
+
+wd:Q48566774 a wd:Q79529 ;
+    rdfs:label "Chlorpheniramine / Hydrocodone"@en .
+
+wd:Q48566776 a wd:Q79529 ;
+    rdfs:label "Ethinyl Estradiol / Norethindrone"@en .
+
+wd:Q48566781 a wd:Q79529 ;
+    rdfs:label "Chlordiazepoxide / clidinium"@en .
+
+wd:Q48566783 a wd:Q79529 ;
+    rdfs:label "Acyclovir / Hydrocortisone"@en .
+
+wd:Q48566784 a wd:Q79529 ;
+    rdfs:label "Famotidine / Ibuprofen"@en .
+
+wd:Q48566789 a wd:Q79529 ;
+    rdfs:label "glecaprevir / pibrentasvir"@en .
+
+wd:Q48566790 a wd:Q79529 ;
+    rdfs:label "Lidocaine / Tetracaine"@en .
+
+wd:Q48566792 a wd:Q79529 ;
+    rdfs:label "Oxymetazoline / Tetracaine"@en .
+
+wd:Q48566794 a wd:Q79529 ;
+    rdfs:label "levothyroxine / liothyronine"@en .
+
+wd:Q48566795 a wd:Q79529 ;
+    rdfs:label "Morphine / Naltrexone"@en .
+
+wd:Q48566796 a wd:Q79529 ;
+    rdfs:label "fluocinolone / Neomycin"@en .
+
+wd:Q48566799 a wd:Q79529 ;
+    rdfs:label "Amlodipine / olmesartan"@en .
+
+wd:Q48566800 a wd:Q79529 ;
+    rdfs:label "loteprednol etabonate / Tobramycin"@en .
+
+wd:Q48566801 a wd:Q79529 ;
+    rdfs:label "fluticasone / umeclidinium / vilanterol"@en .
+
+wd:Q48566802 a wd:Q79529 ;
+    rdfs:label "amphetamine aspartate / amphetamine sulfate / dextroamphetamine saccharate / dextroamphetamine sulfate"@en .
+
+wd:Q48566803 a wd:Q79529 ;
+    rdfs:label "Acetaminophen / Oxycodone"@en .
+
+wd:Q48566806 a wd:Q79529 ;
+    rdfs:label "Ampicillin / Sulbactam"@en .
+
+wd:Q48566808 a wd:Q79529 ;
+    rdfs:label "Amlodipine / atorvastatin"@en .
+
+wd:Q48566809 a wd:Q79529 ;
+    rdfs:label "elbasvir / grazoprevir"@en .
+
+wd:Q48566811 a wd:Q79529 ;
+    rdfs:label "Chlorthalidone / Clonidine"@en .
+
+wd:Q48566813 a wd:Q79529 ;
+    rdfs:label "adapalene / Benzoyl Peroxide"@en .
+
+wd:Q48566814 a wd:Q79529 ;
+    rdfs:label "Doxylamine / pyridoxine"@en .
+
+wd:Q48566815 a wd:Q79529 ;
+    rdfs:label "Caffeine / Ergotamine"@en .
+
+wd:Q48566816 a wd:Q79529 ;
+    rdfs:label "Guaifenesin / Hydrocodone"@en .
+
+wd:Q48566821 a wd:Q79529 ;
+    rdfs:label "Sulfamethoxazole / Trimethoprim"@en .
+
+wd:Q48566822 a wd:Q79529 ;
+    rdfs:label "brimonidine / brinzolamide"@en .
+
+wd:Q48566823 a wd:Q79529 ;
+    rdfs:label "Niacin / Simvastatin"@en .
+
+wd:Q48566827 a wd:Q79529 ;
+    rdfs:label "hydrochlorothiazide / olmesartan"@en .
+
+wd:Q48566828 a wd:Q79529 ;
+    rdfs:label "azilsartan / Chlorthalidone"@en .
+
+wd:Q48566830 a wd:Q79529 ;
+    rdfs:label "Amlodipine / Perindopril"@en .
+
+wd:Q48566831 a wd:Q79529 ;
+    rdfs:label "Cetirizine / Pseudoephedrine"@en .
+
+wd:Q48719715 a wd:Q79529 ;
+    rdfs:label "formoterol / Mometasone"@en .
+
+wd:Q48719717 a wd:Q79529 ;
+    rdfs:label "Estradiol / Levonorgestrel"@en .
+
+wd:Q48832104 a wd:Q79529 ;
+    rdfs:label "Bacitracin / Neomycin / Polymyxin B"@en .
+
+wd:Q48832105 a wd:Q79529 ;
+    rdfs:label "Gentamicin / prednisolone"@en .
+
+wd:Q48832106 a wd:Q79529 ;
+    rdfs:label "Colistin / Hydrocortisone / Neomycin / THONZONIUM"@en .
+
+wd:Q48832108 a wd:Q79529 ;
+    rdfs:label "Bendroflumethiazide / Nadolol"@en .
+
+wd:Q48832109 a wd:Q79529 ;
+    rdfs:label "NITROFURANTOIN, MACROCRYSTALS / Nitrofurantoin, Monohydrate"@en .
+
+wd:Q48832111 a wd:Q79529 ;
+    rdfs:label "Bacitracin / Polymyxin B"@en .
+
+wd:Q48832112 a wd:Q79529 ;
+    rdfs:label "Bacitracin / Hydrocortisone / Neomycin / Polymyxin B"@en .
+
+wd:Q4890821 a wd:Q79529 ;
+    rdfs:label "Benzylpenicilloyl Polylysine"@en .
+
+wd:Q4914695 a wd:Q15401930 ;
+    rdfs:label "biobased product"@en .
+
+wd:Q4919044 a wd:Q79529 ;
+    rdfs:label "bitterant"@en .
+
+wd:Q495268 a wd:Q8205328 ;
+    rdfs:label "Snuppy"@en .
+
+wd:Q4968566 a wd:Q79529 ;
+    rdfs:label "Sorona"@en .
+
+wd:Q497073 a wd:Q79529 ;
+    rdfs:label "oleum"@en .
+
+wd:Q4998036 a wd:Q79529 ;
+    rdfs:label "bupropion/naltrexone"@en .
+
+wd:Q5000289 a wd:Q2424752 ;
+    rdfs:label "Burple"@en .
+
+wd:Q5012886 a wd:Q2424752 ;
+    rdfs:label "Colt Machine Gun"@en .
+
+wd:Q5033171 a wd:Q7184903 ;
+    rdfs:label "canon"@en .
+
+wd:Q50350128 a wd:Q79529 ;
+    rdfs:label "dextran sulfate"@en .
+
+wd:Q5037865 a wd:Q79529 ;
+    rdfs:label "Carbinoxamine/pseudoephedrine"@en .
+
+wd:Q505199 a wd:Q79529 ;
+    rdfs:label "fat substitute"@en .
+
+wd:Q50824634 a wd:Q16889133 ;
+    rdfs:label "memorial to William Tell"@en .
+
+wd:Q5096278 a wd:Q2424752 ;
+    rdfs:label "Chicken Tatsuta"@en .
+
+wd:Q5119521 a wd:Q5127848 ;
+    rdfs:label "Cidex"@en .
+
+wd:Q5139107 a wd:Q2424752 ;
+    rdfs:label "Coca flour"@en .
+
+wd:Q51398317 a wd:Q214609 ;
+    rdfs:label "sand-lime brick"@en .
+
+wd:Q5145911 a wd:Q79529 ;
+    rdfs:label "Collagenase clostridium histolyticum"@en .
+
+wd:Q51680017 a wd:Q79529 ;
+    rdfs:label "gaupsin"@en .
+
+wd:Q5168808 a wd:Q79529 ;
+    rdfs:label "Copper usnate"@en .
+
+wd:Q5196864 a wd:Q79529 ;
+    rdfs:label "Cutler's resin"@en .
+
+wd:Q5203615 a wd:Q79529 ;
+    rdfs:label "dioxygen"@en .
+
+wd:Q5247815 a wd:Q79529 ;
+    rdfs:label "sulfonated phenolics/sulfuric acid"@en .
+
+wd:Q5249625 a wd:Q214609 ;
+    rdfs:label "decorative laminate"@en .
+
+wd:Q5255155 a wd:Q79529 ;
+    rdfs:label "Demephion"@en .
+
+wd:Q5268496 a wd:Q79529 ;
+    rdfs:label "Dextromethorphan/quinidine"@en .
+
+wd:Q5273861 a wd:Q79529 ;
+    rdfs:label "Diclofenac/misoprostol"@en .
+
+wd:Q5277317 a wd:Q79529 ;
+    rdfs:label "dimethyl phosphorochlorodithioate"@en .
+
+wd:Q5368263 a wd:Q79529 ;
+    rdfs:label "Elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil"@en .
+
+wd:Q5374883 a wd:Q79529 ;
+    rdfs:label "emulsifying wax"@en .
+
+wd:Q5376331 a wd:Q79529 ;
+    rdfs:label "Endogenous agonist"@en .
+
+wd:Q5383795 a wd:Q79529 ;
+    rdfs:label "Epoetin beta"@en .
+
+wd:Q5423256 a wd:Q79529 ;
+    rdfs:label "ezetimibe/simvastatin"@en .
+
+wd:Q54377 a wd:Q11344 ;
+    rdfs:label "unbihexium"@en .
+
+wd:Q5442825 a wd:Q2424752 ;
+    rdfs:label "Feminine wipe"@en .
+
+wd:Q5468092 a wd:Q214609 ;
+    rdfs:label "fordite"@en .
+
+wd:Q54854504 a wd:Q8205328 ;
+    rdfs:label "Q54854504"^^xsd:string .
+
+wd:Q548592 a wd:Q11344 ;
+    rdfs:label "untriennium"@en .
+
+wd:Q5519587 a wd:Q2424752 ;
+    rdfs:label "Gamat"@en .
+
+wd:Q55344302 a wd:Q79529 ;
+    rdfs:label "Vitamin D1"@en .
+
+wd:Q55362414 a wd:Q214609 ;
+    rdfs:label "Boost"@en .
+
+wd:Q55480566 a wd:Q2424752 ;
+    rdfs:label "Chubby puppy"@en .
+
+wd:Q55480586 a wd:Q2424752 ;
+    rdfs:label "Chubby puppies and friends"@en .
+
+wd:Q556 a wd:Q11344 ;
+    rdfs:label "hydrogen"@en .
+
+wd:Q55611196 a wd:Q79529 ;
+    rdfs:label "Indian Yellow"@en .
+
+wd:Q5572392 a wd:Q2424752 ;
+    rdfs:label "Gluma"@en .
+
+wd:Q5572516 a wd:Q79529 ;
+    rdfs:label "Glybera"@en .
+
+wd:Q55726131 a wd:Q2424752 ;
+    rdfs:label "ozaphane"@en .
+
+wd:Q55844718 a wd:Q214609 ;
+    rdfs:label "polyamid 66 - 30% glass fiber reinforced"@en .
+
+wd:Q560 a wd:Q11344 ;
+    rdfs:label "helium"@en .
+
+wd:Q5604502 a wd:Q214609 ;
+    rdfs:label "Greenset"@en .
+
+wd:Q56071533 a wd:Q79529 ;
+    rdfs:label "D-glucopyranose (close ring, incomplete stereochemistry)"@en .
+
+wd:Q5613883 a wd:Q79529 ;
+    rdfs:label "guar hydroxypropyltrimonium chloride"@en .
+
+wd:Q56196714 a wd:Q2424752 ;
+    rdfs:label "Applied Climate Information System Summary Map"@en .
+
+wd:Q56196824 a wd:Q2424752 ;
+    rdfs:label "Automated Weather Data Network"@en .
+
+wd:Q56289720 a wd:Q8205328 ;
+    rdfs:label "Gold-glass base"@en .
+
+wd:Q56423947 a wd:Q2424752 ;
+    rdfs:label "cargo bike honey"@en .
+
+wd:Q56426036 a wd:Q214609 ;
+    rdfs:label "Q56426036"^^xsd:string .
+
+wd:Q5656540 a wd:Q16889133 ;
+    rdfs:label "Hardy"@en .
+
+wd:Q5656951 a wd:Q214609 ;
+    rdfs:label "Harewood"@en .
+
+wd:Q56598372 a wd:Q2424752 ;
+    rdfs:label "Ericsson Dialog 4223"@en .
+
+wd:Q5666501 a wd:Q79529 ;
+    rdfs:label "Platinocyanide"@en .
+
+wd:Q568 a wd:Q11344 ;
+    rdfs:label "lithium"@en .
+
+wd:Q569 a wd:Q11344 ;
+    rdfs:label "beryllium"@en .
+
+wd:Q57408632 a wd:Q214609 ;
+    rdfs:label "glass negative"@en .
+
+wd:Q5795669 a wd:Q8205328 ;
+    rdfs:label "Q5795669"^^xsd:string .
+
+wd:Q580807 a wd:Q214609 ;
+    rdfs:label "albumen print"@en .
+
+wd:Q581334 a wd:Q79529 ;
+    rdfs:label "Fluticasone/salmeterol"@en .
+
+wd:Q58190092 a wd:Q2424752 ;
+    rdfs:label "EyeSpeaks"@en .
+
+wd:Q5846523 a wd:Q79529 ;
+    rdfs:label "pharmaceutical preparation of hydroquinone"@en .
+
+wd:Q5849509 a wd:Q8205328 ;
+    rdfs:label "Q5849509"^^xsd:string .
+
+wd:Q58778 a wd:Q7184903 ;
+    rdfs:label "system"@en .
+
+wd:Q59157171 a wd:Q15401930 ;
+    rdfs:label "image information"@en .
+
+wd:Q593903 a wd:Q2424752 ;
+    rdfs:label "Clear aligners"@en .
+
+wd:Q59564478 a wd:Q214609 ;
+    rdfs:label "Copper-covered steel"@en .
+
+wd:Q5965703 a wd:Q79529 ;
+    rdfs:label "Ishikawa reagent"@en .
+
+wd:Q59779876 a wd:Q2424752 ;
+    rdfs:label "Facebook Portal"@en .
+
+wd:Q5987368 a wd:Q8205328 ;
+    rdfs:label "Idaho Gem"@en .
+
+wd:Q6000059 a wd:Q214609 ;
+    rdfs:label "Fisto"@en .
+
+wd:Q60024476 a wd:Q2424752 ;
+    rdfs:label "ProQuad"@en .
+
+wd:Q6004128 a wd:Q79529 ;
+    rdfs:label "Imipenem/cilastatin"@en .
+
+wd:Q60110 a wd:Q79529 ;
+    rdfs:label "soot"@en .
+
+wd:Q60367497 a wd:Q2424752 ;
+    rdfs:label "Afrodite Album"@en .
+
+wd:Q6046745 a wd:Q2424752 ;
+    rdfs:label "Interior protection"@en .
+
+wd:Q60578858 a wd:Q79529 ;
+    rdfs:label "phenine nanotube"@en .
+
+wd:Q6072245 a wd:Q214609 ;
+    rdfs:label "iron-based superconductor"@en .
+
+wd:Q6076485 a wd:Q8205328 ;
+    rdfs:label "Q6076485"^^xsd:string .
+
+wd:Q6086003 a wd:Q79529 ;
+    rdfs:label "Isoleucine (data page)"@en .
+
+wd:Q615476 a wd:Q214609 ;
+    rdfs:label "rhinestone"@en .
+
+wd:Q6155529 a wd:Q8205328 ;
+    rdfs:label "Jansen's linkage"@en .
+
+wd:Q61704160 a wd:Q101843 ;
+    rdfs:label "all-time"@en .
+
+wd:Q61722456 a wd:Q214609 ;
+    rdfs:label "Q61722456"^^xsd:string .
+
+wd:Q618 a wd:Q11344 ;
+    rdfs:label "boron"@en .
+
+wd:Q618185 a wd:Q79529 ;
+    rdfs:label "ceramic varnish"@en .
+
+wd:Q61888167 a wd:Q16889133 ;
+    rdfs:label "manifestation (FRBR concept)"@en .
+
+wd:Q61905357 a wd:Q2424752 ;
+    rdfs:label "Tide Pods"@en .
+
+wd:Q6195288 a wd:Q2424752 ;
+    rdfs:label "Purell"@en .
+
+wd:Q62082016 a wd:Q16889133 ;
+    rdfs:label "Hewitt"@en .
+
+wd:Q62082048 a wd:Q16889133 ;
+    rdfs:label "Nuttall"@en .
+
+wd:Q62082113 a wd:Q16889133 ;
+    rdfs:label "Dodd"@en .
+
+wd:Q62082131 a wd:Q16889133 ;
+    rdfs:label "Wainwright"@en .
+
+wd:Q62082171 a wd:Q16889133 ;
+    rdfs:label "Wainwright Outlying Fell"@en .
+
+wd:Q62127883 a wd:Q214609 ;
+    rdfs:label "Q62127883"^^xsd:string .
+
+wd:Q622779 a wd:Q2512777 ;
+    rdfs:label "liquid hydrogen"@en .
+
+wd:Q622950 a wd:Q79529 ;
+    rdfs:label "Aqua Tofana"@en .
+
+wd:Q623 a wd:Q11344 ;
+    rdfs:label "carbon"@en .
+
+wd:Q623102 a wd:Q214609 ;
+    rdfs:label "Watercolor paper"@en .
+
+wd:Q62415424 a wd:Q8205328 ;
+    rdfs:label "playing cards and box for the game of dasavatara ganjifa"@en .
+
+wd:Q62662480 a wd:Q2424752 ;
+    rdfs:label "Ring Dish"@en .
+
+wd:Q627 a wd:Q11344 ;
+    rdfs:label "nitrogen"@en .
+
+wd:Q62703273 a wd:Q214609 ;
+    rdfs:label "Source Title Test"@en .
+
+wd:Q629 a wd:Q11344 ;
+    rdfs:label "oxygen"@en .
+
+wd:Q6335818 a wd:Q214609 ;
+    rdfs:label "KPR"@en .
+
+wd:Q63433068 a wd:Q16889133 ;
+    rdfs:label "national naval fleet"@en .
+
+wd:Q63433199 a wd:Q16889133 ;
+    rdfs:label "national class-specific fleet"@en .
+
+wd:Q63433208 a wd:Q16889133 ;
+    rdfs:label "class-specific naval fleet"@en .
+
+wd:Q63644955 a wd:Q2424752 ;
+    rdfs:label "light cannabis"@en .
+
+wd:Q63973264 a wd:Q16889133 ;
+    rdfs:label "tractor propeller"@en .
+
+wd:Q641865 a wd:Q79529 ;
+    rdfs:label "cocaine paste"@en .
+
+wd:Q6457467 a wd:Q79529 ;
+    rdfs:label "LCZ696"@en .
+
+wd:Q64627092 a wd:Q214609 ;
+    rdfs:label "caribou antler"@en .
+
+wd:Q6482030 a wd:Q79529 ;
+    rdfs:label "Lamivudine/zidovudine"@en .
+
+wd:Q64828890 a wd:Q2424752 ;
+    rdfs:label "Firefox Monitor"@en .
+
+wd:Q64860117 a wd:Q2424752 ;
+    rdfs:label "Inas Helpies"@en .
+
+wd:Q6487604 a wd:Q79529 ;
+    rdfs:label "lanthanum barium copper oxide"@en .
+
+wd:Q64970332 a wd:Q11426 ;
+    rdfs:label "metallic ammonium"@en .
+
+wd:Q650 a wd:Q11344 ;
+    rdfs:label "fluorine"@en .
+
+wd:Q650187 a wd:Q79529 ;
+    rdfs:label "phosphatidylcholines"@en .
+
+wd:Q65075714 a wd:Q2424752 ;
+    rdfs:label "Google Cloud Dataflow"@en .
+
+wd:Q65088545 a wd:Q79529 ;
+    rdfs:label "sulfonated phenolics"@en .
+
+wd:Q6518755 a wd:Q2424752 ;
+    rdfs:label "Lehel"@en .
+
+wd:Q65241338 a wd:Q2424752 ;
+    rdfs:label "Nokia 3.2"@en .
+
+wd:Q65241342 a wd:Q2424752 ;
+    rdfs:label "Nokia 4.2"@en .
+
+wd:Q654 a wd:Q11344 ;
+    rdfs:label "neon"@en .
+
+wd:Q6542581 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class B, subclass BM -- Judaism"@en .
+
+wd:Q6542586 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class B, subclass BQ -- Buddhism"@en .
+
+wd:Q6542587 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class B, subclass BR -- Christianity"@en .
+
+wd:Q6542594 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class B -- Philosophy, Psychology, Religion"@en .
+
+wd:Q6542599 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class D, subclass DC -- History of France, Andorra, and Monaco"@en .
+
+wd:Q6542621 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class D -- History, General and Old World"@en .
+
+wd:Q6542622 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class E -- History of America"@en .
+
+wd:Q6542625 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class G, subclass GA -- Mathematical geography. Cartography"@en .
+
+wd:Q6542634 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class G, subclass GV -- Recreation and Leisure"@en .
+
+wd:Q6542636 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class G -- Geography. Anthropology. Recreation"@en .
+
+wd:Q6542661 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class P, subclass PD -- Germanic languages"@en .
+
+wd:Q6542680 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class Q -- Science"@en .
+
+wd:Q6542683 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class V -- Naval Science"@en .
+
+wd:Q6556738 a wd:Q79529 ;
+    rdfs:label "lipoplatin"@en .
+
+wd:Q658 a wd:Q11344,
+        wd:Q2512777 ;
+    rdfs:label "sodium"@en .
+
+wd:Q660 a wd:Q11344 ;
+    rdfs:label "magnesium"@en .
+
+wd:Q66253298 a wd:Q16889133 ;
+    rdfs:label "national destroyer fleet"@en .
+
+wd:Q663 a wd:Q11344,
+        wd:Q214609 ;
+    rdfs:label "aluminum"@en .
+
+wd:Q66626354 a wd:Q79529 ;
+    rdfs:label "Alembroth salt"@en .
+
+wd:Q670 a wd:Q11344 ;
+    rdfs:label "silicon"@en .
+
+wd:Q671 a wd:Q11344 ;
+    rdfs:label "francium"@en .
+
+wd:Q671422 a wd:Q79529 ;
+    rdfs:label "Japan wax"@en .
+
+wd:Q67206648 a wd:Q16889133 ;
+    rdfs:label "Q67206648"^^xsd:string .
+
+wd:Q67206680 a wd:Q16889133 ;
+    rdfs:label "Q67206680"^^xsd:string .
+
+wd:Q6721348 a wd:Q214609 ;
+    rdfs:label "Maban"@en .
+
+wd:Q6731370 a wd:Q79529 ;
+    rdfs:label "magnesium"@en .
+
+wd:Q673782 a wd:Q2424752 ;
+    rdfs:label "earplug"@en .
+
+wd:Q674 a wd:Q11344 ;
+    rdfs:label "phosphoru"@en .
+
+wd:Q677 a wd:Q11344,
+        wd:Q11426 ;
+    rdfs:label "iron"@en .
+
+wd:Q6784637 a wd:Q8205328 ;
+    rdfs:label "Massie Wireless Station"@en .
+
+wd:Q6801475 a wd:Q2424752 ;
+    rdfs:label "McGriddles"@en .
+
+wd:Q682 a wd:Q11344 ;
+    rdfs:label "sulfur"@en .
+
+wd:Q68482296 a wd:Q16889133 ;
+    rdfs:label "military activity"@en .
+
+wd:Q688 a wd:Q11344 ;
+    rdfs:label "chlorine"@en .
+
+wd:Q68808025 a wd:Q2424752 ;
+    rdfs:label "Aurrigo"@en .
+
+wd:Q6954932 a wd:Q214609 ;
+    rdfs:label "NOREM"@en .
+
+wd:Q696 a wd:Q11344 ;
+    rdfs:label "argon"@en .
+
+wd:Q69882018 a wd:Q79529 ;
+    rdfs:label "Q69882018"^^xsd:string .
+
+wd:Q6994170 a wd:Q79529 ;
+    rdfs:label "Neosporin"@en .
+
+wd:Q703 a wd:Q11344 ;
+    rdfs:label "potassium"@en .
+
+wd:Q706 a wd:Q11344 ;
+    rdfs:label "calcium"@en .
+
+wd:Q708 a wd:Q11344,
+        wd:Q2512777 ;
+    rdfs:label "lead"@en .
+
+wd:Q7118931 a wd:Q79529 ;
+    rdfs:label "PEG 400"@en .
+
+wd:Q713 a wd:Q11344 ;
+    rdfs:label "scandium"@en .
+
+wd:Q716 a wd:Q11344 ;
+    rdfs:label "titanium"@en .
+
+wd:Q722 a wd:Q11344 ;
+    rdfs:label "vanadium"@en .
+
+wd:Q7227257 a wd:Q79529 ;
+    rdfs:label "Pomegranate ellagitannin"@en .
+
+wd:Q7230068 a wd:Q79529 ;
+    rdfs:label "Porfimer"@en .
+
+wd:Q725 a wd:Q11344 ;
+    rdfs:label "chromium"@en .
+
+wd:Q7251413 a wd:Q79529 ;
+    rdfs:label "Protein-bound paclitaxel"@en .
+
+wd:Q7251502 a wd:Q16889133 ;
+    rdfs:label "Protein subfamily"@en .
+
+wd:Q725252 a wd:Q2424752 ;
+    rdfs:label "satellite imagery"@en .
+
+wd:Q72827 a wd:Q79529 ;
+    rdfs:label "lard"@en .
+
+wd:Q7283864 a wd:Q2424752 ;
+    rdfs:label "RailDriver"@en .
+
+wd:Q73017 a wd:Q79529 ;
+    rdfs:label "tholin"@en .
+
+wd:Q731 a wd:Q11344 ;
+    rdfs:label "manganese"@en .
+
+wd:Q7311555 a wd:Q79529 ;
+    rdfs:label "Rember"@en .
+
+wd:Q737 a wd:Q11344 ;
+    rdfs:label "rhenium"@en .
+
+wd:Q737038 a wd:Q79529 ;
+    rdfs:label "polycrystalline silicon"@en .
+
+wd:Q7391292 a wd:Q79529 ;
+    rdfs:label "air"@en .
+
+wd:Q740 a wd:Q11344 ;
+    rdfs:label "cobalt"@en .
+
+wd:Q7425 a wd:Q11344 ;
+    rdfs:label "unbibium"@en .
+
+wd:Q743 a wd:Q11344 ;
+    rdfs:label "tungsten"@en .
+
+wd:Q744 a wd:Q11344 ;
+    rdfs:label "nickel"@en .
+
+wd:Q74457656 a wd:Q16889133 ;
+    rdfs:label "Q74457656"^^xsd:string .
+
+wd:Q74458071 a wd:Q16889133 ;
+    rdfs:label "Q74458071"^^xsd:string .
+
+wd:Q74561723 a wd:Q79529 ;
+    rdfs:label "Methylmercury and methylmercury compounds"@en .
+
+wd:Q7463524 a wd:Q214609 ;
+    rdfs:label "corrugated fiberboard"@en .
+
+wd:Q7502038 a wd:Q214609 ;
+    rdfs:label "Short fiber reinforced blends"@en .
+
+wd:Q751 a wd:Q11344 ;
+    rdfs:label "osmium"@en .
+
+wd:Q753 a wd:Q11344 ;
+    rdfs:label "copper"@en .
+
+wd:Q7531599 a wd:Q79529 ;
+    rdfs:label "Sitagliptin/metformin"@en .
+
+wd:Q754267 a wd:Q79529 ;
+    rdfs:label "respiratory poison"@en .
+
+wd:Q7597226 a wd:Q79529 ;
+    rdfs:label "carbidopa / levodopa / entacapone"@en .
+
+wd:Q7605232 a wd:Q2424752 ;
+    rdfs:label "Steak-umm"@en .
+
+wd:Q76622598 a wd:Q79529 ;
+    rdfs:label "Q76622598"^^xsd:string .
+
+wd:Q7669185 a wd:Q2424752 ;
+    rdfs:label "TACLANE"@en .
+
+wd:Q7670309 a wd:Q2424752 ;
+    rdfs:label "TI-35"@en .
+
+wd:Q7670312 a wd:Q2424752 ;
+    rdfs:label "TI-34"@en .
+
+wd:Q76704072 a wd:Q79529 ;
+    rdfs:label "Coke-oven light oil (coal)"@en .
+
+wd:Q76904 a wd:Q79529 ;
+    rdfs:label "kerosene"@en .
+
+wd:Q7692232 a wd:Q79529 ;
+    rdfs:label "Technetium (99mTc) tilmanocept"@en .
+
+wd:Q7692761 a wd:Q2424752 ;
+    rdfs:label "Tecnu"@en .
+
+wd:Q7697766 a wd:Q79529 ;
+    rdfs:label "Telmisartan/hydrochlorothiazide"@en .
+
+wd:Q7700570 a wd:Q79529 ;
+    rdfs:label "atenolol/chlorthalidone"@en .
+
+wd:Q77030030 a wd:Q16889133 ;
+    rdfs:label "protein variant"@en .
+
+wd:Q7706188 a wd:Q8205328 ;
+    rdfs:label "Tetra"@en .
+
+wd:Q7706206 a wd:Q79529 ;
+    rdfs:label "Tetrabamate"@en .
+
+wd:Q771452 a wd:Q2424752 ;
+    rdfs:label "bicycle tire"@en .
+
+wd:Q77768178 a wd:Q16889133 ;
+    rdfs:label "type of footage"@en .
+
+wd:Q7783228 a wd:Q214609 ;
+    rdfs:label "Thermoplastic polyurethane"@en .
+
+wd:Q78154500 a wd:Q16889133 ;
+    rdfs:label "group of protein complexes"@en .
+
+wd:Q78155096 a wd:Q16889133 ;
+    rdfs:label "family of protein complexes"@en .
+
+wd:Q782491 a wd:Q214609 ;
+    rdfs:label "Q782491"^^xsd:string .
+
+wd:Q7842200 a wd:Q79529 ;
+    rdfs:label "Polymyxin B sulfate/trimethoprim"@en .
+
+wd:Q78739799 a wd:Q2424752 ;
+    rdfs:label "mining equipment"@en .
+
+wd:Q78782165 a wd:Q2424752 ;
+    rdfs:label "Q78782165"^^xsd:string .
+
+wd:Q7897917 a wd:Q2424752 ;
+    rdfs:label "UpToDate"@en .
+
+wd:Q79555117 a wd:Q8205328 ;
+    rdfs:label "Resolution and Adventure Medal, 1772"@en .
+
+wd:Q79633016 a wd:Q16889133 ;
+    rdfs:label "Q79633016"^^xsd:string .
+
+wd:Q7983255 a wd:Q8205328 ;
+    rdfs:label "Weres"@en .
+
+wd:Q8059441 a wd:Q2424752 ;
+    rdfs:label "ypadu"@en .
+
+wd:Q8062819 a wd:Q2424752 ;
+    rdfs:label "Z-SAN"@en .
+
+wd:Q8069755 a wd:Q214609,
+        wd:Q2424752 ;
+    rdfs:label "Zetix"@en .
+
+wd:Q8072263 rdfs:label "zinc-68"@en ;
+    rdfs:subClassOf wd:Q758 .
+
+wd:Q83047798 a wd:Q11426 ;
+    rdfs:label "humanium"@en .
+
+wd:Q830894 a wd:Q214609 ;
+    rdfs:label "stoneware"@en .
+
+wd:Q83143768 a wd:Q2424752 ;
+    rdfs:label "532/i Combi NG"@en .
+
+wd:Q83373069 a wd:Q2424752 ;
+    rdfs:label "Manetame Comb"@en .
+
+wd:Q83748716 a wd:Q16889133 ;
+    rdfs:label "twin-float gear"@en .
+
+wd:Q8375 a wd:Q2424752 ;
+    rdfs:label ".Mac"@en .
+
+wd:Q840688 a wd:Q34669510 ;
+    rdfs:label "plasticine"@en .
+
+wd:Q84161649 a wd:Q2424752 ;
+    rdfs:label "Llipta"@en .
+
+wd:Q84166032 a wd:Q79529 ;
+    rdfs:label "borosilicates"@en .
+
+wd:Q84470557 a wd:Q2424752 ;
+    rdfs:label "ASMR audio file"@en .
+
+wd:Q84613636 a wd:Q8205328 ;
+    rdfs:label "Q84613636"^^xsd:string .
+
+wd:Q85509189 a wd:Q5127848 ;
+    rdfs:label "symptom"@en .
+
+wd:Q855681 a wd:Q7184903 ;
+    rdfs:label "Q855681"^^xsd:string .
+
+wd:Q85639966 a wd:Q2424752 ;
+    rdfs:label "Q85639966"^^xsd:string .
+
+wd:Q85640110 a wd:Q16889133 ;
+    rdfs:label "Q85640110"^^xsd:string .
+
+wd:Q85646296 a wd:Q2424752 ;
+    rdfs:label "Sinus Rinse™"@en .
+
+wd:Q85646498 a wd:Q2424752 ;
+    rdfs:label "NasaFlo® Neti Pot"@en .
+
+wd:Q85687460 a wd:Q2424752 ;
+    rdfs:label "HydroPulse"@en .
+
+wd:Q85703592 a wd:Q79529 ;
+    rdfs:label "ultrasound contrast media"@en .
+
+wd:Q85834701 a wd:Q2424752,
+        wd:Q8205328 ;
+    rdfs:label "architectural furniture"@en .
+
+wd:Q861 a wd:Q11344 ;
+    rdfs:label "gallium"@en .
+
+wd:Q863389 a wd:Q79529 ;
+    rdfs:label "Budesonide/formoterol"@en .
+
+wd:Q865054 a wd:Q2424752 ;
+    rdfs:label "baggage"@en .
+
+wd:Q867 a wd:Q11344 ;
+    rdfs:label "germanium"@en .
+
+wd:Q86771385 a wd:Q2424752 ;
+    rdfs:label "NasaDOCK"@en .
+
+wd:Q86771913 a wd:Q2424752 ;
+    rdfs:label "Sinugator"@en .
+
+wd:Q868375 a wd:Q11344 ;
+    rdfs:label "untrihexium"@en .
+
+wd:Q86919370 a wd:Q2424752 ;
+    rdfs:label "Antibac"@en .
+
+wd:Q869681 a wd:Q11344 ;
+    rdfs:label "untrioctium"@en .
+
+wd:Q871 a wd:Q11344 ;
+    rdfs:label "arsenic"@en .
+
+wd:Q876 a wd:Q11344 ;
+    rdfs:label "selenium"@en .
+
+wd:Q877 a wd:Q11344 ;
+    rdfs:label "iridium"@en .
+
+wd:Q879 a wd:Q11344 ;
+    rdfs:label "bromine"@en .
+
+wd:Q880 a wd:Q11344 ;
+    rdfs:label "platinum"@en .
+
+wd:Q881868 a wd:Q214609 ;
+    rdfs:label "Blasfilm"@en .
+
+wd:Q888 a wd:Q11344 ;
+    rdfs:label "krypton"@en .
+
+wd:Q895 a wd:Q11344 ;
+    rdfs:label "rubidium"@en .
+
+wd:Q897 a wd:Q11344 ;
+    rdfs:label "gold"@en .
+
+wd:Q8984550 a wd:Q2424752 ;
+    rdfs:label "PSE"@en .
+
+wd:Q898623 a wd:Q79529 ;
+    rdfs:label "Trimethoprim/sulfamethoxazole"@en .
+
+wd:Q898762 a wd:Q2424752 ;
+    rdfs:label "WD-40"@en .
+
+wd:Q904360 a wd:Q79529 ;
+    rdfs:label "Dinocap"@en .
+
+wd:Q904421 a wd:Q15401930 ;
+    rdfs:label "bone meal"@en .
+
+wd:Q906330 a wd:Q79529 ;
+    rdfs:label "Colloidal silica"@en .
+
+wd:Q909436 a wd:Q79529 ;
+    rdfs:label "copal"@en .
+
+wd:Q912189 a wd:Q79529 ;
+    rdfs:label "petroleum ether"@en .
+
+wd:Q9133501 a wd:Q2424752 ;
+    rdfs:label "429W"@en .
+
+wd:Q913381 a wd:Q214609 ;
+    rdfs:label "tintype"@en .
+
+wd:Q9163602 a wd:Q79529 ;
+    rdfs:label "BTM"@en .
+
+wd:Q917623 a wd:Q79529 ;
+    rdfs:label "Briquetage"@en .
+
+wd:Q923605 a wd:Q8205328 ;
+    rdfs:label "Injaz"@en .
+
+wd:Q924508 a wd:Q2424752 ;
+    rdfs:label "Wood flour"@en .
+
+wd:Q925 a wd:Q11344,
+        wd:Q11426 ;
+    rdfs:label "mercury"@en .
+
+wd:Q9293716 a wd:Q8205328 ;
+    rdfs:label "Hopa"@en .
+
+wd:Q932 a wd:Q11344 ;
+    rdfs:label "thallium"@en .
+
+wd:Q9375534 a wd:Q79529 ;
+    rdfs:label "vitamin B14"@en .
+
+wd:Q938 a wd:Q11344 ;
+    rdfs:label "strontium"@en .
+
+wd:Q9383016 a wd:Q2424752 ;
+    rdfs:label "X10"@en .
+
+wd:Q940913 a wd:Q2424752 ;
+    rdfs:label "continuous track"@en .
+
+wd:Q941 a wd:Q11344 ;
+    rdfs:label "yttrium"@en .
+
+wd:Q942 a wd:Q11344 ;
+    rdfs:label "bismuth"@en .
+
+wd:Q969804 a wd:Q79529 ;
+    rdfs:label "tincture"@en .
+
+wd:Q978399 a wd:Q2424752 ;
+    rdfs:label "sun-dried tomato"@en .
+
+wd:Q979 a wd:Q11344 ;
+    rdfs:label "polonium"@en .
+
+wd:Q986218 a wd:Q101843 ;
+    rdfs:label "period 9"@en .
+
+wd:Q999 a wd:Q11344 ;
+    rdfs:label "astatine"@en .
+
+wd:Q19591 rdfs:label "post-transition metal"@en ;
+    rdfs:subClassOf wd:Q11426 .
+
+wd:Q239825 a wd:Q101843 ;
+    rdfs:label "period 4"@en ;
+    rdfs:subClassOf wd:Q101843 .
+
+wd:Q28555911 rdfs:label "ordinary matter"@en ;
+    rdfs:subClassOf wd:Q6005984 .
+
+wd:Q578779 rdfs:label "pure substance"@en ;
+    rdfs:subClassOf wd:Q79529 .
+
+wd:Q6005984 rdfs:label "baryonic matter"@en .
+
+wd:Q34669510 rdfs:label "malleable material"@en .
+
+wd:Q28877 rdfs:label "goods"@en .
+
+wd:Q11426 rdfs:label "metal"@en ;
+    rdfs:subClassOf wd:Q214609,
+        wd:Q34669510 .
+
+wd:Q2512777 rdfs:label "simple substance"@en ;
+    rdfs:subClassOf wd:Q578779 .
+
+wd:Q5127848 rdfs:label "class"@en ;
+    rdfs:subClassOf wd:Q7184903 .
+
+wd:Q15401930 rdfs:label "product"@en .
+
+wd:Q101843 rdfs:label "period"@en ;
+    rdfs:subClassOf wd:Q16889133 .
+
+wd:Q7184903 rdfs:label "abstract object"@en .
+
+wd:Q8205328 rdfs:label "artificial physical object"@en .
+
+wd:Q758 a wd:Q11344,
+        wd:Q2512777 ;
+    rdfs:label "zinc"@en ;
+    rdfs:subClassOf wd:Q191875,
+        wd:Q19591,
+        wd:Q214609,
+        wd:Q239825 .
+
+wd:Q16889133 rdfs:label "class"@en .
+
+wd:Q214609 rdfs:label "base material"@en ;
+    rdfs:subClassOf wd:Q2424752,
+        wd:Q28555911 .
+
+wd:Q11344 rdfs:label "chemical element"@en ;
+    rdfs:subClassOf wd:Q5127848 .
+
+wd:Q2424752 rdfs:label "product"@en ;
+    rdfs:subClassOf wd:Q15401930,
+        wd:Q28877,
+        wd:Q8205328 .
+
+wd:Q79529 a wd:Q2424752 ;
+    rdfs:label "chemical substance"@en .
+

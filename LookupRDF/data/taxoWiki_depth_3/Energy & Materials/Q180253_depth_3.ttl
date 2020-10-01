@@ -1,0 +1,827 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1009393 a wd:Q337060 ;
+    rdfs:label "Q1009393"^^xsd:string .
+
+wd:Q10434748 a wd:Q16798631 ;
+    rdfs:label "Q10434748"^^xsd:string .
+
+wd:Q10539582 a wd:Q337060 ;
+    rdfs:label "Janoi"@en .
+
+wd:Q10570905 a wd:Q1183543 ;
+    rdfs:label "Q10570905"^^xsd:string .
+
+wd:Q10590846 a wd:Q337060 ;
+    rdfs:label "Q10590846"^^xsd:string .
+
+wd:Q10708175 a wd:Q337060 ;
+    rdfs:label "Töm"@en .
+
+wd:Q10851588 a wd:Q1183543 ;
+    rdfs:label "MYO"@en .
+
+wd:Q1096951 a wd:Q1183543 ;
+    rdfs:label "Q1096951"^^xsd:string .
+
+wd:Q1109118 a wd:Q1183543 ;
+    rdfs:label "light table"@en .
+
+wd:Q11195825 a wd:Q1183543 ;
+    rdfs:label "DICS"@en .
+
+wd:Q11196461 a wd:Q1183543 ;
+    rdfs:label "DVNR"@en .
+
+wd:Q11198664 a wd:Q1183543 ;
+    rdfs:label "F-06C"@en .
+
+wd:Q11198804 a wd:Q1183543 ;
+    rdfs:label "F700i"@en .
+
+wd:Q11223961 a wd:Q1183543 ;
+    rdfs:label "IHCC"@en .
+
+wd:Q11228021 a wd:Q1183543 ;
+    rdfs:label "KMX"@en .
+
+wd:Q11228711 a wd:Q1183543 ;
+    rdfs:label "L-05A"@en .
+
+wd:Q11228715 a wd:Q1183543 ;
+    rdfs:label "L-08C"@en .
+
+wd:Q11229867 a wd:Q1183543 ;
+    rdfs:label "Lavca"@en .
+
+wd:Q11237242 a wd:Q1183543 ;
+    rdfs:label "Q11237242"^^xsd:string .
+
+wd:Q11509369 a wd:Q17853087 ;
+    rdfs:label "The Electronic Book Publishers Association of Japan"@en .
+
+wd:Q11684024 a wd:Q1183543 ;
+    rdfs:label "ARES"@en .
+
+wd:Q11687318 a wd:Q337060 ;
+    rdfs:label "Banta"@en .
+
+wd:Q11691356 a wd:Q1183543 ;
+    rdfs:label "Combo"@en .
+
+wd:Q11734959 a wd:Q1183543 ;
+    rdfs:label "Kanka"@en .
+
+wd:Q11775002 a wd:Q1183543 ;
+    rdfs:label "Longe"@en .
+
+wd:Q11783638 a wd:Q1183543 ;
+    rdfs:label "Miurg"@en .
+
+wd:Q11801725 a wd:Q1183543 ;
+    rdfs:label "P-50"@en .
+
+wd:Q11832981 a wd:Q16798631 ;
+    rdfs:label "RAPS"@en .
+
+wd:Q1193170 a wd:Q1183543 ;
+    rdfs:label "headset"@en .
+
+wd:Q1196338 a wd:Q1183543 ;
+    rdfs:label "ard"@en .
+
+wd:Q11968972 a wd:Q1183543 ;
+    rdfs:label "Q11968972"^^xsd:string .
+
+wd:Q12036891 a wd:Q16798631 ;
+    rdfs:label "Q12036891"^^xsd:string .
+
+wd:Q12042802 a wd:Q1183543 ;
+    rdfs:label "Oplen"@en .
+
+wd:Q12049073 a wd:Q1183543 ;
+    rdfs:label "steam regenerator"@en .
+
+wd:Q12147 a wd:Q28877 ;
+    rdfs:label "health"@en .
+
+wd:Q12329924 a wd:Q337060 ;
+    rdfs:label "Q12329924"^^xsd:string .
+
+wd:Q12366010 a wd:Q1183543 ;
+    rdfs:label "Q12366010"^^xsd:string .
+
+wd:Q12377753 a wd:Q1183543 ;
+    rdfs:label "Und"@en .
+
+wd:Q1251293 a wd:Q1183543 ;
+    rdfs:label "Dotwin"@en .
+
+wd:Q1265341 a wd:Q337060 ;
+    rdfs:label "blinders"@en .
+
+wd:Q12715715 a wd:Q1183543 ;
+    rdfs:label "Ice drill machine"@en .
+
+wd:Q127445 a wd:Q337060 ;
+    rdfs:label "overcheck"@en .
+
+wd:Q1275051 a wd:Q1183543 ;
+    rdfs:label "Q1275051"^^xsd:string .
+
+wd:Q12818908 a wd:Q1183543 ;
+    rdfs:label "Q12818908"^^xsd:string .
+
+wd:Q12820683 a wd:Q1183543 ;
+    rdfs:label "Burov"@en .
+
+wd:Q12820976 a wd:Q1183543 ;
+    rdfs:label "Dam"@en .
+
+wd:Q13092493 a wd:Q1183543 ;
+    rdfs:label "Copok"@en .
+
+wd:Q13093062 a wd:Q1183543 ;
+    rdfs:label "Garu"@en .
+
+wd:Q13094332 a wd:Q1183543 ;
+    rdfs:label "Fan"@en .
+
+wd:Q1320847 a wd:Q1183543 ;
+    rdfs:label "foghorn"@en .
+
+wd:Q1335143 a wd:Q1183543 ;
+    rdfs:label "Valve gear"@en .
+
+wd:Q1335161 a wd:Q28877 ;
+    rdfs:label "model car"@en .
+
+wd:Q1371499 a wd:Q337060 ;
+    rdfs:label "flag"@en .
+
+wd:Q1372565 a wd:Q1183543 ;
+    rdfs:label "Heavy ion accelerator"@en .
+
+wd:Q138875 a wd:Q16798631 ;
+    rdfs:label "Apollo Guidance Computer"@en .
+
+wd:Q1401457 a wd:Q1183543 ;
+    rdfs:label "V beam"@en .
+
+wd:Q140690 a wd:Q1183543 ;
+    rdfs:label "Addiator"@en .
+
+wd:Q140944 a wd:Q1183543 ;
+    rdfs:label "Samsung Galaxy S III"@en .
+
+wd:Q1409700 a wd:Q1183543 ;
+    rdfs:label "Historical fire engines"@en .
+
+wd:Q1435355 a wd:Q1183543 ;
+    rdfs:label "siren"@en .
+
+wd:Q144355 a wd:Q337060 ;
+    rdfs:label "Zain"@en .
+
+wd:Q1457473 a wd:Q1183543 ;
+    rdfs:label "oral irrigator"@en .
+
+wd:Q1463565 a wd:Q1183543 ;
+    rdfs:label "cash"@en .
+
+wd:Q1476837 a wd:Q1183543 ;
+    rdfs:label "gas generator"@en .
+
+wd:Q1492894 a wd:Q337060 ;
+    rdfs:label "Q1492894"^^xsd:string .
+
+wd:Q1501099 a wd:Q16798631 ;
+    rdfs:label "Gemini Guidance Computer"@en .
+
+wd:Q1502320 a wd:Q1183543 ;
+    rdfs:label "Gene gun"@en .
+
+wd:Q1512054 a wd:Q1183543 ;
+    rdfs:label "acoustic horn"@en .
+
+wd:Q152596 a wd:Q1183543 ;
+    rdfs:label "pacifier"@en .
+
+wd:Q1538096 a wd:Q337060 ;
+    rdfs:label "Mo San"@en .
+
+wd:Q1542899 a wd:Q1183543 ;
+    rdfs:label "sandbox"@en .
+
+wd:Q1553001 a wd:Q337060 ;
+    rdfs:label "index card"@en .
+
+wd:Q15714630 a wd:Q16798631 ;
+    rdfs:label "Q15714630"^^xsd:string .
+
+wd:Q15852805 a wd:Q1183543 ;
+    rdfs:label "Bowl feeder"@en .
+
+wd:Q159391 a wd:Q1183543 ;
+    rdfs:label "radio receiver"@en .
+
+wd:Q1597265 a wd:Q1183543 ;
+    rdfs:label "Q1597265"^^xsd:string .
+
+wd:Q16427833 a wd:Q17853087 ;
+    rdfs:label "List of Learners"@en .
+
+wd:Q16666157 a wd:Q1183543 ;
+    rdfs:label "Q16666157"^^xsd:string .
+
+wd:Q1668448 a wd:Q1183543 ;
+    rdfs:label "spinal cord stimulator"@en .
+
+wd:Q16828524 a wd:Q337060 ;
+    rdfs:label "Angle plate"@en .
+
+wd:Q1687894 a wd:Q1183543 ;
+    rdfs:label "grease fitting"@en .
+
+wd:Q1703279 a wd:Q1183543 ;
+    rdfs:label "Stromuhr"@en .
+
+wd:Q1744311 a wd:Q1183543 ;
+    rdfs:label "On-Board-Unit"@en .
+
+wd:Q17454378 a wd:Q337060 ;
+    rdfs:label "Q17454378"^^xsd:string .
+
+wd:Q17454379 a wd:Q337060 ;
+    rdfs:label "Q17454379"^^xsd:string .
+
+wd:Q1751729 a wd:Q337060 ;
+    rdfs:label "Scoubidou"@en .
+
+wd:Q17599426 a wd:Q1183543 ;
+    rdfs:label "Pencil extender"@en .
+
+wd:Q18011269 a wd:Q1183543 ;
+    rdfs:label "Q18011269"^^xsd:string .
+
+wd:Q1807473 a wd:Q1183543 ;
+    rdfs:label "crane trolley"@en .
+
+wd:Q1816096 a wd:Q1183543 ;
+    rdfs:label "mechanical lathe"@en .
+
+wd:Q18379183 a wd:Q1183543 ;
+    rdfs:label "NanoRacks CubeSat Deployer"@en .
+
+wd:Q190883 a wd:Q1183543 ;
+    rdfs:label "Zentrierhilfe"@en .
+
+wd:Q1930110 a wd:Q1183543 ;
+    rdfs:label "Spectroheliograph"@en .
+
+wd:Q199333 a wd:Q1183543 ;
+    rdfs:label "Rolling machine"@en .
+
+wd:Q20012496 a wd:Q17853087 ;
+    rdfs:label "Q20012496"^^xsd:string .
+
+wd:Q20012674 a wd:Q17853087 ;
+    rdfs:label "Q20012674"^^xsd:string .
+
+wd:Q2032544 a wd:Q1183543 ;
+    rdfs:label "expansion slot"@en .
+
+wd:Q2036607 a wd:Q1183543 ;
+    rdfs:label "Oscillograph"@en .
+
+wd:Q2043697 a wd:Q1183543 ;
+    rdfs:label "PAR-80"@en .
+
+wd:Q20888289 a wd:Q1183543 ;
+    rdfs:label "Westerland tide meter"@en .
+
+wd:Q2094183 a wd:Q1183543 ;
+    rdfs:label "Q2094183"^^xsd:string .
+
+wd:Q2105063 a wd:Q1183543 ;
+    rdfs:label "Q2105063"^^xsd:string .
+
+wd:Q2130082 a wd:Q1183543 ;
+    rdfs:label "Bookwheel"@en .
+
+wd:Q2141986 a wd:Q1183543 ;
+    rdfs:label "immersion heater"@en .
+
+wd:Q214488 a wd:Q337060 ;
+    rdfs:label "ashtray"@en .
+
+wd:Q2243178 a wd:Q1183543 ;
+    rdfs:label "digital center"@en .
+
+wd:Q228686 a wd:Q811367 ;
+    rdfs:label "Zukaufteil"@en .
+
+wd:Q23680538 a wd:Q17853087 ;
+    rdfs:label "Les Ailes brisées (Broken Wings)"@en .
+
+wd:Q2375925 a wd:Q17853087 ;
+    rdfs:label "Syndikat"@en .
+
+wd:Q2408918 a wd:Q1183543 ;
+    rdfs:label "rapid sand filter"@en .
+
+wd:Q247925 a wd:Q337060 ;
+    rdfs:label "Breeder ring"@en .
+
+wd:Q248256 a wd:Q1183543 ;
+    rdfs:label "Blasting machine"@en .
+
+wd:Q25379632 a wd:Q337060 ;
+    rdfs:label "Rope halter"@en .
+
+wd:Q2549717 a wd:Q1183543 ;
+    rdfs:label "Q2549717"^^xsd:string .
+
+wd:Q26267222 a wd:Q1183543 ;
+    rdfs:label "Archer Fork with clamping screw for fuse in the shape of a dragon's head"@en .
+
+wd:Q2636973 a wd:Q1183543 ;
+    rdfs:label "Q2636973"^^xsd:string .
+
+wd:Q2659787 a wd:Q1183543 ;
+    rdfs:label "Motion detector"@en .
+
+wd:Q275924 a wd:Q1183543 ;
+    rdfs:label "The Turk"@en .
+
+wd:Q27868004 a wd:Q1183543 ;
+    rdfs:label "Janssen revolver"@en .
+
+wd:Q282799 rdfs:label "Direct-ethanol fuel cell"@en ;
+    rdfs:subClassOf wd:Q899619 .
+
+wd:Q2845593 a wd:Q1183543 ;
+    rdfs:label "globe valve"@en .
+
+wd:Q286649 a wd:Q1183543 ;
+    rdfs:label "Aquarius"@en .
+
+wd:Q2885519 a wd:Q16798631 ;
+    rdfs:label "Q2885519"^^xsd:string .
+
+wd:Q2926102 a wd:Q337060 ;
+    rdfs:label "Q2926102"^^xsd:string .
+
+wd:Q30089515 a wd:Q1183543 ;
+    rdfs:label "Q30089515"^^xsd:string .
+
+wd:Q3021045 a wd:Q1183543 ;
+    rdfs:label "Decsat"@en .
+
+wd:Q3040038 a wd:Q1183543 ;
+    rdfs:label "Tiller rope"@en .
+
+wd:Q3042193 a wd:Q1183543 ;
+    rdfs:label "Dzi"@en .
+
+wd:Q3045515 a wd:Q16798631 ;
+    rdfs:label "Q3045515"^^xsd:string .
+
+wd:Q305580 a wd:Q28877 ;
+    rdfs:label "Abarta"@en .
+
+wd:Q3120609 a wd:Q1183543 ;
+    rdfs:label "Guinde"@en .
+
+wd:Q3181284 a wd:Q1183543 ;
+    rdfs:label "eddy current separator"@en .
+
+wd:Q319322 a wd:Q1183543 ;
+    rdfs:label "Metox"@en .
+
+wd:Q328989 a wd:Q1183543 ;
+    rdfs:label "night vision device"@en .
+
+wd:Q332714 a wd:Q1183543 ;
+    rdfs:label "Q332714"^^xsd:string .
+
+wd:Q33801483 a wd:Q3749263 ;
+    rdfs:label "Q33801483"^^xsd:string .
+
+wd:Q338722 a wd:Q17853087 ;
+    rdfs:label "Late merge"@en .
+
+wd:Q3388405 rdfs:label "Direct borohydride fuel cell"@en ;
+    rdfs:subClassOf wd:Q899342 .
+
+wd:Q3412136 a wd:Q337060 ;
+    rdfs:label "Q3412136"^^xsd:string .
+
+wd:Q3485150 a wd:Q337060 ;
+    rdfs:label "Q3485150"^^xsd:string .
+
+wd:Q3508373 a wd:Q17853087 ;
+    rdfs:label "\"mixed union\""@en .
+
+wd:Q35221 a wd:Q16798631 ;
+    rdfs:label "reflecting telescope"@en .
+
+wd:Q352466 a wd:Q1183543 ;
+    rdfs:label "Fire flapper"@en .
+
+wd:Q3532177 a wd:Q337060 ;
+    rdfs:label "Q3532177"^^xsd:string .
+
+wd:Q3563267 a wd:Q1183543 ;
+    rdfs:label "Q3563267"^^xsd:string .
+
+wd:Q3633354 a wd:Q1183543 ;
+    rdfs:label "ball and chain"@en .
+
+wd:Q3657262 a wd:Q1183543 ;
+    rdfs:label "Capone"@en .
+
+wd:Q3753782 a wd:Q1183543 ;
+    rdfs:label "Fruit machine"@en .
+
+wd:Q375647 a wd:Q1183543 ;
+    rdfs:label "centrifugal governor"@en .
+
+wd:Q3780321 a wd:Q3749263 ;
+    rdfs:label "People meter"@en .
+
+wd:Q38099333 a wd:Q337060 ;
+    rdfs:label "Q38099333"^^xsd:string .
+
+wd:Q3844551 a wd:Q3749263 ;
+    rdfs:label "Q3844551"^^xsd:string .
+
+wd:Q3904949 rdfs:label "regenerative fuel cell"@en ;
+    rdfs:subClassOf wd:Q180253 .
+
+wd:Q4037842 a wd:Q1183543 ;
+    rdfs:label "EToken"@en .
+
+wd:Q404263 a wd:Q1183543 ;
+    rdfs:label "Q404263"^^xsd:string .
+
+wd:Q42586063 a wd:Q1183543 ;
+    rdfs:label "encoder"@en .
+
+wd:Q4339909 a wd:Q1183543 ;
+    rdfs:label "Bird scarer"@en .
+
+wd:Q4381802 a wd:Q1183543 ;
+    rdfs:label "Q4381802"^^xsd:string .
+
+wd:Q4536309 a wd:Q1183543 ;
+    rdfs:label "Cheget"@en .
+
+wd:Q460209 a wd:Q1183543 ;
+    rdfs:label "Amchaqab"@en .
+
+wd:Q461049 rdfs:label "Formic acid fuel cell"@en ;
+    rdfs:subClassOf wd:Q180253 .
+
+wd:Q484921 a wd:Q1183543 ;
+    rdfs:label "Analog telephone adapter"@en .
+
+wd:Q48757211 a wd:Q17853087 ;
+    rdfs:label "Q48757211"^^xsd:string .
+
+wd:Q48892659 a wd:Q1183543 ;
+    rdfs:label "Q48892659"^^xsd:string .
+
+wd:Q4915226 a wd:Q1183543 ;
+    rdfs:label "Bioptics"@en .
+
+wd:Q4918717 a wd:Q337060 ;
+    rdfs:label "Bit guard"@en .
+
+wd:Q495186 a wd:Q1183543 ;
+    rdfs:label "Precision approach radar"@en .
+
+wd:Q50301554 a wd:Q337060 ;
+    rdfs:label "GREOSK"@en .
+
+wd:Q5135731 a wd:Q1183543 ;
+    rdfs:label "cloudbuster"@en .
+
+wd:Q517596 a wd:Q1183543 ;
+    rdfs:label "mechanism"@en .
+
+wd:Q52046050 a wd:Q337060 ;
+    rdfs:label "Cobra Head"@en .
+
+wd:Q52146163 a wd:Q1183543 ;
+    rdfs:label "Q52146163"^^xsd:string .
+
+wd:Q52880233 a wd:Q1183543 ;
+    rdfs:label "Passive autocatalytic recombiner"@en .
+
+wd:Q53699 a wd:Q1183543 ;
+    rdfs:label "rotary encoder"@en .
+
+wd:Q5396057 a wd:Q1183543 ;
+    rdfs:label "LPG"@en .
+
+wd:Q5407297 a wd:Q17853087 ;
+    rdfs:label "Q5407297"^^xsd:string .
+
+wd:Q5411176 a wd:Q1183543 ;
+    rdfs:label "Q5411176"^^xsd:string .
+
+wd:Q5412222 a wd:Q337060 ;
+    rdfs:label "Polo wraps"@en .
+
+wd:Q55758336 a wd:Q1183543 ;
+    rdfs:label "Q55758336"^^xsd:string .
+
+wd:Q55999997 a wd:Q1183543 ;
+    rdfs:label "Q55999997"^^xsd:string .
+
+wd:Q56400906 a wd:Q1183543 ;
+    rdfs:label "oil press"@en .
+
+wd:Q56711128 a wd:Q16798631 ;
+    rdfs:label "Q56711128"^^xsd:string .
+
+wd:Q57082597 a wd:Q17853087 ;
+    rdfs:label "Q57082597"^^xsd:string .
+
+wd:Q586119 a wd:Q1183543 ;
+    rdfs:label "incubator"@en .
+
+wd:Q596400 a wd:Q1183543 ;
+    rdfs:label "calculagraph"@en .
+
+wd:Q598686 a wd:Q1183543 ;
+    rdfs:label "Q598686"^^xsd:string .
+
+wd:Q6087581 a wd:Q17853087 ;
+    rdfs:label "Israeli Peace Initiative"@en .
+
+wd:Q6154799 a wd:Q1183543 ;
+    rdfs:label "UFCAP"@en .
+
+wd:Q6156142 a wd:Q1183543 ;
+    rdfs:label "Q6156142"^^xsd:string .
+
+wd:Q61765043 a wd:Q16798631 ;
+    rdfs:label "Chave"@en .
+
+wd:Q61765046 a wd:Q16798631 ;
+    rdfs:label "Chave"@en .
+
+wd:Q61765775 a wd:Q16798631 ;
+    rdfs:label "Chave"@en .
+
+wd:Q61766132 a wd:Q16798631 ;
+    rdfs:label "Pedra de Afiar"@en .
+
+wd:Q61989521 a wd:Q267298 ;
+    rdfs:label "Fluoride-ion Battery"@en .
+
+wd:Q61995940 a wd:Q337060 ;
+    rdfs:label "Medusarium"@en .
+
+wd:Q623544 a wd:Q16798631 ;
+    rdfs:label "ejection seat"@en .
+
+wd:Q63147119 a wd:Q17853087 ;
+    rdfs:label "Q63147119"^^xsd:string .
+
+wd:Q6332343 a wd:Q1183543 ;
+    rdfs:label "KL-43"@en .
+
+wd:Q63382940 a wd:Q337060 ;
+    rdfs:label "Q63382940"^^xsd:string .
+
+wd:Q64040876 a wd:Q16798631 ;
+    rdfs:label "light cube"@en .
+
+wd:Q6436411 a wd:Q1183543 ;
+    rdfs:label "Kratos MS 50"@en .
+
+wd:Q64667293 a wd:Q1183543 ;
+    rdfs:label "Q64667293"^^xsd:string .
+
+wd:Q64828360 a wd:Q1183543 ;
+    rdfs:label "Audiphon"@en .
+
+wd:Q65138605 a wd:Q17853087 ;
+    rdfs:label "Union (canon law)"@en .
+
+wd:Q65238449 rdfs:label "Hydrazine fuel cell"@en ;
+    rdfs:subClassOf wd:Q180253 .
+
+wd:Q653807 a wd:Q1183543 ;
+    rdfs:label "catalytic converter"@en .
+
+wd:Q65962046 a wd:Q1183543 ;
+    rdfs:label "Q65962046"^^xsd:string .
+
+wd:Q66480756 a wd:Q811367 ;
+    rdfs:label "Valentine Tank Assemblage, Poole Bay"@en .
+
+wd:Q66480757 a wd:Q811367 ;
+    rdfs:label "Assemblage of Second World War Tanks and Bulldozers"@en .
+
+wd:Q6716625 a wd:Q1183543 ;
+    rdfs:label "MLSSA"@en .
+
+wd:Q67296466 a wd:Q1183543 ;
+    rdfs:label "Compton generator"@en .
+
+wd:Q6819100 a wd:Q17853087 ;
+    rdfs:label "Merge"@en .
+
+wd:Q6918280 a wd:Q1183543 ;
+    rdfs:label "motorcycle trailer"@en .
+
+wd:Q6934841 a wd:Q1183543 ;
+    rdfs:label "multiphase flow meter"@en .
+
+wd:Q70442196 a wd:Q1183543 ;
+    rdfs:label "Q70442196"^^xsd:string .
+
+wd:Q7120351 a wd:Q1183543 ;
+    rdfs:label "PRL Advanced Radial-velocity All-sky Search"@en .
+
+wd:Q715223 a wd:Q1183543 ;
+    rdfs:label "sound module"@en .
+
+wd:Q7387075 a wd:Q1183543 ;
+    rdfs:label "S-Phone"@en .
+
+wd:Q7426817 a wd:Q16798631 ;
+    rdfs:label "Saturn V Instrument Unit"@en .
+
+wd:Q74458329 a wd:Q1183543 ;
+    rdfs:label "Q74458329"^^xsd:string .
+
+wd:Q74458418 a wd:Q1183543 ;
+    rdfs:label "Q74458418"^^xsd:string .
+
+wd:Q7447975 a wd:Q1183543 ;
+    rdfs:label "Self-Injurious Behavior Inhibiting System"@en .
+
+wd:Q75366045 a wd:Q1183543 ;
+    rdfs:label "Q75366045"^^xsd:string .
+
+wd:Q75717446 a wd:Q1183543 ;
+    rdfs:label "Q75717446"^^xsd:string .
+
+wd:Q758891 a wd:Q1183543 ;
+    rdfs:label "Q758891"^^xsd:string .
+
+wd:Q7595760 a wd:Q337060 ;
+    rdfs:label "Stable bandage"@en .
+
+wd:Q7672094 a wd:Q1183543 ;
+    rdfs:label "TV2Me"@en .
+
+wd:Q7841696 a wd:Q1183543 ;
+    rdfs:label "Trigger"@en .
+
+wd:Q7857 a wd:Q337060 ;
+    rdfs:label "toilet"@en .
+
+wd:Q7859467 a wd:Q1183543 ;
+    rdfs:label "twofer"@en .
+
+wd:Q78739799 a wd:Q16798631 ;
+    rdfs:label "mining equipment"@en .
+
+wd:Q7913723 a wd:Q1183543 ;
+    rdfs:label "Van Veen Grab Sampler"@en .
+
+wd:Q7927940 a wd:Q1183543 ;
+    rdfs:label "Tape head cleaner"@en .
+
+wd:Q7942010 a wd:Q16798631 ;
+    rdfs:label "Voskhod Spacecraft \"Globus\" IMP navigation instrument"@en .
+
+wd:Q7973454 a wd:Q1183543 ;
+    rdfs:label "Water brake"@en .
+
+wd:Q7993652 a wd:Q1183543 ;
+    rdfs:label "Whim"@en .
+
+wd:Q8042291 a wd:Q1183543 ;
+    rdfs:label "XM2go"@en .
+
+wd:Q813243 a wd:Q1183543 ;
+    rdfs:label "Medical ventilator"@en .
+
+wd:Q813779 a wd:Q1183543 ;
+    rdfs:label "bedmover"@en .
+
+wd:Q83291145 a wd:Q1183543 ;
+    rdfs:label "Forest Penetrator"@en .
+
+wd:Q83981560 a wd:Q1183543 ;
+    rdfs:label "Q83981560"^^xsd:string .
+
+wd:Q83981564 a wd:Q1183543 ;
+    rdfs:label "Q83981564"^^xsd:string .
+
+wd:Q84083212 a wd:Q1183543 ;
+    rdfs:label "tonograph"@en .
+
+wd:Q84309308 a wd:Q1183543 ;
+    rdfs:label "Exolung"@en .
+
+wd:Q84627782 a wd:Q267298 ;
+    rdfs:label "A batteries"@en .
+
+wd:Q84858674 a wd:Q1183543 ;
+    rdfs:label "Q84858674"^^xsd:string .
+
+wd:Q86079543 a wd:Q1183543 ;
+    rdfs:label "tanning bed"@en .
+
+wd:Q861383 a wd:Q1183543 ;
+    rdfs:label "videophone"@en .
+
+wd:Q86500202 a wd:Q17853087 ;
+    rdfs:label "Joining of the Archdiocese of Russian Orthodox churches in Western Europe to the Moscow Patriarchate"@en .
+
+wd:Q86857919 a wd:Q1183543 ;
+    rdfs:label "Phonograph tone arm assembly"@en .
+
+wd:Q86987181 a wd:Q1183543 ;
+    rdfs:label "ship horn"@en .
+
+wd:Q899119 a wd:Q1183543 ;
+    rdfs:label "salt bridge"@en .
+
+wd:Q899633 a wd:Q180253 ;
+    rdfs:label "Solid oxide fuel cell"@en .
+
+wd:Q900959 rdfs:label "Molten carbonate fuel cell"@en ;
+    rdfs:subClassOf wd:Q180253 .
+
+wd:Q900987 rdfs:label "phosphoric acid fuel cell"@en ;
+    rdfs:subClassOf wd:Q180253 .
+
+wd:Q901910 rdfs:label "Direct methanol fuel cell"@en ;
+    rdfs:subClassOf wd:Q899619 .
+
+wd:Q913441 a wd:Q337060 ;
+    rdfs:label "Bricke"@en .
+
+wd:Q9200374 a wd:Q1183543 ;
+    rdfs:label "DCX"@en .
+
+wd:Q926908 a wd:Q1183543 ;
+    rdfs:label "Pantelegraph"@en .
+
+wd:Q946725 a wd:Q1183543 ;
+    rdfs:label "cotton mill"@en .
+
+wd:Q959646 a wd:Q1183543 ;
+    rdfs:label "phonautograph"@en .
+
+wd:Q989870 a wd:Q337060 ;
+    rdfs:label "technical material system"@en .
+
+wd:Q837718 rdfs:label "energy storage"@en ;
+    rdfs:subClassOf wd:Q28877 .
+
+wd:Q899342 rdfs:label "Alkaline fuel cell"@en ;
+    rdfs:subClassOf wd:Q180253 .
+
+wd:Q899619 rdfs:label "Proton exchange membrane fuel cell"@en ;
+    rdfs:subClassOf wd:Q180253 .
+
+wd:Q267298 rdfs:label "battery"@en ;
+    rdfs:subClassOf wd:Q3749263,
+        wd:Q811367,
+        wd:Q837718 .
+
+wd:Q28877 rdfs:label "goods"@en .
+
+wd:Q3749263 rdfs:label "electrical equipment"@en ;
+    rdfs:subClassOf wd:Q1183543,
+        wd:Q16798631 .
+
+wd:Q811367 rdfs:label "assembly"@en ;
+    rdfs:subClassOf wd:Q17853087,
+        wd:Q337060 .
+
+wd:Q180253 rdfs:label "fuel cell"@en ;
+    rdfs:subClassOf wd:Q267298 .
+
+wd:Q17853087 rdfs:label "merge"@en .
+
+wd:Q16798631 rdfs:label "equipment"@en .
+
+wd:Q337060 rdfs:label "perceptible object"@en .
+
+wd:Q1183543 rdfs:label "device"@en .
+

@@ -1,0 +1,789 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1030226 a wd:Q697175 ;
+    rdfs:label "J-I"@en .
+
+wd:Q10396596 a wd:Q41291 ;
+    rdfs:label "Ātea"@en .
+
+wd:Q10720217 a wd:Q42889 ;
+    rdfs:label "Q10720217"^^xsd:string .
+
+wd:Q1079362 a wd:Q41291 ;
+    rdfs:label "HEAT 1X Tycho Brahe"@en .
+
+wd:Q10819557 a wd:Q42889 ;
+    rdfs:label "Sever"@en .
+
+wd:Q1093627 a wd:Q41291 ;
+    rdfs:label "Falcon Heavy"@en .
+
+wd:Q11230713 a wd:Q697175 ;
+    rdfs:label "Q11230713"^^xsd:string .
+
+wd:Q1144839 a wd:Q41291 ;
+    rdfs:label "R4M"@en .
+
+wd:Q11691397 a wd:Q41291 ;
+    rdfs:label "Q11691397"^^xsd:string .
+
+wd:Q11697695 a wd:Q42889 ;
+    rdfs:label "Fasiąg"@en .
+
+wd:Q11732882 a wd:Q41291 ;
+    rdfs:label "KAN-1"@en .
+
+wd:Q11867925 a wd:Q41291 ;
+    rdfs:label "Juno"@en .
+
+wd:Q11896591 a wd:Q42889 ;
+    rdfs:label "Tatra T28"@en .
+
+wd:Q120309 a wd:Q42889 ;
+    rdfs:label "MOWAG Piranha IB 6×6"@en .
+
+wd:Q12306834 a wd:Q42889 ;
+    rdfs:label "DEMU"@en .
+
+wd:Q12325531 a wd:Q42889 ;
+    rdfs:label "MKM"@en .
+
+wd:Q12379763 a wd:Q7194062 ;
+    rdfs:label "11D49"@en .
+
+wd:Q1299641 a wd:Q41291 ;
+    rdfs:label "Soyuz rocket family"@en .
+
+wd:Q130663 a wd:Q41291 ;
+    rdfs:label "Leopard"@en .
+
+wd:Q13110583 a wd:Q42889 ;
+    rdfs:label "RISHIKA"@en .
+
+wd:Q132008 a wd:Q42889 ;
+    rdfs:label "Q132008"^^xsd:string .
+
+wd:Q1344031 a wd:Q41291 ;
+    rdfs:label "Congreve rocket"@en .
+
+wd:Q13576294 a wd:Q42889 ;
+    rdfs:label "electronic stability control"@en .
+
+wd:Q1366534 a wd:Q41291 ;
+    rdfs:label "Nimrod"@en .
+
+wd:Q1419024 a wd:Q41291 ;
+    rdfs:label "Rubis"@en .
+
+wd:Q15021 a wd:Q41291 ;
+    rdfs:label "Aero High"@en .
+
+wd:Q15049837 a wd:Q697175 ;
+    rdfs:label "Kuaizhou"@en .
+
+wd:Q15215794 a wd:Q697175 ;
+    rdfs:label "Falcon 9 v1.1"@en ;
+    rdfs:subClassOf wd:Q249091 .
+
+wd:Q152312 a wd:Q41291 ;
+    rdfs:label "Black Knight"@en .
+
+wd:Q152946 a wd:Q42889 ;
+    rdfs:label "Volkswagen Beetle"@en .
+
+wd:Q1531301 a wd:Q42889 ;
+    rdfs:label "Glide"@en .
+
+wd:Q15720682 a wd:Q41291 ;
+    rdfs:label "Ariane 6"@en .
+
+wd:Q15910271 a wd:Q42889 ;
+    rdfs:label "flat car"@en .
+
+wd:Q16040665 a wd:Q42889 ;
+    rdfs:label "Maruti Omni"@en .
+
+wd:Q1630217 a wd:Q42889 ;
+    rdfs:label "Wiima"@en .
+
+wd:Q1632287 a wd:Q42889 ;
+    rdfs:label "caster board"@en .
+
+wd:Q16349696 a wd:Q697175 ;
+    rdfs:label "Q16349696"^^xsd:string .
+
+wd:Q16349701 a wd:Q697175 ;
+    rdfs:label "Q16349701"^^xsd:string .
+
+wd:Q16349706 a wd:Q697175 ;
+    rdfs:label "Q16349706"^^xsd:string .
+
+wd:Q16535098 a wd:Q42889 ;
+    rdfs:label "Q16535098"^^xsd:string .
+
+wd:Q16604153 a wd:Q42889 ;
+    rdfs:label "Q16604153"^^xsd:string .
+
+wd:Q16837944 a wd:Q697175 ;
+    rdfs:label "Falcon 9 v1.0"@en ;
+    rdfs:subClassOf wd:Q249091 .
+
+wd:Q17142543 a wd:Q697175 ;
+    rdfs:label "Streaker"@en .
+
+wd:Q1721774 a wd:Q42889 ;
+    rdfs:label "Kaiserwagen"@en .
+
+wd:Q1727072 a wd:Q41291 ;
+    rdfs:label "Minotaur"@en .
+
+wd:Q17391 a wd:Q41291 ;
+    rdfs:label "Antares"@en .
+
+wd:Q17399818 a wd:Q41291 ;
+    rdfs:label "C 80"@en .
+
+wd:Q17511044 a wd:Q41291 ;
+    rdfs:label "Bongbong"@en .
+
+wd:Q18292672 a wd:Q42889 ;
+    rdfs:label "Triumphal chariot"@en .
+
+wd:Q18379 a wd:Q41291 ;
+    rdfs:label "Ariane 2"@en .
+
+wd:Q18381 a wd:Q41291 ;
+    rdfs:label "Ariane 3"@en .
+
+wd:Q18387 a wd:Q41291 ;
+    rdfs:label "Ariane 4"@en .
+
+wd:Q18532 a wd:Q697175 ;
+    rdfs:label "Ariane 5"@en .
+
+wd:Q18589887 a wd:Q42889 ;
+    rdfs:label "Citroën Berlingo I"@en .
+
+wd:Q191931 a wd:Q42889 ;
+    rdfs:label "wheelchair"@en .
+
+wd:Q1960326 a wd:Q42889 ;
+    rdfs:label "ACTUV"@en .
+
+wd:Q20055772 a wd:Q697175 ;
+    rdfs:label "Firefly"@en .
+
+wd:Q20072244 a wd:Q697175 ;
+    rdfs:label "Q20072244"^^xsd:string .
+
+wd:Q20578252 a wd:Q697175 ;
+    rdfs:label "Q20578252"^^xsd:string .
+
+wd:Q20820259 a wd:Q42889 ;
+    rdfs:label "Q20820259"^^xsd:string .
+
+wd:Q2252329 a wd:Q697175 ;
+    rdfs:label "Capricornio"@en .
+
+wd:Q22671470 a wd:Q41291 ;
+    rdfs:label "Orion (rocket stage)"@en .
+
+wd:Q22985246 a wd:Q41291 ;
+    rdfs:label "M-13 Katyusha"@en .
+
+wd:Q23749 a wd:Q41291 ;
+    rdfs:label "Belier"@en .
+
+wd:Q23759442 a wd:Q41291 ;
+    rdfs:label "super heavy-lift launch vehicle"@en .
+
+wd:Q248551 a wd:Q41291 ;
+    rdfs:label "Conestoga"@en .
+
+wd:Q249231 a wd:Q697175 ;
+    rdfs:label "Proton"@en .
+
+wd:Q25056621 a wd:Q42889 ;
+    rdfs:label "Riding mower"@en .
+
+wd:Q25352102 a wd:Q41291 ;
+    rdfs:label "PL-10"@en .
+
+wd:Q26234095 a wd:Q697175 ;
+    rdfs:label "OmegA"@en .
+
+wd:Q27526212 a wd:Q42889 ;
+    rdfs:label "Q27526212"^^xsd:string .
+
+wd:Q27861594 a wd:Q41291 ;
+    rdfs:label "Roton"@en .
+
+wd:Q28321824 rdfs:label "Falcon 9 Flight 29"@en ;
+    rdfs:subClassOf wd:Q22808999 .
+
+wd:Q2842690 a wd:Q41291 ;
+    rdfs:label "Q2842690"^^xsd:string .
+
+wd:Q28530665 a wd:Q41291 ;
+    rdfs:label "Q28530665"^^xsd:string .
+
+wd:Q2881182 a wd:Q41291 ;
+    rdfs:label "Q2881182"^^xsd:string .
+
+wd:Q29112906 a wd:Q42889 ;
+    rdfs:label "Q29112906"^^xsd:string .
+
+wd:Q29112907 a wd:Q42889 ;
+    rdfs:label "Q29112907"^^xsd:string .
+
+wd:Q29113735 a wd:Q42889 ;
+    rdfs:label "Q29113735"^^xsd:string .
+
+wd:Q29114539 a wd:Q42889 ;
+    rdfs:label "Q29114539"^^xsd:string .
+
+wd:Q29114542 a wd:Q42889 ;
+    rdfs:label "Q29114542"^^xsd:string .
+
+wd:Q29121326 a wd:Q42889 ;
+    rdfs:label "Q29121326"^^xsd:string .
+
+wd:Q2918017 a wd:Q42889 ;
+    rdfs:label "Q2918017"^^xsd:string .
+
+wd:Q29197451 a wd:Q42889 ;
+    rdfs:label "Q29197451"^^xsd:string .
+
+wd:Q29197461 a wd:Q42889 ;
+    rdfs:label "Q29197461"^^xsd:string .
+
+wd:Q29228899 a wd:Q42889 ;
+    rdfs:label "Q29228899"^^xsd:string .
+
+wd:Q29230327 a wd:Q42889 ;
+    rdfs:label "Q29230327"^^xsd:string .
+
+wd:Q29253173 a wd:Q42889 ;
+    rdfs:label "Q29253173"^^xsd:string .
+
+wd:Q29253176 a wd:Q42889 ;
+    rdfs:label "Q29253176"^^xsd:string .
+
+wd:Q29253693 a wd:Q42889 ;
+    rdfs:label "Q29253693"^^xsd:string .
+
+wd:Q29254049 a wd:Q42889 ;
+    rdfs:label "Q29254049"^^xsd:string .
+
+wd:Q29254096 a wd:Q42889 ;
+    rdfs:label "Q29254096"^^xsd:string .
+
+wd:Q29254691 a wd:Q42889 ;
+    rdfs:label "Q29254691"^^xsd:string .
+
+wd:Q29254696 a wd:Q42889 ;
+    rdfs:label "Q29254696"^^xsd:string .
+
+wd:Q29255583 a wd:Q42889 ;
+    rdfs:label "Q29255583"^^xsd:string .
+
+wd:Q29257325 a wd:Q42889 ;
+    rdfs:label "Q29257325"^^xsd:string .
+
+wd:Q29257747 a wd:Q42889 ;
+    rdfs:label "Q29257747"^^xsd:string .
+
+wd:Q29284406 a wd:Q42889 ;
+    rdfs:label "Q29284406"^^xsd:string .
+
+wd:Q29289884 a wd:Q42889 ;
+    rdfs:label "Q29289884"^^xsd:string .
+
+wd:Q29300742 a wd:Q42889 ;
+    rdfs:label "Q29300742"^^xsd:string .
+
+wd:Q294352 a wd:Q41291 ;
+    rdfs:label "ALAS (missile)"@en .
+
+wd:Q30280458 a wd:Q42889 ;
+    rdfs:label "FEDDZ"@en .
+
+wd:Q3031336 a wd:Q41291 ;
+    rdfs:label "RP-3"@en .
+
+wd:Q3045798 a wd:Q41291 ;
+    rdfs:label "Q3045798"^^xsd:string .
+
+wd:Q3046025 a wd:Q41291 ;
+    rdfs:label "Q3046025"^^xsd:string .
+
+wd:Q3093250 a wd:Q42889 ;
+    rdfs:label "Q3093250"^^xsd:string .
+
+wd:Q31847096 a wd:Q41291 ;
+    rdfs:label "Saturn V Launch Vehicle"@en .
+
+wd:Q3196199 a wd:Q41291 ;
+    rdfs:label "Kholod"@en .
+
+wd:Q321683 a wd:Q41291 ;
+    rdfs:label "Q321683"^^xsd:string .
+
+wd:Q324870 a wd:Q42889 ;
+    rdfs:label "ICE 4"@en .
+
+wd:Q3270785 a wd:Q697175 ;
+    rdfs:label "Minotaur V"@en .
+
+wd:Q3271279 a wd:Q697175 ;
+    rdfs:label "Minotaur I"@en .
+
+wd:Q3390765 a wd:Q697175 ;
+    rdfs:label "17K-AM"@en .
+
+wd:Q35337 a wd:Q41291 ;
+    rdfs:label "Block D-2 11S824F"@en .
+
+wd:Q35347 a wd:Q41291 ;
+    rdfs:label "Block DM-2M 11S861-01"@en .
+
+wd:Q35369 a wd:Q41291 ;
+    rdfs:label "Block DM-2 11S861"@en .
+
+wd:Q35380 a wd:Q41291 ;
+    rdfs:label "Block DM-5 17S40"@en .
+
+wd:Q35415 a wd:Q41291 ;
+    rdfs:label "Block DM 11S86"@en .
+
+wd:Q35430 a wd:Q41291 ;
+    rdfs:label "Block D 11S824"@en .
+
+wd:Q35437 a wd:Q41291 ;
+    rdfs:label "Block L Molniya 8K78"@en .
+
+wd:Q35450 a wd:Q41291 ;
+    rdfs:label "Block L Molniya 8K78M"@en .
+
+wd:Q3564008 a wd:Q42889 ;
+    rdfs:label "Q3564008"^^xsd:string .
+
+wd:Q3566447 a wd:Q697175 ;
+    rdfs:label "Q3566447"^^xsd:string .
+
+wd:Q356824 a wd:Q42889 ;
+    rdfs:label "Dragster"@en .
+
+wd:Q372186 a wd:Q41291 ;
+    rdfs:label "Q372186"^^xsd:string .
+
+wd:Q373613 a wd:Q42889 ;
+    rdfs:label "Reed boat"@en .
+
+wd:Q37376085 a wd:Q42889 ;
+    rdfs:label "Fourgons mousse grande puissance"@en .
+
+wd:Q380124 a wd:Q41291 ;
+    rdfs:label "Daniel"@en .
+
+wd:Q3836059 a wd:Q42889 ;
+    rdfs:label "JŽ 342 class"@en .
+
+wd:Q3887922 a wd:Q41291 ;
+    rdfs:label "PARCA"@en .
+
+wd:Q39080144 a wd:Q42889 ;
+    rdfs:label "Unimog 411"@en .
+
+wd:Q393314 a wd:Q41291 ;
+    rdfs:label "Q393314"^^xsd:string .
+
+wd:Q393315 a wd:Q41291 ;
+    rdfs:label "Q393315"^^xsd:string .
+
+wd:Q393318 a wd:Q41291 ;
+    rdfs:label "Q393318"^^xsd:string .
+
+wd:Q4030618 a wd:Q42889 ;
+    rdfs:label "2П32"@en .
+
+wd:Q4032811 a wd:Q42889 ;
+    rdfs:label "9А38"@en .
+
+wd:Q4032967 a wd:Q42889 ;
+    rdfs:label "Q4032967"^^xsd:string .
+
+wd:Q4153467 a wd:Q42889 ;
+    rdfs:label "Vityaz"@en .
+
+wd:Q41962523 rdfs:label "Falcon 9 B1031"@en ;
+    rdfs:subClassOf wd:Q249091 .
+
+wd:Q4229164 a wd:Q42889 ;
+    rdfs:label "Q4229164"^^xsd:string .
+
+wd:Q4453968 a wd:Q42889 ;
+    rdfs:label "Cugnot's Cart"@en .
+
+wd:Q4494225 a wd:Q41291 ;
+    rdfs:label "Х-45"@en .
+
+wd:Q4653915 a wd:Q41291 ;
+    rdfs:label "ARS-2"@en .
+
+wd:Q47005327 a wd:Q42889 ;
+    rdfs:label "Q47005327"^^xsd:string .
+
+wd:Q47005331 a wd:Q42889 ;
+    rdfs:label "Q47005331"^^xsd:string .
+
+wd:Q47005338 a wd:Q42889 ;
+    rdfs:label "Q47005338"^^xsd:string .
+
+wd:Q47165651 a wd:Q42889 ;
+    rdfs:label "Q47165651"^^xsd:string .
+
+wd:Q47265989 rdfs:label "Falcon 9 booster B1038"@en ;
+    rdfs:subClassOf wd:Q249091 .
+
+wd:Q47293423 a wd:Q42889 ;
+    rdfs:label "Q47293423"^^xsd:string .
+
+wd:Q478603 a wd:Q41291 ;
+    rdfs:label "Pegasus"@en .
+
+wd:Q4868621 a wd:Q41291 ;
+    rdfs:label "Batar"@en .
+
+wd:Q48941163 a wd:Q697175 ;
+    rdfs:label "Q48941163"^^xsd:string .
+
+wd:Q48997 a wd:Q41291 ;
+    rdfs:label "Centaure"@en .
+
+wd:Q4949127 a wd:Q42889 ;
+    rdfs:label "Bottom crawler"@en .
+
+wd:Q49537 a wd:Q697175 ;
+    rdfs:label "Delta G"@en .
+
+wd:Q49556 a wd:Q41291 ;
+    rdfs:label "Delta P"@en .
+
+wd:Q4986058 a wd:Q42889 ;
+    rdfs:label "BugE"@en .
+
+wd:Q50018318 a wd:Q42889 ;
+    rdfs:label "demining vehicle"@en .
+
+wd:Q50078381 a wd:Q42889 ;
+    rdfs:label "2-man bob"@en .
+
+wd:Q50078622 a wd:Q42889 ;
+    rdfs:label "4-man bob"@en .
+
+wd:Q50141068 a wd:Q42889 ;
+    rdfs:label "gandola"@en .
+
+wd:Q50322419 a wd:Q697175 ;
+    rdfs:label "Arion"@en .
+
+wd:Q52169426 a wd:Q42889 ;
+    rdfs:label "gandoler"@en .
+
+wd:Q5282661 a wd:Q1194058 ;
+    rdfs:label "disposable grill"@en .
+
+wd:Q5322745 a wd:Q42889 ;
+    rdfs:label "ECRV"@en .
+
+wd:Q53698 a wd:Q41291 ;
+    rdfs:label "Long March 1"@en .
+
+wd:Q53710 a wd:Q697175 ;
+    rdfs:label "Long March 2F"@en .
+
+wd:Q54164 a wd:Q697175 ;
+    rdfs:label "Long March 3B"@en .
+
+wd:Q5427482 a wd:Q42889 ;
+    rdfs:label "F B"@en .
+
+wd:Q5431727 a wd:Q697175 ;
+    rdfs:label "Falcon 9 Air"@en .
+
+wd:Q5431728 a wd:Q41291 ;
+    rdfs:label "Falcon 1e"@en .
+
+wd:Q54411366 a wd:Q42889 ;
+    rdfs:label "Millet petrol tricycle-CnAM 14327"@en .
+
+wd:Q5472665 a wd:Q42889 ;
+    rdfs:label "Fortis"@en .
+
+wd:Q55121526 a wd:Q42889 ;
+    rdfs:label "JAC Rein"@en .
+
+wd:Q55754013 a wd:Q28450215 ;
+    rdfs:label "Falcon 9 booster B1047"@en .
+
+wd:Q5597534 a wd:Q41291 ;
+    rdfs:label "Grasshopper"@en .
+
+wd:Q56259040 a wd:Q42889 ;
+    rdfs:label "Force Traveller"@en .
+
+wd:Q56294729 a wd:Q697175 ;
+    rdfs:label "Rocket 3.0"@en .
+
+wd:Q5642413 a wd:Q42889 ;
+    rdfs:label "Q5642413"^^xsd:string .
+
+wd:Q5659256 a wd:Q41291 ;
+    rdfs:label "Q5659256"^^xsd:string .
+
+wd:Q56676381 a wd:Q42889 ;
+    rdfs:label "Q56676381"^^xsd:string .
+
+wd:Q56760016 a wd:Q41291 ;
+    rdfs:label "Q56760016"^^xsd:string .
+
+wd:Q5736664 a wd:Q41291 ;
+    rdfs:label "C-7"@en .
+
+wd:Q577216 a wd:Q41291 ;
+    rdfs:label "Q577216"^^xsd:string .
+
+wd:Q5776473 a wd:Q41291 ;
+    rdfs:label "Q5776473"^^xsd:string .
+
+wd:Q5776478 a wd:Q41291 ;
+    rdfs:label "Q5776478"^^xsd:string .
+
+wd:Q5882128 a wd:Q41291 ;
+    rdfs:label "Q5882128"^^xsd:string .
+
+wd:Q5882135 a wd:Q41291 ;
+    rdfs:label "Q5882135"^^xsd:string .
+
+wd:Q5882139 a wd:Q41291 ;
+    rdfs:label "Q5882139"^^xsd:string .
+
+wd:Q5890796 a wd:Q41291 ;
+    rdfs:label "Q5890796"^^xsd:string .
+
+wd:Q5890799 a wd:Q41291 ;
+    rdfs:label "Q5890799"^^xsd:string .
+
+wd:Q58924629 a wd:Q697175 ;
+    rdfs:label "Falcon 9 Block 4"@en ;
+    rdfs:subClassOf wd:Q249091 .
+
+wd:Q5923310 a wd:Q42889 ;
+    rdfs:label "Gila APC"@en .
+
+wd:Q59351446 a wd:Q42889 ;
+    rdfs:label "Perrera"@en .
+
+wd:Q5989729 a wd:Q41291 ;
+    rdfs:label "Q5989729"^^xsd:string .
+
+wd:Q60847337 a wd:Q697175 ;
+    rdfs:label "Terran 1"@en .
+
+wd:Q6116228 a wd:Q42889 ;
+    rdfs:label "SMX"@en .
+
+wd:Q6119291 a wd:Q41291 ;
+    rdfs:label "Kosmos-1"@en .
+
+wd:Q6137394 a wd:Q41291 ;
+    rdfs:label "Super V-2"@en .
+
+wd:Q61898938 a wd:Q697175 ;
+    rdfs:label "Miura"@en .
+
+wd:Q61917108 a wd:Q41291 ;
+    rdfs:label "Q61917108"^^xsd:string .
+
+wd:Q61917110 a wd:Q41291 ;
+    rdfs:label "Q61917110"^^xsd:string .
+
+wd:Q61917112 a wd:Q41291 ;
+    rdfs:label "Q61917112"^^xsd:string .
+
+wd:Q61917115 a wd:Q41291 ;
+    rdfs:label "Q61917115"^^xsd:string .
+
+wd:Q61917116 a wd:Q41291 ;
+    rdfs:label "Q61917116"^^xsd:string .
+
+wd:Q61917121 a wd:Q41291 ;
+    rdfs:label "Q61917121"^^xsd:string .
+
+wd:Q61917125 a wd:Q41291 ;
+    rdfs:label "Q61917125"^^xsd:string .
+
+wd:Q61917129 a wd:Q41291 ;
+    rdfs:label "Q61917129"^^xsd:string .
+
+wd:Q61917134 a wd:Q41291 ;
+    rdfs:label "Q61917134"^^xsd:string .
+
+wd:Q63871204 a wd:Q42889 ;
+    rdfs:label "ACMAT ALTV"@en .
+
+wd:Q63978775 a wd:Q41291 ;
+    rdfs:label "Falcon 9 booster B1051"@en .
+
+wd:Q64177505 a wd:Q697175 ;
+    rdfs:label "Q64177505"^^xsd:string .
+
+wd:Q6439960 a wd:Q41291 ;
+    rdfs:label "Q6439960"^^xsd:string .
+
+wd:Q6443914 a wd:Q41291 ;
+    rdfs:label "Titan V"@en .
+
+wd:Q64846198 a wd:Q41291 ;
+    rdfs:label "Q64846198"^^xsd:string .
+
+wd:Q648606 a wd:Q697175 ;
+    rdfs:label "Falcon 1"@en .
+
+wd:Q64918232 a wd:Q41291 ;
+    rdfs:label "Q64918232"^^xsd:string .
+
+wd:Q65033136 a wd:Q42889 ;
+    rdfs:label "Brinquedo - Veículo - Ambulância (Com Movimento?)"@en .
+
+wd:Q65252378 a wd:Q42889 ;
+    rdfs:label "Bimbulance"@en .
+
+wd:Q65395237 a wd:Q42889 ;
+    rdfs:label "Starhopper"@en .
+
+wd:Q660345 a wd:Q697175 ;
+    rdfs:label "Soyuz-U"@en .
+
+wd:Q66682103 a wd:Q41291 ;
+    rdfs:label "Q66682103"^^xsd:string .
+
+wd:Q6670814 a wd:Q42889 ;
+    rdfs:label "London Steam Carriage"@en .
+
+wd:Q67636075 a wd:Q41291 ;
+    rdfs:label "Q67636075"^^xsd:string .
+
+wd:Q68393471 a wd:Q42889 ;
+    rdfs:label "Main Street Horseless Carriage"@en .
+
+wd:Q68593575 a wd:Q42889 ;
+    rdfs:label "Disneyland Omnibus"@en .
+
+wd:Q6869382 a wd:Q41291 ;
+    rdfs:label "Minotaur II"@en .
+
+wd:Q6869385 a wd:Q41291 ;
+    rdfs:label "Minotaur III"@en .
+
+wd:Q6918178 a wd:Q42889 ;
+    rdfs:label "Motor bus"@en .
+
+wd:Q6948727 a wd:Q41291 ;
+    rdfs:label "Mysorean rockets"@en .
+
+wd:Q70329355 a wd:Q42889 ;
+    rdfs:label "Q70329355"^^xsd:string .
+
+wd:Q7073104 a wd:Q41291 ;
+    rdfs:label "OTRAG"@en .
+
+wd:Q7268183 a wd:Q42889 ;
+    rdfs:label "Qpod"@en .
+
+wd:Q74369 a wd:Q697175 ;
+    rdfs:label "Titan IV"@en .
+
+wd:Q7907157 a wd:Q41291 ;
+    rdfs:label "VLM"@en .
+
+wd:Q80299397 a wd:Q41291 ;
+    rdfs:label "Q80299397"^^xsd:string .
+
+wd:Q8041683 a wd:Q42889 ;
+    rdfs:label "XAV"@en .
+
+wd:Q81996247 a wd:Q249091 ;
+    rdfs:label "Falcon 9 booster B1049"@en .
+
+wd:Q83230110 a wd:Q42889 ;
+    rdfs:label "Q83230110"^^xsd:string .
+
+wd:Q83841 a wd:Q41291 ;
+    rdfs:label "Q83841"^^xsd:string .
+
+wd:Q8449254 a wd:Q42889 ;
+    rdfs:label "alternative fuel vehicle"@en .
+
+wd:Q86242460 a wd:Q697175 ;
+    rdfs:label "Q86242460"^^xsd:string .
+
+wd:Q907608 a wd:Q41291 ;
+    rdfs:label "Minotaur IV"@en .
+
+wd:Q9137373 a wd:Q42889 ;
+    rdfs:label "ARE"@en .
+
+wd:Q9182548 a wd:Q42889 ;
+    rdfs:label "Bxhpi"@en .
+
+wd:Q9335951 a wd:Q41291 ;
+    rdfs:label "Shavit-1"@en .
+
+wd:Q9358552 a wd:Q41291 ;
+    rdfs:label "Thor DM-18 Able-III"@en .
+
+wd:Q936754 a wd:Q42889 ;
+    rdfs:label "Kago"@en .
+
+wd:Q9371516 a wd:Q42889 ;
+    rdfs:label "Wasąg"@en .
+
+wd:Q11483327 rdfs:label "carrier rocket"@en ;
+    rdfs:subClassOf wd:Q697175 .
+
+wd:Q22808999 a wd:Q697175 ;
+    rdfs:label "Falcon 9 Full Thrust"@en ;
+    rdfs:subClassOf wd:Q249091 .
+
+wd:Q28450215 a wd:Q697175 ;
+    rdfs:label "Falcon 9 Block 5"@en ;
+    rdfs:subClassOf wd:Q249091 .
+
+wd:Q3770701 rdfs:label "Falcon"@en ;
+    rdfs:subClassOf wd:Q11483327,
+        wd:Q697175 .
+
+wd:Q1194058 rdfs:label "disposable product"@en .
+
+wd:Q7194062 rdfs:label "flying machine"@en .
+
+wd:Q249091 a wd:Q697175 ;
+    rdfs:label "Falcon 9"@en ;
+    rdfs:subClassOf wd:Q3770701 .
+
+wd:Q697175 rdfs:label "launch vehicle"@en ;
+    rdfs:subClassOf wd:Q41291 .
+
+wd:Q41291 rdfs:label "rocket"@en ;
+    rdfs:subClassOf wd:Q1194058,
+        wd:Q42889,
+        wd:Q7194062 .
+
+wd:Q42889 rdfs:label "vehicle"@en .
+

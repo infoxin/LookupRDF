@@ -1,0 +1,4974 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:L40029-S1 a wd:Q2095 ;
+    rdfs:label "L40029-S1"^^xsd:string .
+
+wd:L40818-S1 a wd:Q2095 ;
+    rdfs:label "L40818-S1"^^xsd:string .
+
+wd:Q1022124 a wd:Q2095 ;
+    rdfs:label "beef bourguignon"@en .
+
+wd:Q1026488 a wd:Q2095 ;
+    rdfs:label "Caldo galego"@en .
+
+wd:Q10305048 a wd:Q2424752 ;
+    rdfs:label "Jamel"@en .
+
+wd:Q1031787 a wd:Q2095 ;
+    rdfs:label "Gözleme"@en .
+
+wd:Q10332599 a wd:Q2424752 ;
+    rdfs:label "Mosro"@en .
+
+wd:Q10341573 a wd:Q2424752 ;
+    rdfs:label "Orlon"@en .
+
+wd:Q10398126 a wd:Q2424752 ;
+    rdfs:label "Absol"@en .
+
+wd:Q10434632 a wd:Q2424752 ;
+    rdfs:label "Brago"@en .
+
+wd:Q10438612 a wd:Q2424752 ;
+    rdfs:label "Bård"@en .
+
+wd:Q1043890 a wd:Q2095 ;
+    rdfs:label "Carnaroli"@en .
+
+wd:Q10481947 a wd:Q2424752 ;
+    rdfs:label "Q10481947"^^xsd:string .
+
+wd:Q10483771 a wd:Q2424752 ;
+    rdfs:label "Enden"@en .
+
+wd:Q1049425 a wd:Q2095 ;
+    rdfs:label "Kısır"@en .
+
+wd:Q1051852 a wd:Q2095 ;
+    rdfs:label "Sōki"@en .
+
+wd:Q10532955 a wd:Q2424752 ;
+    rdfs:label "Europa-Profil I"@en .
+
+wd:Q10562020 a wd:Q2424752 ;
+    rdfs:label "Limex"@en .
+
+wd:Q10573289 a wd:Q2424752 ;
+    rdfs:label "MS-10"@en .
+
+wd:Q1061856 a wd:Q2095 ;
+    rdfs:label "shabu-shabu"@en .
+
+wd:Q10650865 a wd:Q2424752 ;
+    rdfs:label "Remol"@en .
+
+wd:Q10656116 a wd:Q2424752 ;
+    rdfs:label "robe"@en .
+
+wd:Q10659468 a wd:Q2424752 ;
+    rdfs:label "SB12"@en .
+
+wd:Q10660743 a wd:Q2424752 ;
+    rdfs:label "Salto"@en .
+
+wd:Q1066260 a wd:Q2095 ;
+    rdfs:label "tomato soup"@en .
+
+wd:Q1072093 a wd:Q2095 ;
+    rdfs:label "United States military chocolate"@en .
+
+wd:Q10725050 a wd:Q2424752 ;
+    rdfs:label "Zugol"@en .
+
+wd:Q10885857 a wd:Q2424752 ;
+    rdfs:label "Sea-Monkeys"@en .
+
+wd:Q10910389 a wd:Q2424752 ;
+    rdfs:label "Q10910389"^^xsd:string .
+
+wd:Q10954885 a wd:Q2095 ;
+    rdfs:label "Q10954885"^^xsd:string .
+
+wd:Q10986174 a wd:Q2095 ;
+    rdfs:label "Sate Madura"@en .
+
+wd:Q11017447 a wd:Q2095 ;
+    rdfs:label "Q11017447"^^xsd:string .
+
+wd:Q11045882 a wd:Q2095 ;
+    rdfs:label "Q11045882"^^xsd:string .
+
+wd:Q11114189 a wd:Q2095 ;
+    rdfs:label "Cenil"@en .
+
+wd:Q11141042 a wd:Q2095 ;
+    rdfs:label "Q11141042"^^xsd:string .
+
+wd:Q11142810 a wd:Q2095 ;
+    rdfs:label "cilok"@en .
+
+wd:Q11144465 a wd:Q2095 ;
+    rdfs:label "cireng"@en .
+
+wd:Q11193111 a wd:Q2424752 ;
+    rdfs:label "CD-63"@en .
+
+wd:Q11195305 a wd:Q2424752 ;
+    rdfs:label "D01NX"@en .
+
+wd:Q11195846 a wd:Q2424752 ;
+    rdfs:label "DIGNO"@en .
+
+wd:Q11221422 a wd:Q2424752 ;
+    rdfs:label "GX700"@en .
+
+wd:Q11228705 a wd:Q2424752 ;
+    rdfs:label "L-03E"@en .
+
+wd:Q11228710 a wd:Q2424752 ;
+    rdfs:label "L-04D"@en .
+
+wd:Q11229867 a wd:Q2424752 ;
+    rdfs:label "Lavca"@en .
+
+wd:Q11230702 a wd:Q2424752 ;
+    rdfs:label "M-05"@en .
+
+wd:Q11242258 a wd:Q2095 ;
+    rdfs:label "Soto mie"@en .
+
+wd:Q11243770 a wd:Q2424752 ;
+    rdfs:label "SNV"@en .
+
+wd:Q11244274 a wd:Q2424752 ;
+    rdfs:label "SPiDE"@en .
+
+wd:Q11245715 a wd:Q2095 ;
+    rdfs:label "Q11245715"^^xsd:string .
+
+wd:Q11249483 a wd:Q2424752 ;
+    rdfs:label "TL-01"@en .
+
+wd:Q11252023 a wd:Q2424752 ;
+    rdfs:label "UNIHI"@en .
+
+wd:Q11252439 a wd:Q2424752 ;
+    rdfs:label "V55PI"@en .
+
+wd:Q11255708 a wd:Q2424752 ;
+    rdfs:label "ZAXIA"@en .
+
+wd:Q1133209 a wd:Q2095 ;
+    rdfs:label "Corned beef"@en .
+
+wd:Q11340457 a wd:Q2424752 ;
+    rdfs:label "McDonald's french fries"@en .
+
+wd:Q11343518 a wd:Q2424752 ;
+    rdfs:label "Mega Mac"@en .
+
+wd:Q1141033 a wd:Q2095 ;
+    rdfs:label "jajangmyeon"@en .
+
+wd:Q1142807 a wd:Q2095 ;
+    rdfs:label "Cuajada"@en .
+
+wd:Q1152821 a wd:Q2095 ;
+    rdfs:label "profiterole"@en .
+
+wd:Q11680825 a wd:Q2095 ;
+    rdfs:label "completo"@en .
+
+wd:Q11687651 a wd:Q2424752 ;
+    rdfs:label "Becik"@en .
+
+wd:Q11752234 a wd:Q2424752 ;
+    rdfs:label "L-2"@en .
+
+wd:Q11793323 a wd:Q2424752 ;
+    rdfs:label "Novit"@en .
+
+wd:Q11801934 a wd:Q2424752 ;
+    rdfs:label "PORON"@en .
+
+wd:Q11817153 a wd:Q2424752 ;
+    rdfs:label "Pinki"@en .
+
+wd:Q11855643 a wd:Q2424752 ;
+    rdfs:label "D46"@en .
+
+wd:Q11871727 a wd:Q2424752 ;
+    rdfs:label "ULA"@en .
+
+wd:Q11874785 a wd:Q2424752 ;
+    rdfs:label "Lasol"@en .
+
+wd:Q11923716 a wd:Q2424752 ;
+    rdfs:label "Birba Biscuits"@en .
+
+wd:Q11950728 a wd:Q2424752 ;
+    rdfs:label "TOLED"@en .
+
+wd:Q120096 a wd:Q2095 ;
+    rdfs:label "tempeh"@en .
+
+wd:Q12033022 a wd:Q2424752 ;
+    rdfs:label "Lep"@en .
+
+wd:Q12043446 a wd:Q2424752 ;
+    rdfs:label "PAv"@en .
+
+wd:Q12197801 a wd:Q2095 ;
+    rdfs:label "Q12197801"^^xsd:string .
+
+wd:Q12235754 a wd:Q2095 ;
+    rdfs:label "Q12235754"^^xsd:string .
+
+wd:Q1227364 a wd:Q2424752 ;
+    rdfs:label "DirXML"@en .
+
+wd:Q12302713 a wd:Q2424752 ;
+    rdfs:label "baby oil"@en .
+
+wd:Q12321477 a wd:Q2424752 ;
+    rdfs:label "casaque"@en .
+
+wd:Q12329364 a wd:Q2424752 ;
+    rdfs:label "Nupo"@en .
+
+wd:Q12329799 a wd:Q768267 ;
+    rdfs:label "Q12329799"^^xsd:string .
+
+wd:Q12337666 a wd:Q2424752 ;
+    rdfs:label "Sulfo"@en .
+
+wd:Q12391503 a wd:Q2424752 ;
+    rdfs:label "Lajta"@en .
+
+wd:Q12470761 a wd:Q2095 ;
+    rdfs:label "Q12470761"^^xsd:string .
+
+wd:Q12473632 a wd:Q2095 ;
+    rdfs:label "Q12473632"^^xsd:string .
+
+wd:Q12474134 a wd:Q2095 ;
+    rdfs:label "Q12474134"^^xsd:string .
+
+wd:Q12475476 a wd:Q2095 ;
+    rdfs:label "Q12475476"^^xsd:string .
+
+wd:Q12476012 a wd:Q2095 ;
+    rdfs:label "Q12476012"^^xsd:string .
+
+wd:Q12476406 a wd:Q2095 ;
+    rdfs:label "Q12476406"^^xsd:string .
+
+wd:Q12476958 a wd:Q2095 ;
+    rdfs:label "Q12476958"^^xsd:string .
+
+wd:Q12477242 a wd:Q2095 ;
+    rdfs:label "Q12477242"^^xsd:string .
+
+wd:Q12478145 a wd:Q2095 ;
+    rdfs:label "Q12478145"^^xsd:string .
+
+wd:Q12478290 a wd:Q2095 ;
+    rdfs:label "Q12478290"^^xsd:string .
+
+wd:Q12478448 a wd:Q2095 ;
+    rdfs:label "Celimpungan"@en .
+
+wd:Q12479417 a wd:Q2095 ;
+    rdfs:label "Q12479417"^^xsd:string .
+
+wd:Q12481775 a wd:Q2095 ;
+    rdfs:label "Q12481775"^^xsd:string .
+
+wd:Q12482461 a wd:Q2095 ;
+    rdfs:label "Q12482461"^^xsd:string .
+
+wd:Q12482583 a wd:Q2095 ;
+    rdfs:label "Dawet Ice"@en .
+
+wd:Q12482584 a wd:Q2095 ;
+    rdfs:label "Es Gempol"@en .
+
+wd:Q12482585 a wd:Q2095 ;
+    rdfs:label "Es bir"@en .
+
+wd:Q12483520 a wd:Q2095 ;
+    rdfs:label "Q12483520"^^xsd:string .
+
+wd:Q12484053 a wd:Q2095 ;
+    rdfs:label "Q12484053"^^xsd:string .
+
+wd:Q12484056 a wd:Q2095 ;
+    rdfs:label "Q12484056"^^xsd:string .
+
+wd:Q12484057 a wd:Q2095 ;
+    rdfs:label "Getuk Goreng"@en .
+
+wd:Q12484510 a wd:Q2095 ;
+    rdfs:label "Q12484510"^^xsd:string .
+
+wd:Q12485894 a wd:Q2095 ;
+    rdfs:label "Q12485894"^^xsd:string .
+
+wd:Q12488368 a wd:Q2095 ;
+    rdfs:label "Q12488368"^^xsd:string .
+
+wd:Q12488369 a wd:Q2095 ;
+    rdfs:label "Q12488369"^^xsd:string .
+
+wd:Q12488372 a wd:Q2095 ;
+    rdfs:label "Q12488372"^^xsd:string .
+
+wd:Q12489250 a wd:Q2095 ;
+    rdfs:label "Q12489250"^^xsd:string .
+
+wd:Q12490514 a wd:Q2095 ;
+    rdfs:label "Kelan Antep"@en .
+
+wd:Q12491343 a wd:Q2095 ;
+    rdfs:label "Q12491343"^^xsd:string .
+
+wd:Q12491346 a wd:Q2095 ;
+    rdfs:label "Q12491346"^^xsd:string .
+
+wd:Q12491347 a wd:Q2095 ;
+    rdfs:label "krupuk kulit"@en .
+
+wd:Q12491348 a wd:Q2095 ;
+    rdfs:label "Q12491348"^^xsd:string .
+
+wd:Q12491350 a wd:Q2095 ;
+    rdfs:label "Q12491350"^^xsd:string .
+
+wd:Q12491642 a wd:Q2095 ;
+    rdfs:label "Q12491642"^^xsd:string .
+
+wd:Q12491862 a wd:Q2095 ;
+    rdfs:label "Q12491862"^^xsd:string .
+
+wd:Q12492219 a wd:Q2095 ;
+    rdfs:label "Q12492219"^^xsd:string .
+
+wd:Q12492578 a wd:Q2095 ;
+    rdfs:label "Q12492578"^^xsd:string .
+
+wd:Q12492887 a wd:Q2095 ;
+    rdfs:label "Kuluban"@en .
+
+wd:Q12492983 a wd:Q2095 ;
+    rdfs:label "Q12492983"^^xsd:string .
+
+wd:Q12493534 a wd:Q2095 ;
+    rdfs:label "Q12493534"^^xsd:string .
+
+wd:Q12493538 a wd:Q2095 ;
+    rdfs:label "Q12493538"^^xsd:string .
+
+wd:Q12493942 a wd:Q2095 ;
+    rdfs:label "Q12493942"^^xsd:string .
+
+wd:Q12494048 a wd:Q2095 ;
+    rdfs:label "Q12494048"^^xsd:string .
+
+wd:Q12494527 a wd:Q2095 ;
+    rdfs:label "Q12494527"^^xsd:string .
+
+wd:Q12495292 a wd:Q2095 ;
+    rdfs:label "Q12495292"^^xsd:string .
+
+wd:Q12496028 a wd:Q2095 ;
+    rdfs:label "Q12496028"^^xsd:string .
+
+wd:Q12496728 a wd:Q2095 ;
+    rdfs:label "Q12496728"^^xsd:string .
+
+wd:Q12498026 a wd:Q2095 ;
+    rdfs:label "Q12498026"^^xsd:string .
+
+wd:Q12498031 a wd:Q2095 ;
+    rdfs:label "Mendoan"@en .
+
+wd:Q12498465 a wd:Q2095 ;
+    rdfs:label "Q12498465"^^xsd:string .
+
+wd:Q12498712 a wd:Q2095 ;
+    rdfs:label "Q12498712"^^xsd:string .
+
+wd:Q12498863 a wd:Q2095 ;
+    rdfs:label "Q12498863"^^xsd:string .
+
+wd:Q12499048 a wd:Q2095 ;
+    rdfs:label "Q12499048"^^xsd:string .
+
+wd:Q12500149 a wd:Q2095 ;
+    rdfs:label "Q12500149"^^xsd:string .
+
+wd:Q12500151 a wd:Q2095 ;
+    rdfs:label "Q12500151"^^xsd:string .
+
+wd:Q12500153 a wd:Q2095 ;
+    rdfs:label "nasi jagung"@en .
+
+wd:Q12500155 a wd:Q2095 ;
+    rdfs:label "Q12500155"^^xsd:string .
+
+wd:Q12500903 a wd:Q2095 ;
+    rdfs:label "Q12500903"^^xsd:string .
+
+wd:Q12501398 a wd:Q2095 ;
+    rdfs:label "Q12501398"^^xsd:string .
+
+wd:Q12501427 a wd:Q2095 ;
+    rdfs:label "Q12501427"^^xsd:string .
+
+wd:Q12501469 a wd:Q2095 ;
+    rdfs:label "Q12501469"^^xsd:string .
+
+wd:Q12504003 a wd:Q2095 ;
+    rdfs:label "Q12504003"^^xsd:string .
+
+wd:Q12505357 a wd:Q2095 ;
+    rdfs:label "Q12505357"^^xsd:string .
+
+wd:Q12505590 a wd:Q2095 ;
+    rdfs:label "Q12505590"^^xsd:string .
+
+wd:Q12505591 a wd:Q2095 ;
+    rdfs:label "Q12505591"^^xsd:string .
+
+wd:Q12506640 a wd:Q2095 ;
+    rdfs:label "Q12506640"^^xsd:string .
+
+wd:Q12507469 a wd:Q2095 ;
+    rdfs:label "Q12507469"^^xsd:string .
+
+wd:Q12508407 a wd:Q2095 ;
+    rdfs:label "Q12508407"^^xsd:string .
+
+wd:Q12508588 a wd:Q2095 ;
+    rdfs:label "Rica-rica"@en .
+
+wd:Q12508894 a wd:Q2095 ;
+    rdfs:label "Q12508894"^^xsd:string .
+
+wd:Q12509008 a wd:Q2095 ;
+    rdfs:label "Q12509008"^^xsd:string .
+
+wd:Q12509009 a wd:Q2095 ;
+    rdfs:label "Q12509009"^^xsd:string .
+
+wd:Q12509010 a wd:Q2095 ;
+    rdfs:label "Q12509010"^^xsd:string .
+
+wd:Q12512184 a wd:Q2095 ;
+    rdfs:label "Q12512184"^^xsd:string .
+
+wd:Q12512314 a wd:Q2095 ;
+    rdfs:label "Q12512314"^^xsd:string .
+
+wd:Q12512316 a wd:Q2095 ;
+    rdfs:label "Q12512316"^^xsd:string .
+
+wd:Q12512320 a wd:Q2095 ;
+    rdfs:label "Q12512320"^^xsd:string .
+
+wd:Q12512533 a wd:Q2095 ;
+    rdfs:label "Q12512533"^^xsd:string .
+
+wd:Q12512536 a wd:Q2095 ;
+    rdfs:label "Q12512536"^^xsd:string .
+
+wd:Q12512738 a wd:Q2095 ;
+    rdfs:label "Q12512738"^^xsd:string .
+
+wd:Q12513509 a wd:Q2095 ;
+    rdfs:label "Q12513509"^^xsd:string .
+
+wd:Q12515251 a wd:Q2095 ;
+    rdfs:label "Q12515251"^^xsd:string .
+
+wd:Q12515321 a wd:Q2095 ;
+    rdfs:label "Q12515321"^^xsd:string .
+
+wd:Q12515939 a wd:Q2095 ;
+    rdfs:label "Q12515939"^^xsd:string .
+
+wd:Q12516001 a wd:Q2095 ;
+    rdfs:label "Q12516001"^^xsd:string .
+
+wd:Q12516002 a wd:Q2095 ;
+    rdfs:label "Q12516002"^^xsd:string .
+
+wd:Q12516003 a wd:Q2095 ;
+    rdfs:label "Q12516003"^^xsd:string .
+
+wd:Q12516004 a wd:Q2095 ;
+    rdfs:label "Soto Betawi"@en .
+
+wd:Q12516005 a wd:Q2095 ;
+    rdfs:label "Q12516005"^^xsd:string .
+
+wd:Q12516006 a wd:Q2095 ;
+    rdfs:label "Q12516006"^^xsd:string .
+
+wd:Q12516007 a wd:Q2095 ;
+    rdfs:label "soto Lamongan"@en .
+
+wd:Q12516008 a wd:Q2095 ;
+    rdfs:label "Soto Sokaraja"@en .
+
+wd:Q12516009 a wd:Q2095 ;
+    rdfs:label "Q12516009"^^xsd:string .
+
+wd:Q12516012 a wd:Q2095 ;
+    rdfs:label "Q12516012"^^xsd:string .
+
+wd:Q12518255 a wd:Q2095 ;
+    rdfs:label "Q12518255"^^xsd:string .
+
+wd:Q12518571 a wd:Q2095 ;
+    rdfs:label "Q12518571"^^xsd:string .
+
+wd:Q12518573 a wd:Q2095 ;
+    rdfs:label "Q12518573"^^xsd:string .
+
+wd:Q12518675 a wd:Q2095 ;
+    rdfs:label "Q12518675"^^xsd:string .
+
+wd:Q12520371 a wd:Q2095 ;
+    rdfs:label "Teh poci"@en .
+
+wd:Q12520707 a wd:Q2095 ;
+    rdfs:label "Q12520707"^^xsd:string .
+
+wd:Q12520708 a wd:Q2095 ;
+    rdfs:label "Q12520708"^^xsd:string .
+
+wd:Q12520709 a wd:Q2095 ;
+    rdfs:label "Q12520709"^^xsd:string .
+
+wd:Q12520827 a wd:Q2095 ;
+    rdfs:label "tengkleng"@en .
+
+wd:Q12522064 a wd:Q2095 ;
+    rdfs:label "Q12522064"^^xsd:string .
+
+wd:Q12522300 a wd:Q2424752 ;
+    rdfs:label "Trenz"@en .
+
+wd:Q12522818 a wd:Q2095 ;
+    rdfs:label "Q12522818"^^xsd:string .
+
+wd:Q12523907 a wd:Q2095 ;
+    rdfs:label "Q12523907"^^xsd:string .
+
+wd:Q12524379 a wd:Q2095 ;
+    rdfs:label "Q12524379"^^xsd:string .
+
+wd:Q1253986 a wd:Q2424752 ;
+    rdfs:label "SAE800"@en .
+
+wd:Q1255867 a wd:Q2424752 ;
+    rdfs:label "Dratex"@en .
+
+wd:Q1257791 a wd:Q2095 ;
+    rdfs:label "Q1257791"^^xsd:string .
+
+wd:Q12636668 a wd:Q2424752 ;
+    rdfs:label "Melem"@en .
+
+wd:Q12644643 a wd:Q2424752 ;
+    rdfs:label "Vigor"@en .
+
+wd:Q12711188 a wd:Q2095 ;
+    rdfs:label "Q12711188"^^xsd:string .
+
+wd:Q12713843 a wd:Q2424752 ;
+    rdfs:label "Bocca"@en .
+
+wd:Q1273287 a wd:Q2424752 ;
+    rdfs:label "E ware"@en .
+
+wd:Q1275377 a wd:Q2424752 ;
+    rdfs:label "ENTIRE"@en .
+
+wd:Q1275518 a wd:Q2095 ;
+    rdfs:label "Kilishi"@en .
+
+wd:Q12761030 a wd:Q2095 ;
+    rdfs:label "Cicvara"@en .
+
+wd:Q12811344 a wd:Q2095 ;
+    rdfs:label "Badımcan çığırtması"@en .
+
+wd:Q12812711 a wd:Q2095 ;
+    rdfs:label "Zerde"@en .
+
+wd:Q12812820 a wd:Q2095 ;
+    rdfs:label "Chigirtma"@en .
+
+wd:Q12818435 a wd:Q2836947 ;
+    rdfs:label "Ardob"@en .
+
+wd:Q12824052 a wd:Q2095 ;
+    rdfs:label "Jizza"@en .
+
+wd:Q12836062 a wd:Q2095 ;
+    rdfs:label "Arzuman"@en .
+
+wd:Q12844423 a wd:Q2424752 ;
+    rdfs:label "Qjel"@en .
+
+wd:Q12846748 a wd:Q2095 ;
+    rdfs:label "Q12846748"^^xsd:string .
+
+wd:Q13020442 a wd:Q2095 ;
+    rdfs:label "Luk chup"@en .
+
+wd:Q1305079 a wd:Q2095 ;
+    rdfs:label "Ghormeh sabzi"@en .
+
+wd:Q13092843 a wd:Q2095 ;
+    rdfs:label "Q13092843"^^xsd:string .
+
+wd:Q13092925 a wd:Q2095 ;
+    rdfs:label "Q13092925"^^xsd:string .
+
+wd:Q13093072 a wd:Q2095 ;
+    rdfs:label "Q13093072"^^xsd:string .
+
+wd:Q13093088 a wd:Q2095 ;
+    rdfs:label "Q13093088"^^xsd:string .
+
+wd:Q13093270 a wd:Q2095 ;
+    rdfs:label "Q13093270"^^xsd:string .
+
+wd:Q13093491 a wd:Q2095 ;
+    rdfs:label "Q13093491"^^xsd:string .
+
+wd:Q13093505 a wd:Q2095 ;
+    rdfs:label "Q13093505"^^xsd:string .
+
+wd:Q13094334 a wd:Q2095 ;
+    rdfs:label "Q13094334"^^xsd:string .
+
+wd:Q13094361 a wd:Q2095 ;
+    rdfs:label "Q13094361"^^xsd:string .
+
+wd:Q13094672 a wd:Q2095 ;
+    rdfs:label "Q13094672"^^xsd:string .
+
+wd:Q13094750 a wd:Q2095 ;
+    rdfs:label "Q13094750"^^xsd:string .
+
+wd:Q13095036 a wd:Q2095 ;
+    rdfs:label "Q13095036"^^xsd:string .
+
+wd:Q13095987 a wd:Q2095 ;
+    rdfs:label "Q13095987"^^xsd:string .
+
+wd:Q13095994 a wd:Q2095 ;
+    rdfs:label "Pilus"@en .
+
+wd:Q13095997 a wd:Q2095 ;
+    rdfs:label "Q13095997"^^xsd:string .
+
+wd:Q13096834 a wd:Q2095 ;
+    rdfs:label "satay maranggi"@en .
+
+wd:Q13096852 a wd:Q2095 ;
+    rdfs:label "Nasi Kapau"@en .
+
+wd:Q13097164 a wd:Q2095 ;
+    rdfs:label "Q13097164"^^xsd:string .
+
+wd:Q13097480 a wd:Q2095 ;
+    rdfs:label "Q13097480"^^xsd:string .
+
+wd:Q13097605 a wd:Q2095 ;
+    rdfs:label "Q13097605"^^xsd:string .
+
+wd:Q13097607 a wd:Q2095 ;
+    rdfs:label "Q13097607"^^xsd:string .
+
+wd:Q13097938 a wd:Q2095 ;
+    rdfs:label "Q13097938"^^xsd:string .
+
+wd:Q13113101 a wd:Q2095 ;
+    rdfs:label "Paripuvada"@en .
+
+wd:Q13114125 a wd:Q2095 ;
+    rdfs:label "Q13114125"^^xsd:string .
+
+wd:Q13148818 a wd:Q2095 ;
+    rdfs:label "Q13148818"^^xsd:string .
+
+wd:Q13148823 a wd:Q2095 ;
+    rdfs:label "Q13148823"^^xsd:string .
+
+wd:Q13148930 a wd:Q2095 ;
+    rdfs:label "Q13148930"^^xsd:string .
+
+wd:Q13173962 a wd:Q2424752 ;
+    rdfs:label "Q13173962"^^xsd:string .
+
+wd:Q13179 a wd:Q2095 ;
+    rdfs:label "raspberry"@en .
+
+wd:Q13199157 a wd:Q2095 ;
+    rdfs:label "Dodol Garut"@en .
+
+wd:Q13199292 a wd:Q2095 ;
+    rdfs:label "Géco"@en .
+
+wd:Q13199854 a wd:Q2095 ;
+    rdfs:label "Q13199854"^^xsd:string .
+
+wd:Q13405089 a wd:Q2095 ;
+    rdfs:label "Q13405089"^^xsd:string .
+
+wd:Q13425288 a wd:Q2424752 ;
+    rdfs:label "Dasida"@en .
+
+wd:Q134632 a wd:Q2424752 ;
+    rdfs:label "Perfecto"@en .
+
+wd:Q135888 a wd:Q2424752 ;
+    rdfs:label "Chicken McNuggets"@en .
+
+wd:Q13859037 a wd:Q2095 ;
+    rdfs:label "Q13859037"^^xsd:string .
+
+wd:Q1393898 a wd:Q2424752 ;
+    rdfs:label "Falbel"@en .
+
+wd:Q1411852 a wd:Q2424752 ;
+    rdfs:label "Havana Club"@en .
+
+wd:Q14458220 a wd:Q2095 ;
+    rdfs:label "strawberry"@en .
+
+wd:Q14635923 a wd:Q2095 ;
+    rdfs:label "Ampo snack"@en .
+
+wd:Q1470834 a wd:Q2095 ;
+    rdfs:label "fruit preparation"@en .
+
+wd:Q14917347 a wd:Q2095 ;
+    rdfs:label "Q14917347"^^xsd:string .
+
+wd:Q14917459 a wd:Q2095 ;
+    rdfs:label "Q14917459"^^xsd:string .
+
+wd:Q14918748 a wd:Q2095 ;
+    rdfs:label "Q14918748"^^xsd:string .
+
+wd:Q14931087 a wd:Q2095 ;
+    rdfs:label "İnegöl meatballs"@en .
+
+wd:Q14952 a wd:Q2424752 ;
+    rdfs:label "headgear"@en .
+
+wd:Q1516291 a wd:Q2424752 ;
+    rdfs:label "gift wrapping"@en .
+
+wd:Q152024 a wd:Q2424752 ;
+    rdfs:label "malt"@en .
+
+wd:Q1520293 a wd:Q2095 ;
+    rdfs:label "rendang"@en .
+
+wd:Q152563 a wd:Q2424752 ;
+    rdfs:label "blouse"@en .
+
+wd:Q1531983 a wd:Q2424752 ;
+    rdfs:label "Kool-Aid"@en .
+
+wd:Q15340455 a wd:Q2095 ;
+    rdfs:label "smoked egg"@en .
+
+wd:Q15401968 a wd:Q2095 ;
+    rdfs:label "Q15401968"^^xsd:string .
+
+wd:Q1540864 a wd:Q2424752 ;
+    rdfs:label "grave cross"@en .
+
+wd:Q1546561 a wd:Q2095 ;
+    rdfs:label "griessnockerl"@en .
+
+wd:Q155909 a wd:Q2095 ;
+    rdfs:label "Urtica dioica"@en .
+
+wd:Q1561096 a wd:Q2424752 ;
+    rdfs:label "Hotzen"@en .
+
+wd:Q15629893 a wd:Q2095 ;
+    rdfs:label "cornetto"@en .
+
+wd:Q1566 a wd:Q2424752 ;
+    rdfs:label "tobacco"@en .
+
+wd:Q1566012 a wd:Q2424752 ;
+    rdfs:label "HS 160"@en .
+
+wd:Q15660894 a wd:Q2095 ;
+    rdfs:label "Corn tortilla"@en .
+
+wd:Q15686391 a wd:Q2095 ;
+    rdfs:label "Pepeçura"@en .
+
+wd:Q1574018 a wd:Q2095 ;
+    rdfs:label "Skolebrød"@en .
+
+wd:Q15850306 a wd:Q2424752 ;
+    rdfs:label "Q15850306"^^xsd:string .
+
+wd:Q15955061 a wd:Q2095 ;
+    rdfs:label "Shanxi knife-cut noodles"@en .
+
+wd:Q16044494 a wd:Q2095 ;
+    rdfs:label "Q16044494"^^xsd:string .
+
+wd:Q16078520 a wd:Q2424752 ;
+    rdfs:label "Acer BYOC"@en .
+
+wd:Q1614358 a wd:Q2095 ;
+    rdfs:label "Q1614358"^^xsd:string .
+
+wd:Q1616491 a wd:Q2095 ;
+    rdfs:label "Heumilch"@en .
+
+wd:Q16765345 a wd:Q2095 ;
+    rdfs:label "Mie ayam"@en .
+
+wd:Q16773515 a wd:Q2095 ;
+    rdfs:label "Bubur ketan hitam"@en .
+
+wd:Q1683716 a wd:Q2095 ;
+    rdfs:label "Lontong"@en .
+
+wd:Q16847884 a wd:Q2095 ;
+    rdfs:label "Bubur pedas"@en .
+
+wd:Q1684997 a wd:Q2095 ;
+    rdfs:label "lemang"@en .
+
+wd:Q16877934 a wd:Q2095 ;
+    rdfs:label "Q16877934"^^xsd:string .
+
+wd:Q16878381 a wd:Q2095 ;
+    rdfs:label "Kembang Goyang"@en .
+
+wd:Q16878826 a wd:Q2095 ;
+    rdfs:label "Q16878826"^^xsd:string .
+
+wd:Q16879644 a wd:Q2095 ;
+    rdfs:label "Bandros (food)"@en .
+
+wd:Q16906849 a wd:Q2095 ;
+    rdfs:label "kuru fasulye"@en .
+
+wd:Q16942586 a wd:Q2095 ;
+    rdfs:label "Es goyobod"@en .
+
+wd:Q16995801 a wd:Q768267 ;
+    rdfs:label "Honey Nut Cheerios"@en .
+
+wd:Q17027492 a wd:Q2095 ;
+    rdfs:label "Kuih jelurut"@en .
+
+wd:Q17050490 a wd:Q2095 ;
+    rdfs:label "Empal gepuk"@en .
+
+wd:Q17055540 a wd:Q2095 ;
+    rdfs:label "Sate Bandeng"@en .
+
+wd:Q17062449 a wd:Q2095 ;
+    rdfs:label "aguapanela"@en .
+
+wd:Q1706290 a wd:Q2095 ;
+    rdfs:label "Q1706290"^^xsd:string .
+
+wd:Q17092241 a wd:Q2424752 ;
+    rdfs:label "Icelandic Glacial"@en .
+
+wd:Q1720857 a wd:Q2095 ;
+    rdfs:label "kabsa"@en .
+
+wd:Q17215447 a wd:Q2424752 ;
+    rdfs:label "PRO TREK"@en .
+
+wd:Q1740342 a wd:Q2424752 ;
+    rdfs:label "Q1740342"^^xsd:string .
+
+wd:Q17496378 a wd:Q2424752 ;
+    rdfs:label "Electrolux Ankarsrum Assistent"@en .
+
+wd:Q1749682 a wd:Q2095 ;
+    rdfs:label "Soused herring"@en .
+
+wd:Q17638951 a wd:Q2095 ;
+    rdfs:label "gooseberry"@en .
+
+wd:Q1790835 a wd:Q2095 ;
+    rdfs:label "Cioccolato di Modica"@en .
+
+wd:Q17993873 a wd:Q2095 ;
+    rdfs:label "Costrada de Alcalá"@en .
+
+wd:Q17997299 a wd:Q2095 ;
+    rdfs:label "kuih cucur"@en .
+
+wd:Q17997301 a wd:Q2095 ;
+    rdfs:label "Q17997301"^^xsd:string .
+
+wd:Q17998185 a wd:Q2095 ;
+    rdfs:label "Q17998185"^^xsd:string .
+
+wd:Q17998371 a wd:Q2095 ;
+    rdfs:label "Q17998371"^^xsd:string .
+
+wd:Q17998685 a wd:Q2095 ;
+    rdfs:label "Q17998685"^^xsd:string .
+
+wd:Q17998988 a wd:Q2095 ;
+    rdfs:label "Q17998988"^^xsd:string .
+
+wd:Q17999197 a wd:Q2095 ;
+    rdfs:label "Q17999197"^^xsd:string .
+
+wd:Q17999853 a wd:Q2095 ;
+    rdfs:label "Q17999853"^^xsd:string .
+
+wd:Q1806341 a wd:Q2095 ;
+    rdfs:label "Novel food"@en .
+
+wd:Q18150157 a wd:Q2424752 ;
+    rdfs:label "FXall"@en .
+
+wd:Q1815839 a wd:Q2095 ;
+    rdfs:label "pissaladière"@en .
+
+wd:Q18343411 a wd:Q2424752 ;
+    rdfs:label "Kite Mosquito Patch"@en .
+
+wd:Q18511815 a wd:Q2424752 ;
+    rdfs:label "Amazon Echo"@en .
+
+wd:Q1862619 a wd:Q2095 ;
+    rdfs:label "Khubz"@en .
+
+wd:Q1880720 a wd:Q2424752 ;
+    rdfs:label "M-1955"@en .
+
+wd:Q192892 a wd:Q2095 ;
+    rdfs:label "ayran"@en .
+
+wd:Q1929477 a wd:Q2424752 ;
+    rdfs:label "plug"@en .
+
+wd:Q19515766 a wd:Q2095 ;
+    rdfs:label "Kaz tiridi"@en .
+
+wd:Q19573561 a wd:Q2095 ;
+    rdfs:label "Palm nut soup"@en .
+
+wd:Q19612571 a wd:Q2095 ;
+    rdfs:label "supangle"@en .
+
+wd:Q19646375 a wd:Q2095 ;
+    rdfs:label "Sate Lilit"@en .
+
+wd:Q19703279 a wd:Q2424752 ;
+    rdfs:label "mechanical pulp"@en .
+
+wd:Q19723986 a wd:Q2095 ;
+    rdfs:label "Q19723986"^^xsd:string .
+
+wd:Q19724350 a wd:Q2095 ;
+    rdfs:label "Q19724350"^^xsd:string .
+
+wd:Q19725242 a wd:Q2095 ;
+    rdfs:label "Q19725242"^^xsd:string .
+
+wd:Q19725243 a wd:Q2095 ;
+    rdfs:label "Q19725243"^^xsd:string .
+
+wd:Q19725639 a wd:Q2095 ;
+    rdfs:label "Q19725639"^^xsd:string .
+
+wd:Q19725952 a wd:Q2095 ;
+    rdfs:label "Q19725952"^^xsd:string .
+
+wd:Q19726065 a wd:Q2095 ;
+    rdfs:label "memek"@en .
+
+wd:Q19726067 a wd:Q2095 ;
+    rdfs:label "Q19726067"^^xsd:string .
+
+wd:Q19726349 a wd:Q2095 ;
+    rdfs:label "Q19726349"^^xsd:string .
+
+wd:Q19727041 a wd:Q2095 ;
+    rdfs:label "Q19727041"^^xsd:string .
+
+wd:Q19727653 a wd:Q2095 ;
+    rdfs:label "Q19727653"^^xsd:string .
+
+wd:Q19727656 a wd:Q2095 ;
+    rdfs:label "Q19727656"^^xsd:string .
+
+wd:Q19727662 a wd:Q2095 ;
+    rdfs:label "Q19727662"^^xsd:string .
+
+wd:Q19727676 a wd:Q2095 ;
+    rdfs:label "Q19727676"^^xsd:string .
+
+wd:Q19727677 a wd:Q2095 ;
+    rdfs:label "Q19727677"^^xsd:string .
+
+wd:Q19727862 a wd:Q2095 ;
+    rdfs:label "Q19727862"^^xsd:string .
+
+wd:Q19727936 a wd:Q2095 ;
+    rdfs:label "Q19727936"^^xsd:string .
+
+wd:Q19728050 a wd:Q2095 ;
+    rdfs:label "Kue ape"@en .
+
+wd:Q19728420 a wd:Q2095 ;
+    rdfs:label "Q19728420"^^xsd:string .
+
+wd:Q19728565 a wd:Q2095 ;
+    rdfs:label "Q19728565"^^xsd:string .
+
+wd:Q19729630 a wd:Q2095 ;
+    rdfs:label "Q19729630"^^xsd:string .
+
+wd:Q19729632 a wd:Q2095 ;
+    rdfs:label "Q19729632"^^xsd:string .
+
+wd:Q19731961 a wd:Q2095 ;
+    rdfs:label "Q19731961"^^xsd:string .
+
+wd:Q19731962 a wd:Q2095 ;
+    rdfs:label "Q19731962"^^xsd:string .
+
+wd:Q19731963 a wd:Q2095 ;
+    rdfs:label "Q19731963"^^xsd:string .
+
+wd:Q19731965 a wd:Q2095 ;
+    rdfs:label "Q19731965"^^xsd:string .
+
+wd:Q19732014 a wd:Q2095 ;
+    rdfs:label "Q19732014"^^xsd:string .
+
+wd:Q19732533 a wd:Q2095 ;
+    rdfs:label "Seblak"@en .
+
+wd:Q19733063 a wd:Q2095 ;
+    rdfs:label "Q19733063"^^xsd:string .
+
+wd:Q19738024 a wd:Q2095 ;
+    rdfs:label "Q19738024"^^xsd:string .
+
+wd:Q19738844 a wd:Q2095 ;
+    rdfs:label "Pindang"@en .
+
+wd:Q19740490 a wd:Q2095 ;
+    rdfs:label "Q19740490"^^xsd:string .
+
+wd:Q19740571 a wd:Q2095 ;
+    rdfs:label "Q19740571"^^xsd:string .
+
+wd:Q19742355 a wd:Q2095 ;
+    rdfs:label "Q19742355"^^xsd:string .
+
+wd:Q19743784 a wd:Q2095 ;
+    rdfs:label "Q19743784"^^xsd:string .
+
+wd:Q19744568 a wd:Q2095 ;
+    rdfs:label "Q19744568"^^xsd:string .
+
+wd:Q19746053 a wd:Q2095 ;
+    rdfs:label "Q19746053"^^xsd:string .
+
+wd:Q19746080 a wd:Q2095 ;
+    rdfs:label "Q19746080"^^xsd:string .
+
+wd:Q19746110 a wd:Q2095 ;
+    rdfs:label "Q19746110"^^xsd:string .
+
+wd:Q19746189 a wd:Q2095 ;
+    rdfs:label "Q19746189"^^xsd:string .
+
+wd:Q19746254 a wd:Q2095 ;
+    rdfs:label "Q19746254"^^xsd:string .
+
+wd:Q19746552 a wd:Q2095 ;
+    rdfs:label "Q19746552"^^xsd:string .
+
+wd:Q19747511 a wd:Q2095 ;
+    rdfs:label "Q19747511"^^xsd:string .
+
+wd:Q19747526 a wd:Q2095 ;
+    rdfs:label "Q19747526"^^xsd:string .
+
+wd:Q19747721 a wd:Q2095 ;
+    rdfs:label "Q19747721"^^xsd:string .
+
+wd:Q19748867 a wd:Q2095 ;
+    rdfs:label "Q19748867"^^xsd:string .
+
+wd:Q19749023 a wd:Q2095 ;
+    rdfs:label "Adrem (snacks)"@en .
+
+wd:Q19749219 a wd:Q2095 ;
+    rdfs:label "Q19749219"^^xsd:string .
+
+wd:Q19749222 a wd:Q2095 ;
+    rdfs:label "Q19749222"^^xsd:string .
+
+wd:Q19749224 a wd:Q2095 ;
+    rdfs:label "Q19749224"^^xsd:string .
+
+wd:Q19751382 a wd:Q2095 ;
+    rdfs:label "Q19751382"^^xsd:string .
+
+wd:Q19752274 a wd:Q2095 ;
+    rdfs:label "Vakfıkebir ekmeği"@en .
+
+wd:Q1975673 a wd:Q2095 ;
+    rdfs:label "Nasi krawu"@en .
+
+wd:Q19819989 a wd:Q2095 ;
+    rdfs:label "kabak kalye"@en .
+
+wd:Q19943899 a wd:Q2095 ;
+    rdfs:label "Q19943899"^^xsd:string .
+
+wd:Q19944077 a wd:Q2095 ;
+    rdfs:label "Q19944077"^^xsd:string .
+
+wd:Q19944109 a wd:Q2095 ;
+    rdfs:label "Pukis"@en .
+
+wd:Q19944519 a wd:Q2095 ;
+    rdfs:label "Q19944519"^^xsd:string .
+
+wd:Q20004039 a wd:Q2095 ;
+    rdfs:label "zeytinyağlı enginar"@en .
+
+wd:Q20108295 a wd:Q2095 ;
+    rdfs:label "Kuzu haşlama"@en .
+
+wd:Q20202168 a wd:Q2095 ;
+    rdfs:label "Cennet çamuru"@en .
+
+wd:Q2020653 a wd:Q2424752 ;
+    rdfs:label "Vetpak"@en .
+
+wd:Q2027966 a wd:Q2424752 ;
+    rdfs:label "Cloud Glass"@en .
+
+wd:Q20426984 a wd:Q2095 ;
+    rdfs:label "Q20426984"^^xsd:string .
+
+wd:Q20427161 a wd:Q2095 ;
+    rdfs:label "Q20427161"^^xsd:string .
+
+wd:Q20427337 a wd:Q2095 ;
+    rdfs:label "Q20427337"^^xsd:string .
+
+wd:Q20427433 a wd:Q2095 ;
+    rdfs:label "Q20427433"^^xsd:string .
+
+wd:Q20427541 a wd:Q2095 ;
+    rdfs:label "Sop saudara"@en .
+
+wd:Q20438528 a wd:Q2095 ;
+    rdfs:label "Q20438528"^^xsd:string .
+
+wd:Q2054216 a wd:Q2095 ;
+    rdfs:label "Sauce ravigote"@en .
+
+wd:Q20585558 a wd:Q2095 ;
+    rdfs:label "Q20585558"^^xsd:string .
+
+wd:Q2058588 a wd:Q2095 ;
+    rdfs:label "Q2058588"^^xsd:string .
+
+wd:Q20645113 a wd:Q2095 ;
+    rdfs:label "Köftes in the Turkish cuisine"@en .
+
+wd:Q20658199 a wd:Q2424752 ;
+    rdfs:label "Go Lightly"@en .
+
+wd:Q2070245 a wd:Q2424752 ;
+    rdfs:label "Tactel"@en .
+
+wd:Q207123 a wd:Q2095 ;
+    rdfs:label "herb"@en .
+
+wd:Q20855047 a wd:Q2095 ;
+    rdfs:label "Kpekpele"@en .
+
+wd:Q20875713 a wd:Q2095 ;
+    rdfs:label "milk pilaf"@en .
+
+wd:Q209253 a wd:Q2095 ;
+    rdfs:label "satay"@en .
+
+wd:Q209304 a wd:Q2095 ;
+    rdfs:label "Gado-gado"@en .
+
+wd:Q21014439 a wd:Q2095 ;
+    rdfs:label "Kue gapit"@en .
+
+wd:Q2108393 a wd:Q2095 ;
+    rdfs:label "Q2108393"^^xsd:string .
+
+wd:Q21154910 a wd:Q2095 ;
+    rdfs:label "Lamb chops"@en .
+
+wd:Q21225089 a wd:Q2095 ;
+    rdfs:label "uyutma"@en .
+
+wd:Q212894 a wd:Q2424752 ;
+    rdfs:label "snuff"@en .
+
+wd:Q2139778 a wd:Q2095 ;
+    rdfs:label "Q2139778"^^xsd:string .
+
+wd:Q2141977 a wd:Q2095 ;
+    rdfs:label "tofu skin"@en .
+
+wd:Q21443433 a wd:Q2095 ;
+    rdfs:label "Chiroti"@en .
+
+wd:Q21479763 a wd:Q2095 ;
+    rdfs:label "pirzola"@en .
+
+wd:Q21546387 a wd:Q2095 ;
+    rdfs:label "cranberry"@en .
+
+wd:Q2190250 a wd:Q2095 ;
+    rdfs:label "Filipinos"@en .
+
+wd:Q219123 a wd:Q2095 ;
+    rdfs:label "kanafeh"@en .
+
+wd:Q2191247 a wd:Q2095 ;
+    rdfs:label "Q2191247"^^xsd:string .
+
+wd:Q2191594 a wd:Q2424752 ;
+    rdfs:label "CALBOX"@en .
+
+wd:Q2204257 a wd:Q2095 ;
+    rdfs:label "Liege waffle"@en .
+
+wd:Q22222760 a wd:Q2424752 ;
+    rdfs:label "Q22222760"^^xsd:string .
+
+wd:Q22656 a wd:Q2424752 ;
+    rdfs:label "petroleum"@en .
+
+wd:Q22815098 a wd:Q2424752 ;
+    rdfs:label "Magic: The Gathering set"@en .
+
+wd:Q22907398 a wd:Q2424752 ;
+    rdfs:label "Commodity status of animals"@en .
+
+wd:Q229475 a wd:Q2424752 ;
+    rdfs:label "3Mix"@en .
+
+wd:Q2306698 a wd:Q2424752 ;
+    rdfs:label "Desso GrassMaster"@en .
+
+wd:Q2311684 a wd:Q2424752 ;
+    rdfs:label "Q2311684"^^xsd:string .
+
+wd:Q23716632 a wd:Q2424752 ;
+    rdfs:label "Indonesia Digital HOME"@en .
+
+wd:Q23807246 a wd:Q2095 ;
+    rdfs:label "Q23807246"^^xsd:string .
+
+wd:Q23807286 a wd:Q2095 ;
+    rdfs:label "Q23807286"^^xsd:string .
+
+wd:Q2383050 a wd:Q2424752 ;
+    rdfs:label "T-ISDN"@en .
+
+wd:Q2386515 a wd:Q2095 ;
+    rdfs:label "Lacquemant waffles"@en .
+
+wd:Q2401756 a wd:Q2095 ;
+    rdfs:label "Fusarium venenatum"@en .
+
+wd:Q2414031 a wd:Q2095 ;
+    rdfs:label "Lemper"@en .
+
+wd:Q24188496 a wd:Q2095 ;
+    rdfs:label "Q24188496"^^xsd:string .
+
+wd:Q2425291 a wd:Q768267 ;
+    rdfs:label "Cheerios"@en .
+
+wd:Q24257106 a wd:Q2095 ;
+    rdfs:label "Tauge goreng"@en .
+
+wd:Q2425845 a wd:Q2095 ;
+    rdfs:label "sate kambing"@en .
+
+wd:Q2456855 a wd:Q2095 ;
+    rdfs:label "Idiyappam"@en .
+
+wd:Q2478397 a wd:Q2095 ;
+    rdfs:label "Q2478397"^^xsd:string .
+
+wd:Q24886722 a wd:Q2095 ;
+    rdfs:label "fu"@en .
+
+wd:Q24898518 a wd:Q2095 ;
+    rdfs:label "Q24898518"^^xsd:string .
+
+wd:Q2495784 a wd:Q2095 ;
+    rdfs:label "frog cake"@en .
+
+wd:Q25004446 a wd:Q2095 ;
+    rdfs:label "breakfast burrito"@en .
+
+wd:Q25052547 a wd:Q2095 ;
+    rdfs:label "Kue bugis"@en .
+
+wd:Q25052639 a wd:Q2095 ;
+    rdfs:label "Kue satu"@en .
+
+wd:Q25406657 a wd:Q2424752 ;
+    rdfs:label "Font Vella Levite"@en .
+
+wd:Q25458340 a wd:Q2095 ;
+    rdfs:label "Q25458340"^^xsd:string .
+
+wd:Q25460177 a wd:Q2095 ;
+    rdfs:label "Q25460177"^^xsd:string .
+
+wd:Q25463785 a wd:Q2095 ;
+    rdfs:label "Q25463785"^^xsd:string .
+
+wd:Q25463787 a wd:Q2095 ;
+    rdfs:label "Q25463787"^^xsd:string .
+
+wd:Q25463789 a wd:Q2095 ;
+    rdfs:label "Q25463789"^^xsd:string .
+
+wd:Q25463790 a wd:Q2095 ;
+    rdfs:label "Q25463790"^^xsd:string .
+
+wd:Q25466619 a wd:Q2095 ;
+    rdfs:label "Q25466619"^^xsd:string .
+
+wd:Q25466887 a wd:Q2095 ;
+    rdfs:label "Q25466887"^^xsd:string .
+
+wd:Q25468249 a wd:Q2095 ;
+    rdfs:label "Q25468249"^^xsd:string .
+
+wd:Q25468949 a wd:Q2095 ;
+    rdfs:label "Q25468949"^^xsd:string .
+
+wd:Q25469451 a wd:Q2095 ;
+    rdfs:label "Q25469451"^^xsd:string .
+
+wd:Q25469522 a wd:Q2095 ;
+    rdfs:label "Q25469522"^^xsd:string .
+
+wd:Q25475661 a wd:Q2095 ;
+    rdfs:label "Q25475661"^^xsd:string .
+
+wd:Q25535839 a wd:Q2095 ;
+    rdfs:label "tarama"@en .
+
+wd:Q25580565 a wd:Q2095 ;
+    rdfs:label "Q25580565"^^xsd:string .
+
+wd:Q25581030 a wd:Q2095 ;
+    rdfs:label "Q25581030"^^xsd:string .
+
+wd:Q25629915 a wd:Q2095 ;
+    rdfs:label "Q25629915"^^xsd:string .
+
+wd:Q25630136 a wd:Q2095 ;
+    rdfs:label "Q25630136"^^xsd:string .
+
+wd:Q25688465 a wd:Q2095 ;
+    rdfs:label "Pancong"@en .
+
+wd:Q2593067 a wd:Q2424752 ;
+    rdfs:label "Amazon S3"@en .
+
+wd:Q2597849 a wd:Q2424752 ;
+    rdfs:label "xaxim"@en .
+
+wd:Q2601766 a wd:Q2095 ;
+    rdfs:label "Yufka"@en .
+
+wd:Q2669274 a wd:Q2095 ;
+    rdfs:label "tandoor bread"@en .
+
+wd:Q2705946 a wd:Q2424752 ;
+    rdfs:label "Filet-O-Fish"@en .
+
+wd:Q27206 a wd:Q2424752 ;
+    rdfs:label "hood"@en .
+
+wd:Q27304980 a wd:Q2095 ;
+    rdfs:label "Majadito"@en .
+
+wd:Q2736577 a wd:Q2424752 ;
+    rdfs:label "Q2736577"^^xsd:string .
+
+wd:Q27907779 a wd:Q2424752 ;
+    rdfs:label "Lanjarón"@en .
+
+wd:Q27910073 a wd:Q2424752 ;
+    rdfs:label "Danonino"@en .
+
+wd:Q27963899 a wd:Q2095 ;
+    rdfs:label "Pecel pitik"@en .
+
+wd:Q28134977 a wd:Q2424752 ;
+    rdfs:label "ContraPest"@en .
+
+wd:Q2815763 a wd:Q2424752 ;
+    rdfs:label "29erXS"@en .
+
+wd:Q2830455 a wd:Q2095 ;
+    rdfs:label "condensed milk"@en .
+
+wd:Q28408000 a wd:Q2095 ;
+    rdfs:label "Keema Matar"@en .
+
+wd:Q28457520 a wd:Q2095 ;
+    rdfs:label "rolex"@en .
+
+wd:Q286455 a wd:Q768267 ;
+    rdfs:label "Wheaties"@en .
+
+wd:Q28657989 a wd:Q2424752 ;
+    rdfs:label "heat-not-burn product"@en .
+
+wd:Q28723593 a wd:Q2095 ;
+    rdfs:label "Q28723593"^^xsd:string .
+
+wd:Q28724581 a wd:Q2095 ;
+    rdfs:label "Q28724581"^^xsd:string .
+
+wd:Q28725121 a wd:Q2095 ;
+    rdfs:label "Q28725121"^^xsd:string .
+
+wd:Q28725146 a wd:Q2095 ;
+    rdfs:label "Q28725146"^^xsd:string .
+
+wd:Q28936446 a wd:Q2095 ;
+    rdfs:label "Q28936446"^^xsd:string .
+
+wd:Q2902203 a wd:Q2095 ;
+    rdfs:label "Salted duck egg"@en .
+
+wd:Q2904970 a wd:Q2095 ;
+    rdfs:label "fried green tomatoes"@en .
+
+wd:Q2906012 a wd:Q2095 ;
+    rdfs:label "tklapi"@en .
+
+wd:Q2923090 a wd:Q2095 ;
+    rdfs:label "Q2923090"^^xsd:string .
+
+wd:Q2941309 a wd:Q2095 ;
+    rdfs:label "blackcurrant"@en .
+
+wd:Q2963355 a wd:Q2095 ;
+    rdfs:label "tavuk şiş"@en .
+
+wd:Q2964257 a wd:Q768267 ;
+    rdfs:label "Chocapic"@en .
+
+wd:Q300938 a wd:Q2424752 ;
+    rdfs:label "Aalschnur"@en .
+
+wd:Q3009548 a wd:Q2424752 ;
+    rdfs:label "remembrance poppy"@en .
+
+wd:Q3013458 a wd:Q2424752 ;
+    rdfs:label "Danette"@en .
+
+wd:Q3037385 a wd:Q2424752 ;
+    rdfs:label "Dothan"@en .
+
+wd:Q3047374 a wd:Q2424752 ;
+    rdfs:label "Edel 3"@en .
+
+wd:Q30541708 a wd:Q2424752 ;
+    rdfs:label "GeoIP"@en .
+
+wd:Q30703616 a wd:Q2095 ;
+    rdfs:label "chip"@en .
+
+wd:Q31093402 a wd:Q2095 ;
+    rdfs:label "Q31093402"^^xsd:string .
+
+wd:Q31173193 a wd:Q2095 ;
+    rdfs:label "Q31173193"^^xsd:string .
+
+wd:Q31173625 a wd:Q2095 ;
+    rdfs:label "Q31173625"^^xsd:string .
+
+wd:Q31173765 a wd:Q2095 ;
+    rdfs:label "Q31173765"^^xsd:string .
+
+wd:Q31189602 a wd:Q2095 ;
+    rdfs:label "Isparta fırın kebabı"@en .
+
+wd:Q3156409 a wd:Q2424752 ;
+    rdfs:label "Iwaver"@en .
+
+wd:Q316849 a wd:Q2095 ;
+    rdfs:label "tarte flambée"@en .
+
+wd:Q31727595 a wd:Q2095 ;
+    rdfs:label "Q31727595"^^xsd:string .
+
+wd:Q32164271 a wd:Q2095 ;
+    rdfs:label "Q32164271"^^xsd:string .
+
+wd:Q3234931 a wd:Q2095 ;
+    rdfs:label "Otak-otak"@en .
+
+wd:Q3236175 a wd:Q2095 ;
+    rdfs:label "nasi uduk"@en .
+
+wd:Q3244647 a wd:Q2095 ;
+    rdfs:label "Nasi kucing"@en .
+
+wd:Q3246973 a wd:Q2095 ;
+    rdfs:label "black-eyed pea"@en .
+
+wd:Q3265931 a wd:Q768267 ;
+    rdfs:label "Lucky Charms"@en .
+
+wd:Q3272718 a wd:Q2424752 ;
+    rdfs:label "MAS 45"@en .
+
+wd:Q3273951 a wd:Q2095 ;
+    rdfs:label "nasi campur"@en .
+
+wd:Q3310476 a wd:Q768267 ;
+    rdfs:label "Froot Loops"@en .
+
+wd:Q331490 a wd:Q2424752 ;
+    rdfs:label "Abroadband"@en .
+
+wd:Q3358043 a wd:Q2424752 ;
+    rdfs:label "Hardtop"@en .
+
+wd:Q339193 a wd:Q2095 ;
+    rdfs:label "dolma"@en .
+
+wd:Q343276 a wd:Q2424752 ;
+    rdfs:label "Actimel"@en .
+
+wd:Q343864 a wd:Q2095 ;
+    rdfs:label "imambayıldı"@en .
+
+wd:Q3487500 a wd:Q2424752 ;
+    rdfs:label "BioSteel"@en .
+
+wd:Q3492829 a wd:Q768267 ;
+    rdfs:label "Special K"@en .
+
+wd:Q3502526 a wd:Q2095 ;
+    rdfs:label "Jin deui"@en .
+
+wd:Q3537474 a wd:Q2095 ;
+    rdfs:label "Neera"@en .
+
+wd:Q3570440 a wd:Q2424752 ;
+    rdfs:label "XT(2)+"@en .
+
+wd:Q3574648 a wd:Q2095 ;
+    rdfs:label "Ternasco de Aragón"@en .
+
+wd:Q3595351 a wd:Q2095 ;
+    rdfs:label "Sadya"@en .
+
+wd:Q3613477 a wd:Q2424752 ;
+    rdfs:label "Alviso"@en .
+
+wd:Q3675466 a wd:Q2095 ;
+    rdfs:label "Katmer"@en .
+
+wd:Q3676186 a wd:Q2095 ;
+    rdfs:label "kuymak"@en .
+
+wd:Q36940 a wd:Q2424752 ;
+    rdfs:label "sugarcane"@en .
+
+wd:Q3701308 a wd:Q2424752 ;
+    rdfs:label "Dammar"@en .
+
+wd:Q3811351 a wd:Q2424752 ;
+    rdfs:label "Q3811351"^^xsd:string .
+
+wd:Q38247865 a wd:Q2095 ;
+    rdfs:label "Fried Rice with Salted Fish and Chicken"@en .
+
+wd:Q3854693 a wd:Q2424752 ;
+    rdfs:label "Menlow"@en .
+
+wd:Q3860889 a wd:Q2424752 ;
+    rdfs:label "Monk's"@en .
+
+wd:Q3909175 a wd:Q2095 ;
+    rdfs:label "es doger"@en .
+
+wd:Q3933203 a wd:Q2424752 ;
+    rdfs:label "Repond"@en .
+
+wd:Q3940165 a wd:Q2095 ;
+    rdfs:label "Kidneys (meat)"@en .
+
+wd:Q3982532 a wd:Q2424752 ;
+    rdfs:label "Tedlar"@en .
+
+wd:Q4010555 a wd:Q2424752 ;
+    rdfs:label "ViP750"@en .
+
+wd:Q4021706 a wd:Q2424752 ;
+    rdfs:label "Xan"@en .
+
+wd:Q4029127 a wd:Q2424752 ;
+    rdfs:label "16К20"@en .
+
+wd:Q4103061 a wd:Q2095 ;
+    rdfs:label "lumpia"@en .
+
+wd:Q4115062 a wd:Q2424752 ;
+    rdfs:label "Twaron"@en .
+
+wd:Q4118270 a wd:Q2095 ;
+    rdfs:label "mixed nuts"@en .
+
+wd:Q4189322 a wd:Q2095 ;
+    rdfs:label "Gulai"@en .
+
+wd:Q4189615 a wd:Q2095 ;
+    rdfs:label "Nagasari"@en .
+
+wd:Q4192299 a wd:Q2095 ;
+    rdfs:label "Oncom"@en .
+
+wd:Q4195174 a wd:Q2424752 ;
+    rdfs:label "ИП-5"@en .
+
+wd:Q4199436 a wd:Q2095 ;
+    rdfs:label "lawar"@en .
+
+wd:Q4200659 a wd:Q2095 ;
+    rdfs:label "Pempek"@en .
+
+wd:Q4200763 a wd:Q2095 ;
+    rdfs:label "Rawon"@en .
+
+wd:Q4200773 a wd:Q2095 ;
+    rdfs:label "Jamu"@en .
+
+wd:Q4201329 a wd:Q2095 ;
+    rdfs:label "Sega lengko"@en .
+
+wd:Q4201867 a wd:Q2095 ;
+    rdfs:label "Bajigur"@en .
+
+wd:Q4202016 a wd:Q2095 ;
+    rdfs:label "Lupis"@en .
+
+wd:Q4203530 a wd:Q2095 ;
+    rdfs:label "Karedok"@en .
+
+wd:Q4205452 a wd:Q2095 ;
+    rdfs:label "nasi kebuli"@en .
+
+wd:Q4206002 a wd:Q2095 ;
+    rdfs:label "Urap"@en .
+
+wd:Q4208144 a wd:Q2095 ;
+    rdfs:label "bakwan"@en .
+
+wd:Q4208661 a wd:Q2095 ;
+    rdfs:label "Mie celor"@en .
+
+wd:Q4251295 a wd:Q2095 ;
+    rdfs:label "kofte bozbash"@en .
+
+wd:Q4261107 a wd:Q2424752 ;
+    rdfs:label "Intelligent Parking Assist System"@en .
+
+wd:Q4262936 a wd:Q2095 ;
+    rdfs:label "Q4262936"^^xsd:string .
+
+wd:Q4264051 a wd:Q2095 ;
+    rdfs:label "Geplak"@en .
+
+wd:Q4272221 a wd:Q2095 ;
+    rdfs:label "Papeda"@en .
+
+wd:Q43150 a wd:Q2424752 ;
+    rdfs:label ".pk"@en .
+
+wd:Q43528544 a wd:Q2424752 ;
+    rdfs:label "Q43528544"^^xsd:string .
+
+wd:Q43528791 a wd:Q2424752 ;
+    rdfs:label "Q43528791"^^xsd:string .
+
+wd:Q4506424 a wd:Q2095 ;
+    rdfs:label "chicken tabaka"@en .
+
+wd:Q4506510 a wd:Q2424752 ;
+    rdfs:label "Ч3-33"@en .
+
+wd:Q45195826 a wd:Q2095 ;
+    rdfs:label "Q45195826"^^xsd:string .
+
+wd:Q4634305 a wd:Q2424752 ;
+    rdfs:label "300B"@en .
+
+wd:Q466430 a wd:Q2095 ;
+    rdfs:label "nachos"@en .
+
+wd:Q470519 a wd:Q2095 ;
+    rdfs:label "mochi"@en .
+
+wd:Q4739207 a wd:Q2095 ;
+    rdfs:label "Amala"@en .
+
+wd:Q4748563 a wd:Q2095 ;
+    rdfs:label "Tempoyak"@en .
+
+wd:Q4781194 a wd:Q768267 ;
+    rdfs:label "Apple Jacks"@en .
+
+wd:Q4815005 a wd:Q2095 ;
+    rdfs:label "Pide (flatbread)"@en .
+
+wd:Q4827367 a wd:Q2424752 ;
+    rdfs:label "Av Pak"@en .
+
+wd:Q484447 a wd:Q2095 ;
+    rdfs:label "Vigna radiata"@en .
+
+wd:Q4854701 a wd:Q2095 ;
+    rdfs:label "Bandrek"@en .
+
+wd:Q4862963 a wd:Q768267 ;
+    rdfs:label "Baron von Redberry"@en .
+
+wd:Q4868531 a wd:Q2095 ;
+    rdfs:label "batagor"@en .
+
+wd:Q48855094 a wd:Q2095 ;
+    rdfs:label "Q48855094"^^xsd:string .
+
+wd:Q48900437 a wd:Q2095 ;
+    rdfs:label "Braised Chicken"@en .
+
+wd:Q48935221 a wd:Q2095 ;
+    rdfs:label "Red peach cake"@en .
+
+wd:Q4899060 a wd:Q2095 ;
+    rdfs:label "Betutu"@en .
+
+wd:Q4920553 a wd:Q2095 ;
+    rdfs:label "Nasi ulam"@en .
+
+wd:Q4921072 a wd:Q2095 ;
+    rdfs:label "red tortoise cake"@en .
+
+wd:Q4982336 a wd:Q768267 ;
+    rdfs:label "Buc Wheats cereal"@en .
+
+wd:Q4997935 a wd:Q2095 ;
+    rdfs:label "Buntil"@en .
+
+wd:Q5000289 a wd:Q2424752 ;
+    rdfs:label "Burple"@en .
+
+wd:Q5012886 a wd:Q2424752 ;
+    rdfs:label "Colt Machine Gun"@en .
+
+wd:Q5034402 a wd:Q768267 ;
+    rdfs:label "Cap'n Crunch"@en .
+
+wd:Q5094553 a wd:Q768267 ;
+    rdfs:label "Chex"@en .
+
+wd:Q5096278 a wd:Q2424752 ;
+    rdfs:label "Chicken Tatsuta"@en .
+
+wd:Q5119344 a wd:Q2095 ;
+    rdfs:label "Cicchetti"@en .
+
+wd:Q5139107 a wd:Q2095,
+        wd:Q2424752 ;
+    rdfs:label "Coca flour"@en .
+
+wd:Q5162437 a wd:Q2095 ;
+    rdfs:label "Serabi"@en .
+
+wd:Q52148739 a wd:Q2095 ;
+    rdfs:label "salça"@en .
+
+wd:Q524374 a wd:Q2095 ;
+    rdfs:label "Q524374"^^xsd:string .
+
+wd:Q5243850 a wd:Q2095 ;
+    rdfs:label "Esquites"@en .
+
+wd:Q5254542 a wd:Q2095 ;
+    rdfs:label "Rengginang"@en .
+
+wd:Q5259142 a wd:Q2095 ;
+    rdfs:label "Tapai"@en .
+
+wd:Q5261363 a wd:Q2095 ;
+    rdfs:label "Pecel"@en .
+
+wd:Q5262436 a wd:Q2095 ;
+    rdfs:label "Klepon"@en .
+
+wd:Q5262528 a wd:Q2095 ;
+    rdfs:label "Getuk"@en .
+
+wd:Q5282661 a wd:Q1194058 ;
+    rdfs:label "disposable grill"@en .
+
+wd:Q5287158 a wd:Q2095 ;
+    rdfs:label "Docang"@en .
+
+wd:Q5373825 a wd:Q2095 ;
+    rdfs:label "Empal gentong"@en .
+
+wd:Q5396648 a wd:Q2095 ;
+    rdfs:label "Es teler"@en .
+
+wd:Q54222845 a wd:Q2095 ;
+    rdfs:label "Pasta gratin"@en .
+
+wd:Q5442825 a wd:Q2424752 ;
+    rdfs:label "Feminine wipe"@en .
+
+wd:Q54815990 a wd:Q2095 ;
+    rdfs:label "cacık"@en .
+
+wd:Q5506199 a wd:Q768267 ;
+    rdfs:label "Frosted Mini-Wheats"@en .
+
+wd:Q5519587 a wd:Q2424752 ;
+    rdfs:label "Gamat"@en .
+
+wd:Q5521784 a wd:Q2095 ;
+    rdfs:label "Gaplek"@en .
+
+wd:Q55480566 a wd:Q2424752 ;
+    rdfs:label "Chubby puppy"@en .
+
+wd:Q55480586 a wd:Q2424752 ;
+    rdfs:label "Chubby puppies and friends"@en .
+
+wd:Q55638285 a wd:Q2095 ;
+    rdfs:label "Çökertme"@en .
+
+wd:Q55650512 a wd:Q2095 ;
+    rdfs:label "Q55650512"^^xsd:string .
+
+wd:Q5572392 a wd:Q2424752 ;
+    rdfs:label "Gluma"@en .
+
+wd:Q55726131 a wd:Q2424752 ;
+    rdfs:label "ozaphane"@en .
+
+wd:Q5579292 a wd:Q768267 ;
+    rdfs:label "Golden Crisp"@en .
+
+wd:Q5579683 a wd:Q2095 ;
+    rdfs:label "Golden Nuggets"@en .
+
+wd:Q5596987 a wd:Q768267 ;
+    rdfs:label "Grape-Nuts"@en .
+
+wd:Q56196714 a wd:Q2424752 ;
+    rdfs:label "Applied Climate Information System Summary Map"@en .
+
+wd:Q56196824 a wd:Q2424752 ;
+    rdfs:label "Automated Weather Data Network"@en .
+
+wd:Q56231351 a wd:Q2095 ;
+    rdfs:label "Q56231351"^^xsd:string .
+
+wd:Q56231352 a wd:Q2095 ;
+    rdfs:label "Q56231352"^^xsd:string .
+
+wd:Q56231353 a wd:Q2095 ;
+    rdfs:label "Q56231353"^^xsd:string .
+
+wd:Q56231354 a wd:Q2095 ;
+    rdfs:label "Q56231354"^^xsd:string .
+
+wd:Q56231355 a wd:Q2095 ;
+    rdfs:label "Q56231355"^^xsd:string .
+
+wd:Q56231357 a wd:Q2095 ;
+    rdfs:label "Q56231357"^^xsd:string .
+
+wd:Q56231358 a wd:Q2095 ;
+    rdfs:label "Q56231358"^^xsd:string .
+
+wd:Q56231359 a wd:Q2095 ;
+    rdfs:label "Q56231359"^^xsd:string .
+
+wd:Q56231360 a wd:Q2095 ;
+    rdfs:label "Q56231360"^^xsd:string .
+
+wd:Q56231361 a wd:Q2095 ;
+    rdfs:label "Q56231361"^^xsd:string .
+
+wd:Q56231362 a wd:Q2095 ;
+    rdfs:label "Q56231362"^^xsd:string .
+
+wd:Q56231363 a wd:Q2095 ;
+    rdfs:label "Q56231363"^^xsd:string .
+
+wd:Q56231364 a wd:Q2095 ;
+    rdfs:label "Q56231364"^^xsd:string .
+
+wd:Q56231365 a wd:Q2095 ;
+    rdfs:label "Q56231365"^^xsd:string .
+
+wd:Q56231366 a wd:Q2095 ;
+    rdfs:label "Q56231366"^^xsd:string .
+
+wd:Q56231368 a wd:Q2095 ;
+    rdfs:label "Q56231368"^^xsd:string .
+
+wd:Q56231369 a wd:Q2095 ;
+    rdfs:label "Q56231369"^^xsd:string .
+
+wd:Q56231370 a wd:Q2095 ;
+    rdfs:label "Q56231370"^^xsd:string .
+
+wd:Q56231371 a wd:Q2095 ;
+    rdfs:label "Q56231371"^^xsd:string .
+
+wd:Q56231372 a wd:Q2095 ;
+    rdfs:label "Q56231372"^^xsd:string .
+
+wd:Q56231373 a wd:Q2095 ;
+    rdfs:label "Q56231373"^^xsd:string .
+
+wd:Q56231374 a wd:Q2095 ;
+    rdfs:label "Q56231374"^^xsd:string .
+
+wd:Q56231375 a wd:Q2095 ;
+    rdfs:label "Q56231375"^^xsd:string .
+
+wd:Q56231376 a wd:Q2095 ;
+    rdfs:label "Q56231376"^^xsd:string .
+
+wd:Q56231377 a wd:Q2095 ;
+    rdfs:label "Q56231377"^^xsd:string .
+
+wd:Q56231380 a wd:Q2095 ;
+    rdfs:label "Q56231380"^^xsd:string .
+
+wd:Q56231381 a wd:Q2095 ;
+    rdfs:label "Bagiak"@en .
+
+wd:Q56231382 a wd:Q2095 ;
+    rdfs:label "Q56231382"^^xsd:string .
+
+wd:Q56231383 a wd:Q2095 ;
+    rdfs:label "Q56231383"^^xsd:string .
+
+wd:Q56231384 a wd:Q2095 ;
+    rdfs:label "Q56231384"^^xsd:string .
+
+wd:Q56231385 a wd:Q2095 ;
+    rdfs:label "Q56231385"^^xsd:string .
+
+wd:Q56231386 a wd:Q2095 ;
+    rdfs:label "Q56231386"^^xsd:string .
+
+wd:Q56231388 a wd:Q2095 ;
+    rdfs:label "Q56231388"^^xsd:string .
+
+wd:Q56231389 a wd:Q2095 ;
+    rdfs:label "Q56231389"^^xsd:string .
+
+wd:Q56231390 a wd:Q2095 ;
+    rdfs:label "Q56231390"^^xsd:string .
+
+wd:Q56231391 a wd:Q2095 ;
+    rdfs:label "Q56231391"^^xsd:string .
+
+wd:Q56231392 a wd:Q2095 ;
+    rdfs:label "Q56231392"^^xsd:string .
+
+wd:Q56231393 a wd:Q2095 ;
+    rdfs:label "Q56231393"^^xsd:string .
+
+wd:Q56231394 a wd:Q2095 ;
+    rdfs:label "Q56231394"^^xsd:string .
+
+wd:Q56231395 a wd:Q2095 ;
+    rdfs:label "Q56231395"^^xsd:string .
+
+wd:Q56231417 a wd:Q2095 ;
+    rdfs:label "Q56231417"^^xsd:string .
+
+wd:Q56231418 a wd:Q2095 ;
+    rdfs:label "Q56231418"^^xsd:string .
+
+wd:Q56231419 a wd:Q2095 ;
+    rdfs:label "Q56231419"^^xsd:string .
+
+wd:Q56231420 a wd:Q2095 ;
+    rdfs:label "Q56231420"^^xsd:string .
+
+wd:Q56231421 a wd:Q2095 ;
+    rdfs:label "Q56231421"^^xsd:string .
+
+wd:Q56231422 a wd:Q2095 ;
+    rdfs:label "Q56231422"^^xsd:string .
+
+wd:Q56231423 a wd:Q2095 ;
+    rdfs:label "Q56231423"^^xsd:string .
+
+wd:Q56231424 a wd:Q2095 ;
+    rdfs:label "Q56231424"^^xsd:string .
+
+wd:Q56231425 a wd:Q2095 ;
+    rdfs:label "Q56231425"^^xsd:string .
+
+wd:Q56231426 a wd:Q2095 ;
+    rdfs:label "Q56231426"^^xsd:string .
+
+wd:Q56231427 a wd:Q2095 ;
+    rdfs:label "Q56231427"^^xsd:string .
+
+wd:Q56231428 a wd:Q2095 ;
+    rdfs:label "Q56231428"^^xsd:string .
+
+wd:Q56231429 a wd:Q2095 ;
+    rdfs:label "Q56231429"^^xsd:string .
+
+wd:Q56231431 a wd:Q2095 ;
+    rdfs:label "Q56231431"^^xsd:string .
+
+wd:Q56231432 a wd:Q2095 ;
+    rdfs:label "Q56231432"^^xsd:string .
+
+wd:Q56231433 a wd:Q2095 ;
+    rdfs:label "Q56231433"^^xsd:string .
+
+wd:Q56231434 a wd:Q2095 ;
+    rdfs:label "Q56231434"^^xsd:string .
+
+wd:Q56231435 a wd:Q2095 ;
+    rdfs:label "Q56231435"^^xsd:string .
+
+wd:Q56231436 a wd:Q2095 ;
+    rdfs:label "Q56231436"^^xsd:string .
+
+wd:Q56231446 a wd:Q2095 ;
+    rdfs:label "Q56231446"^^xsd:string .
+
+wd:Q56231447 a wd:Q2095 ;
+    rdfs:label "Q56231447"^^xsd:string .
+
+wd:Q56231448 a wd:Q2095 ;
+    rdfs:label "Q56231448"^^xsd:string .
+
+wd:Q56231449 a wd:Q2095 ;
+    rdfs:label "Q56231449"^^xsd:string .
+
+wd:Q56231450 a wd:Q2095 ;
+    rdfs:label "Q56231450"^^xsd:string .
+
+wd:Q56231451 a wd:Q2095 ;
+    rdfs:label "Q56231451"^^xsd:string .
+
+wd:Q56231452 a wd:Q2095 ;
+    rdfs:label "Q56231452"^^xsd:string .
+
+wd:Q56231453 a wd:Q2095 ;
+    rdfs:label "Q56231453"^^xsd:string .
+
+wd:Q56231454 a wd:Q2095 ;
+    rdfs:label "Q56231454"^^xsd:string .
+
+wd:Q56231455 a wd:Q2095 ;
+    rdfs:label "Q56231455"^^xsd:string .
+
+wd:Q56231456 a wd:Q2095 ;
+    rdfs:label "Q56231456"^^xsd:string .
+
+wd:Q56231457 a wd:Q2095 ;
+    rdfs:label "Q56231457"^^xsd:string .
+
+wd:Q56231458 a wd:Q2095 ;
+    rdfs:label "Q56231458"^^xsd:string .
+
+wd:Q56231459 a wd:Q2095 ;
+    rdfs:label "Q56231459"^^xsd:string .
+
+wd:Q56231463 a wd:Q2095 ;
+    rdfs:label "Q56231463"^^xsd:string .
+
+wd:Q56231464 a wd:Q2095 ;
+    rdfs:label "Q56231464"^^xsd:string .
+
+wd:Q56231465 a wd:Q2095 ;
+    rdfs:label "Q56231465"^^xsd:string .
+
+wd:Q56231466 a wd:Q2095 ;
+    rdfs:label "Q56231466"^^xsd:string .
+
+wd:Q56231467 a wd:Q2095 ;
+    rdfs:label "Q56231467"^^xsd:string .
+
+wd:Q56231468 a wd:Q2095 ;
+    rdfs:label "Q56231468"^^xsd:string .
+
+wd:Q56231469 a wd:Q2095 ;
+    rdfs:label "Q56231469"^^xsd:string .
+
+wd:Q56231470 a wd:Q2095 ;
+    rdfs:label "Q56231470"^^xsd:string .
+
+wd:Q56231471 a wd:Q2095 ;
+    rdfs:label "Q56231471"^^xsd:string .
+
+wd:Q56231481 a wd:Q2095 ;
+    rdfs:label "Q56231481"^^xsd:string .
+
+wd:Q56231482 a wd:Q2095 ;
+    rdfs:label "Q56231482"^^xsd:string .
+
+wd:Q56231483 a wd:Q2095 ;
+    rdfs:label "Q56231483"^^xsd:string .
+
+wd:Q56231484 a wd:Q2095 ;
+    rdfs:label "Cilok Goreng"@en .
+
+wd:Q56231486 a wd:Q2095 ;
+    rdfs:label "Cilung"@en .
+
+wd:Q56231487 a wd:Q2095 ;
+    rdfs:label "Q56231487"^^xsd:string .
+
+wd:Q56231488 a wd:Q2095 ;
+    rdfs:label "Q56231488"^^xsd:string .
+
+wd:Q56231489 a wd:Q2095 ;
+    rdfs:label "Q56231489"^^xsd:string .
+
+wd:Q56231490 a wd:Q2095 ;
+    rdfs:label "Q56231490"^^xsd:string .
+
+wd:Q56231491 a wd:Q2095 ;
+    rdfs:label "Q56231491"^^xsd:string .
+
+wd:Q56231492 a wd:Q2095 ;
+    rdfs:label "Q56231492"^^xsd:string .
+
+wd:Q56231493 a wd:Q2095 ;
+    rdfs:label "Q56231493"^^xsd:string .
+
+wd:Q56231494 a wd:Q2095 ;
+    rdfs:label "Q56231494"^^xsd:string .
+
+wd:Q56231495 a wd:Q2095 ;
+    rdfs:label "Q56231495"^^xsd:string .
+
+wd:Q56231497 a wd:Q2095 ;
+    rdfs:label "Q56231497"^^xsd:string .
+
+wd:Q56231498 a wd:Q2095 ;
+    rdfs:label "Q56231498"^^xsd:string .
+
+wd:Q56231499 a wd:Q2095 ;
+    rdfs:label "Q56231499"^^xsd:string .
+
+wd:Q56231500 a wd:Q2095 ;
+    rdfs:label "Q56231500"^^xsd:string .
+
+wd:Q56231501 a wd:Q2095 ;
+    rdfs:label "Q56231501"^^xsd:string .
+
+wd:Q56231502 a wd:Q2095 ;
+    rdfs:label "Q56231502"^^xsd:string .
+
+wd:Q56231503 a wd:Q2095 ;
+    rdfs:label "Q56231503"^^xsd:string .
+
+wd:Q56231504 a wd:Q2095 ;
+    rdfs:label "Q56231504"^^xsd:string .
+
+wd:Q56231505 a wd:Q2095 ;
+    rdfs:label "Q56231505"^^xsd:string .
+
+wd:Q56231507 a wd:Q2095 ;
+    rdfs:label "Q56231507"^^xsd:string .
+
+wd:Q56231508 a wd:Q2095 ;
+    rdfs:label "Q56231508"^^xsd:string .
+
+wd:Q56231509 a wd:Q2095 ;
+    rdfs:label "Q56231509"^^xsd:string .
+
+wd:Q56231510 a wd:Q2095 ;
+    rdfs:label "Q56231510"^^xsd:string .
+
+wd:Q56231511 a wd:Q2095 ;
+    rdfs:label "Q56231511"^^xsd:string .
+
+wd:Q56231512 a wd:Q2095 ;
+    rdfs:label "Q56231512"^^xsd:string .
+
+wd:Q56231513 a wd:Q2095 ;
+    rdfs:label "Q56231513"^^xsd:string .
+
+wd:Q56231514 a wd:Q2095 ;
+    rdfs:label "Q56231514"^^xsd:string .
+
+wd:Q56231515 a wd:Q2095 ;
+    rdfs:label "Q56231515"^^xsd:string .
+
+wd:Q56231516 a wd:Q2095 ;
+    rdfs:label "Q56231516"^^xsd:string .
+
+wd:Q56231517 a wd:Q2095 ;
+    rdfs:label "Q56231517"^^xsd:string .
+
+wd:Q56231518 a wd:Q2095 ;
+    rdfs:label "Q56231518"^^xsd:string .
+
+wd:Q56231519 a wd:Q2095 ;
+    rdfs:label "Q56231519"^^xsd:string .
+
+wd:Q56231520 a wd:Q2095 ;
+    rdfs:label "Q56231520"^^xsd:string .
+
+wd:Q56231521 a wd:Q2095 ;
+    rdfs:label "Q56231521"^^xsd:string .
+
+wd:Q56231522 a wd:Q2095 ;
+    rdfs:label "Q56231522"^^xsd:string .
+
+wd:Q56231523 a wd:Q2095 ;
+    rdfs:label "Q56231523"^^xsd:string .
+
+wd:Q56231559 a wd:Q2095 ;
+    rdfs:label "Q56231559"^^xsd:string .
+
+wd:Q56231560 a wd:Q2095 ;
+    rdfs:label "Q56231560"^^xsd:string .
+
+wd:Q56231562 a wd:Q2095 ;
+    rdfs:label "Q56231562"^^xsd:string .
+
+wd:Q56231563 a wd:Q2095 ;
+    rdfs:label "Q56231563"^^xsd:string .
+
+wd:Q56231564 a wd:Q2095 ;
+    rdfs:label "Q56231564"^^xsd:string .
+
+wd:Q56231565 a wd:Q2095 ;
+    rdfs:label "Q56231565"^^xsd:string .
+
+wd:Q56231567 a wd:Q2095 ;
+    rdfs:label "Q56231567"^^xsd:string .
+
+wd:Q56231568 a wd:Q2095 ;
+    rdfs:label "Q56231568"^^xsd:string .
+
+wd:Q56231569 a wd:Q2095 ;
+    rdfs:label "Q56231569"^^xsd:string .
+
+wd:Q56231570 a wd:Q2095 ;
+    rdfs:label "Es Goyang"@en .
+
+wd:Q56231571 a wd:Q2095 ;
+    rdfs:label "Q56231571"^^xsd:string .
+
+wd:Q56231572 a wd:Q2095 ;
+    rdfs:label "Q56231572"^^xsd:string .
+
+wd:Q56231573 a wd:Q2095 ;
+    rdfs:label "Q56231573"^^xsd:string .
+
+wd:Q56231574 a wd:Q2095 ;
+    rdfs:label "Q56231574"^^xsd:string .
+
+wd:Q56231575 a wd:Q2095 ;
+    rdfs:label "Q56231575"^^xsd:string .
+
+wd:Q56231576 a wd:Q2095 ;
+    rdfs:label "Q56231576"^^xsd:string .
+
+wd:Q56231577 a wd:Q2095 ;
+    rdfs:label "Q56231577"^^xsd:string .
+
+wd:Q56231578 a wd:Q2095 ;
+    rdfs:label "Q56231578"^^xsd:string .
+
+wd:Q56231579 a wd:Q2095 ;
+    rdfs:label "Q56231579"^^xsd:string .
+
+wd:Q56231580 a wd:Q2095 ;
+    rdfs:label "Q56231580"^^xsd:string .
+
+wd:Q56231581 a wd:Q2095 ;
+    rdfs:label "Q56231581"^^xsd:string .
+
+wd:Q56231582 a wd:Q2095 ;
+    rdfs:label "Q56231582"^^xsd:string .
+
+wd:Q56231583 a wd:Q2095 ;
+    rdfs:label "Q56231583"^^xsd:string .
+
+wd:Q56231584 a wd:Q2095 ;
+    rdfs:label "Q56231584"^^xsd:string .
+
+wd:Q56231585 a wd:Q2095 ;
+    rdfs:label "Q56231585"^^xsd:string .
+
+wd:Q56231586 a wd:Q2095 ;
+    rdfs:label "Q56231586"^^xsd:string .
+
+wd:Q56231587 a wd:Q2095 ;
+    rdfs:label "Q56231587"^^xsd:string .
+
+wd:Q56231588 a wd:Q2095 ;
+    rdfs:label "Q56231588"^^xsd:string .
+
+wd:Q56231589 a wd:Q2095 ;
+    rdfs:label "Q56231589"^^xsd:string .
+
+wd:Q56231590 a wd:Q2095 ;
+    rdfs:label "Q56231590"^^xsd:string .
+
+wd:Q56231591 a wd:Q2095 ;
+    rdfs:label "Q56231591"^^xsd:string .
+
+wd:Q56231592 a wd:Q2095 ;
+    rdfs:label "Q56231592"^^xsd:string .
+
+wd:Q56231593 a wd:Q2095 ;
+    rdfs:label "Q56231593"^^xsd:string .
+
+wd:Q56231594 a wd:Q2095 ;
+    rdfs:label "Q56231594"^^xsd:string .
+
+wd:Q56231595 a wd:Q2095 ;
+    rdfs:label "Q56231595"^^xsd:string .
+
+wd:Q56231596 a wd:Q2095 ;
+    rdfs:label "Q56231596"^^xsd:string .
+
+wd:Q56231605 a wd:Q2095 ;
+    rdfs:label "Q56231605"^^xsd:string .
+
+wd:Q56231606 a wd:Q2095 ;
+    rdfs:label "Q56231606"^^xsd:string .
+
+wd:Q56231607 a wd:Q2095 ;
+    rdfs:label "Q56231607"^^xsd:string .
+
+wd:Q56231608 a wd:Q2095 ;
+    rdfs:label "Q56231608"^^xsd:string .
+
+wd:Q56231609 a wd:Q2095 ;
+    rdfs:label "Q56231609"^^xsd:string .
+
+wd:Q56231610 a wd:Q2095 ;
+    rdfs:label "Q56231610"^^xsd:string .
+
+wd:Q56231611 a wd:Q2095 ;
+    rdfs:label "Q56231611"^^xsd:string .
+
+wd:Q56231612 a wd:Q2095 ;
+    rdfs:label "Q56231612"^^xsd:string .
+
+wd:Q56231613 a wd:Q2095 ;
+    rdfs:label "Q56231613"^^xsd:string .
+
+wd:Q56231614 a wd:Q2095 ;
+    rdfs:label "Q56231614"^^xsd:string .
+
+wd:Q56231615 a wd:Q2095 ;
+    rdfs:label "Q56231615"^^xsd:string .
+
+wd:Q56231616 a wd:Q2095 ;
+    rdfs:label "Q56231616"^^xsd:string .
+
+wd:Q56231617 a wd:Q2095 ;
+    rdfs:label "Brown Sugar"@en .
+
+wd:Q56231618 a wd:Q2095 ;
+    rdfs:label "Q56231618"^^xsd:string .
+
+wd:Q56231619 a wd:Q2095 ;
+    rdfs:label "Q56231619"^^xsd:string .
+
+wd:Q56231620 a wd:Q2095 ;
+    rdfs:label "Q56231620"^^xsd:string .
+
+wd:Q56231622 a wd:Q2095 ;
+    rdfs:label "Q56231622"^^xsd:string .
+
+wd:Q56231623 a wd:Q2095 ;
+    rdfs:label "Q56231623"^^xsd:string .
+
+wd:Q56231624 a wd:Q2095 ;
+    rdfs:label "Q56231624"^^xsd:string .
+
+wd:Q56231625 a wd:Q2095 ;
+    rdfs:label "Q56231625"^^xsd:string .
+
+wd:Q56231626 a wd:Q2095 ;
+    rdfs:label "Q56231626"^^xsd:string .
+
+wd:Q56231627 a wd:Q2095 ;
+    rdfs:label "Q56231627"^^xsd:string .
+
+wd:Q56231628 a wd:Q2095 ;
+    rdfs:label "Q56231628"^^xsd:string .
+
+wd:Q56231629 a wd:Q2095 ;
+    rdfs:label "Q56231629"^^xsd:string .
+
+wd:Q56231630 a wd:Q2095 ;
+    rdfs:label "Q56231630"^^xsd:string .
+
+wd:Q56231631 a wd:Q2095 ;
+    rdfs:label "Q56231631"^^xsd:string .
+
+wd:Q56231632 a wd:Q2095 ;
+    rdfs:label "Q56231632"^^xsd:string .
+
+wd:Q56231633 a wd:Q2095 ;
+    rdfs:label "Q56231633"^^xsd:string .
+
+wd:Q56231634 a wd:Q2095 ;
+    rdfs:label "Q56231634"^^xsd:string .
+
+wd:Q56231635 a wd:Q2095 ;
+    rdfs:label "Q56231635"^^xsd:string .
+
+wd:Q56231636 a wd:Q2095 ;
+    rdfs:label "Q56231636"^^xsd:string .
+
+wd:Q56231637 a wd:Q2095 ;
+    rdfs:label "Q56231637"^^xsd:string .
+
+wd:Q56231638 a wd:Q2095 ;
+    rdfs:label "Q56231638"^^xsd:string .
+
+wd:Q56231639 a wd:Q2095 ;
+    rdfs:label "Q56231639"^^xsd:string .
+
+wd:Q56231640 a wd:Q2095 ;
+    rdfs:label "Q56231640"^^xsd:string .
+
+wd:Q56231641 a wd:Q2095 ;
+    rdfs:label "Q56231641"^^xsd:string .
+
+wd:Q56231642 a wd:Q2095 ;
+    rdfs:label "Q56231642"^^xsd:string .
+
+wd:Q56231643 a wd:Q2095 ;
+    rdfs:label "Q56231643"^^xsd:string .
+
+wd:Q56231644 a wd:Q2095 ;
+    rdfs:label "Jaja Giling"@en .
+
+wd:Q56231645 a wd:Q2095 ;
+    rdfs:label "Q56231645"^^xsd:string .
+
+wd:Q56231671 a wd:Q2095 ;
+    rdfs:label "Q56231671"^^xsd:string .
+
+wd:Q56231672 a wd:Q2095 ;
+    rdfs:label "Q56231672"^^xsd:string .
+
+wd:Q56231673 a wd:Q2095 ;
+    rdfs:label "Q56231673"^^xsd:string .
+
+wd:Q56231674 a wd:Q2095 ;
+    rdfs:label "Q56231674"^^xsd:string .
+
+wd:Q56231675 a wd:Q2095 ;
+    rdfs:label "Q56231675"^^xsd:string .
+
+wd:Q56231676 a wd:Q2095 ;
+    rdfs:label "Q56231676"^^xsd:string .
+
+wd:Q56231677 a wd:Q2095 ;
+    rdfs:label "Q56231677"^^xsd:string .
+
+wd:Q56231678 a wd:Q2095 ;
+    rdfs:label "Q56231678"^^xsd:string .
+
+wd:Q56231679 a wd:Q2095 ;
+    rdfs:label "Q56231679"^^xsd:string .
+
+wd:Q56231680 a wd:Q2095 ;
+    rdfs:label "Q56231680"^^xsd:string .
+
+wd:Q56231681 a wd:Q2095 ;
+    rdfs:label "Q56231681"^^xsd:string .
+
+wd:Q56231682 a wd:Q2095 ;
+    rdfs:label "Q56231682"^^xsd:string .
+
+wd:Q56231683 a wd:Q2095 ;
+    rdfs:label "Q56231683"^^xsd:string .
+
+wd:Q56231684 a wd:Q2095 ;
+    rdfs:label "Q56231684"^^xsd:string .
+
+wd:Q56231685 a wd:Q2095 ;
+    rdfs:label "Q56231685"^^xsd:string .
+
+wd:Q56231686 a wd:Q2095 ;
+    rdfs:label "Q56231686"^^xsd:string .
+
+wd:Q56231687 a wd:Q2095 ;
+    rdfs:label "Q56231687"^^xsd:string .
+
+wd:Q56231688 a wd:Q2095 ;
+    rdfs:label "Q56231688"^^xsd:string .
+
+wd:Q56231689 a wd:Q2095 ;
+    rdfs:label "Q56231689"^^xsd:string .
+
+wd:Q56231690 a wd:Q2095 ;
+    rdfs:label "Q56231690"^^xsd:string .
+
+wd:Q56231691 a wd:Q2095 ;
+    rdfs:label "Q56231691"^^xsd:string .
+
+wd:Q56231692 a wd:Q2095 ;
+    rdfs:label "Q56231692"^^xsd:string .
+
+wd:Q56231693 a wd:Q2095 ;
+    rdfs:label "Q56231693"^^xsd:string .
+
+wd:Q56231694 a wd:Q2095 ;
+    rdfs:label "Q56231694"^^xsd:string .
+
+wd:Q56231695 a wd:Q2095 ;
+    rdfs:label "Q56231695"^^xsd:string .
+
+wd:Q56231696 a wd:Q2095 ;
+    rdfs:label "Q56231696"^^xsd:string .
+
+wd:Q56231697 a wd:Q2095 ;
+    rdfs:label "Q56231697"^^xsd:string .
+
+wd:Q56231699 a wd:Q2095 ;
+    rdfs:label "Q56231699"^^xsd:string .
+
+wd:Q56231700 a wd:Q2095 ;
+    rdfs:label "Q56231700"^^xsd:string .
+
+wd:Q56231701 a wd:Q2095 ;
+    rdfs:label "Q56231701"^^xsd:string .
+
+wd:Q56231702 a wd:Q2095 ;
+    rdfs:label "Q56231702"^^xsd:string .
+
+wd:Q56231703 a wd:Q2095 ;
+    rdfs:label "Q56231703"^^xsd:string .
+
+wd:Q56231704 a wd:Q2095 ;
+    rdfs:label "Q56231704"^^xsd:string .
+
+wd:Q56231705 a wd:Q2095 ;
+    rdfs:label "Q56231705"^^xsd:string .
+
+wd:Q56231706 a wd:Q2095 ;
+    rdfs:label "Q56231706"^^xsd:string .
+
+wd:Q56231707 a wd:Q2095 ;
+    rdfs:label "Q56231707"^^xsd:string .
+
+wd:Q56231708 a wd:Q2095 ;
+    rdfs:label "Q56231708"^^xsd:string .
+
+wd:Q56231709 a wd:Q2095 ;
+    rdfs:label "Q56231709"^^xsd:string .
+
+wd:Q56231710 a wd:Q2095 ;
+    rdfs:label "Q56231710"^^xsd:string .
+
+wd:Q56231711 a wd:Q2095 ;
+    rdfs:label "Q56231711"^^xsd:string .
+
+wd:Q56231734 a wd:Q2095 ;
+    rdfs:label "Q56231734"^^xsd:string .
+
+wd:Q56231735 a wd:Q2095 ;
+    rdfs:label "Q56231735"^^xsd:string .
+
+wd:Q56231736 a wd:Q2095 ;
+    rdfs:label "Q56231736"^^xsd:string .
+
+wd:Q56231737 a wd:Q2095 ;
+    rdfs:label "Q56231737"^^xsd:string .
+
+wd:Q56231738 a wd:Q2095 ;
+    rdfs:label "Q56231738"^^xsd:string .
+
+wd:Q56231740 a wd:Q2095 ;
+    rdfs:label "Q56231740"^^xsd:string .
+
+wd:Q56231741 a wd:Q2095 ;
+    rdfs:label "Q56231741"^^xsd:string .
+
+wd:Q56231742 a wd:Q2095 ;
+    rdfs:label "Q56231742"^^xsd:string .
+
+wd:Q56231744 a wd:Q2095 ;
+    rdfs:label "Q56231744"^^xsd:string .
+
+wd:Q56231745 a wd:Q2095 ;
+    rdfs:label "Q56231745"^^xsd:string .
+
+wd:Q56231746 a wd:Q2095 ;
+    rdfs:label "Q56231746"^^xsd:string .
+
+wd:Q56231747 a wd:Q2095 ;
+    rdfs:label "Q56231747"^^xsd:string .
+
+wd:Q56231748 a wd:Q2095 ;
+    rdfs:label "Q56231748"^^xsd:string .
+
+wd:Q56231749 a wd:Q2095 ;
+    rdfs:label "Q56231749"^^xsd:string .
+
+wd:Q56231750 a wd:Q2095 ;
+    rdfs:label "Q56231750"^^xsd:string .
+
+wd:Q56231751 a wd:Q2095 ;
+    rdfs:label "Q56231751"^^xsd:string .
+
+wd:Q56231752 a wd:Q2095 ;
+    rdfs:label "Q56231752"^^xsd:string .
+
+wd:Q56231753 a wd:Q2095 ;
+    rdfs:label "Q56231753"^^xsd:string .
+
+wd:Q56231754 a wd:Q2095 ;
+    rdfs:label "Q56231754"^^xsd:string .
+
+wd:Q56231755 a wd:Q2095 ;
+    rdfs:label "Q56231755"^^xsd:string .
+
+wd:Q56231756 a wd:Q2095 ;
+    rdfs:label "Q56231756"^^xsd:string .
+
+wd:Q56231757 a wd:Q2095 ;
+    rdfs:label "Q56231757"^^xsd:string .
+
+wd:Q56231759 a wd:Q2095 ;
+    rdfs:label "Q56231759"^^xsd:string .
+
+wd:Q56231760 a wd:Q2095 ;
+    rdfs:label "Q56231760"^^xsd:string .
+
+wd:Q56231761 a wd:Q2095 ;
+    rdfs:label "Q56231761"^^xsd:string .
+
+wd:Q56231762 a wd:Q2095 ;
+    rdfs:label "Q56231762"^^xsd:string .
+
+wd:Q56231763 a wd:Q2095 ;
+    rdfs:label "Q56231763"^^xsd:string .
+
+wd:Q56231764 a wd:Q2095 ;
+    rdfs:label "Q56231764"^^xsd:string .
+
+wd:Q56231765 a wd:Q2095 ;
+    rdfs:label "Q56231765"^^xsd:string .
+
+wd:Q56231766 a wd:Q2095 ;
+    rdfs:label "Q56231766"^^xsd:string .
+
+wd:Q56231767 a wd:Q2095 ;
+    rdfs:label "Q56231767"^^xsd:string .
+
+wd:Q56231768 a wd:Q2095 ;
+    rdfs:label "Q56231768"^^xsd:string .
+
+wd:Q56231769 a wd:Q2095 ;
+    rdfs:label "Q56231769"^^xsd:string .
+
+wd:Q56231770 a wd:Q2095 ;
+    rdfs:label "Q56231770"^^xsd:string .
+
+wd:Q56231771 a wd:Q2095 ;
+    rdfs:label "Q56231771"^^xsd:string .
+
+wd:Q56231772 a wd:Q2095 ;
+    rdfs:label "Q56231772"^^xsd:string .
+
+wd:Q56231773 a wd:Q2095 ;
+    rdfs:label "Q56231773"^^xsd:string .
+
+wd:Q56231774 a wd:Q2095 ;
+    rdfs:label "Q56231774"^^xsd:string .
+
+wd:Q56231775 a wd:Q2095 ;
+    rdfs:label "Q56231775"^^xsd:string .
+
+wd:Q56231776 a wd:Q2095 ;
+    rdfs:label "Q56231776"^^xsd:string .
+
+wd:Q56231786 a wd:Q2095 ;
+    rdfs:label "Q56231786"^^xsd:string .
+
+wd:Q56231788 a wd:Q2095 ;
+    rdfs:label "Q56231788"^^xsd:string .
+
+wd:Q56231789 a wd:Q2095 ;
+    rdfs:label "Q56231789"^^xsd:string .
+
+wd:Q56231790 a wd:Q2095 ;
+    rdfs:label "Q56231790"^^xsd:string .
+
+wd:Q56231799 a wd:Q2095 ;
+    rdfs:label "Q56231799"^^xsd:string .
+
+wd:Q56231800 a wd:Q2095 ;
+    rdfs:label "Q56231800"^^xsd:string .
+
+wd:Q56231801 a wd:Q2095 ;
+    rdfs:label "Q56231801"^^xsd:string .
+
+wd:Q56231802 a wd:Q2095 ;
+    rdfs:label "Q56231802"^^xsd:string .
+
+wd:Q56231803 a wd:Q2095 ;
+    rdfs:label "Q56231803"^^xsd:string .
+
+wd:Q56231804 a wd:Q2095 ;
+    rdfs:label "Q56231804"^^xsd:string .
+
+wd:Q56231805 a wd:Q2095 ;
+    rdfs:label "Q56231805"^^xsd:string .
+
+wd:Q56231806 a wd:Q2095 ;
+    rdfs:label "Q56231806"^^xsd:string .
+
+wd:Q56231807 a wd:Q2095 ;
+    rdfs:label "Q56231807"^^xsd:string .
+
+wd:Q56231808 a wd:Q2095 ;
+    rdfs:label "Q56231808"^^xsd:string .
+
+wd:Q56231809 a wd:Q2095 ;
+    rdfs:label "Q56231809"^^xsd:string .
+
+wd:Q56231810 a wd:Q2095 ;
+    rdfs:label "Q56231810"^^xsd:string .
+
+wd:Q56231811 a wd:Q2095 ;
+    rdfs:label "Q56231811"^^xsd:string .
+
+wd:Q56231812 a wd:Q2095 ;
+    rdfs:label "Q56231812"^^xsd:string .
+
+wd:Q56231813 a wd:Q2095 ;
+    rdfs:label "Q56231813"^^xsd:string .
+
+wd:Q56231814 a wd:Q2095 ;
+    rdfs:label "Q56231814"^^xsd:string .
+
+wd:Q56231816 a wd:Q2095 ;
+    rdfs:label "Q56231816"^^xsd:string .
+
+wd:Q56231817 a wd:Q2095 ;
+    rdfs:label "Q56231817"^^xsd:string .
+
+wd:Q56231818 a wd:Q2095 ;
+    rdfs:label "Q56231818"^^xsd:string .
+
+wd:Q56231819 a wd:Q2095 ;
+    rdfs:label "Q56231819"^^xsd:string .
+
+wd:Q56231821 a wd:Q2095 ;
+    rdfs:label "Q56231821"^^xsd:string .
+
+wd:Q56231822 a wd:Q2095 ;
+    rdfs:label "Q56231822"^^xsd:string .
+
+wd:Q56231823 a wd:Q2095 ;
+    rdfs:label "Q56231823"^^xsd:string .
+
+wd:Q56231824 a wd:Q2095 ;
+    rdfs:label "Q56231824"^^xsd:string .
+
+wd:Q56231825 a wd:Q2095 ;
+    rdfs:label "Q56231825"^^xsd:string .
+
+wd:Q56231826 a wd:Q2095 ;
+    rdfs:label "Q56231826"^^xsd:string .
+
+wd:Q56231827 a wd:Q2095 ;
+    rdfs:label "Q56231827"^^xsd:string .
+
+wd:Q56231828 a wd:Q2095 ;
+    rdfs:label "Q56231828"^^xsd:string .
+
+wd:Q56231829 a wd:Q2095 ;
+    rdfs:label "Q56231829"^^xsd:string .
+
+wd:Q56231830 a wd:Q2095 ;
+    rdfs:label "Q56231830"^^xsd:string .
+
+wd:Q56231831 a wd:Q2095 ;
+    rdfs:label "Q56231831"^^xsd:string .
+
+wd:Q56231832 a wd:Q2095 ;
+    rdfs:label "Q56231832"^^xsd:string .
+
+wd:Q56231833 a wd:Q2095 ;
+    rdfs:label "Q56231833"^^xsd:string .
+
+wd:Q56231846 a wd:Q2095 ;
+    rdfs:label "Q56231846"^^xsd:string .
+
+wd:Q56231847 a wd:Q2095 ;
+    rdfs:label "Q56231847"^^xsd:string .
+
+wd:Q56231848 a wd:Q2095 ;
+    rdfs:label "Q56231848"^^xsd:string .
+
+wd:Q56231849 a wd:Q2095 ;
+    rdfs:label "Q56231849"^^xsd:string .
+
+wd:Q56231850 a wd:Q2095 ;
+    rdfs:label "Q56231850"^^xsd:string .
+
+wd:Q56231851 a wd:Q2095 ;
+    rdfs:label "Q56231851"^^xsd:string .
+
+wd:Q56231852 a wd:Q2095 ;
+    rdfs:label "Q56231852"^^xsd:string .
+
+wd:Q56231853 a wd:Q2095 ;
+    rdfs:label "Q56231853"^^xsd:string .
+
+wd:Q56231854 a wd:Q2095 ;
+    rdfs:label "Q56231854"^^xsd:string .
+
+wd:Q56231855 a wd:Q2095 ;
+    rdfs:label "Q56231855"^^xsd:string .
+
+wd:Q56231856 a wd:Q2095 ;
+    rdfs:label "Q56231856"^^xsd:string .
+
+wd:Q56231857 a wd:Q2095 ;
+    rdfs:label "Q56231857"^^xsd:string .
+
+wd:Q56231858 a wd:Q2095 ;
+    rdfs:label "Q56231858"^^xsd:string .
+
+wd:Q56231860 a wd:Q2095 ;
+    rdfs:label "Q56231860"^^xsd:string .
+
+wd:Q56231861 a wd:Q2095 ;
+    rdfs:label "Kritcu"@en .
+
+wd:Q56231862 a wd:Q2095 ;
+    rdfs:label "Q56231862"^^xsd:string .
+
+wd:Q56231863 a wd:Q2095 ;
+    rdfs:label "Q56231863"^^xsd:string .
+
+wd:Q56231864 a wd:Q2095 ;
+    rdfs:label "Q56231864"^^xsd:string .
+
+wd:Q56231865 a wd:Q2095 ;
+    rdfs:label "Q56231865"^^xsd:string .
+
+wd:Q56231866 a wd:Q2095 ;
+    rdfs:label "Q56231866"^^xsd:string .
+
+wd:Q56231867 a wd:Q2095 ;
+    rdfs:label "Q56231867"^^xsd:string .
+
+wd:Q56231868 a wd:Q2095 ;
+    rdfs:label "Q56231868"^^xsd:string .
+
+wd:Q56231869 a wd:Q2095 ;
+    rdfs:label "Q56231869"^^xsd:string .
+
+wd:Q56231870 a wd:Q2095 ;
+    rdfs:label "Q56231870"^^xsd:string .
+
+wd:Q56231871 a wd:Q2095 ;
+    rdfs:label "Q56231871"^^xsd:string .
+
+wd:Q56231872 a wd:Q2095 ;
+    rdfs:label "Q56231872"^^xsd:string .
+
+wd:Q56231873 a wd:Q2095 ;
+    rdfs:label "Q56231873"^^xsd:string .
+
+wd:Q56231874 a wd:Q2095 ;
+    rdfs:label "Q56231874"^^xsd:string .
+
+wd:Q56231875 a wd:Q2095 ;
+    rdfs:label "Q56231875"^^xsd:string .
+
+wd:Q56231876 a wd:Q2095 ;
+    rdfs:label "Q56231876"^^xsd:string .
+
+wd:Q56231877 a wd:Q2095 ;
+    rdfs:label "Q56231877"^^xsd:string .
+
+wd:Q56231878 a wd:Q2095 ;
+    rdfs:label "Q56231878"^^xsd:string .
+
+wd:Q56231879 a wd:Q2095 ;
+    rdfs:label "Q56231879"^^xsd:string .
+
+wd:Q56231880 a wd:Q2095 ;
+    rdfs:label "Q56231880"^^xsd:string .
+
+wd:Q56231881 a wd:Q2095 ;
+    rdfs:label "Q56231881"^^xsd:string .
+
+wd:Q56231882 a wd:Q2095 ;
+    rdfs:label "Q56231882"^^xsd:string .
+
+wd:Q56231883 a wd:Q2095 ;
+    rdfs:label "Pepe"@en .
+
+wd:Q56231884 a wd:Q2095 ;
+    rdfs:label "Q56231884"^^xsd:string .
+
+wd:Q56231885 a wd:Q2095 ;
+    rdfs:label "Q56231885"^^xsd:string .
+
+wd:Q56231886 a wd:Q2095 ;
+    rdfs:label "Q56231886"^^xsd:string .
+
+wd:Q56231925 a wd:Q2095 ;
+    rdfs:label "Q56231925"^^xsd:string .
+
+wd:Q56231926 a wd:Q2095 ;
+    rdfs:label "Q56231926"^^xsd:string .
+
+wd:Q56231927 a wd:Q2095 ;
+    rdfs:label "Q56231927"^^xsd:string .
+
+wd:Q56231928 a wd:Q2095 ;
+    rdfs:label "Q56231928"^^xsd:string .
+
+wd:Q56231929 a wd:Q2095 ;
+    rdfs:label "Q56231929"^^xsd:string .
+
+wd:Q56231930 a wd:Q2095 ;
+    rdfs:label "Q56231930"^^xsd:string .
+
+wd:Q56231931 a wd:Q2095 ;
+    rdfs:label "Q56231931"^^xsd:string .
+
+wd:Q56231932 a wd:Q2095 ;
+    rdfs:label "Q56231932"^^xsd:string .
+
+wd:Q56231933 a wd:Q2095 ;
+    rdfs:label "Q56231933"^^xsd:string .
+
+wd:Q56231937 a wd:Q2095 ;
+    rdfs:label "Q56231937"^^xsd:string .
+
+wd:Q56231938 a wd:Q2095 ;
+    rdfs:label "Q56231938"^^xsd:string .
+
+wd:Q56231939 a wd:Q2095 ;
+    rdfs:label "Q56231939"^^xsd:string .
+
+wd:Q56231940 a wd:Q2095 ;
+    rdfs:label "Q56231940"^^xsd:string .
+
+wd:Q56231941 a wd:Q2095 ;
+    rdfs:label "Q56231941"^^xsd:string .
+
+wd:Q56231942 a wd:Q2095 ;
+    rdfs:label "Q56231942"^^xsd:string .
+
+wd:Q56231943 a wd:Q2095 ;
+    rdfs:label "Q56231943"^^xsd:string .
+
+wd:Q56231944 a wd:Q2095 ;
+    rdfs:label "Q56231944"^^xsd:string .
+
+wd:Q56231945 a wd:Q2095 ;
+    rdfs:label "Q56231945"^^xsd:string .
+
+wd:Q56231946 a wd:Q2095 ;
+    rdfs:label "Q56231946"^^xsd:string .
+
+wd:Q56231947 a wd:Q2095 ;
+    rdfs:label "Q56231947"^^xsd:string .
+
+wd:Q56231948 a wd:Q2095 ;
+    rdfs:label "Q56231948"^^xsd:string .
+
+wd:Q56231949 a wd:Q2095 ;
+    rdfs:label "Q56231949"^^xsd:string .
+
+wd:Q56231950 a wd:Q2095 ;
+    rdfs:label "Q56231950"^^xsd:string .
+
+wd:Q56231951 a wd:Q2095 ;
+    rdfs:label "Q56231951"^^xsd:string .
+
+wd:Q56231952 a wd:Q2095 ;
+    rdfs:label "Q56231952"^^xsd:string .
+
+wd:Q56231953 a wd:Q2095 ;
+    rdfs:label "Q56231953"^^xsd:string .
+
+wd:Q56231954 a wd:Q2095 ;
+    rdfs:label "Q56231954"^^xsd:string .
+
+wd:Q56231955 a wd:Q2095 ;
+    rdfs:label "Q56231955"^^xsd:string .
+
+wd:Q56231956 a wd:Q2095 ;
+    rdfs:label "Q56231956"^^xsd:string .
+
+wd:Q56231957 a wd:Q2095 ;
+    rdfs:label "Q56231957"^^xsd:string .
+
+wd:Q56231958 a wd:Q2095 ;
+    rdfs:label "Q56231958"^^xsd:string .
+
+wd:Q56231960 a wd:Q2095 ;
+    rdfs:label "Q56231960"^^xsd:string .
+
+wd:Q56231961 a wd:Q2095 ;
+    rdfs:label "Q56231961"^^xsd:string .
+
+wd:Q56231962 a wd:Q2095 ;
+    rdfs:label "Q56231962"^^xsd:string .
+
+wd:Q56231963 a wd:Q2095 ;
+    rdfs:label "Q56231963"^^xsd:string .
+
+wd:Q56231964 a wd:Q2095 ;
+    rdfs:label "Q56231964"^^xsd:string .
+
+wd:Q56231965 a wd:Q2095 ;
+    rdfs:label "Q56231965"^^xsd:string .
+
+wd:Q56231966 a wd:Q2095 ;
+    rdfs:label "Q56231966"^^xsd:string .
+
+wd:Q56231968 a wd:Q2095 ;
+    rdfs:label "Q56231968"^^xsd:string .
+
+wd:Q56231969 a wd:Q2095 ;
+    rdfs:label "Q56231969"^^xsd:string .
+
+wd:Q56231970 a wd:Q2095 ;
+    rdfs:label "Q56231970"^^xsd:string .
+
+wd:Q56231971 a wd:Q2095 ;
+    rdfs:label "Q56231971"^^xsd:string .
+
+wd:Q56231972 a wd:Q2095 ;
+    rdfs:label "Q56231972"^^xsd:string .
+
+wd:Q56231973 a wd:Q2095 ;
+    rdfs:label "Q56231973"^^xsd:string .
+
+wd:Q56231979 a wd:Q2095 ;
+    rdfs:label "Q56231979"^^xsd:string .
+
+wd:Q56231980 a wd:Q2095 ;
+    rdfs:label "Q56231980"^^xsd:string .
+
+wd:Q56231982 a wd:Q2095 ;
+    rdfs:label "Q56231982"^^xsd:string .
+
+wd:Q56231983 a wd:Q2095 ;
+    rdfs:label "Q56231983"^^xsd:string .
+
+wd:Q56231984 a wd:Q2095 ;
+    rdfs:label "Q56231984"^^xsd:string .
+
+wd:Q56231985 a wd:Q2095 ;
+    rdfs:label "Q56231985"^^xsd:string .
+
+wd:Q56231986 a wd:Q2095 ;
+    rdfs:label "Q56231986"^^xsd:string .
+
+wd:Q56231987 a wd:Q2095 ;
+    rdfs:label "Q56231987"^^xsd:string .
+
+wd:Q56231988 a wd:Q2095 ;
+    rdfs:label "Q56231988"^^xsd:string .
+
+wd:Q56231989 a wd:Q2095 ;
+    rdfs:label "Q56231989"^^xsd:string .
+
+wd:Q56231990 a wd:Q2095 ;
+    rdfs:label "Q56231990"^^xsd:string .
+
+wd:Q56231991 a wd:Q2095 ;
+    rdfs:label "Q56231991"^^xsd:string .
+
+wd:Q56231992 a wd:Q2095 ;
+    rdfs:label "Q56231992"^^xsd:string .
+
+wd:Q56231993 a wd:Q2095 ;
+    rdfs:label "Q56231993"^^xsd:string .
+
+wd:Q56231994 a wd:Q2095 ;
+    rdfs:label "Q56231994"^^xsd:string .
+
+wd:Q56231995 a wd:Q2095 ;
+    rdfs:label "Q56231995"^^xsd:string .
+
+wd:Q56231996 a wd:Q2095 ;
+    rdfs:label "Q56231996"^^xsd:string .
+
+wd:Q56231997 a wd:Q2095 ;
+    rdfs:label "Q56231997"^^xsd:string .
+
+wd:Q56231998 a wd:Q2095 ;
+    rdfs:label "Q56231998"^^xsd:string .
+
+wd:Q56231999 a wd:Q2095 ;
+    rdfs:label "Q56231999"^^xsd:string .
+
+wd:Q56232000 a wd:Q2095 ;
+    rdfs:label "Q56232000"^^xsd:string .
+
+wd:Q56232022 a wd:Q2095 ;
+    rdfs:label "Q56232022"^^xsd:string .
+
+wd:Q56232023 a wd:Q2095 ;
+    rdfs:label "Q56232023"^^xsd:string .
+
+wd:Q56232024 a wd:Q2095 ;
+    rdfs:label "Q56232024"^^xsd:string .
+
+wd:Q56232025 a wd:Q2095 ;
+    rdfs:label "Q56232025"^^xsd:string .
+
+wd:Q56232026 a wd:Q2095 ;
+    rdfs:label "Q56232026"^^xsd:string .
+
+wd:Q56232027 a wd:Q2095 ;
+    rdfs:label "Q56232027"^^xsd:string .
+
+wd:Q56232028 a wd:Q2095 ;
+    rdfs:label "Red Rice"@en .
+
+wd:Q56232030 a wd:Q2095 ;
+    rdfs:label "Q56232030"^^xsd:string .
+
+wd:Q56232032 a wd:Q2095 ;
+    rdfs:label "Q56232032"^^xsd:string .
+
+wd:Q56232033 a wd:Q2095 ;
+    rdfs:label "Q56232033"^^xsd:string .
+
+wd:Q56232034 a wd:Q2095 ;
+    rdfs:label "Q56232034"^^xsd:string .
+
+wd:Q56232035 a wd:Q2095 ;
+    rdfs:label "Q56232035"^^xsd:string .
+
+wd:Q56232036 a wd:Q2095 ;
+    rdfs:label "Q56232036"^^xsd:string .
+
+wd:Q56232037 a wd:Q2095 ;
+    rdfs:label "Marrow and Rice"@en .
+
+wd:Q56232038 a wd:Q2095 ;
+    rdfs:label "Q56232038"^^xsd:string .
+
+wd:Q56232039 a wd:Q2095 ;
+    rdfs:label "Q56232039"^^xsd:string .
+
+wd:Q56232041 a wd:Q2095 ;
+    rdfs:label "Q56232041"^^xsd:string .
+
+wd:Q56232042 a wd:Q2095 ;
+    rdfs:label "Q56232042"^^xsd:string .
+
+wd:Q56232043 a wd:Q2095 ;
+    rdfs:label "Q56232043"^^xsd:string .
+
+wd:Q56232044 a wd:Q2095 ;
+    rdfs:label "Q56232044"^^xsd:string .
+
+wd:Q56232045 a wd:Q2095 ;
+    rdfs:label "Q56232045"^^xsd:string .
+
+wd:Q56232047 a wd:Q2095 ;
+    rdfs:label "Q56232047"^^xsd:string .
+
+wd:Q56232048 a wd:Q2095 ;
+    rdfs:label "Q56232048"^^xsd:string .
+
+wd:Q56232049 a wd:Q2095 ;
+    rdfs:label "Q56232049"^^xsd:string .
+
+wd:Q56232050 a wd:Q2095 ;
+    rdfs:label "Q56232050"^^xsd:string .
+
+wd:Q56232051 a wd:Q2095 ;
+    rdfs:label "Q56232051"^^xsd:string .
+
+wd:Q56232052 a wd:Q2095 ;
+    rdfs:label "Q56232052"^^xsd:string .
+
+wd:Q56232054 a wd:Q2095 ;
+    rdfs:label "Q56232054"^^xsd:string .
+
+wd:Q56232055 a wd:Q2095 ;
+    rdfs:label "Q56232055"^^xsd:string .
+
+wd:Q56232056 a wd:Q2095 ;
+    rdfs:label "Q56232056"^^xsd:string .
+
+wd:Q56232057 a wd:Q2095 ;
+    rdfs:label "Q56232057"^^xsd:string .
+
+wd:Q56232058 a wd:Q2095 ;
+    rdfs:label "Q56232058"^^xsd:string .
+
+wd:Q56232059 a wd:Q2095 ;
+    rdfs:label "Q56232059"^^xsd:string .
+
+wd:Q56232060 a wd:Q2095 ;
+    rdfs:label "Q56232060"^^xsd:string .
+
+wd:Q56232061 a wd:Q2095 ;
+    rdfs:label "Q56232061"^^xsd:string .
+
+wd:Q56232062 a wd:Q2095 ;
+    rdfs:label "Q56232062"^^xsd:string .
+
+wd:Q56232063 a wd:Q2095 ;
+    rdfs:label "Q56232063"^^xsd:string .
+
+wd:Q56232065 a wd:Q2095 ;
+    rdfs:label "Q56232065"^^xsd:string .
+
+wd:Q56232066 a wd:Q2095 ;
+    rdfs:label "Q56232066"^^xsd:string .
+
+wd:Q56232108 a wd:Q2095 ;
+    rdfs:label "Q56232108"^^xsd:string .
+
+wd:Q56232109 a wd:Q2095 ;
+    rdfs:label "Q56232109"^^xsd:string .
+
+wd:Q56232111 a wd:Q2095 ;
+    rdfs:label "Q56232111"^^xsd:string .
+
+wd:Q56232112 a wd:Q2095 ;
+    rdfs:label "Q56232112"^^xsd:string .
+
+wd:Q56232113 a wd:Q2095 ;
+    rdfs:label "Q56232113"^^xsd:string .
+
+wd:Q56232114 a wd:Q2095 ;
+    rdfs:label "Q56232114"^^xsd:string .
+
+wd:Q56232115 a wd:Q2095 ;
+    rdfs:label "Q56232115"^^xsd:string .
+
+wd:Q56232116 a wd:Q2095 ;
+    rdfs:label "Q56232116"^^xsd:string .
+
+wd:Q56232117 a wd:Q2095 ;
+    rdfs:label "Q56232117"^^xsd:string .
+
+wd:Q56232118 a wd:Q2095 ;
+    rdfs:label "Q56232118"^^xsd:string .
+
+wd:Q56232119 a wd:Q2095 ;
+    rdfs:label "Q56232119"^^xsd:string .
+
+wd:Q56232120 a wd:Q2095 ;
+    rdfs:label "Q56232120"^^xsd:string .
+
+wd:Q56232123 a wd:Q2095 ;
+    rdfs:label "Q56232123"^^xsd:string .
+
+wd:Q56232124 a wd:Q2095 ;
+    rdfs:label "Q56232124"^^xsd:string .
+
+wd:Q56232125 a wd:Q2095 ;
+    rdfs:label "Q56232125"^^xsd:string .
+
+wd:Q56232126 a wd:Q2095 ;
+    rdfs:label "Q56232126"^^xsd:string .
+
+wd:Q56232127 a wd:Q2095 ;
+    rdfs:label "Q56232127"^^xsd:string .
+
+wd:Q56232128 a wd:Q2095 ;
+    rdfs:label "Q56232128"^^xsd:string .
+
+wd:Q56232130 a wd:Q2095 ;
+    rdfs:label "Q56232130"^^xsd:string .
+
+wd:Q56232131 a wd:Q2095 ;
+    rdfs:label "Q56232131"^^xsd:string .
+
+wd:Q56232132 a wd:Q2095 ;
+    rdfs:label "Q56232132"^^xsd:string .
+
+wd:Q56232134 a wd:Q2095 ;
+    rdfs:label "Q56232134"^^xsd:string .
+
+wd:Q56232135 a wd:Q2095 ;
+    rdfs:label "Q56232135"^^xsd:string .
+
+wd:Q56232136 a wd:Q2095 ;
+    rdfs:label "Q56232136"^^xsd:string .
+
+wd:Q56232137 a wd:Q2095 ;
+    rdfs:label "Q56232137"^^xsd:string .
+
+wd:Q56232138 a wd:Q2095 ;
+    rdfs:label "Q56232138"^^xsd:string .
+
+wd:Q56232139 a wd:Q2095 ;
+    rdfs:label "Q56232139"^^xsd:string .
+
+wd:Q56232140 a wd:Q2095 ;
+    rdfs:label "Q56232140"^^xsd:string .
+
+wd:Q56232141 a wd:Q2095 ;
+    rdfs:label "Q56232141"^^xsd:string .
+
+wd:Q56232142 a wd:Q2095 ;
+    rdfs:label "Q56232142"^^xsd:string .
+
+wd:Q56232143 a wd:Q2095 ;
+    rdfs:label "Q56232143"^^xsd:string .
+
+wd:Q56232145 a wd:Q2095 ;
+    rdfs:label "Q56232145"^^xsd:string .
+
+wd:Q56232146 a wd:Q2095 ;
+    rdfs:label "Q56232146"^^xsd:string .
+
+wd:Q56232147 a wd:Q2095 ;
+    rdfs:label "Q56232147"^^xsd:string .
+
+wd:Q56232148 a wd:Q2095 ;
+    rdfs:label "Q56232148"^^xsd:string .
+
+wd:Q56232149 a wd:Q2095 ;
+    rdfs:label "Q56232149"^^xsd:string .
+
+wd:Q56232150 a wd:Q2095 ;
+    rdfs:label "Q56232150"^^xsd:string .
+
+wd:Q56232151 a wd:Q2095 ;
+    rdfs:label "Q56232151"^^xsd:string .
+
+wd:Q56232152 a wd:Q2095 ;
+    rdfs:label "Q56232152"^^xsd:string .
+
+wd:Q56232188 a wd:Q2095 ;
+    rdfs:label "Q56232188"^^xsd:string .
+
+wd:Q56232189 a wd:Q2095 ;
+    rdfs:label "Q56232189"^^xsd:string .
+
+wd:Q56232190 a wd:Q2095 ;
+    rdfs:label "Q56232190"^^xsd:string .
+
+wd:Q56232191 a wd:Q2095 ;
+    rdfs:label "Q56232191"^^xsd:string .
+
+wd:Q56232192 a wd:Q2095 ;
+    rdfs:label "Q56232192"^^xsd:string .
+
+wd:Q56232193 a wd:Q2095 ;
+    rdfs:label "Q56232193"^^xsd:string .
+
+wd:Q56232194 a wd:Q2095 ;
+    rdfs:label "Q56232194"^^xsd:string .
+
+wd:Q56232195 a wd:Q2095 ;
+    rdfs:label "Q56232195"^^xsd:string .
+
+wd:Q56232196 a wd:Q2095 ;
+    rdfs:label "Q56232196"^^xsd:string .
+
+wd:Q56232197 a wd:Q2095 ;
+    rdfs:label "Q56232197"^^xsd:string .
+
+wd:Q56232198 a wd:Q2095 ;
+    rdfs:label "Q56232198"^^xsd:string .
+
+wd:Q56232199 a wd:Q2095 ;
+    rdfs:label "Q56232199"^^xsd:string .
+
+wd:Q56232200 a wd:Q2095 ;
+    rdfs:label "Q56232200"^^xsd:string .
+
+wd:Q56232201 a wd:Q2095 ;
+    rdfs:label "Q56232201"^^xsd:string .
+
+wd:Q56232202 a wd:Q2095 ;
+    rdfs:label "Q56232202"^^xsd:string .
+
+wd:Q56232203 a wd:Q2095 ;
+    rdfs:label "Q56232203"^^xsd:string .
+
+wd:Q56232204 a wd:Q2095 ;
+    rdfs:label "Petis Bumbon"@en .
+
+wd:Q56232205 a wd:Q2095 ;
+    rdfs:label "Q56232205"^^xsd:string .
+
+wd:Q56232206 a wd:Q2095 ;
+    rdfs:label "Q56232206"^^xsd:string .
+
+wd:Q56232207 a wd:Q2095 ;
+    rdfs:label "Q56232207"^^xsd:string .
+
+wd:Q56232208 a wd:Q2095 ;
+    rdfs:label "Q56232208"^^xsd:string .
+
+wd:Q56232209 a wd:Q2095 ;
+    rdfs:label "Q56232209"^^xsd:string .
+
+wd:Q56232210 a wd:Q2095 ;
+    rdfs:label "Q56232210"^^xsd:string .
+
+wd:Q56232211 a wd:Q2095 ;
+    rdfs:label "Q56232211"^^xsd:string .
+
+wd:Q56232212 a wd:Q2095 ;
+    rdfs:label "Q56232212"^^xsd:string .
+
+wd:Q56232213 a wd:Q2095 ;
+    rdfs:label "Q56232213"^^xsd:string .
+
+wd:Q56232214 a wd:Q2095 ;
+    rdfs:label "Q56232214"^^xsd:string .
+
+wd:Q56232215 a wd:Q2095 ;
+    rdfs:label "Q56232215"^^xsd:string .
+
+wd:Q56232216 a wd:Q2095 ;
+    rdfs:label "Q56232216"^^xsd:string .
+
+wd:Q56232217 a wd:Q2095 ;
+    rdfs:label "Q56232217"^^xsd:string .
+
+wd:Q56232218 a wd:Q2095 ;
+    rdfs:label "Q56232218"^^xsd:string .
+
+wd:Q56232219 a wd:Q2095 ;
+    rdfs:label "Q56232219"^^xsd:string .
+
+wd:Q56232220 a wd:Q2095 ;
+    rdfs:label "Q56232220"^^xsd:string .
+
+wd:Q56232221 a wd:Q2095 ;
+    rdfs:label "Q56232221"^^xsd:string .
+
+wd:Q56232222 a wd:Q2095 ;
+    rdfs:label "Q56232222"^^xsd:string .
+
+wd:Q56232223 a wd:Q2095 ;
+    rdfs:label "Q56232223"^^xsd:string .
+
+wd:Q56232224 a wd:Q2095 ;
+    rdfs:label "Q56232224"^^xsd:string .
+
+wd:Q56232225 a wd:Q2095 ;
+    rdfs:label "Q56232225"^^xsd:string .
+
+wd:Q56232226 a wd:Q2095 ;
+    rdfs:label "Q56232226"^^xsd:string .
+
+wd:Q56232227 a wd:Q2095 ;
+    rdfs:label "Q56232227"^^xsd:string .
+
+wd:Q56232254 a wd:Q2095 ;
+    rdfs:label "Q56232254"^^xsd:string .
+
+wd:Q56232255 a wd:Q2095 ;
+    rdfs:label "Q56232255"^^xsd:string .
+
+wd:Q56232256 a wd:Q2095 ;
+    rdfs:label "Q56232256"^^xsd:string .
+
+wd:Q56232257 a wd:Q2095 ;
+    rdfs:label "Q56232257"^^xsd:string .
+
+wd:Q56232258 a wd:Q2095 ;
+    rdfs:label "Q56232258"^^xsd:string .
+
+wd:Q56232259 a wd:Q2095 ;
+    rdfs:label "Q56232259"^^xsd:string .
+
+wd:Q56232260 a wd:Q2095 ;
+    rdfs:label "Q56232260"^^xsd:string .
+
+wd:Q56232261 a wd:Q2095 ;
+    rdfs:label "Q56232261"^^xsd:string .
+
+wd:Q56232262 a wd:Q2095 ;
+    rdfs:label "Q56232262"^^xsd:string .
+
+wd:Q56232263 a wd:Q2095 ;
+    rdfs:label "Q56232263"^^xsd:string .
+
+wd:Q56232264 a wd:Q2095 ;
+    rdfs:label "Q56232264"^^xsd:string .
+
+wd:Q56232265 a wd:Q2095 ;
+    rdfs:label "Q56232265"^^xsd:string .
+
+wd:Q56232266 a wd:Q2095 ;
+    rdfs:label "Pork Satay"@en .
+
+wd:Q56232267 a wd:Q2095 ;
+    rdfs:label "Duck Satay"@en .
+
+wd:Q56232268 a wd:Q2095 ;
+    rdfs:label "Q56232268"^^xsd:string .
+
+wd:Q56232269 a wd:Q2095 ;
+    rdfs:label "Q56232269"^^xsd:string .
+
+wd:Q56232270 a wd:Q2095 ;
+    rdfs:label "Q56232270"^^xsd:string .
+
+wd:Q56232271 a wd:Q2095 ;
+    rdfs:label "Q56232271"^^xsd:string .
+
+wd:Q56232273 a wd:Q2095 ;
+    rdfs:label "Q56232273"^^xsd:string .
+
+wd:Q56232274 a wd:Q2095 ;
+    rdfs:label "Q56232274"^^xsd:string .
+
+wd:Q56232275 a wd:Q2095 ;
+    rdfs:label "Q56232275"^^xsd:string .
+
+wd:Q56232276 a wd:Q2095 ;
+    rdfs:label "Q56232276"^^xsd:string .
+
+wd:Q56232277 a wd:Q2095 ;
+    rdfs:label "Q56232277"^^xsd:string .
+
+wd:Q56232289 a wd:Q2095 ;
+    rdfs:label "Q56232289"^^xsd:string .
+
+wd:Q56232290 a wd:Q2095 ;
+    rdfs:label "Q56232290"^^xsd:string .
+
+wd:Q56232291 a wd:Q2095 ;
+    rdfs:label "Q56232291"^^xsd:string .
+
+wd:Q56232292 a wd:Q2095 ;
+    rdfs:label "Q56232292"^^xsd:string .
+
+wd:Q56232293 a wd:Q2095 ;
+    rdfs:label "Q56232293"^^xsd:string .
+
+wd:Q56232294 a wd:Q2095 ;
+    rdfs:label "Q56232294"^^xsd:string .
+
+wd:Q56232295 a wd:Q2095 ;
+    rdfs:label "Q56232295"^^xsd:string .
+
+wd:Q56232296 a wd:Q2095 ;
+    rdfs:label "Q56232296"^^xsd:string .
+
+wd:Q56232297 a wd:Q2095 ;
+    rdfs:label "Q56232297"^^xsd:string .
+
+wd:Q56232298 a wd:Q2095 ;
+    rdfs:label "Sate Sapi Suruh"@en .
+
+wd:Q56232299 a wd:Q2095 ;
+    rdfs:label "Q56232299"^^xsd:string .
+
+wd:Q56232300 a wd:Q2095 ;
+    rdfs:label "Q56232300"^^xsd:string .
+
+wd:Q56232301 a wd:Q2095 ;
+    rdfs:label "Q56232301"^^xsd:string .
+
+wd:Q56232302 a wd:Q2095 ;
+    rdfs:label "Q56232302"^^xsd:string .
+
+wd:Q56232303 a wd:Q2095 ;
+    rdfs:label "Q56232303"^^xsd:string .
+
+wd:Q56232304 a wd:Q2095 ;
+    rdfs:label "Q56232304"^^xsd:string .
+
+wd:Q56232305 a wd:Q2095 ;
+    rdfs:label "Q56232305"^^xsd:string .
+
+wd:Q56232306 a wd:Q2095 ;
+    rdfs:label "Q56232306"^^xsd:string .
+
+wd:Q56232307 a wd:Q2095 ;
+    rdfs:label "Q56232307"^^xsd:string .
+
+wd:Q56232308 a wd:Q2095 ;
+    rdfs:label "Q56232308"^^xsd:string .
+
+wd:Q56232309 a wd:Q2095 ;
+    rdfs:label "Q56232309"^^xsd:string .
+
+wd:Q56232310 a wd:Q2095 ;
+    rdfs:label "Q56232310"^^xsd:string .
+
+wd:Q56232311 a wd:Q2095 ;
+    rdfs:label "Q56232311"^^xsd:string .
+
+wd:Q56232312 a wd:Q2095 ;
+    rdfs:label "Q56232312"^^xsd:string .
+
+wd:Q56232313 a wd:Q2095 ;
+    rdfs:label "Q56232313"^^xsd:string .
+
+wd:Q56232314 a wd:Q2095 ;
+    rdfs:label "Q56232314"^^xsd:string .
+
+wd:Q56232315 a wd:Q2095 ;
+    rdfs:label "Q56232315"^^xsd:string .
+
+wd:Q56232316 a wd:Q2095 ;
+    rdfs:label "Q56232316"^^xsd:string .
+
+wd:Q56232317 a wd:Q2095 ;
+    rdfs:label "Q56232317"^^xsd:string .
+
+wd:Q56232318 a wd:Q2095 ;
+    rdfs:label "Q56232318"^^xsd:string .
+
+wd:Q56232320 a wd:Q2095 ;
+    rdfs:label "Q56232320"^^xsd:string .
+
+wd:Q56232321 a wd:Q2095 ;
+    rdfs:label "Q56232321"^^xsd:string .
+
+wd:Q56232322 a wd:Q2095 ;
+    rdfs:label "Q56232322"^^xsd:string .
+
+wd:Q56232323 a wd:Q2095 ;
+    rdfs:label "Q56232323"^^xsd:string .
+
+wd:Q56232324 a wd:Q2095 ;
+    rdfs:label "Q56232324"^^xsd:string .
+
+wd:Q56232325 a wd:Q2095 ;
+    rdfs:label "Q56232325"^^xsd:string .
+
+wd:Q56232326 a wd:Q2095 ;
+    rdfs:label "Q56232326"^^xsd:string .
+
+wd:Q56232327 a wd:Q2095 ;
+    rdfs:label "Q56232327"^^xsd:string .
+
+wd:Q56232328 a wd:Q2095 ;
+    rdfs:label "Q56232328"^^xsd:string .
+
+wd:Q56232329 a wd:Q2095 ;
+    rdfs:label "Q56232329"^^xsd:string .
+
+wd:Q56232342 a wd:Q2095 ;
+    rdfs:label "Q56232342"^^xsd:string .
+
+wd:Q56232343 a wd:Q2095 ;
+    rdfs:label "Soto Bogor"@en .
+
+wd:Q56232344 a wd:Q2095 ;
+    rdfs:label "Q56232344"^^xsd:string .
+
+wd:Q56232345 a wd:Q2095 ;
+    rdfs:label "Q56232345"^^xsd:string .
+
+wd:Q56232346 a wd:Q2095 ;
+    rdfs:label "Q56232346"^^xsd:string .
+
+wd:Q56232348 a wd:Q2095 ;
+    rdfs:label "Q56232348"^^xsd:string .
+
+wd:Q56232349 a wd:Q2095 ;
+    rdfs:label "Q56232349"^^xsd:string .
+
+wd:Q56232350 a wd:Q2095 ;
+    rdfs:label "Q56232350"^^xsd:string .
+
+wd:Q56232351 a wd:Q2095 ;
+    rdfs:label "Q56232351"^^xsd:string .
+
+wd:Q56232352 a wd:Q2095 ;
+    rdfs:label "Q56232352"^^xsd:string .
+
+wd:Q56232353 a wd:Q2095 ;
+    rdfs:label "Q56232353"^^xsd:string .
+
+wd:Q56232354 a wd:Q2095 ;
+    rdfs:label "Q56232354"^^xsd:string .
+
+wd:Q56232355 a wd:Q2095 ;
+    rdfs:label "Q56232355"^^xsd:string .
+
+wd:Q56232356 a wd:Q2095 ;
+    rdfs:label "Q56232356"^^xsd:string .
+
+wd:Q56232358 a wd:Q2095 ;
+    rdfs:label "Q56232358"^^xsd:string .
+
+wd:Q56232359 a wd:Q2095 ;
+    rdfs:label "Q56232359"^^xsd:string .
+
+wd:Q56232360 a wd:Q2095 ;
+    rdfs:label "Q56232360"^^xsd:string .
+
+wd:Q56232361 a wd:Q2095 ;
+    rdfs:label "Q56232361"^^xsd:string .
+
+wd:Q56232362 a wd:Q2095 ;
+    rdfs:label "Q56232362"^^xsd:string .
+
+wd:Q56232363 a wd:Q2095 ;
+    rdfs:label "Q56232363"^^xsd:string .
+
+wd:Q56232367 a wd:Q2095 ;
+    rdfs:label "Q56232367"^^xsd:string .
+
+wd:Q56232368 a wd:Q2095 ;
+    rdfs:label "Q56232368"^^xsd:string .
+
+wd:Q56232370 a wd:Q2095 ;
+    rdfs:label "Q56232370"^^xsd:string .
+
+wd:Q56232371 a wd:Q2095 ;
+    rdfs:label "Q56232371"^^xsd:string .
+
+wd:Q56232372 a wd:Q2095 ;
+    rdfs:label "Q56232372"^^xsd:string .
+
+wd:Q56232373 a wd:Q2095 ;
+    rdfs:label "Q56232373"^^xsd:string .
+
+wd:Q56232374 a wd:Q2095 ;
+    rdfs:label "Q56232374"^^xsd:string .
+
+wd:Q56232375 a wd:Q2095 ;
+    rdfs:label "Q56232375"^^xsd:string .
+
+wd:Q56232376 a wd:Q2095 ;
+    rdfs:label "Q56232376"^^xsd:string .
+
+wd:Q56232377 a wd:Q2095 ;
+    rdfs:label "Q56232377"^^xsd:string .
+
+wd:Q56232378 a wd:Q2095 ;
+    rdfs:label "Q56232378"^^xsd:string .
+
+wd:Q56232379 a wd:Q2095 ;
+    rdfs:label "Q56232379"^^xsd:string .
+
+wd:Q56232402 a wd:Q2095 ;
+    rdfs:label "Q56232402"^^xsd:string .
+
+wd:Q56232403 a wd:Q2095 ;
+    rdfs:label "Q56232403"^^xsd:string .
+
+wd:Q56232404 a wd:Q2095 ;
+    rdfs:label "Q56232404"^^xsd:string .
+
+wd:Q56232405 a wd:Q2095 ;
+    rdfs:label "Q56232405"^^xsd:string .
+
+wd:Q56232406 a wd:Q2095 ;
+    rdfs:label "Q56232406"^^xsd:string .
+
+wd:Q56232407 a wd:Q2095 ;
+    rdfs:label "Q56232407"^^xsd:string .
+
+wd:Q56232408 a wd:Q2095 ;
+    rdfs:label "Q56232408"^^xsd:string .
+
+wd:Q56232409 a wd:Q2095 ;
+    rdfs:label "Q56232409"^^xsd:string .
+
+wd:Q56232410 a wd:Q2095 ;
+    rdfs:label "Q56232410"^^xsd:string .
+
+wd:Q56232411 a wd:Q2095 ;
+    rdfs:label "Q56232411"^^xsd:string .
+
+wd:Q56232413 a wd:Q2095 ;
+    rdfs:label "Q56232413"^^xsd:string .
+
+wd:Q56232415 a wd:Q2095 ;
+    rdfs:label "Q56232415"^^xsd:string .
+
+wd:Q56232416 a wd:Q2095 ;
+    rdfs:label "Q56232416"^^xsd:string .
+
+wd:Q56232417 a wd:Q2095 ;
+    rdfs:label "Q56232417"^^xsd:string .
+
+wd:Q56232418 a wd:Q2095 ;
+    rdfs:label "Q56232418"^^xsd:string .
+
+wd:Q56232419 a wd:Q2095 ;
+    rdfs:label "Q56232419"^^xsd:string .
+
+wd:Q56232420 a wd:Q2095 ;
+    rdfs:label "Q56232420"^^xsd:string .
+
+wd:Q56232421 a wd:Q2095 ;
+    rdfs:label "Q56232421"^^xsd:string .
+
+wd:Q56232423 a wd:Q2095 ;
+    rdfs:label "Q56232423"^^xsd:string .
+
+wd:Q56232426 a wd:Q2095 ;
+    rdfs:label "Q56232426"^^xsd:string .
+
+wd:Q56232427 a wd:Q2095 ;
+    rdfs:label "Q56232427"^^xsd:string .
+
+wd:Q56232428 a wd:Q2095 ;
+    rdfs:label "Q56232428"^^xsd:string .
+
+wd:Q56232430 a wd:Q2095 ;
+    rdfs:label "Q56232430"^^xsd:string .
+
+wd:Q56232431 a wd:Q2095 ;
+    rdfs:label "Q56232431"^^xsd:string .
+
+wd:Q56232432 a wd:Q2095 ;
+    rdfs:label "Q56232432"^^xsd:string .
+
+wd:Q56232433 a wd:Q2095 ;
+    rdfs:label "Q56232433"^^xsd:string .
+
+wd:Q56232434 a wd:Q2095 ;
+    rdfs:label "Q56232434"^^xsd:string .
+
+wd:Q56232435 a wd:Q2095 ;
+    rdfs:label "Q56232435"^^xsd:string .
+
+wd:Q56232436 a wd:Q2095 ;
+    rdfs:label "Q56232436"^^xsd:string .
+
+wd:Q56232438 a wd:Q2095 ;
+    rdfs:label "Q56232438"^^xsd:string .
+
+wd:Q56232439 a wd:Q2095 ;
+    rdfs:label "Q56232439"^^xsd:string .
+
+wd:Q56232440 a wd:Q2095 ;
+    rdfs:label "Q56232440"^^xsd:string .
+
+wd:Q56232441 a wd:Q2095 ;
+    rdfs:label "Q56232441"^^xsd:string .
+
+wd:Q56232442 a wd:Q2095 ;
+    rdfs:label "Q56232442"^^xsd:string .
+
+wd:Q56232443 a wd:Q2095 ;
+    rdfs:label "Q56232443"^^xsd:string .
+
+wd:Q56232444 a wd:Q2095 ;
+    rdfs:label "Q56232444"^^xsd:string .
+
+wd:Q56232445 a wd:Q2095 ;
+    rdfs:label "Q56232445"^^xsd:string .
+
+wd:Q56232446 a wd:Q2095 ;
+    rdfs:label "Q56232446"^^xsd:string .
+
+wd:Q56232447 a wd:Q2095 ;
+    rdfs:label "Q56232447"^^xsd:string .
+
+wd:Q56232448 a wd:Q2095 ;
+    rdfs:label "Q56232448"^^xsd:string .
+
+wd:Q56232479 a wd:Q2095 ;
+    rdfs:label "Q56232479"^^xsd:string .
+
+wd:Q56232480 a wd:Q2095 ;
+    rdfs:label "Q56232480"^^xsd:string .
+
+wd:Q56232481 a wd:Q2095 ;
+    rdfs:label "Q56232481"^^xsd:string .
+
+wd:Q56232482 a wd:Q2095 ;
+    rdfs:label "Q56232482"^^xsd:string .
+
+wd:Q56232483 a wd:Q2095 ;
+    rdfs:label "Q56232483"^^xsd:string .
+
+wd:Q56232484 a wd:Q2095 ;
+    rdfs:label "Q56232484"^^xsd:string .
+
+wd:Q56232485 a wd:Q2095 ;
+    rdfs:label "Q56232485"^^xsd:string .
+
+wd:Q56232486 a wd:Q2095 ;
+    rdfs:label "Q56232486"^^xsd:string .
+
+wd:Q56232488 a wd:Q2095 ;
+    rdfs:label "Q56232488"^^xsd:string .
+
+wd:Q56232489 a wd:Q2095 ;
+    rdfs:label "Q56232489"^^xsd:string .
+
+wd:Q56232490 a wd:Q2095 ;
+    rdfs:label "Q56232490"^^xsd:string .
+
+wd:Q56232491 a wd:Q2095 ;
+    rdfs:label "Q56232491"^^xsd:string .
+
+wd:Q56232492 a wd:Q2095 ;
+    rdfs:label "Q56232492"^^xsd:string .
+
+wd:Q56232493 a wd:Q2095 ;
+    rdfs:label "Q56232493"^^xsd:string .
+
+wd:Q56232494 a wd:Q2095 ;
+    rdfs:label "Q56232494"^^xsd:string .
+
+wd:Q56232495 a wd:Q2095 ;
+    rdfs:label "Q56232495"^^xsd:string .
+
+wd:Q56232496 a wd:Q2095 ;
+    rdfs:label "Q56232496"^^xsd:string .
+
+wd:Q56232497 a wd:Q2095 ;
+    rdfs:label "Q56232497"^^xsd:string .
+
+wd:Q56232498 a wd:Q2095 ;
+    rdfs:label "Q56232498"^^xsd:string .
+
+wd:Q56232499 a wd:Q2095 ;
+    rdfs:label "Q56232499"^^xsd:string .
+
+wd:Q56232500 a wd:Q2095 ;
+    rdfs:label "Q56232500"^^xsd:string .
+
+wd:Q56232501 a wd:Q2095 ;
+    rdfs:label "Q56232501"^^xsd:string .
+
+wd:Q56232502 a wd:Q2095 ;
+    rdfs:label "Q56232502"^^xsd:string .
+
+wd:Q56232503 a wd:Q2095 ;
+    rdfs:label "Q56232503"^^xsd:string .
+
+wd:Q56232504 a wd:Q2095 ;
+    rdfs:label "Q56232504"^^xsd:string .
+
+wd:Q56232505 a wd:Q2095 ;
+    rdfs:label "Q56232505"^^xsd:string .
+
+wd:Q56232506 a wd:Q2095 ;
+    rdfs:label "Q56232506"^^xsd:string .
+
+wd:Q56366452 a wd:Q2095 ;
+    rdfs:label "Kame Jush"@en .
+
+wd:Q56388335 a wd:Q2095 ;
+    rdfs:label "Q56388335"^^xsd:string .
+
+wd:Q56388618 a wd:Q2095 ;
+    rdfs:label "Q56388618"^^xsd:string .
+
+wd:Q56392443 a wd:Q2095 ;
+    rdfs:label "Q56392443"^^xsd:string .
+
+wd:Q56392589 a wd:Q2095 ;
+    rdfs:label "Q56392589"^^xsd:string .
+
+wd:Q56393029 a wd:Q2095 ;
+    rdfs:label "Q56393029"^^xsd:string .
+
+wd:Q56393200 a wd:Q2095 ;
+    rdfs:label "Q56393200"^^xsd:string .
+
+wd:Q56398981 a wd:Q2095 ;
+    rdfs:label "Q56398981"^^xsd:string .
+
+wd:Q56411494 a wd:Q2095 ;
+    rdfs:label "Q56411494"^^xsd:string .
+
+wd:Q56413465 a wd:Q2095 ;
+    rdfs:label "Q56413465"^^xsd:string .
+
+wd:Q56423947 a wd:Q2424752 ;
+    rdfs:label "cargo bike honey"@en .
+
+wd:Q56512885 a wd:Q2095 ;
+    rdfs:label "Fugazzetta"@en .
+
+wd:Q56598372 a wd:Q2424752 ;
+    rdfs:label "Ericsson Dialog 4223"@en .
+
+wd:Q56599132 a wd:Q2095 ;
+    rdfs:label "Fugazza with cheesse"@en .
+
+wd:Q56721770 a wd:Q2095 ;
+    rdfs:label "piccantino"@en .
+
+wd:Q5707718 a wd:Q2095 ;
+    rdfs:label "Q5707718"^^xsd:string .
+
+wd:Q57874337 a wd:Q2095 ;
+    rdfs:label "Pizza al tegamino"@en .
+
+wd:Q57981529 a wd:Q2095 ;
+    rdfs:label "Q57981529"^^xsd:string .
+
+wd:Q57981531 a wd:Q2095 ;
+    rdfs:label "Q57981531"^^xsd:string .
+
+wd:Q57981532 a wd:Q2095 ;
+    rdfs:label "Q57981532"^^xsd:string .
+
+wd:Q57981533 a wd:Q2095 ;
+    rdfs:label "Q57981533"^^xsd:string .
+
+wd:Q57981534 a wd:Q2095 ;
+    rdfs:label "Q57981534"^^xsd:string .
+
+wd:Q57981536 a wd:Q2095 ;
+    rdfs:label "Q57981536"^^xsd:string .
+
+wd:Q57981537 a wd:Q2095 ;
+    rdfs:label "Q57981537"^^xsd:string .
+
+wd:Q57981538 a wd:Q2095 ;
+    rdfs:label "Q57981538"^^xsd:string .
+
+wd:Q57981541 a wd:Q2095 ;
+    rdfs:label "Q57981541"^^xsd:string .
+
+wd:Q57981542 a wd:Q2095 ;
+    rdfs:label "Q57981542"^^xsd:string .
+
+wd:Q57981544 a wd:Q2095 ;
+    rdfs:label "Q57981544"^^xsd:string .
+
+wd:Q57981545 a wd:Q2095 ;
+    rdfs:label "Q57981545"^^xsd:string .
+
+wd:Q58090263 a wd:Q2095 ;
+    rdfs:label "Q58090263"^^xsd:string .
+
+wd:Q58090265 a wd:Q2095 ;
+    rdfs:label "Q58090265"^^xsd:string .
+
+wd:Q58090266 a wd:Q2095 ;
+    rdfs:label "Q58090266"^^xsd:string .
+
+wd:Q58090269 a wd:Q2095 ;
+    rdfs:label "Q58090269"^^xsd:string .
+
+wd:Q58090271 a wd:Q2095 ;
+    rdfs:label "Q58090271"^^xsd:string .
+
+wd:Q58090275 a wd:Q2095 ;
+    rdfs:label "Q58090275"^^xsd:string .
+
+wd:Q58090277 a wd:Q2095 ;
+    rdfs:label "Q58090277"^^xsd:string .
+
+wd:Q58090278 a wd:Q2095 ;
+    rdfs:label "Q58090278"^^xsd:string .
+
+wd:Q58090281 a wd:Q2095 ;
+    rdfs:label "Q58090281"^^xsd:string .
+
+wd:Q58090283 a wd:Q2095 ;
+    rdfs:label "Q58090283"^^xsd:string .
+
+wd:Q58090285 a wd:Q2095 ;
+    rdfs:label "Q58090285"^^xsd:string .
+
+wd:Q58090287 a wd:Q2095 ;
+    rdfs:label "Q58090287"^^xsd:string .
+
+wd:Q58090290 a wd:Q2095 ;
+    rdfs:label "Q58090290"^^xsd:string .
+
+wd:Q58090291 a wd:Q2095 ;
+    rdfs:label "Q58090291"^^xsd:string .
+
+wd:Q58090293 a wd:Q2095 ;
+    rdfs:label "Q58090293"^^xsd:string .
+
+wd:Q58090295 a wd:Q2095 ;
+    rdfs:label "Q58090295"^^xsd:string .
+
+wd:Q58090296 a wd:Q2095 ;
+    rdfs:label "Q58090296"^^xsd:string .
+
+wd:Q58090299 a wd:Q2095 ;
+    rdfs:label "Q58090299"^^xsd:string .
+
+wd:Q58090301 a wd:Q2095 ;
+    rdfs:label "Q58090301"^^xsd:string .
+
+wd:Q58090302 a wd:Q2095 ;
+    rdfs:label "Q58090302"^^xsd:string .
+
+wd:Q58090304 a wd:Q2095 ;
+    rdfs:label "Q58090304"^^xsd:string .
+
+wd:Q58090308 a wd:Q2095 ;
+    rdfs:label "Q58090308"^^xsd:string .
+
+wd:Q58090309 a wd:Q2095 ;
+    rdfs:label "Q58090309"^^xsd:string .
+
+wd:Q58090313 a wd:Q2095 ;
+    rdfs:label "Q58090313"^^xsd:string .
+
+wd:Q58090314 a wd:Q2095 ;
+    rdfs:label "Q58090314"^^xsd:string .
+
+wd:Q58090315 a wd:Q2095 ;
+    rdfs:label "Q58090315"^^xsd:string .
+
+wd:Q58090318 a wd:Q2095 ;
+    rdfs:label "Q58090318"^^xsd:string .
+
+wd:Q58090319 a wd:Q2095 ;
+    rdfs:label "Q58090319"^^xsd:string .
+
+wd:Q58090321 a wd:Q2095 ;
+    rdfs:label "Q58090321"^^xsd:string .
+
+wd:Q58090324 a wd:Q2095 ;
+    rdfs:label "Q58090324"^^xsd:string .
+
+wd:Q58090325 a wd:Q2095 ;
+    rdfs:label "Q58090325"^^xsd:string .
+
+wd:Q58090327 a wd:Q2095 ;
+    rdfs:label "Q58090327"^^xsd:string .
+
+wd:Q58090330 a wd:Q2095 ;
+    rdfs:label "Q58090330"^^xsd:string .
+
+wd:Q58090331 a wd:Q2095 ;
+    rdfs:label "Q58090331"^^xsd:string .
+
+wd:Q58090333 a wd:Q2095 ;
+    rdfs:label "Q58090333"^^xsd:string .
+
+wd:Q58090336 a wd:Q2095 ;
+    rdfs:label "Q58090336"^^xsd:string .
+
+wd:Q58090337 a wd:Q2095 ;
+    rdfs:label "Q58090337"^^xsd:string .
+
+wd:Q58090339 a wd:Q2095 ;
+    rdfs:label "Q58090339"^^xsd:string .
+
+wd:Q58090341 a wd:Q2095 ;
+    rdfs:label "Q58090341"^^xsd:string .
+
+wd:Q58090343 a wd:Q2095 ;
+    rdfs:label "Q58090343"^^xsd:string .
+
+wd:Q58090345 a wd:Q2095 ;
+    rdfs:label "Q58090345"^^xsd:string .
+
+wd:Q58090348 a wd:Q2095 ;
+    rdfs:label "Q58090348"^^xsd:string .
+
+wd:Q58090354 a wd:Q2095 ;
+    rdfs:label "Q58090354"^^xsd:string .
+
+wd:Q58090355 a wd:Q2095 ;
+    rdfs:label "Q58090355"^^xsd:string .
+
+wd:Q58090357 a wd:Q2095 ;
+    rdfs:label "Q58090357"^^xsd:string .
+
+wd:Q58090360 a wd:Q2095 ;
+    rdfs:label "Q58090360"^^xsd:string .
+
+wd:Q58090363 a wd:Q2095 ;
+    rdfs:label "Q58090363"^^xsd:string .
+
+wd:Q58090365 a wd:Q2095 ;
+    rdfs:label "Q58090365"^^xsd:string .
+
+wd:Q58090366 a wd:Q2095 ;
+    rdfs:label "Q58090366"^^xsd:string .
+
+wd:Q58090369 a wd:Q2095 ;
+    rdfs:label "Q58090369"^^xsd:string .
+
+wd:Q58090371 a wd:Q2095 ;
+    rdfs:label "Q58090371"^^xsd:string .
+
+wd:Q58090373 a wd:Q2095 ;
+    rdfs:label "Q58090373"^^xsd:string .
+
+wd:Q58090377 a wd:Q2095 ;
+    rdfs:label "Q58090377"^^xsd:string .
+
+wd:Q58090378 a wd:Q2095 ;
+    rdfs:label "Q58090378"^^xsd:string .
+
+wd:Q58090379 a wd:Q2095 ;
+    rdfs:label "Q58090379"^^xsd:string .
+
+wd:Q58090383 a wd:Q2095 ;
+    rdfs:label "Q58090383"^^xsd:string .
+
+wd:Q58090384 a wd:Q2095 ;
+    rdfs:label "Q58090384"^^xsd:string .
+
+wd:Q58090386 a wd:Q2095 ;
+    rdfs:label "Q58090386"^^xsd:string .
+
+wd:Q58090388 a wd:Q2095 ;
+    rdfs:label "Q58090388"^^xsd:string .
+
+wd:Q58090389 a wd:Q2095 ;
+    rdfs:label "Q58090389"^^xsd:string .
+
+wd:Q58090391 a wd:Q2095 ;
+    rdfs:label "Q58090391"^^xsd:string .
+
+wd:Q58090394 a wd:Q2095 ;
+    rdfs:label "Q58090394"^^xsd:string .
+
+wd:Q58090395 a wd:Q2095 ;
+    rdfs:label "Q58090395"^^xsd:string .
+
+wd:Q58090397 a wd:Q2095 ;
+    rdfs:label "Q58090397"^^xsd:string .
+
+wd:Q58090399 a wd:Q2095 ;
+    rdfs:label "Q58090399"^^xsd:string .
+
+wd:Q58090401 a wd:Q2095 ;
+    rdfs:label "Rusip"@en .
+
+wd:Q58090404 a wd:Q2095 ;
+    rdfs:label "Q58090404"^^xsd:string .
+
+wd:Q58090407 a wd:Q2095 ;
+    rdfs:label "Q58090407"^^xsd:string .
+
+wd:Q58090410 a wd:Q2095 ;
+    rdfs:label "Q58090410"^^xsd:string .
+
+wd:Q58090411 a wd:Q2095 ;
+    rdfs:label "Q58090411"^^xsd:string .
+
+wd:Q58090412 a wd:Q2095 ;
+    rdfs:label "Q58090412"^^xsd:string .
+
+wd:Q58090415 a wd:Q2095 ;
+    rdfs:label "Q58090415"^^xsd:string .
+
+wd:Q58090419 a wd:Q2095 ;
+    rdfs:label "Q58090419"^^xsd:string .
+
+wd:Q58090421 a wd:Q2095 ;
+    rdfs:label "Q58090421"^^xsd:string .
+
+wd:Q58090423 a wd:Q2095 ;
+    rdfs:label "Q58090423"^^xsd:string .
+
+wd:Q58090425 a wd:Q2095 ;
+    rdfs:label "Q58090425"^^xsd:string .
+
+wd:Q58090427 a wd:Q2095 ;
+    rdfs:label "Q58090427"^^xsd:string .
+
+wd:Q58090428 a wd:Q2095 ;
+    rdfs:label "Q58090428"^^xsd:string .
+
+wd:Q58090431 a wd:Q2095 ;
+    rdfs:label "Q58090431"^^xsd:string .
+
+wd:Q5812410 a wd:Q2095 ;
+    rdfs:label "blueberry"@en .
+
+wd:Q58190092 a wd:Q2424752 ;
+    rdfs:label "EyeSpeaks"@en .
+
+wd:Q58217364 a wd:Q2095 ;
+    rdfs:label "Food Lion"@en .
+
+wd:Q58233505 a wd:Q2095 ;
+    rdfs:label "Food Lion"@en .
+
+wd:Q58233729 a wd:Q2095 ;
+    rdfs:label "Kroger"@en .
+
+wd:Q58233751 a wd:Q2095 ;
+    rdfs:label "Aldi"@en .
+
+wd:Q58234034 a wd:Q2095 ;
+    rdfs:label "Commissary"@en .
+
+wd:Q58234181 a wd:Q2095 ;
+    rdfs:label "Walmart"@en .
+
+wd:Q58237536 a wd:Q2095 ;
+    rdfs:label "Tinee Giant #147"@en .
+
+wd:Q58241865 a wd:Q2095 ;
+    rdfs:label "Virginia Beach Farmers Market"@en .
+
+wd:Q58242017 a wd:Q2095 ;
+    rdfs:label "Kroger"@en .
+
+wd:Q58242820 a wd:Q2095 ;
+    rdfs:label "Foodbank of Southeastern Virginia an the Eastern Shore"@en .
+
+wd:Q5832771 a wd:Q2095 ;
+    rdfs:label "Enfrijoladas"@en .
+
+wd:Q58431093 a wd:Q2095 ;
+    rdfs:label "Smoked Roa Fish Sauce"@en .
+
+wd:Q586591 a wd:Q2095 ;
+    rdfs:label "Cumberland sausage"@en .
+
+wd:Q5893751 a wd:Q768267 ;
+    rdfs:label "Honeycomb"@en .
+
+wd:Q59275413 a wd:Q2095 ;
+    rdfs:label "Naturegg"@en .
+
+wd:Q593903 a wd:Q2424752 ;
+    rdfs:label "Clear aligners"@en .
+
+wd:Q5939499 a wd:Q2095 ;
+    rdfs:label "Humanitarian daily ration"@en .
+
+wd:Q59602 a wd:Q2095 ;
+    rdfs:label "emping"@en .
+
+wd:Q596215 a wd:Q2095 ;
+    rdfs:label "refried beans"@en .
+
+wd:Q59659810 a wd:Q2095 ;
+    rdfs:label "Camin"@en .
+
+wd:Q59659824 a wd:Q2095 ;
+    rdfs:label "Niva cheese"@en .
+
+wd:Q59659860 a wd:Q2095 ;
+    rdfs:label "Dill"@en .
+
+wd:Q59779876 a wd:Q2424752 ;
+    rdfs:label "Facebook Portal"@en .
+
+wd:Q597921 a wd:Q2095 ;
+    rdfs:label "Brem"@en .
+
+wd:Q5985619 a wd:Q2095 ;
+    rdfs:label "Iced VoVo"@en .
+
+wd:Q6002018 a wd:Q2095 ;
+    rdfs:label "ıslama köfte"@en .
+
+wd:Q60024476 a wd:Q2424752 ;
+    rdfs:label "ProQuad"@en .
+
+wd:Q6005710 a wd:Q2095 ;
+    rdfs:label "Imokilly Regato"@en .
+
+wd:Q6008497 a wd:Q2095 ;
+    rdfs:label "Circassian chicken"@en .
+
+wd:Q6012372 a wd:Q2095 ;
+    rdfs:label "kuzu fırın"@en .
+
+wd:Q6017615 a wd:Q2095 ;
+    rdfs:label "Dilber dudağı"@en .
+
+wd:Q6018508 a wd:Q2095 ;
+    rdfs:label "Peynir helva"@en .
+
+wd:Q6022608 a wd:Q2095 ;
+    rdfs:label "pumpkin dessert"@en .
+
+wd:Q6030071 a wd:Q2095 ;
+    rdfs:label "Gavurdağı salatası"@en .
+
+wd:Q6036443 a wd:Q2095 ;
+    rdfs:label "Ankara tava"@en .
+
+wd:Q60367497 a wd:Q2424752 ;
+    rdfs:label "Afrodite Album"@en .
+
+wd:Q6042330 a wd:Q2095 ;
+    rdfs:label "kuzu kapama"@en .
+
+wd:Q6046745 a wd:Q2424752 ;
+    rdfs:label "Interior protection"@en .
+
+wd:Q60483094 a wd:Q2095 ;
+    rdfs:label "Laverbread"@en .
+
+wd:Q60620989 a wd:Q2095 ;
+    rdfs:label "Crab melt"@en .
+
+wd:Q6068180 a wd:Q2095 ;
+    rdfs:label "İskilip dolması"@en .
+
+wd:Q60728748 a wd:Q2095 ;
+    rdfs:label "Llaucha"@en .
+
+wd:Q6076542 a wd:Q2095 ;
+    rdfs:label "hoşmerim"@en .
+
+wd:Q6077919 a wd:Q2095 ;
+    rdfs:label "Karadeniz pidesi"@en .
+
+wd:Q60793741 a wd:Q2095 ;
+    rdfs:label "Tlačenka"@en .
+
+wd:Q61229105 a wd:Q2095 ;
+    rdfs:label "Q61229105"^^xsd:string .
+
+wd:Q61579505 a wd:Q2095 ;
+    rdfs:label "Sándwich de chola"@en .
+
+wd:Q61583929 a wd:Q2095 ;
+    rdfs:label "Quispiña"@en .
+
+wd:Q61585563 a wd:Q2095 ;
+    rdfs:label "Mukuna"@en .
+
+wd:Q61767211 a wd:Q2095 ;
+    rdfs:label "Pasankalla"@en .
+
+wd:Q61905357 a wd:Q2424752 ;
+    rdfs:label "Tide Pods"@en .
+
+wd:Q6195288 a wd:Q2424752 ;
+    rdfs:label "Purell"@en .
+
+wd:Q62102359 a wd:Q2095 ;
+    rdfs:label "longaniza de Aragón"@en .
+
+wd:Q62662480 a wd:Q2424752 ;
+    rdfs:label "Ring Dish"@en .
+
+wd:Q6270145 a wd:Q2095 ;
+    rdfs:label "Jolpan"@en .
+
+wd:Q6316329 a wd:Q768267 ;
+    rdfs:label "Just Right"@en .
+
+wd:Q636056 a wd:Q2095 ;
+    rdfs:label "purée"@en .
+
+wd:Q63644955 a wd:Q2424752 ;
+    rdfs:label "light cannabis"@en .
+
+wd:Q63681317 a wd:Q2095 ;
+    rdfs:label "Jam"@en .
+
+wd:Q6387099 a wd:Q2095 ;
+    rdfs:label "Kemplang"@en .
+
+wd:Q6393299 a wd:Q2095 ;
+    rdfs:label "Kerak telor"@en .
+
+wd:Q6398629 a wd:Q2095 ;
+    rdfs:label "keşkül"@en .
+
+wd:Q6411070 a wd:Q2095 ;
+    rdfs:label "Q6411070"^^xsd:string .
+
+wd:Q64153663 a wd:Q2095 ;
+    rdfs:label "wild rice"@en .
+
+wd:Q6429813 a wd:Q2095 ;
+    rdfs:label "Konro"@en .
+
+wd:Q64504666 a wd:Q2095 ;
+    rdfs:label "gari and beans"@en .
+
+wd:Q64828890 a wd:Q2424752 ;
+    rdfs:label "Firefox Monitor"@en .
+
+wd:Q64860117 a wd:Q2424752 ;
+    rdfs:label "Inas Helpies"@en .
+
+wd:Q64974491 a wd:Q2095 ;
+    rdfs:label "Chick-fil-A Waffle Potato Fries"@en .
+
+wd:Q64974558 a wd:Q2095 ;
+    rdfs:label "Chick-n-Strips"@en .
+
+wd:Q65049072 a wd:Q2095 ;
+    rdfs:label "Gari foto"@en .
+
+wd:Q65075714 a wd:Q2424752 ;
+    rdfs:label "Google Cloud Dataflow"@en .
+
+wd:Q65152963 a wd:Q2095 ;
+    rdfs:label "Spleen as food"@en .
+
+wd:Q6518755 a wd:Q2424752 ;
+    rdfs:label "Lehel"@en .
+
+wd:Q65241338 a wd:Q2424752 ;
+    rdfs:label "Nokia 3.2"@en .
+
+wd:Q65241342 a wd:Q2424752 ;
+    rdfs:label "Nokia 4.2"@en .
+
+wd:Q65249937 a wd:Q2095 ;
+    rdfs:label "arayes"@en .
+
+wd:Q65251325 a wd:Q2095 ;
+    rdfs:label "Q65251325"^^xsd:string .
+
+wd:Q65251571 a wd:Q2095 ;
+    rdfs:label "Q65251571"^^xsd:string .
+
+wd:Q65251692 a wd:Q2095 ;
+    rdfs:label "Q65251692"^^xsd:string .
+
+wd:Q6564586 a wd:Q2095 ;
+    rdfs:label "ka'ak al-Quds"@en .
+
+wd:Q65694198 a wd:Q2095 ;
+    rdfs:label "Mpoto Mpoto"@en .
+
+wd:Q6581424 a wd:Q2095 ;
+    rdfs:label "paçanga"@en .
+
+wd:Q66088044 a wd:Q2095 ;
+    rdfs:label "Dilly Bar"@en .
+
+wd:Q66311565 a wd:Q2095 ;
+    rdfs:label "revani"@en .
+
+wd:Q66364496 a wd:Q2095 ;
+    rdfs:label "Mücendra pilavı"@en .
+
+wd:Q66711817 a wd:Q2095 ;
+    rdfs:label "Slavic ritual food and drinks"@en .
+
+wd:Q66979416 a wd:Q2095 ;
+    rdfs:label "yassı kadayıf"@en .
+
+wd:Q67165754 a wd:Q2095 ;
+    rdfs:label "oseng-oseng mercon"@en .
+
+wd:Q673782 a wd:Q2424752 ;
+    rdfs:label "earplug"@en .
+
+wd:Q6797913 a wd:Q768267 ;
+    rdfs:label "Maypo"@en .
+
+wd:Q6801475 a wd:Q2424752 ;
+    rdfs:label "McGriddles"@en .
+
+wd:Q6826618 a wd:Q2095 ;
+    rdfs:label "Mezcal worm"@en .
+
+wd:Q683080 a wd:Q2095 ;
+    rdfs:label "Fischbrötchen"@en .
+
+wd:Q68594050 a wd:Q2095 ;
+    rdfs:label "Turkish mantı"@en .
+
+wd:Q68808025 a wd:Q2424752 ;
+    rdfs:label "Aurrigo"@en .
+
+wd:Q6967046 a wd:Q2095 ;
+    rdfs:label "Nasi bogana"@en .
+
+wd:Q6967048 a wd:Q2095 ;
+    rdfs:label "Nasi liwet"@en .
+
+wd:Q69832886 a wd:Q2095 ;
+    rdfs:label "Pearl"@en .
+
+wd:Q7127953 a wd:Q2095 ;
+    rdfs:label "Pallubasa"@en .
+
+wd:Q713879 a wd:Q2095 ;
+    rdfs:label "Youtiao"@en .
+
+wd:Q7163401 a wd:Q2095 ;
+    rdfs:label "Penne alla vodka"@en .
+
+wd:Q717628 a wd:Q2095 ;
+    rdfs:label "pork ball"@en .
+
+wd:Q7193247 a wd:Q2095 ;
+    rdfs:label "pig roast"@en .
+
+wd:Q7198960 a wd:Q2095 ;
+    rdfs:label "piti"@en .
+
+wd:Q7199977 a wd:Q2095 ;
+    rdfs:label "Pizza Rolls"@en .
+
+wd:Q720230 a wd:Q2095 ;
+    rdfs:label "rojak"@en .
+
+wd:Q725252 a wd:Q2424752 ;
+    rdfs:label "satellite imagery"@en .
+
+wd:Q7283864 a wd:Q2424752 ;
+    rdfs:label "RailDriver"@en .
+
+wd:Q7307455 a wd:Q2095 ;
+    rdfs:label "Kuih sepit"@en .
+
+wd:Q7370536 a wd:Q2095 ;
+    rdfs:label "Roti buaya"@en .
+
+wd:Q7377183 a wd:Q2095 ;
+    rdfs:label "Kue leker"@en .
+
+wd:Q7387022 a wd:Q768267 ;
+    rdfs:label "S'mores Grahams"@en .
+
+wd:Q7398190 a wd:Q2095 ;
+    rdfs:label "Nisan"@en .
+
+wd:Q7404018 a wd:Q2095 ;
+    rdfs:label "Q7404018"^^xsd:string .
+
+wd:Q7418601 a wd:Q2095 ;
+    rdfs:label "rujak cingur"@en .
+
+wd:Q74213459 a wd:Q2095 ;
+    rdfs:label "Omelette Arnold Bennett"@en .
+
+wd:Q7425996 a wd:Q2095 ;
+    rdfs:label "Sate Padang"@en .
+
+wd:Q7428088 a wd:Q2095 ;
+    rdfs:label "Q7428088"^^xsd:string .
+
+wd:Q7433113 a wd:Q2095 ;
+    rdfs:label "Q7433113"^^xsd:string .
+
+wd:Q7439103 a wd:Q2095 ;
+    rdfs:label "screwball"@en .
+
+wd:Q7439267 a wd:Q2095 ;
+    rdfs:label "Scrod"@en .
+
+wd:Q7439701 a wd:Q2095 ;
+    rdfs:label "Soto Madura"@en .
+
+wd:Q7446149 a wd:Q2095 ;
+    rdfs:label "Sega Jamblang"@en .
+
+wd:Q7447605 a wd:Q2095 ;
+    rdfs:label "Q7447605"^^xsd:string .
+
+wd:Q74495320 a wd:Q2095 ;
+    rdfs:label "Mohanthal"@en .
+
+wd:Q7476075 a wd:Q2095 ;
+    rdfs:label "Tahu sumedang"@en .
+
+wd:Q7476252 a wd:Q2095 ;
+    rdfs:label "Tahu gejrot"@en .
+
+wd:Q75761914 a wd:Q2095 ;
+    rdfs:label "Toros salad"@en .
+
+wd:Q7605232 a wd:Q2424752 ;
+    rdfs:label "Steak-umm"@en .
+
+wd:Q7656154 a wd:Q2095 ;
+    rdfs:label "Swikee"@en .
+
+wd:Q7669185 a wd:Q2424752 ;
+    rdfs:label "TACLANE"@en .
+
+wd:Q7670309 a wd:Q2424752 ;
+    rdfs:label "TI-35"@en .
+
+wd:Q7670312 a wd:Q2424752 ;
+    rdfs:label "TI-34"@en .
+
+wd:Q7692761 a wd:Q2424752 ;
+    rdfs:label "Tecnu"@en .
+
+wd:Q7695520 a wd:Q2095 ;
+    rdfs:label "Tekwan"@en .
+
+wd:Q771452 a wd:Q2424752 ;
+    rdfs:label "bicycle tire"@en .
+
+wd:Q77501769 a wd:Q2095 ;
+    rdfs:label "Marquesitas"@en .
+
+wd:Q7802 a wd:Q2095 ;
+    rdfs:label "bread"@en .
+
+wd:Q7808115 a wd:Q2095 ;
+    rdfs:label "Ting Ting Jahe"@en .
+
+wd:Q7843581 a wd:Q768267 ;
+    rdfs:label "Triples"@en .
+
+wd:Q78739799 a wd:Q2424752 ;
+    rdfs:label "mining equipment"@en .
+
+wd:Q78782165 a wd:Q2424752 ;
+    rdfs:label "Q78782165"^^xsd:string .
+
+wd:Q7897917 a wd:Q2424752 ;
+    rdfs:label "UpToDate"@en .
+
+wd:Q79059164 a wd:Q2095 ;
+    rdfs:label "Pho Ga"@en .
+
+wd:Q791790 a wd:Q2095 ;
+    rdfs:label "fricassee"@en .
+
+wd:Q79529 a wd:Q2424752 ;
+    rdfs:label "chemical substance"@en .
+
+wd:Q796874 a wd:Q2095 ;
+    rdfs:label "BP-5 Compact Food"@en .
+
+wd:Q8025241 a wd:Q2095 ;
+    rdfs:label "Wingko"@en .
+
+wd:Q8055913 a wd:Q2095 ;
+    rdfs:label "kalburabastı"@en .
+
+wd:Q8059441 a wd:Q2424752 ;
+    rdfs:label "ypadu"@en .
+
+wd:Q806099 a wd:Q2095 ;
+    rdfs:label "banana chip"@en .
+
+wd:Q8062819 a wd:Q2424752 ;
+    rdfs:label "Z-SAN"@en .
+
+wd:Q8069755 a wd:Q2424752 ;
+    rdfs:label "Zetix"@en .
+
+wd:Q8074976 a wd:Q2095 ;
+    rdfs:label "stuffed zucchini flower"@en .
+
+wd:Q81303960 a wd:Q2095 ;
+    rdfs:label "Chicken Al faham"@en .
+
+wd:Q81309659 a wd:Q2095 ;
+    rdfs:label "Q81309659"^^xsd:string .
+
+wd:Q817282 a wd:Q2095 ;
+    rdfs:label "Beni shōga"@en .
+
+wd:Q818674 a wd:Q2095 ;
+    rdfs:label "meze"@en .
+
+wd:Q8196212 a wd:Q2095 ;
+    rdfs:label "börek"@en .
+
+wd:Q83143768 a wd:Q2424752 ;
+    rdfs:label "532/i Combi NG"@en .
+
+wd:Q83373069 a wd:Q2424752 ;
+    rdfs:label "Manetame Comb"@en .
+
+wd:Q836538 a wd:Q2095 ;
+    rdfs:label "tzatziki"@en .
+
+wd:Q8375 a wd:Q2424752 ;
+    rdfs:label ".Mac"@en .
+
+wd:Q84161649 a wd:Q2424752 ;
+    rdfs:label "Llipta"@en .
+
+wd:Q84239181 a wd:Q2095 ;
+    rdfs:label "yayık ayran"@en .
+
+wd:Q843389 a wd:Q2095 ;
+    rdfs:label "canning"@en .
+
+wd:Q843795 a wd:Q2095 ;
+    rdfs:label "Bakso"@en .
+
+wd:Q84470557 a wd:Q2424752 ;
+    rdfs:label "ASMR audio file"@en .
+
+wd:Q848957 a wd:Q2095 ;
+    rdfs:label "Coto Makassar"@en .
+
+wd:Q85176137 a wd:Q2095 ;
+    rdfs:label "Kala bhuna"@en .
+
+wd:Q85428376 a wd:Q2095 ;
+    rdfs:label "Ayvalık tostu"@en .
+
+wd:Q85639966 a wd:Q2424752 ;
+    rdfs:label "Q85639966"^^xsd:string .
+
+wd:Q85646296 a wd:Q2424752 ;
+    rdfs:label "Sinus Rinse™"@en .
+
+wd:Q85646498 a wd:Q2424752 ;
+    rdfs:label "NasaFlo® Neti Pot"@en .
+
+wd:Q85687460 a wd:Q2424752 ;
+    rdfs:label "HydroPulse"@en .
+
+wd:Q85834701 a wd:Q2424752 ;
+    rdfs:label "architectural furniture"@en .
+
+wd:Q85973066 a wd:Q2095 ;
+    rdfs:label "meyhane pilavı"@en .
+
+wd:Q86240778 a wd:Q2095 ;
+    rdfs:label "bulgur pilav"@en .
+
+wd:Q865054 a wd:Q2424752 ;
+    rdfs:label "baggage"@en .
+
+wd:Q86515966 a wd:Q2095 ;
+    rdfs:label "palava sauce"@en .
+
+wd:Q867426 a wd:Q2095 ;
+    rdfs:label "cendol"@en .
+
+wd:Q86771385 a wd:Q2424752 ;
+    rdfs:label "NasaDOCK"@en .
+
+wd:Q86771913 a wd:Q2424752 ;
+    rdfs:label "Sinugator"@en .
+
+wd:Q86919370 a wd:Q2424752 ;
+    rdfs:label "Antibac"@en .
+
+wd:Q877957 a wd:Q2095 ;
+    rdfs:label "shahe fen"@en .
+
+wd:Q8962920 a wd:Q2095 ;
+    rdfs:label "Q8962920"^^xsd:string .
+
+wd:Q8984550 a wd:Q2424752 ;
+    rdfs:label "PSE"@en .
+
+wd:Q898762 a wd:Q2424752 ;
+    rdfs:label "WD-40"@en .
+
+wd:Q9056689 a wd:Q2095 ;
+    rdfs:label "alphabet pasta"@en .
+
+wd:Q9079488 a wd:Q2095 ;
+    rdfs:label "Q9079488"^^xsd:string .
+
+wd:Q9133501 a wd:Q2424752 ;
+    rdfs:label "429W"@en .
+
+wd:Q924508 a wd:Q2424752 ;
+    rdfs:label "Wood flour"@en .
+
+wd:Q924689 a wd:Q2095 ;
+    rdfs:label "Soto ayam"@en .
+
+wd:Q93165 a wd:Q2095 ;
+    rdfs:label "olive oil"@en .
+
+wd:Q9355864 a wd:Q2095 ;
+    rdfs:label "Tatranky"@en .
+
+wd:Q9383016 a wd:Q2424752 ;
+    rdfs:label "X10"@en .
+
+wd:Q940033 a wd:Q2095 ;
+    rdfs:label "Muktuk"@en .
+
+wd:Q940757 a wd:Q2095 ;
+    rdfs:label "petit four"@en .
+
+wd:Q940913 a wd:Q2424752 ;
+    rdfs:label "continuous track"@en .
+
+wd:Q953395 a wd:Q2095 ;
+    rdfs:label "Mānuka honey"@en .
+
+wd:Q978399 a wd:Q2424752 ;
+    rdfs:label "sun-dried tomato"@en .
+
+wd:Q1194058 rdfs:label "disposable product"@en .
+
+wd:Q2836947 rdfs:label "animal feed"@en .
+
+wd:Q768267 rdfs:label "breakfast cereal"@en ;
+    rdfs:subClassOf wd:Q2095 .
+
+wd:Q2424752 rdfs:label "product"@en .
+
+wd:Q2095 rdfs:label "food"@en ;
+    rdfs:subClassOf wd:Q1194058,
+        wd:Q2424752,
+        wd:Q2836947 .
+

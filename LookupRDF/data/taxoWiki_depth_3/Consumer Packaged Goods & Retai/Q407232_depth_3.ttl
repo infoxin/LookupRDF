@@ -1,0 +1,4068 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1007138 a wd:Q134856 ;
+    rdfs:label "gabaculine"@en .
+
+wd:Q1014257 a wd:Q178266 ;
+    rdfs:label "ammonium sulfamate"@en .
+
+wd:Q10286149 a wd:Q79529 ;
+    rdfs:label "basic fuchsin"@en .
+
+wd:Q1035484 a wd:Q178266 ;
+    rdfs:label "carbetamide"@en .
+
+wd:Q10374626 a wd:Q79529 ;
+    rdfs:label "sumatriptan succinate"@en .
+
+wd:Q104085 a wd:Q187661 ;
+    rdfs:label "asbestos"@en .
+
+wd:Q1041804 a wd:Q134856 ;
+    rdfs:label "imidapril"@en .
+
+wd:Q10427619 a wd:Q79529 ;
+    rdfs:label "Q10427619"^^xsd:string .
+
+wd:Q104334 a wd:Q497173 ;
+    rdfs:label "carbonic acid"@en .
+
+wd:Q10438906 a wd:Q79529 ;
+    rdfs:label "Q10438906"^^xsd:string .
+
+wd:Q1046522 a wd:Q79529 ;
+    rdfs:label "Abacavir/lamivudine/zidovudine"@en .
+
+wd:Q1054 a wd:Q79529 ;
+    rdfs:label "technetium"@en .
+
+wd:Q1055000 a wd:Q79529 ;
+    rdfs:label "Ceresin"@en .
+
+wd:Q10703470 a wd:Q174211 ;
+    rdfs:label "Trien"@en .
+
+wd:Q10741852 a wd:Q79529 ;
+    rdfs:label "ipratropium bromide/salbutamol"@en .
+
+wd:Q10843651 a wd:Q134856 ;
+    rdfs:label "methallenestril"@en .
+
+wd:Q10843705 a wd:Q187661 ;
+    rdfs:label "1,3-dichloro-2-propanol"@en .
+
+wd:Q10858037 a wd:Q134856 ;
+    rdfs:label "Methylecgonidine"@en .
+
+wd:Q10859486 a wd:Q134856 ;
+    rdfs:label "3-hydroxypicolinic acid"@en .
+
+wd:Q10859489 a wd:Q187661 ;
+    rdfs:label "4-chloro-2-methylaniline"@en .
+
+wd:Q10860656 a wd:Q134856 ;
+    rdfs:label "Tuataric acid"@en .
+
+wd:Q1091 a wd:Q187661 ;
+    rdfs:label "cadmium"@en .
+
+wd:Q10926413 a wd:Q19478619 ;
+    rdfs:label "soil type"@en .
+
+wd:Q1097932 a wd:Q187661 ;
+    rdfs:label "Cycasin"@en .
+
+wd:Q1102118 a wd:Q178266 ;
+    rdfs:label "clodinafop-propargyl"@en .
+
+wd:Q11299853 a wd:Q178266 ;
+    rdfs:label "chlornitrofen"@en .
+
+wd:Q11317706 a wd:Q79529 ;
+    rdfs:label "Thialdine"@en .
+
+wd:Q1144687 a wd:Q79529 ;
+    rdfs:label "Fucoidan"@en .
+
+wd:Q1146963 a wd:Q134856 ;
+    rdfs:label "cyanoacetic acid"@en .
+
+wd:Q1147426 a wd:Q178266 ;
+    rdfs:label "cycloate"@en .
+
+wd:Q1151479 a wd:Q187661 ;
+    rdfs:label "isobutyl nitrite"@en .
+
+wd:Q1153847 a wd:Q2182492 ;
+    rdfs:label "DIOP"@en .
+
+wd:Q1168918 a wd:Q178266 ;
+    rdfs:label "Topramezone"@en .
+
+wd:Q11751626 a wd:Q64699467 ;
+    rdfs:label "decylphosphonic acid"@en .
+
+wd:Q11854090 a wd:Q187661 ;
+    rdfs:label "Benzyl violet 4B"@en .
+
+wd:Q12032134 a wd:Q11158 ;
+    rdfs:label "osmic acid"@en .
+
+wd:Q12047392 a wd:Q19478619 ;
+    rdfs:label "legal form"@en .
+
+wd:Q1207805 a wd:Q187661 ;
+    rdfs:label "dipropyl isocinchomeronate"@en .
+
+wd:Q1208433 a wd:Q178266 ;
+    rdfs:label "(Z)-diallate"@en .
+
+wd:Q1209248 a wd:Q187661 ;
+    rdfs:label "diazoaminobenzene"@en .
+
+wd:Q1210263 a wd:Q178266,
+        wd:Q187661 ;
+    rdfs:label "diclofop-methyl"@en .
+
+wd:Q1224329 a wd:Q178266 ;
+    rdfs:label "difenzoquat metilsulfate"@en .
+
+wd:Q1225698 a wd:Q79529 ;
+    rdfs:label "Fresh frozen plasma"@en .
+
+wd:Q1226713 a wd:Q178266 ;
+    rdfs:label "dinoterb"@en .
+
+wd:Q1230937 a wd:Q187661 ;
+    rdfs:label "semustine"@en .
+
+wd:Q1240093 a wd:Q134856 ;
+    rdfs:label "pravastatin"@en .
+
+wd:Q125083 a wd:Q134856 ;
+    rdfs:label "atrasentan"@en .
+
+wd:Q1257341 a wd:Q178266 ;
+    rdfs:label "prometryn"@en .
+
+wd:Q125986 a wd:Q178266 ;
+    rdfs:label "tebuthiuron"@en .
+
+wd:Q12747279 a wd:Q134856 ;
+    rdfs:label "UK-414,495"@en .
+
+wd:Q1318069 a wd:Q134856 ;
+    rdfs:label "Imino acid"@en .
+
+wd:Q1321843 a wd:Q178266 ;
+    rdfs:label "norflurazon"@en .
+
+wd:Q133369 a wd:Q79529 ;
+    rdfs:label "Clerici solution"@en .
+
+wd:Q13416874 a wd:Q134856,
+        wd:Q178266 ;
+    rdfs:label "fluroxypyr"@en .
+
+wd:Q13530468 a wd:Q79529 ;
+    rdfs:label "Ephedra"@en .
+
+wd:Q13573069 a wd:Q178266 ;
+    rdfs:label "dinoseb acetate"@en .
+
+wd:Q13724093 a wd:Q79529 ;
+    rdfs:label "Q13724093"^^xsd:string .
+
+wd:Q13745347 a wd:Q79529 ;
+    rdfs:label "copper gallium chloride"@en .
+
+wd:Q1388735 a wd:Q902296 ;
+    rdfs:label "FI 58"@en .
+
+wd:Q138937 a wd:Q79529 ;
+    rdfs:label "rosin"@en .
+
+wd:Q1430329 a wd:Q178266 ;
+    rdfs:label "nabam"@en .
+
+wd:Q1430444 a wd:Q178266 ;
+    rdfs:label "fluazolate"@en .
+
+wd:Q1430447 a wd:Q178266 ;
+    rdfs:label "fluazifop-p-butyl"@en .
+
+wd:Q1430589 a wd:Q178266 ;
+    rdfs:label "flufenacet"@en .
+
+wd:Q1434160 a wd:Q178266 ;
+    rdfs:label "flumioxazin"@en .
+
+wd:Q1434245 a wd:Q178266 ;
+    rdfs:label "fluridone"@en .
+
+wd:Q1434399 a wd:Q178266 ;
+    rdfs:label "fluthiacet-methyl"@en .
+
+wd:Q14625376 a wd:Q178266 ;
+    rdfs:label "cinmethylin"@en .
+
+wd:Q1463013 a wd:Q35758 ;
+    rdfs:label "matrix"@en .
+
+wd:Q146537 a wd:Q79529 ;
+    rdfs:label "urea-formaldehyde"@en .
+
+wd:Q148937 a wd:Q178266 ;
+    rdfs:label "bentazone"@en .
+
+wd:Q148946 a wd:Q134856,
+        wd:Q178266 ;
+    rdfs:label "dichlorprop"@en .
+
+wd:Q149413 a wd:Q178266 ;
+    rdfs:label "MCPA"@en .
+
+wd:Q149452 a wd:Q134856,
+        wd:Q178266 ;
+    rdfs:label "(rac)-mecoprop"@en .
+
+wd:Q1500226 a wd:Q134856 ;
+    rdfs:label "pulvinic acid"@en .
+
+wd:Q1501961 a wd:Q174211 ;
+    rdfs:label "benzopyrene"@en .
+
+wd:Q15043334 a wd:Q134856 ;
+    rdfs:label "Berkelic acid"@en .
+
+wd:Q15075845 a wd:Q19478619 ;
+    rdfs:label "raw material"@en .
+
+wd:Q15239768 a wd:Q134856 ;
+    rdfs:label "isonipecotic acid"@en .
+
+wd:Q152409 a wd:Q131656 ;
+    rdfs:label "Zyklon B"@en .
+
+wd:Q15269693 a wd:Q134856 ;
+    rdfs:label "saroglitazar"@en .
+
+wd:Q15303948 a wd:Q178266 ;
+    rdfs:label "imazaquin"@en .
+
+wd:Q15322708 a wd:Q134856 ;
+    rdfs:label "guvacine"@en .
+
+wd:Q154 a wd:Q187661 ;
+    rdfs:label "alcoholic beverage"@en .
+
+wd:Q15405288 a wd:Q134856 ;
+    rdfs:label "9-carboxymethoxymethylguanine"@en .
+
+wd:Q15410159 a wd:Q134856 ;
+    rdfs:label "(E)-3,4-dimethoxycinnamic acid"@en .
+
+wd:Q15410179 a wd:Q79529 ;
+    rdfs:label "Tegafur/gimeracil/oteracil"@en .
+
+wd:Q15410873 a wd:Q134856 ;
+    rdfs:label "citromycetin"@en .
+
+wd:Q15411014 a wd:Q134856 ;
+    rdfs:label "Glycidic acid"@en .
+
+wd:Q15425289 a wd:Q134856 ;
+    rdfs:label "pencolide"@en .
+
+wd:Q15425770 a wd:Q134856 ;
+    rdfs:label "NNC-711 hydrochloride"@en .
+
+wd:Q15425832 a wd:Q134856 ;
+    rdfs:label "Methylenolactocin"@en .
+
+wd:Q15426267 a wd:Q134856 ;
+    rdfs:label "Isocupressic acid"@en .
+
+wd:Q15427847 a wd:Q134856 ;
+    rdfs:label "Sterpuric acid"@en .
+
+wd:Q1552955 a wd:Q79529 ;
+    rdfs:label "Guazatine"@en .
+
+wd:Q155472 a wd:Q134856 ;
+    rdfs:label "valsartan"@en .
+
+wd:Q15632783 a wd:Q79529 ;
+    rdfs:label "Pigment Red 104"@en .
+
+wd:Q15632784 a wd:Q79529 ;
+    rdfs:label "Pigment Yellow 34"@en .
+
+wd:Q15632815 a wd:Q187661 ;
+    rdfs:label "furmecyclox"@en .
+
+wd:Q15632819 a wd:Q178266 ;
+    rdfs:label "fluchloralin"@en .
+
+wd:Q15632821 a wd:Q178266 ;
+    rdfs:label "profluralin"@en .
+
+wd:Q15632833 a wd:Q178266 ;
+    rdfs:label "buturon"@en .
+
+wd:Q15632848 a wd:Q178266 ;
+    rdfs:label "fluoroglycofen-ethyl"@en .
+
+wd:Q15632849 a wd:Q187661 ;
+    rdfs:label "methallyl chloride"@en .
+
+wd:Q15632855 a wd:Q178266 ;
+    rdfs:label "pinoxaden"@en .
+
+wd:Q15632872 a wd:Q187661 ;
+    rdfs:label "Isopyrazam"@en .
+
+wd:Q15632899 a wd:Q178266 ;
+    rdfs:label "sethoxydim"@en .
+
+wd:Q15632903 a wd:Q178266 ;
+    rdfs:label "methabenzthiazuron"@en .
+
+wd:Q15632908 a wd:Q178266,
+        wd:Q187661 ;
+    rdfs:label "isoxaflutole"@en .
+
+wd:Q15633956 a wd:Q134856 ;
+    rdfs:label "aconiazide"@en .
+
+wd:Q15633960 a wd:Q134856 ;
+    rdfs:label "acifran"@en .
+
+wd:Q15634146 a wd:Q134856 ;
+    rdfs:label "tetrahydro-2-furoic acid"@en .
+
+wd:Q15708280 a wd:Q134856 ;
+    rdfs:label "prostaglandin E3"@en .
+
+wd:Q15708335 a wd:Q79529 ;
+    rdfs:label "tipiracil / Trifluridine"@en .
+
+wd:Q15709155 a wd:Q79529 ;
+    rdfs:label "medical ethanol solution"@en .
+
+wd:Q15712277 a wd:Q79529 ;
+    rdfs:label "Stanene"@en .
+
+wd:Q15724721 a wd:Q79529 ;
+    rdfs:label "Protirelin"@en .
+
+wd:Q15726118 a wd:Q187661 ;
+    rdfs:label "o-aminoazotoluene"@en .
+
+wd:Q15726992 a wd:Q178266 ;
+    rdfs:label "chlomethoxyfen"@en .
+
+wd:Q15809890 a wd:Q178266 ;
+    rdfs:label "fluorodifen"@en .
+
+wd:Q15834927 a wd:Q178266 ;
+    rdfs:label "metazachlor"@en .
+
+wd:Q15841049 a wd:Q178266 ;
+    rdfs:label "prodiamine"@en .
+
+wd:Q158537 a wd:Q79529 ;
+    rdfs:label "mesamoll"@en .
+
+wd:Q158539 a wd:Q187661 ;
+    rdfs:label "chloromethyl methyl ether"@en .
+
+wd:Q1587659 a wd:Q79529 ;
+    rdfs:label "Q1587659"^^xsd:string .
+
+wd:Q15975449 a wd:Q178266 ;
+    rdfs:label "Propham"@en .
+
+wd:Q16064370 a wd:Q178266 ;
+    rdfs:label "fenoxaprop-p-ethyl"@en .
+
+wd:Q161210 a wd:Q174211,
+        wd:Q187661 ;
+    rdfs:label "formaldehyde"@en .
+
+wd:Q161233 a wd:Q134856 ;
+    rdfs:label "formic acid"@en .
+
+wd:Q161282 a wd:Q187661 ;
+    rdfs:label "ethylidene chloride"@en .
+
+wd:Q161284 a wd:Q187661 ;
+    rdfs:label "1,1-dichloroethene"@en .
+
+wd:Q161296 a wd:Q187661 ;
+    rdfs:label "1,1-dimethylhydrazine"@en .
+
+wd:Q161465 a wd:Q187661 ;
+    rdfs:label "1,2-dibromo-3-chloropropane"@en .
+
+wd:Q161471 a wd:Q187661 ;
+    rdfs:label "1,2-dibromoethane"@en .
+
+wd:Q161478 a wd:Q187661 ;
+    rdfs:label "1,2-dichloropropane"@en .
+
+wd:Q161480 a wd:Q187661 ;
+    rdfs:label "1,2-dichloroethane"@en .
+
+wd:Q161484 a wd:Q187661 ;
+    rdfs:label "1,2-dimethylhydrazine"@en .
+
+wd:Q161503 a wd:Q187661 ;
+    rdfs:label "1,3-butadiene"@en .
+
+wd:Q161529 a wd:Q187661 ;
+    rdfs:label "1,4-dichlorobenzene"@en .
+
+wd:Q161532 a wd:Q187661 ;
+    rdfs:label "dioxane"@en .
+
+wd:Q161589 a wd:Q187661 ;
+    rdfs:label "propyl bromide"@en .
+
+wd:Q161645 a wd:Q178266 ;
+    rdfs:label "cyperquat"@en .
+
+wd:Q16252338 a wd:Q79529 ;
+    rdfs:label "Insulin degludec"@en .
+
+wd:Q162724 a wd:Q79529 ;
+    rdfs:label "Castoreum"@en .
+
+wd:Q163648 a wd:Q187661 ;
+    rdfs:label "DDT"@en .
+
+wd:Q163767 a wd:Q27166344 ;
+    rdfs:label "reaction inhibitor"@en .
+
+wd:Q1640254 a wd:Q178266 ;
+    rdfs:label "oxadiargyl"@en .
+
+wd:Q164785 a wd:Q134856 ;
+    rdfs:label "cinnamic acid"@en .
+
+wd:Q1650548 a wd:Q178266 ;
+    rdfs:label "terbumeton"@en .
+
+wd:Q16525204 a wd:Q11158 ;
+    rdfs:label "Q16525204"^^xsd:string .
+
+wd:Q16724472 a wd:Q178266 ;
+    rdfs:label "butylate"@en .
+
+wd:Q16760606 a wd:Q178266 ;
+    rdfs:label "anilofos"@en .
+
+wd:Q167732 a wd:Q79529 ;
+    rdfs:label "Fenfluramine/phentermine"@en .
+
+wd:Q16801494 a wd:Q79529 ;
+    rdfs:label "4,4-dimethyloxazolidine"@en .
+
+wd:Q16855710 a wd:Q178266 ;
+    rdfs:label "piperophos"@en .
+
+wd:Q16855864 a wd:Q178266 ;
+    rdfs:label "pyrazosulfuron-ethyl"@en .
+
+wd:Q168685 a wd:Q178266 ;
+    rdfs:label "fentin acetate"@en .
+
+wd:Q16889133 a wd:Q19478619 ;
+    rdfs:label "class"@en .
+
+wd:Q16910008 a wd:Q79529 ;
+    rdfs:label "Industrial ethanol"@en .
+
+wd:Q1691365 a wd:Q178266 ;
+    rdfs:label "oxadiazon"@en .
+
+wd:Q16938483 a wd:Q79529 ;
+    rdfs:label "xanthoproteic acid"@en .
+
+wd:Q16948501 a wd:Q174211 ;
+    rdfs:label "erythrolitmin"@en .
+
+wd:Q16992915 a wd:Q79529 ;
+    rdfs:label "Ezetimibe/atorvastatin"@en .
+
+wd:Q17074740 a wd:Q79529 ;
+    rdfs:label "Erythromycin/sulfafurazole"@en .
+
+wd:Q17097143 a wd:Q134856,
+        wd:Q8066 ;
+    rdfs:label "(+)-2,3-diaminopropionic acid"@en .
+
+wd:Q17122484 a wd:Q178266 ;
+    rdfs:label "Bispyribac-sodium"@en .
+
+wd:Q17122729 a wd:Q178266 ;
+    rdfs:label "daimuron"@en .
+
+wd:Q17122842 a wd:Q178266 ;
+    rdfs:label "dimepiperate"@en .
+
+wd:Q17124753 a wd:Q178266 ;
+    rdfs:label "metosulam"@en .
+
+wd:Q17125410 a wd:Q79529 ;
+    rdfs:label "Umeclidinium bromide/vilanterol"@en .
+
+wd:Q17127633 a wd:Q79529 ;
+    rdfs:label "Fluticasone furoate/vilanterol"@en .
+
+wd:Q17143494 a wd:Q79529 ;
+    rdfs:label "CDK inhibitor"@en .
+
+wd:Q17148614 a wd:Q79529 ;
+    rdfs:label "Actoplus Met"@en .
+
+wd:Q17166948 a wd:Q178266 ;
+    rdfs:label "imazamox"@en .
+
+wd:Q17189244 a wd:Q79529 ;
+    rdfs:label "bicyclopropylidene"@en .
+
+wd:Q17189267 a wd:Q79529 ;
+    rdfs:label "quinaldic acid"@en .
+
+wd:Q17189420 a wd:Q79529 ;
+    rdfs:label "lumazine"@en .
+
+wd:Q17190515 a wd:Q79529 ;
+    rdfs:label "O,O-dimethyl dithiophosphate"@en .
+
+wd:Q17190867 a wd:Q79529 ;
+    rdfs:label "parabanic acid"@en .
+
+wd:Q172275 a wd:Q187661 ;
+    rdfs:label "chloroform"@en .
+
+wd:Q17310226 a wd:Q178266 ;
+    rdfs:label "allidochlor"@en .
+
+wd:Q1739168 a wd:Q187661 ;
+    rdfs:label "ceramic fiber"@en .
+
+wd:Q17394326 a wd:Q79529 ;
+    rdfs:label "Vantablack"@en .
+
+wd:Q17461535 a wd:Q178266 ;
+    rdfs:label "orbencarb"@en .
+
+wd:Q17578703 a wd:Q178266 ;
+    rdfs:label "napropamide"@en .
+
+wd:Q177540 a wd:Q79529 ;
+    rdfs:label "paraffin wax"@en .
+
+wd:Q1788000 a wd:Q187661 ;
+    rdfs:label "kresoxim-methyl"@en .
+
+wd:Q179254 a wd:Q79529 ;
+    rdfs:label "gelatin"@en .
+
+wd:Q179894 a wd:Q134856 ;
+    rdfs:label "pantothenic acid"@en .
+
+wd:Q1801 a wd:Q79529 ;
+    rdfs:label "lanthanum"@en .
+
+wd:Q18012475 a wd:Q174211 ;
+    rdfs:label "capillin"@en .
+
+wd:Q1809267 a wd:Q178266 ;
+    rdfs:label "pyridate"@en .
+
+wd:Q18130802 a wd:Q174211 ;
+    rdfs:label "3,3-dimethylbutyraldehyde"@en .
+
+wd:Q181354 a wd:Q134856 ;
+    rdfs:label "biotin"@en .
+
+wd:Q1816679 a wd:Q187661 ;
+    rdfs:label "Areca nut"@en .
+
+wd:Q1817371 a wd:Q178266 ;
+    rdfs:label "lenacil"@en .
+
+wd:Q18202121 a wd:Q79529 ;
+    rdfs:label "oxomalononitrile"@en .
+
+wd:Q18207160 a wd:Q134856 ;
+    rdfs:label "5-fluoroorotic acid"@en .
+
+wd:Q18207933 a wd:Q134856 ;
+    rdfs:label "6-hydroxykynurenic acid"@en .
+
+wd:Q18208897 a wd:Q79529 ;
+    rdfs:label "Abacavir/dolutegravir/lamivudine"@en .
+
+wd:Q18213352 a wd:Q178266 ;
+    rdfs:label "metobromuron"@en .
+
+wd:Q18347446 a wd:Q134856 ;
+    rdfs:label "2,4,5-trihydroxycinnamic acid"@en .
+
+wd:Q1838431 a wd:Q187661 ;
+    rdfs:label "indeno[1,2,3-cd]pyrene"@en .
+
+wd:Q18386075 a wd:Q79529 ;
+    rdfs:label "Sucroferric oxyhydroxide"@en .
+
+wd:Q18387473 a wd:Q134856 ;
+    rdfs:label "penicilloic acid"@en .
+
+wd:Q184398 a wd:Q79529 ;
+    rdfs:label "propolis"@en .
+
+wd:Q18476657 a wd:Q79529 ;
+    rdfs:label "Emtricitabine/rilpivirine/tenofovir"@en .
+
+wd:Q184782 a wd:Q497173 ;
+    rdfs:label "phosphoric acid"@en .
+
+wd:Q1850079 a wd:Q79529 ;
+    rdfs:label "polyethylene terephthalate glycol"@en .
+
+wd:Q185009 a wd:Q79529 ;
+    rdfs:label "whey"@en .
+
+wd:Q185082 a wd:Q79529 ;
+    rdfs:label "litmus"@en .
+
+wd:Q18533477 a wd:Q187661 ;
+    rdfs:label "dibromoacetic acid"@en .
+
+wd:Q1854296 a wd:Q187661 ;
+    rdfs:label "chlorendic acid"@en .
+
+wd:Q18578732 a wd:Q79529 ;
+    rdfs:label "carboprost tromethamine"@en .
+
+wd:Q18611668 a wd:Q79529 ;
+    rdfs:label "10-undecen-1-ol"@en .
+
+wd:Q186127 a wd:Q187661 ;
+    rdfs:label "dactinomycin"@en .
+
+wd:Q186414 a wd:Q187661 ;
+    rdfs:label "aniline"@en .
+
+wd:Q186546 a wd:Q178266 ;
+    rdfs:label "ioxynil"@en .
+
+wd:Q1871615 a wd:Q178266 ;
+    rdfs:label "nicosulfuron"@en .
+
+wd:Q187487 a wd:Q187661 ;
+    rdfs:label "7,12-dimethylbenzanthracene"@en .
+
+wd:Q18818937 a wd:Q187661 ;
+    rdfs:label "nitro-p-dichlorobenzene"@en .
+
+wd:Q1885921 a wd:Q35758 ;
+    rdfs:label "Matte"@en .
+
+wd:Q189318 a wd:Q79529 ;
+    rdfs:label "Zementfarbe"@en .
+
+wd:Q18939 a wd:Q187661 ;
+    rdfs:label "azathioprine"@en .
+
+wd:Q18967198 a wd:Q79529 ;
+    rdfs:label "calcium polyphosphate"@en .
+
+wd:Q1907191 a wd:Q11158,
+        wd:Q134856 ;
+    rdfs:label "maslinic acid"@en .
+
+wd:Q191326 a wd:Q79529 ;
+    rdfs:label "zeolite Y"@en .
+
+wd:Q1924102 a wd:Q79529 ;
+    rdfs:label "iron(III) carbonate"@en .
+
+wd:Q193521 a wd:Q79529 ;
+    rdfs:label "titanium dioxide"@en .
+
+wd:Q1940146 a wd:Q178266 ;
+    rdfs:label "trietazine"@en .
+
+wd:Q1943471 a wd:Q178266 ;
+    rdfs:label "molinate"@en .
+
+wd:Q1953551 a wd:Q178266 ;
+    rdfs:label "propazine"@en .
+
+wd:Q19596736 a wd:Q134856 ;
+    rdfs:label "dasolampanel"@en .
+
+wd:Q19596784 a wd:Q134856 ;
+    rdfs:label "7-deoxyloganetic acid"@en .
+
+wd:Q19596786 a wd:Q134856 ;
+    rdfs:label "7-deoxyloganic acid"@en .
+
+wd:Q19597261 a wd:Q79529 ;
+    rdfs:label "fulminating gold"@en .
+
+wd:Q19597767 a wd:Q134856 ;
+    rdfs:label "loganic acid"@en .
+
+wd:Q19598140 a wd:Q79529 ;
+    rdfs:label "Netupitant/palonosetron"@en .
+
+wd:Q1964898 a wd:Q134856,
+        wd:Q79529 ;
+    rdfs:label "naphthenic acid"@en .
+
+wd:Q1981622 a wd:Q134856 ;
+    rdfs:label "pendetide"@en .
+
+wd:Q19843298 a wd:Q178266 ;
+    rdfs:label "Q19843298"^^xsd:string .
+
+wd:Q19858657 a wd:Q79529 ;
+    rdfs:label "Ombitasvir/paritaprevir/ritonavir"@en .
+
+wd:Q19864811 a wd:Q79529 ;
+    rdfs:label "Empagliflozin/linagliptin"@en .
+
+wd:Q19903002 a wd:Q134856 ;
+    rdfs:label "coumalic acid"@en .
+
+wd:Q19921817 a wd:Q79529 ;
+    rdfs:label "triaminoguanidine nitrate"@en .
+
+wd:Q201382 a wd:Q79529 ;
+    rdfs:label "turpentine"@en .
+
+wd:Q201703 a wd:Q79529 ;
+    rdfs:label "Sandarac"@en .
+
+wd:Q201928 a wd:Q134856 ;
+    rdfs:label "amoxicillin"@en .
+
+wd:Q20202269 a wd:Q19478619 ;
+    rdfs:label "music term"@en .
+
+wd:Q2044136 a wd:Q134856 ;
+    rdfs:label "Alpha-Cyano-4-hydroxycinnamic acid"@en .
+
+wd:Q204902 a wd:Q79529 ;
+    rdfs:label "zinc soap"@en .
+
+wd:Q205145 a wd:Q79529 ;
+    rdfs:label "Neocarzinostatin"@en .
+
+wd:Q2051705 a wd:Q187661 ;
+    rdfs:label "N,N,4-trimethylbenzenamine"@en .
+
+wd:Q2057079 a wd:Q134856 ;
+    rdfs:label "pristanic acid"@en .
+
+wd:Q2064483 a wd:Q79529 ;
+    rdfs:label "diiodine"@en .
+
+wd:Q2069698 a wd:Q134856 ;
+    rdfs:label "pectic acid"@en .
+
+wd:Q20707039 a wd:Q134856 ;
+    rdfs:label "modafinil acid"@en .
+
+wd:Q2079284 a wd:Q131656 ;
+    rdfs:label "camphorball"@en .
+
+wd:Q20851810 a wd:Q178266 ;
+    rdfs:label "Q20851810"^^xsd:string .
+
+wd:Q20851828 a wd:Q178266 ;
+    rdfs:label "Stomp"@en .
+
+wd:Q2085502 a wd:Q178266 ;
+    rdfs:label "phenmedipham"@en .
+
+wd:Q209188 a wd:Q178266 ;
+    rdfs:label "2,4,5-T"@en .
+
+wd:Q209195 a wd:Q187661 ;
+    rdfs:label "toluene-2,4-diamine"@en .
+
+wd:Q209222 a wd:Q178266 ;
+    rdfs:label "2,4-D"@en .
+
+wd:Q2092340 a wd:Q178266 ;
+    rdfs:label "picolinafen"@en .
+
+wd:Q209315 a wd:Q134856 ;
+    rdfs:label "α-bromobutyric acid"@en .
+
+wd:Q209357 a wd:Q174211 ;
+    rdfs:label "O-chlorobenzylidenemalononitrile"@en .
+
+wd:Q209361 a wd:Q134856 ;
+    rdfs:label "2-chloropropionic acid"@en .
+
+wd:Q20973563 a wd:Q79529 ;
+    rdfs:label "Ceftazidime/avibactam"@en .
+
+wd:Q20983436 a wd:Q187661 ;
+    rdfs:label "2,4-diaminoanisole"@en .
+
+wd:Q21012207 a wd:Q79529 ;
+    rdfs:label "sodium carboxy methyl cellulose"@en .
+
+wd:Q21013793 a wd:Q35758 ;
+    rdfs:label "Q21013793"^^xsd:string .
+
+wd:Q2102184 a wd:Q79529 ;
+    rdfs:label "Bioallethrin"@en .
+
+wd:Q2103461 a wd:Q178266 ;
+    rdfs:label "acifluorfen"@en .
+
+wd:Q2104314 a wd:Q134856 ;
+    rdfs:label "narasin"@en .
+
+wd:Q21086613 a wd:Q11158 ;
+    rdfs:label "Q21086613"^^xsd:string .
+
+wd:Q21086615 a wd:Q497173 ;
+    rdfs:label "Q21086615"^^xsd:string .
+
+wd:Q21086616 a wd:Q11158 ;
+    rdfs:label "Q21086616"^^xsd:string .
+
+wd:Q21086618 a wd:Q11158 ;
+    rdfs:label "Q21086618"^^xsd:string .
+
+wd:Q21086620 a wd:Q11158 ;
+    rdfs:label "Q21086620"^^xsd:string .
+
+wd:Q21097956 a wd:Q79529 ;
+    rdfs:label "(-)-thioctic acid"@en .
+
+wd:Q21098892 a wd:Q134856 ;
+    rdfs:label "radalbuvir"@en .
+
+wd:Q21099036 a wd:Q174211 ;
+    rdfs:label "α-quaterthiophene"@en .
+
+wd:Q21099362 a wd:Q134856 ;
+    rdfs:label "aristolochic acid I"@en .
+
+wd:Q2111674 a wd:Q178266 ;
+    rdfs:label "diphenamid"@en .
+
+wd:Q2112916 a wd:Q178266 ;
+    rdfs:label "propachlor"@en .
+
+wd:Q2113173 a wd:Q178266 ;
+    rdfs:label "propyzamide"@en .
+
+wd:Q2113282 a wd:Q174211 ;
+    rdfs:label "APAAN"@en .
+
+wd:Q21146257 a wd:Q19478619 ;
+    rdfs:label "type"@en .
+
+wd:Q21175367 a wd:Q79529 ;
+    rdfs:label "Pyrethrum"@en .
+
+wd:Q2119649 a wd:Q178266 ;
+    rdfs:label "pyraflufen-ethyl"@en .
+
+wd:Q2123248 a wd:Q178266 ;
+    rdfs:label "quinoclamine"@en .
+
+wd:Q2123552 a wd:Q178266 ;
+    rdfs:label "quizalofop"@en .
+
+wd:Q2124519 a wd:Q178266 ;
+    rdfs:label "quinmerac"@en .
+
+wd:Q21273325 a wd:Q79529 ;
+    rdfs:label "dextroamphetamine saccharate"@en .
+
+wd:Q213050 a wd:Q134856 ;
+    rdfs:label "succinic acid"@en .
+
+wd:Q215865 a wd:Q79529 ;
+    rdfs:label "nacre"@en .
+
+wd:Q21601948 a wd:Q79529 ;
+    rdfs:label "Q-carbon"@en .
+
+wd:Q2170812 a wd:Q5850078 ;
+    rdfs:label "trauma mechanism"@en .
+
+wd:Q21820633 a wd:Q134856 ;
+    rdfs:label "Lesinurad"@en .
+
+wd:Q2184565 a wd:Q178266 ;
+    rdfs:label "isoproturon"@en .
+
+wd:Q21856393 a wd:Q11158 ;
+    rdfs:label "Q21856393"^^xsd:string .
+
+wd:Q2187383 a wd:Q178266 ;
+    rdfs:label "clomazone"@en .
+
+wd:Q2188539 a wd:Q134856,
+        wd:Q178266 ;
+    rdfs:label "clopyralid"@en .
+
+wd:Q2194382 a wd:Q187661 ;
+    rdfs:label "captan"@en .
+
+wd:Q22029959 a wd:Q79529 ;
+    rdfs:label "vinyl-substituted furan"@en .
+
+wd:Q22051085 a wd:Q131656 ;
+    rdfs:label "2,3,4,6-tetrachlorophenol"@en .
+
+wd:Q22082940 a wd:Q79529 ;
+    rdfs:label "CDP-diacyl glycerol"@en .
+
+wd:Q22083259 a wd:Q79529 ;
+    rdfs:label "1,2-diacyl-sn-glycero-3-phosphoethanolamine"@en .
+
+wd:Q22133393 a wd:Q187661 ;
+    rdfs:label "benzidine dye"@en .
+
+wd:Q22162855 a wd:Q79529 ;
+    rdfs:label "alpha-Bourbonene"@en .
+
+wd:Q2225366 a wd:Q178266 ;
+    rdfs:label "amidosulfuron"@en .
+
+wd:Q2227780 a wd:Q27166344 ;
+    rdfs:label "computronium"@en .
+
+wd:Q222968 a wd:Q187661 ;
+    rdfs:label "dianisidine"@en .
+
+wd:Q222991 a wd:Q187661 ;
+    rdfs:label "3,3'-dichlorobenzidine"@en .
+
+wd:Q2235308 a wd:Q19478619 ;
+    rdfs:label "ship type"@en .
+
+wd:Q225045 a wd:Q187661 ;
+    rdfs:label "carbon tetrachloride"@en .
+
+wd:Q2266549 a wd:Q178266 ;
+    rdfs:label "pyroxsulam"@en .
+
+wd:Q22668726 a wd:Q79529 ;
+    rdfs:label "lipegfilgrastim"@en .
+
+wd:Q22676255 a wd:Q19478619 ;
+    rdfs:label "aircraft undercarriage-lift class"@en .
+
+wd:Q22676262 a wd:Q19478619 ;
+    rdfs:label "aircraft undercarriage-power class"@en .
+
+wd:Q2270 a wd:Q187661 ;
+    rdfs:label "benzene"@en .
+
+wd:Q22712733 a wd:Q178266 ;
+    rdfs:label "aziprotryne"@en .
+
+wd:Q22713649 a wd:Q178266 ;
+    rdfs:label "benzthiazuron"@en .
+
+wd:Q22807209 a wd:Q178266 ;
+    rdfs:label "Carfentrazone-ethyl"@en .
+
+wd:Q22807424 a wd:Q178266 ;
+    rdfs:label "Difenoxuron"@en .
+
+wd:Q22807432 a wd:Q178266 ;
+    rdfs:label "dimexano"@en .
+
+wd:Q22807473 a wd:Q178266 ;
+    rdfs:label "ethoxysulfuron"@en .
+
+wd:Q22807800 a wd:Q178266 ;
+    rdfs:label "fomesafen"@en .
+
+wd:Q22808250 a wd:Q178266 ;
+    rdfs:label "halosulfuron-methyl"@en .
+
+wd:Q22808356 a wd:Q178266 ;
+    rdfs:label "mefenacet"@en .
+
+wd:Q22808472 a wd:Q178266 ;
+    rdfs:label "nitralin"@en .
+
+wd:Q22808482 a wd:Q178266 ;
+    rdfs:label "orthosulfamuron"@en .
+
+wd:Q22808495 a wd:Q178266 ;
+    rdfs:label "oxasulfuron"@en .
+
+wd:Q22808962 a wd:Q178266 ;
+    rdfs:label "thiazafluron"@en .
+
+wd:Q22808965 a wd:Q178266 ;
+    rdfs:label "thifensulfuron-methyl"@en .
+
+wd:Q228179 a wd:Q79529 ;
+    rdfs:label "Zufallslaser"@en .
+
+wd:Q22829194 a wd:Q178266 ;
+    rdfs:label "isocarbamid"@en .
+
+wd:Q22829365 rdfs:label "Glyphosate-trimesium"@en ;
+    rdfs:subClassOf wd:Q407232 .
+
+wd:Q22831374 a wd:Q178266 ;
+    rdfs:label "Benzoylprop-ethyl"@en .
+
+wd:Q2283186 a wd:Q187661 ;
+    rdfs:label "bis(chloromethyl) ether"@en .
+
+wd:Q2286646 a wd:Q187661 ;
+    rdfs:label "2,6-dinitrotoluene"@en .
+
+wd:Q2287905 a wd:Q187661 ;
+    rdfs:label "anilinium chloride"@en .
+
+wd:Q22917358 a wd:Q79529 ;
+    rdfs:label "isooctene"@en .
+
+wd:Q2293747 a wd:Q178266 ;
+    rdfs:label "metamitron"@en .
+
+wd:Q2297518 a wd:Q79529 ;
+    rdfs:label "schweinfurthin"@en .
+
+wd:Q22979549 a wd:Q187661 ;
+    rdfs:label "dibenzo(a,e)pyrene"@en .
+
+wd:Q22986524 a wd:Q174211 ;
+    rdfs:label "cyclopentanoperhydrophenanthrene"@en .
+
+wd:Q229887 a wd:Q134856,
+        wd:Q178266 ;
+    rdfs:label "2,4-DB"@en .
+
+wd:Q229922 a wd:Q187661 ;
+    rdfs:label "4-biphenylamine"@en .
+
+wd:Q2303660 a wd:Q134856,
+        wd:Q178266 ;
+    rdfs:label "triclopyr"@en .
+
+wd:Q2307855 a wd:Q187661 ;
+    rdfs:label "glycidaldehyde"@en .
+
+wd:Q2309999 a wd:Q79529 ;
+    rdfs:label "Q2309999"^^xsd:string .
+
+wd:Q2310378 a wd:Q79529 ;
+    rdfs:label "Horse fat"@en .
+
+wd:Q231458 a wd:Q79529 ;
+    rdfs:label "palm oil"@en .
+
+wd:Q23308960 a wd:Q79529 ;
+    rdfs:label "lead(II) bisulfate"@en .
+
+wd:Q2337168 a wd:Q178266 ;
+    rdfs:label "haloxyfop-p"@en .
+
+wd:Q2338639 a wd:Q178266 ;
+    rdfs:label "oxyfluorfen"@en .
+
+wd:Q2342544 a wd:Q134856 ;
+    rdfs:label "acipimox"@en .
+
+wd:Q2345829 a wd:Q27166344 ;
+    rdfs:label "Star jelly"@en .
+
+wd:Q2362625 a wd:Q79529 ;
+    rdfs:label "formalin"@en .
+
+wd:Q2364499 a wd:Q178266 ;
+    rdfs:label "sulfosulfuron"@en .
+
+wd:Q23661325 a wd:Q79529 ;
+    rdfs:label "Lumacaftor/ivacaftor"@en .
+
+wd:Q2380192 a wd:Q187661 ;
+    rdfs:label "benzo[b]fluoranthene"@en .
+
+wd:Q238474 a wd:Q134856 ;
+    rdfs:label "aminolevulinic acid"@en .
+
+wd:Q2384787 a wd:Q178266 ;
+    rdfs:label "triasulfuron"@en .
+
+wd:Q2392858 a wd:Q178266 ;
+    rdfs:label "cinidon-ethyl"@en .
+
+wd:Q2394026 a wd:Q178266 ;
+    rdfs:label "tribenuron-methyl"@en .
+
+wd:Q2404316 a wd:Q178266 ;
+    rdfs:label "terbacil"@en .
+
+wd:Q2404338 a wd:Q178266 ;
+    rdfs:label "terbutryn"@en .
+
+wd:Q2412859 a wd:Q79529 ;
+    rdfs:label "Tenofovir/emtricitabine"@en .
+
+wd:Q241595 a wd:Q79529 ;
+    rdfs:label "lecithin"@en .
+
+wd:Q2425263 a wd:Q178266 ;
+    rdfs:label "pebulate"@en .
+
+wd:Q243992 a wd:Q187661 ;
+    rdfs:label "furan"@en .
+
+wd:Q2442512 a wd:Q187661 ;
+    rdfs:label "benz[a]anthracene"@en .
+
+wd:Q245489 a wd:Q134856 ;
+    rdfs:label "6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid"@en .
+
+wd:Q2456972 a wd:Q174211 ;
+    rdfs:label "2-methylcyclohexanol"@en .
+
+wd:Q2457238 a wd:Q174211 ;
+    rdfs:label "Aminal"@en .
+
+wd:Q2467555 a wd:Q187661 ;
+    rdfs:label "furazolidone"@en .
+
+wd:Q24713391 a wd:Q174211 ;
+    rdfs:label "beta-Clovene"@en .
+
+wd:Q248262 a wd:Q79529 ;
+    rdfs:label "Ignition means"@en .
+
+wd:Q248312 a wd:Q79529 ;
+    rdfs:label "Zündstein"@en .
+
+wd:Q24894808 a wd:Q79529 ;
+    rdfs:label "Liraglutide/insulin degludek"@en .
+
+wd:Q2499888 a wd:Q134856 ;
+    rdfs:label "Benzoylecgonine"@en .
+
+wd:Q2501461 a wd:Q174211 ;
+    rdfs:label "Silyl enol ether"@en .
+
+wd:Q250386 a wd:Q1310239 ;
+    rdfs:label "pile"@en .
+
+wd:Q25048068 a wd:Q79529 ;
+    rdfs:label "Buprenorphine/naloxone"@en .
+
+wd:Q2509768 a wd:Q187661 ;
+    rdfs:label "bis(2-chloroethyl)ether"@en .
+
+wd:Q25098930 a wd:Q79529 ;
+    rdfs:label "Aclidinium/formoterol"@en .
+
+wd:Q25110523 a wd:Q79529 ;
+    rdfs:label "velpatasvir/sofosbuvir"@en .
+
+wd:Q25323792 a wd:Q174211 ;
+    rdfs:label "Napthalenetetracarboxylic diimide"@en .
+
+wd:Q25326955 a wd:Q79529 ;
+    rdfs:label "ceria-zirconia"@en .
+
+wd:Q2563907 a wd:Q187661 ;
+    rdfs:label "dimethylcarbamoyl chloride"@en .
+
+wd:Q2570341 a wd:Q178266 ;
+    rdfs:label "butralin"@en .
+
+wd:Q257590 a wd:Q134856 ;
+    rdfs:label "Propiolic acid"@en .
+
+wd:Q258034 a wd:Q187661 ;
+    rdfs:label "Pteridium"@en .
+
+wd:Q2615291 a wd:Q178266 ;
+    rdfs:label "azimsulfuron"@en .
+
+wd:Q2622539 a wd:Q134856 ;
+    rdfs:label "indolebutyric acid"@en .
+
+wd:Q2635498 a wd:Q134856 ;
+    rdfs:label "Elenolic acid"@en .
+
+wd:Q2642646 a wd:Q178266 ;
+    rdfs:label "clethodim"@en .
+
+wd:Q2653981 a wd:Q187661 ;
+    rdfs:label "Citrus Red 2"@en .
+
+wd:Q265878 a wd:Q79529 ;
+    rdfs:label "peanut oil"@en .
+
+wd:Q2677285 a wd:Q178266 ;
+    rdfs:label "isoxaben"@en .
+
+wd:Q26840749 a wd:Q187661 ;
+    rdfs:label "2,3-dibromopropanol"@en .
+
+wd:Q26840753 a wd:Q187661 ;
+    rdfs:label "2-aminofluorene"@en .
+
+wd:Q26840756 a wd:Q187661 ;
+    rdfs:label "dibenzo(a,L)pyrene"@en .
+
+wd:Q26840760 a wd:Q187661 ;
+    rdfs:label "dibenz(a,H)acridine"@en .
+
+wd:Q26840770 a wd:Q187661 ;
+    rdfs:label "solvent yellow 34"@en .
+
+wd:Q26840806 a wd:Q187661 ;
+    rdfs:label "dibenz(a,j)acridine"@en .
+
+wd:Q26840865 a wd:Q187661 ;
+    rdfs:label "N,N'-diacetylbenzidine"@en .
+
+wd:Q26840903 a wd:Q187661 ;
+    rdfs:label "chromium(6+)"@en .
+
+wd:Q26840983 a wd:Q187661 ;
+    rdfs:label "2,4-diaminoanisole sulfate"@en .
+
+wd:Q26841007 a wd:Q187661 ;
+    rdfs:label "dibenzo(a,i)pyrene"@en .
+
+wd:Q26841191 a wd:Q187661 ;
+    rdfs:label "7H-dibenzo(c,g)carbazole"@en .
+
+wd:Q26841193 a wd:Q187661 ;
+    rdfs:label "pentaerythritol dibromide"@en .
+
+wd:Q26841223 a wd:Q187661 ;
+    rdfs:label "3,3'-dichlorobenzidine dihydrochloride"@en .
+
+wd:Q26841300 a wd:Q187661 ;
+    rdfs:label "dibenzo(a,h)pyrene"@en .
+
+wd:Q2690247 a wd:Q134856 ;
+    rdfs:label "7-phospho-2-dehydro-3-deoxy-D-arabino-heptonic acid"@en .
+
+wd:Q2701912 a wd:Q187661 ;
+    rdfs:label "clofibrate"@en .
+
+wd:Q27032359 a wd:Q187661 ;
+    rdfs:label "doxorubicin hydrochloride"@en .
+
+wd:Q27032530 a wd:Q187661 ;
+    rdfs:label "Disperse Yellow 3"@en .
+
+wd:Q2705544 a wd:Q187661 ;
+    rdfs:label "2,4-dichloronitrobenzene"@en .
+
+wd:Q27077247 a wd:Q79529 ;
+    rdfs:label "chloroprene rubber"@en .
+
+wd:Q27093159 a wd:Q64699467,
+        wd:Q8066 ;
+    rdfs:label "Norleucine Phosphonate"@en .
+
+wd:Q27093212 a wd:Q64699467,
+        wd:Q8066 ;
+    rdfs:label "Methionine Phosphonate"@en .
+
+wd:Q27093390 a wd:Q64699467,
+        wd:Q8066 ;
+    rdfs:label "Leucine Phosphonic Acid"@en .
+
+wd:Q27094452 a wd:Q187661 ;
+    rdfs:label "direct blue 15"@en .
+
+wd:Q27094563 a wd:Q187661 ;
+    rdfs:label "heptachlor epoxide"@en .
+
+wd:Q27095620 a wd:Q187661 ;
+    rdfs:label "Direct Blue 6"@en .
+
+wd:Q27096169 a wd:Q187661 ;
+    rdfs:label "Direct Black 38"@en .
+
+wd:Q27103937 a wd:Q187661 ;
+    rdfs:label "1-hydroxyanthraquinone"@en .
+
+wd:Q27106287 a wd:Q187661 ;
+    rdfs:label "cyclophosphamide hydrate"@en .
+
+wd:Q27107185 a wd:Q187661 ;
+    rdfs:label "Lasiocarpine"@en .
+
+wd:Q27115788 a wd:Q187661 ;
+    rdfs:label "1,6-dinitropyrene"@en .
+
+wd:Q27115949 a wd:Q187661 ;
+    rdfs:label "2-aminoanthraquinone"@en .
+
+wd:Q27120486 a wd:Q187661 ;
+    rdfs:label "2-amino-3-methylimidazo(4,5-f)quinoline"@en .
+
+wd:Q27133122 a wd:Q187661 ;
+    rdfs:label "bromochloroacetic acid"@en .
+
+wd:Q27144914 a wd:Q187661 ;
+    rdfs:label "furaltadone"@en .
+
+wd:Q27155585 a wd:Q187661 ;
+    rdfs:label "benthiavalicarb-isopropyl"@en .
+
+wd:Q27155704 a wd:Q174211 ;
+    rdfs:label "Spinetoram (incomplete stereospecifity)"@en .
+
+wd:Q27155771 a wd:Q187661 ;
+    rdfs:label "aramite"@en .
+
+wd:Q27155853 a wd:Q187661 ;
+    rdfs:label "cyclopenta(cd)pyrene"@en .
+
+wd:Q27155854 a wd:Q187661 ;
+    rdfs:label "2-amino-9H-pyrido(2,3-b)indole"@en .
+
+wd:Q27155857 a wd:Q187661 ;
+    rdfs:label "triafur"@en .
+
+wd:Q27155863 a wd:Q187661 ;
+    rdfs:label "β-butyrolactone"@en .
+
+wd:Q27155864 a wd:Q187661 ;
+    rdfs:label "1-chloro-2-methyl-1-propene"@en .
+
+wd:Q27155865 a wd:Q187661 ;
+    rdfs:label "4-chloro-O-phenylenediamine"@en .
+
+wd:Q27155867 a wd:Q187661 ;
+    rdfs:label "1-amino-2,4-dibromoanthraquinone"@en .
+
+wd:Q27155869 a wd:Q187661 ;
+    rdfs:label "3,3'-Dichloro-4,4'-diaminodiphenyl ether"@en .
+
+wd:Q27155871 a wd:Q187661 ;
+    rdfs:label "N,N'-diethylhydrazine"@en .
+
+wd:Q27155872 a wd:Q187661 ;
+    rdfs:label "dihydrosafrole"@en .
+
+wd:Q27155875 a wd:Q187661 ;
+    rdfs:label "3,7-dinitrofluoranthene"@en .
+
+wd:Q27155876 a wd:Q187661 ;
+    rdfs:label "3,9-dinitrofluoranthene"@en .
+
+wd:Q27155877 a wd:Q187661 ;
+    rdfs:label "disperse blue 1"@en .
+
+wd:Q27155879 a wd:Q187661 ;
+    rdfs:label "fusarin C"@en .
+
+wd:Q27155882 a wd:Q187661 ;
+    rdfs:label "hc blue no. 1"@en .
+
+wd:Q27155894 a wd:Q187661 ;
+    rdfs:label "furathiazole"@en .
+
+wd:Q27155911 a wd:Q187661 ;
+    rdfs:label "disperse orange 11"@en .
+
+wd:Q27155914 a wd:Q187661 ;
+    rdfs:label "4-amino-2-nitrophenol"@en .
+
+wd:Q27155933 a wd:Q187661 ;
+    rdfs:label "cinnamyl anthranilate"@en .
+
+wd:Q27155939 a wd:Q187661 ;
+    rdfs:label "2,3-benzotriphenylene"@en .
+
+wd:Q27155946 a wd:Q187661 ;
+    rdfs:label "dibromoacetonitrile"@en .
+
+wd:Q27155954 a wd:Q187661 ;
+    rdfs:label "1,3-dinitropyrene"@en .
+
+wd:Q27156132 a wd:Q79529 ;
+    rdfs:label "diminazene diaceturate"@en .
+
+wd:Q27163155 a wd:Q187661 ;
+    rdfs:label "cobalt(II) sulfate heptahydrate"@en .
+
+wd:Q27186490 a wd:Q174211 ;
+    rdfs:label "3-methoxy-2-(3-pyridinylmethylthio)-4-quinazolinone"@en .
+
+wd:Q2718713 a wd:Q134856 ;
+    rdfs:label "Iloprost"@en .
+
+wd:Q271943 a wd:Q187661 ;
+    rdfs:label "isoprene"@en .
+
+wd:Q27251403 a wd:Q187661 ;
+    rdfs:label "3-amino-9-ethylcarbazole hydrochloride"@en .
+
+wd:Q27255828 a wd:Q187661 ;
+    rdfs:label "4-chloro-2-aminophenol"@en .
+
+wd:Q27258415 a wd:Q187661 ;
+    rdfs:label "phenytoin sodium"@en .
+
+wd:Q27262572 a wd:Q187661 ;
+    rdfs:label "O-tolidine dihydrochloride"@en .
+
+wd:Q27262918 a wd:Q174211 ;
+    rdfs:label "6-acetoxydihydrotheaspirane"@en .
+
+wd:Q27264049 a wd:Q79529 ;
+    rdfs:label "urazamide"@en .
+
+wd:Q27264899 a wd:Q187661 ;
+    rdfs:label "acifluorfen-sodium"@en .
+
+wd:Q27269783 a wd:Q187661 ;
+    rdfs:label "chloramphenicol sodium succinate"@en .
+
+wd:Q27273261 a wd:Q187661 ;
+    rdfs:label "sodium bromebrate"@en .
+
+wd:Q27275499 a wd:Q79529 ;
+    rdfs:label "silver citrate hydrate"@en .
+
+wd:Q27276766 a wd:Q187661 ;
+    rdfs:label "dinitroaniline orange"@en .
+
+wd:Q27281516 a wd:Q79529 ;
+    rdfs:label "diminazene aceturate"@en .
+
+wd:Q27282927 a wd:Q187661 ;
+    rdfs:label "bronze orange"@en .
+
+wd:Q27286666 a wd:Q187661 ;
+    rdfs:label "p-chloroaniline hydrochloride"@en .
+
+wd:Q27287518 a wd:Q187661 ;
+    rdfs:label "O-dianisidine dihydrochloride"@en .
+
+wd:Q27288251 a wd:Q187661 ;
+    rdfs:label "direct blue 218"@en .
+
+wd:Q27289240 a wd:Q187661 ;
+    rdfs:label "bromodichloroacetic acid"@en .
+
+wd:Q27290582 a wd:Q178266 ;
+    rdfs:label "flurtamone"@en .
+
+wd:Q272983 a wd:Q79529 ;
+    rdfs:label "green fluorescent protein"@en .
+
+wd:Q27335 a wd:Q187661 ;
+    rdfs:label "furfuryl alcohol"@en .
+
+wd:Q27430123 a wd:Q79529 ;
+    rdfs:label "Ferumoxytol"@en .
+
+wd:Q27430160 a wd:Q187661 ;
+    rdfs:label "HCH"@en .
+
+wd:Q27453362 a wd:Q64699467,
+        wd:Q8066 ;
+    rdfs:label "[(1S)-1-amino-3-methylbutyl]phosphonic acid"@en .
+
+wd:Q2784004 a wd:Q187661 ;
+    rdfs:label "amsacrine"@en .
+
+wd:Q2788153 a wd:Q79529 ;
+    rdfs:label "Demeton"@en .
+
+wd:Q27890208 a wd:Q187661 ;
+    rdfs:label "pararosaniline hydrochloride"@en .
+
+wd:Q27891747 a wd:Q174211 ;
+    rdfs:label "uvitic acid"@en .
+
+wd:Q280159 a wd:Q79529 ;
+    rdfs:label "tall oil"@en .
+
+wd:Q28032018 a wd:Q174211 ;
+    rdfs:label "uvitonic acid"@en .
+
+wd:Q2805600 a wd:Q134856 ;
+    rdfs:label "Steviol glycoside"@en .
+
+wd:Q28134977 a wd:Q131656 ;
+    rdfs:label "ContraPest"@en .
+
+wd:Q2813782 a wd:Q178266 ;
+    rdfs:label "2,4-D-dimethylammonium"@en .
+
+wd:Q28146811 a wd:Q35758 ;
+    rdfs:label "cement"@en .
+
+wd:Q2823209 a wd:Q134856 ;
+    rdfs:label "methylmalonaldehydic acid"@en .
+
+wd:Q2823218 a wd:Q134856 ;
+    rdfs:label "3-oxovaleric acid"@en .
+
+wd:Q2823225 a wd:Q134856 ;
+    rdfs:label "4-maleylacetoacetic acid"@en .
+
+wd:Q2823233 a wd:Q134856 ;
+    rdfs:label "(RS)-5-diphosphomevalonate"@en .
+
+wd:Q2823241 a wd:Q134856 ;
+    rdfs:label "Benzoquinonetetracarboxylic acid"@en .
+
+wd:Q2823270 a wd:Q421948 ;
+    rdfs:label "Hydroxycitric acid"@en .
+
+wd:Q2823325 a wd:Q134856 ;
+    rdfs:label "Ethylenetetracarboxylic acid"@en .
+
+wd:Q282440 a wd:Q187661 ;
+    rdfs:label "pyrocatechol"@en .
+
+wd:Q2844856 a wd:Q178266 ;
+    rdfs:label "ametryn"@en .
+
+wd:Q2868667 a wd:Q178266 ;
+    rdfs:label "asulam"@en .
+
+wd:Q2869808 a wd:Q79529 ;
+    rdfs:label "Emtricitabine/tenofovir/efavirenz"@en .
+
+wd:Q28719795 a wd:Q79529 ;
+    rdfs:label "disodium helide"@en .
+
+wd:Q28852345 a wd:Q79529 ;
+    rdfs:label "autologous cultured chondrocytes"@en .
+
+wd:Q28852421 a wd:Q79529 ;
+    rdfs:label "fibrinogen human"@en .
+
+wd:Q28852424 a wd:Q79529 ;
+    rdfs:label "human immunoglobulin g"@en .
+
+wd:Q28852429 a wd:Q79529 ;
+    rdfs:label "efmoroctocog alfa"@en .
+
+wd:Q28852434 a wd:Q79529 ;
+    rdfs:label "coagulation factor ix recombinant human"@en .
+
+wd:Q28852443 a wd:Q79529 ;
+    rdfs:label "epoetin theta"@en .
+
+wd:Q28856101 a wd:Q79529 ;
+    rdfs:label "canagliflozin / metformin hydrochloride"@en .
+
+wd:Q28856135 a wd:Q79529 ;
+    rdfs:label "dapagliflozin / metformin"@en .
+
+wd:Q28856155 a wd:Q79529 ;
+    rdfs:label "eftrenonacog alfa"@en .
+
+wd:Q28856418 a wd:Q79529 ;
+    rdfs:label "rosiglitazone / metformin"@en .
+
+wd:Q28859529 a wd:Q79529 ;
+    rdfs:label "memantine / donepezil"@en .
+
+wd:Q28859576 a wd:Q79529 ;
+    rdfs:label "ketorolac / phenylephrine"@en .
+
+wd:Q28859577 a wd:Q79529 ;
+    rdfs:label "nomegestrol acetate / estradiol"@en .
+
+wd:Q28859597 a wd:Q79529 ;
+    rdfs:label "alogliptin / metformin"@en .
+
+wd:Q28859598 a wd:Q79529 ;
+    rdfs:label "linagliptin / metformin"@en .
+
+wd:Q28859599 a wd:Q79529 ;
+    rdfs:label "empagliflozin / metformin"@en .
+
+wd:Q28859600 a wd:Q79529 ;
+    rdfs:label "ceftolozane / tazobactam"@en .
+
+wd:Q28859601 a wd:Q79529 ;
+    rdfs:label "alendronate sodium trihydrate / colecalciferol"@en .
+
+wd:Q28859602 a wd:Q79529 ;
+    rdfs:label "clopidogrel / acetylsalicylic acid"@en .
+
+wd:Q28859603 a wd:Q79529 ;
+    rdfs:label "alendronic acid / colecalciferol"@en .
+
+wd:Q28859604 a wd:Q79529 ;
+    rdfs:label "vildagliptin / metformin"@en .
+
+wd:Q28859605 a wd:Q79529 ;
+    rdfs:label "budesonide / salmeterol"@en .
+
+wd:Q28859607 a wd:Q79529 ;
+    rdfs:label "irbesartan / hydrochlorothiazide"@en .
+
+wd:Q28859608 a wd:Q79529 ;
+    rdfs:label "norelgestromin / ethinyl estradiol"@en .
+
+wd:Q28859611 a wd:Q79529 ;
+    rdfs:label "desloratadine / pseudophedrine sulphate"@en .
+
+wd:Q28859612 a wd:Q79529 ;
+    rdfs:label "emtricitabine / rilpivirine / tenofovir alafenamide"@en .
+
+wd:Q28859613 a wd:Q79529 ;
+    rdfs:label "follitropin alfa / lutropin alfa"@en .
+
+wd:Q28859614 a wd:Q79529 ;
+    rdfs:label "atazanavir / cobicistat"@en .
+
+wd:Q28859615 a wd:Q79529 ;
+    rdfs:label "fenofibrate / simvastatin"@en .
+
+wd:Q28859617 a wd:Q79529 ;
+    rdfs:label "laropiprant / nicotinic acid"@en .
+
+wd:Q28859618 a wd:Q79529 ;
+    rdfs:label "rosiglitazone / glimepiride"@en .
+
+wd:Q28859619 a wd:Q79529 ;
+    rdfs:label "brinzolamide / timolol"@en .
+
+wd:Q28859621 a wd:Q79529 ;
+    rdfs:label "brinzolamide / brimonidine tartrate"@en .
+
+wd:Q28859622 a wd:Q79529 ;
+    rdfs:label "darunavir / cobicistat"@en .
+
+wd:Q28859623 a wd:Q79529 ;
+    rdfs:label "emtricitabine / tenofovir alafenamide"@en .
+
+wd:Q28859624 a wd:Q79529 ;
+    rdfs:label "metformin / saxagliptin"@en .
+
+wd:Q28859628 a wd:Q79529 ;
+    rdfs:label "bimatoprost / timolol"@en .
+
+wd:Q28859630 a wd:Q79529 ;
+    rdfs:label "fluticasone furoate / vilanterol trifenatate"@en .
+
+wd:Q28859632 a wd:Q79529 ;
+    rdfs:label "fenofibrate / pravastatin"@en .
+
+wd:Q28859633 a wd:Q79529 ;
+    rdfs:label "pioglitazone / glimepiride"@en .
+
+wd:Q28859634 a wd:Q79529 ;
+    rdfs:label "amlodipine / valsartan / hydrochlorothiazide"@en .
+
+wd:Q28859635 a wd:Q79529 ;
+    rdfs:label "travoprost / timolol"@en .
+
+wd:Q28859636 a wd:Q79529 ;
+    rdfs:label "alogliptin / pioglitazone"@en .
+
+wd:Q28859653 a wd:Q79529 ;
+    rdfs:label "lamivudine / raltegravir"@en .
+
+wd:Q28859656 a wd:Q79529 ;
+    rdfs:label "elvitegravir / cobicistat / emtricitabine / tenofovir alafenamide"@en .
+
+wd:Q28859657 a wd:Q79529 ;
+    rdfs:label "aliskiren / hydrochlorothiazide"@en .
+
+wd:Q28859658 a wd:Q79529 ;
+    rdfs:label "insulin aspart / insulin degludec"@en .
+
+wd:Q28859659 a wd:Q79529 ;
+    rdfs:label "telmisartan / amlodipine"@en .
+
+wd:Q28859737 a wd:Q79529 ;
+    rdfs:label "japanese encephalitis virus strain sa 14-14-2 antigen (formaldehyde inactivated)"@en .
+
+wd:Q28859738 a wd:Q79529 ;
+    rdfs:label "hepatitis b virus hbsag surface protein antigen"@en .
+
+wd:Q28859739 a wd:Q79529 ;
+    rdfs:label "coagulation factor ix human"@en .
+
+wd:Q28859741 a wd:Q79529 ;
+    rdfs:label "varicella-zoster virus strain oka/merck live antigen"@en .
+
+wd:Q28859742 a wd:Q79529 ;
+    rdfs:label "albutrepenonacog alfa"@en .
+
+wd:Q2893427 a wd:Q1310239 ;
+    rdfs:label "lip"@en .
+
+wd:Q2896712 a wd:Q178266 ;
+    rdfs:label "bensulfuron-methyl"@en .
+
+wd:Q2902977 a wd:Q134856 ;
+    rdfs:label "bilastine"@en .
+
+wd:Q2920739 a wd:Q79529 ;
+    rdfs:label "Ringer's lactate solution"@en .
+
+wd:Q2926003 a wd:Q178266 ;
+    rdfs:label "bromacil"@en .
+
+wd:Q29417 a wd:Q134856 ;
+    rdfs:label "tretinoin"@en .
+
+wd:Q2956475 a wd:Q187661 ;
+    rdfs:label "m-bis(2,3-epoxypropoxy)benzene"@en .
+
+wd:Q2957662 a wd:Q79529 ;
+    rdfs:label "activated charcoal"@en .
+
+wd:Q2964148 a wd:Q178266 ;
+    rdfs:label "chloroxuron"@en .
+
+wd:Q29653780 a wd:Q11158 ;
+    rdfs:label "Q29653780"^^xsd:string .
+
+wd:Q2972826 a wd:Q178266 ;
+    rdfs:label "cinosulfuron"@en .
+
+wd:Q3007584 a wd:Q187661 ;
+    rdfs:label "cupferron"@en .
+
+wd:Q3008606 a wd:Q178266 ;
+    rdfs:label "cycloxydim"@en .
+
+wd:Q300902 a wd:Q134856 ;
+    rdfs:label "tris(2-carboxyethyl)phosphine"@en .
+
+wd:Q3012266 a wd:Q178266 ;
+    rdfs:label "dalapon"@en .
+
+wd:Q302204 a wd:Q178266 ;
+    rdfs:label "glufosin"@en .
+
+wd:Q3024527 a wd:Q178266 ;
+    rdfs:label "desmedipham"@en .
+
+wd:Q3024532 a wd:Q178266 ;
+    rdfs:label "desmetryn"@en .
+
+wd:Q3028190 a wd:Q178266 ;
+    rdfs:label "dimefuron"@en .
+
+wd:Q3028191 a wd:Q178266 ;
+    rdfs:label "dimethipin"@en .
+
+wd:Q3028193 a wd:Q178266 ;
+    rdfs:label "dimethachlor"@en .
+
+wd:Q3028201 a wd:Q178266 ;
+    rdfs:label "dimethenamid"@en .
+
+wd:Q30314388 a wd:Q79529 ;
+    rdfs:label "scillitoxin"@en .
+
+wd:Q30536 a wd:Q134856 ;
+    rdfs:label "urocanic acid"@en .
+
+wd:Q3054030 a wd:Q178266 ;
+    rdfs:label "Endothall"@en .
+
+wd:Q30582 a wd:Q134856 ;
+    rdfs:label "3-(4-oxo-4,5-dihydro-1H-imidazol-5-yl)propanoic acid"@en .
+
+wd:Q306051 a wd:Q187661 ;
+    rdfs:label "benzo[a]pyrene"@en .
+
+wd:Q3066718 a wd:Q178266 ;
+    rdfs:label "monosodium methyl arsenate"@en .
+
+wd:Q308976 a wd:Q79529 ;
+    rdfs:label "silica gel"@en .
+
+wd:Q3092689 a wd:Q134856,
+        wd:Q178266 ;
+    rdfs:label "fenoprop"@en .
+
+wd:Q309528 a wd:Q187661 ;
+    rdfs:label "p-cresidine"@en .
+
+wd:Q310828 a wd:Q174211 ;
+    rdfs:label "N-acetylneuraminic acid"@en .
+
+wd:Q311926 a wd:Q134856 ;
+    rdfs:label "succinylmonocholine"@en .
+
+wd:Q312125 a wd:Q134856 ;
+    rdfs:label "asparagusic acid"@en .
+
+wd:Q312229 a wd:Q134856 ;
+    rdfs:label "(RS)-thioctic acid"@en .
+
+wd:Q3148968 a wd:Q178266 ;
+    rdfs:label "imazamethabenz"@en .
+
+wd:Q31821560 a wd:Q174211 ;
+    rdfs:label "Dicinnamalacetone"@en .
+
+wd:Q319936 a wd:Q79529 ;
+    rdfs:label "waste product"@en .
+
+wd:Q321068 a wd:Q134856 ;
+    rdfs:label "abietic acid"@en .
+
+wd:Q323461 a wd:Q174211 ;
+    rdfs:label "musk"@en .
+
+wd:Q3265801 a wd:Q134856 ;
+    rdfs:label "firefly luciferin (ketone tautomer)"@en .
+
+wd:Q3267092 a wd:Q134856 ;
+    rdfs:label "olopatadine"@en .
+
+wd:Q3267971 a wd:Q187661 ;
+    rdfs:label "furylfuramide"@en .
+
+wd:Q3295808 a wd:Q187661 ;
+    rdfs:label "o-anisidine"@en .
+
+wd:Q3323027 a wd:Q134856,
+        wd:Q178266 ;
+    rdfs:label "imazapyr"@en .
+
+wd:Q3338507 a wd:Q174211 ;
+    rdfs:label "tar"@en .
+
+wd:Q3359786 a wd:Q79529 ;
+    rdfs:label "Q3359786"^^xsd:string .
+
+wd:Q3378713 a wd:Q79529 ;
+    rdfs:label "Phentermine/topiramate"@en .
+
+wd:Q340032 a wd:Q79529 ;
+    rdfs:label "mumia"@en .
+
+wd:Q341945 a wd:Q178266 ;
+    rdfs:label "aclonifen"@en .
+
+wd:Q342939 a wd:Q187661 ;
+    rdfs:label "acrylamide"@en .
+
+wd:Q342968 a wd:Q187661 ;
+    rdfs:label "acrylonitrile"@en .
+
+wd:Q343014 a wd:Q187661 ;
+    rdfs:label "ethyl acrylate"@en .
+
+wd:Q3479994 a wd:Q79529 ;
+    rdfs:label "sertaconazole"@en .
+
+wd:Q348922 a wd:Q187661 ;
+    rdfs:label "busulfan"@en .
+
+wd:Q3492574 a wd:Q134856 ;
+    rdfs:label "Chloroformic acid"@en .
+
+wd:Q3493048 a wd:Q134856 ;
+    rdfs:label "monensin"@en .
+
+wd:Q3511125 a wd:Q79529 ;
+    rdfs:label "seraticin"@en .
+
+wd:Q3514548 a wd:Q79529 ;
+    rdfs:label "sodium tallowate"@en .
+
+wd:Q352348 a wd:Q134856 ;
+    rdfs:label "adapalene"@en .
+
+wd:Q355445 a wd:Q35758 ;
+    rdfs:label "horn substance"@en .
+
+wd:Q3555984 a wd:Q178266 ;
+    rdfs:label "S-propyl dipropylcarbamothioate"@en .
+
+wd:Q357427 a wd:Q27166344 ;
+    rdfs:label "Adipocere"@en .
+
+wd:Q3596749 a wd:Q187661 ;
+    rdfs:label "1,8-dinitropyrene"@en .
+
+wd:Q3604498 a wd:Q134856 ;
+    rdfs:label "Ajulemic acid"@en .
+
+wd:Q3604519 a wd:Q134856 ;
+    rdfs:label "diphenolic acid"@en .
+
+wd:Q3604635 a wd:Q79529 ;
+    rdfs:label "chlorine solution"@en .
+
+wd:Q3609417 a wd:Q134856 ;
+    rdfs:label "aleglitazar"@en .
+
+wd:Q369682 a wd:Q79529 ;
+    rdfs:label "Spermaceti"@en .
+
+wd:Q369777 a wd:Q178266 ;
+    rdfs:label "pelargonic acid"@en .
+
+wd:Q3704503 a wd:Q187661 ;
+    rdfs:label "diaminodiphenyl ether"@en .
+
+wd:Q37111097 a wd:Q79529 ;
+    rdfs:label "NM-100"@en .
+
+wd:Q3731252 a wd:Q134856 ;
+    rdfs:label "erdosteine"@en .
+
+wd:Q3746837 a wd:Q134856 ;
+    rdfs:label "flunoxaprofen"@en .
+
+wd:Q38134095 a wd:Q11158 ;
+    rdfs:label "phosphatidic acid (group)"@en .
+
+wd:Q38135784 a wd:Q11158 ;
+    rdfs:label "arabic acid"@en .
+
+wd:Q3827439 a wd:Q134856 ;
+    rdfs:label "latamoxef"@en .
+
+wd:Q3836750 a wd:Q79529 ;
+    rdfs:label "Lopinavir/ritonavir"@en .
+
+wd:Q384111 a wd:Q134856 ;
+    rdfs:label "betulinic acid"@en .
+
+wd:Q3898423 a wd:Q134856 ;
+    rdfs:label "pazufloxacin"@en .
+
+wd:Q3902720 a wd:Q134856 ;
+    rdfs:label "pidotimod"@en .
+
+wd:Q3924793 a wd:Q134856 ;
+    rdfs:label "prulifloxacin"@en .
+
+wd:Q392685 a wd:Q178266 ;
+    rdfs:label "Agent Green"@en .
+
+wd:Q3976820 a wd:Q79529 ;
+    rdfs:label "Technetium (99mTc) sulesomab"@en .
+
+wd:Q4019783 a wd:Q79529 ;
+    rdfs:label "Lidocaine/prilocaine"@en .
+
+wd:Q405357 a wd:Q79529 ;
+    rdfs:label "apiol"@en .
+
+wd:Q407473 a wd:Q187661 ;
+    rdfs:label "ethylene oxide"@en .
+
+wd:Q407743 a wd:Q497173 ;
+    rdfs:label "phosphorous acid"@en .
+
+wd:Q407796 a wd:Q134856 ;
+    rdfs:label "valeric acid"@en .
+
+wd:Q408143 a wd:Q134856 ;
+    rdfs:label "3-(trimethylsilyl)propionic acid"@en .
+
+wd:Q408234 a wd:Q178266 ;
+    rdfs:label "hexazinone"@en .
+
+wd:Q408345 a wd:Q178266 ;
+    rdfs:label "bromoxynil"@en .
+
+wd:Q408524 a wd:Q187661 ;
+    rdfs:label "cyclophosphamide"@en .
+
+wd:Q408652 a wd:Q178266 ;
+    rdfs:label "atrazine"@en .
+
+wd:Q408767 a wd:Q187661 ;
+    rdfs:label "2-mercaptoimidazoline"@en .
+
+wd:Q40888808 a wd:Q5850078 ;
+    rdfs:label "miscarriage risk"@en .
+
+wd:Q408898 a wd:Q167198 ;
+    rdfs:label "pyrrolidine"@en .
+
+wd:Q409035 a wd:Q187661 ;
+    rdfs:label "antimony trioxide"@en .
+
+wd:Q409054 a wd:Q187661 ;
+    rdfs:label "Aldrin"@en .
+
+wd:Q409133 a wd:Q187661 ;
+    rdfs:label "chloroethane"@en .
+
+wd:Q409141 a wd:Q187661 ;
+    rdfs:label "aziridine"@en .
+
+wd:Q409184 a wd:Q187661 ;
+    rdfs:label "ethylbenzene"@en .
+
+wd:Q409298 a wd:Q187661 ;
+    rdfs:label "N,N-dimethylformamide"@en .
+
+wd:Q409390 a wd:Q178266 ;
+    rdfs:label "mesotrione"@en .
+
+wd:Q409401 a wd:Q187661 ;
+    rdfs:label "Butylated hydroxyanisole"@en .
+
+wd:Q409482 a wd:Q187661 ;
+    rdfs:label "benzophenone"@en .
+
+wd:Q409592 a wd:Q187661 ;
+    rdfs:label "DDE"@en .
+
+wd:Q409598 a wd:Q178266 ;
+    rdfs:label "metolachlor"@en .
+
+wd:Q409602 a wd:Q11158 ;
+    rdfs:label "boron trifluoride"@en .
+
+wd:Q409669 a wd:Q178266 ;
+    rdfs:label "paraquat dichloride"@en .
+
+wd:Q409682 a wd:Q187661 ;
+    rdfs:label "hexachlorobenzene"@en .
+
+wd:Q409799 a wd:Q187661 ;
+    rdfs:label "bromoform"@en .
+
+wd:Q410066 a wd:Q187661 ;
+    rdfs:label "benzidine"@en .
+
+wd:Q410089 a wd:Q187661 ;
+    rdfs:label "benzofuran"@en .
+
+wd:Q410107 a wd:Q187661 ;
+    rdfs:label "cumene"@en .
+
+wd:Q410400 a wd:Q187661 ;
+    rdfs:label "phenytoin"@en .
+
+wd:Q410465 a wd:Q134856 ;
+    rdfs:label "isonicotinic acid"@en .
+
+wd:Q410646 a wd:Q134856 ;
+    rdfs:label "ranelic acid"@en .
+
+wd:Q410670 a wd:Q187661 ;
+    rdfs:label "Parachlorobenzotrifluoride"@en .
+
+wd:Q410768 a wd:Q79529 ;
+    rdfs:label "Xanthan gum"@en .
+
+wd:Q410871 a wd:Q187661 ;
+    rdfs:label "chloroprene"@en .
+
+wd:Q410996 a wd:Q178266 ;
+    rdfs:label "oryzalin"@en .
+
+wd:Q411064 a wd:Q187661 ;
+    rdfs:label "androstenedione"@en .
+
+wd:Q411092 a wd:Q497173 ;
+    rdfs:label "pyrophosphoric acid"@en .
+
+wd:Q411214 a wd:Q187661 ;
+    rdfs:label "cobalt(II) sulfate"@en .
+
+wd:Q411273 a wd:Q178266 ;
+    rdfs:label "chlorotoluron"@en .
+
+wd:Q411283 a wd:Q187661 ;
+    rdfs:label "cobalt(II) oxide"@en .
+
+wd:Q4112922 a wd:Q27166344 ;
+    rdfs:label "Cytoplasmic inclusion"@en .
+
+wd:Q411435 a wd:Q178266 ;
+    rdfs:label "terbuthylazine"@en .
+
+wd:Q411542 a wd:Q187661 ;
+    rdfs:label "iprodione"@en .
+
+wd:Q411588 a wd:Q134856 ;
+    rdfs:label "eltrombopag"@en .
+
+wd:Q411659 a wd:Q187661 ;
+    rdfs:label "daunorubicin"@en .
+
+wd:Q411727 a wd:Q178266 ;
+    rdfs:label "chlorthiamid"@en .
+
+wd:Q411754 a wd:Q187661 ;
+    rdfs:label "ethoprophos"@en .
+
+wd:Q411909 a wd:Q134856 ;
+    rdfs:label "Salinomycin"@en .
+
+wd:Q411950 a wd:Q178266 ;
+    rdfs:label "butachlor"@en .
+
+wd:Q412050 a wd:Q134856 ;
+    rdfs:label "epoprostenol"@en .
+
+wd:Q412078 a wd:Q11158 ;
+    rdfs:label "carbamic acid"@en .
+
+wd:Q412139 a wd:Q134856 ;
+    rdfs:label "2-(phosphonooxy)-2-propenoic acid"@en .
+
+wd:Q412208 a wd:Q134856 ;
+    rdfs:label "lisinopril"@en .
+
+wd:Q412231 a wd:Q134856 ;
+    rdfs:label "EDDS"@en .
+
+wd:Q412245 a wd:Q187661 ;
+    rdfs:label "bromoethane"@en .
+
+wd:Q412260 a wd:Q187661 ;
+    rdfs:label "benzyl chloride"@en .
+
+wd:Q412340 a wd:Q187661 ;
+    rdfs:label "Chloral hydrate"@en .
+
+wd:Q412415 a wd:Q187661 ;
+    rdfs:label "cisplatin"@en .
+
+wd:Q412432 a wd:Q178266 ;
+    rdfs:label "metam-sodium"@en .
+
+wd:Q412666 a wd:Q134856 ;
+    rdfs:label "ramipril"@en .
+
+wd:Q412677 a wd:Q134856 ;
+    rdfs:label "pitavastatin"@en .
+
+wd:Q412845 a wd:Q187661 ;
+    rdfs:label "dichloroacetic acid"@en .
+
+wd:Q413178 a wd:Q134856 ;
+    rdfs:label "diacerein"@en .
+
+wd:Q4133090 a wd:Q79529 ;
+    rdfs:label "Pharmaceutical preparation of gamma-Aminobutyric acid"@en .
+
+wd:Q413421 a wd:Q187661 ;
+    rdfs:label "dimethyl sulfate"@en .
+
+wd:Q413500 a wd:Q187661 ;
+    rdfs:label "O-tolidine"@en .
+
+wd:Q413507 a wd:Q178266 ;
+    rdfs:label "propanil"@en .
+
+wd:Q413515 a wd:Q187661 ;
+    rdfs:label "4-chloroaniline"@en .
+
+wd:Q413552 a wd:Q134856 ;
+    rdfs:label "glyoxylic acid"@en .
+
+wd:Q413616 a wd:Q79529 ;
+    rdfs:label "Polysorbate 20"@en .
+
+wd:Q413847 a wd:Q187661 ;
+    rdfs:label "hydrazine sulfate"@en .
+
+wd:Q4138771 a wd:Q5850078 ;
+    rdfs:label "list of causes of hypoglycemia"@en .
+
+wd:Q413995 a wd:Q79529 ;
+    rdfs:label "aniline black"@en .
+
+wd:Q414023 a wd:Q178266 ;
+    rdfs:label "nitrofen"@en .
+
+wd:Q414042 a wd:Q134856 ;
+    rdfs:label "okadaic acid"@en .
+
+wd:Q4140494 a wd:Q187661 ;
+    rdfs:label "dibenz[a,h]anthracene"@en .
+
+wd:Q414116 a wd:Q187661 ;
+    rdfs:label "trans-caffeic acid"@en .
+
+wd:Q414195 a wd:Q187661 ;
+    rdfs:label "2-phenylpropene"@en .
+
+wd:Q414207 a wd:Q134856 ;
+    rdfs:label "crotonic acid"@en .
+
+wd:Q414242 a wd:Q174211 ;
+    rdfs:label "(−)-cathinone"@en .
+
+wd:Q414414 a wd:Q134856 ;
+    rdfs:label "ectoine"@en .
+
+wd:Q414562 a wd:Q79529 ;
+    rdfs:label "resmethrin"@en .
+
+wd:Q414584 a wd:Q178266 ;
+    rdfs:label "bensulide"@en .
+
+wd:Q414591 a wd:Q187661 ;
+    rdfs:label "bromate ion"@en .
+
+wd:Q414986 a wd:Q187661 ;
+    rdfs:label "estrone"@en .
+
+wd:Q415090 a wd:Q187661 ;
+    rdfs:label "carbaril"@en .
+
+wd:Q415111 a wd:Q178266 ;
+    rdfs:label "dinoseb"@en .
+
+wd:Q415122 a wd:Q134856 ;
+    rdfs:label "fexofenadine"@en .
+
+wd:Q415159 a wd:Q134856 ;
+    rdfs:label "rosuvastatin"@en .
+
+wd:Q415341 a wd:Q187661 ;
+    rdfs:label "Chlordimeform"@en .
+
+wd:Q415378 a wd:Q187661 ;
+    rdfs:label "lomustine"@en .
+
+wd:Q415465 a wd:Q187661 ;
+    rdfs:label "chrysene"@en .
+
+wd:Q415472 a wd:Q187661 ;
+    rdfs:label "fenoxycarb"@en .
+
+wd:Q415563 a wd:Q187661 ;
+    rdfs:label "ethinylestradiol"@en .
+
+wd:Q415837 a wd:Q134856 ;
+    rdfs:label "lysergic acid"@en .
+
+wd:Q415869 a wd:Q187661 ;
+    rdfs:label "carmustine"@en .
+
+wd:Q415939 a wd:Q187661 ;
+    rdfs:label "chlorambucilddv"@en .
+
+wd:Q415970 a wd:Q134856 ;
+    rdfs:label "candesartan"@en .
+
+wd:Q415988 a wd:Q187661 ;
+    rdfs:label "hexachloroethane"@en .
+
+wd:Q416086 a wd:Q187661 ;
+    rdfs:label "hexamethylphosphoramide triamide"@en .
+
+wd:Q416096 a wd:Q187661 ;
+    rdfs:label "griseofulvin"@en .
+
+wd:Q416160 a wd:Q178266 ;
+    rdfs:label "simazine"@en .
+
+wd:Q416231 a wd:Q178266 ;
+    rdfs:label "dichlobenil"@en .
+
+wd:Q416254 a wd:Q131656 ;
+    rdfs:label "dimethyl carbonate"@en .
+
+wd:Q416260 a wd:Q134856 ;
+    rdfs:label "ursolic acid"@en .
+
+wd:Q416291 a wd:Q187661 ;
+    rdfs:label "indium phosphide"@en .
+
+wd:Q416304 a wd:Q178266 ;
+    rdfs:label "potassium cyanate"@en .
+
+wd:Q416393 a wd:Q187661 ;
+    rdfs:label "hexachlorobutadiene"@en .
+
+wd:Q416427 a wd:Q134856 ;
+    rdfs:label "cromolyn"@en .
+
+wd:Q416451 a wd:Q187661 ;
+    rdfs:label "azacitidine"@en .
+
+wd:Q416554 a wd:Q134856 ;
+    rdfs:label "dinoprostone"@en .
+
+wd:Q416626 a wd:Q187661 ;
+    rdfs:label "2,4-dinitrotoluene"@en .
+
+wd:Q416643 a wd:Q187661 ;
+    rdfs:label "ethyl methanesulfonate"@en .
+
+wd:Q416682 a wd:Q134856 ;
+    rdfs:label "picolinic acid"@en .
+
+wd:Q416956 a wd:Q187661 ;
+    rdfs:label "p-dimethylaminoazobenzene"@en .
+
+wd:Q417010 a wd:Q174211 ;
+    rdfs:label "methylenedioxypyrovalerone"@en .
+
+wd:Q417134 a wd:Q187661 ;
+    rdfs:label "chlordane"@en .
+
+wd:Q417157 a wd:Q79529 ;
+    rdfs:label "toxaphene"@en .
+
+wd:Q417296 a wd:Q134856 ;
+    rdfs:label "febuxostat"@en .
+
+wd:Q417426 a wd:Q187661 ;
+    rdfs:label "bromodichloromethane"@en .
+
+wd:Q417640 a wd:Q187661 ;
+    rdfs:label "ganciclovir"@en .
+
+wd:Q417682 a wd:Q187661 ;
+    rdfs:label "1,1-dichloro-2,2-bis(p-chlorophenyl)ethane"@en .
+
+wd:Q417718 a wd:Q79529 ;
+    rdfs:label "Indium tin oxide"@en .
+
+wd:Q417891 a wd:Q187661 ;
+    rdfs:label "heptachlor"@en .
+
+wd:Q417942 a wd:Q134856 ;
+    rdfs:label "Fluvastatin"@en .
+
+wd:Q418035 a wd:Q134856 ;
+    rdfs:label "pimaric acid"@en .
+
+wd:Q418247 a wd:Q178266 ;
+    rdfs:label "trifluralin"@en .
+
+wd:Q418265 a wd:Q187661 ;
+    rdfs:label "glycidol"@en .
+
+wd:Q418320 a wd:Q187661 ;
+    rdfs:label "chlorothalonil"@en .
+
+wd:Q418348 a wd:Q134856 ;
+    rdfs:label "perfluorooctanoic acid"@en .
+
+wd:Q41835868 a wd:Q79529 ;
+    rdfs:label "titanium dioxide nanoparticle"@en .
+
+wd:Q418437 a wd:Q187661 ;
+    rdfs:label "diethanolamine"@en .
+
+wd:Q418492 a wd:Q187661 ;
+    rdfs:label "diethylhexyl phthalate"@en .
+
+wd:Q418628 a wd:Q134856 ;
+    rdfs:label "oleanolic acid"@en .
+
+wd:Q418817 a wd:Q187661 ;
+    rdfs:label "etoposide"@en .
+
+wd:Q418970 a wd:Q79529 ;
+    rdfs:label "reboxetine"@en .
+
+wd:Q419495 a wd:Q187661 ;
+    rdfs:label "estragole"@en .
+
+wd:Q419643 a wd:Q134856 ;
+    rdfs:label "amineptine hydrochloride"@en .
+
+wd:Q419732 a wd:Q178266,
+        wd:Q187661 ;
+    rdfs:label "acetochlor"@en .
+
+wd:Q4198762 a wd:Q134856 ;
+    rdfs:label "isopimaric acid"@en .
+
+wd:Q420028 a wd:Q134856 ;
+    rdfs:label "Ecgonine"@en .
+
+wd:Q420066 a wd:Q174211 ;
+    rdfs:label "sodium stearate"@en .
+
+wd:Q420082 a wd:Q134856 ;
+    rdfs:label "benoxaprofen"@en .
+
+wd:Q420215 a wd:Q134856 ;
+    rdfs:label "fluoroacetic acid"@en .
+
+wd:Q420233 a wd:Q174211 ;
+    rdfs:label "geosmin"@en .
+
+wd:Q420387 a wd:Q134856 ;
+    rdfs:label "foscarnet"@en .
+
+wd:Q4205882 a wd:Q79529 ;
+    rdfs:label "pharmaceutical preparation of potassium iodide"@en .
+
+wd:Q420622 a wd:Q187661 ;
+    rdfs:label "dichlorvos"@en .
+
+wd:Q420680 a wd:Q178266,
+        wd:Q187661 ;
+    rdfs:label "cacodylic acid"@en .
+
+wd:Q420705 a wd:Q187661 ;
+    rdfs:label "crystal violet"@en .
+
+wd:Q420762 a wd:Q187661 ;
+    rdfs:label "(2S)-Fumonisin B1"@en .
+
+wd:Q420857 a wd:Q79529 ;
+    rdfs:label "sugammadex sodium"@en .
+
+wd:Q421091 a wd:Q134856 ;
+    rdfs:label "levocetirizine"@en .
+
+wd:Q421119 a wd:Q134856 ;
+    rdfs:label "captopril"@en .
+
+wd:Q421178 a wd:Q134856 ;
+    rdfs:label "porphobilinogen"@en .
+
+wd:Q421204 a wd:Q178266,
+        wd:Q187661 ;
+    rdfs:label "alachlor"@en .
+
+wd:Q421338 a wd:Q187661 ;
+    rdfs:label "diethyl sulfate"@en .
+
+wd:Q421450 a wd:Q178266 ;
+    rdfs:label "metribuzin"@en .
+
+wd:Q421476 a wd:Q178266 ;
+    rdfs:label "linuron"@en .
+
+wd:Q421520 a wd:Q178266 ;
+    rdfs:label "benfluralin"@en .
+
+wd:Q421576 a wd:Q187661 ;
+    rdfs:label "enilconazole"@en .
+
+wd:Q421663 a wd:Q134856 ;
+    rdfs:label "vigabatrin"@en .
+
+wd:Q42168353 a wd:Q79529 ;
+    rdfs:label "Q42168353"^^xsd:string .
+
+wd:Q421721 a wd:Q187661 ;
+    rdfs:label "acetamide"@en .
+
+wd:Q422071 a wd:Q79529 ;
+    rdfs:label "Guar gum"@en .
+
+wd:Q42209159 a wd:Q174211 ;
+    rdfs:label "Cerebrosterol"@en .
+
+wd:Q422416 a wd:Q187661 ;
+    rdfs:label "17β-estradiol"@en .
+
+wd:Q422755 a wd:Q187661 ;
+    rdfs:label "chloral"@en .
+
+wd:Q422819 a wd:Q187661 ;
+    rdfs:label "gallium arsenide"@en .
+
+wd:Q422956 a wd:Q134856 ;
+    rdfs:label "propionic acid"@en .
+
+wd:Q423075 a wd:Q134856 ;
+    rdfs:label "cetirizine"@en .
+
+wd:Q423083 a wd:Q187661 ;
+    rdfs:label "epichlorohydrin"@en .
+
+wd:Q423174 a wd:Q187661 ;
+    rdfs:label "anthraquinone"@en .
+
+wd:Q423227 a wd:Q79529 ;
+    rdfs:label "D-gulose"@en .
+
+wd:Q423314 a wd:Q178266,
+        wd:Q187661 ;
+    rdfs:label "amitrole"@en .
+
+wd:Q423393 a wd:Q134856 ;
+    rdfs:label "sulbactam"@en .
+
+wd:Q423412 a wd:Q79529 ;
+    rdfs:label "Pristinamycin"@en .
+
+wd:Q423439 a wd:Q134856 ;
+    rdfs:label "cerivastatin"@en .
+
+wd:Q423445 a wd:Q187661 ;
+    rdfs:label "cidofovir"@en .
+
+wd:Q423741 a wd:Q79529 ;
+    rdfs:label "procaine"@en .
+
+wd:Q423787 a wd:Q134856 ;
+    rdfs:label "piperacillin"@en .
+
+wd:Q423839 a wd:Q187661 ;
+    rdfs:label "gyromitrin"@en .
+
+wd:Q423892 a wd:Q187661 ;
+    rdfs:label "chlordecone"@en .
+
+wd:Q423895 a wd:Q178266 ;
+    rdfs:label "pendimethalin"@en .
+
+wd:Q423989 a wd:Q187661 ;
+    rdfs:label "diethylstilbestrol"@en .
+
+wd:Q423992 a wd:Q187661 ;
+    rdfs:label "dieldrin"@en .
+
+wd:Q424003 a wd:Q187661 ;
+    rdfs:label "carbazole"@en .
+
+wd:Q424057 a wd:Q79529 ;
+    rdfs:label "Sipuleucel-T"@en .
+
+wd:Q424210 a wd:Q187661 ;
+    rdfs:label "aristolochic acids"@en .
+
+wd:Q424372 a wd:Q187661 ;
+    rdfs:label "daminozide"@en .
+
+wd:Q424556 a wd:Q79529 ;
+    rdfs:label "Allomone"@en .
+
+wd:Q424662 a wd:Q134856,
+        wd:Q178266 ;
+    rdfs:label "picloram"@en .
+
+wd:Q424684 a wd:Q178266 ;
+    rdfs:label "dicamba"@en .
+
+wd:Q424699 a wd:Q134856 ;
+    rdfs:label "potassium biphthalate"@en .
+
+wd:Q424784 a wd:Q178266 ;
+    rdfs:label "S-ethyl dipropylthiocarbamate"@en .
+
+wd:Q424793 a wd:Q178266 ;
+    rdfs:label "diflufenican"@en .
+
+wd:Q424796 a wd:Q178266 ;
+    rdfs:label "chlorsulfuron"@en .
+
+wd:Q424814 a wd:Q178266 ;
+    rdfs:label "dazomet"@en .
+
+wd:Q424830 a wd:Q178266 ;
+    rdfs:label "bifenox"@en .
+
+wd:Q424848 a wd:Q178266 ;
+    rdfs:label "cyanazine"@en .
+
+wd:Q424951 a wd:Q134856,
+        wd:Q178266 ;
+    rdfs:label "MCPB"@en .
+
+wd:Q424993 a wd:Q187661 ;
+    rdfs:label "1,2-diphenylhydrazine"@en .
+
+wd:Q425172 a wd:Q497173 ;
+    rdfs:label "orthotelluric acid"@en .
+
+wd:Q425358 a wd:Q11158 ;
+    rdfs:label "Polythionic acid"@en .
+
+wd:Q425389 a wd:Q178266,
+        wd:Q187661 ;
+    rdfs:label "diuron"@en .
+
+wd:Q425517 a wd:Q134856 ;
+    rdfs:label "retinoic acid"@en .
+
+wd:Q425536 a wd:Q134856 ;
+    rdfs:label "orotic acid"@en .
+
+wd:Q426095 a wd:Q79529 ;
+    rdfs:label "phosphatidylethanolamines"@en .
+
+wd:Q426111 a wd:Q187661 ;
+    rdfs:label "benzotrichloride"@en .
+
+wd:Q426485 a wd:Q187661 ;
+    rdfs:label "folpet"@en .
+
+wd:Q4274125 a wd:Q79529 ;
+    rdfs:label "Pharmaceutical preparation of magnesium carbonate"@en .
+
+wd:Q429022 a wd:Q187661 ;
+    rdfs:label "rhodamine B"@en .
+
+wd:Q4345935 a wd:Q79529 ;
+    rdfs:label "Hydrolyzed protein"@en .
+
+wd:Q4353545 a wd:Q134856 ;
+    rdfs:label "3-phosphonooxypyruvic acid"@en .
+
+wd:Q4382200 a wd:Q187661 ;
+    rdfs:label "2-acetylaminofluorene"@en .
+
+wd:Q4391206 a wd:Q134856 ;
+    rdfs:label "hipposudoric acid"@en .
+
+wd:Q4392804 a wd:Q178266 ;
+    rdfs:label "thiobencarb"@en .
+
+wd:Q4437984 a wd:Q79529 ;
+    rdfs:label "continuous medium"@en .
+
+wd:Q4454244 a wd:Q79529 ;
+    rdfs:label "tellurophene"@en .
+
+wd:Q4457004 a wd:Q79529 ;
+    rdfs:label "pharmaceutical preparation of thyamine"@en .
+
+wd:Q445722 a wd:Q79529 ;
+    rdfs:label "Altstoff"@en .
+
+wd:Q44822059 a wd:Q134856 ;
+    rdfs:label "amineptine"@en .
+
+wd:Q4498216 a wd:Q79529 ;
+    rdfs:label "Pharmaceutical preparation od calcium chloride"@en .
+
+wd:Q4544209 a wd:Q134856 ;
+    rdfs:label "(6S)-6-Fluoroshikimic acid"@en .
+
+wd:Q4547226 a wd:Q134856 ;
+    rdfs:label "11-nor-9-Carboxy-THC"@en .
+
+wd:Q457556 a wd:Q79529 ;
+    rdfs:label "red phosphorus"@en .
+
+wd:Q45816 a wd:Q134856 ;
+    rdfs:label "Boswellic acid"@en .
+
+wd:Q4602542 a wd:Q134856 ;
+    rdfs:label "succinic semialdehyde"@en .
+
+wd:Q4634163 a wd:Q134856 ;
+    rdfs:label "3-mercaptopyruvic acid"@en .
+
+wd:Q4637072 a wd:Q134856 ;
+    rdfs:label "4-(4-Methylphenyl)-4-oxobutanoic acid"@en .
+
+wd:Q4637113 a wd:Q134856 ;
+    rdfs:label "4-chlorophenoxyacetic acid"@en .
+
+wd:Q4637187 a wd:Q187661 ;
+    rdfs:label "4-Chloronitrobenzene"@en .
+
+wd:Q4667980 a wd:Q134856 ;
+    rdfs:label "abitesartan"@en .
+
+wd:Q4673049 a wd:Q134856 ;
+    rdfs:label "aceburic acid"@en .
+
+wd:Q4673254 a wd:Q79529 ;
+    rdfs:label "Acetic acid/hydrocortisone"@en .
+
+wd:Q4673282 a wd:Q134856 ;
+    rdfs:label "acetoxolone"@en .
+
+wd:Q4673296 a wd:Q79529 ;
+    rdfs:label "acetylated lanolin alcohol"@en .
+
+wd:Q47004220 a wd:Q79529 ;
+    rdfs:label "silicocarnotite"@en .
+
+wd:Q4726988 a wd:Q79529 ;
+    rdfs:label "Aliskiren/amlodipine/hydrochlorothiazide"@en .
+
+wd:Q4726990 a wd:Q79529 ;
+    rdfs:label "Aliskiren/amlodipine"@en .
+
+wd:Q473252 a wd:Q79529 ;
+    rdfs:label "enriched uranium"@en .
+
+wd:Q4745982 a wd:Q134856 ;
+    rdfs:label "amfonelic acid"@en .
+
+wd:Q4746469 a wd:Q134856,
+        wd:Q178266 ;
+    rdfs:label "aminopyralid"@en .
+
+wd:Q4746471 a wd:Q134856 ;
+    rdfs:label "5-deoxy-5-aminoshikimic acid"@en .
+
+wd:Q4747075 a wd:Q79529 ;
+    rdfs:label "amlodipine/valsartan"@en .
+
+wd:Q47512 a wd:Q134856 ;
+    rdfs:label "acetic acid"@en .
+
+wd:Q4803950 a wd:Q178266 ;
+    rdfs:label "metsulfuron-methyl"@en .
+
+wd:Q48318 a wd:Q174211 ;
+    rdfs:label "urea"@en .
+
+wd:Q4832281 a wd:Q187661 ;
+    rdfs:label "Azaserine"@en .
+
+wd:Q4834614 a wd:Q134856 ;
+    rdfs:label "bapta"@en .
+
+wd:Q48561349 a wd:Q79529 ;
+    rdfs:label "Nitric Oxide / Nitrogen"@en .
+
+wd:Q48561426 a wd:Q79529 ;
+    rdfs:label "Acetaminophen / butalbital"@en .
+
+wd:Q48561428 a wd:Q79529 ;
+    rdfs:label "eprosartan / Hydrochlorothiazide"@en .
+
+wd:Q48563713 a wd:Q79529 ;
+    rdfs:label "Levonordefrin / Mepivacaine"@en .
+
+wd:Q48563715 a wd:Q79529 ;
+    rdfs:label "Metformin / pioglitazone"@en .
+
+wd:Q48564239 a wd:Q79529 ;
+    rdfs:label "acetaminophen/tramadol"@en .
+
+wd:Q48564241 a wd:Q79529 ;
+    rdfs:label "sofosbuvir / velpatasvir / voxilaprevir"@en .
+
+wd:Q48564242 a wd:Q79529 ;
+    rdfs:label "Epinephrine / Prilocaine"@en .
+
+wd:Q48564244 a wd:Q79529 ;
+    rdfs:label "Fluoxetine / olanzapine"@en .
+
+wd:Q48566623 a wd:Q79529 ;
+    rdfs:label "Dexamethasone / Tobramycin"@en .
+
+wd:Q48566624 a wd:Q79529 ;
+    rdfs:label "Codeine / Pseudoephedrine / Triprolidine"@en .
+
+wd:Q48566627 a wd:Q79529 ;
+    rdfs:label "Betamethasone / calcipotriene"@en .
+
+wd:Q48566629 a wd:Q79529 ;
+    rdfs:label "Aspirin / butalbital / Caffeine / Codeine"@en .
+
+wd:Q48566631 a wd:Q79529 ;
+    rdfs:label "Dexamethasone / Neomycin / Polymyxin B"@en .
+
+wd:Q48566633 a wd:Q79529 ;
+    rdfs:label "isoniazid / Rifampin"@en .
+
+wd:Q48566634 a wd:Q79529 ;
+    rdfs:label "Articaine / Epinephrine"@en .
+
+wd:Q48566635 a wd:Q79529 ;
+    rdfs:label "penicillin G benzathine / penicillin G procaine"@en .
+
+wd:Q48566638 a wd:Q79529 ;
+    rdfs:label "Naproxen / Sumatriptan"@en .
+
+wd:Q48566639 a wd:Q79529 ;
+    rdfs:label "Aspirin / Caffeine / dihydrocodeine"@en .
+
+wd:Q48566641 a wd:Q79529 ;
+    rdfs:label "Clindamycin / Tretinoin"@en .
+
+wd:Q48566642 a wd:Q79529 ;
+    rdfs:label "Aspirin / Omeprazole"@en .
+
+wd:Q48566646 a wd:Q79529 ;
+    rdfs:label "Guaifenesin / Hydrocodone / Pseudoephedrine"@en .
+
+wd:Q48566647 a wd:Q79529 ;
+    rdfs:label "Acetaminophen / Caffeine / dihydrocodeine"@en .
+
+wd:Q48566649 a wd:Q79529 ;
+    rdfs:label "Loratadine / Pseudoephedrine"@en .
+
+wd:Q48566651 a wd:Q79529 ;
+    rdfs:label "Ciprofloxacin / Dexamethasone"@en .
+
+wd:Q48566653 a wd:Q79529 ;
+    rdfs:label "Albuterol / Ipratropium"@en .
+
+wd:Q48566655 a wd:Q79529 ;
+    rdfs:label "Enalapril / Hydrochlorothiazide"@en .
+
+wd:Q48566657 a wd:Q79529 ;
+    rdfs:label "Hydrochlorothiazide / Triamterene"@en .
+
+wd:Q48566658 a wd:Q79529 ;
+    rdfs:label "Aspirin / Dipyridamole"@en .
+
+wd:Q48566660 a wd:Q79529 ;
+    rdfs:label "Epinephrine / Lidocaine"@en .
+
+wd:Q48566661 a wd:Q79529 ;
+    rdfs:label "Amitriptyline / Chlordiazepoxide"@en .
+
+wd:Q48566663 a wd:Q79529 ;
+    rdfs:label "dalfopristin / quinupristin"@en .
+
+wd:Q48566664 a wd:Q79529 ;
+    rdfs:label "fexofenadine / Pseudoephedrine"@en .
+
+wd:Q48566666 a wd:Q79529 ;
+    rdfs:label "Ciprofloxacin / fluocinolone"@en .
+
+wd:Q48566667 a wd:Q79529 ;
+    rdfs:label "Acetaminophen / butalbital / Caffeine / Codeine"@en .
+
+wd:Q48566668 a wd:Q79529 ;
+    rdfs:label "Cyclopentolate / Phenylephrine"@en .
+
+wd:Q48566670 a wd:Q79529 ;
+    rdfs:label "Benzoyl Peroxide / Clindamycin"@en .
+
+wd:Q48566671 a wd:Q79529 ;
+    rdfs:label "dorzolamide / Timolol"@en .
+
+wd:Q48566672 a wd:Q79529 ;
+    rdfs:label "Chlorpheniramine / Hydrocodone / Pseudoephedrine"@en .
+
+wd:Q48566673 a wd:Q79529 ;
+    rdfs:label "Betamethasone / Clotrimazole"@en .
+
+wd:Q48566674 a wd:Q79529 ;
+    rdfs:label "Bupivacaine / Epinephrine"@en .
+
+wd:Q48566676 a wd:Q79529 ;
+    rdfs:label "Aspirin / butalbital / Caffeine"@en .
+
+wd:Q48566679 a wd:Q79529 ;
+    rdfs:label "Ethinyl Estradiol / Etonogestrel"@en .
+
+wd:Q48566680 a wd:Q79529 ;
+    rdfs:label "olodaterol / tiotropium"@en .
+
+wd:Q48566682 a wd:Q79529 ;
+    rdfs:label "Hydrochlorothiazide / quinapril"@en .
+
+wd:Q48566683 a wd:Q79529 ;
+    rdfs:label "Betamethasone / Betamethasone acetate"@en .
+
+wd:Q48566689 a wd:Q79529 ;
+    rdfs:label "isoniazid / Pyrazinamide / Rifampin"@en .
+
+wd:Q48566693 a wd:Q79529 ;
+    rdfs:label "Hydrochlorothiazide / Losartan"@en .
+
+wd:Q48566694 a wd:Q79529 ;
+    rdfs:label "Hydrochlorothiazide / valsartan"@en .
+
+wd:Q48566696 a wd:Q79529 ;
+    rdfs:label "Hydrochlorothiazide / Spironolactone"@en .
+
+wd:Q48566697 a wd:Q79529 ;
+    rdfs:label "acrivastine / Pseudoephedrine"@en .
+
+wd:Q48566700 a wd:Q79529 ;
+    rdfs:label "Hydrochlorothiazide / Lisinopril"@en .
+
+wd:Q48566702 a wd:Q79529 ;
+    rdfs:label "Hydrocortisone / Neomycin / Polymyxin B"@en .
+
+wd:Q48566704 a wd:Q79529 ;
+    rdfs:label "Insulin Glargine / Lixisenatide"@en .
+
+wd:Q48566705 a wd:Q79529 ;
+    rdfs:label "ezetimibe / Simvastatin"@en .
+
+wd:Q48566706 a wd:Q79529 ;
+    rdfs:label "Ciprofloxacin / Hydrocortisone"@en .
+
+wd:Q48566708 a wd:Q79529 ;
+    rdfs:label "Hydrocortisone / pramoxine"@en .
+
+wd:Q48566709 a wd:Q79529 ;
+    rdfs:label "trandolapril / Verapamil"@en .
+
+wd:Q48566710 a wd:Q79529 ;
+    rdfs:label "Aspirin / Oxycodone"@en .
+
+wd:Q48566712 a wd:Q79529 ;
+    rdfs:label "Amlodipine / benazepril"@en .
+
+wd:Q48566714 a wd:Q79529 ;
+    rdfs:label "canagliflozin / Metformin"@en .
+
+wd:Q48566715 a wd:Q79529 ;
+    rdfs:label "Benzoyl Peroxide / Erythromycin"@en .
+
+wd:Q48566716 a wd:Q79529 ;
+    rdfs:label "Brompheniramine / Dextromethorphan / Pseudoephedrine"@en .
+
+wd:Q48566717 a wd:Q79529 ;
+    rdfs:label "Esomeprazole / Naproxen"@en .
+
+wd:Q48566719 a wd:Q79529 ;
+    rdfs:label "formoterol / Glycopyrrolate"@en .
+
+wd:Q48566720 a wd:Q79529 ;
+    rdfs:label "brimonidine / Timolol"@en .
+
+wd:Q48566724 a wd:Q79529 ;
+    rdfs:label "Amlodipine / Hydrochlorothiazide / olmesartan"@en .
+
+wd:Q48566725 a wd:Q79529 ;
+    rdfs:label "Lovastatin / Niacin"@en .
+
+wd:Q48566727 a wd:Q79529 ;
+    rdfs:label "Estradiol / Norethindrone"@en .
+
+wd:Q48566728 a wd:Q79529 ;
+    rdfs:label "Chlorpheniramine / Codeine"@en .
+
+wd:Q48566729 a wd:Q79529 ;
+    rdfs:label "Neomycin / Polymyxin B"@en .
+
+wd:Q48566731 a wd:Q79529 ;
+    rdfs:label "dolutegravir / Rilpivirine"@en .
+
+wd:Q48566733 a wd:Q79529 ;
+    rdfs:label "meropenem/vaborbactam"@en .
+
+wd:Q48566734 a wd:Q79529 ;
+    rdfs:label "ertugliflozin / sitagliptin"@en .
+
+wd:Q48566735 a wd:Q79529 ;
+    rdfs:label "Acetaminophen / Codeine"@en .
+
+wd:Q48566738 a wd:Q79529 ;
+    rdfs:label "Hydrochlorothiazide / Metoprolol"@en .
+
+wd:Q48566740 a wd:Q79529 ;
+    rdfs:label "dapagliflozin / saxagliptin"@en .
+
+wd:Q48566743 a wd:Q79529 ;
+    rdfs:label "Hydralazine / Isosorbide Dinitrate"@en .
+
+wd:Q48566747 a wd:Q79529 ;
+    rdfs:label "acetaminophen / butalbital / caffeine"@en .
+
+wd:Q48566749 a wd:Q79529 ;
+    rdfs:label "Acetaminophen / Hydrocodone"@en .
+
+wd:Q48566750 a wd:Q79529 ;
+    rdfs:label "Dutasteride / tamsulosin"@en .
+
+wd:Q48566752 a wd:Q79529 ;
+    rdfs:label "fluocinolone / hydroquinone / Tretinoin"@en .
+
+wd:Q48566754 a wd:Q79529 ;
+    rdfs:label "prednisolone / Sulfacetamide"@en .
+
+wd:Q48566756 a wd:Q79529 ;
+    rdfs:label "Hydrocodone / Ibuprofen"@en .
+
+wd:Q48566757 a wd:Q79529 ;
+    rdfs:label "Bisoprolol / Hydrochlorothiazide"@en .
+
+wd:Q48566759 a wd:Q79529 ;
+    rdfs:label "benazepril / Hydrochlorothiazide"@en .
+
+wd:Q48566761 a wd:Q79529 ;
+    rdfs:label "fluticasone / vilanterol"@en .
+
+wd:Q48566762 a wd:Q79529 ;
+    rdfs:label "Allopurinol / lesinurad"@en .
+
+wd:Q48566764 a wd:Q79529 ;
+    rdfs:label "p-Hydroxyamphetamine / Tropicamide"@en .
+
+wd:Q48566765 a wd:Q79529 ;
+    rdfs:label "ertugliflozin / Metformin"@en .
+
+wd:Q48566767 a wd:Q79529 ;
+    rdfs:label "azelastine / fluticasone"@en .
+
+wd:Q48566769 a wd:Q79529 ;
+    rdfs:label "Guaifenesin / Pseudoephedrine"@en .
+
+wd:Q48566770 a wd:Q79529 ;
+    rdfs:label "glyburide / metformin"@en .
+
+wd:Q48566771 a wd:Q79529 ;
+    rdfs:label "candesartan / Hydrochlorothiazide"@en .
+
+wd:Q48566774 a wd:Q79529 ;
+    rdfs:label "Chlorpheniramine / Hydrocodone"@en .
+
+wd:Q48566776 a wd:Q79529 ;
+    rdfs:label "Ethinyl Estradiol / Norethindrone"@en .
+
+wd:Q48566781 a wd:Q79529 ;
+    rdfs:label "Chlordiazepoxide / clidinium"@en .
+
+wd:Q48566783 a wd:Q79529 ;
+    rdfs:label "Acyclovir / Hydrocortisone"@en .
+
+wd:Q48566784 a wd:Q79529 ;
+    rdfs:label "Famotidine / Ibuprofen"@en .
+
+wd:Q48566789 a wd:Q79529 ;
+    rdfs:label "glecaprevir / pibrentasvir"@en .
+
+wd:Q48566790 a wd:Q79529 ;
+    rdfs:label "Lidocaine / Tetracaine"@en .
+
+wd:Q48566792 a wd:Q79529 ;
+    rdfs:label "Oxymetazoline / Tetracaine"@en .
+
+wd:Q48566794 a wd:Q79529 ;
+    rdfs:label "levothyroxine / liothyronine"@en .
+
+wd:Q48566795 a wd:Q79529 ;
+    rdfs:label "Morphine / Naltrexone"@en .
+
+wd:Q48566796 a wd:Q79529 ;
+    rdfs:label "fluocinolone / Neomycin"@en .
+
+wd:Q48566799 a wd:Q79529 ;
+    rdfs:label "Amlodipine / olmesartan"@en .
+
+wd:Q48566800 a wd:Q79529 ;
+    rdfs:label "loteprednol etabonate / Tobramycin"@en .
+
+wd:Q48566801 a wd:Q79529 ;
+    rdfs:label "fluticasone / umeclidinium / vilanterol"@en .
+
+wd:Q48566802 a wd:Q79529 ;
+    rdfs:label "amphetamine aspartate / amphetamine sulfate / dextroamphetamine saccharate / dextroamphetamine sulfate"@en .
+
+wd:Q48566803 a wd:Q79529 ;
+    rdfs:label "Acetaminophen / Oxycodone"@en .
+
+wd:Q48566806 a wd:Q79529 ;
+    rdfs:label "Ampicillin / Sulbactam"@en .
+
+wd:Q48566808 a wd:Q79529 ;
+    rdfs:label "Amlodipine / atorvastatin"@en .
+
+wd:Q48566809 a wd:Q79529 ;
+    rdfs:label "elbasvir / grazoprevir"@en .
+
+wd:Q48566811 a wd:Q79529 ;
+    rdfs:label "Chlorthalidone / Clonidine"@en .
+
+wd:Q48566813 a wd:Q79529 ;
+    rdfs:label "adapalene / Benzoyl Peroxide"@en .
+
+wd:Q48566814 a wd:Q79529 ;
+    rdfs:label "Doxylamine / pyridoxine"@en .
+
+wd:Q48566815 a wd:Q79529 ;
+    rdfs:label "Caffeine / Ergotamine"@en .
+
+wd:Q48566816 a wd:Q79529 ;
+    rdfs:label "Guaifenesin / Hydrocodone"@en .
+
+wd:Q48566821 a wd:Q79529 ;
+    rdfs:label "Sulfamethoxazole / Trimethoprim"@en .
+
+wd:Q48566822 a wd:Q79529 ;
+    rdfs:label "brimonidine / brinzolamide"@en .
+
+wd:Q48566823 a wd:Q79529 ;
+    rdfs:label "Niacin / Simvastatin"@en .
+
+wd:Q48566827 a wd:Q79529 ;
+    rdfs:label "hydrochlorothiazide / olmesartan"@en .
+
+wd:Q48566828 a wd:Q79529 ;
+    rdfs:label "azilsartan / Chlorthalidone"@en .
+
+wd:Q48566830 a wd:Q79529 ;
+    rdfs:label "Amlodipine / Perindopril"@en .
+
+wd:Q48566831 a wd:Q79529 ;
+    rdfs:label "Cetirizine / Pseudoephedrine"@en .
+
+wd:Q48719715 a wd:Q79529 ;
+    rdfs:label "formoterol / Mometasone"@en .
+
+wd:Q48719717 a wd:Q79529 ;
+    rdfs:label "Estradiol / Levonorgestrel"@en .
+
+wd:Q48832104 a wd:Q79529 ;
+    rdfs:label "Bacitracin / Neomycin / Polymyxin B"@en .
+
+wd:Q48832105 a wd:Q79529 ;
+    rdfs:label "Gentamicin / prednisolone"@en .
+
+wd:Q48832106 a wd:Q79529 ;
+    rdfs:label "Colistin / Hydrocortisone / Neomycin / THONZONIUM"@en .
+
+wd:Q48832108 a wd:Q79529 ;
+    rdfs:label "Bendroflumethiazide / Nadolol"@en .
+
+wd:Q48832109 a wd:Q79529 ;
+    rdfs:label "NITROFURANTOIN, MACROCRYSTALS / Nitrofurantoin, Monohydrate"@en .
+
+wd:Q48832111 a wd:Q79529 ;
+    rdfs:label "Bacitracin / Polymyxin B"@en .
+
+wd:Q48832112 a wd:Q79529 ;
+    rdfs:label "Bacitracin / Hydrocortisone / Neomycin / Polymyxin B"@en .
+
+wd:Q4890821 a wd:Q79529 ;
+    rdfs:label "Benzylpenicilloyl Polylysine"@en .
+
+wd:Q4919044 a wd:Q79529 ;
+    rdfs:label "bitterant"@en .
+
+wd:Q4941885 a wd:Q134856 ;
+    rdfs:label "Bongkrek acid"@en .
+
+wd:Q49546 a wd:Q174211 ;
+    rdfs:label "acetone"@en .
+
+wd:Q4968566 a wd:Q79529 ;
+    rdfs:label "Sorona"@en .
+
+wd:Q497073 a wd:Q11158,
+        wd:Q79529 ;
+    rdfs:label "oleum"@en .
+
+wd:Q4971946 a wd:Q178266 ;
+    rdfs:label "tritosulfuron"@en .
+
+wd:Q4982752 a wd:Q134856 ;
+    rdfs:label "Bucillamine"@en .
+
+wd:Q4998036 a wd:Q79529 ;
+    rdfs:label "bupropion/naltrexone"@en .
+
+wd:Q5023865 a wd:Q134856 ;
+    rdfs:label "Calostomal"@en .
+
+wd:Q5032033 a wd:Q134856 ;
+    rdfs:label "candoxatril"@en .
+
+wd:Q50350128 a wd:Q79529 ;
+    rdfs:label "dextran sulfate"@en .
+
+wd:Q5037845 a wd:Q134856 ;
+    rdfs:label "carbenzide"@en .
+
+wd:Q5037865 a wd:Q79529 ;
+    rdfs:label "Carbinoxamine/pseudoephedrine"@en .
+
+wd:Q5047587 a wd:Q134856 ;
+    rdfs:label "Carvonic acid"@en .
+
+wd:Q505199 a wd:Q79529 ;
+    rdfs:label "fat substitute"@en .
+
+wd:Q5057534 a wd:Q134856 ;
+    rdfs:label "celastrol"@en .
+
+wd:Q50679020 a wd:Q178266 ;
+    rdfs:label "Tordon 22K"@en .
+
+wd:Q5102912 a wd:Q178266 ;
+    rdfs:label "chloramben"@en .
+
+wd:Q5102985 a wd:Q187661 ;
+    rdfs:label "chlornaphazine"@en .
+
+wd:Q5103213 a wd:Q187661 ;
+    rdfs:label "chlorotrianisene"@en .
+
+wd:Q5103222 a wd:Q187661 ;
+    rdfs:label "chlorozotocin"@en .
+
+wd:Q5114537 a wd:Q134856 ;
+    rdfs:label "trans-(+)-chrysanthemic acid"@en .
+
+wd:Q5122816 a wd:Q134856 ;
+    rdfs:label "citrazinic acid"@en .
+
+wd:Q5127848 a wd:Q19478619 ;
+    rdfs:label "class"@en .
+
+wd:Q5145911 a wd:Q79529 ;
+    rdfs:label "Collagenase clostridium histolyticum"@en .
+
+wd:Q51680017 a wd:Q79529 ;
+    rdfs:label "gaupsin"@en .
+
+wd:Q5168808 a wd:Q79529 ;
+    rdfs:label "Copper usnate"@en .
+
+wd:Q5172198 a wd:Q134856 ;
+    rdfs:label "Coronatine"@en .
+
+wd:Q5196864 a wd:Q79529 ;
+    rdfs:label "Cutler's resin"@en .
+
+wd:Q5198965 a wd:Q134856 ;
+    rdfs:label "Cycloprop-2-ene carboxylic acid"@en .
+
+wd:Q5200280 a wd:Q134856 ;
+    rdfs:label "3-cyclopentylpropionic acid"@en .
+
+wd:Q5203615 a wd:Q79529 ;
+    rdfs:label "dioxygen"@en .
+
+wd:Q5204515 a wd:Q134856 ;
+    rdfs:label "5,7-dichlorokynurenic acid"@en .
+
+wd:Q5221244 a wd:Q187661 ;
+    rdfs:label "danthron"@en .
+
+wd:Q5247815 a wd:Q79529 ;
+    rdfs:label "sulfonated phenolics/sulfuric acid"@en .
+
+wd:Q5255155 a wd:Q79529 ;
+    rdfs:label "Demephion"@en .
+
+wd:Q5268496 a wd:Q79529 ;
+    rdfs:label "Dextromethorphan/quinidine"@en .
+
+wd:Q5272221 a wd:Q11158 ;
+    rdfs:label "Dibasic acid"@en .
+
+wd:Q5272255 a wd:Q187661 ;
+    rdfs:label "dibenz[a,j]anthracene"@en .
+
+wd:Q5273861 a wd:Q79529 ;
+    rdfs:label "Diclofenac/misoprostol"@en .
+
+wd:Q5274970 a wd:Q187661 ;
+    rdfs:label "diepoxybutane"@en .
+
+wd:Q5276425 a wd:Q174211 ;
+    rdfs:label "(5β)-dihydrocortisone"@en .
+
+wd:Q5276437 a wd:Q134856 ;
+    rdfs:label "dihydrothioctic acid"@en .
+
+wd:Q5277317 a wd:Q79529 ;
+    rdfs:label "dimethyl phosphorochlorodithioate"@en .
+
+wd:Q5277322 a wd:Q178266 ;
+    rdfs:label "chlorthal-dimethyl"@en .
+
+wd:Q5279100 a wd:Q134856 ;
+    rdfs:label "Diodone"@en .
+
+wd:Q52822 a wd:Q187661 ;
+    rdfs:label "2,3,7,8-tetrachlorodibenzo-p-dioxin"@en .
+
+wd:Q5283665 a wd:Q178266 ;
+    rdfs:label "dithiopyr"@en .
+
+wd:Q5284770 a wd:Q178266 ;
+    rdfs:label "dixanthogen"@en .
+
+wd:Q5332352 a wd:Q134856 ;
+    rdfs:label "(−)-ecgonidine"@en .
+
+wd:Q5368263 a wd:Q79529 ;
+    rdfs:label "Elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil"@en .
+
+wd:Q5374883 a wd:Q79529 ;
+    rdfs:label "emulsifying wax"@en .
+
+wd:Q5376118 a wd:Q134856 ;
+    rdfs:label "Endiandric acid C"@en .
+
+wd:Q5376331 a wd:Q79529 ;
+    rdfs:label "Endogenous agonist"@en .
+
+wd:Q5383795 a wd:Q79529 ;
+    rdfs:label "Epoetin beta"@en .
+
+wd:Q5383934 a wd:Q134856 ;
+    rdfs:label "Epristeride"@en .
+
+wd:Q5401860 a wd:Q187661 ;
+    rdfs:label "estropipate"@en .
+
+wd:Q5420370 a wd:Q134856 ;
+    rdfs:label "Exisulind"@en .
+
+wd:Q5423256 a wd:Q79529 ;
+    rdfs:label "ezetimibe/simvastatin"@en .
+
+wd:Q5435335 a wd:Q134856 ;
+    rdfs:label "Farinomalein"@en .
+
+wd:Q54498010 a wd:Q11158 ;
+    rdfs:label "Q54498010"^^xsd:string .
+
+wd:Q5459999 a wd:Q134856 ;
+    rdfs:label "flomoxef"@en .
+
+wd:Q5462798 a wd:Q178266 ;
+    rdfs:label "fluometuron"@en .
+
+wd:Q546957 a wd:Q187661 ;
+    rdfs:label "p-aminoazobenzene"@en .
+
+wd:Q54804276 a wd:Q1310239 ;
+    rdfs:label "foot"@en .
+
+wd:Q550039 a wd:Q187661 ;
+    rdfs:label "benzo[k]fluoranthene"@en .
+
+wd:Q5509477 a wd:Q134856 ;
+    rdfs:label "Furantetracarboxylic acid"@en .
+
+wd:Q5514388 a wd:Q134856 ;
+    rdfs:label "gr-113808"@en .
+
+wd:Q5515280 a wd:Q134856 ;
+    rdfs:label "gabazine"@en .
+
+wd:Q5519727 a wd:Q134856 ;
+    rdfs:label "(-)-gambogic acid"@en .
+
+wd:Q5520039 a wd:Q134856 ;
+    rdfs:label "gamendazole"@en .
+
+wd:Q553129 a wd:Q134856 ;
+    rdfs:label "Evacetrapib"@en .
+
+wd:Q5533206 a wd:Q134856 ;
+    rdfs:label "Geniposidic acid"@en .
+
+wd:Q55344302 a wd:Q79529 ;
+    rdfs:label "Vitamin D1"@en .
+
+wd:Q55427380 a wd:Q187661 ;
+    rdfs:label "IARC Group 1 carcinogen"@en .
+
+wd:Q55611196 a wd:Q79529 ;
+    rdfs:label "Indian Yellow"@en .
+
+wd:Q5572516 a wd:Q79529 ;
+    rdfs:label "Glybera"@en .
+
+wd:Q56071533 a wd:Q79529 ;
+    rdfs:label "D-glucopyranose (close ring, incomplete stereochemistry)"@en .
+
+wd:Q56097469 a wd:Q35758 ;
+    rdfs:label "Q56097469"^^xsd:string .
+
+wd:Q5613765 a wd:Q134856 ;
+    rdfs:label "3-guanidinopropionic acid"@en .
+
+wd:Q5613883 a wd:Q79529 ;
+    rdfs:label "guar hydroxypropyltrimonium chloride"@en .
+
+wd:Q56317935 a wd:Q5850078 ;
+    rdfs:label "causes of  Alzheimer's disease"@en .
+
+wd:Q5635434 a wd:Q134856 ;
+    rdfs:label "HOCPCA"@en .
+
+wd:Q56408765 a wd:Q134856 ;
+    rdfs:label "Q56408765"^^xsd:string .
+
+wd:Q5651237 a wd:Q167198 ;
+    rdfs:label "1-methylpentylamine"@en .
+
+wd:Q5666501 a wd:Q79529 ;
+    rdfs:label "Platinocyanide"@en .
+
+wd:Q569 a wd:Q187661 ;
+    rdfs:label "beryllium"@en .
+
+wd:Q5697238 a wd:Q134856 ;
+    rdfs:label "hederagenin"@en .
+
+wd:Q5732020 a wd:Q134856 ;
+    rdfs:label "perfluorobutyric acid"@en .
+
+wd:Q576630 a wd:Q187661 ;
+    rdfs:label "benzo[j]fluoranthene"@en .
+
+wd:Q579348 a wd:Q134856 ;
+    rdfs:label "alprostadil"@en .
+
+wd:Q5801440 a wd:Q134856 ;
+    rdfs:label "Barbier–Wieland degradation"@en .
+
+wd:Q581334 a wd:Q79529 ;
+    rdfs:label "Fluticasone/salmeterol"@en .
+
+wd:Q58447 a wd:Q187661 ;
+    rdfs:label "hydrazine"@en .
+
+wd:Q5846523 a wd:Q79529 ;
+    rdfs:label "pharmaceutical preparation of hydroquinone"@en .
+
+wd:Q5861 a wd:Q187661 ;
+    rdfs:label "glass fiber"@en .
+
+wd:Q58622448 a wd:Q187661 ;
+    rdfs:label "methyldimethylaminoazobenzene"@en .
+
+wd:Q5897556 a wd:Q187661 ;
+    rdfs:label "Iron Dextran"@en .
+
+wd:Q59159910 a wd:Q174211 ;
+    rdfs:label "Scabrolide A"@en .
+
+wd:Q5948038 a wd:Q134856 ;
+    rdfs:label "enoxolone"@en .
+
+wd:Q5965703 a wd:Q79529 ;
+    rdfs:label "Ishikawa reagent"@en .
+
+wd:Q6004128 a wd:Q79529 ;
+    rdfs:label "Imipenem/cilastatin"@en .
+
+wd:Q60110 a wd:Q79529 ;
+    rdfs:label "soot"@en .
+
+wd:Q6015615 a wd:Q134856 ;
+    rdfs:label "indacrinone"@en .
+
+wd:Q6037262 a wd:Q902296 ;
+    rdfs:label "insecticidal soap"@en .
+
+wd:Q60578858 a wd:Q79529 ;
+    rdfs:label "phenine nanotube"@en .
+
+wd:Q6062805 a wd:Q134856 ;
+    rdfs:label "iomazenil i-123"@en .
+
+wd:Q60741370 a wd:Q178266 ;
+    rdfs:label "Glyphosate-based herbicides"@en .
+
+wd:Q6085784 a wd:Q134856 ;
+    rdfs:label "isoguvacine"@en .
+
+wd:Q6086003 a wd:Q79529 ;
+    rdfs:label "Isoleucine (data page)"@en .
+
+wd:Q60964479 a wd:Q5850078 ;
+    rdfs:label "Q60964479"^^xsd:string .
+
+wd:Q61457 a wd:Q174211,
+        wd:Q187661 ;
+    rdfs:label "acetaldehyde"@en .
+
+wd:Q615594 a wd:Q174211 ;
+    rdfs:label "9,10-Dithioanthracene"@en .
+
+wd:Q618185 a wd:Q79529 ;
+    rdfs:label "ceramic varnish"@en .
+
+wd:Q61854433 a wd:Q187661 ;
+    rdfs:label "1,3-dichloropropene"@en .
+
+wd:Q61984868 a wd:Q178266 ;
+    rdfs:label "flupyrsulfuron-methyl"@en .
+
+wd:Q62062411 a wd:Q167198 ;
+    rdfs:label "cyclohexanemethylamine"@en .
+
+wd:Q622950 a wd:Q79529 ;
+    rdfs:label "Aqua Tofana"@en .
+
+wd:Q627436 a wd:Q19478619 ;
+    rdfs:label "field of work"@en .
+
+wd:Q63244467 a wd:Q19478619 ;
+    rdfs:label "family-specific aircraft model class"@en .
+
+wd:Q63244922 a wd:Q19478619 ;
+    rdfs:label "aircraft manufacturer class"@en .
+
+wd:Q63607645 a wd:Q19478619 ;
+    rdfs:label "national type-specific naval fleet"@en .
+
+wd:Q63607649 a wd:Q19478619 ;
+    rdfs:label "type-specific watercraft fleet"@en .
+
+wd:Q6406955 a wd:Q178266 ;
+    rdfs:label "monuron"@en .
+
+wd:Q641865 a wd:Q79529 ;
+    rdfs:label "cocaine paste"@en .
+
+wd:Q64353376 a wd:Q35758 ;
+    rdfs:label "Durapore"@en .
+
+wd:Q6457467 a wd:Q79529 ;
+    rdfs:label "LCZ696"@en .
+
+wd:Q6469021 a wd:Q187661 ;
+    rdfs:label "lactofen"@en .
+
+wd:Q64703485 a wd:Q497173 ;
+    rdfs:label "phosphonic acid"@en .
+
+wd:Q6482030 a wd:Q79529 ;
+    rdfs:label "Lamivudine/zidovudine"@en .
+
+wd:Q6487604 a wd:Q79529 ;
+    rdfs:label "lanthanum barium copper oxide"@en .
+
+wd:Q650187 a wd:Q79529 ;
+    rdfs:label "phosphatidylcholines"@en .
+
+wd:Q65077692 a wd:Q131656,
+        wd:Q2746959 ;
+    rdfs:label "Demeter operation"@en .
+
+wd:Q65088545 a wd:Q79529 ;
+    rdfs:label "sulfonated phenolics"@en .
+
+wd:Q651935 a wd:Q174211 ;
+    rdfs:label "Organoyttrium chemistry"@en .
+
+wd:Q6535822 a wd:Q134856 ;
+    rdfs:label "levopimaric acid"@en .
+
+wd:Q6553500 a wd:Q178266 ;
+    rdfs:label "methazole"@en .
+
+wd:Q6556738 a wd:Q79529 ;
+    rdfs:label "lipoplatin"@en .
+
+wd:Q6587055 a wd:Q134856 ;
+    rdfs:label "tyropanic acid"@en .
+
+wd:Q660090 a wd:Q134856 ;
+    rdfs:label "letosteine"@en .
+
+wd:Q663909 a wd:Q134856 ;
+    rdfs:label "phenylglyoxylic acid"@en .
+
+wd:Q66626354 a wd:Q79529 ;
+    rdfs:label "Alembroth salt"@en .
+
+wd:Q66786238 a wd:Q19478619 ;
+    rdfs:label "mathematical term"@en .
+
+wd:Q6703005 a wd:Q134856 ;
+    rdfs:label "lumacaftor"@en .
+
+wd:Q671422 a wd:Q79529 ;
+    rdfs:label "Japan wax"@en .
+
+wd:Q6731370 a wd:Q79529 ;
+    rdfs:label "magnesium"@en .
+
+wd:Q67457937 a wd:Q174211 ;
+    rdfs:label "Clavorubin"@en .
+
+wd:Q67543045 a wd:Q19478619 ;
+    rdfs:label "aircraft undercarriage-function class"@en .
+
+wd:Q67654866 a wd:Q19478619 ;
+    rdfs:label "aircraft fleet of a specific country during a specific event"@en .
+
+wd:Q67654961 a wd:Q19478619 ;
+    rdfs:label "aircraft fleet of a specific country"@en .
+
+wd:Q67655033 a wd:Q19478619 ;
+    rdfs:label "aircraft fleet of a specific event"@en .
+
+wd:Q677933 a wd:Q178266 ;
+    rdfs:label "maleic hydrazide"@en .
+
+wd:Q6823998 a wd:Q134856 ;
+    rdfs:label "methylenomycin a"@en .
+
+wd:Q6841079 a wd:Q134856 ;
+    rdfs:label "d-CCPene"@en .
+
+wd:Q6901670 a wd:Q178266 ;
+    rdfs:label "monolinuron"@en .
+
+wd:Q69130097 a wd:Q19478619 ;
+    rdfs:label "aircraft undercarriage-function-lift class"@en .
+
+wd:Q6913266 a wd:Q134856 ;
+    rdfs:label "moronic acid"@en .
+
+wd:Q6953205 a wd:Q134856 ;
+    rdfs:label "NCS-382"@en .
+
+wd:Q695611 a wd:Q134856 ;
+    rdfs:label "amlexanox"@en .
+
+wd:Q69641898 a wd:Q864939 ;
+    rdfs:label "Q69641898"^^xsd:string .
+
+wd:Q69882018 a wd:Q79529 ;
+    rdfs:label "Q69882018"^^xsd:string .
+
+wd:Q6994170 a wd:Q79529 ;
+    rdfs:label "Neosporin"@en .
+
+wd:Q7049656 a wd:Q11158 ;
+    rdfs:label "Nonvolatile acid"@en .
+
+wd:Q7089596 a wd:Q134856 ;
+    rdfs:label "omapatrilat"@en .
+
+wd:Q7115647 a wd:Q11158 ;
+    rdfs:label "oxidizing acid"@en .
+
+wd:Q7116606 a wd:Q134856 ;
+    rdfs:label "Ozolinone"@en .
+
+wd:Q7118494 a wd:Q134856 ;
+    rdfs:label "5-[(1-phenylcyclohexyl)amino]pentanoic acid"@en .
+
+wd:Q7118931 a wd:Q79529 ;
+    rdfs:label "PEG 400"@en .
+
+wd:Q7168161 a wd:Q134856 ;
+    rdfs:label "perfluorononanoic acid"@en .
+
+wd:Q7178320 a wd:Q134856 ;
+    rdfs:label "meperidine acid"@en .
+
+wd:Q7180977 a wd:Q134856 ;
+    rdfs:label "phaseic acid"@en .
+
+wd:Q7181395 a wd:Q134856 ;
+    rdfs:label "Phenopicolinic acid"@en .
+
+wd:Q7181437 a wd:Q134856 ;
+    rdfs:label "phenylpropiolic acid"@en .
+
+wd:Q7197959 a wd:Q134856 ;
+    rdfs:label "Pirenoxine"@en .
+
+wd:Q7227257 a wd:Q79529 ;
+    rdfs:label "Pomegranate ellagitannin"@en .
+
+wd:Q7230068 a wd:Q79529 ;
+    rdfs:label "Porfimer"@en .
+
+wd:Q72461111 a wd:Q187661 ;
+    rdfs:label "Clomifene citrate"@en .
+
+wd:Q72465833 a wd:Q187661 ;
+    rdfs:label "trans-1,4-Dichloro-2-butene"@en .
+
+wd:Q72469565 a wd:Q187661 ;
+    rdfs:label "Direct Brown 95"@en .
+
+wd:Q72470913 a wd:Q187661 ;
+    rdfs:label "Epoxiconazole"@en .
+
+wd:Q7249739 a wd:Q178266 ;
+    rdfs:label "prometon"@en .
+
+wd:Q7251413 a wd:Q79529 ;
+    rdfs:label "Protein-bound paclitaxel"@en .
+
+wd:Q7272100 a wd:Q134856 ;
+    rdfs:label "quinclorac"@en .
+
+wd:Q72827 a wd:Q79529 ;
+    rdfs:label "lard"@en .
+
+wd:Q73017 a wd:Q79529 ;
+    rdfs:label "tholin"@en .
+
+wd:Q7311555 a wd:Q79529 ;
+    rdfs:label "Rember"@en .
+
+wd:Q7313544 a wd:Q134856 ;
+    rdfs:label "rentiapril"@en .
+
+wd:Q73400761 a wd:Q55739694 ;
+    rdfs:label "trypanothione"@en .
+
+wd:Q7341121 a wd:Q134856 ;
+    rdfs:label "robenacoxib"@en .
+
+wd:Q737038 a wd:Q79529 ;
+    rdfs:label "polycrystalline silicon"@en .
+
+wd:Q7388901 a wd:Q134856 ;
+    rdfs:label "SB 204070"@en .
+
+wd:Q7389135 a wd:Q134856 ;
+    rdfs:label "sch-50911 free base"@en .
+
+wd:Q7391292 a wd:Q79529 ;
+    rdfs:label "air"@en .
+
+wd:Q7398820 a wd:Q178266 ;
+    rdfs:label "saflufenacil"@en .
+
+wd:Q740 a wd:Q187661 ;
+    rdfs:label "cobalt"@en .
+
+wd:Q7448341 a wd:Q134856 ;
+    rdfs:label "selfotel"@en .
+
+wd:Q74561723 a wd:Q79529 ;
+    rdfs:label "Methylmercury and methylmercury compounds"@en .
+
+wd:Q7531599 a wd:Q79529 ;
+    rdfs:label "Sitagliptin/metformin"@en .
+
+wd:Q754267 a wd:Q79529 ;
+    rdfs:label "respiratory poison"@en .
+
+wd:Q7572183 a wd:Q35758 ;
+    rdfs:label "space-time crystal"@en .
+
+wd:Q7597226 a wd:Q79529 ;
+    rdfs:label "carbidopa / levodopa / entacapone"@en .
+
+wd:Q76180821 a wd:Q174211 ;
+    rdfs:label "Q76180821"^^xsd:string .
+
+wd:Q7636194 a wd:Q178266 ;
+    rdfs:label "sulfentrazone"@en .
+
+wd:Q764245 a wd:Q187661 ;
+    rdfs:label "carbon black"@en .
+
+wd:Q76622598 a wd:Q79529 ;
+    rdfs:label "Q76622598"^^xsd:string .
+
+wd:Q7667802 a wd:Q134856 ;
+    rdfs:label "T-HCA"@en .
+
+wd:Q76704072 a wd:Q79529 ;
+    rdfs:label "Coke-oven light oil (coal)"@en .
+
+wd:Q7675206 a wd:Q134856 ;
+    rdfs:label "Tagetitoxin"@en .
+
+wd:Q76904 a wd:Q79529 ;
+    rdfs:label "kerosene"@en .
+
+wd:Q7692232 a wd:Q79529 ;
+    rdfs:label "Technetium (99mTc) tilmanocept"@en .
+
+wd:Q7697766 a wd:Q79529 ;
+    rdfs:label "Telmisartan/hydrochlorothiazide"@en .
+
+wd:Q7700570 a wd:Q79529 ;
+    rdfs:label "atenolol/chlorthalidone"@en .
+
+wd:Q7705411 a wd:Q134856 ;
+    rdfs:label "tesaglitazar"@en .
+
+wd:Q7706206 a wd:Q79529 ;
+    rdfs:label "Tetrabamate"@en .
+
+wd:Q7708612 a wd:Q134856 ;
+    rdfs:label "tezampanel"@en .
+
+wd:Q7814620 a wd:Q134856 ;
+    rdfs:label "tolrestat"@en .
+
+wd:Q7834645 a wd:Q5850078 ;
+    rdfs:label "Transmission of hepadnaviruses"@en .
+
+wd:Q7838676 a wd:Q134856 ;
+    rdfs:label "trepibutone"@en .
+
+wd:Q7840341 a wd:Q11158 ;
+    rdfs:label "Tribasic acid"@en .
+
+wd:Q7842200 a wd:Q79529 ;
+    rdfs:label "Polymyxin B sulfate/trimethoprim"@en .
+
+wd:Q7865753 a wd:Q1310239 ;
+    rdfs:label "USArray"@en .
+
+wd:Q7912587 a wd:Q134856 ;
+    rdfs:label "valproate pivoxil"@en .
+
+wd:Q7915613 a wd:Q134856 ;
+    rdfs:label "varespladib"@en .
+
+wd:Q7917921 a wd:Q134856 ;
+    rdfs:label "vedaprofen"@en .
+
+wd:Q79274427 a wd:Q19478619 ;
+    rdfs:label "film term"@en .
+
+wd:Q793473 a wd:Q178266 ;
+    rdfs:label "azafenidin"@en .
+
+wd:Q8064324 a wd:Q134856 ;
+    rdfs:label "Zafuleptine"@en .
+
+wd:Q81048290 a wd:Q174211 ;
+    rdfs:label "3-Pentyn-2-one"@en .
+
+wd:Q810811 a wd:Q27166344 ;
+    rdfs:label "Bathybius haeckelii"@en .
+
+wd:Q81565076 a wd:Q19478619 ;
+    rdfs:label "genetics term"@en .
+
+wd:Q816692 a wd:Q178266 ;
+    rdfs:label "benazolin"@en .
+
+wd:Q816713 a wd:Q35758 ;
+    rdfs:label "sawdust"@en .
+
+wd:Q81842141 a wd:Q19478619 ;
+    rdfs:label "education term"@en .
+
+wd:Q81845220 a wd:Q19478619 ;
+    rdfs:label "forest term"@en .
+
+wd:Q84166032 a wd:Q79529 ;
+    rdfs:label "borosilicates"@en .
+
+wd:Q84475169 a wd:Q19478619 ;
+    rdfs:label "game theory term"@en .
+
+wd:Q84769334 a wd:Q174211 ;
+    rdfs:label "dexrabeprazole"@en .
+
+wd:Q84851426 a wd:Q174211 ;
+    rdfs:label "Choline ester"@en .
+
+wd:Q84976438 a wd:Q8066 ;
+    rdfs:label "susoctocog alfa"@en .
+
+wd:Q85125058 a wd:Q8066 ;
+    rdfs:label "begelomab"@en .
+
+wd:Q851897 a wd:Q134856 ;
+    rdfs:label "bevirimat"@en .
+
+wd:Q85703592 a wd:Q79529 ;
+    rdfs:label "ultrasound contrast media"@en .
+
+wd:Q85707518 a wd:Q8066 ;
+    rdfs:label "tidiacic arginine"@en .
+
+wd:Q862597 a wd:Q19478619 ;
+    rdfs:label "musical form"@en .
+
+wd:Q863389 a wd:Q79529 ;
+    rdfs:label "Budesonide/formoterol"@en .
+
+wd:Q867350 a wd:Q134856 ;
+    rdfs:label "cilazapril"@en .
+
+wd:Q871 a wd:Q187661 ;
+    rdfs:label "arsenic"@en .
+
+wd:Q8884513 a wd:Q187661 ;
+    rdfs:label "Azobenzene"@en .
+
+wd:Q898623 a wd:Q79529 ;
+    rdfs:label "Trimethoprim/sulfamethoxazole"@en .
+
+wd:Q900279 a wd:Q35758 ;
+    rdfs:label "Digestate"@en .
+
+wd:Q901018 a wd:Q187661 ;
+    rdfs:label "solvent yellow 14"@en .
+
+wd:Q902245 a wd:Q27166344 ;
+    rdfs:label "Black liquor"@en .
+
+wd:Q904360 a wd:Q79529 ;
+    rdfs:label "Dinocap"@en .
+
+wd:Q904371 a wd:Q178266 ;
+    rdfs:label "triallate"@en .
+
+wd:Q904901 a wd:Q178266 ;
+    rdfs:label "chlorpropham"@en .
+
+wd:Q905571 a wd:Q178266 ;
+    rdfs:label "pethoxamid"@en .
+
+wd:Q905703 a wd:Q134856 ;
+    rdfs:label "fusaric acid"@en .
+
+wd:Q906330 a wd:Q79529 ;
+    rdfs:label "Colloidal silica"@en .
+
+wd:Q907219 a wd:Q134856 ;
+    rdfs:label "tiagabine"@en .
+
+wd:Q908257 a wd:Q178266 ;
+    rdfs:label "chloridazon"@en .
+
+wd:Q909436 a wd:Q79529 ;
+    rdfs:label "copal"@en .
+
+wd:Q909808 a wd:Q187661 ;
+    rdfs:label "creosote"@en .
+
+wd:Q910903 a wd:Q178266 ;
+    rdfs:label "diquat dibromide"@en .
+
+wd:Q912189 a wd:Q79529 ;
+    rdfs:label "petroleum ether"@en .
+
+wd:Q9159393 a wd:Q134856 ;
+    rdfs:label "arecaidine"@en .
+
+wd:Q9163602 a wd:Q79529 ;
+    rdfs:label "BTM"@en .
+
+wd:Q9165259 a wd:Q178266 ;
+    rdfs:label "barban"@en .
+
+wd:Q917623 a wd:Q79529 ;
+    rdfs:label "Briquetage"@en .
+
+wd:Q9203288 a wd:Q1310239 ;
+    rdfs:label "Q9203288"^^xsd:string .
+
+wd:Q929420 a wd:Q134856 ;
+    rdfs:label "trandolapril"@en .
+
+wd:Q937228 a wd:Q19478619 ;
+    rdfs:label "property"@en .
+
+wd:Q9375534 a wd:Q79529 ;
+    rdfs:label "vitamin B14"@en .
+
+wd:Q965999 a wd:Q134856 ;
+    rdfs:label "alclofenac"@en .
+
+wd:Q969804 a wd:Q79529 ;
+    rdfs:label "tincture"@en .
+
+wd:Q11173 rdfs:label "chemical compound"@en ;
+    rdfs:subClassOf wd:Q20026787,
+        wd:Q578779 .
+
+wd:Q18205885 rdfs:label "causes of cancer"@en ;
+    rdfs:subClassOf wd:Q5850078 .
+
+wd:Q20026787 rdfs:label "chemical component"@en ;
+    rdfs:subClassOf wd:Q1310239,
+        wd:Q19478619 .
+
+wd:Q407232 a wd:Q11173,
+        wd:Q134856,
+        wd:Q178266,
+        wd:Q187661,
+        wd:Q64699467,
+        wd:Q8066 ;
+    rdfs:label "glyphosate"@en .
+
+wd:Q4531153 rdfs:label "organo-main group compound"@en .
+
+wd:Q50379880 rdfs:label "noxae"@en ;
+    rdfs:subClassOf wd:Q17154431 .
+
+wd:Q578779 rdfs:label "pure substance"@en ;
+    rdfs:subClassOf wd:Q79529 .
+
+wd:Q64692900 rdfs:label "organic phosphorus compound"@en .
+
+wd:Q17154431 rdfs:label "mode of toxic action"@en .
+
+wd:Q2182492 rdfs:label "organophosphorus compound"@en ;
+    rdfs:subClassOf wd:Q4531153,
+        wd:Q64692900 .
+
+wd:Q2746959 rdfs:label "agrochemical"@en .
+
+wd:Q55739694 rdfs:label "organonitrogen compound"@en .
+
+wd:Q864939 rdfs:label "biocide"@en .
+
+wd:Q421948 rdfs:label "organic acid"@en ;
+    rdfs:subClassOf wd:Q11158,
+        wd:Q174211 .
+
+wd:Q902296 rdfs:label "phytopharmaceuticals"@en ;
+    rdfs:subClassOf wd:Q131656 .
+
+wd:Q167198 rdfs:label "amine"@en ;
+    rdfs:subClassOf wd:Q55739694 .
+
+wd:Q1310239 rdfs:label "component"@en .
+
+wd:Q64699467 rdfs:label "phosphonic acid"@en ;
+    rdfs:subClassOf wd:Q2182492,
+        wd:Q497173 .
+
+wd:Q5850078 rdfs:label "etiology"@en .
+
+wd:Q131656 rdfs:label "pesticide"@en ;
+    rdfs:subClassOf wd:Q17154431,
+        wd:Q2746959,
+        wd:Q864939 .
+
+wd:Q27166344 rdfs:label "substance"@en ;
+    rdfs:subClassOf wd:Q35758 .
+
+wd:Q497173 rdfs:label "oxoacid"@en ;
+    rdfs:subClassOf wd:Q11158 .
+
+wd:Q8066 rdfs:label "amino acid"@en ;
+    rdfs:subClassOf wd:Q167198,
+        wd:Q421948 .
+
+wd:Q35758 rdfs:label "matter"@en .
+
+wd:Q11158 rdfs:label "acid"@en .
+
+wd:Q19478619 rdfs:label "metaclass"@en .
+
+wd:Q174211 rdfs:label "organic compound"@en .
+
+wd:Q178266 rdfs:label "herbicide"@en ;
+    rdfs:subClassOf wd:Q131656,
+        wd:Q902296 .
+
+wd:Q134856 rdfs:label "carboxylic acid"@en ;
+    rdfs:subClassOf wd:Q421948,
+        wd:Q497173 .
+
+wd:Q187661 rdfs:label "carcinogen"@en ;
+    rdfs:subClassOf wd:Q18205885,
+        wd:Q27166344,
+        wd:Q50379880 .
+
+wd:Q79529 rdfs:label "chemical substance"@en .
+

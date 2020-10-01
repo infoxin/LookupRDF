@@ -1,0 +1,1378 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1076248 a wd:Q516751 ;
+    rdfs:label "Oleandomycin"@en .
+
+wd:Q10859709 a wd:Q222174 ;
+    rdfs:label "eupalitin"@en .
+
+wd:Q10861069 a wd:Q222174 ;
+    rdfs:label "Zapotin"@en .
+
+wd:Q1087499 a wd:Q516751 ;
+    rdfs:label "troleandomycin"@en .
+
+wd:Q10910637 a wd:Q222174 ;
+    rdfs:label "jaranol"@en .
+
+wd:Q118551 a wd:Q516751 ;
+    rdfs:label "clarithromycin"@en .
+
+wd:Q1287838 a wd:Q170744 ;
+    rdfs:label "3-heptanone"@en .
+
+wd:Q1287920 a wd:Q170744 ;
+    rdfs:label "4-heptanone"@en .
+
+wd:Q14035811 a wd:Q222174 ;
+    rdfs:label "Myricetin 3-O-rutinoside"@en .
+
+wd:Q15041645 a wd:Q222174 ;
+    rdfs:label "Diosmetin 7-neohesperidoside"@en .
+
+wd:Q15228129 a wd:Q222174 ;
+    rdfs:label "casticin"@en .
+
+wd:Q15303946 a wd:Q222174 ;
+    rdfs:label "tricetin"@en .
+
+wd:Q15410218 a wd:Q222174 ;
+    rdfs:label "4',7-dihydroxyflavone"@en .
+
+wd:Q15410228 a wd:Q222174 ;
+    rdfs:label "Alnetin"@en .
+
+wd:Q15410235 a wd:Q222174 ;
+    rdfs:label "Acutifolin A"@en .
+
+wd:Q15410929 a wd:Q222174 ;
+    rdfs:label "Dihydrokanakugiol"@en .
+
+wd:Q15410994 a wd:Q222174 ;
+    rdfs:label "hispidulin"@en .
+
+wd:Q15411029 a wd:Q222174 ;
+    rdfs:label "hypolaetin"@en .
+
+wd:Q15425293 a wd:Q222174 ;
+    rdfs:label "pectolinaringenin"@en .
+
+wd:Q15425306 a wd:Q222174 ;
+    rdfs:label "5,7,8-trihydroxyflavone"@en .
+
+wd:Q15425765 a wd:Q222174 ;
+    rdfs:label "Norartocarpetin"@en .
+
+wd:Q15426253 a wd:Q222174 ;
+    rdfs:label "isoscutellarein"@en .
+
+wd:Q15427839 a wd:Q222174 ;
+    rdfs:label "tamarixetin"@en .
+
+wd:Q15427946 a wd:Q222174 ;
+    rdfs:label "velutin"@en .
+
+wd:Q15634189 a wd:Q222174 ;
+    rdfs:label "fastigenin"@en .
+
+wd:Q15634194 a wd:Q222174 ;
+    rdfs:label "arcapillin"@en .
+
+wd:Q15634228 a wd:Q222174 ;
+    rdfs:label "methyllinderone"@en .
+
+wd:Q15720546 a wd:Q222174 ;
+    rdfs:label "Juglanin"@en .
+
+wd:Q1644097 a wd:Q222174 ;
+    rdfs:label "licochalcone a"@en .
+
+wd:Q1649664 a wd:Q222174 ;
+    rdfs:label "diosmetin"@en .
+
+wd:Q1649777 a wd:Q222174 ;
+    rdfs:label "quercitrin"@en .
+
+wd:Q169326 a wd:Q516751 ;
+    rdfs:label "zearalenone"@en .
+
+wd:Q17113241 a wd:Q222174 ;
+    rdfs:label "catechin-5-O-glucoside"@en .
+
+wd:Q1748737 a wd:Q222174 ;
+    rdfs:label "tangeretin"@en .
+
+wd:Q2058351 a wd:Q222174 ;
+    rdfs:label "scutellarein"@en .
+
+wd:Q209404 a wd:Q170744 ;
+    rdfs:label "hexan-2-one"@en .
+
+wd:Q209460 a wd:Q170744 ;
+    rdfs:label "2-pentanone"@en .
+
+wd:Q213511 a wd:Q516751 ;
+    rdfs:label "erythromycin"@en .
+
+wd:Q21708238 a wd:Q19834818 ;
+    rdfs:label "Q21708238"^^xsd:string .
+
+wd:Q223076 a wd:Q170744 ;
+    rdfs:label "3-hexanone"@en .
+
+wd:Q223112 a wd:Q170744 ;
+    rdfs:label "diethyl ketone"@en .
+
+wd:Q2268463 a wd:Q222174 ;
+    rdfs:label "phloretin"@en .
+
+wd:Q23050136 a wd:Q222174 ;
+    rdfs:label "(−)-epicatechin"@en .
+
+wd:Q23050245 a wd:Q222174 ;
+    rdfs:label "apigenin 7,4'-dimethyl ether"@en .
+
+wd:Q23055237 a wd:Q222174 ;
+    rdfs:label "farnisin"@en .
+
+wd:Q23055238 a wd:Q222174 ;
+    rdfs:label "geraldone"@en .
+
+wd:Q23055239 a wd:Q222174 ;
+    rdfs:label "7,3',4'-Trihydroxyflavone"@en .
+
+wd:Q23055354 a wd:Q222174 ;
+    rdfs:label "6-hydroxyluteolin"@en .
+
+wd:Q23068576 a wd:Q222174 ;
+    rdfs:label "afzelechin"@en .
+
+wd:Q23068616 a wd:Q222174 ;
+    rdfs:label "3',4',5,7-tetrahydroxy-3-methoxyflavone"@en .
+
+wd:Q23069184 a wd:Q222174 ;
+    rdfs:label "quercimeritrin"@en .
+
+wd:Q2317288 a wd:Q222174 ;
+    rdfs:label "luteoloside"@en .
+
+wd:Q23328839 a wd:Q19834818 ;
+    rdfs:label "Borepin"@en .
+
+wd:Q23371022 a wd:Q222174 ;
+    rdfs:label "7-Hydroxy-3',4'-dimethoxyflavone"@en .
+
+wd:Q2357209 a wd:Q222174 ;
+    rdfs:label "dihydrochalcone"@en .
+
+wd:Q23662598 a wd:Q19834818 ;
+    rdfs:label "Azonine"@en .
+
+wd:Q2402963 a wd:Q222174 ;
+    rdfs:label "nobiletin"@en .
+
+wd:Q2456591 a wd:Q222174 ;
+    rdfs:label "galangin"@en .
+
+wd:Q25098661 a wd:Q222174 ;
+    rdfs:label "naringenin chalcone"@en .
+
+wd:Q259075 a wd:Q222174 ;
+    rdfs:label "vitexin"@en .
+
+wd:Q2607865 a wd:Q222174 ;
+    rdfs:label "diosmin"@en .
+
+wd:Q27067438 a wd:Q222174 ;
+    rdfs:label "8-(1,1-dimethylallyl)galangin"@en .
+
+wd:Q27087799 a wd:Q222174 ;
+    rdfs:label "MRS928"@en .
+
+wd:Q27089369 a wd:Q222174 ;
+    rdfs:label "pedalitin"@en .
+
+wd:Q27089383 a wd:Q222174 ;
+    rdfs:label "uvaretin"@en .
+
+wd:Q27093987 a wd:Q516751 ;
+    rdfs:label "patupilone"@en .
+
+wd:Q27094923 a wd:Q516751 ;
+    rdfs:label "6-Deoxyerythronolide B"@en .
+
+wd:Q27096720 a wd:Q222174 ;
+    rdfs:label "(2E)-1-[2-hydroxy-4-methoxy-5-(3-methylbut-2-en-1-yl)phenyl]-3-(4-hydroxyphenyl)prop-2-en-1-one"@en .
+
+wd:Q27096921 a wd:Q516751 ;
+    rdfs:label "10-deoxymethynolide"@en .
+
+wd:Q27098233 a wd:Q222174 ;
+    rdfs:label "2'-O-methyllicodione"@en .
+
+wd:Q27101971 a wd:Q222174 ;
+    rdfs:label "quercetin 3,3',7-trissulfate"@en .
+
+wd:Q27102008 a wd:Q222174 ;
+    rdfs:label "vitexin 2''-O-beta-D-glucoside"@en .
+
+wd:Q27102344 a wd:Q222174 ;
+    rdfs:label "isovitexin 2''-O-beta-D-glucoside"@en .
+
+wd:Q27102686 a wd:Q222174 ;
+    rdfs:label "quercetin 3,3'-bissulfate"@en .
+
+wd:Q27102757 a wd:Q222174 ;
+    rdfs:label "3,7-dimethylquercetin"@en .
+
+wd:Q27102769 a wd:Q222174 ;
+    rdfs:label "3',4',5-trihydroxy-3,6,7-trimethoxyflavone"@en .
+
+wd:Q27102774 a wd:Q222174 ;
+    rdfs:label "quercetin 3,4'-bissulfate"@en .
+
+wd:Q27102842 a wd:Q222174 ;
+    rdfs:label "licodione"@en .
+
+wd:Q27102895 a wd:Q222174 ;
+    rdfs:label "isoscoparin"@en .
+
+wd:Q27103244 a wd:Q222174 ;
+    rdfs:label "davidigenin"@en .
+
+wd:Q27103316 a wd:Q222174 ;
+    rdfs:label "3',4',5,6-tetrahydroxy-3,7-dimethoxyflavone"@en .
+
+wd:Q27103456 a wd:Q222174 ;
+    rdfs:label "3,3',4',5,7-pentahydroxy-8-methoxyflavone"@en .
+
+wd:Q27103494 a wd:Q222174 ;
+    rdfs:label "gossypetin 8-rhamnoside"@en .
+
+wd:Q27103503 a wd:Q222174 ;
+    rdfs:label "isobavachalcone"@en .
+
+wd:Q27103530 a wd:Q222174 ;
+    rdfs:label "2',4',6'-trihydroxy-3'-formyldihydrochalcone"@en .
+
+wd:Q27103538 a wd:Q222174 ;
+    rdfs:label "quercetin 3,4',7-trissulfate"@en .
+
+wd:Q27103559 a wd:Q516751 ;
+    rdfs:label "berythromycin"@en .
+
+wd:Q27103754 a wd:Q222174 ;
+    rdfs:label "2',6'-dihydroxy-4'-methoxydihydrochalcone"@en .
+
+wd:Q27103790 a wd:Q222174 ;
+    rdfs:label "isoorientin 2''-O-rhamnoside"@en .
+
+wd:Q27104197 a wd:Q516751 ;
+    rdfs:label "epothilone a"@en .
+
+wd:Q27105031 a wd:Q222174 ;
+    rdfs:label "datiscetin"@en .
+
+wd:Q27105170 a wd:Q222174 ;
+    rdfs:label "3',4',5'-O-trimethyltricetin"@en .
+
+wd:Q27105370 a wd:Q222174 ;
+    rdfs:label "2'-O-methylodoratol"@en .
+
+wd:Q27105473 a wd:Q222174 ;
+    rdfs:label "3-methoxyapigenin"@en .
+
+wd:Q27105478 a wd:Q222174 ;
+    rdfs:label "3-O-methylgalangin"@en .
+
+wd:Q27105566 a wd:Q222174 ;
+    rdfs:label "6-(3,3-dimethylallyl)galangin"@en .
+
+wd:Q27105590 a wd:Q222174 ;
+    rdfs:label "7,3'-dihydroxy-4'-methoxy-8-methylflavan"@en .
+
+wd:Q27105591 a wd:Q222174 ;
+    rdfs:label "7,4'-Dihydroxy-8-methylflavan"@en .
+
+wd:Q27105592 a wd:Q222174 ;
+    rdfs:label "7,4'-Dihydroxyflavan"@en .
+
+wd:Q27105600 a wd:Q222174 ;
+    rdfs:label "7-hydroxyflavan"@en .
+
+wd:Q27105614 a wd:Q222174 ;
+    rdfs:label "8-(1,1-dimethylallyl)kaempferide"@en .
+
+wd:Q27105617 a wd:Q222174 ;
+    rdfs:label "8-(3,3-dimethylallyl)chrysin"@en .
+
+wd:Q27105644 a wd:Q222174 ;
+    rdfs:label "abyssinone VI"@en .
+
+wd:Q27105652 a wd:Q222174 ;
+    rdfs:label "acerosin"@en .
+
+wd:Q27105855 a wd:Q222174 ;
+    rdfs:label "asebogenin"@en .
+
+wd:Q27105886 a wd:Q222174 ;
+    rdfs:label "auriculoside"@en .
+
+wd:Q27105905 a wd:Q222174 ;
+    rdfs:label "5,6,7-trimethoxyflavone"@en .
+
+wd:Q27105976 a wd:Q222174 ;
+    rdfs:label "broussin"@en .
+
+wd:Q27106068 a wd:Q222174 ;
+    rdfs:label "carlinoside"@en .
+
+wd:Q27106149 a wd:Q222174 ;
+    rdfs:label "chlorflavonin"@en .
+
+wd:Q27106162 a wd:Q222174 ;
+    rdfs:label "chrysin 5,7-dimethyl ether"@en .
+
+wd:Q27106166 a wd:Q222174 ;
+    rdfs:label "chrysosplenol C"@en .
+
+wd:Q27106177 a wd:Q222174 ;
+    rdfs:label "cirsiliol"@en .
+
+wd:Q27106339 a wd:Q222174 ;
+    rdfs:label "Dasytrichone"@en .
+
+wd:Q27106503 a wd:Q516751 ;
+    rdfs:label "erythromycin estolate"@en .
+
+wd:Q27106639 a wd:Q222174 ;
+    rdfs:label "Fisetinidol-4beta-ol"@en .
+
+wd:Q27106743 a wd:Q222174 ;
+    rdfs:label "glepidotin A"@en .
+
+wd:Q27106965 a wd:Q222174 ;
+    rdfs:label "isobutrin"@en .
+
+wd:Q27106978 a wd:Q222174 ;
+    rdfs:label "isoetin"@en .
+
+wd:Q27106980 a wd:Q222174 ;
+    rdfs:label "isoficine"@en .
+
+wd:Q27107021 a wd:Q222174 ;
+    rdfs:label "Isouvaretin"@en .
+
+wd:Q27107087 a wd:Q222174 ;
+    rdfs:label "Kazinol A"@en .
+
+wd:Q27107214 a wd:Q222174 ;
+    rdfs:label "lilaline"@en .
+
+wd:Q27107237 a wd:Q222174 ;
+    rdfs:label "lucenin-2"@en .
+
+wd:Q27107393 a wd:Q222174 ;
+    rdfs:label "morusin"@en .
+
+wd:Q27107512 a wd:Q222174 ;
+    rdfs:label "neocarlinoside"@en .
+
+wd:Q27107518 a wd:Q222174 ;
+    rdfs:label "neoschaftoside"@en .
+
+wd:Q27107527 a wd:Q222174 ;
+    rdfs:label "nevadensin"@en .
+
+wd:Q27107598 a wd:Q222174 ;
+    rdfs:label "oxyayanin A"@en .
+
+wd:Q27107599 a wd:Q222174 ;
+    rdfs:label "oxyayanin B"@en .
+
+wd:Q27107867 a wd:Q222174 ;
+    rdfs:label "phyllospadine"@en .
+
+wd:Q27108001 a wd:Q222174 ;
+    rdfs:label "pinoquercetin"@en .
+
+wd:Q27108011 a wd:Q222174 ;
+    rdfs:label "Piperaduncin B"@en .
+
+wd:Q27108070 a wd:Q222174 ;
+    rdfs:label "primetin"@en .
+
+wd:Q27108166 a wd:Q222174 ;
+    rdfs:label "robinetin"@en .
+
+wd:Q27108250 a wd:Q222174 ;
+    rdfs:label "schaftoside"@en .
+
+wd:Q27108257 a wd:Q222174 ;
+    rdfs:label "scullcapflavone II"@en .
+
+wd:Q27108284 a wd:Q222174 ;
+    rdfs:label "sexangularetin"@en .
+
+wd:Q27108362 a wd:Q222174 ;
+    rdfs:label "swertiajaponin"@en .
+
+wd:Q27108377 a wd:Q222174 ;
+    rdfs:label "tambulin"@en .
+
+wd:Q27108397 a wd:Q222174 ;
+    rdfs:label "tephrowatsin A"@en .
+
+wd:Q27108437 a wd:Q222174 ;
+    rdfs:label "thymonin"@en .
+
+wd:Q27108524 a wd:Q222174 ;
+    rdfs:label "velloquercetin"@en .
+
+wd:Q27108548 a wd:Q222174 ;
+    rdfs:label "violanthin"@en .
+
+wd:Q27108675 a wd:Q222174 ;
+    rdfs:label "2',3,4,4',6'-pentahydroxychalcone"@en .
+
+wd:Q27110104 a wd:Q516751 ;
+    rdfs:label "8,8a-Deoxyoleandolide"@en .
+
+wd:Q27110111 a wd:Q516751 ;
+    rdfs:label "ansamitomicin p-3"@en .
+
+wd:Q27110116 a wd:Q516751 ;
+    rdfs:label "Avermectin A1a"@en .
+
+wd:Q27110119 a wd:Q516751 ;
+    rdfs:label "Avermectin A1b"@en .
+
+wd:Q27110122 a wd:Q516751 ;
+    rdfs:label "Avermectin A2a"@en .
+
+wd:Q27110125 a wd:Q516751 ;
+    rdfs:label "Avermectin A2b"@en .
+
+wd:Q27110130 a wd:Q516751 ;
+    rdfs:label "abamectin b1b"@en .
+
+wd:Q27110133 a wd:Q516751 ;
+    rdfs:label "Avermectin B2a"@en .
+
+wd:Q27110136 a wd:Q516751 ;
+    rdfs:label "Avermectin B2b"@en .
+
+wd:Q27110179 a wd:Q516751 ;
+    rdfs:label "3-O-(alpha-L-oleandrosyl)oleandolide"@en .
+
+wd:Q27110180 a wd:Q516751 ;
+    rdfs:label "3-O-(alpha-L-olivosyl)oleandolide"@en .
+
+wd:Q27110185 a wd:Q516751 ;
+    rdfs:label "megalomicin"@en .
+
+wd:Q27110186 a wd:Q516751 ;
+    rdfs:label "Megalomicin B"@en .
+
+wd:Q27110187 a wd:Q516751 ;
+    rdfs:label "Megalomicin C1"@en .
+
+wd:Q27110188 a wd:Q516751 ;
+    rdfs:label "Megalomicin C2"@en .
+
+wd:Q27110190 a wd:Q516751 ;
+    rdfs:label "methymycin"@en .
+
+wd:Q27110209 a wd:Q516751 ;
+    rdfs:label "neomethymycin"@en .
+
+wd:Q27110211 a wd:Q516751 ;
+    rdfs:label "oleandolide"@en .
+
+wd:Q27110232 a wd:Q516751 ;
+    rdfs:label "10-deoxymethymycin"@en .
+
+wd:Q27114675 a wd:Q222174 ;
+    rdfs:label "kaempferol 3-O-beta-D-glucosyl-(1->2)-beta-D-glucosyl-(1->2)-beta-D-glucoside"@en .
+
+wd:Q27114775 a wd:Q222174 ;
+    rdfs:label "quercetin 3-O-β-D-(6''-O-malonyl)-glucoside"@en .
+
+wd:Q27114776 a wd:Q222174 ;
+    rdfs:label "quercetin 3-O-[beta-D-xylosyl-(1->2)-beta-D-glucoside]"@en .
+
+wd:Q27114778 a wd:Q222174 ;
+    rdfs:label "quercetin 3-O-beta-D-glucosyl-(1->2)-beta-D-glucosyl-(1->2)-beta-D-glucoside"@en .
+
+wd:Q27116014 a wd:Q222174 ;
+    rdfs:label "4',5,6,7-tetramethoxyflavone"@en .
+
+wd:Q27116387 a wd:Q222174 ;
+    rdfs:label "xanthomicrol"@en .
+
+wd:Q27130916 a wd:Q222174 ;
+    rdfs:label "3-methylflavone-8-carboxylic acid"@en .
+
+wd:Q27133183 a wd:Q516751 ;
+    rdfs:label "erythromycin C"@en .
+
+wd:Q27133884 a wd:Q222174 ;
+    rdfs:label "artocarpin"@en .
+
+wd:Q27133887 a wd:Q222174 ;
+    rdfs:label "artoindonesianin P"@en .
+
+wd:Q27134293 a wd:Q222174 ;
+    rdfs:label "diuvaretin"@en .
+
+wd:Q27134545 a wd:Q222174 ;
+    rdfs:label "5-hydroxy-7,2',4',5'-tetramethoxyflavone"@en .
+
+wd:Q27134618 a wd:Q222174 ;
+    rdfs:label "jaceosidin"@en .
+
+wd:Q27134703 a wd:Q222174 ;
+    rdfs:label "sappanchalcone"@en .
+
+wd:Q27134737 a wd:Q222174 ;
+    rdfs:label "(+)-tephrosone"@en .
+
+wd:Q27134880 a wd:Q222174 ;
+    rdfs:label "dihydroxanthohumol"@en .
+
+wd:Q27134882 a wd:Q222174 ;
+    rdfs:label "xanthohumol B"@en .
+
+wd:Q27134883 a wd:Q222174 ;
+    rdfs:label "xanthohumol D"@en .
+
+wd:Q27135095 a wd:Q222174 ;
+    rdfs:label "yinyanghuo A"@en .
+
+wd:Q27135096 a wd:Q222174 ;
+    rdfs:label "yinyanghuo B"@en .
+
+wd:Q27135328 a wd:Q222174 ;
+    rdfs:label "7-methoxypraecansone B"@en .
+
+wd:Q27135348 a wd:Q222174 ;
+    rdfs:label "papyriflavonol A"@en .
+
+wd:Q27136118 a wd:Q222174 ;
+    rdfs:label "5,4'-dihydroxy-7,3',5'-trimethoxyflavone"@en .
+
+wd:Q27136508 a wd:Q222174 ;
+    rdfs:label "cudraflavone C"@en .
+
+wd:Q27137788 a wd:Q222174 ;
+    rdfs:label "7,3',4'-trihydroxy-3,8-dimethoxyflavone"@en .
+
+wd:Q27137792 a wd:Q222174 ;
+    rdfs:label "5,3'-di-O-methylluteolin"@en .
+
+wd:Q27137881 a wd:Q222174 ;
+    rdfs:label "5,7,2'-trihydroxy-6-methoxyflavone"@en .
+
+wd:Q27138261 a wd:Q222174 ;
+    rdfs:label "sideroxylin"@en .
+
+wd:Q27138262 a wd:Q222174 ;
+    rdfs:label "8-desmethylsideroxylin"@en .
+
+wd:Q27138347 a wd:Q222174 ;
+    rdfs:label "5,7,3',5'-tetrahydroxy-3,4'-dimethyoxyflavone"@en .
+
+wd:Q27138348 a wd:Q222174 ;
+    rdfs:label "3',5-dihydroxy-3,4',5',7-tetramethoxyflavone"@en .
+
+wd:Q27138349 a wd:Q222174 ;
+    rdfs:label "quercetin 3,4'-dimethyl ether"@en .
+
+wd:Q27138350 a wd:Q222174 ;
+    rdfs:label "3',5,7-trihydroxy-3,4',5'-trimethoxyflavone"@en .
+
+wd:Q27138363 a wd:Q222174 ;
+    rdfs:label "macarangin"@en .
+
+wd:Q27138366 a wd:Q222174 ;
+    rdfs:label "quercetin 7,3',4'-trimethyl ether"@en .
+
+wd:Q27138419 a wd:Q222174 ;
+    rdfs:label "4-hydroxycordoin"@en .
+
+wd:Q27138546 a wd:Q222174 ;
+    rdfs:label "maysin"@en .
+
+wd:Q27138592 a wd:Q222174 ;
+    rdfs:label "4'-O-methylgallocatechin"@en .
+
+wd:Q27138593 a wd:Q222174 ;
+    rdfs:label "4'-methyl-epigallocatechin"@en .
+
+wd:Q27138594 a wd:Q222174 ;
+    rdfs:label "3'-methylepicatechin"@en .
+
+wd:Q27138990 a wd:Q222174 ;
+    rdfs:label "2',4'-dihydroxy-6'-methoxy-3',5'-dimethylchalcone"@en .
+
+wd:Q27138991 a wd:Q222174 ;
+    rdfs:label "2',4'-dihydroxy-3'-methyl-6'-methoxychalcone"@en .
+
+wd:Q27144106 a wd:Q222174 ;
+    rdfs:label "praecanson A"@en .
+
+wd:Q27145152 a wd:Q222174 ;
+    rdfs:label "eupatin"@en .
+
+wd:Q27145371 a wd:Q222174 ;
+    rdfs:label "2''-O-beta-D-glucosylisoscoparin"@en .
+
+wd:Q27145399 a wd:Q222174 ;
+    rdfs:label "6-C-alpha-L-arabinopyranosyl-8-C-beta-D-glucosylluteolin"@en .
+
+wd:Q27145412 a wd:Q222174 ;
+    rdfs:label "isoschaftoside"@en .
+
+wd:Q27145499 a wd:Q222174 ;
+    rdfs:label "kaempferol 3-O-glucuronide"@en .
+
+wd:Q27145500 a wd:Q222174 ;
+    rdfs:label "kaempferol 5-O-glucuronide"@en .
+
+wd:Q27145501 a wd:Q222174 ;
+    rdfs:label "kaempferol 7-O-glucuronide"@en .
+
+wd:Q27145502 a wd:Q222174 ;
+    rdfs:label "luteolin 3'-O-glucuronide"@en .
+
+wd:Q27145503 a wd:Q222174 ;
+    rdfs:label "luteolin 5-O-glucuronide"@en .
+
+wd:Q27145557 a wd:Q222174 ;
+    rdfs:label "myricetin 3-O-glucuronide"@en .
+
+wd:Q27145772 a wd:Q222174 ;
+    rdfs:label "(+)-epicatechin-3-O-gallate"@en .
+
+wd:Q27145773 a wd:Q222174 ;
+    rdfs:label "(-)-catechin gallate"@en .
+
+wd:Q27145774 a wd:Q222174 ;
+    rdfs:label "(+)-catechin gallate"@en .
+
+wd:Q27148537 a wd:Q222174 ;
+    rdfs:label "2-(2,4,5-trimethoxyphenyl)-5,6,7,8-tetramethoxy-4H-1-benzopyran-4-one"@en .
+
+wd:Q27148553 a wd:Q222174 ;
+    rdfs:label "2-(3,4,5-trimethoxyphenyl)-5,6,7,8-tetramethoxy-4H-1-benzopyran-4-one"@en .
+
+wd:Q27148596 a wd:Q222174 ;
+    rdfs:label "6-hydroxy-4',5,7-trimethoxyflavone"@en .
+
+wd:Q27148750 a wd:Q222174 ;
+    rdfs:label "gardenin b"@en .
+
+wd:Q27149535 a wd:Q222174 ;
+    rdfs:label "pinocembrin chalcone"@en .
+
+wd:Q27149536 a wd:Q222174 ;
+    rdfs:label "homoeriodictyol chalcone"@en .
+
+wd:Q27149537 a wd:Q222174 ;
+    rdfs:label "phlorizin chalcone"@en .
+
+wd:Q27149572 a wd:Q222174 ;
+    rdfs:label "kaempferol 3-O-beta-D-glucosylgalactoside"@en .
+
+wd:Q27151336 a wd:Q222174 ;
+    rdfs:label "isoliquiritin"@en .
+
+wd:Q27151393 a wd:Q222174 ;
+    rdfs:label "plantaginin"@en .
+
+wd:Q27151395 a wd:Q222174 ;
+    rdfs:label "rhamnocitrin"@en .
+
+wd:Q27155050 a wd:Q222174 ;
+    rdfs:label "kuraridinol"@en .
+
+wd:Q27155276 a wd:Q222174 ;
+    rdfs:label "cirsimaritin"@en .
+
+wd:Q27155298 a wd:Q222174 ;
+    rdfs:label "spinosin"@en .
+
+wd:Q27158340 a wd:Q222174 ;
+    rdfs:label "4'-O-methylbavachalcone"@en .
+
+wd:Q27158341 a wd:Q222174 ;
+    rdfs:label "quercetin 5,7,3',4'-tetramethyl ether"@en .
+
+wd:Q27158362 a wd:Q222174 ;
+    rdfs:label "quercetin 3-(6''-p-hydroxybenzoylgalactoside)"@en .
+
+wd:Q27163888 a wd:Q222174 ;
+    rdfs:label "5,7-dihydroxy-2,2-dimethyl-10-(3-methylbut-2-enyl)-8-phenyl-6-pyrano[3,2-g][1]benzopyranone"@en .
+
+wd:Q27165376 a wd:Q222174 ;
+    rdfs:label "hexamethylquercetagetin"@en .
+
+wd:Q27185979 a wd:Q222174 ;
+    rdfs:label "6-methoxy-2-(3-methoxyphenyl)-1-benzopyran-4-one"@en .
+
+wd:Q27188682 a wd:Q222174 ;
+    rdfs:label "3,7-dihydroxyflavone"@en .
+
+wd:Q27195245 a wd:Q222174 ;
+    rdfs:label "3,7-dimethoxy-2-phenyl-1-benzopyran-4-one"@en .
+
+wd:Q27225760 a wd:Q222174 ;
+    rdfs:label "4,4'-dihydroxy-2'-methoxychalcone"@en .
+
+wd:Q27236063 a wd:Q222174 ;
+    rdfs:label "paratocarpin b"@en .
+
+wd:Q27236249 a wd:Q222174 ;
+    rdfs:label "laciniatin"@en .
+
+wd:Q27236309 a wd:Q222174 ;
+    rdfs:label "5-hydroxy-3,6,7,8,3',4'-hexamethoxyflavone"@en .
+
+wd:Q27236649 a wd:Q222174 ;
+    rdfs:label "licoflavone c"@en .
+
+wd:Q27237292 a wd:Q222174 ;
+    rdfs:label "desmethyl icaritin"@en .
+
+wd:Q27251238 a wd:Q222174 ;
+    rdfs:label "limocitrol"@en .
+
+wd:Q27251560 a wd:Q71573538 ;
+    rdfs:label "trans-1,3-butanediol cyclic sulfite"@en .
+
+wd:Q27252319 a wd:Q71573538 ;
+    rdfs:label "cis-1,3-butanediol cyclic sulfite"@en .
+
+wd:Q27252699 a wd:Q222174 ;
+    rdfs:label "gardenin e"@en .
+
+wd:Q27253857 a wd:Q222174 ;
+    rdfs:label "gardenin a"@en .
+
+wd:Q27254290 a wd:Q222174 ;
+    rdfs:label "3-methoxynobiletin"@en .
+
+wd:Q27255597 a wd:Q222174 ;
+    rdfs:label "6-demethoxytangeretin"@en .
+
+wd:Q27255648 a wd:Q222174 ;
+    rdfs:label "glycyrdione b"@en .
+
+wd:Q27256724 a wd:Q222174 ;
+    rdfs:label "echinatin"@en .
+
+wd:Q27257226 a wd:Q222174 ;
+    rdfs:label "gardenin d"@en .
+
+wd:Q27257833 a wd:Q222174 ;
+    rdfs:label "licochalcone d"@en .
+
+wd:Q27258520 a wd:Q222174 ;
+    rdfs:label "quercetin 3,3',4'-trimethyl ether"@en .
+
+wd:Q27262929 a wd:Q222174 ;
+    rdfs:label "4'-hydroxy-5,6,7,8-tetramethoxyflavone"@en .
+
+wd:Q27263667 a wd:Q222174 ;
+    rdfs:label "isosinensetin"@en .
+
+wd:Q27266108 a wd:Q222174 ;
+    rdfs:label "8-methoxycirsilineol"@en .
+
+wd:Q27266123 a wd:Q222174 ;
+    rdfs:label "7-O-methylluteolin"@en .
+
+wd:Q27266189 a wd:Q222174 ;
+    rdfs:label "artemetin"@en .
+
+wd:Q27269680 a wd:Q71573538 ;
+    rdfs:label "glycol sulfite"@en .
+
+wd:Q27269811 a wd:Q222174 ;
+    rdfs:label "calycopterin"@en .
+
+wd:Q27270026 a wd:Q222174 ;
+    rdfs:label "broussochalcone a"@en .
+
+wd:Q27270850 a wd:Q222174 ;
+    rdfs:label "skullcapflavone i"@en .
+
+wd:Q27271185 a wd:Q222174 ;
+    rdfs:label "pongamol"@en .
+
+wd:Q27271837 a wd:Q222174 ;
+    rdfs:label "tetramethylkaempferol"@en .
+
+wd:Q27272402 a wd:Q222174 ;
+    rdfs:label "7-hydroxy-4',5,6,8-tetramethoxyflavone"@en .
+
+wd:Q27272427 a wd:Q222174 ;
+    rdfs:label "licoflavonol"@en .
+
+wd:Q27274750 a wd:Q222174 ;
+    rdfs:label "4'-methoxychalcone"@en .
+
+wd:Q27275509 a wd:Q222174 ;
+    rdfs:label "(E)-4,4'-dihydroxychalcone"@en .
+
+wd:Q27277625 a wd:Q222174 ;
+    rdfs:label "mosloflavone"@en .
+
+wd:Q27277645 a wd:Q222174 ;
+    rdfs:label "apigenin trimethyl ether"@en .
+
+wd:Q27278224 a wd:Q222174 ;
+    rdfs:label "umuhengerin"@en .
+
+wd:Q27278876 a wd:Q222174 ;
+    rdfs:label "licochalcone b"@en .
+
+wd:Q27280983 a wd:Q222174 ;
+    rdfs:label "3,3'-di-O-methylquercetin"@en .
+
+wd:Q27285508 a wd:Q222174 ;
+    rdfs:label "epigallocatechin 3-O-(3-O-methyl)gallate"@en .
+
+wd:Q27285643 a wd:Q222174 ;
+    rdfs:label "5-O-desmethylnobiletin"@en .
+
+wd:Q27286010 a wd:Q222174 ;
+    rdfs:label "licochalcone c"@en .
+
+wd:Q27286113 a wd:Q222174 ;
+    rdfs:label "loureirin b"@en .
+
+wd:Q27288205 a wd:Q222174 ;
+    rdfs:label "3-methoxytangeretin"@en .
+
+wd:Q27288547 a wd:Q222174 ;
+    rdfs:label "dillenetin"@en .
+
+wd:Q27289988 a wd:Q222174 ;
+    rdfs:label "gardenin c"@en .
+
+wd:Q27290697 a wd:Q170744 ;
+    rdfs:label "cyclohexyl methyl ketone"@en .
+
+wd:Q27293878 a wd:Q222174 ;
+    rdfs:label "7-methoxyflavone"@en .
+
+wd:Q2742033 a wd:Q222174 ;
+    rdfs:label "flavone"@en .
+
+wd:Q27891483 a wd:Q222174 ;
+    rdfs:label "2',3,4-trihydroxychalcone"@en .
+
+wd:Q27896513 a wd:Q222174 ;
+    rdfs:label "crotin"@en .
+
+wd:Q2822213 a wd:Q222174 ;
+    rdfs:label "acacetin"@en .
+
+wd:Q2858300 a wd:Q222174 ;
+    rdfs:label "apiin"@en .
+
+wd:Q2866762 a wd:Q222174 ;
+    rdfs:label "Aspalathin"@en .
+
+wd:Q2875086 a wd:Q222174 ;
+    rdfs:label "azaleatin"@en .
+
+wd:Q2879363 a wd:Q222174 ;
+    rdfs:label "baicalein"@en .
+
+wd:Q2879368 a wd:Q222174 ;
+    rdfs:label "baicalin"@en .
+
+wd:Q288988 a wd:Q222174 ;
+    rdfs:label "rhamnetin"@en .
+
+wd:Q2967432 a wd:Q222174 ;
+    rdfs:label "chryseriol"@en .
+
+wd:Q3036425 a wd:Q222174 ;
+    rdfs:label "pachypodol"@en .
+
+wd:Q3036428 a wd:Q222174 ;
+    rdfs:label "gossypetin"@en .
+
+wd:Q3044728 a wd:Q222174 ;
+    rdfs:label "Gallocatechol"@en .
+
+wd:Q3050376 a wd:Q222174 ;
+    rdfs:label "genkwanin"@en .
+
+wd:Q3055452 a wd:Q222174 ;
+    rdfs:label "tricin"@en .
+
+wd:Q3056707 a wd:Q222174 ;
+    rdfs:label "ermanin"@en .
+
+wd:Q3060385 a wd:Q222174 ;
+    rdfs:label "eupatilin"@en .
+
+wd:Q3060386 a wd:Q222174 ;
+    rdfs:label "eupatorin"@en .
+
+wd:Q30694081 a wd:Q516751 ;
+    rdfs:label "hibarimicinone"@en .
+
+wd:Q3073325 a wd:Q222174 ;
+    rdfs:label "herbacetin"@en .
+
+wd:Q3116746 a wd:Q222174 ;
+    rdfs:label "rhamnacine"@en .
+
+wd:Q3116775 a wd:Q222174 ;
+    rdfs:label "kaempferide"@en .
+
+wd:Q3155537 a wd:Q222174 ;
+    rdfs:label "isoliquiritigenin"@en .
+
+wd:Q3155592 a wd:Q222174 ;
+    rdfs:label "isoorientin"@en .
+
+wd:Q3155636 a wd:Q222174 ;
+    rdfs:label "isovitexin"@en .
+
+wd:Q3217922 a wd:Q222174 ;
+    rdfs:label "laricitrin"@en .
+
+wd:Q3277926 a wd:Q222174 ;
+    rdfs:label "ayanin"@en .
+
+wd:Q3332112 a wd:Q222174 ;
+    rdfs:label "Mearnsetin"@en .
+
+wd:Q3334749 a wd:Q222174 ;
+    rdfs:label "afzelin"@en .
+
+wd:Q3337057 a wd:Q222174 ;
+    rdfs:label "natsudaidain"@en .
+
+wd:Q3347189 a wd:Q222174 ;
+    rdfs:label "eupafolin"@en .
+
+wd:Q3356627 a wd:Q222174 ;
+    rdfs:label "oroxylin A"@en .
+
+wd:Q3484909 a wd:Q222174 ;
+    rdfs:label "sinensetin"@en .
+
+wd:Q3493504 a wd:Q222174 ;
+    rdfs:label "spinacetin"@en .
+
+wd:Q3509026 a wd:Q222174 ;
+    rdfs:label "syringetin"@en .
+
+wd:Q3516969 a wd:Q222174 ;
+    rdfs:label "tectochrysin"@en .
+
+wd:Q372291 a wd:Q170744 ;
+    rdfs:label "methyl ethyl ketone"@en .
+
+wd:Q393336 a wd:Q222174 ;
+    rdfs:label "kaempferol"@en .
+
+wd:Q408088 a wd:Q222174 ;
+    rdfs:label "xanthohumol"@en .
+
+wd:Q409478 a wd:Q222174 ;
+    rdfs:label "quercetin"@en .
+
+wd:Q409606 a wd:Q222174 ;
+    rdfs:label "wogonin"@en .
+
+wd:Q411462 a wd:Q516751 ;
+    rdfs:label "tylosin"@en .
+
+wd:Q411648 a wd:Q516751 ;
+    rdfs:label "tacrolimus"@en .
+
+wd:Q415007 a wd:Q222174 ;
+    rdfs:label "(+)-catechin"@en .
+
+wd:Q415011 a wd:Q222174 ;
+    rdfs:label "luteolin"@en .
+
+wd:Q416138 a wd:Q222174 ;
+    rdfs:label "isorhamnetin"@en .
+
+wd:Q418224 a wd:Q222174 ;
+    rdfs:label "morin"@en .
+
+wd:Q418384 a wd:Q222174 ;
+    rdfs:label "fisetin"@en .
+
+wd:Q421676 a wd:Q222174 ;
+    rdfs:label "Orientin"@en .
+
+wd:Q422442 a wd:Q516751 ;
+    rdfs:label "doxycycline"@en .
+
+wd:Q424567 a wd:Q222174 ;
+    rdfs:label "apigenin"@en .
+
+wd:Q43267746 a wd:Q516751 ;
+    rdfs:label "Hirsutellone B"@en .
+
+wd:Q43396443 a wd:Q516751 ;
+    rdfs:label "Photodeoxytridachione"@en .
+
+wd:Q43869524 a wd:Q516751 ;
+    rdfs:label "(+)-crocacin C"@en .
+
+wd:Q44007750 a wd:Q516751 ;
+    rdfs:label "tautomycetin"@en .
+
+wd:Q44107971 a wd:Q516751 ;
+    rdfs:label "Avermectin B1a"@en .
+
+wd:Q44165697 a wd:Q516751 ;
+    rdfs:label "Cryptosporiopsin A"@en .
+
+wd:Q44167222 a wd:Q222174 ;
+    rdfs:label "tupichinol A"@en .
+
+wd:Q44175462 a wd:Q516751 ;
+    rdfs:label "Deoxyherqueinone"@en .
+
+wd:Q44178369 a wd:Q516751 ;
+    rdfs:label "Tarchonanthuslactone"@en .
+
+wd:Q44178535 a wd:Q516751 ;
+    rdfs:label "Stegobinone"@en .
+
+wd:Q44180992 a wd:Q516751 ;
+    rdfs:label "muamvatin"@en .
+
+wd:Q44224407 a wd:Q516751 ;
+    rdfs:label "(-)-spiculoic acid A"@en .
+
+wd:Q44270099 a wd:Q516751 ;
+    rdfs:label "Deoxyherquienone"@en .
+
+wd:Q44297259 a wd:Q516751 ;
+    rdfs:label "(11β)-11-methoxycurvularin"@en .
+
+wd:Q4639638 a wd:Q222174 ;
+    rdfs:label "5-O-Methylmyricetin"@en .
+
+wd:Q4690888 a wd:Q222174 ;
+    rdfs:label "(-)-epiafzelechin"@en .
+
+wd:Q4811191 a wd:Q222174 ;
+    rdfs:label "Astragalin"@en .
+
+wd:Q49546 a wd:Q170744 ;
+    rdfs:label "acetone"@en .
+
+wd:Q4965995 a wd:Q222174 ;
+    rdfs:label "Brickellin"@en .
+
+wd:Q5002498 a wd:Q222174 ;
+    rdfs:label "butein"@en .
+
+wd:Q5038242 a wd:Q222174 ;
+    rdfs:label "dihydroxymethoxychalcone"@en .
+
+wd:Q5051792 a wd:Q222174 ;
+    rdfs:label "Catechin-7-O-glucoside"@en .
+
+wd:Q5059026 a wd:Q222174 ;
+    rdfs:label "centaureidin"@en .
+
+wd:Q5114941 a wd:Q222174 ;
+    rdfs:label "chrysosplenetin"@en .
+
+wd:Q5120191 a wd:Q222174 ;
+    rdfs:label "Cinchonain-Ib"@en .
+
+wd:Q5150958 a wd:Q222174 ;
+    rdfs:label "combretol"@en .
+
+wd:Q51617505 a wd:Q222174 ;
+    rdfs:label "(-)-epigallocatechin"@en .
+
+wd:Q517266 a wd:Q170744 ;
+    rdfs:label "2-heptanone"@en .
+
+wd:Q5242815 a wd:Q222174 ;
+    rdfs:label "Hyperoside"@en .
+
+wd:Q5275447 a wd:Q222174 ;
+    rdfs:label "diffutin"@en .
+
+wd:Q5275448 a wd:Q222174 ;
+    rdfs:label "Diffutidin"@en .
+
+wd:Q5382492 a wd:Q222174 ;
+    rdfs:label "epicatechin gallate"@en .
+
+wd:Q5409931 a wd:Q222174 ;
+    rdfs:label "eupatolitin"@en .
+
+wd:Q5413727 a wd:Q222174 ;
+    rdfs:label "Europetin"@en .
+
+wd:Q5454456 a wd:Q222174 ;
+    rdfs:label "fisetinidol"@en .
+
+wd:Q5458167 a wd:Q222174 ;
+    rdfs:label "flavokavain B"@en .
+
+wd:Q5458168 a wd:Q222174 ;
+    rdfs:label "Flavokavain C"@en .
+
+wd:Q5519120 a wd:Q222174 ;
+    rdfs:label "gallocatechin gallate"@en .
+
+wd:Q5615369 a wd:Q222174 ;
+    rdfs:label "Guibourtinidol"@en .
+
+wd:Q57420731 a wd:Q516751 ;
+    rdfs:label "Hyaluromycin"@en .
+
+wd:Q57697944 a wd:Q516751 ;
+    rdfs:label "Caldorin"@en .
+
+wd:Q57748943 a wd:Q516751 ;
+    rdfs:label "Purpurogenic acid"@en .
+
+wd:Q57981114 a wd:Q516751 ;
+    rdfs:label "fusarimine"@en .
+
+wd:Q57981745 a wd:Q516751 ;
+    rdfs:label "dothideomynone A"@en .
+
+wd:Q58211689 a wd:Q516751 ;
+    rdfs:label "Bionectriol C"@en .
+
+wd:Q58361196 a wd:Q516751 ;
+    rdfs:label "(11β)-11-hydroxycurvularin"@en .
+
+wd:Q58371294 a wd:Q516751 ;
+    rdfs:label "Difficidin"@en .
+
+wd:Q58371414 a wd:Q516751 ;
+    rdfs:label "Siphonarin B"@en .
+
+wd:Q5861543 a wd:Q222174 ;
+    rdfs:label "ficine"@en .
+
+wd:Q58837425 a wd:Q516751 ;
+    rdfs:label "Mollipilin A"@en .
+
+wd:Q58839832 a wd:Q516751 ;
+    rdfs:label "Isolasalocid A"@en .
+
+wd:Q59220488 a wd:Q516751 ;
+    rdfs:label "pironetin"@en .
+
+wd:Q59241846 a wd:Q516751 ;
+    rdfs:label "oxoapratoxin A"@en .
+
+wd:Q59242781 a wd:Q516751 ;
+    rdfs:label "peloruside B"@en .
+
+wd:Q59247007 a wd:Q516751 ;
+    rdfs:label "(-)-rasfonin"@en .
+
+wd:Q59263700 a wd:Q516751 ;
+    rdfs:label "spongistatin 1"@en .
+
+wd:Q59287150 a wd:Q516751 ;
+    rdfs:label "Lasiodiplodin"@en .
+
+wd:Q5931085 a wd:Q222174 ;
+    rdfs:label "quercetagetin"@en .
+
+wd:Q59313278 a wd:Q516751 ;
+    rdfs:label "Spirastrellolide F methyl ester"@en .
+
+wd:Q598356 a wd:Q222174 ;
+    rdfs:label "axillarin"@en .
+
+wd:Q5985057 a wd:Q222174 ;
+    rdfs:label "icariin"@en .
+
+wd:Q6110552 a wd:Q222174 ;
+    rdfs:label "Jaceidin"@en .
+
+wd:Q61466836 a wd:Q19834818 ;
+    rdfs:label "Borirene"@en .
+
+wd:Q62736035 a wd:Q170744 ;
+    rdfs:label "Nectaryl"@en .
+
+wd:Q6345965 a wd:Q222174 ;
+    rdfs:label "lespedin"@en .
+
+wd:Q63568786 a wd:Q516751 ;
+    rdfs:label "linfuranone A"@en .
+
+wd:Q6368495 a wd:Q222174 ;
+    rdfs:label "karanjin"@en .
+
+wd:Q6534062 a wd:Q222174 ;
+    rdfs:label "Leuco-fisetinidin"@en .
+
+wd:Q6534133 a wd:Q222174 ;
+    rdfs:label "leucodelphidin"@en .
+
+wd:Q65936552 a wd:Q222174 ;
+    rdfs:label "cannflavin A"@en .
+
+wd:Q65936596 a wd:Q222174 ;
+    rdfs:label "cannflavin B"@en .
+
+wd:Q6626552 a wd:Q222174 ;
+    rdfs:label "patuletin"@en .
+
+wd:Q6720157 a wd:Q516751 ;
+    rdfs:label "maytansine"@en .
+
+wd:Q6810939 a wd:Q222174 ;
+    rdfs:label "Melacacidin"@en .
+
+wd:Q6821699 a wd:Q222174 ;
+    rdfs:label "Mesquitol"@en .
+
+wd:Q6871627 a wd:Q222174 ;
+    rdfs:label "querciturone"@en .
+
+wd:Q6948223 a wd:Q222174 ;
+    rdfs:label "Myricitrin"@en .
+
+wd:Q6963565 a wd:Q170744 ;
+    rdfs:label "Penguinone"@en .
+
+wd:Q7081816 a wd:Q222174 ;
+    rdfs:label "okanin"@en .
+
+wd:Q7089950 a wd:Q222174 ;
+    rdfs:label "ombuin"@en .
+
+wd:Q7188825 a wd:Q222174 ;
+    rdfs:label "Phylloflavan"@en .
+
+wd:Q7193709 a wd:Q516751 ;
+    rdfs:label "picromycin"@en .
+
+wd:Q72460616 a wd:Q71573538 ;
+    rdfs:label "1,1-Cyclopropanedimethanol cyclic sulfite"@en .
+
+wd:Q72472745 a wd:Q71573538,
+        wd:Q71573704 ;
+    rdfs:label "1,3,2-Dioxathiane 2-oxide"@en .
+
+wd:Q7271328 a wd:Q222174 ;
+    rdfs:label "quercetin 3-sulfate"@en .
+
+wd:Q7317388 a wd:Q222174 ;
+    rdfs:label "retusin"@en .
+
+wd:Q73400761 a wd:Q71574018 ;
+    rdfs:label "trypanothione"@en .
+
+wd:Q7352935 a wd:Q222174 ;
+    rdfs:label "robinetinidol"@en .
+
+wd:Q7352943 a wd:Q222174 ;
+    rdfs:label "robinin"@en .
+
+wd:Q7370686 a wd:Q222174 ;
+    rdfs:label "rottlerin"@en .
+
+wd:Q7420435 a wd:Q222174 ;
+    rdfs:label "santin"@en .
+
+wd:Q74410995 a wd:Q170744 ;
+    rdfs:label "3-dehydro-scyllo-inosose"@en .
+
+wd:Q74411968 a wd:Q516751 ;
+    rdfs:label "deoxyspectinabilin"@en .
+
+wd:Q74417218 a wd:Q170744 ;
+    rdfs:label "4-hydroxy-2-oxobutanal"@en .
+
+wd:Q74417350 a wd:Q66194 ;
+    rdfs:label "cyclic AMP-AMP-GMP(3-)"@en .
+
+wd:Q74418144 a wd:Q71574018 ;
+    rdfs:label "salviol"@en .
+
+wd:Q74418254 a wd:Q170744 ;
+    rdfs:label "(3S,5R,10R,12S,14S,15R,16R)-3,5,10,14,15-pentahydroxy-12,16-dimethylicosan-2-one"@en .
+
+wd:Q74418262 a wd:Q516751 ;
+    rdfs:label "nectriapyrone"@en .
+
+wd:Q74418285 a wd:Q66194 ;
+    rdfs:label "3','3-cyclic CMP-UMP(2-)"@en .
+
+wd:Q7563136 a wd:Q222174 ;
+    rdfs:label "Sophoradin"@en .
+
+wd:Q7841515 a wd:Q222174 ;
+    rdfs:label "Trifolin"@en .
+
+wd:Q8066579 a wd:Q516751 ;
+    rdfs:label "zaragozic acid a"@en .
+
+wd:Q8085718 a wd:Q222174 ;
+    rdfs:label "(2R,3S,4S)-leucocyanidin"@en .
+
+wd:Q80928338 a wd:Q19834818 ;
+    rdfs:label "Q80928338"^^xsd:string .
+
+wd:Q9163056 a wd:Q222174 ;
+    rdfs:label "avicularin"@en .
+
+wd:Q951449 a wd:Q222174 ;
+    rdfs:label "myricetin"@en .
+
+wd:Q973741 a wd:Q222174 ;
+    rdfs:label "chrysin"@en .
+
+wd:Q72185287 rdfs:label "flavonoid superclass"@en ;
+    rdfs:subClassOf wd:Q71574018 .
+
+wd:Q71573704 rdfs:label "organic heterocyclic compound"@en .
+
+wd:Q66194 rdfs:label "cyclic compound"@en .
+
+wd:Q71574018 rdfs:label "organooxygen compound"@en .
+
+wd:Q19834818 rdfs:label "aromatic compound"@en ;
+    rdfs:subClassOf wd:Q66194 .
+
+wd:Q71573538 rdfs:label "oxacycle"@en ;
+    rdfs:subClassOf wd:Q71573704,
+        wd:Q71574018 .
+
+wd:Q170744 rdfs:label "ketone"@en .
+
+wd:Q516751 rdfs:label "polyketide"@en ;
+    rdfs:subClassOf wd:Q170744 .
+
+wd:Q222174 rdfs:label "flavonoid"@en ;
+    rdfs:subClassOf wd:Q19834818,
+        wd:Q516751,
+        wd:Q71573538,
+        wd:Q72185287 .
+

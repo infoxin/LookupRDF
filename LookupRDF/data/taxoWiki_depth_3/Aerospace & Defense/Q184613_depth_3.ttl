@@ -1,0 +1,290 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1058309 a wd:Q184613 ;
+    rdfs:label "CIS 40 GL"@en .
+
+wd:Q1058450 a wd:Q184613 ;
+    rdfs:label "CIS 40 AGL"@en .
+
+wd:Q1069409 a wd:Q184613 ;
+    rdfs:label "XM307 Advanced Crew Served Weapon"@en .
+
+wd:Q1069658 a wd:Q184613 ;
+    rdfs:label "Mk 47 Striker"@en .
+
+wd:Q1073314 a wd:Q184613 ;
+    rdfs:label "China Lake Grenade Launcher"@en .
+
+wd:Q1074273 a wd:Q184613 ;
+    rdfs:label "GM-94"@en .
+
+wd:Q1143777 a wd:Q184613 ;
+    rdfs:label "Heckler & Koch AG36"@en .
+
+wd:Q1144896 a wd:Q184613 ;
+    rdfs:label "GMG"@en .
+
+wd:Q11547903 a wd:Q184613 ;
+    rdfs:label "Q11547903"^^xsd:string .
+
+wd:Q12070693 a wd:Q184613 ;
+    rdfs:label "TBL-37"@en .
+
+wd:Q1247652 a wd:Q184613 ;
+    rdfs:label "Milkor MGL"@en .
+
+wd:Q1413331 a wd:Q184613 ;
+    rdfs:label "Hawk MM-1"@en .
+
+wd:Q1485900 a wd:Q184613 ;
+    rdfs:label "SIG GL 5040"@en .
+
+wd:Q1551728 a wd:Q184613 ;
+    rdfs:label "Howa Type 96"@en .
+
+wd:Q1563768 a wd:Q184613 ;
+    rdfs:label "Heckler & Koch HK69A1"@en .
+
+wd:Q1563788 a wd:Q184613 ;
+    rdfs:label "Q1563788"^^xsd:string .
+
+wd:Q15991107 a wd:Q184613 ;
+    rdfs:label "Milkor 40mm UBGL grenade launcher"@en .
+
+wd:Q16619256 a wd:Q12796 ;
+    rdfs:label "Q16619256"^^xsd:string .
+
+wd:Q1757187 a wd:Q184613 ;
+    rdfs:label "RPO-A Shmel"@en .
+
+wd:Q178243 a wd:Q12796 ;
+    rdfs:label "musket"@en .
+
+wd:Q1787862 rdfs:label "HK79"@en ;
+    rdfs:subClassOf wd:Q4368366 .
+
+wd:Q1806110 a wd:Q1520392 ;
+    rdfs:label "ENERGA anti-tank rifle grenade"@en .
+
+wd:Q1902575 a wd:Q12796 ;
+    rdfs:label "AK-12"@en .
+
+wd:Q194129 a wd:Q184613 ;
+    rdfs:label "Type 89 grenade discharger"@en .
+
+wd:Q1970619 a wd:Q12796 ;
+    rdfs:label "Captive bolt pistol"@en .
+
+wd:Q2023085 a wd:Q184613 ;
+    rdfs:label "DP-64"@en .
+
+wd:Q2024471 a wd:Q4368366 ;
+    rdfs:label "GP-30"@en .
+
+wd:Q2033786 a wd:Q184613 ;
+    rdfs:label "Pallad grenade launcher"@en .
+
+wd:Q20820229 a wd:Q153556 ;
+    rdfs:label "Q20820229"^^xsd:string .
+
+wd:Q20859678 a wd:Q12796 ;
+    rdfs:label "L129A1"@en .
+
+wd:Q2302752 a wd:Q184613 ;
+    rdfs:label "Shoulder-launched Multipurpose Assault Weapon"@en .
+
+wd:Q2375372 a wd:Q184613 ;
+    rdfs:label "RPG-16"@en .
+
+wd:Q2469322 a wd:Q184613 ;
+    rdfs:label "Brügger & Thomet GL-06"@en .
+
+wd:Q25495749 rdfs:label "Q25495749"^^xsd:string ;
+    rdfs:subClassOf wd:Q1520392 .
+
+wd:Q2566945 a wd:Q184613 ;
+    rdfs:label "XM148 grenade launcher"@en .
+
+wd:Q2627430 rdfs:label "Q2627430"^^xsd:string ;
+    rdfs:subClassOf wd:Q184613 .
+
+wd:Q2739516 a wd:Q1520392 ;
+    rdfs:label "APAV40"@en .
+
+wd:Q2876577 a wd:Q184613 ;
+    rdfs:label "Type 10 grenade discharger"@en .
+
+wd:Q29030858 rdfs:label "smoke grenade discharger"@en ;
+    rdfs:subClassOf wd:Q184613 .
+
+wd:Q292668 a wd:Q2991775 ;
+    rdfs:label "AGS-17"@en .
+
+wd:Q292671 a wd:Q2991775 ;
+    rdfs:label "AGS-30"@en .
+
+wd:Q3063035 a wd:Q1194773 ;
+    rdfs:label "Q3063035"^^xsd:string .
+
+wd:Q3116425 a wd:Q1520392 ;
+    rdfs:label "AC58"@en .
+
+wd:Q3216915 a wd:Q184613 ;
+    rdfs:label "Lance-grenade individuel Mle F1"@en .
+
+wd:Q3272600 a wd:Q184613 ;
+    rdfs:label "M75 grenade launcher"@en .
+
+wd:Q3326182 a wd:Q12796 ;
+    rdfs:label "Q3326182"^^xsd:string .
+
+wd:Q3389280 a wd:Q12796 ;
+    rdfs:label "Horse-pistols"@en .
+
+wd:Q3505908 a wd:Q184613 ;
+    rdfs:label "Heckler & Koch AG-C/GLM"@en .
+
+wd:Q3775913 a wd:Q184613 ;
+    rdfs:label "C90-CR"@en .
+
+wd:Q3841182 a wd:Q184613 ;
+    rdfs:label "M320 Grenade Launcher Module"@en .
+
+wd:Q39090796 a wd:Q12796 ;
+    rdfs:label "Ball and shot gun"@en .
+
+wd:Q4046153 a wd:Q184613 ;
+    rdfs:label "Neopup PAW-20"@en .
+
+wd:Q4053933 a wd:Q2991775 ;
+    rdfs:label "AGS-40"@en .
+
+wd:Q4074037 a wd:Q184613 ;
+    rdfs:label "BS-1 Tishina"@en .
+
+wd:Q4147790 a wd:Q1520392 ;
+    rdfs:label "Q4147790"^^xsd:string .
+
+wd:Q4328935 a wd:Q4368366 ;
+    rdfs:label "Q4328935"^^xsd:string .
+
+wd:Q4346291 a wd:Q184613 ;
+    rdfs:label "granatnik wz.36"@en .
+
+wd:Q4386485 a wd:Q184613 ;
+    rdfs:label "RGM-40"@en .
+
+wd:Q4386490 a wd:Q184613 ;
+    rdfs:label "RGS-50M"@en .
+
+wd:Q4468274 a wd:Q2991775 ;
+    rdfs:label "UAG-40"@en .
+
+wd:Q4635860 a wd:Q184613 ;
+    rdfs:label "37 mm flare"@en .
+
+wd:Q4653644 a wd:Q184613 ;
+    rdfs:label "ARDE 40 mm Under Barrel Grenade Launcher"@en .
+
+wd:Q4787766 a wd:Q2991775 ;
+    rdfs:label "Q4787766"^^xsd:string .
+
+wd:Q4802217 a wd:Q184613 ;
+    rdfs:label "Aruncător de grenade 40 mm"@en .
+
+wd:Q482511 a wd:Q184613 ;
+    rdfs:label "M79"@en .
+
+wd:Q486396 a wd:Q12796 ;
+    rdfs:label "shotgun"@en .
+
+wd:Q5276660 a wd:Q184613 ;
+    rdfs:label "Dilagrama m/65"@en .
+
+wd:Q597174 a wd:Q184613 ;
+    rdfs:label "Northover Projector"@en .
+
+wd:Q60883976 a wd:Q12796 ;
+    rdfs:label "Swinburn–Henry"@en .
+
+wd:Q6122248 a wd:Q184613 ;
+    rdfs:label "Type 87 grenade launcher"@en .
+
+wd:Q61781455 a wd:Q12796 ;
+    rdfs:label "Cannon (Bastard Culverin) made for Henry II, King of France"@en .
+
+wd:Q626130 a wd:Q2991775 ;
+    rdfs:label "Daewoo Precision Industries K4"@en .
+
+wd:Q65033322 a wd:Q12796 ;
+    rdfs:label "Armário de Brinquedo"@en .
+
+wd:Q65033333 a wd:Q12796 ;
+    rdfs:label "Armário de Brinquedo"@en .
+
+wd:Q65033356 a wd:Q12796 ;
+    rdfs:label "Arma de Brinquedo"@en .
+
+wd:Q658123 a wd:Q1194773 ;
+    rdfs:label "light gas gun"@en .
+
+wd:Q6713536 a wd:Q184613 ;
+    rdfs:label "M129 grenade launcher"@en .
+
+wd:Q6713747 a wd:Q1520392 ;
+    rdfs:label "M31 HEAT rifle grenade"@en .
+
+wd:Q6858115 a wd:Q184613 ;
+    rdfs:label "Milkor 37/38mm and 40mm Stopper"@en .
+
+wd:Q7043755 a wd:Q1520392 ;
+    rdfs:label "No. 68 AT Grenade"@en .
+
+wd:Q7179784 a wd:Q12796 ;
+    rdfs:label "Pfeifer Zeliska .600 Nitro Express revolver"@en .
+
+wd:Q840397 a wd:Q184613 ;
+    rdfs:label "GP-25"@en .
+
+wd:Q840716 a wd:Q184613 ;
+    rdfs:label "Denel Y3 AGL"@en .
+
+wd:Q85792043 a wd:Q1194773 ;
+    rdfs:label "Panjagan"@en .
+
+wd:Q904439 a wd:Q184613 ;
+    rdfs:label "SB LAG 40"@en .
+
+wd:Q907351 a wd:Q184613 ;
+    rdfs:label "M203"@en .
+
+wd:Q9275517 a wd:Q184613 ;
+    rdfs:label "LG1"@en .
+
+wd:Q972670 a wd:Q184613 ;
+    rdfs:label "XM25 CDTE"@en .
+
+wd:Q153556 rdfs:label "ranged weapon"@en .
+
+wd:Q4368366 rdfs:label "under-barrel grenade launcher"@en ;
+    rdfs:subClassOf wd:Q184613 .
+
+wd:Q1194773 rdfs:label "projectile weapon"@en ;
+    rdfs:subClassOf wd:Q153556 .
+
+wd:Q2991775 rdfs:label "automatic grenade launcher"@en ;
+    rdfs:subClassOf wd:Q184613 .
+
+wd:Q1520392 rdfs:label "rifle grenade"@en ;
+    rdfs:subClassOf wd:Q184613 .
+
+wd:Q12796 rdfs:label "firearm"@en ;
+    rdfs:subClassOf wd:Q1194773 .
+
+wd:Q184613 rdfs:label "grenade launcher"@en ;
+    rdfs:subClassOf wd:Q12796 .
+

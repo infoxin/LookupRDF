@@ -1,0 +1,506 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q11394841 a wd:Q223557 ;
+    rdfs:label "circular tank diversion"@en .
+
+wd:Q11771957 a wd:Q8205328 ;
+    rdfs:label "Mazer"@en .
+
+wd:Q1180147 a wd:Q8205328 ;
+    rdfs:label "Muszuj"@en .
+
+wd:Q12503357 a wd:Q8205328 ;
+    rdfs:label "Pasak"@en .
+
+wd:Q12778339 a wd:Q208443 ;
+    rdfs:label "valve of an internal combustion piston engine"@en .
+
+wd:Q12819564 a wd:Q16686448 ;
+    rdfs:label "station"@en .
+
+wd:Q140795 a wd:Q8205328 ;
+    rdfs:label "Zahlteller"@en .
+
+wd:Q1426994 a wd:Q208443 ;
+    rdfs:label "Flame arrester"@en .
+
+wd:Q1480773 a wd:Q208443 ;
+    rdfs:label "Driver's brake valve"@en .
+
+wd:Q1530393 a wd:Q16686448 ;
+    rdfs:label "RD-0120"@en .
+
+wd:Q1570662 a wd:Q8205328 ;
+    rdfs:label "semi-manufactured material"@en .
+
+wd:Q15859694 a wd:Q8205328 ;
+    rdfs:label "Q15859694"^^xsd:string .
+
+wd:Q15878776 a wd:Q8205328 ;
+    rdfs:label "Q15878776"^^xsd:string .
+
+wd:Q1622547 a wd:Q223557 ;
+    rdfs:label "core"@en .
+
+wd:Q16366526 a wd:Q16686448 ;
+    rdfs:label "Q16366526"^^xsd:string .
+
+wd:Q1683580 a wd:Q8205328 ;
+    rdfs:label "Tree shelter"@en .
+
+wd:Q17021922 a wd:Q223557 ;
+    rdfs:label "Heat number"@en .
+
+wd:Q17043327 a wd:Q16686448 ;
+    rdfs:label "Godman-Salvin Medal"@en .
+
+wd:Q17987586 a wd:Q8205328 ;
+    rdfs:label "clothes rack"@en .
+
+wd:Q18432897 a wd:Q208443 ;
+    rdfs:label "Q18432897"^^xsd:string .
+
+wd:Q184747 a wd:Q223557 ;
+    rdfs:label "character body"@en .
+
+wd:Q19610051 a wd:Q8205328 ;
+    rdfs:label "Stephanusa"@en .
+
+wd:Q20877089 a wd:Q223557 ;
+    rdfs:label "Hawaii Sesquicentennial half dollar"@en .
+
+wd:Q218774 a wd:Q8205328 ;
+    rdfs:label "Zollschnur"@en .
+
+wd:Q22914692 a wd:Q223557 ;
+    rdfs:label "Ultraviolet B"@en .
+
+wd:Q23052894 a wd:Q223557 ;
+    rdfs:label "Galeed"@en .
+
+wd:Q24251437 a wd:Q223557 ;
+    rdfs:label "Q24251437"^^xsd:string .
+
+wd:Q245668 a wd:Q6063171 ;
+    rdfs:label "Zylinderhahn"@en .
+
+wd:Q250386 a wd:Q1310239 ;
+    rdfs:label "pile"@en .
+
+wd:Q2851422 a wd:Q223557 ;
+    rdfs:label "Bit ring"@en .
+
+wd:Q28518885 a wd:Q208443 ;
+    rdfs:label "Q28518885"^^xsd:string .
+
+wd:Q2893427 a wd:Q1310239 ;
+    rdfs:label "lip"@en .
+
+wd:Q30312614 a wd:Q223557 ;
+    rdfs:label "The Elephant's Foot"@en .
+
+wd:Q30715253 a wd:Q223557 ;
+    rdfs:label "X-ray machine"@en .
+
+wd:Q3346827 a wd:Q223557 ;
+    rdfs:label "Q3346827"^^xsd:string .
+
+wd:Q340069 a wd:Q8205328 ;
+    rdfs:label "Gigantes y cabezudos"@en .
+
+wd:Q3620771 a wd:Q8205328 ;
+    rdfs:label "Apoti"@en .
+
+wd:Q3738063 a wd:Q8205328 ;
+    rdfs:label "International Prototype of the Kilogram"@en .
+
+wd:Q378619 a wd:Q8205328 ;
+    rdfs:label "CC"@en .
+
+wd:Q381165 a wd:Q223557 ;
+    rdfs:label "trophy"@en .
+
+wd:Q394352 a wd:Q223557 ;
+    rdfs:label "inner core"@en .
+
+wd:Q41560840 a wd:Q8205328 ;
+    rdfs:label "Q41560840"^^xsd:string .
+
+wd:Q41560843 a wd:Q8205328 ;
+    rdfs:label "Q41560843"^^xsd:string .
+
+wd:Q41560845 a wd:Q8205328 ;
+    rdfs:label "Q41560845"^^xsd:string .
+
+wd:Q41560847 a wd:Q8205328 ;
+    rdfs:label "Q41560847"^^xsd:string .
+
+wd:Q41560848 a wd:Q8205328 ;
+    rdfs:label "Q41560848"^^xsd:string .
+
+wd:Q43231469 a wd:Q208443 ;
+    rdfs:label "Q43231469"^^xsd:string .
+
+wd:Q44742777 a wd:Q223557 ;
+    rdfs:label "Door knocker"@en .
+
+wd:Q45100013 a wd:Q223557 ;
+    rdfs:label "Q45100013"^^xsd:string .
+
+wd:Q47008864 a wd:Q16686448 ;
+    rdfs:label "Space Electronic Firenze"@en .
+
+wd:Q47492509 a wd:Q8205328 ;
+    rdfs:label "Pseliumene"@en .
+
+wd:Q495268 a wd:Q8205328 ;
+    rdfs:label "Snuppy"@en .
+
+wd:Q5462929 a wd:Q208443 ;
+    rdfs:label "Flushometer"@en .
+
+wd:Q54804276 a wd:Q1310239 ;
+    rdfs:label "foot"@en .
+
+wd:Q54854504 a wd:Q8205328 ;
+    rdfs:label "Q54854504"^^xsd:string .
+
+wd:Q56289720 a wd:Q8205328 ;
+    rdfs:label "Gold-glass base"@en .
+
+wd:Q5795669 a wd:Q8205328 ;
+    rdfs:label "Q5795669"^^xsd:string .
+
+wd:Q584230 rdfs:label "Plug valve"@en ;
+    rdfs:subClassOf wd:Q6063171 .
+
+wd:Q5849509 a wd:Q8205328 ;
+    rdfs:label "Q5849509"^^xsd:string .
+
+wd:Q5888893 a wd:Q16686448 ;
+    rdfs:label "Q5888893"^^xsd:string .
+
+wd:Q5903583 a wd:Q16686448 ;
+    rdfs:label "Q5903583"^^xsd:string .
+
+wd:Q5987368 a wd:Q8205328 ;
+    rdfs:label "Idaho Gem"@en .
+
+wd:Q60024227 a wd:Q223557 ;
+    rdfs:label "Q60024227"^^xsd:string .
+
+wd:Q60740239 a wd:Q223557 ;
+    rdfs:label "Caryatid Mirror"@en .
+
+wd:Q60740792 a wd:Q223557 ;
+    rdfs:label "Askos"@en .
+
+wd:Q60751750 a wd:Q223557 ;
+    rdfs:label "Comb with Gazelle"@en .
+
+wd:Q60759687 a wd:Q223557 ;
+    rdfs:label "Giraffe Head"@en .
+
+wd:Q60763364 a wd:Q223557 ;
+    rdfs:label "Face from a Cosmetic Spoon"@en .
+
+wd:Q6076485 a wd:Q8205328 ;
+    rdfs:label "Q6076485"^^xsd:string .
+
+wd:Q60777976 a wd:Q223557 ;
+    rdfs:label "Caryatid Mirror"@en .
+
+wd:Q6155529 a wd:Q8205328 ;
+    rdfs:label "Jansen's linkage"@en .
+
+wd:Q62415424 a wd:Q8205328 ;
+    rdfs:label "playing cards and box for the game of dasavatara ganjifa"@en .
+
+wd:Q6332347 a wd:Q223557 ;
+    rdfs:label "KL-51"@en .
+
+wd:Q63554971 a wd:Q223557 ;
+    rdfs:label "Bligh Family Collection"@en .
+
+wd:Q65944235 a wd:Q223557 ;
+    rdfs:label "Q65944235"^^xsd:string .
+
+wd:Q65944236 a wd:Q223557 ;
+    rdfs:label "Q65944236"^^xsd:string .
+
+wd:Q65944237 a wd:Q223557 ;
+    rdfs:label "Q65944237"^^xsd:string .
+
+wd:Q65944238 a wd:Q223557 ;
+    rdfs:label "Q65944238"^^xsd:string .
+
+wd:Q65944239 a wd:Q223557 ;
+    rdfs:label "Q65944239"^^xsd:string .
+
+wd:Q65944241 a wd:Q223557 ;
+    rdfs:label "Q65944241"^^xsd:string .
+
+wd:Q65944242 a wd:Q223557 ;
+    rdfs:label "Q65944242"^^xsd:string .
+
+wd:Q65944243 a wd:Q223557 ;
+    rdfs:label "Q65944243"^^xsd:string .
+
+wd:Q65944244 a wd:Q223557 ;
+    rdfs:label "Q65944244"^^xsd:string .
+
+wd:Q65944245 a wd:Q223557 ;
+    rdfs:label "Q65944245"^^xsd:string .
+
+wd:Q65944246 a wd:Q223557 ;
+    rdfs:label "Q65944246"^^xsd:string .
+
+wd:Q65944248 a wd:Q223557 ;
+    rdfs:label "Q65944248"^^xsd:string .
+
+wd:Q65944250 a wd:Q223557 ;
+    rdfs:label "Q65944250"^^xsd:string .
+
+wd:Q65944251 a wd:Q223557 ;
+    rdfs:label "Q65944251"^^xsd:string .
+
+wd:Q65944252 a wd:Q223557 ;
+    rdfs:label "Q65944252"^^xsd:string .
+
+wd:Q65944253 a wd:Q223557 ;
+    rdfs:label "Q65944253"^^xsd:string .
+
+wd:Q65944254 a wd:Q223557 ;
+    rdfs:label "Q65944254"^^xsd:string .
+
+wd:Q65944255 a wd:Q223557 ;
+    rdfs:label "Q65944255"^^xsd:string .
+
+wd:Q65944258 a wd:Q223557 ;
+    rdfs:label "Q65944258"^^xsd:string .
+
+wd:Q65944260 a wd:Q223557 ;
+    rdfs:label "Q65944260"^^xsd:string .
+
+wd:Q65944261 a wd:Q223557 ;
+    rdfs:label "Q65944261"^^xsd:string .
+
+wd:Q65944262 a wd:Q223557 ;
+    rdfs:label "Q65944262"^^xsd:string .
+
+wd:Q65944263 a wd:Q223557 ;
+    rdfs:label "Q65944263"^^xsd:string .
+
+wd:Q65944264 a wd:Q223557 ;
+    rdfs:label "Q65944264"^^xsd:string .
+
+wd:Q65944265 a wd:Q223557 ;
+    rdfs:label "Q65944265"^^xsd:string .
+
+wd:Q65944266 a wd:Q223557 ;
+    rdfs:label "Q65944266"^^xsd:string .
+
+wd:Q65944267 a wd:Q223557 ;
+    rdfs:label "Q65944267"^^xsd:string .
+
+wd:Q65944270 a wd:Q223557 ;
+    rdfs:label "Q65944270"^^xsd:string .
+
+wd:Q65944271 a wd:Q223557 ;
+    rdfs:label "Q65944271"^^xsd:string .
+
+wd:Q65944272 a wd:Q223557 ;
+    rdfs:label "Q65944272"^^xsd:string .
+
+wd:Q65944273 a wd:Q223557 ;
+    rdfs:label "Q65944273"^^xsd:string .
+
+wd:Q65944274 a wd:Q223557 ;
+    rdfs:label "Q65944274"^^xsd:string .
+
+wd:Q65944276 a wd:Q223557 ;
+    rdfs:label "Q65944276"^^xsd:string .
+
+wd:Q65944277 a wd:Q223557 ;
+    rdfs:label "Q65944277"^^xsd:string .
+
+wd:Q65944278 a wd:Q223557 ;
+    rdfs:label "Q65944278"^^xsd:string .
+
+wd:Q65944279 a wd:Q223557 ;
+    rdfs:label "Q65944279"^^xsd:string .
+
+wd:Q65944281 a wd:Q223557 ;
+    rdfs:label "Q65944281"^^xsd:string .
+
+wd:Q65944282 a wd:Q223557 ;
+    rdfs:label "Q65944282"^^xsd:string .
+
+wd:Q65944283 a wd:Q223557 ;
+    rdfs:label "Q65944283"^^xsd:string .
+
+wd:Q65944284 a wd:Q223557 ;
+    rdfs:label "Q65944284"^^xsd:string .
+
+wd:Q65944285 a wd:Q223557 ;
+    rdfs:label "Q65944285"^^xsd:string .
+
+wd:Q65944287 a wd:Q223557 ;
+    rdfs:label "Q65944287"^^xsd:string .
+
+wd:Q65944288 a wd:Q223557 ;
+    rdfs:label "Q65944288"^^xsd:string .
+
+wd:Q65944289 a wd:Q223557 ;
+    rdfs:label "Q65944289"^^xsd:string .
+
+wd:Q65944290 a wd:Q223557 ;
+    rdfs:label "Q65944290"^^xsd:string .
+
+wd:Q65944292 a wd:Q223557 ;
+    rdfs:label "Q65944292"^^xsd:string .
+
+wd:Q65944294 a wd:Q223557 ;
+    rdfs:label "Q65944294"^^xsd:string .
+
+wd:Q65944295 a wd:Q223557 ;
+    rdfs:label "Q65944295"^^xsd:string .
+
+wd:Q65944296 a wd:Q223557 ;
+    rdfs:label "Q65944296"^^xsd:string .
+
+wd:Q65944297 a wd:Q223557 ;
+    rdfs:label "Q65944297"^^xsd:string .
+
+wd:Q65944298 a wd:Q223557 ;
+    rdfs:label "Q65944298"^^xsd:string .
+
+wd:Q65944299 a wd:Q223557 ;
+    rdfs:label "Q65944299"^^xsd:string .
+
+wd:Q65944405 a wd:Q223557 ;
+    rdfs:label "Q65944405"^^xsd:string .
+
+wd:Q6784637 a wd:Q8205328 ;
+    rdfs:label "Massie Wireless Station"@en .
+
+wd:Q693464 a wd:Q223557 ;
+    rdfs:label "cash"@en .
+
+wd:Q765382 a wd:Q223557 ;
+    rdfs:label "Dragon Throne"@en .
+
+wd:Q7706188 a wd:Q8205328 ;
+    rdfs:label "Tetra"@en .
+
+wd:Q778827 a wd:Q208443 ;
+    rdfs:label "Q778827"^^xsd:string .
+
+wd:Q7865753 a wd:Q1310239 ;
+    rdfs:label "USArray"@en .
+
+wd:Q79473720 a wd:Q223557 ;
+    rdfs:label "Tray with Pond Scene"@en .
+
+wd:Q79473936 a wd:Q223557 ;
+    rdfs:label "Kohl Container"@en .
+
+wd:Q79474094 a wd:Q223557 ;
+    rdfs:label "Kohl Container"@en .
+
+wd:Q79474113 a wd:Q223557 ;
+    rdfs:label "Mirror with Falcons"@en .
+
+wd:Q79474117 a wd:Q223557 ;
+    rdfs:label "Mirror with Falcons"@en .
+
+wd:Q79474121 a wd:Q223557 ;
+    rdfs:label "Mirror with Falcons"@en .
+
+wd:Q79475184 a wd:Q223557 ;
+    rdfs:label "Fragment of a Mirror Disk"@en .
+
+wd:Q79479733 a wd:Q223557 ;
+    rdfs:label "Perfume Case (Etui flaconnier)"@en .
+
+wd:Q79555117 a wd:Q8205328 ;
+    rdfs:label "Resolution and Adventure Medal, 1772"@en .
+
+wd:Q7983255 a wd:Q8205328 ;
+    rdfs:label "Weres"@en .
+
+wd:Q79927901 a wd:Q223557 ;
+    rdfs:label "Kohl Tube"@en .
+
+wd:Q79927904 a wd:Q223557 ;
+    rdfs:label "Kohl Tube"@en .
+
+wd:Q79927906 a wd:Q223557 ;
+    rdfs:label "Kohl Tube (lid)"@en .
+
+wd:Q79999286 a wd:Q223557 ;
+    rdfs:label "Scent Bottle and Box in the Form of a Woman"@en .
+
+wd:Q80005960 a wd:Q223557 ;
+    rdfs:label "Fragment of a Cosmetic Dish"@en .
+
+wd:Q80014815 a wd:Q223557 ;
+    rdfs:label "Mirror"@en .
+
+wd:Q81973728 a wd:Q223557 ;
+    rdfs:label "The back of a lady wearing traditional Japanese clothing with fish motifs"@en .
+
+wd:Q821699 a wd:Q16686448 ;
+    rdfs:label "Berliner Rahmen"@en .
+
+wd:Q82628105 a wd:Q223557 ;
+    rdfs:label "Two fans with plant motifs"@en .
+
+wd:Q84613636 a wd:Q8205328 ;
+    rdfs:label "Q84613636"^^xsd:string .
+
+wd:Q85834701 a wd:Q8205328 ;
+    rdfs:label "architectural furniture"@en .
+
+wd:Q860571 a wd:Q223557 ;
+    rdfs:label "bait"@en .
+
+wd:Q9203288 a wd:Q1310239 ;
+    rdfs:label "Q9203288"^^xsd:string .
+
+wd:Q923605 a wd:Q8205328 ;
+    rdfs:label "Injaz"@en .
+
+wd:Q9293716 a wd:Q8205328 ;
+    rdfs:label "Hopa"@en .
+
+wd:Q9392077 a wd:Q223557 ;
+    rdfs:label "Zrzez"@en .
+
+wd:Q1517381 rdfs:label "ball valve"@en ;
+    rdfs:subClassOf wd:Q208443 .
+
+wd:Q40659076 rdfs:label "in-line component"@en ;
+    rdfs:subClassOf wd:Q1310239 .
+
+wd:Q6063171 rdfs:label "stopcock"@en ;
+    rdfs:subClassOf wd:Q1517381 .
+
+wd:Q1310239 rdfs:label "component"@en .
+
+wd:Q16686448 rdfs:label "artificial entity"@en .
+
+wd:Q208443 rdfs:label "valve"@en ;
+    rdfs:subClassOf wd:Q40659076,
+        wd:Q8205328 .
+
+wd:Q8205328 rdfs:label "artificial physical object"@en ;
+    rdfs:subClassOf wd:Q16686448,
+        wd:Q223557 .
+
+wd:Q223557 rdfs:label "physical object"@en .
+

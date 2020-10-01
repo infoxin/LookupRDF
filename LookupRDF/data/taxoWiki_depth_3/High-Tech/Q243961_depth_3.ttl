@@ -1,0 +1,371 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1023988 a wd:Q577764 ;
+    rdfs:label "COMBOX"@en .
+
+wd:Q1035238 a wd:Q1900326 ;
+    rdfs:label "Vehicular communication systems"@en .
+
+wd:Q10686214 a wd:Q1900326 ;
+    rdfs:label "Swedish Military History"@en .
+
+wd:Q1139352 a wd:Q1900326 ;
+    rdfs:label "Creative Cities Network"@en .
+
+wd:Q11833094 a wd:Q1900326 ;
+    rdfs:label "Q11833094"^^xsd:string .
+
+wd:Q11895623 a wd:Q1900326 ;
+    rdfs:label "Synoptic observation network"@en .
+
+wd:Q11927196 a wd:Q121359 ;
+    rdfs:label "Jardins de Winston Churchill"@en .
+
+wd:Q11965128 a wd:Q121359 ;
+    rdfs:label "Den bergenske kongevei"@en .
+
+wd:Q12048591 a wd:Q1068715 ;
+    rdfs:label "Q12048591"^^xsd:string .
+
+wd:Q12573958 a wd:Q577764 ;
+    rdfs:label "Q12573958"^^xsd:string .
+
+wd:Q1276307 a wd:Q1900326 ;
+    rdfs:label "European Robotics Platform"@en .
+
+wd:Q13439414 a wd:Q577764 ;
+    rdfs:label "Q13439414"^^xsd:string .
+
+wd:Q13509990 a wd:Q1900326 ;
+    rdfs:label "Q13509990"^^xsd:string .
+
+wd:Q14517537 a wd:Q1900326 ;
+    rdfs:label "Q14517537"^^xsd:string .
+
+wd:Q1531570 a wd:Q121359 ;
+    rdfs:label "Global Biodiversity Information Facility"@en .
+
+wd:Q154745 a wd:Q121359 ;
+    rdfs:label "Chavimochic"@en .
+
+wd:Q16319374 a wd:Q121359 ;
+    rdfs:label "Q16319374"^^xsd:string .
+
+wd:Q1666784 a wd:Q1900326 ;
+    rdfs:label "International Network of Women Engineers and Scientists"@en .
+
+wd:Q16957751 a wd:Q121359 ;
+    rdfs:label "China–Pakistan Economic Corridor"@en .
+
+wd:Q171 a wd:Q121359 ;
+    rdfs:label "wiki"@en .
+
+wd:Q1712985 a wd:Q577764 ;
+    rdfs:label "Q1712985"^^xsd:string .
+
+wd:Q1791781 a wd:Q1900326 ;
+    rdfs:label "Culture Box Seat"@en .
+
+wd:Q1810552 a wd:Q577764 ;
+    rdfs:label "Mobile User Objective System"@en .
+
+wd:Q1880729 a wd:Q577764 ;
+    rdfs:label "M-LVDS"@en .
+
+wd:Q20056130 a wd:Q121359 ;
+    rdfs:label "Manaus Infrastructure"@en .
+
+wd:Q2060195 a wd:Q1900326 ;
+    rdfs:label "Kuomboka Network"@en .
+
+wd:Q21004771 a wd:Q2354216 ;
+    rdfs:label "Q21004771"^^xsd:string .
+
+wd:Q2164968 a wd:Q1900326 ;
+    rdfs:label "TITAAN"@en .
+
+wd:Q2281014 a wd:Q577764 ;
+    rdfs:label "SILEX system"@en .
+
+wd:Q228327 a wd:Q1068715 ;
+    rdfs:label "access network"@en .
+
+wd:Q2300978 a wd:Q2354216 ;
+    rdfs:label "Special telephone network for the Council of Ministers of the GDR"@en .
+
+wd:Q2305085 a wd:Q1900326 ;
+    rdfs:label "Hydrogen link network"@en .
+
+wd:Q2329351 a wd:Q1900326 ;
+    rdfs:label "Q2329351"^^xsd:string .
+
+wd:Q243961 a wd:Q2354216 ;
+    rdfs:label "public switched telephone network"@en .
+
+wd:Q24398318 a wd:Q121359 ;
+    rdfs:label "religious building"@en .
+
+wd:Q2442510 a wd:Q1900326 ;
+    rdfs:label "Q2442510"^^xsd:string .
+
+wd:Q25205858 a wd:Q1900326 ;
+    rdfs:label "Impact Hub"@en .
+
+wd:Q25367370 a wd:Q1900326 ;
+    rdfs:label "Q25367370"^^xsd:string .
+
+wd:Q2537534 a wd:Q1900326 ;
+    rdfs:label "WON2"@en .
+
+wd:Q27688878 a wd:Q1900326 ;
+    rdfs:label "African Queens and Women Cultural Leaders Network"@en .
+
+wd:Q2802110 a wd:Q121359 ;
+    rdfs:label "Street cleaning"@en .
+
+wd:Q28532565 a wd:Q121359 ;
+    rdfs:label "post station"@en .
+
+wd:Q28783134 a wd:Q121359 ;
+    rdfs:label "Q28783134"^^xsd:string .
+
+wd:Q28872020 a wd:Q1900326 ;
+    rdfs:label "Q28872020"^^xsd:string .
+
+wd:Q289 a wd:Q121359 ;
+    rdfs:label "television"@en .
+
+wd:Q2901570 a wd:Q1900326 ;
+    rdfs:label "municipal library of Paris"@en .
+
+wd:Q2930903 a wd:Q1900326 ;
+    rdfs:label "Economic Network Albert Canal"@en .
+
+wd:Q29387812 a wd:Q1900326 ;
+    rdfs:label "Q29387812"^^xsd:string .
+
+wd:Q29749108 a wd:Q121359 ;
+    rdfs:label "Fucine Inlet"@en .
+
+wd:Q30060052 a wd:Q121359 ;
+    rdfs:label "Q30060052"^^xsd:string .
+
+wd:Q30136 a wd:Q121359 ;
+    rdfs:label "Yangshupu Water Plant"@en .
+
+wd:Q30324322 a wd:Q1900326 ;
+    rdfs:label "DyNet"@en .
+
+wd:Q30889751 a wd:Q1900326 ;
+    rdfs:label "MUSART"@en .
+
+wd:Q315825 a wd:Q1900326 ;
+    rdfs:label "Kolping Network"@en .
+
+wd:Q33275921 a wd:Q121359 ;
+    rdfs:label "Q33275921"^^xsd:string .
+
+wd:Q33511524 a wd:Q121359 ;
+    rdfs:label "Q33511524"^^xsd:string .
+
+wd:Q352568 a wd:Q1900326 ;
+    rdfs:label "World Opponent Network"@en .
+
+wd:Q3553013 a wd:Q1900326 ;
+    rdfs:label "Q3553013"^^xsd:string .
+
+wd:Q373338 a wd:Q121359 ;
+    rdfs:label "Critical infrastructure"@en .
+
+wd:Q42308138 a wd:Q121359 ;
+    rdfs:label "Q42308138"^^xsd:string .
+
+wd:Q4448858 a wd:Q1900326 ;
+    rdfs:label "ТАЕ"@en .
+
+wd:Q4504140 a wd:Q121359 ;
+    rdfs:label "Central Aeration Station in Saint Petersburg"@en .
+
+wd:Q4595887 a wd:Q577764 ;
+    rdfs:label "1MC"@en .
+
+wd:Q4599680 a wd:Q577764 ;
+    rdfs:label "C2000"@en .
+
+wd:Q4652825 a wd:Q577764 ;
+    rdfs:label "AN/ARC-34"@en .
+
+wd:Q47213994 a wd:Q1900326 ;
+    rdfs:label "Mainzed"@en .
+
+wd:Q4873920 a wd:Q121359 ;
+    rdfs:label "Bay Area Rapid Transit expansion"@en .
+
+wd:Q5008103 a wd:Q577764 ;
+    rdfs:label "C2k"@en .
+
+wd:Q5027516 a wd:Q1900326 ;
+    rdfs:label "Camp Ramah"@en .
+
+wd:Q53475584 a wd:Q1900326 ;
+    rdfs:label "Libraries of L'Hospitalet de Llobregat"@en .
+
+wd:Q5391166 a wd:Q577764 ;
+    rdfs:label "HANTRU-1"@en .
+
+wd:Q56068297 a wd:Q1900326 ;
+    rdfs:label "Q56068297"^^xsd:string .
+
+wd:Q56068311 a wd:Q1900326 ;
+    rdfs:label "Network of Mediterranean Plant Conservation Centres"@en .
+
+wd:Q56148050 a wd:Q121359 ;
+    rdfs:label "social and civic buildings"@en .
+
+wd:Q56316860 a wd:Q1900326 ;
+    rdfs:label "Q56316860"^^xsd:string .
+
+wd:Q56397773 a wd:Q1900326 ;
+    rdfs:label "Blog India Network"@en .
+
+wd:Q56721927 a wd:Q1900326 ;
+    rdfs:label "Q56721927"^^xsd:string .
+
+wd:Q5685510 a wd:Q121359 ;
+    rdfs:label "Q5685510"^^xsd:string .
+
+wd:Q59847594 a wd:Q1900326 ;
+    rdfs:label "SAFE Network"@en .
+
+wd:Q62294765 a wd:Q1900326 ;
+    rdfs:label "Metano"@en .
+
+wd:Q63273048 a wd:Q1900326 ;
+    rdfs:label "Xarxa de Centres Culturals Polivalents"@en .
+
+wd:Q63866076 a wd:Q1900326 ;
+    rdfs:label "Global Greenhouse Gas Reference Network"@en .
+
+wd:Q64027065 a wd:Q1900326 ;
+    rdfs:label "Welsh Grain Forum"@en .
+
+wd:Q6487542 a wd:Q121359 ;
+    rdfs:label "Lantau Link"@en .
+
+wd:Q65204315 a wd:Q121359 ;
+    rdfs:label "Q65204315"^^xsd:string .
+
+wd:Q65651592 a wd:Q121359 ;
+    rdfs:label "Infraestrutura do Ceará"@en .
+
+wd:Q657881 a wd:Q121359 ;
+    rdfs:label "Usenet newsgroup"@en .
+
+wd:Q66091153 a wd:Q1900326 ;
+    rdfs:label "INWES Education and Research Institute"@en .
+
+wd:Q66737629 a wd:Q1900326 ;
+    rdfs:label "Cartoonist Club"@en .
+
+wd:Q6973932 a wd:Q1900326 ;
+    rdfs:label "National Labor Federation"@en .
+
+wd:Q70192360 a wd:Q121359 ;
+    rdfs:label "Q70192360"^^xsd:string .
+
+wd:Q7208365 a wd:Q2354216 ;
+    rdfs:label "Pointer"@en .
+
+wd:Q7277883 a wd:Q1900326 ;
+    rdfs:label "RTSS"@en .
+
+wd:Q73919132 a wd:Q1900326 ;
+    rdfs:label "Community Child Health Network"@en .
+
+wd:Q74673309 a wd:Q1900326 ;
+    rdfs:label "Cognitron"@en .
+
+wd:Q75053310 a wd:Q1900326 ;
+    rdfs:label "USA National Phenology Network"@en .
+
+wd:Q76130167 a wd:Q121359 ;
+    rdfs:label "research structure"@en .
+
+wd:Q7649563 a wd:Q1900326 ;
+    rdfs:label "Sustainable Agriculture Innovation Network"@en .
+
+wd:Q7670151 a wd:Q121359 ;
+    rdfs:label "TGCC"@en .
+
+wd:Q7737370 a wd:Q1900326 ;
+    rdfs:label "The Gospel Coalition"@en .
+
+wd:Q784808 a wd:Q577764 ;
+    rdfs:label "European Data Relay System"@en .
+
+wd:Q7907073 a wd:Q1068715 ;
+    rdfs:label "VIRVE"@en .
+
+wd:Q79440049 a wd:Q1900326 ;
+    rdfs:label "CSR Sweden"@en .
+
+wd:Q79686 a wd:Q577764 ;
+    rdfs:label "Universal Mobile Telecommunications System"@en .
+
+wd:Q79708 a wd:Q577764 ;
+    rdfs:label "General Packet Radio Service"@en .
+
+wd:Q80363767 a wd:Q121359 ;
+    rdfs:label "Q80363767"^^xsd:string .
+
+wd:Q81951910 a wd:Q577764 ;
+    rdfs:label "Alfa DiskFax"@en .
+
+wd:Q82981998 a wd:Q1900326 ;
+    rdfs:label "Trans Regional Web Initiative"@en .
+
+wd:Q85661503 a wd:Q121359 ;
+    rdfs:label "recreation structures"@en .
+
+wd:Q85666134 a wd:Q121359 ;
+    rdfs:label "health and welfare buildings"@en .
+
+wd:Q85667907 a wd:Q121359 ;
+    rdfs:label "industrial structures"@en .
+
+wd:Q85669078 a wd:Q121359 ;
+    rdfs:label "fortifications"@en .
+
+wd:Q85670334 a wd:Q121359 ;
+    rdfs:label "settlements and landscapes"@en .
+
+wd:Q85681726 a wd:Q121359 ;
+    rdfs:label "cluster housing"@en .
+
+wd:Q870831 a wd:Q577764 ;
+    rdfs:label "Prussian semaphore system"@en .
+
+wd:Q872940 a wd:Q1900326 ;
+    rdfs:label "Central Europe Pipeline System"@en .
+
+wd:Q993162 a wd:Q1900326 ;
+    rdfs:label "European Migration Network"@en .
+
+wd:Q1068715 rdfs:label "telecommunications network"@en ;
+    rdfs:subClassOf wd:Q121359,
+        wd:Q1900326,
+        wd:Q577764 .
+
+wd:Q2354216 rdfs:label "telephone network"@en ;
+    rdfs:subClassOf wd:Q1068715 .
+
+wd:Q577764 rdfs:label "communications system"@en .
+
+wd:Q121359 rdfs:label "infrastructure"@en .
+
+wd:Q1900326 rdfs:label "network"@en .
+

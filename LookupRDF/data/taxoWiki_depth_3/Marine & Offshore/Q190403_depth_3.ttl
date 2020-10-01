@@ -1,0 +1,6680 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1009600 a wd:Q2235308 ;
+    rdfs:label "Bunker vessel"@en .
+
+wd:Q1020048 a wd:Q2235308 ;
+    rdfs:label "Q1020048"^^xsd:string .
+
+wd:Q1022626 a wd:Q2235308 ;
+    rdfs:label "Type C1 ship"@en .
+
+wd:Q1022638 a wd:Q2235308 ;
+    rdfs:label "Type C2 ship"@en .
+
+wd:Q1022648 a wd:Q2235308 ;
+    rdfs:label "Type C3 ship"@en .
+
+wd:Q10279915 a wd:Q2235308 ;
+    rdfs:label "Falua"@en .
+
+wd:Q10316200 a wd:Q2235308 ;
+    rdfs:label "fiscalization boat"@en .
+
+wd:Q1034593 a wd:Q2235308 ;
+    rdfs:label "capesize"@en .
+
+wd:Q10397359 a wd:Q2235308 ;
+    rdfs:label "606"@en .
+
+wd:Q10397376 a wd:Q2235308 ;
+    rdfs:label "Q10397376"^^xsd:string .
+
+wd:Q10403795 a wd:Q1229765 ;
+    rdfs:label "Q10403795"^^xsd:string .
+
+wd:Q10404341 a wd:Q2235308 ;
+    rdfs:label "Q10404341"^^xsd:string .
+
+wd:Q10404342 a wd:Q2235308 ;
+    rdfs:label "Albin 25"@en .
+
+wd:Q10404344 a wd:Q2235308 ;
+    rdfs:label "Q10404344"^^xsd:string .
+
+wd:Q10404345 a wd:Q2235308 ;
+    rdfs:label "Q10404345"^^xsd:string .
+
+wd:Q10404346 a wd:Q2235308 ;
+    rdfs:label "Albin 78 Cirrus"@en .
+
+wd:Q10404347 a wd:Q2235308 ;
+    rdfs:label "Q10404347"^^xsd:string .
+
+wd:Q10404348 a wd:Q2235308 ;
+    rdfs:label "Q10404348"^^xsd:string .
+
+wd:Q10404349 a wd:Q2235308 ;
+    rdfs:label "Albin Express"@en .
+
+wd:Q10404356 a wd:Q2235308 ;
+    rdfs:label "Q10404356"^^xsd:string .
+
+wd:Q10404441 a wd:Q1229765 ;
+    rdfs:label "Q10404441"^^xsd:string .
+
+wd:Q10405576 a wd:Q2235308 ;
+    rdfs:label "Q10405576"^^xsd:string .
+
+wd:Q10405577 a wd:Q2235308 ;
+    rdfs:label "Q10405577"^^xsd:string .
+
+wd:Q10407359 a wd:Q1229765 ;
+    rdfs:label "Q10407359"^^xsd:string .
+
+wd:Q10408341 a wd:Q1229765 ;
+    rdfs:label "Amiral von Platen (ship, 1834)"@en .
+
+wd:Q10417274 a wd:Q2235308 ;
+    rdfs:label "Q10417274"^^xsd:string .
+
+wd:Q10417868 a wd:Q1229765 ;
+    rdfs:label "Q10417868"^^xsd:string .
+
+wd:Q10421677 a wd:Q1229765 ;
+    rdfs:label "Atle"@en .
+
+wd:Q10428709 a wd:Q1229765 ;
+    rdfs:label "Q10428709"^^xsd:string .
+
+wd:Q10429066 a wd:Q1229765 ;
+    rdfs:label "Q10429066"^^xsd:string .
+
+wd:Q10429090 a wd:Q2235308 ;
+    rdfs:label "guard boat"@en .
+
+wd:Q10432906 a wd:Q1229765 ;
+    rdfs:label "Q10432906"^^xsd:string .
+
+wd:Q10443255 a wd:Q2235308 ;
+    rdfs:label "Q10443255"^^xsd:string .
+
+wd:Q10451572 a wd:Q1229765 ;
+    rdfs:label "Q10451572"^^xsd:string .
+
+wd:Q1046122 a wd:Q2235308 ;
+    rdfs:label "galiot"@en .
+
+wd:Q10466567 a wd:Q1229765 ;
+    rdfs:label "Q10466567"^^xsd:string .
+
+wd:Q10474881 a wd:Q1229765 ;
+    rdfs:label "Djurgården 7 (ship, 1893)"@en .
+
+wd:Q10478080 a wd:Q2235308 ;
+    rdfs:label "Q10478080"^^xsd:string .
+
+wd:Q10481355 a wd:Q1229765 ;
+    rdfs:label "Q10481355"^^xsd:string .
+
+wd:Q10482036 a wd:Q2235308 ;
+    rdfs:label "Elvstrøm 717"@en .
+
+wd:Q104843 a wd:Q2235308 ;
+    rdfs:label "cruiser"@en .
+
+wd:Q10496824 a wd:Q2235308 ;
+    rdfs:label "Flipper"@en .
+
+wd:Q10499048 a wd:Q1229765 ;
+    rdfs:label "Q10499048"^^xsd:string .
+
+wd:Q10500842 a wd:Q1229765 ;
+    rdfs:label "Arnljot (ship, 1961)"@en .
+
+wd:Q10500843 a wd:Q1229765 ;
+    rdfs:label "Q10500843"^^xsd:string .
+
+wd:Q10502499 a wd:Q1229765 ;
+    rdfs:label "Q10502499"^^xsd:string .
+
+wd:Q10504372 a wd:Q1229765 ;
+    rdfs:label "Gerda (ship, 2000)"@en .
+
+wd:Q10504893 a wd:Q1229765 ;
+    rdfs:label "Gilyak (ship, 1906)"@en .
+
+wd:Q1051067 a wd:Q2235308 ;
+    rdfs:label "pre-dreadnought battleship"@en .
+
+wd:Q10512724 a wd:Q1229765 ;
+    rdfs:label "Q10512724"^^xsd:string .
+
+wd:Q10513082 a wd:Q1229765 ;
+    rdfs:label "Q10513082"^^xsd:string .
+
+wd:Q10513117 a wd:Q1229765 ;
+    rdfs:label "Q10513117"^^xsd:string .
+
+wd:Q10513118 a wd:Q1229765 ;
+    rdfs:label "HMS Belos"@en .
+
+wd:Q10513184 a wd:Q1229765 ;
+    rdfs:label "Q10513184"^^xsd:string .
+
+wd:Q10513266 a wd:Q1229765 ;
+    rdfs:label "HMS Josephine"@en .
+
+wd:Q10513275 a wd:Q1229765 ;
+    rdfs:label "Q10513275"^^xsd:string .
+
+wd:Q10514980 a wd:Q1229765 ;
+    rdfs:label "Q10514980"^^xsd:string .
+
+wd:Q10515020 a wd:Q1229765 ;
+    rdfs:label "Q10515020"^^xsd:string .
+
+wd:Q10515098 a wd:Q1229765 ;
+    rdfs:label "Q10515098"^^xsd:string .
+
+wd:Q10515299 a wd:Q1229765 ;
+    rdfs:label "Q10515299"^^xsd:string .
+
+wd:Q10516857 a wd:Q1229765 ;
+    rdfs:label "Q10516857"^^xsd:string .
+
+wd:Q10518647 a wd:Q2235308 ;
+    rdfs:label "Q10518647"^^xsd:string .
+
+wd:Q10524828 a wd:Q1229765 ;
+    rdfs:label "Q10524828"^^xsd:string .
+
+wd:Q10526951 a wd:Q1229765 ;
+    rdfs:label "Q10526951"^^xsd:string .
+
+wd:Q10527271 a wd:Q1229765 ;
+    rdfs:label "Q10527271"^^xsd:string .
+
+wd:Q10540460 a wd:Q1229765 ;
+    rdfs:label "Q10540460"^^xsd:string .
+
+wd:Q10542088 a wd:Q1229765 ;
+    rdfs:label "Jönköping"@en .
+
+wd:Q10542691 a wd:Q1229765 ;
+    rdfs:label "Q10542691"^^xsd:string .
+
+wd:Q10544428 a wd:Q1229765 ;
+    rdfs:label "Q10544428"^^xsd:string .
+
+wd:Q10545311 a wd:Q1229765 ;
+    rdfs:label "Q10545311"^^xsd:string .
+
+wd:Q10545313 a wd:Q1229765 ;
+    rdfs:label "Q10545313"^^xsd:string .
+
+wd:Q10545314 a wd:Q1229765 ;
+    rdfs:label "Q10545314"^^xsd:string .
+
+wd:Q10545315 a wd:Q1229765 ;
+    rdfs:label "Q10545315"^^xsd:string .
+
+wd:Q10545316 a wd:Q1229765 ;
+    rdfs:label "Q10545316"^^xsd:string .
+
+wd:Q10545317 a wd:Q1229765 ;
+    rdfs:label "Q10545317"^^xsd:string .
+
+wd:Q10545318 a wd:Q1229765 ;
+    rdfs:label "Q10545318"^^xsd:string .
+
+wd:Q10547081 a wd:Q1229765 ;
+    rdfs:label "Q10547081"^^xsd:string .
+
+wd:Q10550559 a wd:Q1229765 ;
+    rdfs:label "Q10550559"^^xsd:string .
+
+wd:Q10552269 a wd:Q1229765 ;
+    rdfs:label "L'Aigle (ship, 1833)"@en .
+
+wd:Q10552991 a wd:Q2235308 ;
+    rdfs:label "Q10552991"^^xsd:string .
+
+wd:Q10555133 a wd:Q2235308 ;
+    rdfs:label "Q10555133"^^xsd:string .
+
+wd:Q10555135 a wd:Q2235308 ;
+    rdfs:label "Q10555135"^^xsd:string .
+
+wd:Q10561455 a wd:Q1229765 ;
+    rdfs:label "Q10561455"^^xsd:string .
+
+wd:Q10561683 a wd:Q2235308 ;
+    rdfs:label "Lill-Scampi"@en .
+
+wd:Q10562760 a wd:Q1229765 ;
+    rdfs:label "Q10562760"^^xsd:string .
+
+wd:Q10568872 a wd:Q1229765 ;
+    rdfs:label "Q10568872"^^xsd:string .
+
+wd:Q10573041 a wd:Q1229765 ;
+    rdfs:label "Q10573041"^^xsd:string .
+
+wd:Q10573042 a wd:Q1229765 ;
+    rdfs:label "Q10573042"^^xsd:string .
+
+wd:Q10573044 a wd:Q1229765 ;
+    rdfs:label "Q10573044"^^xsd:string .
+
+wd:Q10573045 a wd:Q1229765 ;
+    rdfs:label "Q10573045"^^xsd:string .
+
+wd:Q10573047 a wd:Q1229765 ;
+    rdfs:label "Q10573047"^^xsd:string .
+
+wd:Q10573048 a wd:Q1229765 ;
+    rdfs:label "Q10573048"^^xsd:string .
+
+wd:Q10573050 a wd:Q1229765 ;
+    rdfs:label "Q10573050"^^xsd:string .
+
+wd:Q10573053 a wd:Q1229765 ;
+    rdfs:label "Q10573053"^^xsd:string .
+
+wd:Q10573055 a wd:Q1229765 ;
+    rdfs:label "Q10573055"^^xsd:string .
+
+wd:Q10573056 a wd:Q1229765 ;
+    rdfs:label "M/S Ebba Brahe"@en .
+
+wd:Q10573064 a wd:Q1229765 ;
+    rdfs:label "Q10573064"^^xsd:string .
+
+wd:Q10573066 a wd:Q1229765 ;
+    rdfs:label "Finnsailor"@en .
+
+wd:Q10573067 a wd:Q1229765 ;
+    rdfs:label "M/S Freja"@en .
+
+wd:Q10573070 a wd:Q1229765 ;
+    rdfs:label "Q10573070"^^xsd:string .
+
+wd:Q10573071 a wd:Q1229765 ;
+    rdfs:label "Q10573071"^^xsd:string .
+
+wd:Q10573076 a wd:Q1229765 ;
+    rdfs:label "Q10573076"^^xsd:string .
+
+wd:Q10573078 a wd:Q1229765 ;
+    rdfs:label "Q10573078"^^xsd:string .
+
+wd:Q10573080 a wd:Q1229765 ;
+    rdfs:label "Q10573080"^^xsd:string .
+
+wd:Q10573084 a wd:Q1229765 ;
+    rdfs:label "Q10573084"^^xsd:string .
+
+wd:Q10573085 a wd:Q1229765 ;
+    rdfs:label "Q10573085"^^xsd:string .
+
+wd:Q10573086 a wd:Q1229765 ;
+    rdfs:label "Q10573086"^^xsd:string .
+
+wd:Q10573088 a wd:Q1229765 ;
+    rdfs:label "Q10573088"^^xsd:string .
+
+wd:Q10573090 a wd:Q1229765 ;
+    rdfs:label "Q10573090"^^xsd:string .
+
+wd:Q10573092 a wd:Q1229765 ;
+    rdfs:label "Q10573092"^^xsd:string .
+
+wd:Q10573093 a wd:Q1229765 ;
+    rdfs:label "Q10573093"^^xsd:string .
+
+wd:Q10573094 a wd:Q1229765 ;
+    rdfs:label "Q10573094"^^xsd:string .
+
+wd:Q10573095 a wd:Q1229765 ;
+    rdfs:label "Q10573095"^^xsd:string .
+
+wd:Q10573097 a wd:Q1229765 ;
+    rdfs:label "Q10573097"^^xsd:string .
+
+wd:Q10573098 a wd:Q1229765 ;
+    rdfs:label "Q10573098"^^xsd:string .
+
+wd:Q10573101 a wd:Q1229765 ;
+    rdfs:label "M/S Lima"@en .
+
+wd:Q10573104 a wd:Q1229765 ;
+    rdfs:label "Q10573104"^^xsd:string .
+
+wd:Q10573106 a wd:Q1229765 ;
+    rdfs:label "Q10573106"^^xsd:string .
+
+wd:Q10573110 a wd:Q1229765 ;
+    rdfs:label "Q10573110"^^xsd:string .
+
+wd:Q10573111 a wd:Q1229765 ;
+    rdfs:label "Q10573111"^^xsd:string .
+
+wd:Q10573114 a wd:Q1229765 ;
+    rdfs:label "Q10573114"^^xsd:string .
+
+wd:Q10573115 a wd:Q1229765 ;
+    rdfs:label "Q10573115"^^xsd:string .
+
+wd:Q10573116 a wd:Q1229765 ;
+    rdfs:label "Q10573116"^^xsd:string .
+
+wd:Q10573118 a wd:Q1229765 ;
+    rdfs:label "Q10573118"^^xsd:string .
+
+wd:Q10573119 a wd:Q1229765 ;
+    rdfs:label "Q10573119"^^xsd:string .
+
+wd:Q10573120 a wd:Q1229765 ;
+    rdfs:label "Q10573120"^^xsd:string .
+
+wd:Q10573121 a wd:Q1229765 ;
+    rdfs:label "Q10573121"^^xsd:string .
+
+wd:Q10573126 a wd:Q1229765 ;
+    rdfs:label "Q10573126"^^xsd:string .
+
+wd:Q10573128 a wd:Q1229765 ;
+    rdfs:label "Q10573128"^^xsd:string .
+
+wd:Q10573130 a wd:Q1229765 ;
+    rdfs:label "Q10573130"^^xsd:string .
+
+wd:Q10573138 a wd:Q1229765 ;
+    rdfs:label "Ramsö"@en .
+
+wd:Q10573142 a wd:Q1229765 ;
+    rdfs:label "Riddarfjärden (ship, 1936)"@en .
+
+wd:Q10573143 a wd:Q1229765 ;
+    rdfs:label "Q10573143"^^xsd:string .
+
+wd:Q10573148 a wd:Q1229765 ;
+    rdfs:label "Q10573148"^^xsd:string .
+
+wd:Q10573155 a wd:Q1229765 ;
+    rdfs:label "Q10573155"^^xsd:string .
+
+wd:Q10573157 a wd:Q1229765 ;
+    rdfs:label "Q10573157"^^xsd:string .
+
+wd:Q10573160 a wd:Q1229765 ;
+    rdfs:label "Q10573160"^^xsd:string .
+
+wd:Q10573161 a wd:Q1229765 ;
+    rdfs:label "Q10573161"^^xsd:string .
+
+wd:Q10573168 a wd:Q1229765 ;
+    rdfs:label "Q10573168"^^xsd:string .
+
+wd:Q10573172 a wd:Q1229765 ;
+    rdfs:label "Q10573172"^^xsd:string .
+
+wd:Q10573174 a wd:Q1229765 ;
+    rdfs:label "Q10573174"^^xsd:string .
+
+wd:Q10573175 a wd:Q1229765 ;
+    rdfs:label "Q10573175"^^xsd:string .
+
+wd:Q10573185 a wd:Q1229765 ;
+    rdfs:label "Q10573185"^^xsd:string .
+
+wd:Q10573188 a wd:Q1229765 ;
+    rdfs:label "Q10573188"^^xsd:string .
+
+wd:Q10573189 a wd:Q1229765 ;
+    rdfs:label "Q10573189"^^xsd:string .
+
+wd:Q10573191 a wd:Q1229765 ;
+    rdfs:label "Q10573191"^^xsd:string .
+
+wd:Q10573192 a wd:Q1229765 ;
+    rdfs:label "Q10573192"^^xsd:string .
+
+wd:Q10573194 a wd:Q1229765 ;
+    rdfs:label "Q10573194"^^xsd:string .
+
+wd:Q10573195 a wd:Q1229765 ;
+    rdfs:label "Q10573195"^^xsd:string .
+
+wd:Q10573199 a wd:Q1229765 ;
+    rdfs:label "Q10573199"^^xsd:string .
+
+wd:Q10573206 a wd:Q1229765 ;
+    rdfs:label "Q10573206"^^xsd:string .
+
+wd:Q10573210 a wd:Q1229765 ;
+    rdfs:label "Q10573210"^^xsd:string .
+
+wd:Q10573211 a wd:Q1229765 ;
+    rdfs:label "Q10573211"^^xsd:string .
+
+wd:Q10573212 a wd:Q1229765 ;
+    rdfs:label "Q10573212"^^xsd:string .
+
+wd:Q10573213 a wd:Q1229765 ;
+    rdfs:label "Q10573213"^^xsd:string .
+
+wd:Q10573214 a wd:Q1229765 ;
+    rdfs:label "Q10573214"^^xsd:string .
+
+wd:Q10573215 a wd:Q1229765 ;
+    rdfs:label "Q10573215"^^xsd:string .
+
+wd:Q10573216 a wd:Q1229765 ;
+    rdfs:label "Q10573216"^^xsd:string .
+
+wd:Q10573217 a wd:Q1229765 ;
+    rdfs:label "Q10573217"^^xsd:string .
+
+wd:Q10573219 a wd:Q1229765 ;
+    rdfs:label "Q10573219"^^xsd:string .
+
+wd:Q10573220 a wd:Q1229765 ;
+    rdfs:label "Q10573220"^^xsd:string .
+
+wd:Q10573221 a wd:Q1229765 ;
+    rdfs:label "Q10573221"^^xsd:string .
+
+wd:Q10573222 a wd:Q1229765 ;
+    rdfs:label "Q10573222"^^xsd:string .
+
+wd:Q10573223 a wd:Q1229765 ;
+    rdfs:label "Q10573223"^^xsd:string .
+
+wd:Q10577899 a wd:Q1229765 ;
+    rdfs:label "Mary Ann (1838)"@en .
+
+wd:Q10578706 a wd:Q2235308 ;
+    rdfs:label "Q10578706"^^xsd:string .
+
+wd:Q10578708 a wd:Q2235308 ;
+    rdfs:label "Maxi 77"@en .
+
+wd:Q10578709 a wd:Q2235308 ;
+    rdfs:label "Q10578709"^^xsd:string .
+
+wd:Q10578710 a wd:Q2235308 ;
+    rdfs:label "Q10578710"^^xsd:string .
+
+wd:Q10578711 a wd:Q2235308 ;
+    rdfs:label "Q10578711"^^xsd:string .
+
+wd:Q10578712 a wd:Q2235308 ;
+    rdfs:label "Q10578712"^^xsd:string .
+
+wd:Q10586324 a wd:Q2235308 ;
+    rdfs:label "Q10586324"^^xsd:string .
+
+wd:Q10589630 a wd:Q1229765 ;
+    rdfs:label "Q10589630"^^xsd:string .
+
+wd:Q10589849 a wd:Q1229765 ;
+    rdfs:label "Q10589849"^^xsd:string .
+
+wd:Q10590452 a wd:Q1229765 ;
+    rdfs:label "Q10590452"^^xsd:string .
+
+wd:Q10593126 a wd:Q2235308 ;
+    rdfs:label "Mälar 22"@en .
+
+wd:Q10593127 a wd:Q2235308 ;
+    rdfs:label "Mälar 30"@en .
+
+wd:Q10593128 a wd:Q2235308 ;
+    rdfs:label "Mälar 25"@en .
+
+wd:Q10599229 a wd:Q2235308 ;
+    rdfs:label "Neptunkryssare"@en .
+
+wd:Q105999 a wd:Q2235308 ;
+    rdfs:label "cargo ship"@en .
+
+wd:Q10602046 a wd:Q1229765 ;
+    rdfs:label "Q10602046"^^xsd:string .
+
+wd:Q10602060 a wd:Q2235308 ;
+    rdfs:label "Nordisk Familjebåt"@en .
+
+wd:Q10602234 a wd:Q1229765 ;
+    rdfs:label "Q10602234"^^xsd:string .
+
+wd:Q10604175 a wd:Q1229765 ;
+    rdfs:label "Q10604175"^^xsd:string .
+
+wd:Q10606797 a wd:Q1229765 ;
+    rdfs:label "Q10606797"^^xsd:string .
+
+wd:Q10608006 a wd:Q2235308 ;
+    rdfs:label "Q10608006"^^xsd:string .
+
+wd:Q10608204 a wd:Q1229765 ;
+    rdfs:label "Q10608204"^^xsd:string .
+
+wd:Q10609560 a wd:Q2235308 ;
+    rdfs:label "Q10609560"^^xsd:string .
+
+wd:Q10609561 a wd:Q2235308 ;
+    rdfs:label "Q10609561"^^xsd:string .
+
+wd:Q10611612 a wd:Q1229765 ;
+    rdfs:label "Q10611612"^^xsd:string .
+
+wd:Q10613152 a wd:Q1229765 ;
+    rdfs:label "Q10613152"^^xsd:string .
+
+wd:Q10613153 a wd:Q1229765 ;
+    rdfs:label "Q10613153"^^xsd:string .
+
+wd:Q10613221 a wd:Q1229765 ;
+    rdfs:label "Q10613221"^^xsd:string .
+
+wd:Q10613411 a wd:Q1229765 ;
+    rdfs:label "Q10613411"^^xsd:string .
+
+wd:Q10614462 a wd:Q2235308 ;
+    rdfs:label "Q10614462"^^xsd:string .
+
+wd:Q10616406 a wd:Q1229765 ;
+    rdfs:label "Q10616406"^^xsd:string .
+
+wd:Q10616407 a wd:Q1229765 ;
+    rdfs:label "Pansio (876)"@en .
+
+wd:Q10621770 a wd:Q1229765 ;
+    rdfs:label "Q10621770"^^xsd:string .
+
+wd:Q10637266 a wd:Q1229765 ;
+    rdfs:label "Q10637266"^^xsd:string .
+
+wd:Q10637717 a wd:Q1229765 ;
+    rdfs:label "Q10637717"^^xsd:string .
+
+wd:Q10637719 a wd:Q1229765 ;
+    rdfs:label "Q10637719"^^xsd:string .
+
+wd:Q10646485 a wd:Q1229765 ;
+    rdfs:label "Q10646485"^^xsd:string .
+
+wd:Q10646999 a wd:Q1229765 ;
+    rdfs:label "Q10646999"^^xsd:string .
+
+wd:Q10647222 a wd:Q1229765 ;
+    rdfs:label "Q10647222"^^xsd:string .
+
+wd:Q10648230 a wd:Q2235308 ;
+    rdfs:label "Q10648230"^^xsd:string .
+
+wd:Q10648600 a wd:Q1229765 ;
+    rdfs:label "Q10648600"^^xsd:string .
+
+wd:Q10649973 a wd:Q1229765 ;
+    rdfs:label "Q10649973"^^xsd:string .
+
+wd:Q10650367 a wd:Q2235308 ;
+    rdfs:label "Q10650367"^^xsd:string .
+
+wd:Q10650368 a wd:Q1229765 ;
+    rdfs:label "Q10650368"^^xsd:string .
+
+wd:Q10650369 a wd:Q1229765 ;
+    rdfs:label "Q10650369"^^xsd:string .
+
+wd:Q10650370 a wd:Q1229765 ;
+    rdfs:label "Q10650370"^^xsd:string .
+
+wd:Q10650371 a wd:Q1229765 ;
+    rdfs:label "Q10650371"^^xsd:string .
+
+wd:Q10650372 a wd:Q1229765 ;
+    rdfs:label "Q10650372"^^xsd:string .
+
+wd:Q10650374 a wd:Q1229765 ;
+    rdfs:label "Q10650374"^^xsd:string .
+
+wd:Q10650375 a wd:Q1229765 ;
+    rdfs:label "Q10650375"^^xsd:string .
+
+wd:Q10650376 a wd:Q1229765 ;
+    rdfs:label "Q10650376"^^xsd:string .
+
+wd:Q10650377 a wd:Q1229765 ;
+    rdfs:label "Q10650377"^^xsd:string .
+
+wd:Q10650378 a wd:Q1229765 ;
+    rdfs:label "Q10650378"^^xsd:string .
+
+wd:Q10650379 a wd:Q1229765 ;
+    rdfs:label "Q10650379"^^xsd:string .
+
+wd:Q10650380 a wd:Q1229765 ;
+    rdfs:label "Q10650380"^^xsd:string .
+
+wd:Q10650381 a wd:Q1229765 ;
+    rdfs:label "Regalskeppet Viktoria"@en .
+
+wd:Q10650382 a wd:Q1229765 ;
+    rdfs:label "Q10650382"^^xsd:string .
+
+wd:Q10650383 a wd:Q1229765 ;
+    rdfs:label "Q10650383"^^xsd:string .
+
+wd:Q10650384 a wd:Q1229765 ;
+    rdfs:label "Q10650384"^^xsd:string .
+
+wd:Q10651148 a wd:Q1229765 ;
+    rdfs:label "Q10651148"^^xsd:string .
+
+wd:Q10651149 a wd:Q1229765 ;
+    rdfs:label "Q10651149"^^xsd:string .
+
+wd:Q10651150 a wd:Q1229765 ;
+    rdfs:label "Q10651150"^^xsd:string .
+
+wd:Q10651151 a wd:Q1229765 ;
+    rdfs:label "Q10651151"^^xsd:string .
+
+wd:Q10651152 a wd:Q1229765 ;
+    rdfs:label "Q10651152"^^xsd:string .
+
+wd:Q10651154 a wd:Q1229765 ;
+    rdfs:label "Q10651154"^^xsd:string .
+
+wd:Q10651155 a wd:Q1229765 ;
+    rdfs:label "Q10651155"^^xsd:string .
+
+wd:Q10651156 a wd:Q1229765 ;
+    rdfs:label "Q10651156"^^xsd:string .
+
+wd:Q10651158 a wd:Q1229765 ;
+    rdfs:label "Q10651158"^^xsd:string .
+
+wd:Q10651159 a wd:Q1229765 ;
+    rdfs:label "Q10651159"^^xsd:string .
+
+wd:Q10651160 a wd:Q1229765 ;
+    rdfs:label "Q10651160"^^xsd:string .
+
+wd:Q10651161 a wd:Q1229765 ;
+    rdfs:label "Q10651161"^^xsd:string .
+
+wd:Q10651162 a wd:Q1229765 ;
+    rdfs:label "Q10651162"^^xsd:string .
+
+wd:Q10651163 a wd:Q1229765 ;
+    rdfs:label "Q10651163"^^xsd:string .
+
+wd:Q10651165 a wd:Q1229765 ;
+    rdfs:label "Q10651165"^^xsd:string .
+
+wd:Q10651166 a wd:Q1229765 ;
+    rdfs:label "Q10651166"^^xsd:string .
+
+wd:Q10651168 a wd:Q1229765 ;
+    rdfs:label "Q10651168"^^xsd:string .
+
+wd:Q10651169 a wd:Q1229765 ;
+    rdfs:label "Q10651169"^^xsd:string .
+
+wd:Q10651170 a wd:Q1229765 ;
+    rdfs:label "Q10651170"^^xsd:string .
+
+wd:Q10651171 a wd:Q1229765 ;
+    rdfs:label "Q10651171"^^xsd:string .
+
+wd:Q10651172 a wd:Q1229765 ;
+    rdfs:label "Q10651172"^^xsd:string .
+
+wd:Q10651173 a wd:Q1229765 ;
+    rdfs:label "Q10651173"^^xsd:string .
+
+wd:Q10651175 a wd:Q1229765 ;
+    rdfs:label "Q10651175"^^xsd:string .
+
+wd:Q10655089 a wd:Q1229765 ;
+    rdfs:label "Q10655089"^^xsd:string .
+
+wd:Q10655904 a wd:Q2235308 ;
+    rdfs:label "Q10655904"^^xsd:string .
+
+wd:Q10657702 a wd:Q1229765 ;
+    rdfs:label "Q10657702"^^xsd:string .
+
+wd:Q10659199 a wd:Q1229765 ;
+    rdfs:label "Röyttä"@en .
+
+wd:Q10659225 a wd:Q1229765 ;
+    rdfs:label "Q10659225"^^xsd:string .
+
+wd:Q10659227 a wd:Q1229765 ;
+    rdfs:label "Q10659227"^^xsd:string .
+
+wd:Q10659231 a wd:Q1229765 ;
+    rdfs:label "Q10659231"^^xsd:string .
+
+wd:Q10659233 a wd:Q1229765 ;
+    rdfs:label "Q10659233"^^xsd:string .
+
+wd:Q10659239 a wd:Q1229765 ;
+    rdfs:label "Q10659239"^^xsd:string .
+
+wd:Q10659240 a wd:Q1229765 ;
+    rdfs:label "Q10659240"^^xsd:string .
+
+wd:Q10659241 a wd:Q1229765 ;
+    rdfs:label "S/S Carl Henckel"@en .
+
+wd:Q10659243 a wd:Q1229765 ;
+    rdfs:label "Q10659243"^^xsd:string .
+
+wd:Q10659244 a wd:Q1229765 ;
+    rdfs:label "Q10659244"^^xsd:string .
+
+wd:Q10659245 a wd:Q1229765 ;
+    rdfs:label "Q10659245"^^xsd:string .
+
+wd:Q10659255 a wd:Q1229765 ;
+    rdfs:label "Q10659255"^^xsd:string .
+
+wd:Q10659258 a wd:Q1229765 ;
+    rdfs:label "S/S Fenris"@en .
+
+wd:Q10659259 a wd:Q1229765 ;
+    rdfs:label "Q10659259"^^xsd:string .
+
+wd:Q10659261 a wd:Q1229765 ;
+    rdfs:label "Q10659261"^^xsd:string .
+
+wd:Q10659262 a wd:Q1229765 ;
+    rdfs:label "Q10659262"^^xsd:string .
+
+wd:Q10659265 a wd:Q1229765 ;
+    rdfs:label "Gerda"@en .
+
+wd:Q10659266 a wd:Q1229765 ;
+    rdfs:label "Q10659266"^^xsd:string .
+
+wd:Q10659267 a wd:Q1229765 ;
+    rdfs:label "Q10659267"^^xsd:string .
+
+wd:Q10659269 a wd:Q1229765 ;
+    rdfs:label "Q10659269"^^xsd:string .
+
+wd:Q10659270 a wd:Q1229765 ;
+    rdfs:label "Q10659270"^^xsd:string .
+
+wd:Q10659272 a wd:Q1229765 ;
+    rdfs:label "Q10659272"^^xsd:string .
+
+wd:Q10659273 a wd:Q1229765 ;
+    rdfs:label "Q10659273"^^xsd:string .
+
+wd:Q10659275 a wd:Q1229765 ;
+    rdfs:label "Q10659275"^^xsd:string .
+
+wd:Q10659276 a wd:Q1229765 ;
+    rdfs:label "Q10659276"^^xsd:string .
+
+wd:Q10659278 a wd:Q1229765 ;
+    rdfs:label "Q10659278"^^xsd:string .
+
+wd:Q10659279 a wd:Q1229765 ;
+    rdfs:label "Q10659279"^^xsd:string .
+
+wd:Q10659280 a wd:Q1229765 ;
+    rdfs:label "Q10659280"^^xsd:string .
+
+wd:Q10659281 a wd:Q1229765 ;
+    rdfs:label "Q10659281"^^xsd:string .
+
+wd:Q10659284 a wd:Q1229765 ;
+    rdfs:label "Q10659284"^^xsd:string .
+
+wd:Q10659285 a wd:Q1229765 ;
+    rdfs:label "Q10659285"^^xsd:string .
+
+wd:Q10659286 a wd:Q1229765 ;
+    rdfs:label "Q10659286"^^xsd:string .
+
+wd:Q10659287 a wd:Q1229765 ;
+    rdfs:label "Q10659287"^^xsd:string .
+
+wd:Q10659288 a wd:Q1229765 ;
+    rdfs:label "Q10659288"^^xsd:string .
+
+wd:Q10659289 a wd:Q1229765 ;
+    rdfs:label "Q10659289"^^xsd:string .
+
+wd:Q10659290 a wd:Q1229765 ;
+    rdfs:label "Q10659290"^^xsd:string .
+
+wd:Q10659291 a wd:Q1229765 ;
+    rdfs:label "Q10659291"^^xsd:string .
+
+wd:Q10659296 a wd:Q1229765 ;
+    rdfs:label "Q10659296"^^xsd:string .
+
+wd:Q10659297 a wd:Q1229765 ;
+    rdfs:label "Q10659297"^^xsd:string .
+
+wd:Q10659298 a wd:Q1229765 ;
+    rdfs:label "Q10659298"^^xsd:string .
+
+wd:Q10659299 a wd:Q1229765 ;
+    rdfs:label "Q10659299"^^xsd:string .
+
+wd:Q10659301 a wd:Q1229765 ;
+    rdfs:label "Q10659301"^^xsd:string .
+
+wd:Q10659302 a wd:Q1229765 ;
+    rdfs:label "Q10659302"^^xsd:string .
+
+wd:Q10659303 a wd:Q1229765 ;
+    rdfs:label "Q10659303"^^xsd:string .
+
+wd:Q10659305 a wd:Q1229765 ;
+    rdfs:label "Q10659305"^^xsd:string .
+
+wd:Q10659306 a wd:Q1229765 ;
+    rdfs:label "Q10659306"^^xsd:string .
+
+wd:Q10659308 a wd:Q1229765 ;
+    rdfs:label "Q10659308"^^xsd:string .
+
+wd:Q10659309 a wd:Q1229765 ;
+    rdfs:label "Q10659309"^^xsd:string .
+
+wd:Q10659310 a wd:Q1229765 ;
+    rdfs:label "Q10659310"^^xsd:string .
+
+wd:Q10659311 a wd:Q1229765 ;
+    rdfs:label "Q10659311"^^xsd:string .
+
+wd:Q10659312 a wd:Q1229765 ;
+    rdfs:label "Q10659312"^^xsd:string .
+
+wd:Q10659313 a wd:Q1229765 ;
+    rdfs:label "Q10659313"^^xsd:string .
+
+wd:Q10659314 a wd:Q1229765 ;
+    rdfs:label "Q10659314"^^xsd:string .
+
+wd:Q10659316 a wd:Q1229765 ;
+    rdfs:label "Q10659316"^^xsd:string .
+
+wd:Q10659317 a wd:Q1229765 ;
+    rdfs:label "Q10659317"^^xsd:string .
+
+wd:Q10659323 a wd:Q1229765 ;
+    rdfs:label "Q10659323"^^xsd:string .
+
+wd:Q10659324 a wd:Q1229765 ;
+    rdfs:label "Q10659324"^^xsd:string .
+
+wd:Q10659325 a wd:Q1229765 ;
+    rdfs:label "Q10659325"^^xsd:string .
+
+wd:Q10659326 a wd:Q1229765 ;
+    rdfs:label "Q10659326"^^xsd:string .
+
+wd:Q10659327 a wd:Q1229765 ;
+    rdfs:label "Q10659327"^^xsd:string .
+
+wd:Q10659328 a wd:Q1229765 ;
+    rdfs:label "Q10659328"^^xsd:string .
+
+wd:Q10659329 a wd:Q1229765 ;
+    rdfs:label "Q10659329"^^xsd:string .
+
+wd:Q10659330 a wd:Q1229765 ;
+    rdfs:label "S/S Per Brahe"@en .
+
+wd:Q10659333 a wd:Q1229765 ;
+    rdfs:label "Q10659333"^^xsd:string .
+
+wd:Q10659335 a wd:Q1229765 ;
+    rdfs:label "Q10659335"^^xsd:string .
+
+wd:Q10659341 a wd:Q1229765 ;
+    rdfs:label "Q10659341"^^xsd:string .
+
+wd:Q10659342 a wd:Q1229765 ;
+    rdfs:label "Q10659342"^^xsd:string .
+
+wd:Q10659344 a wd:Q1229765 ;
+    rdfs:label "Q10659344"^^xsd:string .
+
+wd:Q10659346 a wd:Q1229765 ;
+    rdfs:label "Q10659346"^^xsd:string .
+
+wd:Q10659347 a wd:Q1229765 ;
+    rdfs:label "Q10659347"^^xsd:string .
+
+wd:Q10659349 a wd:Q1229765 ;
+    rdfs:label "Q10659349"^^xsd:string .
+
+wd:Q10659352 a wd:Q1229765 ;
+    rdfs:label "Q10659352"^^xsd:string .
+
+wd:Q10659353 a wd:Q1229765 ;
+    rdfs:label "S/S Tärnan av Waxholm"@en .
+
+wd:Q10659354 a wd:Q1229765 ;
+    rdfs:label "Q10659354"^^xsd:string .
+
+wd:Q10659357 a wd:Q1229765 ;
+    rdfs:label "Q10659357"^^xsd:string .
+
+wd:Q10659358 a wd:Q1229765 ;
+    rdfs:label "S/S Warjo"@en .
+
+wd:Q10659363 a wd:Q1229765 ;
+    rdfs:label "Q10659363"^^xsd:string .
+
+wd:Q10659574 a wd:Q1229765 ;
+    rdfs:label "Q10659574"^^xsd:string .
+
+wd:Q10659575 a wd:Q1229765 ;
+    rdfs:label "Q10659575"^^xsd:string .
+
+wd:Q10659576 a wd:Q1229765 ;
+    rdfs:label "Q10659576"^^xsd:string .
+
+wd:Q10659578 a wd:Q1229765 ;
+    rdfs:label "Q10659578"^^xsd:string .
+
+wd:Q10659712 a wd:Q2235308 ;
+    rdfs:label "S 30"@en .
+
+wd:Q10659982 a wd:Q2235308 ;
+    rdfs:label "Q10659982"^^xsd:string .
+
+wd:Q10662387 a wd:Q1229765 ;
+    rdfs:label "Q10662387"^^xsd:string .
+
+wd:Q10667918 a wd:Q1229765 ;
+    rdfs:label "Q10667918"^^xsd:string .
+
+wd:Q10670495 a wd:Q1229765 ;
+    rdfs:label "Q10670495"^^xsd:string .
+
+wd:Q10670981 a wd:Q2235308 ;
+    rdfs:label "Q10670981"^^xsd:string .
+
+wd:Q10671711 a wd:Q1229765 ;
+    rdfs:label "Q10671711"^^xsd:string .
+
+wd:Q10673004 a wd:Q1229765 ;
+    rdfs:label "Q10673004"^^xsd:string .
+
+wd:Q10681251 a wd:Q2235308 ;
+    rdfs:label "Q10681251"^^xsd:string .
+
+wd:Q10681424 a wd:Q2235308 ;
+    rdfs:label "Q10681424"^^xsd:string .
+
+wd:Q10689310 a wd:Q1229765 ;
+    rdfs:label "Q10689310"^^xsd:string .
+
+wd:Q10689311 a wd:Q1229765 ;
+    rdfs:label "Q10689311"^^xsd:string .
+
+wd:Q10689312 a wd:Q1229765 ;
+    rdfs:label "Q10689312"^^xsd:string .
+
+wd:Q10690533 a wd:Q1229765 ;
+    rdfs:label "Q10690533"^^xsd:string .
+
+wd:Q10693532 a wd:Q1229765 ;
+    rdfs:label "Tessin"@en .
+
+wd:Q10693607 a wd:Q2235308 ;
+    rdfs:label "Q10693607"^^xsd:string .
+
+wd:Q10696926 a wd:Q1229765 ;
+    rdfs:label "Q10696926"^^xsd:string .
+
+wd:Q10697334 a wd:Q1229765 ;
+    rdfs:label "Q10697334"^^xsd:string .
+
+wd:Q10697363 a wd:Q1229765 ;
+    rdfs:label "Q10697363"^^xsd:string .
+
+wd:Q10700044 a wd:Q1229765 ;
+    rdfs:label "Q10700044"^^xsd:string .
+
+wd:Q10701315 a wd:Q2235308 ;
+    rdfs:label "transport vessel"@en .
+
+wd:Q10701406 a wd:Q2235308 ;
+    rdfs:label "Q10701406"^^xsd:string .
+
+wd:Q10704615 a wd:Q2235308 ;
+    rdfs:label "Q10704615"^^xsd:string .
+
+wd:Q10706438 a wd:Q2235308 ;
+    rdfs:label "Q10706438"^^xsd:string .
+
+wd:Q10706624 a wd:Q1229765 ;
+    rdfs:label "Tursas"@en .
+
+wd:Q10706748 a wd:Q1229765 ;
+    rdfs:label "Q10706748"^^xsd:string .
+
+wd:Q10706865 a wd:Q2235308 ;
+    rdfs:label "Q10706865"^^xsd:string .
+
+wd:Q10706946 a wd:Q2235308 ;
+    rdfs:label "Q10706946"^^xsd:string .
+
+wd:Q10708298 a wd:Q16889133 ;
+    rdfs:label "Not Otherwise Specified"@en .
+
+wd:Q10708629 a wd:Q1229765 ;
+    rdfs:label "Q10708629"^^xsd:string .
+
+wd:Q10710329 a wd:Q1229765 ;
+    rdfs:label "Q10710329"^^xsd:string .
+
+wd:Q10711989 a wd:Q2235308 ;
+    rdfs:label "Q10711989"^^xsd:string .
+
+wd:Q10713589 a wd:Q2235308 ;
+    rdfs:label "patrol minesweeper"@en .
+
+wd:Q10714065 a wd:Q1229765 ;
+    rdfs:label "Q10714065"^^xsd:string .
+
+wd:Q10715200 a wd:Q1229765 ;
+    rdfs:label "Q10715200"^^xsd:string .
+
+wd:Q10715601 a wd:Q1229765 ;
+    rdfs:label "Q10715601"^^xsd:string .
+
+wd:Q10715764 a wd:Q1229765 ;
+    rdfs:label "Q10715764"^^xsd:string .
+
+wd:Q10716022 a wd:Q2235308 ;
+    rdfs:label "Q10716022"^^xsd:string .
+
+wd:Q10717170 a wd:Q2235308 ;
+    rdfs:label "road ferry"@en .
+
+wd:Q10720217 a wd:Q42889 ;
+    rdfs:label "Q10720217"^^xsd:string .
+
+wd:Q10720774 a wd:Q2235308 ;
+    rdfs:label "X-99"@en .
+
+wd:Q10723582 a wd:Q1229765 ;
+    rdfs:label "Q10723582"^^xsd:string .
+
+wd:Q10723604 a wd:Q1229765 ;
+    rdfs:label "Q10723604"^^xsd:string .
+
+wd:Q1073582 a wd:Q2235308 ;
+    rdfs:label "Chinamax"@en .
+
+wd:Q10819557 a wd:Q42889 ;
+    rdfs:label "Sever"@en .
+
+wd:Q10820740 a wd:Q50380212 ;
+    rdfs:label "Single Buoy Mooring"@en .
+
+wd:Q1088282 a wd:Q2235308 ;
+    rdfs:label "Landing Craft Mechanized"@en .
+
+wd:Q1088843 a wd:Q2235308 ;
+    rdfs:label "supertanker"@en .
+
+wd:Q1100813 a wd:Q16889133 ;
+    rdfs:label "Hard seat"@en .
+
+wd:Q1103697 a wd:Q2235308 ;
+    rdfs:label "Clyde puffer"@en .
+
+wd:Q1109500 a wd:Q2235308 ;
+    rdfs:label "collier"@en .
+
+wd:Q11101985 a wd:Q2235308 ;
+    rdfs:label "Fast combat support ship"@en .
+
+wd:Q1121471 a wd:Q2235308 ;
+    rdfs:label "paddle steamer"@en .
+
+wd:Q11215470 a wd:Q2235308 ;
+    rdfs:label "E-boat"@en .
+
+wd:Q11229656 a wd:Q2235308 ;
+    rdfs:label "tank landing ship"@en .
+
+wd:Q11263535 a wd:Q190403 ;
+    rdfs:label "Kaiyo"@en .
+
+wd:Q1128611 a wd:Q2235308 ;
+    rdfs:label "Contender"@en .
+
+wd:Q11287895 a wd:Q2235308 ;
+    rdfs:label "Aegis ship"@en .
+
+wd:Q1129014 a wd:Q2235308 ;
+    rdfs:label "quinquereme"@en .
+
+wd:Q1131532 a wd:Q2235308 ;
+    rdfs:label "pipe-laying ship"@en .
+
+wd:Q1131847 a wd:Q1229765 ;
+    rdfs:label "coracle"@en .
+
+wd:Q11341967 a wd:Q2235308 ;
+    rdfs:label "missile ship"@en .
+
+wd:Q1136948 a wd:Q2235308 ;
+    rdfs:label "Landing platform helicopter"@en .
+
+wd:Q11409539 a wd:Q2235308 ;
+    rdfs:label "nuclear-powered aircraft carrier"@en .
+
+wd:Q1142489 a wd:Q2235308 ;
+    rdfs:label "nuclear marine propulsion"@en .
+
+wd:Q1142756 a wd:Q2235308 ;
+    rdfs:label "Panokseon"@en .
+
+wd:Q11445513 a wd:Q2235308 ;
+    rdfs:label "Q11445513"^^xsd:string .
+
+wd:Q11446 a wd:Q2235308 ;
+    rdfs:label "ship"@en .
+
+wd:Q1147577 a wd:Q2235308 ;
+    rdfs:label "LST Mk. 1-class tank-landing ship"@en .
+
+wd:Q11479409 a wd:Q2235308 ;
+    rdfs:label "offshore patrol vessel"@en .
+
+wd:Q11486879 a wd:Q2235308 ;
+    rdfs:label "kaisen"@en .
+
+wd:Q11486940 a wd:Q2235308 ;
+    rdfs:label "Q11486940"^^xsd:string .
+
+wd:Q1151009 a wd:Q2235308 ;
+    rdfs:label "heavy lift ship"@en .
+
+wd:Q1151377 a wd:Q1229765 ;
+    rdfs:label "Savina Caylyn"@en .
+
+wd:Q1151538 a wd:Q2235308 ;
+    rdfs:label "landing craft utility"@en .
+
+wd:Q1154193 a wd:Q2235308 ;
+    rdfs:label "Ultra Large Crude Carrier"@en .
+
+wd:Q11543706 a wd:Q2235308 ;
+    rdfs:label "taru kaisen"@en .
+
+wd:Q1155201 a wd:Q2235308 ;
+    rdfs:label "Malaccamax"@en .
+
+wd:Q1158936 a wd:Q2235308 ;
+    rdfs:label "Torpedo ram"@en .
+
+wd:Q11608028 a wd:Q2235308 ;
+    rdfs:label "training vessel"@en .
+
+wd:Q11620169 a wd:Q2235308 ;
+    rdfs:label "higaki kaisen"@en .
+
+wd:Q1163173 a wd:Q2235308 ;
+    rdfs:label "Europe"@en .
+
+wd:Q1163179 a wd:Q2235308 ;
+    rdfs:label "knarr"@en .
+
+wd:Q11636247 a wd:Q2235308 ;
+    rdfs:label "super-dreadnought"@en .
+
+wd:Q11637770 a wd:Q2235308 ;
+    rdfs:label "combat support ship"@en .
+
+wd:Q11639579 a wd:Q2235308 ;
+    rdfs:label "Conventional submarine"@en .
+
+wd:Q11640219 a wd:Q2235308 ;
+    rdfs:label "Q11640219"^^xsd:string .
+
+wd:Q11644882 a wd:Q2235308 ;
+    rdfs:label "Japanese torpedo cruiser"@en .
+
+wd:Q1165141 a wd:Q1229765 ;
+    rdfs:label "Santa Catarina"@en .
+
+wd:Q1165999 a wd:Q2235308 ;
+    rdfs:label "lake freighter"@en .
+
+wd:Q11674089 a wd:Q2235308 ;
+    rdfs:label "Motor torpedo boat of Imperial Japanese Navy"@en .
+
+wd:Q11688279 a wd:Q1229765 ;
+    rdfs:label "Q11688279"^^xsd:string .
+
+wd:Q11689026 a wd:Q2235308 ;
+    rdfs:label "Q11689026"^^xsd:string .
+
+wd:Q11689558 a wd:Q1229765 ;
+    rdfs:label "Q11689558"^^xsd:string .
+
+wd:Q1169332 a wd:Q16335899 ;
+    rdfs:label "landing craft tank"@en .
+
+wd:Q11697695 a wd:Q42889 ;
+    rdfs:label "Fasiąg"@en .
+
+wd:Q11698395 a wd:Q16335899 ;
+    rdfs:label "Patín a vela"@en ;
+    rdfs:subClassOf wd:Q190403 .
+
+wd:Q11706149 a wd:Q1229765 ;
+    rdfs:label "SM UC-38"@en .
+
+wd:Q11706150 a wd:Q1229765 ;
+    rdfs:label "SM UC-49"@en .
+
+wd:Q11706152 a wd:Q1229765 ;
+    rdfs:label "SM UC-54"@en .
+
+wd:Q11706166 a wd:Q1229765 ;
+    rdfs:label "SM UC-76"@en .
+
+wd:Q11706172 a wd:Q1229765 ;
+    rdfs:label "SM UC-98"@en .
+
+wd:Q11707145 a wd:Q1229765 ;
+    rdfs:label "SM U-141"@en .
+
+wd:Q11734977 a wd:Q2235308 ;
+    rdfs:label "Krasnyi Adzharistan-class gunboats"@en .
+
+wd:Q11748557 a wd:Q1229765 ;
+    rdfs:label "Q11748557"^^xsd:string .
+
+wd:Q11750280 a wd:Q2235308 ;
+    rdfs:label "nuclear-powered cruiser"@en .
+
+wd:Q11750285 a wd:Q2235308 ;
+    rdfs:label "Örnen-class cruisers"@en .
+
+wd:Q11764879 a wd:Q1229765 ;
+    rdfs:label "Q11764879"^^xsd:string .
+
+wd:Q11764880 a wd:Q1229765 ;
+    rdfs:label "Q11764880"^^xsd:string .
+
+wd:Q11764881 a wd:Q1229765 ;
+    rdfs:label "Q11764881"^^xsd:string .
+
+wd:Q11764882 a wd:Q1229765 ;
+    rdfs:label "Q11764882"^^xsd:string .
+
+wd:Q11764883 a wd:Q1229765 ;
+    rdfs:label "Q11764883"^^xsd:string .
+
+wd:Q11765051 a wd:Q1229765 ;
+    rdfs:label "Q11765051"^^xsd:string .
+
+wd:Q11765052 a wd:Q1229765 ;
+    rdfs:label "Q11765052"^^xsd:string .
+
+wd:Q11765054 a wd:Q1229765 ;
+    rdfs:label "Q11765054"^^xsd:string .
+
+wd:Q11765056 a wd:Q1229765 ;
+    rdfs:label "Q11765056"^^xsd:string .
+
+wd:Q11765062 a wd:Q1229765 ;
+    rdfs:label "Q11765062"^^xsd:string .
+
+wd:Q11765064 a wd:Q1229765 ;
+    rdfs:label "Q11765064"^^xsd:string .
+
+wd:Q11765065 a wd:Q1229765 ;
+    rdfs:label "Horyzont II"@en .
+
+wd:Q11765067 a wd:Q1229765 ;
+    rdfs:label "Q11765067"^^xsd:string .
+
+wd:Q11765072 a wd:Q1229765 ;
+    rdfs:label "Q11765072"^^xsd:string .
+
+wd:Q11765073 a wd:Q1229765 ;
+    rdfs:label "Q11765073"^^xsd:string .
+
+wd:Q11765074 a wd:Q1229765 ;
+    rdfs:label "Q11765074"^^xsd:string .
+
+wd:Q11765076 a wd:Q1229765 ;
+    rdfs:label "Q11765076"^^xsd:string .
+
+wd:Q11765083 a wd:Q1229765 ;
+    rdfs:label "Q11765083"^^xsd:string .
+
+wd:Q11765087 a wd:Q1229765 ;
+    rdfs:label "Q11765087"^^xsd:string .
+
+wd:Q11765091 a wd:Q1229765 ;
+    rdfs:label "Q11765091"^^xsd:string .
+
+wd:Q11765095 a wd:Q1229765 ;
+    rdfs:label "MS Morska Wola"@en .
+
+wd:Q11765097 a wd:Q1229765 ;
+    rdfs:label "Nawigator XXI"@en .
+
+wd:Q11765099 a wd:Q1229765 ;
+    rdfs:label "Q11765099"^^xsd:string .
+
+wd:Q11765103 a wd:Q1229765 ;
+    rdfs:label "Q11765103"^^xsd:string .
+
+wd:Q11765110 a wd:Q1229765 ;
+    rdfs:label "Q11765110"^^xsd:string .
+
+wd:Q11765113 a wd:Q1229765 ;
+    rdfs:label "Q11765113"^^xsd:string .
+
+wd:Q11765124 a wd:Q1229765 ;
+    rdfs:label "Q11765124"^^xsd:string .
+
+wd:Q11765127 a wd:Q1229765 ;
+    rdfs:label "Q11765127"^^xsd:string .
+
+wd:Q11765164 a wd:Q1229765 ;
+    rdfs:label "Q11765164"^^xsd:string .
+
+wd:Q11797533 a wd:Q2235308 ;
+    rdfs:label "Q11797533"^^xsd:string .
+
+wd:Q11833146 a wd:Q1229765 ;
+    rdfs:label "Q11833146"^^xsd:string .
+
+wd:Q11839620 a wd:Q2235308 ;
+    rdfs:label "C-43A"@en .
+
+wd:Q11854796 a wd:Q2235308 ;
+    rdfs:label "C-Max"@en .
+
+wd:Q1185562 a wd:Q2235308 ;
+    rdfs:label "light aircraft carrier"@en .
+
+wd:Q11860245 a wd:Q2235308 ;
+    rdfs:label "GTS"@en .
+
+wd:Q11860931 a wd:Q1229765 ;
+    rdfs:label "HMS Blackwater (1903)"@en .
+
+wd:Q11860973 a wd:Q1229765 ;
+    rdfs:label "HMS Foyle (1903)"@en .
+
+wd:Q11861018 a wd:Q1229765 ;
+    rdfs:label "HMS Ouse (1905)"@en .
+
+wd:Q1186981 a wd:Q2235308 ;
+    rdfs:label "supercarrier"@en .
+
+wd:Q11891668 a wd:Q1229765 ;
+    rdfs:label "Q11891668"^^xsd:string .
+
+wd:Q11892005 a wd:Q2235308 ;
+    rdfs:label "German privateers in the World Wars"@en .
+
+wd:Q11896591 a wd:Q42889 ;
+    rdfs:label "Tatra T28"@en .
+
+wd:Q11899875 a wd:Q2235308 ;
+    rdfs:label "V-Max"@en .
+
+wd:Q1190275 a wd:Q2235308 ;
+    rdfs:label "fireboat"@en .
+
+wd:Q11907186 a wd:Q2235308 ;
+    rdfs:label "Q11907186"^^xsd:string .
+
+wd:Q11909100 a wd:Q2235308 ;
+    rdfs:label "Q11909100"^^xsd:string .
+
+wd:Q11909908 a wd:Q2235308 ;
+    rdfs:label "Q11909908"^^xsd:string .
+
+wd:Q11939774 a wd:Q2235308 ;
+    rdfs:label "pailebot"@en .
+
+wd:Q1194368 a wd:Q2235308 ;
+    rdfs:label "capital ship"@en .
+
+wd:Q11953879 a wd:Q2235308 ;
+    rdfs:label "Q11953879"^^xsd:string .
+
+wd:Q1195684 a wd:Q2235308 ;
+    rdfs:label "rowing boat"@en .
+
+wd:Q11964099 a wd:Q16889133 ;
+    rdfs:label "Corbett"@en .
+
+wd:Q11968563 a wd:Q16335899 ;
+    rdfs:label "Q11968563"^^xsd:string .
+
+wd:Q11972429 a wd:Q16889133 ;
+    rdfs:label "Graham"@en .
+
+wd:Q11972731 a wd:Q2235308 ;
+    rdfs:label "Q11972731"^^xsd:string .
+
+wd:Q11987522 a wd:Q190403 ;
+    rdfs:label "Antonija"@en .
+
+wd:Q11996761 a wd:Q1229765 ;
+    rdfs:label "Q11996761"^^xsd:string .
+
+wd:Q11997320 a wd:Q2235308 ;
+    rdfs:label "sea rescue vessel"@en .
+
+wd:Q11998186 a wd:Q2235308 ;
+    rdfs:label "Roflotiljen"@en .
+
+wd:Q1200992 a wd:Q16889133 ;
+    rdfs:label "abstraction layer"@en .
+
+wd:Q12012855 a wd:Q2235308 ;
+    rdfs:label "frigate"@en .
+
+wd:Q1201871 a wd:Q2235308 ;
+    rdfs:label "platform supply vessel"@en .
+
+wd:Q120309 a wd:Q42889 ;
+    rdfs:label "MOWAG Piranha IB 6×6"@en .
+
+wd:Q12050764 a wd:Q1229765 ;
+    rdfs:label "SS Belgic (1885)"@en .
+
+wd:Q12050768 a wd:Q1229765 ;
+    rdfs:label "SS Cevic"@en .
+
+wd:Q12050774 a wd:Q1229765 ;
+    rdfs:label "SS Georgic"@en .
+
+wd:Q12054558 a wd:Q16889133 ;
+    rdfs:label "Q12054558"^^xsd:string .
+
+wd:Q1208981 a wd:Q2235308 ;
+    rdfs:label "Pre-industrial armoured ships"@en .
+
+wd:Q12109059 a wd:Q2235308 ;
+    rdfs:label "Gurza-class boat"@en .
+
+wd:Q122714 a wd:Q2235308 ;
+    rdfs:label "hydroplane"@en .
+
+wd:Q1227597 a wd:Q16889133 ;
+    rdfs:label "substantive dye"@en .
+
+wd:Q12306834 a wd:Q42889 ;
+    rdfs:label "DEMU"@en .
+
+wd:Q12325531 a wd:Q42889 ;
+    rdfs:label "MKM"@en .
+
+wd:Q1232940 a wd:Q1229765 ;
+    rdfs:label "Tempest"@en .
+
+wd:Q1236143 a wd:Q1229765 ;
+    rdfs:label "pinnace"@en .
+
+wd:Q1237631 a wd:Q2235308 ;
+    rdfs:label "Plätte"@en .
+
+wd:Q1263782 a wd:Q2235308 ;
+    rdfs:label "Barca-longa"@en .
+
+wd:Q1264037 a wd:Q2235308 ;
+    rdfs:label "bracera"@en .
+
+wd:Q12675179 a wd:Q2235308 ;
+    rdfs:label "motor torpedo boat tender"@en .
+
+wd:Q1272711 a wd:Q2235308 ;
+    rdfs:label "Seebäderschiff"@en .
+
+wd:Q12734724 a wd:Q2235308 ;
+    rdfs:label "Mahone"@en .
+
+wd:Q1275222 a wd:Q1229765 ;
+    rdfs:label "Q1275222"^^xsd:string .
+
+wd:Q1276202 a wd:Q2235308 ;
+    rdfs:label "Trabaccolo"@en .
+
+wd:Q1276735 a wd:Q190403 ;
+    rdfs:label "Eagle"@en .
+
+wd:Q12807067 a wd:Q2235308 ;
+    rdfs:label "Q12807067"^^xsd:string .
+
+wd:Q1280722 a wd:Q16335899 ;
+    rdfs:label "catboat"@en .
+
+wd:Q12859788 a wd:Q2235308 ;
+    rdfs:label "steamship"@en .
+
+wd:Q1286790 a wd:Q2235308 ;
+    rdfs:label "auxiliary ship"@en .
+
+wd:Q1287097 a wd:Q2235308 ;
+    rdfs:label "cable ferry"@en .
+
+wd:Q12873078 a wd:Q1229765 ;
+    rdfs:label "SS Othon"@en .
+
+wd:Q12874576 a wd:Q1229765 ;
+    rdfs:label "Greek ironclad Vasilefs Georgios"@en .
+
+wd:Q12883216 a wd:Q2235308 ;
+    rdfs:label "Q12883216"^^xsd:string .
+
+wd:Q12885600 a wd:Q2235308 ;
+    rdfs:label "Q12885600"^^xsd:string .
+
+wd:Q1290804 a wd:Q2235308 ;
+    rdfs:label "Suezmax"@en .
+
+wd:Q12982785 a wd:Q1229765 ;
+    rdfs:label "Colandia"@en .
+
+wd:Q1303735 a wd:Q2235308 ;
+    rdfs:label "survey vessel"@en .
+
+wd:Q1307792 a wd:Q2235308 ;
+    rdfs:label "One-Design"@en .
+
+wd:Q13110583 a wd:Q42889 ;
+    rdfs:label "RISHIKA"@en .
+
+wd:Q13134872 a wd:Q2235308 ;
+    rdfs:label "Q13134872"^^xsd:string .
+
+wd:Q13135875 a wd:Q2235308 ;
+    rdfs:label "Q13135875"^^xsd:string .
+
+wd:Q1316407 rdfs:label "Houbei class missile boat"@en ;
+    rdfs:subClassOf wd:Q190403 .
+
+wd:Q1317983 a wd:Q2235308 ;
+    rdfs:label "ship's tender"@en .
+
+wd:Q132008 a wd:Q42889 ;
+    rdfs:label "Q132008"^^xsd:string .
+
+wd:Q1320721 a wd:Q16889133 ;
+    rdfs:label "Munro"@en .
+
+wd:Q1321309 a wd:Q2235308 ;
+    rdfs:label "houseboat"@en .
+
+wd:Q1322774 a wd:Q2235308 ;
+    rdfs:label "Merchant aircraft carrier"@en .
+
+wd:Q1330194 rdfs:label "Tornado"@en ;
+    rdfs:subClassOf wd:Q190403 .
+
+wd:Q13334890 a wd:Q2235308 ;
+    rdfs:label "Q13334890"^^xsd:string .
+
+wd:Q1335189 a wd:Q16335899 ;
+    rdfs:label "pedalo"@en .
+
+wd:Q1339275 a wd:Q2235308 ;
+    rdfs:label "Empire ship"@en .
+
+wd:Q13441559 a wd:Q2235308 ;
+    rdfs:label "Q13441559"^^xsd:string .
+
+wd:Q1346159 a wd:Q2235308 ;
+    rdfs:label "motorsailer"@en .
+
+wd:Q13501505 a wd:Q2235308 ;
+    rdfs:label "Q13501505"^^xsd:string .
+
+wd:Q13561346 a wd:Q2235308 ;
+    rdfs:label "fishing vessel"@en .
+
+wd:Q13573011 a wd:Q2235308 ;
+    rdfs:label "sailing dinghy"@en .
+
+wd:Q13576294 a wd:Q42889 ;
+    rdfs:label "electronic stability control"@en .
+
+wd:Q136150 a wd:Q1229765 ;
+    rdfs:label "German destroyer ZH1"@en .
+
+wd:Q1361557 a wd:Q2235308 ;
+    rdfs:label "Flying Dutchman"@en .
+
+wd:Q1361559 a wd:Q2235308 ;
+    rdfs:label "jack-up crane ship"@en .
+
+wd:Q1361980 a wd:Q2235308 ;
+    rdfs:label "guided missile cruiser"@en .
+
+wd:Q1369464 a wd:Q2235308 ;
+    rdfs:label "Very Large Ore Carrier"@en .
+
+wd:Q1371481 a wd:Q2235308 ;
+    rdfs:label "tjalk"@en .
+
+wd:Q13727552 a wd:Q2235308 ;
+    rdfs:label "Q13727552"^^xsd:string .
+
+wd:Q13728655 a wd:Q1229765 ;
+    rdfs:label "HNLMS K VI"@en .
+
+wd:Q1374871 a wd:Q1229765 ;
+    rdfs:label "Svärdet"@en .
+
+wd:Q1375735 a wd:Q2235308 ;
+    rdfs:label "Q1375735"^^xsd:string .
+
+wd:Q137823 a wd:Q2235308 ;
+    rdfs:label "monitor"@en .
+
+wd:Q139047 a wd:Q2235308 ;
+    rdfs:label "Zabra"@en .
+
+wd:Q1403637 a wd:Q2235308 ;
+    rdfs:label "Motor Gun Boat"@en .
+
+wd:Q1410980 a wd:Q2235308 ;
+    rdfs:label "ironclad warship"@en .
+
+wd:Q1411620 a wd:Q2235308 ;
+    rdfs:label "Rocket vessel"@en .
+
+wd:Q141531 a wd:Q2235308 ;
+    rdfs:label "420"@en .
+
+wd:Q14161808 a wd:Q2235308 ;
+    rdfs:label "Q14161808"^^xsd:string .
+
+wd:Q1416413 a wd:Q2235308 ;
+    rdfs:label "Hulk"@en .
+
+wd:Q1417393 a wd:Q2235308 ;
+    rdfs:label "tall ship"@en .
+
+wd:Q1423264 a wd:Q2235308 ;
+    rdfs:label "penteconter"@en .
+
+wd:Q1423378 a wd:Q2235308 ;
+    rdfs:label "Freight liner"@en .
+
+wd:Q1424227 a wd:Q2235308 ;
+    rdfs:label "Polacca"@en .
+
+wd:Q1425220 a wd:Q2235308 ;
+    rdfs:label "Snipe"@en .
+
+wd:Q1425227 a wd:Q190403 ;
+    rdfs:label "HSV-2 Swift"@en .
+
+wd:Q1427355 a wd:Q2235308 ;
+    rdfs:label "Flatiron"@en .
+
+wd:Q1429347 a wd:Q2235308 ;
+    rdfs:label "Red seal ships"@en .
+
+wd:Q1430303 a wd:Q2235308 ;
+    rdfs:label "flotilla leader"@en .
+
+wd:Q1430652 a wd:Q2235308 ;
+    rdfs:label "semi-submersible"@en .
+
+wd:Q1430687 a wd:Q2235308 ;
+    rdfs:label "aircraft cruiser"@en .
+
+wd:Q1431676 a wd:Q2235308 ;
+    rdfs:label "Soling"@en .
+
+wd:Q1434275 a wd:Q2235308 ;
+    rdfs:label "sea-river coaster"@en .
+
+wd:Q1435426 a wd:Q2235308 ;
+    rdfs:label "Q-Max"@en .
+
+wd:Q14468697 a wd:Q2235308 ;
+    rdfs:label "Q14468697"^^xsd:string .
+
+wd:Q1453454 a wd:Q2235308 ;
+    rdfs:label "Q1453454"^^xsd:string .
+
+wd:Q1454736 a wd:Q2235308 ;
+    rdfs:label "Wishbone rig"@en .
+
+wd:Q1455183 a wd:Q2235308 ;
+    rdfs:label "Trunk deck ship"@en .
+
+wd:Q14590882 a wd:Q1229765 ;
+    rdfs:label "Cinque Ports"@en .
+
+wd:Q1459896 a wd:Q2235308 ;
+    rdfs:label "Razee"@en .
+
+wd:Q14614314 a wd:Q1229765 ;
+    rdfs:label "MV St. Thomas Aquinas"@en .
+
+wd:Q1466937 a wd:Q2235308 ;
+    rdfs:label "dinghy"@en .
+
+wd:Q14702209 a wd:Q2235308 ;
+    rdfs:label "bucket dredger"@en .
+
+wd:Q14714427 a wd:Q1229765 ;
+    rdfs:label "City of Ashland (shipwreck)"@en .
+
+wd:Q1478995 a wd:Q1229765 ;
+    rdfs:label "FNRS-2"@en .
+
+wd:Q14855111 a wd:Q1229765 ;
+    rdfs:label "RV Simon Stevin"@en .
+
+wd:Q14928 a wd:Q2235308 ;
+    rdfs:label "oil tanker"@en .
+
+wd:Q14970 a wd:Q2235308 ;
+    rdfs:label "tanker"@en .
+
+wd:Q14978 a wd:Q2235308 ;
+    rdfs:label "icebreaker"@en .
+
+wd:Q1499337 a wd:Q2235308 ;
+    rdfs:label "Q1499337"^^xsd:string .
+
+wd:Q1499605 a wd:Q2235308 ;
+    rdfs:label "escort ship"@en .
+
+wd:Q1499623 a wd:Q2235308 ;
+    rdfs:label "destroyer escort"@en .
+
+wd:Q15022033 a wd:Q2235308 ;
+    rdfs:label "transatlantic liner"@en .
+
+wd:Q1504307 a wd:Q2235308 ;
+    rdfs:label "reefer ship"@en .
+
+wd:Q15088197 a wd:Q1229765 ;
+    rdfs:label "MV Jupiter"@en .
+
+wd:Q15102717 a wd:Q1229765 ;
+    rdfs:label "MV Agios Georgios (1972)"@en .
+
+wd:Q1510955 a wd:Q1229765 ;
+    rdfs:label "Q1510955"^^xsd:string .
+
+wd:Q1515329 a wd:Q2235308 ;
+    rdfs:label "Handymax"@en .
+
+wd:Q1515528 a wd:Q1229765 ;
+    rdfs:label "Q1515528"^^xsd:string .
+
+wd:Q1518788 a wd:Q2235308 ;
+    rdfs:label "Ocean boarding vessel"@en .
+
+wd:Q15222434 a wd:Q1229765 ;
+    rdfs:label "HMCS Chedabucto (J168)"@en .
+
+wd:Q15222435 a wd:Q1229765 ;
+    rdfs:label "HMCS Clayoquot (J174)"@en .
+
+wd:Q15243275 a wd:Q1229765 ;
+    rdfs:label "MV Iron Baron (1985)"@en .
+
+wd:Q15243276 a wd:Q1229765 ;
+    rdfs:label "MV María Alejandra"@en .
+
+wd:Q15247 a wd:Q2235308 ;
+    rdfs:label "LNG carrier"@en .
+
+wd:Q15252 a wd:Q2235308 ;
+    rdfs:label "floating production storage and offloading"@en .
+
+wd:Q15254 a wd:Q2235308 ;
+    rdfs:label "chemical tanker"@en .
+
+wd:Q15262 a wd:Q2235308 ;
+    rdfs:label "train ferry"@en .
+
+wd:Q15264644 a wd:Q2235308 ;
+    rdfs:label "German World War II destroyers"@en .
+
+wd:Q15266 a wd:Q2235308 ;
+    rdfs:label "Livestock carrier"@en .
+
+wd:Q15272 a wd:Q2235308 ;
+    rdfs:label "ore-bulk-oil carrier"@en .
+
+wd:Q15274063 a wd:Q1229765 ;
+    rdfs:label "SM U-58"@en .
+
+wd:Q15274109 a wd:Q1229765 ;
+    rdfs:label "SS Alba"@en .
+
+wd:Q15274167 a wd:Q1229765 ;
+    rdfs:label "SS Ponzano"@en .
+
+wd:Q15274169 a wd:Q1229765 ;
+    rdfs:label "SS President Hoover"@en .
+
+wd:Q15276 a wd:Q2235308 ;
+    rdfs:label "bulk carrier"@en .
+
+wd:Q152946 a wd:Q42889 ;
+    rdfs:label "Volkswagen Beetle"@en .
+
+wd:Q1529858 a wd:Q2235308 ;
+    rdfs:label "flush deck"@en .
+
+wd:Q15307326 a wd:Q1229765 ;
+    rdfs:label "M/S Braheborg"@en .
+
+wd:Q15307331 a wd:Q1229765 ;
+    rdfs:label "M/S Christina Brahe"@en .
+
+wd:Q1531301 a wd:Q42889 ;
+    rdfs:label "Glide"@en .
+
+wd:Q1537371 a wd:Q2235308 ;
+    rdfs:label "Tartane"@en .
+
+wd:Q15379129 a wd:Q1229765 ;
+    rdfs:label "USRC James Madison"@en .
+
+wd:Q1541274 a wd:Q2235308 ;
+    rdfs:label "Voskhod"@en .
+
+wd:Q1542187 a wd:Q2235308 ;
+    rdfs:label "littoral combat ship"@en .
+
+wd:Q15440741 a wd:Q2235308 ;
+    rdfs:label "Jackass-barque"@en .
+
+wd:Q1548761 a wd:Q2235308 ;
+    rdfs:label "large cruiser"@en .
+
+wd:Q1549739 a wd:Q2235308 ;
+    rdfs:label "large torpedo boat"@en .
+
+wd:Q1550883 a wd:Q2235308 ;
+    rdfs:label "Q-ship"@en .
+
+wd:Q1552709 a wd:Q2235308 ;
+    rdfs:label "Q1552709"^^xsd:string .
+
+wd:Q1554580 a wd:Q2235308 ;
+    rdfs:label "Gundalow"@en .
+
+wd:Q1561016 a wd:Q2235308 ;
+    rdfs:label "Raketa"@en .
+
+wd:Q156143 a wd:Q1229765 ;
+    rdfs:label "Thala Dan"@en .
+
+wd:Q15616644 a wd:Q190403 ;
+    rdfs:label "Q15616644"^^xsd:string .
+
+wd:Q1562449 a wd:Q2235308 ;
+    rdfs:label "H-boat"@en .
+
+wd:Q1562666 a wd:Q1229765 ;
+    rdfs:label "Tuckerboot"@en .
+
+wd:Q15661305 a wd:Q2235308 ;
+    rdfs:label "Zarug"@en .
+
+wd:Q15693854 a wd:Q1229765 ;
+    rdfs:label "MV Mahiri"@en .
+
+wd:Q15693945 a wd:Q1229765 ;
+    rdfs:label "HMS Diligence"@en .
+
+wd:Q1569963 a wd:Q2235308 ;
+    rdfs:label "armed merchantman"@en .
+
+wd:Q1570255 a wd:Q16335899 ;
+    rdfs:label "submersible"@en .
+
+wd:Q1571437 a wd:Q2235308 ;
+    rdfs:label "jackup rig"@en .
+
+wd:Q15728869 a wd:Q2235308 ;
+    rdfs:label "Q15728869"^^xsd:string .
+
+wd:Q15733803 a wd:Q1229765 ;
+    rdfs:label "HMS Porpoise"@en .
+
+wd:Q1573470 a wd:Q1229765 ;
+    rdfs:label "SS Valbanera"@en .
+
+wd:Q15790759 a wd:Q2235308 ;
+    rdfs:label "Q15790759"^^xsd:string .
+
+wd:Q15790765 a wd:Q2235308 ;
+    rdfs:label "Q15790765"^^xsd:string .
+
+wd:Q15809857 a wd:Q2235308 ;
+    rdfs:label "German fleet service ship"@en .
+
+wd:Q1581130 a wd:Q2235308 ;
+    rdfs:label "full-rigged ship"@en .
+
+wd:Q15833242 a wd:Q2235308 ;
+    rdfs:label "Q15833242"^^xsd:string .
+
+wd:Q15845323 a wd:Q1229765 ;
+    rdfs:label "Q15845323"^^xsd:string .
+
+wd:Q15847211 a wd:Q2235308 ;
+    rdfs:label "Q15847211"^^xsd:string .
+
+wd:Q1585712 a wd:Q2235308 ;
+    rdfs:label "Q1585712"^^xsd:string .
+
+wd:Q15858842 a wd:Q2235308 ;
+    rdfs:label "Q15858842"^^xsd:string .
+
+wd:Q15877594 a wd:Q2235308 ;
+    rdfs:label "Q15877594"^^xsd:string .
+
+wd:Q15888 a wd:Q2235308 ;
+    rdfs:label "hospital ship"@en .
+
+wd:Q15910271 a wd:Q42889 ;
+    rdfs:label "flat car"@en .
+
+wd:Q15937635 a wd:Q1229765 ;
+    rdfs:label "HMS Port Quebec"@en .
+
+wd:Q15942222 a wd:Q1229765 ;
+    rdfs:label "Type 054B frigate"@en .
+
+wd:Q15942291 a wd:Q2235308 ;
+    rdfs:label "GRSE Anti Submarine Warfare Shallow Water Craft"@en .
+
+wd:Q15980245 a wd:Q1229765 ;
+    rdfs:label "MV Morning Glory"@en .
+
+wd:Q16000117 a wd:Q2235308 ;
+    rdfs:label "icebreaker of Germany"@en .
+
+wd:Q16001128 a wd:Q1229765 ;
+    rdfs:label "Nunavik"@en .
+
+wd:Q16023965 a wd:Q2235308 ;
+    rdfs:label "Liner"@en .
+
+wd:Q16038895 a wd:Q2235308 ;
+    rdfs:label "Q16038895"^^xsd:string .
+
+wd:Q16038928 a wd:Q190403 ;
+    rdfs:label "Eclipse"@en .
+
+wd:Q16039014 a wd:Q2235308 ;
+    rdfs:label "Q16039014"^^xsd:string .
+
+wd:Q16039019 a wd:Q2235308 ;
+    rdfs:label "Q16039019"^^xsd:string .
+
+wd:Q16039230 a wd:Q2235308 ;
+    rdfs:label "Q16039230"^^xsd:string .
+
+wd:Q16039235 a wd:Q2235308 ;
+    rdfs:label "Q16039235"^^xsd:string .
+
+wd:Q16039343 a wd:Q2235308 ;
+    rdfs:label "Q16039343"^^xsd:string .
+
+wd:Q16040665 a wd:Q42889 ;
+    rdfs:label "Maruti Omni"@en .
+
+wd:Q16056623 a wd:Q1229765 ;
+    rdfs:label "INS Vishal"@en .
+
+wd:Q16057835 a wd:Q1229765 ;
+    rdfs:label "Belgian ship A4"@en .
+
+wd:Q16057947 a wd:Q1229765 ;
+    rdfs:label "RNLB Abdy Beauclerk"@en .
+
+wd:Q16070471 a wd:Q2235308 ;
+    rdfs:label "kat ship"@en .
+
+wd:Q1610085 a wd:Q2235308 ;
+    rdfs:label "Landing helicopter assault"@en .
+
+wd:Q16161731 a wd:Q1229765 ;
+    rdfs:label "Albion"@en .
+
+wd:Q16161767 a wd:Q1229765 ;
+    rdfs:label "SS Arratoon Apcar"@en .
+
+wd:Q161705 a wd:Q2235308 ;
+    rdfs:label "frigate"@en .
+
+wd:Q1617851 a wd:Q2235308 ;
+    rdfs:label "high-speed craft"@en .
+
+wd:Q1619906 a wd:Q1229765 ;
+    rdfs:label "Hiorten"@en .
+
+wd:Q16199611 a wd:Q1229765 ;
+    rdfs:label "USRC Bibb"@en .
+
+wd:Q16199627 a wd:Q1229765 ;
+    rdfs:label "USCGC Bitt"@en .
+
+wd:Q16201938 a wd:Q1229765 ;
+    rdfs:label "USCGC Kukui"@en .
+
+wd:Q16204068 a wd:Q1229765 ;
+    rdfs:label "USCGC North Star"@en .
+
+wd:Q16205782 a wd:Q1229765 ;
+    rdfs:label "USC&GS Explorer"@en .
+
+wd:Q16207748 a wd:Q1229765 ;
+    rdfs:label "HMS Borer"@en .
+
+wd:Q16208526 a wd:Q1229765 ;
+    rdfs:label "HMS Carron"@en .
+
+wd:Q16209368 a wd:Q1229765 ;
+    rdfs:label "USCGC Crawford"@en .
+
+wd:Q16212203 a wd:Q1229765 ;
+    rdfs:label "Western World"@en .
+
+wd:Q16219250 a wd:Q1229765 ;
+    rdfs:label "MV Musthika Kencana II"@en .
+
+wd:Q16220775 a wd:Q2235308 ;
+    rdfs:label "torpedo-boat destroyer"@en .
+
+wd:Q16220853 a wd:Q2235308 ;
+    rdfs:label "cruiser submarine"@en .
+
+wd:Q1622132 a wd:Q2235308 ;
+    rdfs:label "galeas"@en .
+
+wd:Q16222107 a wd:Q1229765 ;
+    rdfs:label "Toroa (ferry)"@en .
+
+wd:Q16222718 a wd:Q1229765 ;
+    rdfs:label "Maid of England"@en .
+
+wd:Q16222723 a wd:Q1229765 ;
+    rdfs:label "INS Khadan"@en .
+
+wd:Q16222745 a wd:Q1229765 ;
+    rdfs:label "HMS Coromandel (1795)"@en .
+
+wd:Q16222746 a wd:Q1229765 ;
+    rdfs:label "KRI Pari"@en .
+
+wd:Q16222748 a wd:Q1229765 ;
+    rdfs:label "Royal Charlotte (1789)"@en .
+
+wd:Q16222749 a wd:Q1229765 ;
+    rdfs:label "HMS Magnanime (1748)"@en .
+
+wd:Q16222751 a wd:Q1229765 ;
+    rdfs:label "MS Free Enterprise I"@en .
+
+wd:Q16222756 a wd:Q1229765 ;
+    rdfs:label "French frigate Courageuse (1778)"@en .
+
+wd:Q16222761 a wd:Q1229765 ;
+    rdfs:label "French brig Salamine (1793)"@en .
+
+wd:Q16222762 a wd:Q1229765 ;
+    rdfs:label "HMS Poulette (1799)"@en .
+
+wd:Q16222763 a wd:Q1229765 ;
+    rdfs:label "French corvette Poulette (1781)"@en .
+
+wd:Q16222765 a wd:Q1229765 ;
+    rdfs:label "SS Darien (1924)"@en .
+
+wd:Q16222768 a wd:Q1229765 ;
+    rdfs:label "French corvette Prony"@en .
+
+wd:Q16222770 a wd:Q1229765 ;
+    rdfs:label "French corvette Brune (1781)"@en .
+
+wd:Q16222775 a wd:Q1229765 ;
+    rdfs:label "HMS Vengeance (1793)"@en .
+
+wd:Q16222776 a wd:Q1229765 ;
+    rdfs:label "HMS Lion (1794)"@en .
+
+wd:Q16222777 a wd:Q1229765 ;
+    rdfs:label "French corvette Moineau (1794)"@en .
+
+wd:Q16222780 a wd:Q1229765 ;
+    rdfs:label "HMS Eagle"@en .
+
+wd:Q16222781 a wd:Q1229765 ;
+    rdfs:label "HMS Repulse (1794)"@en .
+
+wd:Q16222782 a wd:Q1229765 ;
+    rdfs:label "HMS Scorpion (1794)"@en .
+
+wd:Q16222783 a wd:Q1229765 ;
+    rdfs:label "HMS Tiger (1794)"@en .
+
+wd:Q16222787 a wd:Q1229765 ;
+    rdfs:label "HMS Bravo (1794)"@en .
+
+wd:Q16222788 a wd:Q1229765 ;
+    rdfs:label "HMS Firm (1794)"@en .
+
+wd:Q16222789 a wd:Q1229765 ;
+    rdfs:label "GNS Stephen Otu (P33)"@en .
+
+wd:Q16222790 a wd:Q1229765 ;
+    rdfs:label "Royal Tar fire"@en .
+
+wd:Q16222833 a wd:Q1229765 ;
+    rdfs:label "French corvette Perçante (1795)"@en .
+
+wd:Q16222834 a wd:Q1229765 ;
+    rdfs:label "SS Francis Preston Blair"@en .
+
+wd:Q16222873 a wd:Q1229765 ;
+    rdfs:label "SS Musa"@en .
+
+wd:Q16222874 a wd:Q1229765 ;
+    rdfs:label "SS Platano"@en .
+
+wd:Q16222876 a wd:Q1229765 ;
+    rdfs:label "SS Ozama (1881)"@en .
+
+wd:Q16222880 a wd:Q1229765 ;
+    rdfs:label "Maria (brigantine)"@en .
+
+wd:Q16222884 a wd:Q1229765 ;
+    rdfs:label "HMS Actif (1794)"@en .
+
+wd:Q16222885 a wd:Q1229765 ;
+    rdfs:label "French brick-aviso Goéland (1787)"@en .
+
+wd:Q16222889 a wd:Q1229765 ;
+    rdfs:label "HMS Dolphin (1801)"@en .
+
+wd:Q16222901 a wd:Q1229765 ;
+    rdfs:label "SS Rowan"@en .
+
+wd:Q16222909 a wd:Q1229765 ;
+    rdfs:label "Berge Emperor"@en .
+
+wd:Q16222911 a wd:Q1229765 ;
+    rdfs:label "BNS Karnafuli"@en .
+
+wd:Q16222912 a wd:Q1229765 ;
+    rdfs:label "BNS Tista"@en .
+
+wd:Q16222913 a wd:Q1229765 ;
+    rdfs:label "SS Pericles"@en .
+
+wd:Q16222915 a wd:Q1229765 ;
+    rdfs:label "SS Pioneer (1905)"@en .
+
+wd:Q16222918 a wd:Q1229765 ;
+    rdfs:label "SS Bigwin"@en .
+
+wd:Q16222923 a wd:Q1229765 ;
+    rdfs:label "HMS Itchen (1903)"@en .
+
+wd:Q16222924 a wd:Q1229765 ;
+    rdfs:label "SS Sophocles (1922)"@en .
+
+wd:Q16222926 a wd:Q1229765 ;
+    rdfs:label "HMS Liffey (1904)"@en .
+
+wd:Q16222928 a wd:Q1229765 ;
+    rdfs:label "HMS Ness (1905)"@en .
+
+wd:Q16222929 a wd:Q1229765 ;
+    rdfs:label "HMS Nith (1905)"@en .
+
+wd:Q16222938 a wd:Q1229765 ;
+    rdfs:label "HMS Rother"@en .
+
+wd:Q16222940 a wd:Q1229765 ;
+    rdfs:label "HMS Wear (1905)"@en .
+
+wd:Q16222944 a wd:Q1229765 ;
+    rdfs:label "HMS Ure (1904)"@en .
+
+wd:Q16222958 a wd:Q1229765 ;
+    rdfs:label "HMS Lee (1899)"@en .
+
+wd:Q16222968 a wd:Q1229765 ;
+    rdfs:label "HMS Seahorse (1794)"@en .
+
+wd:Q16222970 a wd:Q1229765 ;
+    rdfs:label "SS United States (1864)"@en .
+
+wd:Q16222972 a wd:Q1229765 ;
+    rdfs:label "HMS Calypso (1783)"@en .
+
+wd:Q16222975 a wd:Q1229765 ;
+    rdfs:label "USCGC Snohomish (WYTM-98)"@en .
+
+wd:Q16222980 a wd:Q1229765 ;
+    rdfs:label "MS Côte D'Albâtre"@en .
+
+wd:Q16222986 a wd:Q1229765 ;
+    rdfs:label "SS Okanagan"@en .
+
+wd:Q16222988 a wd:Q1229765 ;
+    rdfs:label "Andromeda (1819)"@en .
+
+wd:Q16223000 a wd:Q1229765 ;
+    rdfs:label "HMS Childers (1778)"@en .
+
+wd:Q16223002 a wd:Q1229765 ;
+    rdfs:label "USCGC Joshua Appleby (WLM-556)"@en .
+
+wd:Q16223005 a wd:Q1229765 ;
+    rdfs:label "MV Peveril (1971)"@en .
+
+wd:Q16223013 a wd:Q1229765 ;
+    rdfs:label "SS Tuxpam (Mexican oil tanker)"@en .
+
+wd:Q16223024 a wd:Q1229765 ;
+    rdfs:label "Chilean frigate Monteagudo"@en .
+
+wd:Q16223036 a wd:Q1229765 ;
+    rdfs:label "Katherine Stewart Forbes"@en .
+
+wd:Q16223044 a wd:Q1229765 ;
+    rdfs:label "MV Lochinvar"@en .
+
+wd:Q16223063 a wd:Q1229765 ;
+    rdfs:label "HMS Electra (1806)"@en .
+
+wd:Q16223064 a wd:Q1229765 ;
+    rdfs:label "HMS Delight (1806)"@en .
+
+wd:Q16223066 a wd:Q1229765 ;
+    rdfs:label "HMS Paulina (1805)"@en .
+
+wd:Q16223072 a wd:Q1229765 ;
+    rdfs:label "SS Donau (1868)"@en .
+
+wd:Q16223075 a wd:Q1229765 ;
+    rdfs:label "HMS Julia (1806)"@en .
+
+wd:Q16223076 a wd:Q1229765 ;
+    rdfs:label "HMS Skylark (1806)"@en .
+
+wd:Q16223079 a wd:Q1229765 ;
+    rdfs:label "HMS Orestes (1805)"@en .
+
+wd:Q16223081 a wd:Q1229765 ;
+    rdfs:label "HMS Nightingale (1805)"@en .
+
+wd:Q16223082 a wd:Q1229765 ;
+    rdfs:label "MV Fenella (1986)"@en .
+
+wd:Q16223085 a wd:Q1229765 ;
+    rdfs:label "HMCS Reindeer (S08)"@en .
+
+wd:Q16223087 a wd:Q1229765 ;
+    rdfs:label "HMS Savage (1805)"@en .
+
+wd:Q16223088 a wd:Q1229765 ;
+    rdfs:label "HMS Phipps (1808)"@en .
+
+wd:Q16223221 a wd:Q1229765 ;
+    rdfs:label "HMS Undaunted (1807)"@en .
+
+wd:Q16223283 a wd:Q1229765 ;
+    rdfs:label "S.S. Ben Lomond (1872)"@en .
+
+wd:Q16223292 a wd:Q1229765 ;
+    rdfs:label "TCG Bozcaada (F-500)"@en .
+
+wd:Q16223578 a wd:Q1229765 ;
+    rdfs:label "HMS Spencer (1795)"@en .
+
+wd:Q16223579 a wd:Q1229765 ;
+    rdfs:label "RNLB H F Bailey II (ON 714)"@en .
+
+wd:Q16223580 a wd:Q1229765 ;
+    rdfs:label "SS Fort Abitibi"@en .
+
+wd:Q16223582 a wd:Q1229765 ;
+    rdfs:label "HMS Vincejo (1799)"@en .
+
+wd:Q16223648 a wd:Q1229765 ;
+    rdfs:label "SD Atlas"@en .
+
+wd:Q16223705 a wd:Q1229765 ;
+    rdfs:label "HMS Procris (1806)"@en .
+
+wd:Q16223713 a wd:Q1229765 ;
+    rdfs:label "Princess Charlotte of Wales (1812)"@en .
+
+wd:Q16223735 a wd:Q1229765 ;
+    rdfs:label "HMS Evadne"@en .
+
+wd:Q16223770 a wd:Q1229765 ;
+    rdfs:label "HMS Tamar (1758)"@en .
+
+wd:Q16223783 a wd:Q1229765 ;
+    rdfs:label "Comet (1813)"@en .
+
+wd:Q16223800 a wd:Q1229765 ;
+    rdfs:label "HMS Podargus (1808)"@en .
+
+wd:Q16223857 a wd:Q1229765 ;
+    rdfs:label "HMS Crocus (1808)"@en .
+
+wd:Q16223898 a wd:Q1229765 ;
+    rdfs:label "SS Antilles (1907)"@en .
+
+wd:Q16223946 a wd:Q1229765 ;
+    rdfs:label "French ironclad Provence"@en .
+
+wd:Q16224040 a wd:Q1229765 ;
+    rdfs:label "Calumet (ship, 1929)"@en .
+
+wd:Q16224061 a wd:Q1229765 ;
+    rdfs:label "HMS Trimmer (1782)"@en .
+
+wd:Q16224083 a wd:Q1229765 ;
+    rdfs:label "HMS Merope (1808)"@en .
+
+wd:Q16224086 a wd:Q1229765 ;
+    rdfs:label "HMS Port d'Espagne (1806)"@en .
+
+wd:Q16224087 a wd:Q1229765 ;
+    rdfs:label "Hadlow (ship)"@en .
+
+wd:Q16224089 a wd:Q1229765 ;
+    rdfs:label "USCGC Marion (WSC-145)"@en .
+
+wd:Q16224097 a wd:Q1229765 ;
+    rdfs:label "HNLMS Guinea"@en .
+
+wd:Q16224110 a wd:Q1229765 ;
+    rdfs:label "César (1803)"@en .
+
+wd:Q16224118 a wd:Q1229765 ;
+    rdfs:label "French ship La Bienvenue (1788)"@en .
+
+wd:Q16224123 a wd:Q1229765 ;
+    rdfs:label "Tugboat Trabajador (1931)"@en .
+
+wd:Q16224124 a wd:Q1229765 ;
+    rdfs:label "Dutch sloop Havik (1784)"@en .
+
+wd:Q16224128 a wd:Q1229765 ;
+    rdfs:label "TCG Değirmendere (A-576)"@en .
+
+wd:Q16224133 a wd:Q1229765 ;
+    rdfs:label "SS Maasdam (1921)"@en .
+
+wd:Q16224134 a wd:Q1229765 ;
+    rdfs:label "SS Kate (tug)"@en .
+
+wd:Q16224139 a wd:Q1229765 ;
+    rdfs:label "Water Witch (1835)"@en .
+
+wd:Q16224143 a wd:Q1229765 ;
+    rdfs:label "HMS Vivid (1891)"@en .
+
+wd:Q16224152 a wd:Q1229765 ;
+    rdfs:label "Dutch sloop Sireene"@en .
+
+wd:Q16224153 a wd:Q1229765 ;
+    rdfs:label "HMS Euphrosyne (1796)"@en .
+
+wd:Q16224176 a wd:Q1229765 ;
+    rdfs:label "HMS Curlew (1795)"@en .
+
+wd:Q16224178 a wd:Q1229765 ;
+    rdfs:label "HMS Hound (1796)"@en .
+
+wd:Q16224180 a wd:Q1229765 ;
+    rdfs:label "MV Willapa"@en .
+
+wd:Q16224181 a wd:Q1229765 ;
+    rdfs:label "Brothers (1815)"@en .
+
+wd:Q16224182 a wd:Q1229765 ;
+    rdfs:label "HMS Seagull (1795)"@en .
+
+wd:Q16224183 a wd:Q1229765 ;
+    rdfs:label "MV Fosdyke Trader"@en .
+
+wd:Q16224184 a wd:Q1229765 ;
+    rdfs:label "SS Empire Faun"@en .
+
+wd:Q16224185 a wd:Q1229765 ;
+    rdfs:label "HMS Teviot Bank"@en .
+
+wd:Q16224186 a wd:Q1229765 ;
+    rdfs:label "MV Herma A"@en .
+
+wd:Q16224187 a wd:Q1229765 ;
+    rdfs:label "HMS Harpy (1796)"@en .
+
+wd:Q16224189 a wd:Q1229765 ;
+    rdfs:label "HMS Cameleon (1795)"@en .
+
+wd:Q16224194 a wd:Q1229765 ;
+    rdfs:label "HMS Hotspur (1810)"@en .
+
+wd:Q16224195 a wd:Q1229765 ;
+    rdfs:label "HMS Renard (1797)"@en .
+
+wd:Q16224196 a wd:Q1229765 ;
+    rdfs:label "HMS Forward (1805)"@en .
+
+wd:Q16224202 a wd:Q1229765 ;
+    rdfs:label "San Esteban (1588 shipwreck)"@en .
+
+wd:Q16224203 a wd:Q1229765 ;
+    rdfs:label "HMS Avenger (1794)"@en .
+
+wd:Q16224205 a wd:Q1229765 ;
+    rdfs:label "HMS Porpoise (1798)"@en .
+
+wd:Q16224206 a wd:Q1229765 ;
+    rdfs:label "HMS Diligent (1806)"@en .
+
+wd:Q16224210 a wd:Q1229765 ;
+    rdfs:label "San Esteban Apedreado"@en .
+
+wd:Q16224212 a wd:Q1229765 ;
+    rdfs:label "French corvette Bacchante (1795)"@en .
+
+wd:Q16224214 a wd:Q1229765 ;
+    rdfs:label "French corvette Griffon (1806)"@en .
+
+wd:Q16224215 a wd:Q1229765 ;
+    rdfs:label "French brig Néarque (1804)"@en .
+
+wd:Q16224217 a wd:Q1229765 ;
+    rdfs:label "SS Melville E. Stone"@en .
+
+wd:Q16224218 a wd:Q1229765 ;
+    rdfs:label "HMS Buffalo (1797)"@en .
+
+wd:Q16224219 a wd:Q1229765 ;
+    rdfs:label "HMS Negresse (1799)"@en .
+
+wd:Q16224224 a wd:Q1229765 ;
+    rdfs:label "Dutch frigate Alliantie (1788)"@en .
+
+wd:Q16224233 a wd:Q1229765 ;
+    rdfs:label "HNLMS Borneo"@en .
+
+wd:Q16224243 a wd:Q1229765 ;
+    rdfs:label "HMS Resolution (1779)"@en .
+
+wd:Q16224244 a wd:Q1229765 ;
+    rdfs:label "Jersey Packet"@en .
+
+wd:Q1623035 a wd:Q2235308 ;
+    rdfs:label "buoy tender"@en .
+
+wd:Q1623337 a wd:Q2235308 ;
+    rdfs:label "Hog Islander"@en .
+
+wd:Q16258234 a wd:Q1229765 ;
+    rdfs:label "HMCS Reo II"@en .
+
+wd:Q162986 a wd:Q2235308 ;
+    rdfs:label "replenishment oiler"@en .
+
+wd:Q1630217 a wd:Q42889 ;
+    rdfs:label "Wiima"@en .
+
+wd:Q1630695 a wd:Q2235308 ;
+    rdfs:label "Motor Torpedo Boat"@en .
+
+wd:Q1631162 a wd:Q2235308 ;
+    rdfs:label "botel"@en .
+
+wd:Q1632287 a wd:Q42889 ;
+    rdfs:label "caster board"@en .
+
+wd:Q16325725 a wd:Q2235308 ;
+    rdfs:label "Destroyer leader"@en .
+
+wd:Q1632635 a wd:Q2235308 ;
+    rdfs:label "Q1632635"^^xsd:string .
+
+wd:Q1636782 a wd:Q2235308 ;
+    rdfs:label "Humber Keel"@en .
+
+wd:Q164025 a wd:Q2235308 ;
+    rdfs:label "Patrol Boat, River"@en .
+
+wd:Q164057 a wd:Q2235308 ;
+    rdfs:label "cog"@en .
+
+wd:Q16412498 a wd:Q917479 ;
+    rdfs:label "Jakob Prei"@en .
+
+wd:Q1645999 a wd:Q2235308 ;
+    rdfs:label "rescue and salvage ship"@en .
+
+wd:Q16496080 a wd:Q2235308 ;
+    rdfs:label "Q16496080"^^xsd:string .
+
+wd:Q16518 a wd:Q2235308 ;
+    rdfs:label "barge"@en .
+
+wd:Q16523 a wd:Q2235308 ;
+    rdfs:label "hopper barge"@en .
+
+wd:Q16535098 a wd:Q42889 ;
+    rdfs:label "Q16535098"^^xsd:string .
+
+wd:Q16573703 a wd:Q1229765 ;
+    rdfs:label "Q16573703"^^xsd:string .
+
+wd:Q16604153 a wd:Q42889 ;
+    rdfs:label "Q16604153"^^xsd:string .
+
+wd:Q1662367 a wd:Q2235308 ;
+    rdfs:label "Inferno 29"@en .
+
+wd:Q1666297 a wd:Q2235308 ;
+    rdfs:label "International 806"@en .
+
+wd:Q1669370 a wd:Q2235308 ;
+    rdfs:label "Konstruktionsklasse"@en .
+
+wd:Q16700016 a wd:Q2235308 ;
+    rdfs:label "salvage ship"@en .
+
+wd:Q16736295 a wd:Q1229765 ;
+    rdfs:label "Priscilla Dailey"@en .
+
+wd:Q16736337 a wd:Q1229765 ;
+    rdfs:label "Elmer S. Dailey"@en .
+
+wd:Q1676446 a wd:Q2235308 ;
+    rdfs:label "J/24"@en .
+
+wd:Q1678486 a wd:Q2235308 ;
+    rdfs:label "Jagt"@en .
+
+wd:Q16820981 a wd:Q1229765 ;
+    rdfs:label "Japanese minesweeper No. 7"@en .
+
+wd:Q16820986 a wd:Q1229765 ;
+    rdfs:label "Japanese minesweeper W-10"@en .
+
+wd:Q16821798 a wd:Q1229765 ;
+    rdfs:label "HNoMS Thorodd"@en .
+
+wd:Q16827669 a wd:Q1229765 ;
+    rdfs:label "BNS Khalid Bin Walid"@en .
+
+wd:Q16842584 a wd:Q1229765 ;
+    rdfs:label "Hercules"@en .
+
+wd:Q16844024 a wd:Q1229765 ;
+    rdfs:label "Hive"@en .
+
+wd:Q16849642 a wd:Q1229765 ;
+    rdfs:label "Japanese minesweeper No. 8"@en .
+
+wd:Q16887380 a wd:Q16889133 ;
+    rdfs:label "group"@en .
+
+wd:Q1689615 a wd:Q1229765 ;
+    rdfs:label "SS Rooseboom"@en .
+
+wd:Q16900279 a wd:Q1229765 ;
+    rdfs:label "SS Slamat"@en .
+
+wd:Q16924308 a wd:Q1229765 ;
+    rdfs:label "Chinese medical evacuation ship Zhuanghe"@en .
+
+wd:Q16924310 a wd:Q1229765 ;
+    rdfs:label "Chinese sonar trials ship Beidiao 993"@en .
+
+wd:Q16926825 a wd:Q1229765 ;
+    rdfs:label "Endeavour II"@en .
+
+wd:Q16927160 a wd:Q1229765 ;
+    rdfs:label "French ship Boussole"@en .
+
+wd:Q16927288 a wd:Q1229765 ;
+    rdfs:label "Whitby"@en .
+
+wd:Q16927397 a wd:Q1229765 ;
+    rdfs:label "PS William the Fourth"@en .
+
+wd:Q16932633 a wd:Q2235308 ;
+    rdfs:label "square-rigged caravel"@en .
+
+wd:Q16933021 a wd:Q1229765 ;
+    rdfs:label "Sam Cearns"@en .
+
+wd:Q16951086 a wd:Q1229765 ;
+    rdfs:label "SS Canadian Mariner"@en .
+
+wd:Q169560 a wd:Q2235308 ;
+    rdfs:label "caravel"@en .
+
+wd:Q16958838 a wd:Q2235308 ;
+    rdfs:label "CNG carrier"@en .
+
+wd:Q16959684 a wd:Q1229765 ;
+    rdfs:label "USCGC Unalga"@en .
+
+wd:Q16961976 a wd:Q1229765 ;
+    rdfs:label "ARM Veracruz"@en .
+
+wd:Q16964341 a wd:Q1229765 ;
+    rdfs:label "MV Motor Princess"@en .
+
+wd:Q16970430 a wd:Q1229765 ;
+    rdfs:label "USRC Active"@en .
+
+wd:Q16970449 a wd:Q2235308 ;
+    rdfs:label "Inflatable Rescue Boat"@en .
+
+wd:Q16972460 a wd:Q1229765 ;
+    rdfs:label "HMS Cherwell"@en .
+
+wd:Q16980568 a wd:Q1229765 ;
+    rdfs:label "Independence"@en .
+
+wd:Q16981576 a wd:Q1229765 ;
+    rdfs:label "HMS Gala"@en .
+
+wd:Q16983530 a wd:Q1229765 ;
+    rdfs:label "HMS Hawk"@en .
+
+wd:Q16984064 a wd:Q1229765 ;
+    rdfs:label "USRC Relief"@en .
+
+wd:Q16984094 a wd:Q1229765 ;
+    rdfs:label "USRC Resolute"@en .
+
+wd:Q16984486 a wd:Q1229765 ;
+    rdfs:label "HMS Pylades"@en .
+
+wd:Q16998353 a wd:Q1229765 ;
+    rdfs:label "French cutter Mutin"@en .
+
+wd:Q170013 a wd:Q2235308 ;
+    rdfs:label "corvette"@en .
+
+wd:Q17005311 a wd:Q2235308 ;
+    rdfs:label "coastal submarine"@en .
+
+wd:Q170173 a wd:Q2235308 ;
+    rdfs:label "yacht"@en .
+
+wd:Q17017393 a wd:Q1229765 ;
+    rdfs:label "HMS Scourge"@en .
+
+wd:Q17019467 a wd:Q16889133 ;
+    rdfs:label "LCC Class M: Music"@en .
+
+wd:Q170483 a wd:Q2235308 ;
+    rdfs:label "sailing ship"@en .
+
+wd:Q17049393 a wd:Q1229765 ;
+    rdfs:label "Hashidate Maru"@en .
+
+wd:Q17063570 a wd:Q1229765 ;
+    rdfs:label "HTMS Taksin"@en .
+
+wd:Q17074130 a wd:Q1229765 ;
+    rdfs:label "SLNS Sayurala"@en .
+
+wd:Q17078864 a wd:Q1229765 ;
+    rdfs:label "Berkshire No. 7"@en .
+
+wd:Q17141145 a wd:Q1229765 ;
+    rdfs:label "SS Takao Maru"@en .
+
+wd:Q17144496 a wd:Q1229765 ;
+    rdfs:label "SS Athen"@en .
+
+wd:Q171529 a wd:Q2235308 ;
+    rdfs:label "canoe"@en .
+
+wd:Q1716604 a wd:Q2235308 ;
+    rdfs:label "Q1716604"^^xsd:string .
+
+wd:Q1716850 a wd:Q2235308 ;
+    rdfs:label "submarine tender"@en .
+
+wd:Q171799 a wd:Q16335899 ;
+    rdfs:label "dhow"@en .
+
+wd:Q1718392 a wd:Q2235308 ;
+    rdfs:label "Q1718392"^^xsd:string .
+
+wd:Q17199039 a wd:Q1229765 ;
+    rdfs:label "HMS Lyme Regis"@en .
+
+wd:Q17205 a wd:Q2235308 ;
+    rdfs:label "aircraft carrier"@en .
+
+wd:Q17210 a wd:Q2235308 ;
+    rdfs:label "container ship"@en .
+
+wd:Q1721774 a wd:Q42889 ;
+    rdfs:label "Kaiserwagen"@en .
+
+wd:Q1722976 a wd:Q2235308 ;
+    rdfs:label "Nugger"@en .
+
+wd:Q17300076 a wd:Q1229765 ;
+    rdfs:label "HMS Rover"@en .
+
+wd:Q17300128 a wd:Q1229765 ;
+    rdfs:label "SS Haiti"@en .
+
+wd:Q17300969 a wd:Q2235308 ;
+    rdfs:label "Q17300969"^^xsd:string .
+
+wd:Q17362856 a wd:Q1229765 ;
+    rdfs:label "S/S Maria"@en .
+
+wd:Q17362858 a wd:Q1229765 ;
+    rdfs:label "S/S Österdalarne"@en .
+
+wd:Q17363858 a wd:Q1229765 ;
+    rdfs:label "M/S Simson"@en .
+
+wd:Q1738526 a wd:Q2235308 ;
+    rdfs:label "Kempenaar"@en .
+
+wd:Q1741654 a wd:Q2235308 ;
+    rdfs:label "Twin keel"@en .
+
+wd:Q1743078 a wd:Q2235308 ;
+    rdfs:label "church ship"@en .
+
+wd:Q1744669 a wd:Q2235308 ;
+    rdfs:label "classic yacht"@en .
+
+wd:Q1746393 a wd:Q2235308 ;
+    rdfs:label "lifeboat"@en .
+
+wd:Q1746638 a wd:Q2235308 ;
+    rdfs:label "Q1746638"^^xsd:string .
+
+wd:Q174736 a wd:Q2235308 ;
+    rdfs:label "destroyer"@en .
+
+wd:Q17483935 a wd:Q2235308 ;
+    rdfs:label "torpedo recovery vessel"@en .
+
+wd:Q1749903 a wd:Q2235308 ;
+    rdfs:label "8 Metre"@en .
+
+wd:Q17510864 a wd:Q2235308 ;
+    rdfs:label "Fort ship"@en .
+
+wd:Q1752434 a wd:Q2235308 ;
+    rdfs:label "mixed cargo ship"@en .
+
+wd:Q1752674 a wd:Q2235308 ;
+    rdfs:label "Albin Vega"@en .
+
+wd:Q1753652 a wd:Q2235308 ;
+    rdfs:label "sailing yacht"@en .
+
+wd:Q1760328 a wd:Q2235308 ;
+    rdfs:label "RoPax"@en .
+
+wd:Q1762513 a wd:Q16335899 ;
+    rdfs:label "Llaut"@en .
+
+wd:Q1763083 a wd:Q2235308 ;
+    rdfs:label "pusher"@en .
+
+wd:Q1771733 a wd:Q2235308 ;
+    rdfs:label "ocean escort"@en .
+
+wd:Q177597 a wd:Q2235308 ;
+    rdfs:label "naval ship"@en .
+
+wd:Q1779600 a wd:Q2235308 ;
+    rdfs:label "Colonial Aviso"@en .
+
+wd:Q1783592 a wd:Q2235308 ;
+    rdfs:label "deep-submergence rescue vehicle"@en .
+
+wd:Q1788249 a wd:Q2235308 ;
+    rdfs:label "kreuzerfregatte"@en .
+
+wd:Q1788256 a wd:Q2235308 ;
+    rdfs:label "Q1788256"^^xsd:string .
+
+wd:Q179246 a wd:Q16335899 ;
+    rdfs:label "kayak"@en .
+
+wd:Q1797381 a wd:Q2235308 ;
+    rdfs:label "coastal trading vessel"@en .
+
+wd:Q1797385 a wd:Q2235308 ;
+    rdfs:label "Q1797385"^^xsd:string .
+
+wd:Q18020981 a wd:Q2235308 ;
+    rdfs:label "Q18020981"^^xsd:string .
+
+wd:Q1803024 a wd:Q2235308 ;
+    rdfs:label "Landing Craft, Vehicle, Personnel"@en .
+
+wd:Q181469 a wd:Q2235308 ;
+    rdfs:label "galleon"@en .
+
+wd:Q1815177 a wd:Q2235308 ;
+    rdfs:label "Saimax"@en .
+
+wd:Q1820674 a wd:Q2235308 ;
+    rdfs:label "Q1820674"^^xsd:string .
+
+wd:Q1824668 a wd:Q2235308 ;
+    rdfs:label "Ligger"@en .
+
+wd:Q1824710 a wd:Q2235308 ;
+    rdfs:label "lighter aboard ship"@en .
+
+wd:Q182531 a wd:Q2235308 ;
+    rdfs:label "battleship"@en .
+
+wd:Q18288054 a wd:Q1229765 ;
+    rdfs:label "Q18288054"^^xsd:string .
+
+wd:Q18289933 a wd:Q1229765 ;
+    rdfs:label "Q18289933"^^xsd:string .
+
+wd:Q18289945 a wd:Q1229765 ;
+    rdfs:label "Q18289945"^^xsd:string .
+
+wd:Q18290774 a wd:Q1229765 ;
+    rdfs:label "Q18290774"^^xsd:string .
+
+wd:Q18291457 a wd:Q1229765 ;
+    rdfs:label "Q18291457"^^xsd:string .
+
+wd:Q182916 a wd:Q2235308 ;
+    rdfs:label "gondola"@en .
+
+wd:Q18292445 a wd:Q1229765 ;
+    rdfs:label "Q18292445"^^xsd:string .
+
+wd:Q18292532 a wd:Q1229765 ;
+    rdfs:label "Q18292532"^^xsd:string .
+
+wd:Q18292621 a wd:Q1229765 ;
+    rdfs:label "Q18292621"^^xsd:string .
+
+wd:Q18292672 a wd:Q42889 ;
+    rdfs:label "Triumphal chariot"@en .
+
+wd:Q18326487 a wd:Q2235308 ;
+    rdfs:label "Q18326487"^^xsd:string .
+
+wd:Q18334098 a wd:Q1229765 ;
+    rdfs:label "Q18334098"^^xsd:string .
+
+wd:Q18341502 a wd:Q16889133 ;
+    rdfs:label "Q18341502"^^xsd:string .
+
+wd:Q18349270 a wd:Q2235308 ;
+    rdfs:label "Herreshoff 12½"@en .
+
+wd:Q18356345 a wd:Q190403 ;
+    rdfs:label "Sealion 2000"@en .
+
+wd:Q1838607 a wd:Q2235308 ;
+    rdfs:label "Q1838607"^^xsd:string .
+
+wd:Q18388716 a wd:Q1229765 ;
+    rdfs:label "Piratini class patrol boat"@en .
+
+wd:Q18392392 a wd:Q190403 ;
+    rdfs:label "Spirit of Kangaroo Island"@en .
+
+wd:Q1840368 a wd:Q16889133 ;
+    rdfs:label "cloud genera"@en .
+
+wd:Q18433470 a wd:Q2235308 ;
+    rdfs:label "Q18433470"^^xsd:string .
+
+wd:Q18434058 a wd:Q1229765 ;
+    rdfs:label "Q18434058"^^xsd:string .
+
+wd:Q18448502 a wd:Q2235308 ;
+    rdfs:label "Q18448502"^^xsd:string .
+
+wd:Q18448594 a wd:Q1229765 ;
+    rdfs:label "Q18448594"^^xsd:string .
+
+wd:Q18449521 a wd:Q2235308 ;
+    rdfs:label "Q18449521"^^xsd:string .
+
+wd:Q18450120 a wd:Q1229765 ;
+    rdfs:label "Q18450120"^^xsd:string .
+
+wd:Q18452035 a wd:Q1229765 ;
+    rdfs:label "Strömma Kanal"@en .
+
+wd:Q18452269 a wd:Q2235308 ;
+    rdfs:label "Q18452269"^^xsd:string .
+
+wd:Q18454564 a wd:Q2235308 ;
+    rdfs:label "Q18454564"^^xsd:string .
+
+wd:Q18458725 a wd:Q2235308 ;
+    rdfs:label "Motor torpedo boat"@en .
+
+wd:Q18487018 a wd:Q16889133 ;
+    rdfs:label "missile family"@en .
+
+wd:Q18487055 a wd:Q16889133 ;
+    rdfs:label "missile model"@en .
+
+wd:Q18560527 a wd:Q1229765 ;
+    rdfs:label "S/S Strengnäs"@en .
+
+wd:Q185757 a wd:Q16335899 ;
+    rdfs:label "hovercraft"@en .
+
+wd:Q18589887 a wd:Q42889 ;
+    rdfs:label "Citroën Berlingo I"@en .
+
+wd:Q18603647 a wd:Q2235308 ;
+    rdfs:label "autonomous spaceport drone ship"@en .
+
+wd:Q18649270 a wd:Q1229765 ;
+    rdfs:label "Q18649270"^^xsd:string .
+
+wd:Q18668233 a wd:Q2235308 ;
+    rdfs:label "ocean patrol frigate"@en .
+
+wd:Q18668248 a wd:Q2235308 ;
+    rdfs:label "landing support vessel"@en .
+
+wd:Q18668263 a wd:Q2235308 ;
+    rdfs:label "combat logistics ship"@en .
+
+wd:Q18691920 a wd:Q2235308 ;
+    rdfs:label "antiliberty"@en .
+
+wd:Q18709556 a wd:Q2235308 ;
+    rdfs:label "helicopter cruiser"@en .
+
+wd:Q18710179 a wd:Q2235308 ;
+    rdfs:label "four-masted schooner"@en .
+
+wd:Q18731989 a wd:Q2235308 ;
+    rdfs:label "minelaying submarine"@en .
+
+wd:Q18785254 a wd:Q1229765 ;
+    rdfs:label "Q18785254"^^xsd:string .
+
+wd:Q1881813 a wd:Q2235308 ;
+    rdfs:label "Q1881813"^^xsd:string .
+
+wd:Q18843 a wd:Q16335899 ;
+    rdfs:label "liburna"@en .
+
+wd:Q18844627 a wd:Q2235308 ;
+    rdfs:label "torpedokanonenboot"@en .
+
+wd:Q1888190 a wd:Q2235308 ;
+    rdfs:label "PT boat"@en .
+
+wd:Q18887951 a wd:Q1229765 ;
+    rdfs:label "Q18887951"^^xsd:string .
+
+wd:Q188924 a wd:Q2235308 ;
+    rdfs:label "galley"@en .
+
+wd:Q1890269 a wd:Q2235308 ;
+    rdfs:label "Mangusta 165"@en .
+
+wd:Q18916020 a wd:Q2235308 ;
+    rdfs:label "river cruise ship"@en .
+
+wd:Q18926983 a wd:Q2235308 ;
+    rdfs:label "anti-submarine corvette"@en .
+
+wd:Q189323 a wd:Q2235308 ;
+    rdfs:label "cement carrier"@en .
+
+wd:Q189418 a wd:Q2235308 ;
+    rdfs:label "brigantine"@en .
+
+wd:Q18949380 a wd:Q2235308 ;
+    rdfs:label "gasoline tanker"@en .
+
+wd:Q18949903 a wd:Q2235308 ;
+    rdfs:label "radar picket ship"@en .
+
+wd:Q18950114 a wd:Q2235308 ;
+    rdfs:label "destroyer minelayer"@en .
+
+wd:Q18950356 a wd:Q2235308 ;
+    rdfs:label "fleet tug"@en .
+
+wd:Q1896106 a wd:Q2235308 ;
+    rdfs:label "OK dinghy"@en .
+
+wd:Q1897086 a wd:Q1229765 ;
+    rdfs:label "SS Westerbeek"@en .
+
+wd:Q19008827 a wd:Q2235308 ;
+    rdfs:label "aviso minesweeper"@en .
+
+wd:Q1913784 a wd:Q2235308 ;
+    rdfs:label "Q1913784"^^xsd:string .
+
+wd:Q1917626 a wd:Q2235308 ;
+    rdfs:label "multi-purpose vessel"@en .
+
+wd:Q191826 a wd:Q2235308 ;
+    rdfs:label "tugboat"@en .
+
+wd:Q191931 a wd:Q42889 ;
+    rdfs:label "wheelchair"@en .
+
+wd:Q1922243 a wd:Q2235308 ;
+    rdfs:label "cargo liner"@en .
+
+wd:Q19261810 a wd:Q2235308 ;
+    rdfs:label "anti-aircraft cruiser"@en .
+
+wd:Q19267382 a wd:Q2235308 ;
+    rdfs:label "oceanographic research ship"@en .
+
+wd:Q19267791 a wd:Q2235308 ;
+    rdfs:label "inshore patrol vessel"@en .
+
+wd:Q19280202 a wd:Q2235308 ;
+    rdfs:label "fast patrol boat"@en .
+
+wd:Q19280205 a wd:Q2235308 ;
+    rdfs:label "fast ferry"@en .
+
+wd:Q19280208 a wd:Q2235308 ;
+    rdfs:label "ironclad floating battery"@en .
+
+wd:Q19291943 a wd:Q2235308 ;
+    rdfs:label "logistics support vessel"@en .
+
+wd:Q19292005 a wd:Q2235308 ;
+    rdfs:label "harbor tugboat"@en .
+
+wd:Q19292053 a wd:Q2235308 ;
+    rdfs:label "escort maintenance ship"@en .
+
+wd:Q19292144 a wd:Q2235308 ;
+    rdfs:label "brig-sloop"@en .
+
+wd:Q19292216 a wd:Q2235308 ;
+    rdfs:label "general purpose vessel"@en .
+
+wd:Q19292264 a wd:Q2235308 ;
+    rdfs:label "large patrol boat"@en .
+
+wd:Q19292278 a wd:Q2235308 ;
+    rdfs:label "seaward defence boat"@en .
+
+wd:Q19292384 a wd:Q2235308 ;
+    rdfs:label "traffic boat"@en .
+
+wd:Q19292403 a wd:Q2235308 ;
+    rdfs:label "motor gunboat"@en .
+
+wd:Q19302395 a wd:Q2235308 ;
+    rdfs:label "auxiliary minesweeper"@en .
+
+wd:Q19302440 a wd:Q2235308 ;
+    rdfs:label "civilian ship"@en .
+
+wd:Q19302585 a wd:Q2235308 ;
+    rdfs:label "boom defence vessel"@en .
+
+wd:Q19302804 a wd:Q2235308 ;
+    rdfs:label "crane stores lighter"@en .
+
+wd:Q19302835 a wd:Q2235308 ;
+    rdfs:label "oil recovery ship"@en .
+
+wd:Q19334558 a wd:Q2235308 ;
+    rdfs:label "inshore minesweeper"@en .
+
+wd:Q1933634 a wd:Q2235308 ;
+    rdfs:label "snow"@en .
+
+wd:Q19345241 a wd:Q2235308 ;
+    rdfs:label "patrol submarine"@en .
+
+wd:Q19363647 a wd:Q2235308 ;
+    rdfs:label "Ultra Large Bulk Carrier"@en .
+
+wd:Q1946083 a wd:Q2235308 ;
+    rdfs:label "Q1946083"^^xsd:string .
+
+wd:Q1956088 a wd:Q2235308 ;
+    rdfs:label "air-cushioned landing craft"@en .
+
+wd:Q1957480 a wd:Q1229765 ;
+    rdfs:label "HNLMS K VII"@en .
+
+wd:Q19577040 rdfs:label "Ducky catamarans"@en ;
+    rdfs:subClassOf wd:Q190403 .
+
+wd:Q19578061 a wd:Q16335899 ;
+    rdfs:label "Thamakau"@en .
+
+wd:Q19581774 a wd:Q2235308 ;
+    rdfs:label "quadrimaran"@en .
+
+wd:Q19595421 a wd:Q2235308 ;
+    rdfs:label "experimental submarine"@en .
+
+wd:Q1960326 a wd:Q42889 ;
+    rdfs:label "ACTUV"@en .
+
+wd:Q19608544 a wd:Q2235308 ;
+    rdfs:label "armored gunboat"@en .
+
+wd:Q19623198 a wd:Q16335899 ;
+    rdfs:label "underwater vehicle"@en .
+
+wd:Q19677973 rdfs:label "Prindle"@en ;
+    rdfs:subClassOf wd:Q190403 .
+
+wd:Q1969469 a wd:Q2235308 ;
+    rdfs:label "weather ship"@en .
+
+wd:Q19720330 a wd:Q2235308 ;
+    rdfs:label "fast escort ship"@en .
+
+wd:Q19720404 a wd:Q2235308 ;
+    rdfs:label "escort aviso"@en .
+
+wd:Q19720443 a wd:Q2235308 ;
+    rdfs:label "coastal escort ship"@en .
+
+wd:Q19720481 a wd:Q2235308 ;
+    rdfs:label "contre-torpilleur"@en .
+
+wd:Q19754825 a wd:Q2235308 ;
+    rdfs:label "Landing Ship Medium (Transport)"@en .
+
+wd:Q19776678 a wd:Q2235308 ;
+    rdfs:label "steam corvette"@en .
+
+wd:Q1978375 a wd:Q2235308 ;
+    rdfs:label "pentamaran"@en .
+
+wd:Q19799232 a wd:Q2235308 ;
+    rdfs:label "sullage barge"@en .
+
+wd:Q19833248 rdfs:label "JetCat ferry class"@en ;
+    rdfs:subClassOf wd:Q190403 .
+
+wd:Q19875503 a wd:Q190403 ;
+    rdfs:label "Aotearoa"@en .
+
+wd:Q199028 a wd:Q2235308 ;
+    rdfs:label "target ship"@en .
+
+wd:Q19904727 a wd:Q2235308 ;
+    rdfs:label "Q19904727"^^xsd:string .
+
+wd:Q1990984 a wd:Q1229765 ;
+    rdfs:label "HNLMS Holland (1896)"@en .
+
+wd:Q19939059 a wd:Q1229765 ;
+    rdfs:label "MV Stegeholm"@en .
+
+wd:Q1995139 a wd:Q2235308 ;
+    rdfs:label "Hoy"@en .
+
+wd:Q19978543 a wd:Q1229765 ;
+    rdfs:label "Sigvard (ship, 1955)"@en .
+
+wd:Q1999103 a wd:Q2235308 ;
+    rdfs:label "monohull"@en .
+
+wd:Q2001879 a wd:Q2235308 ;
+    rdfs:label "cruise missile submarine"@en .
+
+wd:Q2002517 a wd:Q2235308 ;
+    rdfs:label "emergency tow vessel"@en .
+
+wd:Q20034875 a wd:Q1229765 ;
+    rdfs:label "Q20034875"^^xsd:string .
+
+wd:Q2003852 a wd:Q2235308 ;
+    rdfs:label "starship"@en .
+
+wd:Q200433 a wd:Q16335899 ;
+    rdfs:label "raft"@en .
+
+wd:Q20105726 a wd:Q2235308 ;
+    rdfs:label "three-masted barque"@en .
+
+wd:Q20111828 a wd:Q190403 ;
+    rdfs:label "Q20111828"^^xsd:string .
+
+wd:Q2015633 a wd:Q2235308 ;
+    rdfs:label "Open hatch bulk carrier"@en .
+
+wd:Q20160327 a wd:Q1229765 ;
+    rdfs:label "Q20160327"^^xsd:string .
+
+wd:Q202527 a wd:Q2235308 ;
+    rdfs:label "minesweeper"@en .
+
+wd:Q2030835 a wd:Q2235308 ;
+    rdfs:label "turuma"@en .
+
+wd:Q2030948 a wd:Q190403 ;
+    rdfs:label "Orka"@en .
+
+wd:Q2035668 a wd:Q2235308 ;
+    rdfs:label "East Indiaman"@en .
+
+wd:Q2039301 a wd:Q2235308 ;
+    rdfs:label "Q2039301"^^xsd:string .
+
+wd:Q2045456 a wd:Q2235308 ;
+    rdfs:label "Kruisboten"@en .
+
+wd:Q205011 a wd:Q2235308 ;
+    rdfs:label "junk"@en .
+
+wd:Q2055880 a wd:Q2235308 ;
+    rdfs:label "passenger ship"@en .
+
+wd:Q20572322 a wd:Q16889133 ;
+    rdfs:label "HuMP"@en .
+
+wd:Q20642350 a wd:Q190403 ;
+    rdfs:label "HSC KatExpress 2"@en .
+
+wd:Q20642434 a wd:Q190403 ;
+    rdfs:label "Naramatac"@en .
+
+wd:Q20642492 a wd:Q190403 ;
+    rdfs:label "Red Jet 6"@en .
+
+wd:Q20642609 a wd:Q190403 ;
+    rdfs:label "Venta"@en .
+
+wd:Q2065452 a wd:Q2235308 ;
+    rdfs:label "packet boat"@en .
+
+wd:Q2071943 a wd:Q2235308 ;
+    rdfs:label "Neokemp"@en .
+
+wd:Q2072352 a wd:Q2235308 ;
+    rdfs:label "passenger ferry"@en .
+
+wd:Q2073287 a wd:Q1229765 ;
+    rdfs:label "HNLMS Friesland (1896)"@en .
+
+wd:Q2074370 a wd:Q2235308 ;
+    rdfs:label "minehunter"@en .
+
+wd:Q207452 a wd:Q2235308 ;
+    rdfs:label "ship of the line"@en .
+
+wd:Q20820259 a wd:Q42889 ;
+    rdfs:label "Q20820259"^^xsd:string .
+
+wd:Q208420 a wd:Q2235308 ;
+    rdfs:label "trireme"@en .
+
+wd:Q208532 a wd:Q2235308 ;
+    rdfs:label "bathyscaphe"@en .
+
+wd:Q20856676 a wd:Q1229765 ;
+    rdfs:label "Chata"@en .
+
+wd:Q2087746 a wd:Q2235308 ;
+    rdfs:label "Kora-kora"@en .
+
+wd:Q20894599 a wd:Q2235308 ;
+    rdfs:label "Design 1095 ship"@en .
+
+wd:Q2095057 a wd:Q2235308 ;
+    rdfs:label "lead ship"@en .
+
+wd:Q2098564 a wd:Q190403 ;
+    rdfs:label "Plastiki"@en .
+
+wd:Q2098700 a wd:Q2235308 ;
+    rdfs:label "sailing barge"@en .
+
+wd:Q21008811 a wd:Q2235308 ;
+    rdfs:label "Q21008811"^^xsd:string .
+
+wd:Q210223 a wd:Q2235308 ;
+    rdfs:label "sloop"@en .
+
+wd:Q2105722 a wd:Q1229765 ;
+    rdfs:label "HNLMS Zeeland (1897)"@en .
+
+wd:Q21077441 a wd:Q2235308 ;
+    rdfs:label "Q21077441"^^xsd:string .
+
+wd:Q21081890 a wd:Q16335899 ;
+    rdfs:label "Q21081890"^^xsd:string .
+
+wd:Q21086986 a wd:Q16335899 ;
+    rdfs:label "Q21086986"^^xsd:string .
+
+wd:Q211969 a wd:Q2235308 ;
+    rdfs:label "viking ship"@en .
+
+wd:Q212357 a wd:Q2235308 ;
+    rdfs:label "flagship"@en .
+
+wd:Q2124409 a wd:Q1229765 ;
+    rdfs:label "RMS Lady Hawkins"@en .
+
+wd:Q2124745 a wd:Q2235308 ;
+    rdfs:label "Q2124745"^^xsd:string .
+
+wd:Q2124746 a wd:Q2235308 ;
+    rdfs:label "Q2124746"^^xsd:string .
+
+wd:Q2124747 a wd:Q2235308 ;
+    rdfs:label "Q2124747"^^xsd:string .
+
+wd:Q212482 a wd:Q2235308 ;
+    rdfs:label "Spækhugger"@en .
+
+wd:Q2135284 a wd:Q1229765 ;
+    rdfs:label "Toa Maru"@en .
+
+wd:Q2135586 a wd:Q2235308 ;
+    rdfs:label "Shuttle tanker"@en .
+
+wd:Q2137837 a wd:Q2235308 ;
+    rdfs:label "Q2137837"^^xsd:string .
+
+wd:Q2139516 a wd:Q16889133 ;
+    rdfs:label "Q2139516"^^xsd:string .
+
+wd:Q2141016 a wd:Q2235308 ;
+    rdfs:label "torpedo gunboat"@en .
+
+wd:Q214190 a wd:Q2235308 ;
+    rdfs:label "battlecruiser"@en .
+
+wd:Q214196 a wd:Q2235308 ;
+    rdfs:label "gunboat"@en .
+
+wd:Q21422777 rdfs:label "Fjellvåken II"@en ;
+    rdfs:subClassOf wd:Q190403 .
+
+wd:Q2143541 a wd:Q2235308 ;
+    rdfs:label "stealth ship"@en .
+
+wd:Q2153030 a wd:Q1229765 ;
+    rdfs:label "Q2153030"^^xsd:string .
+
+wd:Q21601419 a wd:Q16889133 ;
+    rdfs:label "FAO risk status"@en .
+
+wd:Q216057 a wd:Q2235308 ;
+    rdfs:label "barque"@en .
+
+wd:Q2170975 a wd:Q1229765 ;
+    rdfs:label "Royal Captain"@en .
+
+wd:Q2186893 a wd:Q2235308 ;
+    rdfs:label "Q2186893"^^xsd:string .
+
+wd:Q2193594 a wd:Q1229765 ;
+    rdfs:label "HNLMS Utrecht (1898)"@en .
+
+wd:Q2194207 a wd:Q2235308 ;
+    rdfs:label "Q2194207"^^xsd:string .
+
+wd:Q220291 a wd:Q2235308 ;
+    rdfs:label "Zoom 8"@en .
+
+wd:Q2205620 a wd:Q2235308 ;
+    rdfs:label "SD14"@en .
+
+wd:Q2205625 a wd:Q2235308 ;
+    rdfs:label "SD18"@en .
+
+wd:Q220635 a wd:Q2235308 ;
+    rdfs:label "carrack"@en .
+
+wd:Q2206782 a wd:Q1229765 ;
+    rdfs:label "SMS Bismarck"@en .
+
+wd:Q2206808 a wd:Q1229765 ;
+    rdfs:label "SMS Condor"@en .
+
+wd:Q221976 a wd:Q2235308 ;
+    rdfs:label "29er"@en .
+
+wd:Q2226458 a wd:Q2235308 ;
+    rdfs:label "Saturn-type container ship"@en .
+
+wd:Q2234721 a wd:Q16889133 ;
+    rdfs:label "Q2234721"^^xsd:string .
+
+wd:Q223565 a wd:Q2235308 ;
+    rdfs:label "Skerry Cruiser"@en .
+
+wd:Q2243243 a wd:Q50380212 ;
+    rdfs:label "Yamahoko"@en .
+
+wd:Q2247679 a wd:Q2235308 ;
+    rdfs:label "fast steamer with two paddle wheels"@en .
+
+wd:Q22569524 a wd:Q16889133 ;
+    rdfs:label "Graham"@en .
+
+wd:Q22569536 a wd:Q16889133 ;
+    rdfs:label "Murdo"@en .
+
+wd:Q22570207 a wd:Q190403 ;
+    rdfs:label "GC32"@en .
+
+wd:Q2262008 a wd:Q2235308 ;
+    rdfs:label "Q2262008"^^xsd:string .
+
+wd:Q2265431 a wd:Q2235308 ;
+    rdfs:label "Seenotrettungsboot"@en .
+
+wd:Q22661969 a wd:Q1229765 ;
+    rdfs:label "Cabral-class ironclad"@en .
+
+wd:Q22668669 a wd:Q2235308 ;
+    rdfs:label "Q22668669"^^xsd:string .
+
+wd:Q22683885 a wd:Q2235308 ;
+    rdfs:label "centerboarder"@en .
+
+wd:Q227852 a wd:Q2235308 ;
+    rdfs:label "sugar carrier"@en .
+
+wd:Q2278582 a wd:Q2235308 ;
+    rdfs:label "post-Panamax"@en .
+
+wd:Q22814389 a wd:Q1229765 ;
+    rdfs:label "IMO 9073440"@en .
+
+wd:Q2282139 a wd:Q2235308 ;
+    rdfs:label "Siebel ferry"@en ;
+    rdfs:subClassOf wd:Q190403 .
+
+wd:Q22910747 a wd:Q1229765 ;
+    rdfs:label "Q22910747"^^xsd:string .
+
+wd:Q22912341 a wd:Q1229765 ;
+    rdfs:label "Q22912341"^^xsd:string .
+
+wd:Q2299065 a wd:Q2235308 ;
+    rdfs:label "Very Large Crude Carrier"@en .
+
+wd:Q2300236 a wd:Q2235308 ;
+    rdfs:label "amphibious warfare ship"@en .
+
+wd:Q2304194 a wd:Q2235308 ;
+    rdfs:label "coastal defence ship"@en .
+
+wd:Q2308528 a wd:Q1229765 ;
+    rdfs:label "Speedwell"@en .
+
+wd:Q2308876 a wd:Q1229765 ;
+    rdfs:label "Speleonaut"@en .
+
+wd:Q2311769 a wd:Q2235308 ;
+    rdfs:label "Q2311769"^^xsd:string .
+
+wd:Q232375 a wd:Q2235308 ;
+    rdfs:label "Two-decker"@en .
+
+wd:Q232888 a wd:Q2235308 ;
+    rdfs:label "Zweihüllenboot"@en .
+
+wd:Q2333183 a wd:Q190403 ;
+    rdfs:label "Stars & Stripes"@en .
+
+wd:Q2340654 a wd:Q2235308 ;
+    rdfs:label "pink"@en .
+
+wd:Q2342242 a wd:Q2235308 ;
+    rdfs:label "Q2342242"^^xsd:string .
+
+wd:Q2353279 a wd:Q2235308 ;
+    rdfs:label "Dogger"@en .
+
+wd:Q236090 a wd:Q2235308 ;
+    rdfs:label "470"@en .
+
+wd:Q238060 a wd:Q2235308 ;
+    rdfs:label "49er (dinghy)"@en .
+
+wd:Q2391887 a wd:Q2235308 ;
+    rdfs:label "skûtsje"@en .
+
+wd:Q239617 a wd:Q16335899 ;
+    rdfs:label "dinghy"@en .
+
+wd:Q24067182 a wd:Q190403 ;
+    rdfs:label "HSC Express 3"@en .
+
+wd:Q2410055 a wd:Q1229765 ;
+    rdfs:label "The Brothers"@en .
+
+wd:Q2432003 a wd:Q2235308 ;
+    rdfs:label "deep-submergence vehicle"@en .
+
+wd:Q2443219 rdfs:label "Topcat"@en ;
+    rdfs:subClassOf wd:Q2265995 .
+
+wd:Q2445065 a wd:Q2235308 ;
+    rdfs:label "Coulombi Egg Tanker"@en .
+
+wd:Q2447856 a wd:Q2235308 ;
+    rdfs:label "Q2447856"^^xsd:string .
+
+wd:Q2449783 a wd:Q2235308 ;
+    rdfs:label "Q2449783"^^xsd:string .
+
+wd:Q2461104 a wd:Q2235308 ;
+    rdfs:label "Turret ship"@en .
+
+wd:Q2461915 a wd:Q2235308 ;
+    rdfs:label "J/80"@en .
+
+wd:Q2462905 a wd:Q2235308 ;
+    rdfs:label "Q2462905"^^xsd:string .
+
+wd:Q2462936 a wd:Q2235308 ;
+    rdfs:label "Q2462936"^^xsd:string .
+
+wd:Q2462950 a wd:Q2235308 ;
+    rdfs:label "Q2462950"^^xsd:string .
+
+wd:Q2462960 a wd:Q2235308 ;
+    rdfs:label "Q2462960"^^xsd:string .
+
+wd:Q2462984 a wd:Q2235308 ;
+    rdfs:label "Q2462984"^^xsd:string .
+
+wd:Q2466103 a wd:Q2235308 ;
+    rdfs:label "guard ship"@en .
+
+wd:Q24683722 a wd:Q190403 ;
+    rdfs:label "Cirrus"@en .
+
+wd:Q2468604 a wd:Q1229765 ;
+    rdfs:label "HNLMS K XVII"@en .
+
+wd:Q2472153 a wd:Q1229765 ;
+    rdfs:label "SS John Grafton"@en .
+
+wd:Q2484428 a wd:Q2235308 ;
+    rdfs:label "floating sheerleg"@en .
+
+wd:Q24898058 a wd:Q2235308 ;
+    rdfs:label "vehicle and personnel landing craft"@en .
+
+wd:Q2493599 a wd:Q2235308 ;
+    rdfs:label "unprotected cruiser"@en .
+
+wd:Q2494936 a wd:Q2235308 ;
+    rdfs:label "torpedo boat tender"@en .
+
+wd:Q2496586 a wd:Q16335899 ;
+    rdfs:label "unmanned underwater vehicle"@en .
+
+wd:Q2504937 a wd:Q2235308 ;
+    rdfs:label "Q2504937"^^xsd:string .
+
+wd:Q25056621 a wd:Q42889 ;
+    rdfs:label "Riding mower"@en .
+
+wd:Q2506352 a wd:Q2235308 ;
+    rdfs:label "steam frigate"@en .
+
+wd:Q251355 a wd:Q2235308 ;
+    rdfs:label "slave ship"@en .
+
+wd:Q2518299 a wd:Q2235308 ;
+    rdfs:label "military supply vessel"@en .
+
+wd:Q2520088 a wd:Q1229765 ;
+    rdfs:label "SS Tjisalak"@en .
+
+wd:Q25203396 a wd:Q1229765 ;
+    rdfs:label "Voador"@en .
+
+wd:Q2524117 a wd:Q2235308 ;
+    rdfs:label "Q2524117"^^xsd:string .
+
+wd:Q2526002 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class D, subclass DH -- History of the Low Countries and Benelux"@en .
+
+wd:Q2533656 a wd:Q2235308 ;
+    rdfs:label "Koch"@en .
+
+wd:Q25351733 a wd:Q190403 ;
+    rdfs:label "Spitfire"@en .
+
+wd:Q253555 a wd:Q2235308 ;
+    rdfs:label "escort carrier"@en .
+
+wd:Q2536409 a wd:Q16889133 ;
+    rdfs:label "IBA Official Cocktail"@en .
+
+wd:Q2550720 a wd:Q2235308 ;
+    rdfs:label "trailing suction hopper dredger"@en .
+
+wd:Q2554570 a wd:Q2235308 ;
+    rdfs:label "defense research ship"@en .
+
+wd:Q2556700 a wd:Q2235308 ;
+    rdfs:label "Q2556700"^^xsd:string .
+
+wd:Q25616628 a wd:Q2235308 ;
+    rdfs:label "Q25616628"^^xsd:string .
+
+wd:Q2562730 a wd:Q2235308 ;
+    rdfs:label "Q2562730"^^xsd:string .
+
+wd:Q25653 a wd:Q2235308 ;
+    rdfs:label "ferry"@en .
+
+wd:Q2599160 a wd:Q2235308 ;
+    rdfs:label "Kaibōkan"@en .
+
+wd:Q2601071 a wd:Q2235308 ;
+    rdfs:label "royal yacht"@en .
+
+wd:Q2604342 a wd:Q2235308 ;
+    rdfs:label "casemate ironclad"@en .
+
+wd:Q2607934 a wd:Q2235308 ;
+    rdfs:label "guided missile destroyer"@en .
+
+wd:Q26267381 a wd:Q2235308 ;
+    rdfs:label "Q26267381"^^xsd:string .
+
+wd:Q2633227 a wd:Q1229765 ;
+    rdfs:label "HNLMS O 23"@en .
+
+wd:Q26362387 a wd:Q1229765 ;
+    rdfs:label "IMO 9150353"@en .
+
+wd:Q264934 a wd:Q2235308 ;
+    rdfs:label "seventy-four"@en .
+
+wd:Q2651486 a wd:Q16335899 ;
+    rdfs:label "Alsterdampfer"@en .
+
+wd:Q2657894 a wd:Q2235308 ;
+    rdfs:label "Q2657894"^^xsd:string .
+
+wd:Q2661746 a wd:Q2235308 ;
+    rdfs:label "arsenal ship"@en .
+
+wd:Q2662468 a wd:Q190403 ;
+    rdfs:label "HSC Condor 10"@en .
+
+wd:Q26709961 a wd:Q16889133 ;
+    rdfs:label "Tump"@en .
+
+wd:Q26709966 a wd:Q16889133 ;
+    rdfs:label "Simm"@en .
+
+wd:Q26709969 a wd:Q16889133 ;
+    rdfs:label "Graham"@en .
+
+wd:Q26709973 a wd:Q16889133 ;
+    rdfs:label "Donald"@en .
+
+wd:Q26710654 a wd:Q16889133 ;
+    rdfs:label "Highland Five"@en .
+
+wd:Q26710662 a wd:Q16889133 ;
+    rdfs:label "Donald Dewey"@en .
+
+wd:Q26711849 a wd:Q16889133 ;
+    rdfs:label "Munro Top"@en .
+
+wd:Q26711856 a wd:Q16889133 ;
+    rdfs:label "Furth"@en .
+
+wd:Q2675183 a wd:Q2235308 ;
+    rdfs:label "Q2675183"^^xsd:string .
+
+wd:Q2682720 a wd:Q2235308 ;
+    rdfs:label "Q2682720"^^xsd:string .
+
+wd:Q26897894 a wd:Q190403 ;
+    rdfs:label "Royale Atlantic"@en .
+
+wd:Q2694199 a wd:Q2235308 ;
+    rdfs:label "lighter"@en .
+
+wd:Q2696845 a wd:Q2235308 ;
+    rdfs:label "Lembus"@en .
+
+wd:Q27062595 a wd:Q2235308 ;
+    rdfs:label "Q27062595"^^xsd:string .
+
+wd:Q2707322 a wd:Q2235308 ;
+    rdfs:label "Laser Radial"@en .
+
+wd:Q2711829 a wd:Q2235308 ;
+    rdfs:label "submarine aircraft carrier"@en .
+
+wd:Q2712113 a wd:Q1229765 ;
+    rdfs:label "Toyama Maru"@en .
+
+wd:Q273081 a wd:Q2235308 ;
+    rdfs:label "clipper"@en .
+
+wd:Q2735997 a wd:Q2235308 ;
+    rdfs:label "Man-of-war"@en .
+
+wd:Q27526212 a wd:Q42889 ;
+    rdfs:label "Q27526212"^^xsd:string .
+
+wd:Q27586 a wd:Q42889 ;
+    rdfs:label "Ferrari"@en .
+
+wd:Q2782289 a wd:Q2235308 ;
+    rdfs:label "Q2782289"^^xsd:string .
+
+wd:Q2789027 a wd:Q1229765 ;
+    rdfs:label "HNLMS K XV"@en .
+
+wd:Q2790849 a wd:Q2235308 ;
+    rdfs:label "Open hatch general cargo"@en .
+
+wd:Q2798854 a wd:Q2235308 ;
+    rdfs:label "Q2798854"^^xsd:string .
+
+wd:Q2802941 a wd:Q1229765 ;
+    rdfs:label "HNLMS K V"@en .
+
+wd:Q281019 a wd:Q2235308 ;
+    rdfs:label "ghost ship"@en .
+
+wd:Q2811 a wd:Q2235308 ;
+    rdfs:label "submarine"@en .
+
+wd:Q2816929 a wd:Q2235308 ;
+    rdfs:label "49er FX"@en .
+
+wd:Q2822650 a wd:Q2235308 ;
+    rdfs:label "Q2822650"^^xsd:string .
+
+wd:Q2822776 a wd:Q2235308 ;
+    rdfs:label "Q2822776"^^xsd:string .
+
+wd:Q28232061 a wd:Q2235308 ;
+    rdfs:label "Shallop"@en .
+
+wd:Q2844187 a wd:Q2235308 ;
+    rdfs:label "Q2844187"^^xsd:string .
+
+wd:Q28456035 a wd:Q2265995 ;
+    rdfs:label "Energy Observer"@en .
+
+wd:Q28457425 a wd:Q190403 ;
+    rdfs:label "VB-10,000"@en .
+
+wd:Q285562 a wd:Q16889133 ;
+    rdfs:label "Marilyn"@en .
+
+wd:Q286077 a wd:Q2235308 ;
+    rdfs:label "whaleboat"@en .
+
+wd:Q2866807 a wd:Q2235308 ;
+    rdfs:label "Q2866807"^^xsd:string .
+
+wd:Q2874423 a wd:Q2235308 ;
+    rdfs:label "Q2874423"^^xsd:string .
+
+wd:Q28803029 a wd:Q2235308 ;
+    rdfs:label "two-masted schooner"@en .
+
+wd:Q2880519 a wd:Q2235308 ;
+    rdfs:label "Q2880519"^^xsd:string .
+
+wd:Q2881523 a wd:Q2235308 ;
+    rdfs:label "Balsa"@en .
+
+wd:Q2891138 a wd:Q2235308 ;
+    rdfs:label "Q2891138"^^xsd:string .
+
+wd:Q2891142 a wd:Q2235308 ;
+    rdfs:label "Q2891142"^^xsd:string .
+
+wd:Q2891144 a wd:Q2235308 ;
+    rdfs:label "Q2891144"^^xsd:string .
+
+wd:Q2891145 a wd:Q2235308 ;
+    rdfs:label "Q2891145"^^xsd:string .
+
+wd:Q2891178 a wd:Q16335899 ;
+    rdfs:label "Batel"@en .
+
+wd:Q2893168 a wd:Q16335899 ;
+    rdfs:label "raft"@en .
+
+wd:Q28934375 a wd:Q1229765 ;
+    rdfs:label "Q28934375"^^xsd:string .
+
+wd:Q28934387 a wd:Q1229765 ;
+    rdfs:label "Q28934387"^^xsd:string .
+
+wd:Q28934467 a wd:Q1229765 ;
+    rdfs:label "Q28934467"^^xsd:string .
+
+wd:Q28944482 a wd:Q1229765 ;
+    rdfs:label "Q28944482"^^xsd:string .
+
+wd:Q28969888 a wd:Q1229765 ;
+    rdfs:label "Q28969888"^^xsd:string .
+
+wd:Q28970082 a wd:Q1229765 ;
+    rdfs:label "Q28970082"^^xsd:string .
+
+wd:Q28970224 a wd:Q1229765 ;
+    rdfs:label "Q28970224"^^xsd:string .
+
+wd:Q2899123 a wd:Q2235308 ;
+    rdfs:label "Q2899123"^^xsd:string .
+
+wd:Q2901318 a wd:Q16889133 ;
+    rdfs:label "mine roller"@en .
+
+wd:Q2901845 a wd:Q2235308 ;
+    rdfs:label "Q2901845"^^xsd:string .
+
+wd:Q2904725 a wd:Q2235308 ;
+    rdfs:label "Q2904725"^^xsd:string .
+
+wd:Q2906600 a wd:Q2235308 ;
+    rdfs:label "Q2906600"^^xsd:string .
+
+wd:Q29112906 a wd:Q42889 ;
+    rdfs:label "Q29112906"^^xsd:string .
+
+wd:Q29112907 a wd:Q42889 ;
+    rdfs:label "Q29112907"^^xsd:string .
+
+wd:Q29113735 a wd:Q42889 ;
+    rdfs:label "Q29113735"^^xsd:string .
+
+wd:Q29114539 a wd:Q42889 ;
+    rdfs:label "Q29114539"^^xsd:string .
+
+wd:Q29114542 a wd:Q42889 ;
+    rdfs:label "Q29114542"^^xsd:string .
+
+wd:Q29121326 a wd:Q42889 ;
+    rdfs:label "Q29121326"^^xsd:string .
+
+wd:Q2914532 a wd:Q2235308 ;
+    rdfs:label "surface combatant"@en .
+
+wd:Q2918017 a wd:Q42889 ;
+    rdfs:label "Q2918017"^^xsd:string .
+
+wd:Q29197451 a wd:Q42889 ;
+    rdfs:label "Q29197451"^^xsd:string .
+
+wd:Q29197461 a wd:Q42889 ;
+    rdfs:label "Q29197461"^^xsd:string .
+
+wd:Q29228899 a wd:Q42889 ;
+    rdfs:label "Q29228899"^^xsd:string .
+
+wd:Q2923019 a wd:Q2235308 ;
+    rdfs:label "Q2923019"^^xsd:string .
+
+wd:Q29230327 a wd:Q42889 ;
+    rdfs:label "Q29230327"^^xsd:string .
+
+wd:Q2925115 a wd:Q2235308 ;
+    rdfs:label "Q2925115"^^xsd:string .
+
+wd:Q29253173 a wd:Q42889 ;
+    rdfs:label "Q29253173"^^xsd:string .
+
+wd:Q29253176 a wd:Q42889 ;
+    rdfs:label "Q29253176"^^xsd:string .
+
+wd:Q29253693 a wd:Q42889 ;
+    rdfs:label "Q29253693"^^xsd:string .
+
+wd:Q29254049 a wd:Q42889 ;
+    rdfs:label "Q29254049"^^xsd:string .
+
+wd:Q29254096 a wd:Q42889 ;
+    rdfs:label "Q29254096"^^xsd:string .
+
+wd:Q29254691 a wd:Q42889 ;
+    rdfs:label "Q29254691"^^xsd:string .
+
+wd:Q29254696 a wd:Q42889 ;
+    rdfs:label "Q29254696"^^xsd:string .
+
+wd:Q29255583 a wd:Q42889 ;
+    rdfs:label "Q29255583"^^xsd:string .
+
+wd:Q29257325 a wd:Q42889 ;
+    rdfs:label "Q29257325"^^xsd:string .
+
+wd:Q29257747 a wd:Q42889 ;
+    rdfs:label "Q29257747"^^xsd:string .
+
+wd:Q2927688 a wd:Q2235308 ;
+    rdfs:label "Q2927688"^^xsd:string .
+
+wd:Q29284406 a wd:Q42889 ;
+    rdfs:label "Q29284406"^^xsd:string .
+
+wd:Q2928814 a wd:Q2235308 ;
+    rdfs:label "LPG carrier"@en .
+
+wd:Q29289884 a wd:Q42889 ;
+    rdfs:label "Q29289884"^^xsd:string .
+
+wd:Q2929259 a wd:Q2235308 ;
+    rdfs:label "Q2929259"^^xsd:string .
+
+wd:Q29300742 a wd:Q42889 ;
+    rdfs:label "Q29300742"^^xsd:string .
+
+wd:Q2932313 a wd:Q2235308 ;
+    rdfs:label "Cabin cruiser"@en .
+
+wd:Q2932423 a wd:Q2235308 ;
+    rdfs:label "Q2932423"^^xsd:string .
+
+wd:Q2936352 a wd:Q2235308 ;
+    rdfs:label "Q2936352"^^xsd:string .
+
+wd:Q2936519 a wd:Q2235308 ;
+    rdfs:label "Q2936519"^^xsd:string .
+
+wd:Q2936521 a wd:Q2235308 ;
+    rdfs:label "Q2936521"^^xsd:string .
+
+wd:Q2937785 a wd:Q1229765 ;
+    rdfs:label "Ross Barlow"@en .
+
+wd:Q2943421 a wd:Q2235308 ;
+    rdfs:label "Q2943421"^^xsd:string .
+
+wd:Q2947763 a wd:Q2235308 ;
+    rdfs:label "Q2947763"^^xsd:string .
+
+wd:Q295074 a wd:Q16889133 ;
+    rdfs:label "AMD Sempron"@en .
+
+wd:Q2963145 a wd:Q190403 ;
+    rdfs:label "PlayStation"@en .
+
+wd:Q296919 a wd:Q16889133 ;
+    rdfs:label "ARTIS"@en .
+
+wd:Q2972844 a wd:Q2235308 ;
+    rdfs:label "five-masted ship"@en .
+
+wd:Q2992316 a wd:Q190403 ;
+    rdfs:label "HSC Condor Rapide"@en .
+
+wd:Q30005005 a wd:Q1229765 ;
+    rdfs:label "S/S Melanie"@en .
+
+wd:Q3001250 a wd:Q2235308 ;
+    rdfs:label "Q3001250"^^xsd:string .
+
+wd:Q3001297 a wd:Q2235308 ;
+    rdfs:label "Q3001297"^^xsd:string .
+
+wd:Q3010351 a wd:Q2235308 ;
+    rdfs:label "Q3010351"^^xsd:string .
+
+wd:Q30280458 a wd:Q42889 ;
+    rdfs:label "FEDDZ"@en .
+
+wd:Q30324831 a wd:Q190403 ;
+    rdfs:label "HSC Atlantic Express"@en .
+
+wd:Q30326468 a wd:Q1229765 ;
+    rdfs:label "Brazilian cruiser Almirante Tamandaré"@en .
+
+wd:Q3038860 a wd:Q2235308 ;
+    rdfs:label "Q3038860"^^xsd:string .
+
+wd:Q3050282 a wd:Q2235308 ;
+    rdfs:label "destroyer tender"@en .
+
+wd:Q3051999 a wd:Q2235308 ;
+    rdfs:label "Q3051999"^^xsd:string .
+
+wd:Q3052001 a wd:Q2235308 ;
+    rdfs:label "Q3052001"^^xsd:string .
+
+wd:Q3052005 a wd:Q2235308 ;
+    rdfs:label "Q3052005"^^xsd:string .
+
+wd:Q3052006 a wd:Q2235308 ;
+    rdfs:label "ETRACO"@en .
+
+wd:Q3057962 a wd:Q2235308 ;
+    rdfs:label "fleet escort ship"@en .
+
+wd:Q3057965 a wd:Q2235308 ;
+    rdfs:label "escort ship"@en .
+
+wd:Q30752902 a wd:Q2235308 ;
+    rdfs:label "two-masted ship"@en .
+
+wd:Q3091275 a wd:Q16335899 ;
+    rdfs:label "Patache"@en .
+
+wd:Q30913670 a wd:Q2235308 ;
+    rdfs:label "Joessel-class submarines"@en .
+
+wd:Q3092973 a wd:Q2235308 ;
+    rdfs:label "Q3092973"^^xsd:string .
+
+wd:Q3093250 a wd:Q42889 ;
+    rdfs:label "Q3093250"^^xsd:string .
+
+wd:Q3094871 a wd:Q2235308 ;
+    rdfs:label "Q3094871"^^xsd:string .
+
+wd:Q31075157 a wd:Q2235308 ;
+    rdfs:label "Q31075157"^^xsd:string .
+
+wd:Q3109218 a wd:Q2235308 ;
+    rdfs:label "Sea Control Ship"@en .
+
+wd:Q3109549 a wd:Q2235308 ;
+    rdfs:label "Go-fast boat"@en .
+
+wd:Q3111684 a wd:Q2235308 ;
+    rdfs:label "Grab"@en .
+
+wd:Q3112871 a wd:Q2235308 ;
+    rdfs:label "Q3112871"^^xsd:string .
+
+wd:Q3112873 a wd:Q2235308 ;
+    rdfs:label "three-masted schooner"@en .
+
+wd:Q3112901 a wd:Q2235308 ;
+    rdfs:label "Sperrbrecher"@en .
+
+wd:Q3114762 a wd:Q2235308 ;
+    rdfs:label "warship"@en .
+
+wd:Q3118193 a wd:Q2235308 ;
+    rdfs:label "Q3118193"^^xsd:string .
+
+wd:Q3156841 a wd:Q2235308 ;
+    rdfs:label "J/105"@en .
+
+wd:Q3186335 a wd:Q1229765 ;
+    rdfs:label "HNLMS O 22"@en .
+
+wd:Q3200833 a wd:Q2235308 ;
+    rdfs:label "Q3200833"^^xsd:string .
+
+wd:Q32067282 a wd:Q190403 ;
+    rdfs:label "Möhnesee (ship, 1998)"@en .
+
+wd:Q3209251 a wd:Q2235308 ;
+    rdfs:label "Royal Research Ship"@en .
+
+wd:Q3209780 a wd:Q2235308 ;
+    rdfs:label "Q3209780"^^xsd:string .
+
+wd:Q323249 a wd:Q16335899 ;
+    rdfs:label "abra"@en .
+
+wd:Q324233 a wd:Q2235308 ;
+    rdfs:label "torpedo boat"@en .
+
+wd:Q324870 a wd:Q42889 ;
+    rdfs:label "ICE 4"@en .
+
+wd:Q325884 a wd:Q2235308 ;
+    rdfs:label "Landing Ship Medium"@en .
+
+wd:Q326561 a wd:Q2235308 ;
+    rdfs:label "fishing trawler"@en .
+
+wd:Q3273144 a wd:Q2235308 ;
+    rdfs:label "Q3273144"^^xsd:string .
+
+wd:Q3273203 a wd:Q2235308 ;
+    rdfs:label "Sewn boat"@en .
+
+wd:Q3276983 a wd:Q2235308 ;
+    rdfs:label "cruiseferry"@en .
+
+wd:Q3305744 a wd:Q2235308 ;
+    rdfs:label "Q3305744"^^xsd:string .
+
+wd:Q3308902 a wd:Q2235308 ;
+    rdfs:label "naval trawler"@en .
+
+wd:Q3315678 a wd:Q2235308 ;
+    rdfs:label "ore carrier"@en .
+
+wd:Q331795 a wd:Q2235308 ;
+    rdfs:label "patrol vessel"@en .
+
+wd:Q3321102 a wd:Q2235308 ;
+    rdfs:label "Monocat"@en .
+
+wd:Q3323655 a wd:Q2235308 ;
+    rdfs:label "Q3323655"^^xsd:string .
+
+wd:Q3324632 a wd:Q2235308 ;
+    rdfs:label "cod-fishing boat"@en .
+
+wd:Q3337309 a wd:Q2235308 ;
+    rdfs:label "mine warfare vessel"@en .
+
+wd:Q3337312 a wd:Q2235308 ;
+    rdfs:label "service vessel"@en .
+
+wd:Q3337770 a wd:Q2235308 ;
+    rdfs:label "Q3337770"^^xsd:string .
+
+wd:Q3346788 a wd:Q2235308 ;
+    rdfs:label "Q3346788"^^xsd:string .
+
+wd:Q3352703 a wd:Q2235308 ;
+    rdfs:label "Q3352703"^^xsd:string .
+
+wd:Q3355055 a wd:Q190403 ;
+    rdfs:label "Orange II"@en .
+
+wd:Q3360011 a wd:Q2235308 ;
+    rdfs:label "Q3360011"^^xsd:string .
+
+wd:Q3362987 a wd:Q2235308 ;
+    rdfs:label "four funnel liner"@en .
+
+wd:Q3368681 a wd:Q2235308 ;
+    rdfs:label "patera"@en .
+
+wd:Q33791 a wd:Q16335899 ;
+    rdfs:label "pirogue"@en .
+
+wd:Q3381463 a wd:Q2235308 ;
+    rdfs:label "Q3381463"^^xsd:string .
+
+wd:Q3381497 a wd:Q2235308 ;
+    rdfs:label "Q3381497"^^xsd:string .
+
+wd:Q3381512 a wd:Q2235308 ;
+    rdfs:label "Q3381512"^^xsd:string .
+
+wd:Q3382532 a wd:Q2235308 ;
+    rdfs:label "Q3382532"^^xsd:string .
+
+wd:Q3388595 a wd:Q2235308 ;
+    rdfs:label "Q3388595"^^xsd:string .
+
+wd:Q3397759 a wd:Q2235308 ;
+    rdfs:label "Q3397759"^^xsd:string .
+
+wd:Q340066 a wd:Q2235308 ;
+    rdfs:label "Quadrireme"@en .
+
+wd:Q3413439 a wd:Q2235308 ;
+    rdfs:label "four-masted ship"@en .
+
+wd:Q3413443 a wd:Q2235308 ;
+    rdfs:label "four-masted barque"@en .
+
+wd:Q3424720 a wd:Q2235308 ;
+    rdfs:label "Renaissance"@en .
+
+wd:Q3432806 a wd:Q2235308 ;
+    rdfs:label "Q3432806"^^xsd:string .
+
+wd:Q3440099 a wd:Q2235308 ;
+    rdfs:label "Kitamaebune"@en .
+
+wd:Q3446556 a wd:Q1229765 ;
+    rdfs:label "Ruby (ship)"@en .
+
+wd:Q3454042 a wd:Q1229765 ;
+    rdfs:label "SS Ryusei Maru"@en .
+
+wd:Q3456301 a wd:Q2235308 ;
+    rdfs:label "ship replica"@en .
+
+wd:Q3483055 a wd:Q2235308 ;
+    rdfs:label "pram"@en .
+
+wd:Q348741 a wd:Q2235308 ;
+    rdfs:label "cable layer"@en .
+
+wd:Q3491544 a wd:Q2235308 ;
+    rdfs:label "Q3491544"^^xsd:string .
+
+wd:Q3515348 a wd:Q2235308 ;
+    rdfs:label "mine countermeasures vessel"@en .
+
+wd:Q352293 a wd:Q2235308 ;
+    rdfs:label "concrete ship"@en .
+
+wd:Q352420 a wd:Q2235308 ;
+    rdfs:label "Melges 24"@en .
+
+wd:Q3525787 a wd:Q2235308 ;
+    rdfs:label "tuna-fishing boat"@en .
+
+wd:Q353699 a wd:Q2235308 ;
+    rdfs:label "feeder ship"@en .
+
+wd:Q3539920 a wd:Q2235308 ;
+    rdfs:label "three-masted ship"@en .
+
+wd:Q3539922 a wd:Q2235308 ;
+    rdfs:label "Three-decker"@en .
+
+wd:Q3553318 a wd:Q2235308 ;
+    rdfs:label "Q3553318"^^xsd:string .
+
+wd:Q3556366 a wd:Q1642862 ;
+    rdfs:label "Vestas Sailrocket"@en .
+
+wd:Q3562341 a wd:Q2235308 ;
+    rdfs:label "Q3562341"^^xsd:string .
+
+wd:Q3564008 a wd:Q42889 ;
+    rdfs:label "Q3564008"^^xsd:string .
+
+wd:Q356824 a wd:Q42889 ;
+    rdfs:label "Dragster"@en .
+
+wd:Q356847 a wd:Q2235308 ;
+    rdfs:label "car carrier"@en .
+
+wd:Q3573004 a wd:Q2235308 ;
+    rdfs:label "Q3573004"^^xsd:string .
+
+wd:Q3633499 a wd:Q1229765 ;
+    rdfs:label "Q3633499"^^xsd:string .
+
+wd:Q3636169 a wd:Q16335899 ;
+    rdfs:label "Q3636169"^^xsd:string .
+
+wd:Q3679597 a wd:Q2235308 ;
+    rdfs:label "attack transport"@en .
+
+wd:Q373613 a wd:Q42889 ;
+    rdfs:label "Reed boat"@en .
+
+wd:Q37376085 a wd:Q42889 ;
+    rdfs:label "Fourgons mousse grande puissance"@en .
+
+wd:Q3758612 a wd:Q2235308 ;
+    rdfs:label "gas carrier"@en .
+
+wd:Q3773238 a wd:Q16335899 ;
+    rdfs:label "Q3773238"^^xsd:string .
+
+wd:Q3784092 a wd:Q2235308 ;
+    rdfs:label "car ferry"@en .
+
+wd:Q3798692 a wd:Q16335899 ;
+    rdfs:label "Q3798692"^^xsd:string .
+
+wd:Q3813177 a wd:Q2235308 ;
+    rdfs:label "Q3813177"^^xsd:string .
+
+wd:Q3817074 a wd:Q1229765 ;
+    rdfs:label "Q3817074"^^xsd:string .
+
+wd:Q381936 a wd:Q2235308 ;
+    rdfs:label "Star"@en .
+
+wd:Q3823220 a wd:Q16335899 ;
+    rdfs:label "Q3823220"^^xsd:string .
+
+wd:Q382586 a wd:Q2235308 ;
+    rdfs:label "smack"@en .
+
+wd:Q3828388 a wd:Q2235308 ;
+    rdfs:label "Q3828388"^^xsd:string .
+
+wd:Q382915 a wd:Q16889133 ;
+    rdfs:label "Discoverer"@en .
+
+wd:Q3831239 a wd:Q2235308 ;
+    rdfs:label "Q3831239"^^xsd:string .
+
+wd:Q3836059 a wd:Q42889 ;
+    rdfs:label "JŽ 342 class"@en .
+
+wd:Q383678 a wd:Q2235308 ;
+    rdfs:label "Aframax"@en .
+
+wd:Q387025 a wd:Q2235308 ;
+    rdfs:label "topsail schooner"@en .
+
+wd:Q3878605 a wd:Q1229765 ;
+    rdfs:label "Noshiro Maru"@en .
+
+wd:Q389225 a wd:Q2235308 ;
+    rdfs:label "Fighter catapult ship"@en .
+
+wd:Q39049163 a wd:Q1229765 ;
+    rdfs:label "Brazilian coastal defense ship Floriano"@en .
+
+wd:Q3905636 a wd:Q2235308 ;
+    rdfs:label "pirofrigate"@en .
+
+wd:Q39080144 a wd:Q42889 ;
+    rdfs:label "Unimog 411"@en .
+
+wd:Q391022 a wd:Q2235308 ;
+    rdfs:label "research vessel"@en .
+
+wd:Q3979890 a wd:Q1229765 ;
+    rdfs:label "Yugoslav torpedo boat T1"@en .
+
+wd:Q39804 a wd:Q2235308 ;
+    rdfs:label "cruise ship"@en .
+
+wd:Q3981132 a wd:Q2235308 ;
+    rdfs:label "Q3981132"^^xsd:string .
+
+wd:Q4001832 a wd:Q1229765 ;
+    rdfs:label "SM UC-35"@en .
+
+wd:Q4010512 a wd:Q1229765 ;
+    rdfs:label "Vettor Pisani"@en .
+
+wd:Q402092 a wd:Q2235308 ;
+    rdfs:label "motor ship"@en .
+
+wd:Q4030618 a wd:Q42889 ;
+    rdfs:label "2П32"@en .
+
+wd:Q4032811 a wd:Q42889 ;
+    rdfs:label "9А38"@en .
+
+wd:Q4032967 a wd:Q42889 ;
+    rdfs:label "Q4032967"^^xsd:string .
+
+wd:Q4045729 a wd:Q1229765 ;
+    rdfs:label "Queen of the Isles"@en .
+
+wd:Q4053636 a wd:Q2235308 ;
+    rdfs:label "flat-iron gunboat"@en .
+
+wd:Q4070280 a wd:Q2235308 ;
+    rdfs:label "river gunboat"@en .
+
+wd:Q4074630 a wd:Q2235308 ;
+    rdfs:label "Bawarij"@en .
+
+wd:Q4090283 a wd:Q2235308 ;
+    rdfs:label "Japanese raiders in the Indian Ocean"@en .
+
+wd:Q4093000 a wd:Q2235308 ;
+    rdfs:label "large anti-submarine warfare ship"@en .
+
+wd:Q4153467 a wd:Q42889 ;
+    rdfs:label "Vityaz"@en .
+
+wd:Q4161425 a wd:Q2235308 ;
+    rdfs:label "diesel-electric submarine"@en .
+
+wd:Q4168239 a wd:Q2235308 ;
+    rdfs:label "drifter"@en .
+
+wd:Q4229164 a wd:Q42889 ;
+    rdfs:label "Q4229164"^^xsd:string .
+
+wd:Q4232629 a wd:Q2235308 ;
+    rdfs:label "command ship"@en .
+
+wd:Q4252713 a wd:Q2235308 ;
+    rdfs:label "Lodi"@en .
+
+wd:Q4295041 a wd:Q2235308 ;
+    rdfs:label "torpedo cruiser"@en .
+
+wd:Q43080092 a wd:Q1229765 ;
+    rdfs:label "Brazilian coastal defense ship Deodoro"@en .
+
+wd:Q431622 a wd:Q2235308 ;
+    rdfs:label "dock landing ship"@en .
+
+wd:Q431858 a wd:Q2235308 ;
+    rdfs:label "factory ship"@en .
+
+wd:Q4347150 a wd:Q2235308 ;
+    rdfs:label "Pausik"@en .
+
+wd:Q4352296 a wd:Q1229765 ;
+    rdfs:label "HMS Splendid"@en .
+
+wd:Q4352441 a wd:Q1229765 ;
+    rdfs:label "HMS Swiftsure"@en .
+
+wd:Q4352531 a wd:Q1229765 ;
+    rdfs:label "HMS Sovereign"@en .
+
+wd:Q4352838 a wd:Q1229765 ;
+    rdfs:label "ORP Sokół"@en .
+
+wd:Q4354927 a wd:Q2235308 ;
+    rdfs:label "hemmema"@en .
+
+wd:Q4355325 a wd:Q1229765 ;
+    rdfs:label "HMS Ace"@en .
+
+wd:Q4364290 a wd:Q2235308 ;
+    rdfs:label "repair ship"@en .
+
+wd:Q4364292 a wd:Q2235308 ;
+    rdfs:label "barracks ship"@en .
+
+wd:Q4369087 a wd:Q16889133 ;
+    rdfs:label "jet fighter generation"@en .
+
+wd:Q4381758 a wd:Q2235308 ;
+    rdfs:label "anti-submarine warfare ship"@en .
+
+wd:Q4403097 a wd:Q1229765 ;
+    rdfs:label "Ukrainian frigate Otaman Bilyi"@en .
+
+wd:Q441871 a wd:Q2235308 ;
+    rdfs:label "rotor ship"@en .
+
+wd:Q442120 a wd:Q2235308 ;
+    rdfs:label "Knarr"@en .
+
+wd:Q443802 a wd:Q2235308 ;
+    rdfs:label "luxury yacht"@en .
+
+wd:Q4453313 a wd:Q2235308 ;
+    rdfs:label "tweendecker"@en .
+
+wd:Q4453968 a wd:Q42889 ;
+    rdfs:label "Cugnot's Cart"@en .
+
+wd:Q447536 a wd:Q2235308 ;
+    rdfs:label "horse-drawn boat"@en .
+
+wd:Q4491070 a wd:Q2235308 ;
+    rdfs:label "flyboat"@en .
+
+wd:Q449175 a wd:Q2235308 ;
+    rdfs:label "IF-boat"@en .
+
+wd:Q45242174 a wd:Q16889133 ;
+    rdfs:label "gazetted locality of Victoria"@en .
+
+wd:Q4548761 a wd:Q16889133 ;
+    rdfs:label "12ft Skiff"@en .
+
+wd:Q4564080 a wd:Q2235308 ;
+    rdfs:label "OE 36"@en .
+
+wd:Q4568437 a wd:Q2235308 ;
+    rdfs:label "Q4568437"^^xsd:string .
+
+wd:Q4573133 a wd:Q16889133 ;
+    rdfs:label "Donald Top"@en .
+
+wd:Q457689 a wd:Q2235308 ;
+    rdfs:label "surfboard"@en .
+
+wd:Q4583676 a wd:Q2235308 ;
+    rdfs:label "Westamaran"@en .
+
+wd:Q4583713 a wd:Q2235308 ;
+    rdfs:label "merchant raider"@en .
+
+wd:Q458573 a wd:Q2235308 ;
+    rdfs:label "wooden boat"@en .
+
+wd:Q4646861 a wd:Q2235308 ;
+    rdfs:label "A-1 lifeboat"@en .
+
+wd:Q4646867 a wd:Q2235308 ;
+    rdfs:label "A-3 lifeboat"@en .
+
+wd:Q4683792 a wd:Q2235308 ;
+    rdfs:label "Admiralty tug"@en .
+
+wd:Q4698501 a wd:Q2235308 ;
+    rdfs:label "Aircraft Carrier"@en .
+
+wd:Q47005327 a wd:Q42889 ;
+    rdfs:label "Q47005327"^^xsd:string .
+
+wd:Q47005331 a wd:Q42889 ;
+    rdfs:label "Q47005331"^^xsd:string .
+
+wd:Q47005338 a wd:Q42889 ;
+    rdfs:label "Q47005338"^^xsd:string .
+
+wd:Q47011255 a wd:Q190403 ;
+    rdfs:label "MS «Fjordlys»"@en .
+
+wd:Q47165651 a wd:Q42889 ;
+    rdfs:label "Q47165651"^^xsd:string .
+
+wd:Q4724301 a wd:Q1229765 ;
+    rdfs:label "Algoma Mariner"@en .
+
+wd:Q47292560 a wd:Q1229765 ;
+    rdfs:label "IMO 9319466"@en .
+
+wd:Q47293423 a wd:Q42889 ;
+    rdfs:label "Q47293423"^^xsd:string .
+
+wd:Q473094 a wd:Q2235308 ;
+    rdfs:label "fast battleship"@en .
+
+wd:Q4732662 a wd:Q2235308 ;
+    rdfs:label "Alligator boat"@en .
+
+wd:Q473932 a wd:Q2235308 ;
+    rdfs:label "roll-on/roll-off ship"@en .
+
+wd:Q474733 a wd:Q2235308 ;
+    rdfs:label "amphibious transport dock"@en .
+
+wd:Q4747343 a wd:Q2235308 ;
+    rdfs:label "ammunition ship"@en .
+
+wd:Q474748 a wd:Q2235308 ;
+    rdfs:label "amphibious assault ship"@en .
+
+wd:Q4748200 a wd:Q2235308 ;
+    rdfs:label "amphibious cargo ship"@en .
+
+wd:Q4750273 a wd:Q1229765 ;
+    rdfs:label "An Yue Jiang"@en .
+
+wd:Q4770733 a wd:Q1229765 ;
+    rdfs:label "Anson Northrup"@en .
+
+wd:Q4793052 a wd:Q2235308 ;
+    rdfs:label "Armed boarding steamer"@en .
+
+wd:Q4793055 a wd:Q2235308 ;
+    rdfs:label "armed merchant ship"@en .
+
+wd:Q4793068 a wd:Q2235308 ;
+    rdfs:label "Armed yacht"@en .
+
+wd:Q4818021 a wd:Q2235308 ;
+    rdfs:label "attack submarine"@en .
+
+wd:Q4827289 a wd:Q2235308 ;
+    rdfs:label "Auxiliary Motor Minesweeper"@en .
+
+wd:Q4827298 a wd:Q2235308 ;
+    rdfs:label "Auxiliary crane ship"@en .
+
+wd:Q4827316 a wd:Q2235308 ;
+    rdfs:label "Auxiliary repair dock"@en .
+
+wd:Q4834621 a wd:Q1229765 ;
+    rdfs:label "BAP Islay"@en .
+
+wd:Q4834626 a wd:Q1229765 ;
+    rdfs:label "BAP Pisagua"@en .
+
+wd:Q4836152 a wd:Q1229765 ;
+    rdfs:label "BNS Sahayak"@en .
+
+wd:Q4836157 a wd:Q1229765 ;
+    rdfs:label "BNS Ulka"@en .
+
+wd:Q4836160 a wd:Q1229765 ;
+    rdfs:label "BNS Vatiary"@en .
+
+wd:Q4843179 a wd:Q2235308 ;
+    rdfs:label "Baidak"@en .
+
+wd:Q4847899 a wd:Q2235308 ;
+    rdfs:label "barquentine"@en .
+
+wd:Q4853860 a wd:Q2235308 ;
+    rdfs:label "banana boat"@en .
+
+wd:Q487307 a wd:Q2235308 ;
+    rdfs:label "ice boat"@en .
+
+wd:Q4879069 a wd:Q2235308 ;
+    rdfs:label "Beden"@en .
+
+wd:Q4892700 a wd:Q2235308 ;
+    rdfs:label "Bermuda sloop"@en .
+
+wd:Q492034 a wd:Q2235308 ;
+    rdfs:label "Finn"@en .
+
+wd:Q4928685 a wd:Q2235308 ;
+    rdfs:label "Bludworth"@en .
+
+wd:Q4930215 a wd:Q1229765 ;
+    rdfs:label "Bluebelle"@en .
+
+wd:Q4938508 a wd:Q2235308 ;
+    rdfs:label "Boita"@en .
+
+wd:Q4949127 a wd:Q42889 ;
+    rdfs:label "Bottom crawler"@en .
+
+wd:Q4959815 a wd:Q2235308 ;
+    rdfs:label "breastwork monitor"@en .
+
+wd:Q4986058 a wd:Q42889 ;
+    rdfs:label "BugE"@en .
+
+wd:Q50018318 a wd:Q42889 ;
+    rdfs:label "demining vehicle"@en .
+
+wd:Q50078381 a wd:Q42889 ;
+    rdfs:label "2-man bob"@en .
+
+wd:Q50078622 a wd:Q42889 ;
+    rdfs:label "4-man bob"@en .
+
+wd:Q50141068 a wd:Q42889 ;
+    rdfs:label "gandola"@en .
+
+wd:Q5017523 a wd:Q2235308 ;
+    rdfs:label "Caicque"@en .
+
+wd:Q5037274 a wd:Q2235308 ;
+    rdfs:label "Car float"@en .
+
+wd:Q5037681 a wd:Q2235308 ;
+    rdfs:label "Caramoussal"@en .
+
+wd:Q5050982 a wd:Q2235308 ;
+    rdfs:label "Cat-ketch"@en .
+
+wd:Q5051615 a wd:Q190403 ;
+    rdfs:label "Cataño Ferry"@en .
+
+wd:Q5055449 a wd:Q2235308 ;
+    rdfs:label "Cayuco"@en .
+
+wd:Q5062077 a wd:Q2235308 ;
+    rdfs:label "central battery ironclad"@en .
+
+wd:Q50824634 a wd:Q16889133 ;
+    rdfs:label "memorial to William Tell"@en .
+
+wd:Q509222 a wd:Q2235308 ;
+    rdfs:label "drillship"@en .
+
+wd:Q5104830 a wd:Q1229765 ;
+    rdfs:label "Chopin"@en .
+
+wd:Q5138359 a wd:Q2235308 ;
+    rdfs:label "coastal minesweeper"@en .
+
+wd:Q5138360 a wd:Q2235308 ;
+    rdfs:label "Coastal minehunter"@en .
+
+wd:Q5139146 a wd:Q2235308 ;
+    rdfs:label "Coccas"@en .
+
+wd:Q5150726 a wd:Q2235308 ;
+    rdfs:label "combat stores ship"@en .
+
+wd:Q5150733 a wd:Q2235308 ;
+    rdfs:label "Combatant ship"@en .
+
+wd:Q51582450 a wd:Q190403 ;
+    rdfs:label "Renøy (ship, 1999)"@en .
+
+wd:Q516239 a wd:Q2235308 ;
+    rdfs:label "nau"@en .
+
+wd:Q5163339 a wd:Q2235308 ;
+    rdfs:label "consort"@en .
+
+wd:Q5166675 a wd:Q2235308 ;
+    rdfs:label "convoy rescue ship"@en .
+
+wd:Q5175316 a wd:Q16335899 ;
+    rdfs:label "personal water craft"@en .
+
+wd:Q5175764 a wd:Q2235308 ;
+    rdfs:label "Cottonclad warship"@en .
+
+wd:Q5182401 a wd:Q2235308 ;
+    rdfs:label "crash rescue boat"@en .
+
+wd:Q5187623 a wd:Q2235308 ;
+    rdfs:label "Crommesteven"@en .
+
+wd:Q5189978 a wd:Q2235308 ;
+    rdfs:label "cruiser yacht"@en .
+
+wd:Q52169426 a wd:Q42889 ;
+    rdfs:label "gandoler"@en .
+
+wd:Q5219984 a wd:Q2235308 ;
+    rdfs:label "Danlayer"@en .
+
+wd:Q52344272 a wd:Q190403 ;
+    rdfs:label "IMO 9134543"@en .
+
+wd:Q52345772 a wd:Q190403 ;
+    rdfs:label "Flyingcat 6"@en .
+
+wd:Q52354072 a wd:Q190403 ;
+    rdfs:label "Steigtind"@en .
+
+wd:Q5250059 a wd:Q1229765 ;
+    rdfs:label "DeepFlight Merlin"@en .
+
+wd:Q5251487 a wd:Q2235308 ;
+    rdfs:label "Defensively Equipped Merchant Ships"@en .
+
+wd:Q525365 a wd:Q2235308 ;
+    rdfs:label "seaplane tender"@en .
+
+wd:Q5258439 a wd:Q2235308 ;
+    rdfs:label "Royal barge"@en .
+
+wd:Q5260814 a wd:Q2235308 ;
+    rdfs:label "depot ship"@en .
+
+wd:Q5265375 a wd:Q2235308 ;
+    rdfs:label "destroyer minesweeper"@en .
+
+wd:Q5277386 a wd:Q2235308 ;
+    rdfs:label "Tjotter"@en .
+
+wd:Q528009 a wd:Q2235308 ;
+    rdfs:label "Koff"@en .
+
+wd:Q5282548 a wd:Q2235308 ;
+    rdfs:label "dispatch boat"@en .
+
+wd:Q5282662 a wd:Q2235308 ;
+    rdfs:label "Disposable ship"@en .
+
+wd:Q5299960 a wd:Q2235308 ;
+    rdfs:label "double acting ship"@en .
+
+wd:Q5313088 a wd:Q1229765 ;
+    rdfs:label "Duke of Portland"@en .
+
+wd:Q5316598 a wd:Q2235308 ;
+    rdfs:label "Durham boat"@en .
+
+wd:Q5322745 a wd:Q42889 ;
+    rdfs:label "ECRV"@en .
+
+wd:Q535705 a wd:Q2235308 ;
+    rdfs:label "Blockship"@en .
+
+wd:Q5358781 a wd:Q2235308 ;
+    rdfs:label "Elektroboot"@en .
+
+wd:Q536150 a wd:Q2235308 ;
+    rdfs:label "Q536150"^^xsd:string .
+
+wd:Q5385861 a wd:Q2235308 ;
+    rdfs:label "merchant submarine"@en .
+
+wd:Q5394078 a wd:Q1229765 ;
+    rdfs:label "Q5394078"^^xsd:string .
+
+wd:Q5415224 a wd:Q2235308 ;
+    rdfs:label "Evacuation Transport"@en .
+
+wd:Q5419297 a wd:Q2235308 ;
+    rdfs:label "Examination vessel"@en .
+
+wd:Q542198 a wd:Q16335899 ;
+    rdfs:label "trainera"@en .
+
+wd:Q5427338 a wd:Q1229765 ;
+    rdfs:label "FV Ekawat Nava 5"@en .
+
+wd:Q5427482 a wd:Q42889 ;
+    rdfs:label "F B"@en .
+
+wd:Q54411366 a wd:Q42889 ;
+    rdfs:label "Millet petrol tricycle-CnAM 14327"@en .
+
+wd:Q544823 a wd:Q2235308 ;
+    rdfs:label "nuclear-powered icebreaker"@en .
+
+wd:Q5458453 a wd:Q2235308 ;
+    rdfs:label "fleet submarine"@en .
+
+wd:Q5458456 a wd:Q2235308 ;
+    rdfs:label "Fleet tender"@en .
+
+wd:Q5459267 a wd:Q2235308 ;
+    rdfs:label "flight deck cruiser"@en .
+
+wd:Q5459912 a wd:Q2235308 ;
+    rdfs:label "Floating fuel station"@en .
+
+wd:Q5459929 a wd:Q2235308 ;
+    rdfs:label "floating restaurant"@en .
+
+wd:Q5461999 a wd:Q2235308 ;
+    rdfs:label "Flotel"@en .
+
+wd:Q5472665 a wd:Q42889 ;
+    rdfs:label "Fortis"@en .
+
+wd:Q5475722 a wd:Q2235308 ;
+    rdfs:label "Four piper"@en .
+
+wd:Q5476618 a wd:Q16335899 ;
+    rdfs:label "Saetia"@en .
+
+wd:Q5478560 a wd:Q1229765 ;
+    rdfs:label "Q5478560"^^xsd:string .
+
+wd:Q5479545 a wd:Q190403 ;
+    rdfs:label "HSC Algeciras Jet"@en .
+
+wd:Q5491384 a wd:Q1229765 ;
+    rdfs:label "Q5491384"^^xsd:string .
+
+wd:Q54957286 a wd:Q190403 ;
+    rdfs:label "Hemisphere"@en .
+
+wd:Q5501670 a wd:Q2235308 ;
+    rdfs:label "French 600 Series submarines"@en .
+
+wd:Q5502309 a wd:Q1229765 ;
+    rdfs:label "French minesweepers Inkerman and Cerisoles"@en .
+
+wd:Q55121526 a wd:Q42889 ;
+    rdfs:label "JAC Rein"@en .
+
+wd:Q5513420 a wd:Q2235308 ;
+    rdfs:label "GHOST"@en .
+
+wd:Q5515289 a wd:Q2235308 ;
+    rdfs:label "Gabbart"@en .
+
+wd:Q5532391 a wd:Q2235308 ;
+    rdfs:label "General stores issue ship"@en .
+
+wd:Q5540924 a wd:Q1229765 ;
+    rdfs:label "George III"@en .
+
+wd:Q5546910 a wd:Q1229765 ;
+    rdfs:label "Georges Valentine"@en .
+
+wd:Q5551340 a wd:Q2235308 ;
+    rdfs:label "German commerce raiders in World War I"@en .
+
+wd:Q5551470 a wd:Q1229765 ;
+    rdfs:label "German ship Petrella"@en .
+
+wd:Q5551471 a wd:Q1229765 ;
+    rdfs:label "German ship Totila"@en .
+
+wd:Q55520015 a wd:Q190403 ;
+    rdfs:label "Q55520015"^^xsd:string .
+
+wd:Q55520614 a wd:Q190403 ;
+    rdfs:label "Q55520614"^^xsd:string .
+
+wd:Q557281 a wd:Q2235308 ;
+    rdfs:label "anchor handling tug supply vessel"@en .
+
+wd:Q5588223 a wd:Q1229765 ;
+    rdfs:label "Goulandris I"@en .
+
+wd:Q5589552 a wd:Q1229765 ;
+    rdfs:label "Governor General Loudon"@en .
+
+wd:Q56259040 a wd:Q42889 ;
+    rdfs:label "Force Traveller"@en .
+
+wd:Q5629247 a wd:Q1229765 ;
+    rdfs:label "HDMS Søehesten"@en .
+
+wd:Q5630548 a wd:Q4027331 ;
+    rdfs:label "HMAS Rushcutter"@en .
+
+wd:Q5631190 a wd:Q1229765 ;
+    rdfs:label "HMS Achates"@en .
+
+wd:Q56313717 a wd:Q2235308 ;
+    rdfs:label "Yamalmax"@en .
+
+wd:Q5631733 a wd:Q1229765 ;
+    rdfs:label "HMS Cachalot"@en .
+
+wd:Q5632366 a wd:Q1229765 ;
+    rdfs:label "HMS F1"@en .
+
+wd:Q5632368 a wd:Q1229765 ;
+    rdfs:label "HMS F2"@en .
+
+wd:Q5632370 a wd:Q1229765 ;
+    rdfs:label "HMS F3"@en .
+
+wd:Q5632423 a wd:Q1229765 ;
+    rdfs:label "HMS Finwhale"@en .
+
+wd:Q5632775 a wd:Q1229765 ;
+    rdfs:label "HMS Heureux"@en .
+
+wd:Q5632970 a wd:Q1229765 ;
+    rdfs:label "HMS Kangaroo"@en .
+
+wd:Q5633120 a wd:Q1229765 ;
+    rdfs:label "HMS Liberty"@en .
+
+wd:Q5633203 a wd:Q1229765 ;
+    rdfs:label "HMS Loyalist"@en .
+
+wd:Q5633363 a wd:Q1229765 ;
+    rdfs:label "HMS Merlin"@en .
+
+wd:Q5633485 a wd:Q1229765 ;
+    rdfs:label "HMS Narwhal"@en .
+
+wd:Q5633611 a wd:Q1229765 ;
+    rdfs:label "HMS Orlando"@en .
+
+wd:Q5634242 a wd:Q1229765 ;
+    rdfs:label "HMS Sceptre"@en .
+
+wd:Q5634260 a wd:Q1229765 ;
+    rdfs:label "HMS Sea Rider"@en .
+
+wd:Q5634273 a wd:Q1229765 ;
+    rdfs:label "HMS Sealion"@en .
+
+wd:Q5634582 a wd:Q1229765 ;
+    rdfs:label "HMS Telegraph"@en .
+
+wd:Q5634653 a wd:Q1229765 ;
+    rdfs:label "HMS Topaze"@en .
+
+wd:Q5635091 a wd:Q1229765 ;
+    rdfs:label "HMY Bezan"@en .
+
+wd:Q5635316 a wd:Q1229765 ;
+    rdfs:label "HNLMS K VIII"@en .
+
+wd:Q5635911 a wd:Q190403 ;
+    rdfs:label "Catalonia"@en .
+
+wd:Q5635920 a wd:Q190403 ;
+    rdfs:label "Express 1"@en .
+
+wd:Q5635926 a wd:Q190403 ;
+    rdfs:label "HSC Our Lady Patricia"@en .
+
+wd:Q5642413 a wd:Q42889 ;
+    rdfs:label "Q5642413"^^xsd:string .
+
+wd:Q5656540 a wd:Q16889133 ;
+    rdfs:label "Hardy"@en .
+
+wd:Q56676381 a wd:Q42889 ;
+    rdfs:label "Q56676381"^^xsd:string .
+
+wd:Q5689922 a wd:Q2235308 ;
+    rdfs:label "Headquarters ship"@en .
+
+wd:Q569289 a wd:Q2235308 ;
+    rdfs:label "fluyt"@en .
+
+wd:Q5707045 a wd:Q2235308 ;
+    rdfs:label "Hellburners"@en .
+
+wd:Q5726324 a wd:Q16335899 ;
+    rdfs:label "Bergantina"@en .
+
+wd:Q572738 a wd:Q2235308 ;
+    rdfs:label "punt"@en .
+
+wd:Q573206 a wd:Q2235308 ;
+    rdfs:label "windjammer"@en .
+
+wd:Q5750449 a wd:Q2235308 ;
+    rdfs:label "karve"@en .
+
+wd:Q575727 a wd:Q2235308 ;
+    rdfs:label "museum ship"@en .
+
+wd:Q57589 a wd:Q16335899 ;
+    rdfs:label "dragon boat"@en .
+
+wd:Q5762366 a wd:Q2235308 ;
+    rdfs:label "river monitor"@en .
+
+wd:Q577801 a wd:Q2235308 ;
+    rdfs:label "MEKO"@en .
+
+wd:Q579945 a wd:Q2235308 ;
+    rdfs:label "Handysize"@en .
+
+wd:Q5810820 a wd:Q2235308 ;
+    rdfs:label "dredger"@en .
+
+wd:Q58477515 a wd:Q50380212 ;
+    rdfs:label "Q58477515"^^xsd:string .
+
+wd:Q5899278 a wd:Q1229765 ;
+    rdfs:label "Hope Haynes"@en .
+
+wd:Q590666 a wd:Q2235308 ;
+    rdfs:label "Platu 25"@en .
+
+wd:Q5923310 a wd:Q42889 ;
+    rdfs:label "Gila APC"@en .
+
+wd:Q5924425 a wd:Q1229765 ;
+    rdfs:label "Tuo Chiang-class corvette"@en .
+
+wd:Q593485 a wd:Q2235308 ;
+    rdfs:label "Liberty ship"@en .
+
+wd:Q59351446 a wd:Q42889 ;
+    rdfs:label "Perrera"@en .
+
+wd:Q5936791 a wd:Q2235308 ;
+    rdfs:label "Human-powered watercraft"@en .
+
+wd:Q594817 a wd:Q2235308 ;
+    rdfs:label "Yngling"@en .
+
+wd:Q5954947 a wd:Q2235308 ;
+    rdfs:label "Hydrogen tanker"@en .
+
+wd:Q596073 a wd:Q2235308 ;
+    rdfs:label "dugout canoe"@en .
+
+wd:Q5970338 a wd:Q1229765 ;
+    rdfs:label "SS Las Choapas"@en .
+
+wd:Q5972538 a wd:Q1229765 ;
+    rdfs:label "INS Kalvari"@en .
+
+wd:Q5972551 a wd:Q1229765 ;
+    rdfs:label "INS Khanderi"@en .
+
+wd:Q5972721 a wd:Q1229765 ;
+    rdfs:label "INS Vagli"@en .
+
+wd:Q5972722 a wd:Q1229765 ;
+    rdfs:label "INS Vagsheer"@en .
+
+wd:Q5975567 a wd:Q2235308 ;
+    rdfs:label "high-speed transport"@en .
+
+wd:Q60195619 a wd:Q2235308 ;
+    rdfs:label "Neopanamax"@en .
+
+wd:Q6026799 a wd:Q2235308 ;
+    rdfs:label "Cidar"@en .
+
+wd:Q6061271 a wd:Q2235308 ;
+    rdfs:label "Parao"@en .
+
+wd:Q60660224 a wd:Q2235308 ;
+    rdfs:label "vehicle landing ship"@en .
+
+wd:Q6071525 a wd:Q2235308 ;
+    rdfs:label "Irish galley"@en .
+
+wd:Q60744596 a wd:Q1229765 ;
+    rdfs:label "USNS Marine Phoenix"@en .
+
+wd:Q6116228 a wd:Q42889 ;
+    rdfs:label "SMX"@en .
+
+wd:Q613316 a wd:Q2235308 ;
+    rdfs:label "tracking ship"@en .
+
+wd:Q6134867 a wd:Q2235308 ;
+    rdfs:label "first class Japanese submarine"@en .
+
+wd:Q6138264 a wd:Q1229765 ;
+    rdfs:label "Talismán"@en .
+
+wd:Q6151543 a wd:Q2235308 ;
+    rdfs:label "Trajineras"@en .
+
+wd:Q61888167 a wd:Q16889133 ;
+    rdfs:label "manifestation (FRBR concept)"@en .
+
+wd:Q61902133 a wd:Q1229765 ;
+    rdfs:label "Q61902133"^^xsd:string .
+
+wd:Q62082016 a wd:Q16889133 ;
+    rdfs:label "Hewitt"@en .
+
+wd:Q62082048 a wd:Q16889133 ;
+    rdfs:label "Nuttall"@en .
+
+wd:Q62082113 a wd:Q16889133 ;
+    rdfs:label "Dodd"@en .
+
+wd:Q62082131 a wd:Q16889133 ;
+    rdfs:label "Wainwright"@en .
+
+wd:Q62082171 a wd:Q16889133 ;
+    rdfs:label "Wainwright Outlying Fell"@en .
+
+wd:Q6270128 a wd:Q2235308 ;
+    rdfs:label "Jollyboat"@en .
+
+wd:Q628983 a wd:Q2235308 ;
+    rdfs:label "working ship"@en .
+
+wd:Q629990 a wd:Q2235308 ;
+    rdfs:label "bireme"@en .
+
+wd:Q6301671 a wd:Q1229765 ;
+    rdfs:label "SS Tropic"@en .
+
+wd:Q630415 a wd:Q2235308 ;
+    rdfs:label "trimaran"@en .
+
+wd:Q631148 rdfs:label "Bora-class guided missile hovercraft"@en ;
+    rdfs:subClassOf wd:Q14915094 .
+
+wd:Q631980 a wd:Q2235308 ;
+    rdfs:label "arcform"@en .
+
+wd:Q63433068 a wd:Q16889133 ;
+    rdfs:label "national naval fleet"@en .
+
+wd:Q63433199 a wd:Q16889133 ;
+    rdfs:label "national class-specific fleet"@en .
+
+wd:Q63433208 a wd:Q16889133 ;
+    rdfs:label "class-specific naval fleet"@en .
+
+wd:Q63433637 a wd:Q2235308 ;
+    rdfs:label "ocean minesweeper"@en .
+
+wd:Q63434089 a wd:Q2235308 ;
+    rdfs:label "dock-transport"@en .
+
+wd:Q63434875 a wd:Q2235308 ;
+    rdfs:label "Wider 165"@en .
+
+wd:Q63437447 a wd:Q2235308 ;
+    rdfs:label "harbor vessel"@en .
+
+wd:Q63437723 a wd:Q2235308 ;
+    rdfs:label "degaussing ship"@en .
+
+wd:Q634415 a wd:Q2235308 ;
+    rdfs:label "midget submarine"@en .
+
+wd:Q63479655 a wd:Q2235308 ;
+    rdfs:label "small anti-submarine ship"@en .
+
+wd:Q63871204 a wd:Q42889 ;
+    rdfs:label "ACMAT ALTV"@en .
+
+wd:Q639140 a wd:Q2235308 ;
+    rdfs:label "outrigger canoe"@en .
+
+wd:Q63973264 a wd:Q16889133 ;
+    rdfs:label "tractor propeller"@en .
+
+wd:Q640078 a wd:Q2235308 ;
+    rdfs:label "minelayer"@en .
+
+wd:Q644472 a wd:Q2235308 ;
+    rdfs:label "Fusta"@en .
+
+wd:Q6457460 a wd:Q2235308 ;
+    rdfs:label "Landing Craft Vehicle Personnel"@en .
+
+wd:Q6459968 a wd:Q2235308 ;
+    rdfs:label "Landing Ship Medium (Rocket)"@en .
+
+wd:Q6460002 a wd:Q2235308 ;
+    rdfs:label "LSTH"@en .
+
+wd:Q6460591 a wd:Q2235308 ;
+    rdfs:label "L boat"@en .
+
+wd:Q647230 a wd:Q2235308 ;
+    rdfs:label "net laying ship"@en .
+
+wd:Q6484595 a wd:Q2235308 ;
+    rdfs:label "Landing Craft Tank"@en .
+
+wd:Q6484609 a wd:Q2235308 ;
+    rdfs:label "Landing Ship Logistics"@en .
+
+wd:Q6484651 a wd:Q2235308 ;
+    rdfs:label "Landing ship, infantry"@en .
+
+wd:Q65033136 a wd:Q42889 ;
+    rdfs:label "Brinquedo - Veículo - Ambulância (Com Movimento?)"@en .
+
+wd:Q65064364 a wd:Q190403 ;
+    rdfs:label "Benchi Express"@en .
+
+wd:Q650761 a wd:Q2235308 ;
+    rdfs:label "landing helicopter dock"@en .
+
+wd:Q65252378 a wd:Q42889 ;
+    rdfs:label "Bimbulance"@en .
+
+wd:Q652601 a wd:Q2235308 ;
+    rdfs:label "Flying P-Liner"@en .
+
+wd:Q65395237 a wd:Q42889 ;
+    rdfs:label "Starhopper"@en .
+
+wd:Q6542581 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class B, subclass BM -- Judaism"@en .
+
+wd:Q6542586 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class B, subclass BQ -- Buddhism"@en .
+
+wd:Q6542587 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class B, subclass BR -- Christianity"@en .
+
+wd:Q6542594 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class B -- Philosophy, Psychology, Religion"@en .
+
+wd:Q6542599 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class D, subclass DC -- History of France, Andorra, and Monaco"@en .
+
+wd:Q6542621 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class D -- History, General and Old World"@en .
+
+wd:Q6542622 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class E -- History of America"@en .
+
+wd:Q6542625 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class G, subclass GA -- Mathematical geography. Cartography"@en .
+
+wd:Q6542634 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class G, subclass GV -- Recreation and Leisure"@en .
+
+wd:Q6542636 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class G -- Geography. Anthropology. Recreation"@en .
+
+wd:Q6542661 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class P, subclass PD -- Germanic languages"@en .
+
+wd:Q6542680 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class Q -- Science"@en .
+
+wd:Q6542683 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class V -- Naval Science"@en .
+
+wd:Q6546372 a wd:Q2235308 ;
+    rdfs:label "lighthouse tender"@en .
+
+wd:Q65503490 a wd:Q2235308 ;
+    rdfs:label "Sietas type 170"@en .
+
+wd:Q65665514 a wd:Q2235308 ;
+    rdfs:label "Deck barge"@en .
+
+wd:Q657819 a wd:Q2235308 ;
+    rdfs:label "hydrofoil"@en .
+
+wd:Q65953480 a wd:Q2235308 ;
+    rdfs:label "Category:Sietas type 87"@en .
+
+wd:Q660668 a wd:Q2235308 ;
+    rdfs:label "training ship"@en .
+
+wd:Q661496 a wd:Q2235308 ;
+    rdfs:label "Optimist"@en .
+
+wd:Q66253298 a wd:Q16889133 ;
+    rdfs:label "national destroyer fleet"@en .
+
+wd:Q66311685 a wd:Q2235308 ;
+    rdfs:label "storage tanker"@en .
+
+wd:Q66317738 a wd:Q2235308 ;
+    rdfs:label "Mangusta 108"@en .
+
+wd:Q6640319 a wd:Q16335899 ;
+    rdfs:label "Skela"@en .
+
+wd:Q66486233 a wd:Q2235308 ;
+    rdfs:label "Q66486233"^^xsd:string .
+
+wd:Q6670814 a wd:Q42889 ;
+    rdfs:label "London Steam Carriage"@en .
+
+wd:Q669013 a wd:Q2235308 ;
+    rdfs:label "Russian floating nuclear power station"@en .
+
+wd:Q671079 a wd:Q2235308 ;
+    rdfs:label "troopship"@en .
+
+wd:Q6718210 a wd:Q1229765 ;
+    rdfs:label "MS Stalowa Wola"@en .
+
+wd:Q6719701 a wd:Q1229765 ;
+    rdfs:label "MV Kota Wajar"@en .
+
+wd:Q6719865 a wd:Q1229765 ;
+    rdfs:label "MV Norse Variant"@en .
+
+wd:Q6719925 a wd:Q1229765 ;
+    rdfs:label "MV Pool Fisher"@en .
+
+wd:Q67206648 a wd:Q16889133 ;
+    rdfs:label "Q67206648"^^xsd:string .
+
+wd:Q67206680 a wd:Q16889133 ;
+    rdfs:label "Q67206680"^^xsd:string .
+
+wd:Q6765833 a wd:Q2235308 ;
+    rdfs:label "maritime prepositioning ship"@en .
+
+wd:Q6785675 a wd:Q2235308 ;
+    rdfs:label "Masula boat"@en .
+
+wd:Q681813 a wd:Q2265995 ;
+    rdfs:label "Alinghi 5"@en .
+
+wd:Q682355 a wd:Q2235308 ;
+    rdfs:label "floating battery"@en .
+
+wd:Q683363 a wd:Q2235308 ;
+    rdfs:label "cutter"@en .
+
+wd:Q683570 a wd:Q2235308 ;
+    rdfs:label "ballistic missile submarine"@en .
+
+wd:Q683846 a wd:Q2235308 ;
+    rdfs:label "Manila galleon"@en .
+
+wd:Q68393471 a wd:Q42889 ;
+    rdfs:label "Main Street Horseless Carriage"@en .
+
+wd:Q68411587 a wd:Q2265995 ;
+    rdfs:label "Hobie 17"@en .
+
+wd:Q68482296 a wd:Q16889133 ;
+    rdfs:label "military activity"@en .
+
+wd:Q685559 a wd:Q2235308 ;
+    rdfs:label "Umiak"@en .
+
+wd:Q68593575 a wd:Q42889 ;
+    rdfs:label "Disneyland Omnibus"@en .
+
+wd:Q6868069 a wd:Q1229765 ;
+    rdfs:label "Minnehaha"@en .
+
+wd:Q6880388 a wd:Q2235308 ;
+    rdfs:label "Mistico"@en .
+
+wd:Q6918138 a wd:Q2235308 ;
+    rdfs:label "motor launch"@en .
+
+wd:Q6918178 a wd:Q42889 ;
+    rdfs:label "Motor bus"@en .
+
+wd:Q6930433 a wd:Q2235308 ;
+    rdfs:label "Mtepe"@en .
+
+wd:Q693340 a wd:Q2235308 ;
+    rdfs:label "pontoon"@en .
+
+wd:Q695959 a wd:Q2235308 ;
+    rdfs:label "turtle ship"@en .
+
+wd:Q6962515 a wd:Q1229765 ;
+    rdfs:label "Nancy"@en .
+
+wd:Q697196 a wd:Q2235308 ;
+    rdfs:label "ocean liner"@en .
+
+wd:Q69796392 a wd:Q2235308 ;
+    rdfs:label "ship's boat"@en .
+
+wd:Q6982000 a wd:Q2235308 ;
+    rdfs:label "Naval drifter"@en .
+
+wd:Q70329355 a wd:Q42889 ;
+    rdfs:label "Q70329355"^^xsd:string .
+
+wd:Q7043905 a wd:Q1229765 ;
+    rdfs:label "NoCGV Tromsø"@en .
+
+wd:Q7075177 a wd:Q2235308 ;
+    rdfs:label "Oblique icebreaker"@en .
+
+wd:Q707786 a wd:Q2235308 ;
+    rdfs:label "hulk"@en .
+
+wd:Q7119867 a wd:Q1229765 ;
+    rdfs:label "PNS Hamza"@en .
+
+wd:Q7119871 a wd:Q1229765 ;
+    rdfs:label "PNS Hashmat"@en .
+
+wd:Q7119872 a wd:Q1229765 ;
+    rdfs:label "PNS Hurmat"@en .
+
+wd:Q7119875 a wd:Q1229765 ;
+    rdfs:label "PNS Khalid"@en .
+
+wd:Q7119881 a wd:Q1229765 ;
+    rdfs:label "PNS Saad"@en .
+
+wd:Q7124150 a wd:Q1229765 ;
+    rdfs:label "Pagalo"@en .
+
+wd:Q7124744 a wd:Q16335899 ;
+    rdfs:label "Jangada"@en .
+
+wd:Q7126284 a wd:Q2235308 ;
+    rdfs:label "Palace steamer"@en .
+
+wd:Q712978 a wd:Q2235308 ;
+    rdfs:label "artillery training ship"@en .
+
+wd:Q7148113 a wd:Q2235308 ;
+    rdfs:label "patrol gunboat (hydrofoil)"@en .
+
+wd:Q719226 a wd:Q2235308 ;
+    rdfs:label "fast attack craft"@en .
+
+wd:Q7208493 a wd:Q2235308 ;
+    rdfs:label "Poisson Volant"@en .
+
+wd:Q7209026 a wd:Q2235308 ;
+    rdfs:label "Polar Class Icebreaker"@en .
+
+wd:Q7233751 a wd:Q2235308 ;
+    rdfs:label "post ship"@en .
+
+wd:Q7235034 a wd:Q1229765 ;
+    rdfs:label "Potomac"@en .
+
+wd:Q7240065 a wd:Q1229765 ;
+    rdfs:label "Prelude FLNG"@en .
+
+wd:Q7241494 a wd:Q2235308 ;
+    rdfs:label "presidential yacht"@en .
+
+wd:Q7251502 a wd:Q16889133 ;
+    rdfs:label "Protein subfamily"@en .
+
+wd:Q7268183 a wd:Q42889 ;
+    rdfs:label "Qpod"@en .
+
+wd:Q7269905 a wd:Q1229765 ;
+    rdfs:label "Quedagh Merchant"@en .
+
+wd:Q7278035 a wd:Q190403 ;
+    rdfs:label "RV Callista"@en .
+
+wd:Q7278051 a wd:Q1229765 ;
+    rdfs:label "RV Maurice Ewing"@en .
+
+wd:Q7278061 a wd:Q1229765 ;
+    rdfs:label "RV Point Lobos"@en .
+
+wd:Q7279266 a wd:Q1229765 ;
+    rdfs:label "Rachel Harvey"@en .
+
+wd:Q7290030 a wd:Q2235308 ;
+    rdfs:label "Ramped Cargo Lighter"@en .
+
+wd:Q7290031 a wd:Q2235308 ;
+    rdfs:label "Ramped Craft Logistic"@en .
+
+wd:Q7290032 a wd:Q2235308 ;
+    rdfs:label "Ramped Powered Lighter"@en .
+
+wd:Q7291779 a wd:Q1229765 ;
+    rdfs:label "Randolph"@en .
+
+wd:Q7302992 a wd:Q1229765 ;
+    rdfs:label "Recovery"@en .
+
+wd:Q731662 a wd:Q2235308 ;
+    rdfs:label "dromon"@en .
+
+wd:Q7338002 a wd:Q2235308 ;
+    rdfs:label "River icebreaker"@en .
+
+wd:Q7361067 a wd:Q2235308 ;
+    rdfs:label "Roller ship"@en .
+
+wd:Q73618972 a wd:Q2235308 ;
+    rdfs:label "Large landing ship"@en .
+
+wd:Q7361955 a wd:Q1229765 ;
+    rdfs:label "Roman Emperor"@en .
+
+wd:Q7366539 a wd:Q1229765 ;
+    rdfs:label "Rooswijk"@en .
+
+wd:Q7368199 a wd:Q1229765 ;
+    rdfs:label "Rosehill"@en .
+
+wd:Q7370505 a wd:Q1229765 ;
+    rdfs:label "Rothsay Castle"@en .
+
+wd:Q7371765 a wd:Q2235308 ;
+    rdfs:label "row galley"@en .
+
+wd:Q7382206 a wd:Q1229765 ;
+    rdfs:label "Russian frigate Kamchatka"@en .
+
+wd:Q7382208 a wd:Q1229765 ;
+    rdfs:label "Russian frigate Sankt Nikolai"@en .
+
+wd:Q7388817 a wd:Q1229765 ;
+    rdfs:label "SAS Spear"@en .
+
+wd:Q7388822 a wd:Q1229765 ;
+    rdfs:label "SAS Umkhonto"@en .
+
+wd:Q7391525 a wd:Q1229765 ;
+    rdfs:label "SM U-115"@en .
+
+wd:Q7391526 a wd:Q1229765 ;
+    rdfs:label "SM U-116"@en .
+
+wd:Q7391536 a wd:Q1229765 ;
+    rdfs:label "SM U-132"@en .
+
+wd:Q7391538 a wd:Q1229765 ;
+    rdfs:label "SM U-138"@en .
+
+wd:Q7391539 a wd:Q1229765 ;
+    rdfs:label "SM U-137"@en .
+
+wd:Q7391541 a wd:Q1229765 ;
+    rdfs:label "SM U-140"@en .
+
+wd:Q7391542 a wd:Q1229765 ;
+    rdfs:label "SM U-142"@en .
+
+wd:Q7391548 a wd:Q1229765 ;
+    rdfs:label "SM U-158"@en .
+
+wd:Q7391549 a wd:Q1229765 ;
+    rdfs:label "SM U-159"@en .
+
+wd:Q7391615 a wd:Q1229765 ;
+    rdfs:label "SM UA"@en .
+
+wd:Q7391664 a wd:Q1229765 ;
+    rdfs:label "SM UC-10"@en .
+
+wd:Q7391665 a wd:Q1229765 ;
+    rdfs:label "SM UC-100"@en .
+
+wd:Q7391666 a wd:Q1229765 ;
+    rdfs:label "SM UC-101"@en .
+
+wd:Q7391667 a wd:Q1229765 ;
+    rdfs:label "SM UC-102"@en .
+
+wd:Q7391668 a wd:Q1229765 ;
+    rdfs:label "SM UC-103"@en .
+
+wd:Q7391669 a wd:Q1229765 ;
+    rdfs:label "SM UC-104"@en .
+
+wd:Q7391670 a wd:Q1229765 ;
+    rdfs:label "SM UC-105"@en .
+
+wd:Q7391671 a wd:Q1229765 ;
+    rdfs:label "SM UC-106"@en .
+
+wd:Q7391672 a wd:Q1229765 ;
+    rdfs:label "SM UC-107"@en .
+
+wd:Q7391674 a wd:Q1229765 ;
+    rdfs:label "SM UC-109"@en .
+
+wd:Q7391675 a wd:Q1229765 ;
+    rdfs:label "SM UC-108"@en .
+
+wd:Q7391676 a wd:Q1229765 ;
+    rdfs:label "SM UC-11"@en .
+
+wd:Q7391677 a wd:Q1229765 ;
+    rdfs:label "SM UC-110"@en .
+
+wd:Q7391678 a wd:Q1229765 ;
+    rdfs:label "SM UC-111"@en .
+
+wd:Q7391680 a wd:Q1229765 ;
+    rdfs:label "SM UC-112"@en .
+
+wd:Q7391681 a wd:Q1229765 ;
+    rdfs:label "SM UC-113"@en .
+
+wd:Q7391682 a wd:Q1229765 ;
+    rdfs:label "SM UC-114"@en .
+
+wd:Q7391683 a wd:Q1229765 ;
+    rdfs:label "SM UC-13"@en .
+
+wd:Q7391684 a wd:Q1229765 ;
+    rdfs:label "SM UC-14"@en .
+
+wd:Q7391686 a wd:Q1229765 ;
+    rdfs:label "SM UC-15"@en .
+
+wd:Q7391687 a wd:Q1229765 ;
+    rdfs:label "SM UC-16"@en .
+
+wd:Q7391688 a wd:Q1229765 ;
+    rdfs:label "SM UC-17"@en .
+
+wd:Q7391689 a wd:Q1229765 ;
+    rdfs:label "SM UC-18"@en .
+
+wd:Q7391691 a wd:Q1229765 ;
+    rdfs:label "SM UC-20"@en .
+
+wd:Q7391693 a wd:Q1229765 ;
+    rdfs:label "SM UC-22"@en .
+
+wd:Q7391694 a wd:Q1229765 ;
+    rdfs:label "SM UC-23"@en .
+
+wd:Q7391695 a wd:Q1229765 ;
+    rdfs:label "SM UC-24"@en .
+
+wd:Q7391697 a wd:Q1229765 ;
+    rdfs:label "SM UC-27"@en .
+
+wd:Q7391698 a wd:Q1229765 ;
+    rdfs:label "SM UC-26"@en .
+
+wd:Q7391699 a wd:Q1229765 ;
+    rdfs:label "SM UC-28"@en .
+
+wd:Q7391700 a wd:Q1229765 ;
+    rdfs:label "SM UC-29"@en .
+
+wd:Q7391701 a wd:Q1229765 ;
+    rdfs:label "SM UC-3"@en .
+
+wd:Q7391702 a wd:Q1229765 ;
+    rdfs:label "SM UC-30"@en .
+
+wd:Q7391703 a wd:Q1229765 ;
+    rdfs:label "SM UC-31"@en .
+
+wd:Q7391704 a wd:Q1229765 ;
+    rdfs:label "SM UC-32"@en .
+
+wd:Q7391705 a wd:Q1229765 ;
+    rdfs:label "SM UC-33"@en .
+
+wd:Q7391706 a wd:Q1229765 ;
+    rdfs:label "SM UC-34"@en .
+
+wd:Q7391707 a wd:Q1229765 ;
+    rdfs:label "SM UC-36"@en .
+
+wd:Q7391708 a wd:Q1229765 ;
+    rdfs:label "SM UC-37"@en .
+
+wd:Q7391711 a wd:Q1229765 ;
+    rdfs:label "SM UC-39"@en .
+
+wd:Q7391712 a wd:Q1229765 ;
+    rdfs:label "SM UC-40"@en .
+
+wd:Q7391713 a wd:Q1229765 ;
+    rdfs:label "SM UC-41"@en .
+
+wd:Q7391714 a wd:Q1229765 ;
+    rdfs:label "SM UC-42"@en .
+
+wd:Q7391715 a wd:Q1229765 ;
+    rdfs:label "SM UC-43"@en .
+
+wd:Q7391717 a wd:Q1229765 ;
+    rdfs:label "SM UC-45"@en .
+
+wd:Q7391718 a wd:Q1229765 ;
+    rdfs:label "SM UC-46"@en .
+
+wd:Q7391719 a wd:Q1229765 ;
+    rdfs:label "SM UC-47"@en .
+
+wd:Q7391720 a wd:Q1229765 ;
+    rdfs:label "SM UC-48"@en .
+
+wd:Q7391723 a wd:Q1229765 ;
+    rdfs:label "SM UC-52"@en .
+
+wd:Q7391724 a wd:Q1229765 ;
+    rdfs:label "SM UC-51"@en .
+
+wd:Q7391725 a wd:Q1229765 ;
+    rdfs:label "SM UC-53"@en .
+
+wd:Q7391729 a wd:Q1229765 ;
+    rdfs:label "SM UC-59"@en .
+
+wd:Q7391730 a wd:Q1229765 ;
+    rdfs:label "SM UC-6"@en .
+
+wd:Q7391733 a wd:Q1229765 ;
+    rdfs:label "SM UC-60"@en .
+
+wd:Q7391735 a wd:Q1229765 ;
+    rdfs:label "SM UC-62"@en .
+
+wd:Q7391736 a wd:Q1229765 ;
+    rdfs:label "SM UC-63"@en .
+
+wd:Q7391737 a wd:Q1229765 ;
+    rdfs:label "SM UC-65"@en .
+
+wd:Q7391739 a wd:Q1229765 ;
+    rdfs:label "SM UC-64"@en .
+
+wd:Q7391740 a wd:Q1229765 ;
+    rdfs:label "SM UC-66"@en .
+
+wd:Q7391741 a wd:Q1229765 ;
+    rdfs:label "SM UC-67"@en .
+
+wd:Q7391743 a wd:Q1229765 ;
+    rdfs:label "SM UC-69"@en .
+
+wd:Q7391745 a wd:Q1229765 ;
+    rdfs:label "SM UC-7"@en .
+
+wd:Q7391746 a wd:Q1229765 ;
+    rdfs:label "SM UC-70"@en .
+
+wd:Q7391747 a wd:Q1229765 ;
+    rdfs:label "SM UC-72"@en .
+
+wd:Q7391748 a wd:Q1229765 ;
+    rdfs:label "SM UC-73"@en .
+
+wd:Q7391749 a wd:Q1229765 ;
+    rdfs:label "SM UC-74"@en .
+
+wd:Q7391750 a wd:Q1229765 ;
+    rdfs:label "SM UC-75"@en .
+
+wd:Q7391752 a wd:Q1229765 ;
+    rdfs:label "SM UC-77"@en .
+
+wd:Q7391753 a wd:Q1229765 ;
+    rdfs:label "SM UC-78"@en .
+
+wd:Q7391754 a wd:Q1229765 ;
+    rdfs:label "SM UC-79"@en .
+
+wd:Q7391755 a wd:Q1229765 ;
+    rdfs:label "SM UC-9"@en .
+
+wd:Q7391756 a wd:Q1229765 ;
+    rdfs:label "SM UC-91"@en .
+
+wd:Q7391758 a wd:Q1229765 ;
+    rdfs:label "SM UC-92"@en .
+
+wd:Q7391761 a wd:Q1229765 ;
+    rdfs:label "SM UC-96"@en .
+
+wd:Q7391762 a wd:Q1229765 ;
+    rdfs:label "SM UC-95"@en .
+
+wd:Q7393078 a wd:Q1229765 ;
+    rdfs:label "SSTH Ocean Arrow"@en .
+
+wd:Q7393084 a wd:Q1229765 ;
+    rdfs:label "SSV Oliver Hazard Perry"@en .
+
+wd:Q7393212 a wd:Q1229765 ;
+    rdfs:label "SS Balmes"@en .
+
+wd:Q7393333 a wd:Q1229765 ;
+    rdfs:label "SS Carondelet"@en .
+
+wd:Q7393735 a wd:Q1229765 ;
+    rdfs:label "SS Ganges"@en .
+
+wd:Q7393762 a wd:Q1229765 ;
+    rdfs:label "SS Goya"@en .
+
+wd:Q7393782 a wd:Q1229765 ;
+    rdfs:label "SS Haimun"@en .
+
+wd:Q7393828 a wd:Q1229765 ;
+    rdfs:label "SS Hsin-Yu"@en .
+
+wd:Q7393830 a wd:Q1229765 ;
+    rdfs:label "SS Hsin Wah"@en .
+
+wd:Q7393877 a wd:Q1229765 ;
+    rdfs:label "SS Iroquois"@en .
+
+wd:Q7393894 a wd:Q1229765 ;
+    rdfs:label "SS Jeddah"@en .
+
+wd:Q7393925 a wd:Q1229765 ;
+    rdfs:label "SS Kiche Maru"@en .
+
+wd:Q7393947 a wd:Q1229765 ;
+    rdfs:label "SS Lady Wicklow"@en .
+
+wd:Q7393975 a wd:Q1229765 ;
+    rdfs:label "SS Loongana"@en .
+
+wd:Q7393976 a wd:Q1229765 ;
+    rdfs:label "SS Louis Sheid"@en .
+
+wd:Q7393991 a wd:Q1229765 ;
+    rdfs:label "SS Maine"@en .
+
+wd:Q7393995 a wd:Q1229765 ;
+    rdfs:label "SS Malabar"@en .
+
+wd:Q7394020 a wd:Q1229765 ;
+    rdfs:label "SS Marine Floridian"@en .
+
+wd:Q7394021 a wd:Q1229765 ;
+    rdfs:label "SS Marine Marlin"@en .
+
+wd:Q7394035 a wd:Q1229765 ;
+    rdfs:label "SS Maximilianos"@en .
+
+wd:Q7394045 a wd:Q1229765 ;
+    rdfs:label "SS Merida"@en .
+
+wd:Q7394069 a wd:Q1229765 ;
+    rdfs:label "SS Monroe"@en .
+
+wd:Q7394099 a wd:Q1229765 ;
+    rdfs:label "SS Mutlah"@en .
+
+wd:Q7394112 a wd:Q1229765 ;
+    rdfs:label "SS Newfoundland"@en .
+
+wd:Q7394166 a wd:Q1229765 ;
+    rdfs:label "SS Orion"@en .
+
+wd:Q7394217 a wd:Q1229765 ;
+    rdfs:label "SS Politician"@en .
+
+wd:Q7394245 a wd:Q1229765 ;
+    rdfs:label "SS Princess"@en .
+
+wd:Q7394295 a wd:Q1229765 ;
+    rdfs:label "SS Rob Roy"@en .
+
+wd:Q7394302 a wd:Q1229765 ;
+    rdfs:label "SS Rosanna"@en .
+
+wd:Q7394318 a wd:Q1229765 ;
+    rdfs:label "SS Sagona"@en .
+
+wd:Q7394330 a wd:Q1229765 ;
+    rdfs:label "SS Sangola"@en .
+
+wd:Q7394386 a wd:Q1229765 ;
+    rdfs:label "SS Sirdhana"@en .
+
+wd:Q7394430 a wd:Q1229765 ;
+    rdfs:label "SS Sutlej"@en .
+
+wd:Q7394433 a wd:Q1229765 ;
+    rdfs:label "SS Tahoe"@en .
+
+wd:Q7394444 a wd:Q1229765 ;
+    rdfs:label "SS Thames"@en .
+
+wd:Q7394456 a wd:Q1229765 ;
+    rdfs:label "SS Tiger"@en .
+
+wd:Q7394497 a wd:Q1229765 ;
+    rdfs:label "SS Varvassi"@en .
+
+wd:Q7394499 a wd:Q1229765 ;
+    rdfs:label "SS Vaterland"@en .
+
+wd:Q7394510 a wd:Q1229765 ;
+    rdfs:label "SS Virawa"@en .
+
+wd:Q7394514 a wd:Q1229765 ;
+    rdfs:label "SS Vyner Brooke"@en .
+
+wd:Q7394574 a wd:Q1229765 ;
+    rdfs:label "SS Yousuf Baksh"@en .
+
+wd:Q7394907 a wd:Q1229765 ;
+    rdfs:label "ST Beaujolais"@en .
+
+wd:Q7400388 a wd:Q2235308 ;
+    rdfs:label "Sailing hydrofoil"@en .
+
+wd:Q7406273 a wd:Q1229765 ;
+    rdfs:label "Saluda"@en .
+
+wd:Q741346 a wd:Q2235308 ;
+    rdfs:label "ice class"@en .
+
+wd:Q7415288 a wd:Q1229765 ;
+    rdfs:label "San Salvador flagship"@en .
+
+wd:Q7418732 a wd:Q1229765 ;
+    rdfs:label "Sanko Harvest"@en .
+
+wd:Q7419197 a wd:Q1229765 ;
+    rdfs:label "Santa Anna (ship) 1812"@en .
+
+wd:Q7432748 a wd:Q1229765 ;
+    rdfs:label "Schooner Rebecca"@en .
+
+wd:Q7433926 a wd:Q1229765 ;
+    rdfs:label "Scindian"@en .
+
+wd:Q7438131 a wd:Q1229765 ;
+    rdfs:label "Scottish warship Margaret"@en .
+
+wd:Q7439100 a wd:Q2235308 ;
+    rdfs:label "screw sloop"@en .
+
+wd:Q7439101 a wd:Q2235308 ;
+    rdfs:label "screw steamer"@en .
+
+wd:Q7444686 a wd:Q2235308 ;
+    rdfs:label "section patrol"@en .
+
+wd:Q74457656 a wd:Q16889133 ;
+    rdfs:label "Q74457656"^^xsd:string .
+
+wd:Q74458071 a wd:Q16889133 ;
+    rdfs:label "Q74458071"^^xsd:string .
+
+wd:Q744967 a wd:Q2235308 ;
+    rdfs:label "submarine chaser"@en .
+
+wd:Q7456868 a wd:Q2235308 ;
+    rdfs:label "Settee"@en .
+
+wd:Q7499155 a wd:Q2235308 ;
+    rdfs:label "Shitik"@en .
+
+wd:Q7519874 a wd:Q1229765 ;
+    rdfs:label "Simon Taylor"@en .
+
+wd:Q7526921 a wd:Q1229765 ;
+    rdfs:label "Sir George Seymour"@en .
+
+wd:Q7536678 rdfs:label "Skrunda-class patrol boat"@en ;
+    rdfs:subClassOf wd:Q917479 .
+
+wd:Q753784 a wd:Q2235308 ;
+    rdfs:label "ketch"@en .
+
+wd:Q7541325 a wd:Q1229765 ;
+    rdfs:label "Sloop Montgomery"@en .
+
+wd:Q75536699 a wd:Q1229765 ;
+    rdfs:label "HMS Porpoise (ship, 1780)"@en .
+
+wd:Q7555083 a wd:Q1229765 ;
+    rdfs:label "Sokar"@en .
+
+wd:Q7573669 a wd:Q190403 ;
+    rdfs:label "Sparkle"@en .
+
+wd:Q757554 a wd:Q2235308 ;
+    rdfs:label "nuclear submarine"@en .
+
+wd:Q757587 a wd:Q2235308 ;
+    rdfs:label "nuclear-powered attack submarine"@en .
+
+wd:Q7578029 a wd:Q1229765 ;
+    rdfs:label "Spirit of the Dawn"@en .
+
+wd:Q7578326 a wd:Q2235308 ;
+    rdfs:label "péniche"@en .
+
+wd:Q7592508 a wd:Q1229765 ;
+    rdfs:label "St Anthony"@en .
+
+wd:Q759783 a wd:Q2235308 ;
+    rdfs:label "scout cruiser"@en .
+
+wd:Q759787 a wd:Q2235308 ;
+    rdfs:label "intelligence ship"@en .
+
+wd:Q7598275 a wd:Q1229765 ;
+    rdfs:label "Standard Oil Company No. 16"@en .
+
+wd:Q7598689 a wd:Q1229765 ;
+    rdfs:label "Stanegarth"@en .
+
+wd:Q7600893 a wd:Q1229765 ;
+    rdfs:label "Star Sirius"@en .
+
+wd:Q7605353 a wd:Q2235308 ;
+    rdfs:label "Steam brig"@en .
+
+wd:Q7605392 a wd:Q2235308 ;
+    rdfs:label "steam yacht"@en .
+
+wd:Q7605462 a wd:Q1229765 ;
+    rdfs:label "Steamer Pravda"@en .
+
+wd:Q7605464 a wd:Q1229765 ;
+    rdfs:label "Steamer Tovarishch Stalin"@en .
+
+wd:Q7605465 a wd:Q1229765 ;
+    rdfs:label "Steamer Volodarskiy"@en .
+
+wd:Q7607087 a wd:Q1229765 ;
+    rdfs:label "Stella Maris"@en .
+
+wd:Q7610843 a wd:Q1229765 ;
+    rdfs:label "Stephen Whitney"@en .
+
+wd:Q7615462 a wd:Q2235308 ;
+    rdfs:label "Stevens Battery"@en .
+
+wd:Q7621065 a wd:Q2235308 ;
+    rdfs:label "Straight decker"@en .
+
+wd:Q7631643 a wd:Q2235308 ;
+    rdfs:label "submarine rescue ship"@en .
+
+wd:Q763181 rdfs:label "Spearhead-class joint high speed vessel"@en ;
+    rdfs:subClassOf wd:Q190403 .
+
+wd:Q7633253 a wd:Q1229765 ;
+    rdfs:label "Suda Bay"@en .
+
+wd:Q7639145 a wd:Q1229765 ;
+    rdfs:label "Sundance"@en .
+
+wd:Q7642168 a wd:Q2235308 ;
+    rdfs:label "super battleship"@en .
+
+wd:Q7660077 a wd:Q1229765 ;
+    rdfs:label "Sydney Packet"@en .
+
+wd:Q7660078 a wd:Q1229765 ;
+    rdfs:label "Sydney Packet"@en .
+
+wd:Q7683589 a wd:Q2235308 ;
+    rdfs:label "Tankwa"@en .
+
+wd:Q7692004 a wd:Q1229765 ;
+    rdfs:label "Teazer"@en .
+
+wd:Q7692353 a wd:Q2235308 ;
+    rdfs:label "technical research ship"@en .
+
+wd:Q7702381 rdfs:label "AC45"@en ;
+    rdfs:subClassOf wd:Q190403 .
+
+wd:Q77030030 a wd:Q16889133 ;
+    rdfs:label "protein variant"@en .
+
+wd:Q7707094 a wd:Q1229765 ;
+    rdfs:label "Teutonia"@en .
+
+wd:Q773720 a wd:Q1229765 ;
+    rdfs:label "dorna"@en .
+
+wd:Q7760260 a wd:Q1229765 ;
+    rdfs:label "The Rescue of the Renown"@en .
+
+wd:Q776704 a wd:Q2235308 ;
+    rdfs:label "diving support vessel"@en .
+
+wd:Q77768178 a wd:Q16889133 ;
+    rdfs:label "type of footage"@en .
+
+wd:Q778129 a wd:Q2235308 ;
+    rdfs:label "light cruiser"@en .
+
+wd:Q7787117 a wd:Q1229765 ;
+    rdfs:label "Thomas Arbuthnot"@en .
+
+wd:Q7790559 a wd:Q1229765 ;
+    rdfs:label "Thomas Hebert"@en .
+
+wd:Q7804682 a wd:Q2235308 ;
+    rdfs:label "timberclad warship"@en .
+
+wd:Q78154500 a wd:Q16889133 ;
+    rdfs:label "group of protein complexes"@en .
+
+wd:Q78155096 a wd:Q16889133 ;
+    rdfs:label "family of protein complexes"@en .
+
+wd:Q78208109 a wd:Q2235308 ;
+    rdfs:label "Q78208109"^^xsd:string .
+
+wd:Q78294224 a wd:Q1229765 ;
+    rdfs:label "Q78294224"^^xsd:string .
+
+wd:Q782984 a wd:Q2235308 ;
+    rdfs:label "aviso"@en .
+
+wd:Q78305629 a wd:Q1229765 ;
+    rdfs:label "Q78305629"^^xsd:string .
+
+wd:Q7836751 a wd:Q1229765 ;
+    rdfs:label "Treasurer"@en .
+
+wd:Q7837704 a wd:Q2235308 ;
+    rdfs:label "Treenailed boat"@en .
+
+wd:Q7839939 a wd:Q1229765 ;
+    rdfs:label "Trial"@en .
+
+wd:Q78454540 a wd:Q2235308 ;
+    rdfs:label "Q78454540"^^xsd:string .
+
+wd:Q7846308 a wd:Q1229765 ;
+    rdfs:label "HDMS Trost"@en .
+
+wd:Q7848023 a wd:Q1229765 ;
+    rdfs:label "Truro"@en .
+
+wd:Q7849474 a wd:Q1229765 ;
+    rdfs:label "Tschukundu"@en .
+
+wd:Q7850586 a wd:Q1229765 ;
+    rdfs:label "Tuaikaepau"@en .
+
+wd:Q7858349 a wd:Q2235308 ;
+    rdfs:label "twin-screw steamer"@en .
+
+wd:Q7858966 a wd:Q1229765 ;
+    rdfs:label "Two Friends"@en .
+
+wd:Q7859844 a wd:Q1229765 ;
+    rdfs:label "Tyger"@en .
+
+wd:Q78603596 a wd:Q2235308 ;
+    rdfs:label "Mine sweeper tender"@en .
+
+wd:Q7860656 a wd:Q1229765 ;
+    rdfs:label "Type 073 medium landing ship"@en .
+
+wd:Q786525 a wd:Q2235308 ;
+    rdfs:label "Ngalawa"@en .
+
+wd:Q7866309 a wd:Q2235308 ;
+    rdfs:label "USCG seagoing buoy tender"@en .
+
+wd:Q7877164 a wd:Q2235308 ;
+    rdfs:label "Udema"@en .
+
+wd:Q78850395 a wd:Q1229765 ;
+    rdfs:label "Q78850395"^^xsd:string .
+
+wd:Q78852743 a wd:Q1229765 ;
+    rdfs:label "Q78852743"^^xsd:string .
+
+wd:Q7889620 a wd:Q2235308 ;
+    rdfs:label "United States Coast Guard Cutter"@en .
+
+wd:Q7890838 a wd:Q2235308 ;
+    rdfs:label "List of United States Navy oilers"@en .
+
+wd:Q7893747 a wd:Q1229765 ;
+    rdfs:label "Unity"@en .
+
+wd:Q789698 a wd:Q2235308 ;
+    rdfs:label "Q789698"^^xsd:string .
+
+wd:Q79050042 a wd:Q2235308 ;
+    rdfs:label "Multi-purpose dry cargo ships"@en .
+
+wd:Q7906368 a wd:Q2235308 ;
+    rdfs:label "V24"@en .
+
+wd:Q7918428 a wd:Q2235308 ;
+    rdfs:label "vehicle cargo ship"@en .
+
+wd:Q7918746 a wd:Q1229765 ;
+    rdfs:label "Vekha"@en .
+
+wd:Q79205 a wd:Q2235308 ;
+    rdfs:label "sampan"@en .
+
+wd:Q7924513 a wd:Q1229765 ;
+    rdfs:label "Viarsa 1"@en .
+
+wd:Q7926697 a wd:Q1229765 ;
+    rdfs:label "Victoria Express"@en .
+
+wd:Q7940543 a wd:Q1229765 ;
+    rdfs:label "Volodarsky"@en .
+
+wd:Q79421456 a wd:Q2235308 ;
+    rdfs:label "Q79421456"^^xsd:string .
+
+wd:Q7963273 a wd:Q1229765 ;
+    rdfs:label "WallyIsland"@en .
+
+wd:Q79633016 a wd:Q16889133 ;
+    rdfs:label "Q79633016"^^xsd:string .
+
+wd:Q7975326 a wd:Q2235308 ;
+    rdfs:label "Wave power ship"@en .
+
+wd:Q798377 a wd:Q2235308 ;
+    rdfs:label "Q798377"^^xsd:string .
+
+wd:Q7990488 a wd:Q1229765 ;
+    rdfs:label "Whale"@en .
+
+wd:Q8006021 a wd:Q1229765 ;
+    rdfs:label "William Brown"@en .
+
+wd:Q8008056 a wd:Q1229765 ;
+    rdfs:label "MV Vinalines Queen"@en .
+
+wd:Q8041683 a wd:Q42889 ;
+    rdfs:label "XAV"@en .
+
+wd:Q804977 a wd:Q2235308 ;
+    rdfs:label "Balinger"@en .
+
+wd:Q805338 a wd:Q2235308 ;
+    rdfs:label "balloon carrier"@en .
+
+wd:Q805730 a wd:Q2235308 ;
+    rdfs:label "Baltimax"@en .
+
+wd:Q805755 a wd:Q2235308 ;
+    rdfs:label "Baltimore Clipper"@en .
+
+wd:Q81099221 a wd:Q1229765 ;
+    rdfs:label "Rescue Erik Collin"@en .
+
+wd:Q812032 a wd:Q2235308 ;
+    rdfs:label "Bawley"@en .
+
+wd:Q81916994 a wd:Q2235308 ;
+    rdfs:label "Q81916994"^^xsd:string .
+
+wd:Q820385 a wd:Q2235308 ;
+    rdfs:label "salvage tug"@en .
+
+wd:Q830335 a wd:Q2235308 ;
+    rdfs:label "protected cruiser"@en .
+
+wd:Q830356 a wd:Q16335899 ;
+    rdfs:label "inflatable boat"@en .
+
+wd:Q83121 a wd:Q2235308 ;
+    rdfs:label "6 Metre"@en .
+
+wd:Q831457 a wd:Q2235308 ;
+    rdfs:label "Skuldelev ship"@en .
+
+wd:Q831515 a wd:Q2235308 ;
+    rdfs:label "lightvessel"@en .
+
+wd:Q83169281 a wd:Q1229765 ;
+    rdfs:label "MS Gustaf Lagerbjelke"@en .
+
+wd:Q83230110 a wd:Q42889 ;
+    rdfs:label "Q83230110"^^xsd:string .
+
+wd:Q83702840 a wd:Q2235308 ;
+    rdfs:label "special freighters"@en .
+
+wd:Q837139 a wd:Q2235308 ;
+    rdfs:label "Full-rigged pinnace"@en .
+
+wd:Q83748716 a wd:Q16889133 ;
+    rdfs:label "twin-float gear"@en .
+
+wd:Q837491 a wd:Q16335899 ;
+    rdfs:label "xebec"@en .
+
+wd:Q83802960 a wd:Q2235308 ;
+    rdfs:label "Iron-hulled sailing ship"@en .
+
+wd:Q8406 a wd:Q2235308 ;
+    rdfs:label "vaporetto"@en .
+
+wd:Q840659 a wd:Q2235308 ;
+    rdfs:label "Laser"@en .
+
+wd:Q841696 a wd:Q2235308 ;
+    rdfs:label "Royal Mail Ship"@en .
+
+wd:Q841751 a wd:Q16335899 ;
+    rdfs:label "landing craft"@en .
+
+wd:Q843215 a wd:Q2235308 ;
+    rdfs:label "missile boat"@en .
+
+wd:Q84440523 a wd:Q2235308 ;
+    rdfs:label "super trawler"@en .
+
+wd:Q844474 a wd:Q2235308 ;
+    rdfs:label "chalupa"@en .
+
+wd:Q8449254 a wd:Q42889 ;
+    rdfs:label "alternative fuel vehicle"@en .
+
+wd:Q847109 a wd:Q2235308 ;
+    rdfs:label "dreadnought"@en .
+
+wd:Q847478 a wd:Q2235308 ;
+    rdfs:label "armored cruiser"@en .
+
+wd:Q848430 a wd:Q1229765 ;
+    rdfs:label "Caballito de totora"@en .
+
+wd:Q848944 a wd:Q2235308 ;
+    rdfs:label "merchant vessel"@en .
+
+wd:Q852190 a wd:Q2235308 ;
+    rdfs:label "shipwreck"@en .
+
+wd:Q852387 a wd:Q2235308 ;
+    rdfs:label "Panamax"@en .
+
+wd:Q85640110 a wd:Q16889133 ;
+    rdfs:label "Q85640110"^^xsd:string .
+
+wd:Q860339 a wd:Q2235308 ;
+    rdfs:label "Bilander"@en .
+
+wd:Q863970 a wd:Q2235308 ;
+    rdfs:label "riverboat"@en .
+
+wd:Q869609 a wd:Q2235308 ;
+    rdfs:label "fleet carrier"@en .
+
+wd:Q869923 a wd:Q2235308 ;
+    rdfs:label "helicopter carrier"@en .
+
+wd:Q880943 a wd:Q2235308 ;
+    rdfs:label "Blackwall Frigate"@en .
+
+wd:Q884687 a wd:Q2235308 ;
+    rdfs:label "blockade runner"@en .
+
+wd:Q885882 a wd:Q1229765 ;
+    rdfs:label "Q885882"^^xsd:string .
+
+wd:Q891771 a wd:Q2235308 ;
+    rdfs:label "bomb vessel"@en .
+
+wd:Q892278 a wd:Q2235308 ;
+    rdfs:label "sixth-rate"@en .
+
+wd:Q892367 a wd:Q2235308 ;
+    rdfs:label "first-rate"@en .
+
+wd:Q892368 a wd:Q2235308 ;
+    rdfs:label "second-rate"@en .
+
+wd:Q892492 a wd:Q2235308 ;
+    rdfs:label "third-rate"@en .
+
+wd:Q892554 a wd:Q2235308 ;
+    rdfs:label "fifth-rate"@en .
+
+wd:Q892562 a wd:Q2235308 ;
+    rdfs:label "fourth-rate"@en .
+
+wd:Q8963405 a wd:Q1229765 ;
+    rdfs:label "gamela"@en .
+
+wd:Q8964605 a wd:Q2235308 ;
+    rdfs:label "Q8964605"^^xsd:string .
+
+wd:Q897611 a wd:Q2235308 ;
+    rdfs:label "longship"@en .
+
+wd:Q897941 a wd:Q2235308 ;
+    rdfs:label "galleass"@en .
+
+wd:Q897986 a wd:Q2235308 ;
+    rdfs:label "fire ship"@en .
+
+wd:Q898771 a wd:Q2235308 ;
+    rdfs:label "heavy cruiser"@en .
+
+wd:Q9016889 a wd:Q16335899 ;
+    rdfs:label "Q9016889"^^xsd:string .
+
+wd:Q905046 a wd:Q1229765 ;
+    rdfs:label "Ukishima Maru"@en .
+
+wd:Q9055036 a wd:Q2235308 ;
+    rdfs:label "Q9055036"^^xsd:string .
+
+wd:Q913708 a wd:Q2235308 ;
+    rdfs:label "T2 tanker"@en .
+
+wd:Q9137373 a wd:Q42889 ;
+    rdfs:label "ARE"@en .
+
+wd:Q914260 a wd:Q2235308 ;
+    rdfs:label "felucca"@en .
+
+wd:Q9182548 a wd:Q42889 ;
+    rdfs:label "Bxhpi"@en .
+
+wd:Q9182684 a wd:Q2235308 ;
+    rdfs:label "Q9182684"^^xsd:string .
+
+wd:Q9263698 a wd:Q2235308 ;
+    rdfs:label "frigate"@en .
+
+wd:Q9266453 a wd:Q1229765 ;
+    rdfs:label "Q9266453"^^xsd:string .
+
+wd:Q928235 a wd:Q2235308 ;
+    rdfs:label "sloop-of-war"@en .
+
+wd:Q9291477 a wd:Q1229765 ;
+    rdfs:label "Q9291477"^^xsd:string .
+
+wd:Q9332315 a wd:Q1229765 ;
+    rdfs:label "Q9332315"^^xsd:string .
+
+wd:Q9332319 a wd:Q1229765 ;
+    rdfs:label "Q9332319"^^xsd:string .
+
+wd:Q9332322 a wd:Q1229765 ;
+    rdfs:label "Q9332322"^^xsd:string .
+
+wd:Q9332331 a wd:Q1229765 ;
+    rdfs:label "Q9332331"^^xsd:string .
+
+wd:Q9332338 a wd:Q1229765 ;
+    rdfs:label "Q9332338"^^xsd:string .
+
+wd:Q9332339 a wd:Q1229765 ;
+    rdfs:label "Q9332339"^^xsd:string .
+
+wd:Q9332341 a wd:Q1229765 ;
+    rdfs:label "Q9332341"^^xsd:string .
+
+wd:Q9332343 a wd:Q1229765 ;
+    rdfs:label "Q9332343"^^xsd:string .
+
+wd:Q9332349 a wd:Q1229765 ;
+    rdfs:label "Q9332349"^^xsd:string .
+
+wd:Q933617 a wd:Q2235308 ;
+    rdfs:label "Seawaymax"@en .
+
+wd:Q9352268 a wd:Q1229765 ;
+    rdfs:label "Q9352268"^^xsd:string .
+
+wd:Q9352269 a wd:Q1229765 ;
+    rdfs:label "Q9352269"^^xsd:string .
+
+wd:Q9361424 a wd:Q2235308 ;
+    rdfs:label "Riverine minesweeper"@en .
+
+wd:Q9362735 a wd:Q1229765 ;
+    rdfs:label "Q9362735"^^xsd:string .
+
+wd:Q9363746 a wd:Q1229765 ;
+    rdfs:label "Q9363746"^^xsd:string .
+
+wd:Q936754 a wd:Q42889 ;
+    rdfs:label "Kago"@en .
+
+wd:Q9371516 a wd:Q42889 ;
+    rdfs:label "Wasąg"@en .
+
+wd:Q939770 a wd:Q2235308 ;
+    rdfs:label "pilot boat"@en .
+
+wd:Q944408 a wd:Q2235308 ;
+    rdfs:label "whaleback"@en .
+
+wd:Q947345 a wd:Q2235308 ;
+    rdfs:label "Turret deck ship"@en .
+
+wd:Q953357 a wd:Q2235308 ;
+    rdfs:label "minelaying cruiser"@en .
+
+wd:Q9588290 a wd:Q2235308 ;
+    rdfs:label "longboat"@en .
+
+wd:Q970092 a wd:Q2235308 ;
+    rdfs:label "crane vessel"@en .
+
+wd:Q970466 a wd:Q2235308 ;
+    rdfs:label "Nordic Folkboat"@en .
+
+wd:Q973740 a wd:Q2235308 ;
+    rdfs:label "whaler"@en .
+
+wd:Q9770759 a wd:Q2235308 ;
+    rdfs:label "Júpiter class"@en .
+
+wd:Q14915094 a wd:Q2235308 ;
+    rdfs:label "surface effect ship"@en ;
+    rdfs:subClassOf wd:Q190403 .
+
+wd:Q4027331 rdfs:label "Bay class minehunter"@en ;
+    rdfs:subClassOf wd:Q190403 .
+
+wd:Q1642862 a wd:Q2235308 ;
+    rdfs:label "multihull"@en ;
+    rdfs:subClassOf wd:Q1229765 .
+
+wd:Q917479 a wd:Q2235308 ;
+    rdfs:label "small-waterplane-area twin hull"@en ;
+    rdfs:subClassOf wd:Q190403 .
+
+wd:Q2265995 rdfs:label "catamaran sailboats"@en ;
+    rdfs:subClassOf wd:Q190403 .
+
+wd:Q50380212 rdfs:label "floating object"@en .
+
+wd:Q16335899 rdfs:label "watercraft type"@en ;
+    rdfs:subClassOf wd:Q16889133 .
+
+wd:Q190403 a wd:Q2235308 ;
+    rdfs:label "catamaran"@en ;
+    rdfs:subClassOf wd:Q1642862 .
+
+wd:Q16889133 rdfs:label "class"@en .
+
+wd:Q42889 rdfs:label "vehicle"@en .
+
+wd:Q1229765 a wd:Q16335899 ;
+    rdfs:label "watercraft"@en ;
+    rdfs:subClassOf wd:Q42889,
+        wd:Q50380212 .
+
+wd:Q2235308 rdfs:label "ship type"@en ;
+    rdfs:subClassOf wd:Q16335899 .
+

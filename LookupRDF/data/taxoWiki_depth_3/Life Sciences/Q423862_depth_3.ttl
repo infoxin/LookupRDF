@@ -1,0 +1,3901 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:L230377-S1 a wd:Q12139612 ;
+    rdfs:label "L230377-S1"^^xsd:string .
+
+wd:Q1024518 a wd:Q11028 ;
+    rdfs:label "CTT Correios de Portugal, S.A."@en .
+
+wd:Q1034197 a wd:Q621184 ;
+    rdfs:label "capacitor plague"@en .
+
+wd:Q10427532 a wd:Q12139612 ;
+    rdfs:label "Table of variant Chinese characters"@en .
+
+wd:Q10478639 a wd:Q11028 ;
+    rdfs:label "Death record"@en .
+
+wd:Q1049524 a wd:Q12139612 ;
+    rdfs:label "Crown palaces and castles in Sweden"@en .
+
+wd:Q10501038 a wd:Q11028 ;
+    rdfs:label "Birth records"@en .
+
+wd:Q10527384 a wd:Q11028 ;
+    rdfs:label "Householdrecords"@en .
+
+wd:Q10823887 a wd:Q12139612 ;
+    rdfs:label "Wikimedia sister projects"@en .
+
+wd:Q10910308 a wd:Q12139612 ;
+    rdfs:label "List of character forms of General Used Chinese characters for Publishing"@en .
+
+wd:Q1091555 a wd:Q12139612 ;
+    rdfs:label "Q1091555"^^xsd:string .
+
+wd:Q1092999 a wd:Q12139612 ;
+    rdfs:label "list of monarchs of Kent"@en .
+
+wd:Q10942247 a wd:Q621184 ;
+    rdfs:label "resolution of singularities"@en .
+
+wd:Q10950641 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Editcountitis"@en .
+
+wd:Q10968383 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Polling is not a substitute for discussion"@en .
+
+wd:Q10990487 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Copyright violations"@en .
+
+wd:Q11009153 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Request an account"@en .
+
+wd:Q11013361 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:User account security"@en .
+
+wd:Q11015023 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Legal disclaimer"@en .
+
+wd:Q1107663 a wd:Q12139612 ;
+    rdfs:label "Lagarde list"@en .
+
+wd:Q11117516 a wd:Q17442446 ;
+    rdfs:label "Wikimedia:Administrators by language"@en .
+
+wd:Q11183065 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Core content policies"@en .
+
+wd:Q11214287 a wd:Q12139612 ;
+    rdfs:label "Q11214287"^^xsd:string .
+
+wd:Q11246759 a wd:Q17442446 ;
+    rdfs:label "Friends of gays should not be allowed to edit articles"@en .
+
+wd:Q11273197 a wd:Q12139612 ;
+    rdfs:label "Q11273197"^^xsd:string .
+
+wd:Q11376046 a wd:Q621184 ;
+    rdfs:label "Q11376046"^^xsd:string .
+
+wd:Q1157770 a wd:Q28813620 ;
+    rdfs:label "Q1157770"^^xsd:string .
+
+wd:Q11578784 a wd:Q11028 ;
+    rdfs:label "Q11578784"^^xsd:string .
+
+wd:Q11608510 a wd:Q12139612 ;
+    rdfs:label "Q11608510"^^xsd:string .
+
+wd:Q11776677 a wd:Q12139612 ;
+    rdfs:label "Q11776677"^^xsd:string .
+
+wd:Q1185775 a wd:Q621184 ;
+    rdfs:label "frame problem"@en .
+
+wd:Q11905731 a wd:Q12139612 ;
+    rdfs:label "Q11905731"^^xsd:string .
+
+wd:Q12033315 a wd:Q12139612 ;
+    rdfs:label "Q12033315"^^xsd:string .
+
+wd:Q12039243 a wd:Q12139612 ;
+    rdfs:label "Q12039243"^^xsd:string .
+
+wd:Q12119330 a wd:Q12139612 ;
+    rdfs:label "Q12119330"^^xsd:string .
+
+wd:Q12149847 a wd:Q12139612 ;
+    rdfs:label "Q12149847"^^xsd:string .
+
+wd:Q12272805 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Articles for creation/Assessment"@en .
+
+wd:Q12310258 a wd:Q11028 ;
+    rdfs:label "Danish Business Authority"@en .
+
+wd:Q12347422 a wd:Q12139612 ;
+    rdfs:label "Q12347422"^^xsd:string .
+
+wd:Q12370864 a wd:Q12139612 ;
+    rdfs:label "list of narcology terms"@en .
+
+wd:Q1263376 a wd:Q12139612 ;
+    rdfs:label "Most Frequently Used"@en .
+
+wd:Q12708910 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Mathematics/List of mathematics articles (B)"@en .
+
+wd:Q12708911 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Mathematics/List of mathematics articles (G)"@en .
+
+wd:Q12708912 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Mathematics/List of mathematics articles (A)"@en .
+
+wd:Q127444 a wd:Q12139612 ;
+    rdfs:label "Special Prosecution Book-Poland"@en .
+
+wd:Q12819564 a wd:Q16686448 ;
+    rdfs:label "station"@en .
+
+wd:Q12905248 a wd:Q12139612 ;
+    rdfs:label "Q12905248"^^xsd:string .
+
+wd:Q1304122 a wd:Q11028 ;
+    rdfs:label "breaking news"@en .
+
+wd:Q13054095 a wd:Q12139612 ;
+    rdfs:label "Q13054095"^^xsd:string .
+
+wd:Q1334086 a wd:Q12139612 ;
+    rdfs:label "Q1334086"^^xsd:string .
+
+wd:Q13382119 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Requests for history merge"@en .
+
+wd:Q13403747 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Featured topic criteria"@en .
+
+wd:Q13571144 a wd:Q12139612 ;
+    rdfs:label "Q13571144"^^xsd:string .
+
+wd:Q13578728 a wd:Q12139612 ;
+    rdfs:label "Q13578728"^^xsd:string .
+
+wd:Q1386729 a wd:Q12139612 ;
+    rdfs:label "FBI Ten Most Wanted Fugitives"@en .
+
+wd:Q1456936 a wd:Q12139612 ;
+    rdfs:label "table of contents"@en .
+
+wd:Q14647872 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Contact us - Press"@en .
+
+wd:Q1471390 a wd:Q12139612 ;
+    rdfs:label "master list of Nixon's political opponents"@en .
+
+wd:Q14906543 a wd:Q621184 ;
+    rdfs:label "Q14906543"^^xsd:string .
+
+wd:Q14941454 a wd:Q12139612 ;
+    rdfs:label "Table of General Standard Chinese Characters"@en .
+
+wd:Q1509525 a wd:Q12139612 ;
+    rdfs:label "Top 100 Dutch heritage sites"@en .
+
+wd:Q15235026 a wd:Q12139612 ;
+    rdfs:label "IUCN Red List 2013.2"@en .
+
+wd:Q152392 a wd:Q12139612 ;
+    rdfs:label "Swadesh list"@en .
+
+wd:Q1530393 a wd:Q16686448 ;
+    rdfs:label "RD-0120"@en .
+
+wd:Q1547690 a wd:Q621184 ;
+    rdfs:label "ground bounce"@en .
+
+wd:Q15632243 a wd:Q12139612 ;
+    rdfs:label "Denkmalliste der Stadt Bonn"@en .
+
+wd:Q15704723 a wd:Q48522 ;
+    rdfs:label "Q15704723"^^xsd:string .
+
+wd:Q15795637 a wd:Q12139612 ;
+    rdfs:label "Pokémon evolutionary line"@en .
+
+wd:Q15902917 a wd:Q12139612 ;
+    rdfs:label "First batch revision table of variant Chinese characters"@en .
+
+wd:Q16087281 a wd:Q12139612 ;
+    rdfs:label "Q16087281"^^xsd:string .
+
+wd:Q16252144 a wd:Q11028 ;
+    rdfs:label "Hidden message"@en .
+
+wd:Q16362115 a wd:Q12139612 ;
+    rdfs:label "Latvian Specially Protected Nature Territories"@en .
+
+wd:Q16366526 a wd:Q16686448 ;
+    rdfs:label "Q16366526"^^xsd:string .
+
+wd:Q1637842 a wd:Q12139612 ;
+    rdfs:label "613 commandments"@en .
+
+wd:Q16387770 a wd:Q12139612 ;
+    rdfs:label "Q16387770"^^xsd:string .
+
+wd:Q16393524 a wd:Q12139612 ;
+    rdfs:label "Q16393524"^^xsd:string .
+
+wd:Q16481727 a wd:Q12139612 ;
+    rdfs:label "Q16481727"^^xsd:string .
+
+wd:Q16482110 a wd:Q12139612 ;
+    rdfs:label "Earthquakes in Sicily"@en .
+
+wd:Q164932 a wd:Q12139612 ;
+    rdfs:label "1001 Albums You Must Hear Before You Die"@en .
+
+wd:Q165185 a wd:Q12139612 ;
+    rdfs:label "Q165185"^^xsd:string .
+
+wd:Q16601540 a wd:Q12139612 ;
+    rdfs:label "Sentieri Frassati"@en .
+
+wd:Q16639280 a wd:Q12139612 ;
+    rdfs:label "Global Slavery Index"@en .
+
+wd:Q16825881 a wd:Q12139612 ;
+    rdfs:label "Africa39"@en .
+
+wd:Q16916533 a wd:Q17442446 ;
+    rdfs:label "Index of history of computing articles"@en .
+
+wd:Q17001260 a wd:Q12139612 ;
+    rdfs:label "Authors of Piyyut"@en .
+
+wd:Q17002770 a wd:Q11028 ;
+    rdfs:label "Data3"@en .
+
+wd:Q17043327 a wd:Q16686448 ;
+    rdfs:label "Godman-Salvin Medal"@en .
+
+wd:Q17104274 a wd:Q12139612 ;
+    rdfs:label "Zamorano Eighty"@en .
+
+wd:Q17138113 a wd:Q12139612 ;
+    rdfs:label "New General Service List"@en .
+
+wd:Q17328839 a wd:Q12139612 ;
+    rdfs:label "crosses and crucifixes in Verseilles-le-Bas"@en .
+
+wd:Q17489210 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Terms of use"@en .
+
+wd:Q17489356 a wd:Q17442446 ;
+    rdfs:label "Project:Translators' noticeboard"@en .
+
+wd:Q17539639 a wd:Q11028 ;
+    rdfs:label "Municipal Register of Spain 2013"@en .
+
+wd:Q1754255 a wd:Q12139612 ;
+    rdfs:label "list of national parks of Madagascar"@en .
+
+wd:Q178376 a wd:Q11028 ;
+    rdfs:label "finding aid"@en .
+
+wd:Q17986874 a wd:Q17442446 ;
+    rdfs:label "Q17986874"^^xsd:string .
+
+wd:Q18007184 a wd:Q12139612 ;
+    rdfs:label "Saint-Michel-de-Llotes dolmens"@en .
+
+wd:Q1810587 a wd:Q12139612 ;
+    rdfs:label "U.S. list of most-wanted Iraqis"@en .
+
+wd:Q182793 a wd:Q12139612 ;
+    rdfs:label "Nixon's Enemies List"@en .
+
+wd:Q18466590 a wd:Q12139612 ;
+    rdfs:label "Q18466590"^^xsd:string .
+
+wd:Q18481219 a wd:Q12139612 ;
+    rdfs:label "Q18481219"^^xsd:string .
+
+wd:Q18552254 a wd:Q12139612 ;
+    rdfs:label "Q18552254"^^xsd:string .
+
+wd:Q1864754 a wd:Q12139612 ;
+    rdfs:label "Q1864754"^^xsd:string .
+
+wd:Q1897815 a wd:Q12139612 ;
+    rdfs:label "Top 100 of Dutch monuments 1940-1958"@en .
+
+wd:Q19142251 a wd:Q12139612 ;
+    rdfs:label "Q19142251"^^xsd:string .
+
+wd:Q1949493 a wd:Q12139612 ;
+    rdfs:label "Common menus in Microsoft Windows"@en .
+
+wd:Q19635290 a wd:Q12139612 ;
+    rdfs:label "Q19635290"^^xsd:string .
+
+wd:Q1969175 a wd:Q12139612 ;
+    rdfs:label "Forbes list of The World's 100 Most Powerful Women"@en .
+
+wd:Q19820671 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:How to create a page"@en .
+
+wd:Q19905597 a wd:Q12139612 ;
+    rdfs:label "Q19905597"^^xsd:string .
+
+wd:Q20020173 a wd:Q12139612 ;
+    rdfs:label "Q20020173"^^xsd:string .
+
+wd:Q2003542 a wd:Q12139612 ;
+    rdfs:label "Q2003542"^^xsd:string .
+
+wd:Q20155778 a wd:Q12139612 ;
+    rdfs:label "Various Licenses and Comments About Them"@en .
+
+wd:Q20199696 a wd:Q12139612 ;
+    rdfs:label "list of provosts of Saint-Lambert in Liège"@en .
+
+wd:Q203443 a wd:Q11028 ;
+    rdfs:label "tombstone"@en .
+
+wd:Q2041149 a wd:Q12139612 ;
+    rdfs:label "Honorary Citizenships of Otto von Bismarck"@en .
+
+wd:Q20509721 a wd:Q12139612 ;
+    rdfs:label "Q20509721"^^xsd:string .
+
+wd:Q20512617 a wd:Q12139612 ;
+    rdfs:label "Q20512617"^^xsd:string .
+
+wd:Q20541567 a wd:Q12139612 ;
+    rdfs:label "Q20541567"^^xsd:string .
+
+wd:Q20556968 a wd:Q12139612 ;
+    rdfs:label "Q20556968"^^xsd:string .
+
+wd:Q20597838 a wd:Q12139612 ;
+    rdfs:label "Sheriffs of Caernarfonshire in the 16th century"@en .
+
+wd:Q2073616 a wd:Q621184 ;
+    rdfs:label "Q2073616"^^xsd:string .
+
+wd:Q208126 a wd:Q12139612 ;
+    rdfs:label "Seven Summits"@en .
+
+wd:Q209287 a wd:Q12139612 ;
+    rdfs:label "Wonders of the World"@en .
+
+wd:Q20950345 a wd:Q17442446 ;
+    rdfs:label "Using Wikibooks/Class Project Guidelines"@en .
+
+wd:Q20999774 a wd:Q12139612 ;
+    rdfs:label "Q20999774"^^xsd:string .
+
+wd:Q20999778 a wd:Q12139612 ;
+    rdfs:label "Q20999778"^^xsd:string .
+
+wd:Q21006691 a wd:Q12139612 ;
+    rdfs:label "Los 100 discos que debes tener antes del fin del mundo"@en .
+
+wd:Q21011287 a wd:Q12139612 ;
+    rdfs:label "Inventory of intangible cultural heritage in France"@en .
+
+wd:Q21141804 a wd:Q12139612 ;
+    rdfs:label "first names given at birth in Rotterdam (1811-1913)"@en .
+
+wd:Q21422577 a wd:Q12139612 ;
+    rdfs:label "Q21422577"^^xsd:string .
+
+wd:Q21619649 a wd:Q12139612 ;
+    rdfs:label "Q21619649"^^xsd:string .
+
+wd:Q21634672 a wd:Q12139612 ;
+    rdfs:label "Q21634672"^^xsd:string .
+
+wd:Q21657755 a wd:Q12139612 ;
+    rdfs:label "Q21657755"^^xsd:string .
+
+wd:Q2170633 a wd:Q12139612 ;
+    rdfs:label "U.S. State Department list of Foreign Terrorist Organizations"@en .
+
+wd:Q2195438 a wd:Q12139612 ;
+    rdfs:label "Q2195438"^^xsd:string .
+
+wd:Q223675 a wd:Q621184 ;
+    rdfs:label "meaning of life"@en .
+
+wd:Q2325729 a wd:Q12139612 ;
+    rdfs:label "Lijst-Frederiks"@en .
+
+wd:Q2326814 a wd:Q12139612 ;
+    rdfs:label "Minister-President of the German-speaking Community"@en .
+
+wd:Q2331035 a wd:Q12139612 ;
+    rdfs:label "Q2331035"^^xsd:string .
+
+wd:Q23641279 a wd:Q12139612 ;
+    rdfs:label "List of minor planets: 461001–462000"@en .
+
+wd:Q23659098 a wd:Q12139612 ;
+    rdfs:label "Q23659098"^^xsd:string .
+
+wd:Q23894606 a wd:Q17442446 ;
+    rdfs:label "BioQuery"@en .
+
+wd:Q23983930 a wd:Q17442446 ;
+    rdfs:label "Quarry"@en .
+
+wd:Q2406150 a wd:Q621184 ;
+    rdfs:label "arrears"@en .
+
+wd:Q241075 a wd:Q12139612 ;
+    rdfs:label "list of military cemeteries in Normandy"@en .
+
+wd:Q2416331 a wd:Q12139612 ;
+    rdfs:label "Forbes 400"@en .
+
+wd:Q24175643 a wd:Q12139612 ;
+    rdfs:label "Q24175643"^^xsd:string .
+
+wd:Q24196607 a wd:Q12139612 ;
+    rdfs:label "List of museums in the Isle of Man"@en .
+
+wd:Q24248489 a wd:Q12139612 ;
+    rdfs:label "Deaths in June 2016"@en .
+
+wd:Q24640948 a wd:Q12139612 ;
+    rdfs:label "Q24640948"^^xsd:string .
+
+wd:Q24698696 a wd:Q12139612 ;
+    rdfs:label "Q24698696"^^xsd:string .
+
+wd:Q24932058 a wd:Q12139612 ;
+    rdfs:label "Q24932058"^^xsd:string .
+
+wd:Q2497813 a wd:Q621184 ;
+    rdfs:label "Stability of the Solar System"@en .
+
+wd:Q25351574 a wd:Q621184 ;
+    rdfs:label "measure problem"@en .
+
+wd:Q25383050 a wd:Q12139612 ;
+    rdfs:label "Q25383050"^^xsd:string .
+
+wd:Q25384963 a wd:Q12139612 ;
+    rdfs:label "Q25384963"^^xsd:string .
+
+wd:Q25394314 a wd:Q12139612 ;
+    rdfs:label "Q25394314"^^xsd:string .
+
+wd:Q25434780 a wd:Q12139612 ;
+    rdfs:label "Q25434780"^^xsd:string .
+
+wd:Q25434783 a wd:Q12139612 ;
+    rdfs:label "Q25434783"^^xsd:string .
+
+wd:Q25491531 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Mathematics/List of mathematics articles (T)"@en .
+
+wd:Q25491537 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Mathematics/List of mathematics articles (K)"@en .
+
+wd:Q25491539 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Mathematics/List of mathematics articles (M)"@en .
+
+wd:Q25491540 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Mathematics/List of mathematics articles (N)"@en .
+
+wd:Q25491541 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Mathematics/List of mathematics articles (P)"@en .
+
+wd:Q25491545 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Mathematics/List of mathematics articles (S)"@en .
+
+wd:Q25540645 a wd:Q12139612 ;
+    rdfs:label "Q25540645"^^xsd:string .
+
+wd:Q25590029 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Biography/Infoboxes"@en .
+
+wd:Q256358 a wd:Q11028 ;
+    rdfs:label "equivocation"@en .
+
+wd:Q25712383 a wd:Q11028 ;
+    rdfs:label "The 28 Pages"@en .
+
+wd:Q2590381 a wd:Q621184 ;
+    rdfs:label "measurement problem"@en .
+
+wd:Q26203792 a wd:Q12139612 ;
+    rdfs:label "Q26203792"^^xsd:string .
+
+wd:Q26207131 a wd:Q12139612 ;
+    rdfs:label "Alphabetical Listing of Members of the Legislative Council since 1890"@en .
+
+wd:Q2646168 a wd:Q621184 ;
+    rdfs:label "transformation problem"@en .
+
+wd:Q2652427 a wd:Q12139612 ;
+    rdfs:label "Q2652427"^^xsd:string .
+
+wd:Q26723556 a wd:Q12139612 ;
+    rdfs:label "Category:List of non-Frisian boys' names"@en .
+
+wd:Q26723567 a wd:Q12139612 ;
+    rdfs:label "List of non-Frisian girls' names"@en .
+
+wd:Q26736122 a wd:Q12139612 ;
+    rdfs:label "EE-List of the breedsof fancy pigeons"@en .
+
+wd:Q26829682 a wd:Q17442446 ;
+    rdfs:label "geography stub"@en .
+
+wd:Q26869209 a wd:Q12139612 ;
+    rdfs:label "Pseudonyms of Donald Trump"@en .
+
+wd:Q27042747 a wd:Q12139612 ;
+    rdfs:label "IOC World Bird List Version 6.3"@en .
+
+wd:Q273167 a wd:Q12139612 ;
+    rdfs:label "Hilbert's problems"@en .
+
+wd:Q2734310 a wd:Q12139612 ;
+    rdfs:label "alcaldía of Mexico City"@en .
+
+wd:Q27346650 a wd:Q12139612 ;
+    rdfs:label "Wales County/Unitary Authority High Points"@en .
+
+wd:Q27468707 a wd:Q12139612 ;
+    rdfs:label "Q27468707"^^xsd:string .
+
+wd:Q27477970 a wd:Q11028 ;
+    rdfs:label "Swiss GLAM Inventory,  16 September 2016"@en .
+
+wd:Q2752419 a wd:Q12139612 ;
+    rdfs:label "shopping list"@en .
+
+wd:Q27877222 a wd:Q12139612 ;
+    rdfs:label "Q27877222"^^xsd:string .
+
+wd:Q27888227 a wd:Q17442446 ;
+    rdfs:label "Help:Introduction to referencing with VisualEditor/6"@en .
+
+wd:Q27907675 a wd:Q12139612 ;
+    rdfs:label "IOC World Bird List Version 6.4"@en .
+
+wd:Q27921999 a wd:Q12139612 ;
+    rdfs:label "FHM's 100 Sexiest Women"@en .
+
+wd:Q28008034 a wd:Q12139612 ;
+    rdfs:label "National Register of Historic Places listings in Catron County, New Mexico"@en .
+
+wd:Q28008035 a wd:Q12139612 ;
+    rdfs:label "National Register of Historic Places listings in Curry County, New Mexico"@en .
+
+wd:Q28008036 a wd:Q12139612 ;
+    rdfs:label "National Register of Historic Places listings in Lea County, New Mexico"@en .
+
+wd:Q28008037 a wd:Q12139612 ;
+    rdfs:label "National Register of Historic Places listings in Luna County, New Mexico"@en .
+
+wd:Q28008038 a wd:Q12139612 ;
+    rdfs:label "National Register of Historic Places listings in Roosevelt County, New Mexico"@en .
+
+wd:Q28008039 a wd:Q12139612 ;
+    rdfs:label "National Register of Historic Places listings in Union County, New Mexico"@en .
+
+wd:Q2804129 a wd:Q621184 ;
+    rdfs:label "monopole problem"@en .
+
+wd:Q28048805 a wd:Q11028 ;
+    rdfs:label "Småorter 2015"@en .
+
+wd:Q28055306 a wd:Q12139612 ;
+    rdfs:label "Biosphere reserve in Latvia"@en .
+
+wd:Q2806677 a wd:Q12139612 ;
+    rdfs:label "Q2806677"^^xsd:string .
+
+wd:Q2820819 a wd:Q12139612 ;
+    rdfs:label "Q2820819"^^xsd:string .
+
+wd:Q28226185 a wd:Q12139612 ;
+    rdfs:label "List of historic properties in Winslow, Arizona"@en .
+
+wd:Q28226225 a wd:Q12139612 ;
+    rdfs:label "List of historic properties in Cave Creek, Arizona"@en .
+
+wd:Q28369847 a wd:Q11028 ;
+    rdfs:label "baptism registry"@en .
+
+wd:Q28453732 a wd:Q12139612 ;
+    rdfs:label "Forbes 30 Under 30"@en .
+
+wd:Q2862903 a wd:Q12139612 ;
+    rdfs:label "Q2862903"^^xsd:string .
+
+wd:Q28667434 a wd:Q12139612 ;
+    rdfs:label "Q28667434"^^xsd:string .
+
+wd:Q28668756 a wd:Q12139612 ;
+    rdfs:label "Q28668756"^^xsd:string .
+
+wd:Q28678512 a wd:Q12139612 ;
+    rdfs:label "list of state visits made by the President Marcelo Rebelo de Sousa"@en .
+
+wd:Q28788254 a wd:Q12139612 ;
+    rdfs:label "administrative communities in Main-Spessart"@en .
+
+wd:Q28813608 a wd:Q28813620 ;
+    rdfs:label "collection of Petr Pacholátko"@en .
+
+wd:Q28971563 a wd:Q12139612 ;
+    rdfs:label "IOC World Bird List Version 7.1"@en .
+
+wd:Q2900564 a wd:Q12139612 ;
+    rdfs:label "FBI Most Wanted Terrorists"@en .
+
+wd:Q29169337 a wd:Q17442446 ;
+    rdfs:label "Help:Navigating Wikidata/User Options"@en .
+
+wd:Q2934512 a wd:Q12139612 ;
+    rdfs:label "Q2934512"^^xsd:string .
+
+wd:Q294182 a wd:Q12139612 ;
+    rdfs:label "Public list on the registration of associations and their representatives"@en .
+
+wd:Q29469970 a wd:Q12139612 ;
+    rdfs:label "List ob Brill's New Pauly Authors"@en .
+
+wd:Q29555473 a wd:Q12139612 ;
+    rdfs:label "Q29555473"^^xsd:string .
+
+wd:Q29654690 a wd:Q12139612 ;
+    rdfs:label "Norsk fyrliste"@en .
+
+wd:Q29937080 a wd:Q12139612 ;
+    rdfs:label "stained glass windows of Église Saint-Malo de Dinan"@en .
+
+wd:Q29937193 a wd:Q12139612 ;
+    rdfs:label "IOC World Bird List Version 7.2"@en .
+
+wd:Q3003652 a wd:Q12139612 ;
+    rdfs:label "Crosses in Sainte-Croix-aux-Mines"@en .
+
+wd:Q3003684 a wd:Q12139612 ;
+    rdfs:label "Q3003684"^^xsd:string .
+
+wd:Q30061605 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Reader Knows Nothing"@en .
+
+wd:Q30090831 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Women in Red/Meetup/47"@en .
+
+wd:Q30090834 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Women in Red/Meetup/46"@en .
+
+wd:Q30093606 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Women in Red/Meetup/45"@en .
+
+wd:Q30140487 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Protocol-relative URL"@en .
+
+wd:Q30190427 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiBear"@en .
+
+wd:Q30223023 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:GLAM/WVU/Welcome"@en .
+
+wd:Q30227269 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Meetup/Karachi 3"@en .
+
+wd:Q30227424 a wd:Q12139612 ;
+    rdfs:label "Protected areas of Denmark"@en .
+
+wd:Q30242844 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Apology"@en .
+
+wd:Q30269094 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Belgium/Userbox"@en .
+
+wd:Q30276343 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Religion"@en .
+
+wd:Q30303460 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Requested articles/Natural sciences/Physics"@en .
+
+wd:Q30309292 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:You can't fix Google through Wikipedia"@en .
+
+wd:Q30318725 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Copyediting reception sections"@en .
+
+wd:Q30319307 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Romania/box-header"@en .
+
+wd:Q30319325 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Romania/box-footer"@en .
+
+wd:Q30325190 a wd:Q621184 ;
+    rdfs:label "Bitcoin scalability problem"@en .
+
+wd:Q30325383 a wd:Q12139612 ;
+    rdfs:label "First Ladies and Gentlemen of Kansas"@en .
+
+wd:Q30331867 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Romania/Intro"@en .
+
+wd:Q30335932 a wd:Q12139612 ;
+    rdfs:label "Q30335932"^^xsd:string .
+
+wd:Q30336734 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Romania/Goals"@en .
+
+wd:Q30348878 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Athletics/Manual of Style/Biographies"@en .
+
+wd:Q30353568 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Romania/Members"@en .
+
+wd:Q30550185 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject North America/Barnstar"@en .
+
+wd:Q30640662 a wd:Q12139612 ;
+    rdfs:label "List of historic properties in Camp Verde, Arizona"@en .
+
+wd:Q3065247 a wd:Q12139612 ;
+    rdfs:label "Keynes family"@en .
+
+wd:Q30729324 a wd:Q12139612 ;
+    rdfs:label "Q30729324"^^xsd:string .
+
+wd:Q30749272 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Malaysia-related topics notice board"@en .
+
+wd:Q3076775 a wd:Q12139612 ;
+    rdfs:label "Great books"@en .
+
+wd:Q30909454 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Bloomsbury"@en .
+
+wd:Q3091179 a wd:Q12139612 ;
+    rdfs:label "Q3091179"^^xsd:string .
+
+wd:Q30970899 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Violeta Moskalu"@en .
+
+wd:Q30992906 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Latin America"@en .
+
+wd:Q31178539 a wd:Q17442446 ;
+    rdfs:label "Appendix:Glossary"@en .
+
+wd:Q31202161 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Use of tertiary sources"@en .
+
+wd:Q31202166 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia_is_a_work_in_progress"@en .
+
+wd:Q31202190 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Rendering math"@en .
+
+wd:Q31202212 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Manual of Style/Military history"@en .
+
+wd:Q31210043 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Asian Athletics Championships 2017 Edit-a-thon"@en .
+
+wd:Q31338957 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Women in Red/Meetup/50"@en .
+
+wd:Q31388276 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Women in Red/Meetup/49"@en .
+
+wd:Q31388316 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Women in Red/Meetup/48"@en .
+
+wd:Q31485738 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Military history/Content guide"@en .
+
+wd:Q3153864 a wd:Q12139612 ;
+    rdfs:label "Inventaire national du patrimoine naturel"@en .
+
+wd:Q31841806 a wd:Q12139612 ;
+    rdfs:label "Q31841806"^^xsd:string .
+
+wd:Q31867977 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Comics/Templates"@en .
+
+wd:Q32057074 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:RIPM"@en .
+
+wd:Q32116414 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tilastopaja"@en .
+
+wd:Q32116938 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:EDP Sciences"@en .
+
+wd:Q32156060 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:BMJ"@en .
+
+wd:Q32183571 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Keesings"@en .
+
+wd:Q3248953 a wd:Q12139612 ;
+    rdfs:label "Q3248953"^^xsd:string .
+
+wd:Q3274200 a wd:Q12139612 ;
+    rdfs:label "Shah dynasty"@en .
+
+wd:Q32752657 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Tennis/Tab header/Tab"@en .
+
+wd:Q32752678 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Tennis/Tab header/Spacer"@en .
+
+wd:Q32948181 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Video games/Newsletter/20150401/Feature"@en .
+
+wd:Q32968040 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:VisualEditor/New users"@en .
+
+wd:Q33046157 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Nepal/Navigation"@en .
+
+wd:Q33079415 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Nepal/Members"@en .
+
+wd:Q33082978 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia is not therapy"@en .
+
+wd:Q33082987 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Nepal/Assessment"@en .
+
+wd:Q33087273 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Translation task force/RTT/Simple Abacavir/lamivudine"@en .
+
+wd:Q33092726 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Translation task force/RTT/Simple Abacavir"@en .
+
+wd:Q33104025 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Vagueness"@en .
+
+wd:Q33112686 a wd:Q12139612 ;
+    rdfs:label "Wild Life Unprotected by Indonesian gov but Part of Cites protected animals"@en .
+
+wd:Q33113594 a wd:Q12139612 ;
+    rdfs:label "Turtles in Trouble: The World’s 25+ Most Endangered Tortoises and Freshwater Turtles"@en .
+
+wd:Q33129403 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Version 1.0 Editorial Team/Nepal articles by quality log"@en .
+
+wd:Q33129594 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiPeace/members"@en .
+
+wd:Q33129651 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Centijimbos"@en .
+
+wd:Q3323502 a wd:Q12139612 ;
+    rdfs:label "Q3323502"^^xsd:string .
+
+wd:Q33326034 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:10,000 most common passwords"@en .
+
+wd:Q33373001 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Version 1.0 Editorial Team/Volleyball articles by quality statistics"@en .
+
+wd:Q33373677 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Volleyball/Article alerts"@en .
+
+wd:Q33514617 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:The Pope is Catholic"@en .
+
+wd:Q3374251 a wd:Q12139612 ;
+    rdfs:label "Världsbiblioteket"@en .
+
+wd:Q33745610 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Fictitious references"@en .
+
+wd:Q3406695 a wd:Q12139612 ;
+    rdfs:label "Undeveloped Buffy the Vampire Slayer spinoffs"@en .
+
+wd:Q3424434 a wd:Q12139612 ;
+    rdfs:label "Relics of Sainte-Chapelle"@en .
+
+wd:Q34251324 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Women in Red/Meetup/00"@en .
+
+wd:Q34619080 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Cascading content"@en .
+
+wd:Q3531175 a wd:Q12139612 ;
+    rdfs:label "Q3531175"^^xsd:string .
+
+wd:Q3540508 a wd:Q12139612 ;
+    rdfs:label "Q3540508"^^xsd:string .
+
+wd:Q35555042 a wd:Q12139612 ;
+    rdfs:label "Q35555042"^^xsd:string .
+
+wd:Q3577837 a wd:Q12139612 ;
+    rdfs:label "Q3577837"^^xsd:string .
+
+wd:Q35809485 a wd:Q17442446 ;
+    rdfs:label "Q35809485"^^xsd:string .
+
+wd:Q3586180 a wd:Q12139612 ;
+    rdfs:label "Q3586180"^^xsd:string .
+
+wd:Q3586182 a wd:Q12139612 ;
+    rdfs:label "Q3586182"^^xsd:string .
+
+wd:Q3586194 a wd:Q12139612 ;
+    rdfs:label "Q3586194"^^xsd:string .
+
+wd:Q3586196 a wd:Q12139612 ;
+    rdfs:label "Q3586196"^^xsd:string .
+
+wd:Q3596820 a wd:Q12139612 ;
+    rdfs:label "100 film italiani da salvare"@en .
+
+wd:Q36012646 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiKnight/topicon"@en .
+
+wd:Q3603143 a wd:Q12139612 ;
+    rdfs:label "Q3603143"^^xsd:string .
+
+wd:Q3618620 a wd:Q12139612 ;
+    rdfs:label "Q3618620"^^xsd:string .
+
+wd:Q36338480 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:File copyright tags/Public domain"@en .
+
+wd:Q36406447 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Christianity/Recognized Content"@en .
+
+wd:Q36408652 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Christianity/Outreach"@en .
+
+wd:Q36412109 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Christianity/Peer Review"@en .
+
+wd:Q36412183 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Christianity/Planning"@en .
+
+wd:Q36412265 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Christianity/Members"@en .
+
+wd:Q36412344 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Christianity/Noticeboard"@en .
+
+wd:Q36414052 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Christianity/Introduction"@en .
+
+wd:Q36456953 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/April 17, 2017"@en .
+
+wd:Q36456992 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/April 18, 2017"@en .
+
+wd:Q36457534 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/April 19, 2017"@en .
+
+wd:Q36457570 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/April 21, 2017"@en .
+
+wd:Q36457604 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/April 24, 2017"@en .
+
+wd:Q36457640 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/April 26, 2017"@en .
+
+wd:Q36457674 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/April 28, 2017"@en .
+
+wd:Q36457702 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/April 29, 2017"@en .
+
+wd:Q36457734 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/April 30, 2017"@en .
+
+wd:Q36457810 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 1, 2017"@en .
+
+wd:Q36457853 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 3, 2017"@en .
+
+wd:Q36457882 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 4, 2017"@en .
+
+wd:Q36457921 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 5, 2017"@en .
+
+wd:Q36457971 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 6, 2017"@en .
+
+wd:Q36458020 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 7, 2017"@en .
+
+wd:Q36458053 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 8, 2017"@en .
+
+wd:Q36458081 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 9, 2017"@en .
+
+wd:Q36458118 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 10, 2017"@en .
+
+wd:Q36458142 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 11, 2017"@en .
+
+wd:Q36458183 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 13, 2017"@en .
+
+wd:Q36458239 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 15, 2017"@en .
+
+wd:Q36458272 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 16, 2017"@en .
+
+wd:Q36458311 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 17, 2017"@en .
+
+wd:Q36458349 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 19, 2017"@en .
+
+wd:Q36458376 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 20, 2017"@en .
+
+wd:Q36458414 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 21, 2017"@en .
+
+wd:Q36458439 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 22, 2017"@en .
+
+wd:Q36458461 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 23, 2017"@en .
+
+wd:Q36458487 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 24, 2017"@en .
+
+wd:Q36458519 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 25, 2017"@en .
+
+wd:Q36458540 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 26, 2017"@en .
+
+wd:Q36458575 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 27, 2017"@en .
+
+wd:Q36458608 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 28, 2017"@en .
+
+wd:Q36458636 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 29, 2017"@en .
+
+wd:Q36458666 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 30, 2017"@en .
+
+wd:Q36458695 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 31, 2017"@en .
+
+wd:Q36458734 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 2017"@en .
+
+wd:Q36458881 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 5, 2017"@en .
+
+wd:Q36458919 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 6, 2017"@en .
+
+wd:Q36458945 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 7, 2017"@en .
+
+wd:Q36458969 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 8, 2017"@en .
+
+wd:Q36459003 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 9, 2017"@en .
+
+wd:Q36459038 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 11, 2017"@en .
+
+wd:Q36459068 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 12, 2017"@en .
+
+wd:Q36459101 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 13, 2017"@en .
+
+wd:Q36459130 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 14, 2017"@en .
+
+wd:Q36459183 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 16, 2017"@en .
+
+wd:Q36459222 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 19, 2017"@en .
+
+wd:Q36459245 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 20, 2017"@en .
+
+wd:Q36459271 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 22, 2017"@en .
+
+wd:Q36459296 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 23, 2017"@en .
+
+wd:Q36459324 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 27, 2017"@en .
+
+wd:Q36459351 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 29, 2017"@en .
+
+wd:Q36459378 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 30, 2017"@en .
+
+wd:Q36459413 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/June 2017"@en .
+
+wd:Q36459442 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 2017"@en .
+
+wd:Q36459489 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 4, 2017"@en .
+
+wd:Q36459517 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 5, 2017"@en .
+
+wd:Q36459543 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 6, 2017"@en .
+
+wd:Q36459581 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 8, 2017"@en .
+
+wd:Q36459612 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 9, 2017"@en .
+
+wd:Q36459631 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 10, 2017"@en .
+
+wd:Q36459656 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 11, 2017"@en .
+
+wd:Q36459687 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 12, 2017"@en .
+
+wd:Q36459717 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 13, 2017"@en .
+
+wd:Q36459739 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 14, 2017"@en .
+
+wd:Q36459770 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 17, 2017"@en .
+
+wd:Q36459820 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 22, 2017"@en .
+
+wd:Q36459863 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 24, 2017"@en .
+
+wd:Q36459888 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 26, 2017"@en .
+
+wd:Q36459925 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 27, 2017"@en .
+
+wd:Q36459949 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 28, 2017"@en .
+
+wd:Q36459983 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 29, 2017"@en .
+
+wd:Q36460058 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 30, 2017"@en .
+
+wd:Q36460095 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 31, 2017"@en .
+
+wd:Q36460254 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/August 2017"@en .
+
+wd:Q36460322 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/August 1, 2017"@en .
+
+wd:Q36460384 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/August 7, 2017"@en .
+
+wd:Q36460414 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/August 9, 2017"@en .
+
+wd:Q36460446 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/August 10, 2017"@en .
+
+wd:Q36460491 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/August 14, 2017"@en .
+
+wd:Q36460529 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/August 15, 2017"@en .
+
+wd:Q36460555 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/August 16, 2017"@en .
+
+wd:Q36773070 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Short URL"@en .
+
+wd:Q36793270 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Writing about women"@en .
+
+wd:Q36811601 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Translation task force/RTT/Simple AAA"@en .
+
+wd:Q36815496 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Translation task force/RTT/Simple Acetazolamide"@en .
+
+wd:Q37002945 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Why use Wikipedia"@en .
+
+wd:Q37009532 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Translation task force/RTT/Simple Activated charcoal"@en .
+
+wd:Q37014128 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Translation task force/RTT/Simple acute bronchitis"@en .
+
+wd:Q37023785 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Translation task force/RTT/Simple albendazole"@en .
+
+wd:Q37025308 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Translation task force/RTT/Simple Amikacin"@en .
+
+wd:Q37026568 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Translation task force/RTT/Simple Amiloride"@en .
+
+wd:Q37102702 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Request an account/WelcomeHeader"@en .
+
+wd:Q37139311 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Translation task force/RTT/Simple Arsenic poisoning"@en .
+
+wd:Q37182393 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Translation task force/RTT/Simple Anterior cruciate ligament injury"@en .
+
+wd:Q37276725 a wd:Q11028 ;
+    rdfs:label "Tätorter 2015; befolkning 2010–2018, landareal, andel som överlappas av fritidshusområden"@en .
+
+wd:Q37284583 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Translation task force/RTT/Simple Aspiration pneumonia"@en .
+
+wd:Q37426503 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Translation task force/RTT/Simple bubonic plague"@en .
+
+wd:Q37484145 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Council/Proposals/Navbox"@en .
+
+wd:Q37604936 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Council/Directory/Geographical/Asia"@en .
+
+wd:Q37607550 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Council/Directory/Geographical/Europe"@en .
+
+wd:Q37621908 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Council/Directory/Culture/Sports"@en .
+
+wd:Q37631588 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tutorial/Formatting/sandbox"@en .
+
+wd:Q37636982 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Userboxes/Location/Malaysia"@en .
+
+wd:Q37638626 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Translation task force/RTT/Simple atopic dermatitis"@en .
+
+wd:Q37687262 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Userboxes/Location/Singapore"@en .
+
+wd:Q37729502 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Translation task force/RTT/Simple Compartment syndrome"@en .
+
+wd:Q37796224 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikimedia Strategy 2017/Cycle 2"@en .
+
+wd:Q37796248 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikimedia Strategy 2017/Cycle 2/The Augmented Age"@en .
+
+wd:Q37796949 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikimedia Strategy 2017/Cycle 2/A Truly Global Movement"@en .
+
+wd:Q37796979 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikimedia Strategy 2017/Cycle 2/The Most Respected Source of Knowledge"@en .
+
+wd:Q37797000 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikimedia Strategy 2017/Cycle 2/Engaging in the Knowledge Ecosystem"@en .
+
+wd:Q37797059 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikimedia Strategy 2017/Cycle 3"@en .
+
+wd:Q379363 a wd:Q12139612 ;
+    rdfs:label "list of Visigothic Kings"@en .
+
+wd:Q37985332 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Upload/old"@en .
+
+wd:Q38074555 a wd:Q17442446 ;
+    rdfs:label "QID milestone"@en .
+
+wd:Q38128947 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Women in Red/Meetup/54"@en .
+
+wd:Q38128968 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Women in Red/Meetup/55"@en .
+
+wd:Q38129033 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Women in Red/Meetup/56"@en .
+
+wd:Q38172272 a wd:Q17442446 ;
+    rdfs:label "ئسذهسهذ"@en .
+
+wd:Q38258000 a wd:Q12139612 ;
+    rdfs:label "IOC World Bird List Version 7.3"@en .
+
+wd:Q3833781 a wd:Q12139612 ;
+    rdfs:label "Rolling Stone's 100 Greatest Artists of All Time"@en .
+
+wd:Q38482784 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject LGBT studies/Navigation"@en .
+
+wd:Q38486009 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject LGBT studies/Members"@en .
+
+wd:Q385152 a wd:Q12139612 ;
+    rdfs:label "12 points of the Hungarian Revolutionaries of 1848"@en .
+
+wd:Q3866451 a wd:Q28813620 ;
+    rdfs:label "D'Annunzian mottoes"@en .
+
+wd:Q39006956 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tutorial/Citing sources/sandbox"@en .
+
+wd:Q39042686 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Overlink crisis"@en .
+
+wd:Q39074879 a wd:Q12139612 ;
+    rdfs:label "Vital records of the Belgian Royal Family"@en .
+
+wd:Q39086802 a wd:Q12139612 ;
+    rdfs:label "Bloomberg Billionaires Index"@en .
+
+wd:Q39229797 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Colour contrast"@en .
+
+wd:Q39502014 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Bots/Requests for approval/Adminbots"@en .
+
+wd:Q3972168 a wd:Q12139612 ;
+    rdfs:label "Q3972168"^^xsd:string .
+
+wd:Q3972177 a wd:Q12139612 ;
+    rdfs:label "Q3972177"^^xsd:string .
+
+wd:Q3972178 a wd:Q12139612 ;
+    rdfs:label "Q3972178"^^xsd:string .
+
+wd:Q3976887 a wd:Q12139612 ;
+    rdfs:label "Sultans of Delhi"@en .
+
+wd:Q40026169 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wiki Loves Monuments Pakistan - Rules"@en .
+
+wd:Q40318605 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Women in Red/Resources"@en .
+
+wd:Q4090871 a wd:Q12139612 ;
+    rdfs:label "Q4090871"^^xsd:string .
+
+wd:Q4090872 a wd:Q12139612 ;
+    rdfs:label "Q4090872"^^xsd:string .
+
+wd:Q4110417 a wd:Q12139612 ;
+    rdfs:label "Ben Yehuda Street bombings"@en .
+
+wd:Q41293960 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Why was the image I uploaded moved to Wikimedia Commons?"@en .
+
+wd:Q4129814 a wd:Q12139612 ;
+    rdfs:label "Q4129814"^^xsd:string .
+
+wd:Q41544314 a wd:Q17442446 ;
+    rdfs:label "New filters for edit review"@en .
+
+wd:Q4162086 a wd:Q12139612 ;
+    rdfs:label "Q4162086"^^xsd:string .
+
+wd:Q41629837 a wd:Q12139612 ;
+    rdfs:label "Q41629837"^^xsd:string .
+
+wd:Q41724591 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Issues"@en .
+
+wd:Q41759496 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Indonesia/NavigationBar"@en .
+
+wd:Q41760407 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Indonesia/Members"@en .
+
+wd:Q41774951 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Video games/New article announcements"@en .
+
+wd:Q4179323 a wd:Q12139612 ;
+    rdfs:label "Q4179323"^^xsd:string .
+
+wd:Q41799298 a wd:Q17442446 ;
+    rdfs:label "Rentals - Test"@en .
+
+wd:Q41804485 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Translation task force/RTT/Simple Hair loss"@en .
+
+wd:Q41884034 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Translation task force/RTT/Simple Clavicle fracture"@en .
+
+wd:Q42133674 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sham consensus"@en .
+
+wd:Q42137526 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:False consensus"@en .
+
+wd:Q42148922 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Meetup/Seoul/1"@en .
+
+wd:Q42165065 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Masanjia Labor Camp"@en .
+
+wd:Q4228266 a wd:Q12139612 ;
+    rdfs:label "Q4228266"^^xsd:string .
+
+wd:Q42296007 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Special:Random"@en .
+
+wd:Q42298261 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wiki Loves Food"@en .
+
+wd:Q42299253 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Translating German Wikipedia"@en .
+
+wd:Q42302060 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Arguments to avoid on discussion pages"@en .
+
+wd:Q42302585 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Requests for checkuser/Indicators"@en .
+
+wd:Q42306717 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Cascade-protected items/Main Page"@en .
+
+wd:Q42328689 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Main Page history/2017 October 15"@en .
+
+wd:Q423862 a wd:Q4167410 .
+
+wd:Q42390495 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Out of scope"@en .
+
+wd:Q42413813 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Featured topics/Norid"@en .
+
+wd:Q42501043 a wd:Q11028 ;
+    rdfs:label "District Census Handbook of Andhra Pradesh and Telangana"@en .
+
+wd:Q42583899 a wd:Q11028 ;
+    rdfs:label "Q42583899"^^xsd:string .
+
+wd:Q42593483 a wd:Q12139612 ;
+    rdfs:label "stained glass windows of Église Sainte-Foy (Conches-en-Ouche)"@en .
+
+wd:Q42684771 a wd:Q11028 ;
+    rdfs:label "burial record"@en .
+
+wd:Q42849656 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoHotkey"@en .
+
+wd:Q42853911 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Bot Approvals Group/Guide"@en .
+
+wd:Q42860305 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wiki Science Competition 2017 in the United States"@en .
+
+wd:Q42915147 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:FAQ/Template"@en .
+
+wd:Q430397 a wd:Q12139612 ;
+    rdfs:label "Artists in biographies by Giovanni Baglione"@en .
+
+wd:Q432445 a wd:Q12139612 ;
+    rdfs:label "list of Ostrogothic kings"@en .
+
+wd:Q43269466 a wd:Q11028 ;
+    rdfs:label "International Best Track Archive for Climate Stewardship"@en .
+
+wd:Q43301277 a wd:Q12139612 ;
+    rdfs:label "The British list"@en .
+
+wd:Q43301753 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Shiwam Kumar Sriwastaw"@en .
+
+wd:Q43325402 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Categorising fiction"@en .
+
+wd:Q43326005 a wd:Q12139612 ;
+    rdfs:label "the Scottish List"@en .
+
+wd:Q43370064 a wd:Q12139612 ;
+    rdfs:label "the Welsh bird list"@en .
+
+wd:Q43388449 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Files for upload/Wizard/Preload/Attribution"@en .
+
+wd:Q43495841 a wd:Q621184 ;
+    rdfs:label "Black Pete discussion"@en .
+
+wd:Q43581014 a wd:Q12139612 ;
+    rdfs:label "Q43581014"^^xsd:string .
+
+wd:Q43681468 a wd:Q12139612 ;
+    rdfs:label "Q43681468"^^xsd:string .
+
+wd:Q43725005 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Ignoring all rules – a beginner's guide"@en .
+
+wd:Q4376219 a wd:Q12139612 ;
+    rdfs:label "Q4376219"^^xsd:string .
+
+wd:Q4392853 a wd:Q12139612 ;
+    rdfs:label "Q4392853"^^xsd:string .
+
+wd:Q44039316 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/May 2007"@en .
+
+wd:Q44040027 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/August 2004"@en .
+
+wd:Q44040112 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/September 2004"@en .
+
+wd:Q44040197 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/October 2004"@en .
+
+wd:Q44040225 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/November 2004"@en .
+
+wd:Q44040265 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/December 2004"@en .
+
+wd:Q44047051 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/March 2006"@en .
+
+wd:Q44179934 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Example cruft"@en .
+
+wd:Q44498034 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Userboxes/Comedy"@en .
+
+wd:Q44591650 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Feminism/Scope"@en .
+
+wd:Q44591735 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Feminism/Intro"@en .
+
+wd:Q44591930 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Feminism/Members"@en .
+
+wd:Q44592057 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Feminism/Tabs"@en .
+
+wd:Q44661972 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Oluwa2Chainz"@en .
+
+wd:Q44775601 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Feminism/Current status of articles"@en .
+
+wd:Q4481771 a wd:Q11028 ;
+    rdfs:label "Federal Law of the Russian Federation"@en .
+
+wd:Q45147242 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/April 2018"@en .
+
+wd:Q45147317 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/July 2018"@en .
+
+wd:Q45147360 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/October 2018"@en .
+
+wd:Q45147452 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/May 2018"@en .
+
+wd:Q45147477 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/June 2018"@en .
+
+wd:Q45147505 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/July 2018"@en .
+
+wd:Q45147528 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/August 2018"@en .
+
+wd:Q45147548 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/September 2018"@en .
+
+wd:Q45147583 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/October 2018"@en .
+
+wd:Q45147615 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/November 2018"@en .
+
+wd:Q45147647 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/December 2018"@en .
+
+wd:Q45199204 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Disruption not considered cool"@en .
+
+wd:Q45316802 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Fouadadan"@en .
+
+wd:Q45347485 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Archaeology/Women in archaeology task force"@en .
+
+wd:Q45362532 a wd:Q12139612 ;
+    rdfs:label "ICTV Master Species List"@en .
+
+wd:Q45722916 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Portal/Directory/TOC"@en .
+
+wd:Q46154697 a wd:Q17442446 ;
+    rdfs:label "CitationHunt"@en .
+
+wd:Q46371164 a wd:Q12139612 ;
+    rdfs:label "FSF-endorsed operating systems"@en .
+
+wd:Q46432535 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Administrators' newsletter"@en .
+
+wd:Q4656800 a wd:Q17442446 ;
+    rdfs:label "Project:RevisionDelete"@en .
+
+wd:Q4664077 a wd:Q17442446 ;
+    rdfs:label "Wikimedia:Username policy"@en .
+
+wd:Q46722262 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Chemistry/Materials"@en .
+
+wd:Q46758243 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia clones"@en .
+
+wd:Q46871887 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Automated taxobox system/advanced taxonomy"@en .
+
+wd:Q46896143 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Official names"@en .
+
+wd:Q47001602 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Open Textbook of Medicine2"@en .
+
+wd:Q47001647 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Requested articles/Business and economics"@en .
+
+wd:Q47002819 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Run-of-the-mill"@en .
+
+wd:Q47008864 a wd:Q16686448 ;
+    rdfs:label "Space Electronic Firenze"@en .
+
+wd:Q47009414 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Video games/Featured content"@en .
+
+wd:Q47013094 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Proposed deletion of biographies of living people"@en .
+
+wd:Q47038253 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/JaySmith2018"@en .
+
+wd:Q47041174 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Women in Red/Meetup/64"@en .
+
+wd:Q47068145 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Hinduism/Templates"@en .
+
+wd:Q47074412 a wd:Q17442446 ;
+    rdfs:label "Project:Content removal"@en .
+
+wd:Q47091460 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Australia/Participants"@en .
+
+wd:Q47091464 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Australia/Tab header/Tab"@en .
+
+wd:Q47091469 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Australia/Tab header"@en .
+
+wd:Q47091480 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Australia/Tab header/Spacer"@en .
+
+wd:Q47178438 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Featured articles promoted in 2017"@en .
+
+wd:Q47267210 a wd:Q12139612 ;
+    rdfs:label "mummies of Saint-Michel's crypt in Bordeaux"@en .
+
+wd:Q47315967 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Formula One/Task template"@en .
+
+wd:Q47450563 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Translation/*/Lang/ja"@en .
+
+wd:Q47459317 a wd:Q12139612 ;
+    rdfs:label "List of Property Removed from France during the War, 1939-1945"@en .
+
+wd:Q47471756 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Password strength requirements"@en .
+
+wd:Q47488514 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured list/2018"@en .
+
+wd:Q47496056 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articlecountitis"@en .
+
+wd:Q47498886 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Formula One/Tables"@en .
+
+wd:Q47500487 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Supervised editing proposal"@en .
+
+wd:Q47505051 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject China/Participants"@en .
+
+wd:Q47512570 a wd:Q17442446 ;
+    rdfs:label "pages about Wikipedia's main page"@en .
+
+wd:Q47513714 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Miscellany for deletion"@en .
+
+wd:Q47513715 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/current"@en .
+
+wd:Q47514409 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Science/Tabbed header"@en .
+
+wd:Q47536579 a wd:Q12139612 ;
+    rdfs:label "Q47536579"^^xsd:string .
+
+wd:Q47539126 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Database reports/Broken section anchors"@en .
+
+wd:Q47542432 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Lists of common misspellings/Z"@en .
+
+wd:Q47600150 a wd:Q12139612 ;
+    rdfs:label "list of districts of Isfahan Province"@en .
+
+wd:Q476568 a wd:Q12139612 ;
+    rdfs:label "Appendix Probi"@en .
+
+wd:Q47752977 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject LGBT studies/Missing biographies of LGBQ people"@en .
+
+wd:Q47859250 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article oddities"@en .
+
+wd:Q4795678 a wd:Q12139612 ;
+    rdfs:label "Q4795678"^^xsd:string .
+
+wd:Q47969411 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:File copyright tags/Deprecated"@en .
+
+wd:Q48067413 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Adding open license text to Wikipedia"@en .
+
+wd:Q48148 a wd:Q12139612 ;
+    rdfs:label "AFI's 100 Years of Musicals"@en .
+
+wd:Q481644 a wd:Q12139612 ;
+    rdfs:label "Abydos King List"@en .
+
+wd:Q48174179 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Editing the interface"@en .
+
+wd:Q48229095 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Protected titles/Historical"@en .
+
+wd:Q485267 a wd:Q12139612 ;
+    rdfs:label "Basic Hanja for educational use"@en .
+
+wd:Q48544064 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:If you lie down with dogs, you get up with fleas"@en .
+
+wd:Q48554447 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:List of sound files/C"@en .
+
+wd:Q48559401 a wd:Q12139612 ;
+    rdfs:label "Art dealers involved in wartime trading in looted art in France"@en .
+
+wd:Q48601328 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/Feedback/Preload"@en .
+
+wd:Q4863368 a wd:Q12139612 ;
+    rdfs:label "Q4863368"^^xsd:string .
+
+wd:Q48702858 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/Message 1"@en .
+
+wd:Q48751480 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/1/Bio"@en .
+
+wd:Q48751837 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/Background/4"@en .
+
+wd:Q48755413 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/1/Bio/2"@en .
+
+wd:Q48755462 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/1/Bio/1"@en .
+
+wd:Q48756330 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/1/Bio/3"@en .
+
+wd:Q48756631 a wd:Q12139612 ;
+    rdfs:label "Q48756631"^^xsd:string .
+
+wd:Q48758930 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/Navigation2"@en .
+
+wd:Q48761314 a wd:Q11028 ;
+    rdfs:label "Swedish Census 1910"@en .
+
+wd:Q48767557 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/Earth/cleanup"@en .
+
+wd:Q48768249 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/Background/7"@en .
+
+wd:Q48769402 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/Badge/3"@en .
+
+wd:Q48769548 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/Badge/3template"@en .
+
+wd:Q48769650 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/Badge/3template2"@en .
+
+wd:Q48771237 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/People/Content"@en .
+
+wd:Q48771259 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/People"@en .
+
+wd:Q48771761 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Requested articles/Arts and entertainment/Literature"@en .
+
+wd:Q48783127 a wd:Q17442446 ;
+    rdfs:label "quarterly summary"@en .
+
+wd:Q48789746 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/1/Userpage"@en .
+
+wd:Q48940574 a wd:Q12139612 ;
+    rdfs:label "Q48940574"^^xsd:string .
+
+wd:Q48967546 a wd:Q12139612 ;
+    rdfs:label "Fasti Potentini"@en .
+
+wd:Q48975836 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Adding images improves the encyclopedia"@en .
+
+wd:Q489772 a wd:Q12139612 ;
+    rdfs:label "Seven Wonders of the Ancient World"@en .
+
+wd:Q49096066 a wd:Q12139612 ;
+    rdfs:label "Q49096066"^^xsd:string .
+
+wd:Q4914887 a wd:Q12139612 ;
+    rdfs:label "Biography Index"@en .
+
+wd:Q49213654 a wd:Q11028 ;
+    rdfs:label "Swedish Census 1880"@en .
+
+wd:Q49370695 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Article wizard"@en .
+
+wd:Q49434032 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Iceland/leftpanel"@en .
+
+wd:Q49434173 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Iceland/rightpanel"@en .
+
+wd:Q494756 a wd:Q11028 ;
+    rdfs:label "data"@en .
+
+wd:Q49849270 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:COinS"@en .
+
+wd:Q50212882 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Project Tiger Writing Contest/Participants"@en .
+
+wd:Q50282261 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Office actions/procedures"@en .
+
+wd:Q50378824 a wd:Q12139612 ;
+    rdfs:label "List of historical regions of Europe"@en .
+
+wd:Q50798414 a wd:Q11028 ;
+    rdfs:label "Swedish Census 1930"@en .
+
+wd:Q510325 a wd:Q12139612 ;
+    rdfs:label "Honour Roll of the Fallen 1940-1945"@en .
+
+wd:Q51072652 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Avoiding scruitiny"@en .
+
+wd:Q51072675 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Bad Idea Machine"@en .
+
+wd:Q51072752 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Blockhammer Intervention Against Editors You Don't Like"@en .
+
+wd:Q51072793 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Too many boxes"@en .
+
+wd:Q51072830 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Break all rules"@en .
+
+wd:Q51072845 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:But I waaaant a pony!"@en .
+
+wd:Q51072852 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Can we help you?"@en .
+
+wd:Q51072867 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Big Book of RfA Compliments"@en .
+
+wd:Q51072875 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Best of BJAODN"@en .
+
+wd:Q51072896 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Don't give the developers ideas"@en .
+
+wd:Q51072906 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Don't just ignore the process"@en .
+
+wd:Q51072917 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Does Wikipedia have too many polls? poll"@en .
+
+wd:Q51072930 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Donation appeal ideas"@en .
+
+wd:Q51072935 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Drinking game"@en .
+
+wd:Q51072944 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Dweller's Sri Lankan cricket team test"@en .
+
+wd:Q51072954 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Editing through links"@en .
+
+wd:Q51072961 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Editing Under the Influence"@en .
+
+wd:Q51072970 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Edits Per Day"@en .
+
+wd:Q51072982 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Editsummarisis"@en .
+
+wd:Q51072990 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Eguor admins"@en .
+
+wd:Q51073008 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Extreme article inclusion"@en .
+
+wd:Q51073012 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Facial hair is required for administratorship"@en .
+
+wd:Q51073026 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Featured Article Candidates for Deletion"@en .
+
+wd:Q51073140 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Heresy"@en .
+
+wd:Q51073141 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Haiku about Wikipedia policy"@en .
+
+wd:Q51073142 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Gorillas consuming gerbils"@en .
+
+wd:Q51073143 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Go, go, go!"@en .
+
+wd:Q51073145 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Follow all rules"@en .
+
+wd:Q51073146 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Floofypoo"@en .
+
+wd:Q51073148 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Featured redirects"@en .
+
+wd:Q51073160 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:God: Valuable Wikipedian, or disruptive editor with a history of sockpuppetry?"@en .
+
+wd:Q51073258 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Knights of NPOV"@en .
+
+wd:Q51073259 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Jimbo's beard"@en .
+
+wd:Q51073260 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Irregular verbs on Wikipedia"@en .
+
+wd:Q51073262 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Ignore common sense"@en .
+
+wd:Q51073264 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:If you're anxious for to shine"@en .
+
+wd:Q51073265 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Huge message boxes"@en .
+
+wd:Q51073266 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:I don't agree with that"@en .
+
+wd:Q51073329 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:How to Ban a POV You Dislike, in 9 Easy Steps"@en .
+
+wd:Q51098493 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Article half-life"@en .
+
+wd:Q51144501 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Long-term abuse/Joseph kargbo"@en .
+
+wd:Q51145471 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/N R Pavan Kumar"@en .
+
+wd:Q51219554 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Former administrators/reason/vanished"@en .
+
+wd:Q51248882 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/My Royal Young"@en .
+
+wd:Q51259957 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:But I'm an Administrator!"@en .
+
+wd:Q51282168 a wd:Q11028 ;
+    rdfs:label "Q51282168"^^xsd:string .
+
+wd:Q51332385 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Avoided"@en .
+
+wd:Q51346310 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia Signpost/Newsroom/Style"@en .
+
+wd:Q51409177 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Interviews"@en .
+
+wd:Q51410141 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiRabbit"@en .
+
+wd:Q51429185 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia Signpost/Newsroom/Tasks/Set"@en .
+
+wd:Q51442755 a wd:Q11028 ;
+    rdfs:label "Q51442755"^^xsd:string .
+
+wd:Q51460080 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Yes/old version"@en .
+
+wd:Q51486280 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia Signpost/Newsroom/Tasks/Task"@en .
+
+wd:Q51637954 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Advanced template coding"@en .
+
+wd:Q51676417 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Public Art/Tab header/Spacer"@en .
+
+wd:Q51676443 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Public Art/Tab header"@en .
+
+wd:Q51676465 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Public Art/Tab header/Tab"@en .
+
+wd:Q51773641 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Article wizard/Referencing"@en .
+
+wd:Q51773945 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Article wizard/CreateDraft"@en .
+
+wd:Q51773958 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Article wizard/CommonMistakes"@en .
+
+wd:Q51786672 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Article wizard/HowToDisclose"@en .
+
+wd:Q51786735 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Article wizard/COIEditingGuidelines"@en .
+
+wd:Q51796078 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Cleanup/Information sidebar"@en .
+
+wd:Q51817680 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:How to be civil"@en .
+
+wd:Q51819834 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Duty"@en .
+
+wd:Q5183781 a wd:Q11028 ;
+    rdfs:label "Credit reference"@en .
+
+wd:Q51845039 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Don't be a WikiBigot"@en .
+
+wd:Q51884026 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Wikinger"@en .
+
+wd:Q51885350 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:GLAM/Amnesty International/Biography Template"@en .
+
+wd:Q51940237 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Meetup/Kedah 1"@en .
+
+wd:Q51983648 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:The Wikipedia Library/Citoid"@en .
+
+wd:Q52084517 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Project Tiger Writing Contest/Navbar"@en .
+
+wd:Q52084564 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/MC Primo (2nd nomination)"@en .
+
+wd:Q52147771 a wd:Q11028 ;
+    rdfs:label "Ontario public library statistics"@en .
+
+wd:Q52148422 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:It should be noted"@en .
+
+wd:Q52152607 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Survey disclaimer"@en .
+
+wd:Q52152661 a wd:Q11028 ;
+    rdfs:label "Annuaire diplomatique et consulaire de la République française"@en .
+
+wd:Q52161537 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Banner standardisation"@en .
+
+wd:Q52164190 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Online Ambassadors/Mentors"@en .
+
+wd:Q52223763 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:RFA by month"@en .
+
+wd:Q52226743 a wd:Q12139612 ;
+    rdfs:label "Q52226743"^^xsd:string .
+
+wd:Q52241002 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Village pump (proposals)/RfC: Ending the system of portals"@en .
+
+wd:Q52325483 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Administrators' guide/Tools"@en .
+
+wd:Q52520101 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Make protection requests sparingly"@en .
+
+wd:Q52553137 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Reader's index to Wikipedia"@en .
+
+wd:Q52585958 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Featured topics/The Last of Us"@en .
+
+wd:Q52612019 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:GFDL"@en .
+
+wd:Q52686744 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Auwall"@en .
+
+wd:Q52701999 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Dossier Riolândia"@en .
+
+wd:Q52765929 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Proposed deletion (books)"@en .
+
+wd:Q52776355 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Journal sources"@en .
+
+wd:Q5288902 a wd:Q12139612 ;
+    rdfs:label "Dolch word list"@en .
+
+wd:Q5288989 a wd:Q12139612 ;
+    rdfs:label "Dolgopolsky list"@en .
+
+wd:Q52936066 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Get over it"@en .
+
+wd:Q5296 a wd:Q17442446 ;
+    rdfs:label "Wikimedia main page"@en .
+
+wd:Q53141097 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/core.js"@en .
+
+wd:Q53141260 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/dashes.js"@en .
+
+wd:Q53142297 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/extrabreaks.js"@en .
+
+wd:Q53142445 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/formatter.js"@en .
+
+wd:Q53142777 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/headlines.js"@en .
+
+wd:Q53142910 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/htmltowikitext.js"@en .
+
+wd:Q53143014 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/isbn.js"@en .
+
+wd:Q53143108 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/links.js"@en .
+
+wd:Q53143182 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/tablestowikitext.js"@en .
+
+wd:Q53143374 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/unicodecontrolchars.js"@en .
+
+wd:Q53143460 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/unicodehex.js"@en .
+
+wd:Q53143692 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/unicodify.js"@en .
+
+wd:Q53143931 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/whitespace.js"@en .
+
+wd:Q53144167 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/wikichecker.js"@en .
+
+wd:Q53144293 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/wikilinks.js"@en .
+
+wd:Q53144410 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/fullwidth.js"@en .
+
+wd:Q53144529 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/basic.js"@en .
+
+wd:Q53144660 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/complete.js"@en .
+
+wd:Q53150222 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:AutoEd/Userbox"@en .
+
+wd:Q53190585 a wd:Q11028 ;
+    rdfs:label "Q53190585"^^xsd:string .
+
+wd:Q53286499 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Igloo/gloo.js"@en .
+
+wd:Q53289396 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Igloo/run"@en .
+
+wd:Q53294297 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Igloo/config"@en .
+
+wd:Q53294999 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Igloo/install"@en .
+
+wd:Q53295859 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Igloo/setup"@en .
+
+wd:Q53295996 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Igloo/version"@en .
+
+wd:Q53297882 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Igloo/help"@en .
+
+wd:Q53298901 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Igloo"@en .
+
+wd:Q53409818 a wd:Q17442446 ;
+    rdfs:label "MediaWiki action API"@en .
+
+wd:Q53438693 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/2/End"@en .
+
+wd:Q53440548 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:TWA/2/Will"@en .
+
+wd:Q53469981 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Thought They Were One Already"@en .
+
+wd:Q5349029 a wd:Q12139612 ;
+    rdfs:label "Eight Views of Taiwan"@en .
+
+wd:Q53503253 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Michelemassa595959"@en .
+
+wd:Q53569537 a wd:Q17442446 ;
+    rdfs:label "placeholder for <somevalue>"@en .
+
+wd:Q53673491 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Spain/Sidebar"@en .
+
+wd:Q53678005 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Spain/Members"@en .
+
+wd:Q5374667 a wd:Q12139612 ;
+    rdfs:label "Empress of Chen Dynasty"@en .
+
+wd:Q53885709 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Article of the week"@en .
+
+wd:Q53921848 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:GLAM/Contribute"@en .
+
+wd:Q5424599 a wd:Q12139612 ;
+    rdfs:label "FBI Ten Most Wanted Fugitives, 1970s"@en .
+
+wd:Q5424617 a wd:Q12139612 ;
+    rdfs:label "FBI Ten Most Wanted Fugitives by year, 1958"@en .
+
+wd:Q5424619 a wd:Q12139612 ;
+    rdfs:label "FBI Ten Most Wanted Fugitives by year, 1957"@en .
+
+wd:Q54261547 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:GLAM/Bookshelf"@en .
+
+wd:Q54337717 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Requested articles/Sports/Estonian sportspeople"@en .
+
+wd:Q54476454 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia on TV and radio"@en .
+
+wd:Q54515636 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Admin Accountability Alliance"@en .
+
+wd:Q54633828 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wiki Loves Pride/2018"@en .
+
+wd:Q54677937 a wd:Q12139612 ;
+    rdfs:label "Q54677937"^^xsd:string .
+
+wd:Q5470350 a wd:Q28813620 ;
+    rdfs:label "formulas for generating Pythagorean triples"@en .
+
+wd:Q54801142 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Libraries/userbox"@en .
+
+wd:Q54801148 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Libraries/Tabs"@en .
+
+wd:Q54801150 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Libraries/Members"@en .
+
+wd:Q54810391 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Userboxes/Internet"@en .
+
+wd:Q54811106 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Fringe theories/Noticeboard"@en .
+
+wd:Q54812255 a wd:Q12139612 ;
+    rdfs:label "Q54812255"^^xsd:string .
+
+wd:Q54824328 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:The roast duck test"@en .
+
+wd:Q54824751 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:GLAM/PoliMi"@en .
+
+wd:Q54833830 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Cherrypicking"@en .
+
+wd:Q54834066 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Suman Kumar Mallick"@en .
+
+wd:Q54834371 a wd:Q17442446 ;
+    rdfs:label "Q54834371"^^xsd:string .
+
+wd:Q54854838 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:No amount of editing can overcome a lack of notability"@en .
+
+wd:Q54857804 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Reference works"@en .
+
+wd:Q54868209 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Database reports/Orphaned talk pages"@en .
+
+wd:Q54868233 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Database reports/Fully protected articles with unusually long expiries"@en .
+
+wd:Q54875088 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia can wait"@en .
+
+wd:Q54880033 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Biography/Assessment"@en .
+
+wd:Q54911104 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:GLAM/Connect"@en .
+
+wd:Q54938179 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Libraries/Introduction"@en .
+
+wd:Q54943328 a wd:Q15474042 ;
+    rdfs:label "Project:Support desk/Sections/Miscellaneous"@en .
+
+wd:Q54966078 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Political parties and politicians in Canada/list of parties"@en .
+
+wd:Q55075419 a wd:Q12139612 ;
+    rdfs:label "List of historic properties in Tucson, Arizona"@en .
+
+wd:Q55110816 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/YuRi YuZi"@en .
+
+wd:Q55138191 a wd:Q12139612 ;
+    rdfs:label "List of streets in Edmonton"@en .
+
+wd:Q55223589 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Fruit of the poisonous tree"@en .
+
+wd:Q55229795 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Asmiov's prophecy"@en .
+
+wd:Q55238566 a wd:Q17442446 ;
+    rdfs:label "Women rock 2018"@en .
+
+wd:Q55238573 a wd:Q17442446 ;
+    rdfs:label "Women of the 20th Century 2018"@en .
+
+wd:Q55238580 a wd:Q17442446 ;
+    rdfs:label "Women from Sub-Saharan Africa 2018"@en .
+
+wd:Q55238582 a wd:Q17442446 ;
+    rdfs:label "Women in Film and Stage 2018"@en .
+
+wd:Q5532184 a wd:Q12139612 ;
+    rdfs:label "General Service List"@en .
+
+wd:Q55408973 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Don't be a fanatic"@en .
+
+wd:Q55475989 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject WikiFundi Content/WikiFundi:Resources"@en .
+
+wd:Q55502741 a wd:Q12139612 ;
+    rdfs:label "Table of Jōyō kanji"@en .
+
+wd:Q55519327 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Log/Today"@en .
+
+wd:Q55535161 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:On this day/Tomorrow"@en .
+
+wd:Q55538892 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Selected anniversaries/All"@en .
+
+wd:Q55560743 a wd:Q17442446 ;
+    rdfs:label "placeholder 1"@en .
+
+wd:Q55560744 a wd:Q17442446 ;
+    rdfs:label "placeholder 2"@en .
+
+wd:Q55598277 a wd:Q12139612 ;
+    rdfs:label "Q55598277"^^xsd:string .
+
+wd:Q55710286 a wd:Q12139612 ;
+    rdfs:label "Enemy and Collaborationist Personnel Involved in Art Looting Recommended for Exclusion  from the United States"@en .
+
+wd:Q55715515 a wd:Q11028 ;
+    rdfs:label "EN 10088"@en .
+
+wd:Q55718150 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Biography/Members"@en .
+
+wd:Q5571820 a wd:Q12139612 ;
+    rdfs:label "Glossary of geology"@en .
+
+wd:Q55725848 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Mike dichen"@en .
+
+wd:Q55766303 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Medicine/Navigation"@en .
+
+wd:Q55771092 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/July 27"@en .
+
+wd:Q55778926 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/July 28"@en .
+
+wd:Q55807657 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/July 29"@en .
+
+wd:Q55807750 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/July"@en .
+
+wd:Q55816364 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/July 30"@en .
+
+wd:Q55823083 a wd:Q12139612 ;
+    rdfs:label "Society Open Access Research (SOAR) Catalog"@en .
+
+wd:Q558274 a wd:Q12139612 ;
+    rdfs:label "Gottbegnadeten list"@en .
+
+wd:Q55837101 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Articles for creation/tabs"@en .
+
+wd:Q55845853 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/July 31"@en .
+
+wd:Q55861231 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/August 1"@en .
+
+wd:Q55876563 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/August 2"@en .
+
+wd:Q55935849 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/August 3"@en .
+
+wd:Q55936376 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/WhenDatHotlineBling"@en .
+
+wd:Q55966319 a wd:Q12139612 ;
+    rdfs:label "list of singles taken from The Kick Inside"@en .
+
+wd:Q55966356 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/August 5"@en .
+
+wd:Q55966364 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/August"@en .
+
+wd:Q55970839 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:RefToolbar/2.0"@en .
+
+wd:Q55978580 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Database reports/Unused templates"@en .
+
+wd:Q55984190 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/August 6"@en .
+
+wd:Q55995280 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Selected anniversaries/doc"@en .
+
+wd:Q56008999 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/August 7"@en .
+
+wd:Q56011377 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Chemistry/Offline"@en .
+
+wd:Q56034081 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/August 9"@en .
+
+wd:Q56043020 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/August 10"@en .
+
+wd:Q56062432 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/August 12"@en .
+
+wd:Q56065900 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Video games/Newsletter/Issue"@en .
+
+wd:Q56071595 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/2019"@en .
+
+wd:Q56071597 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Today's featured article/2020"@en .
+
+wd:Q56072915 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Video games/Newsletter"@en .
+
+wd:Q56088264 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Portal guidelines/Categorizing"@en .
+
+wd:Q56099520 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Featured topics/header"@en .
+
+wd:Q56116667 a wd:Q17442446 ;
+    rdfs:label "Glossary for jawiki Projects"@en .
+
+wd:Q56119730 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/August 16"@en .
+
+wd:Q56145673 a wd:Q12139612 ;
+    rdfs:label "Table of hanja for personal names"@en .
+
+wd:Q56153237 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Architecture/Assessment"@en .
+
+wd:Q56192478 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Good topics/header"@en .
+
+wd:Q56194795 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Simplified Manual of Style"@en .
+
+wd:Q56216090 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Russia/requested articles"@en .
+
+wd:Q56216185 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Buddhism/Requested articles"@en .
+
+wd:Q56217219 a wd:Q12139612 ;
+    rdfs:label "Q56217219"^^xsd:string .
+
+wd:Q56219066 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Cycling/leftpanel"@en .
+
+wd:Q56229121 a wd:Q15474042 ;
+    rdfs:label "Open Access Journal Business Models (Open Access Directory)"@en .
+
+wd:Q56229148 a wd:Q15474042 ;
+    rdfs:label "Disciplinary Repositories (Open Access Directory)"@en .
+
+wd:Q56229190 a wd:Q15474042 ;
+    rdfs:label "Guides for Open Access Journal Publishers (Open Access Directory)"@en .
+
+wd:Q56229198 a wd:Q15474042 ;
+    rdfs:label "Timeline of the Open Access Movement (Open Access Directory)"@en .
+
+wd:Q56229205 a wd:Q15474042 ;
+    rdfs:label "Advocacy Organizations for Open Access (Open Access Directory)"@en .
+
+wd:Q56229222 a wd:Q15474042 ;
+    rdfs:label "Journal Declarations of Independence (Open Access Directory)"@en .
+
+wd:Q56229236 a wd:Q15474042 ;
+    rdfs:label "Publishers of Open Access Books (Open Access Directory)"@en .
+
+wd:Q56229322 a wd:Q15474042 ;
+    rdfs:label "Early Open Access Journals (Open Access Directory)"@en .
+
+wd:Q56229342 a wd:Q15474042 ;
+    rdfs:label "Open Access Book Business Models (Open Access Directory)"@en .
+
+wd:Q56229362 a wd:Q15474042 ;
+    rdfs:label "Blogs about Open Access (Open Access Directory)"@en .
+
+wd:Q56229396 a wd:Q15474042 ;
+    rdfs:label "FAQs about Open Access (Open Access Directory)"@en .
+
+wd:Q56229420 a wd:Q15474042 ;
+    rdfs:label "Journals that Converted from Toll Access to Open Access (Open Access Directory)"@en .
+
+wd:Q56229435 a wd:Q15474042 ;
+    rdfs:label "Audio about Open Access (Open Access Directory)"@en .
+
+wd:Q56229448 a wd:Q15474042 ;
+    rdfs:label "Declarations in Support of Open Access (Open Access Directory)"@en .
+
+wd:Q56235510 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Cycling/rightpanel"@en .
+
+wd:Q56245496 a wd:Q12139612 ;
+    rdfs:label "Q56245496"^^xsd:string .
+
+wd:Q56245585 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Rabiul Alam Biplob"@en .
+
+wd:Q56254835 a wd:Q12139612 ;
+    rdfs:label "40 Percussive Arts Society International Drum Rudiments"@en .
+
+wd:Q56255073 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Cycling/Navigation"@en .
+
+wd:Q56256143 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Cycling/Recognized content"@en .
+
+wd:Q56257540 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Cycling/Members"@en .
+
+wd:Q56293347 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Olympics/leftpanel"@en .
+
+wd:Q56295011 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Olympics/rightpanel"@en .
+
+wd:Q56297248 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Olympics/Recognized content"@en .
+
+wd:Q56313160 a wd:Q12139612 ;
+    rdfs:label "Q56313160"^^xsd:string .
+
+wd:Q56321144 a wd:Q12139612 ;
+    rdfs:label "Q56321144"^^xsd:string .
+
+wd:Q56350513 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject U.S. Roads/Assessment/ω"@en .
+
+wd:Q56423180 a wd:Q12139612 ;
+    rdfs:label "SPDX License List"@en .
+
+wd:Q56427899 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Database reports/Talk pages by size"@en .
+
+wd:Q56434624 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject United Nations/Open Access text"@en .
+
+wd:Q56452936 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Fact and Reference Check/Tabs"@en .
+
+wd:Q56479275 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia (disambiguation)"@en .
+
+wd:Q56479816 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WEIGHT"@en .
+
+wd:Q56490462 a wd:Q12139612 ;
+    rdfs:label "List of Olympic men's ice hockey players for Poland"@en .
+
+wd:Q56509548 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Fact and Reference Check/Participants"@en .
+
+wd:Q56512635 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/TeŠt"@en .
+
+wd:Q56524266 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Plants/Participants"@en .
+
+wd:Q56524274 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Wales/Assessment"@en .
+
+wd:Q56524421 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Wales/Members"@en .
+
+wd:Q56524456 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Albums/Assessment"@en .
+
+wd:Q56524910 a wd:Q12139612 ;
+    rdfs:label "Anecdotes of Lincoln"@en .
+
+wd:Q56525983 a wd:Q17442446 ;
+    rdfs:label "Months of African Cinema"@en .
+
+wd:Q56555860 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Fact and Reference Check/Opentasks"@en .
+
+wd:Q56557804 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Nafeby633"@en .
+
+wd:Q56593622 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Count Maximilian von Götzen-Iturbide (2nd nomination)"@en .
+
+wd:Q56599997 a wd:Q12139612 ;
+    rdfs:label "Q56599997"^^xsd:string .
+
+wd:Q56649177 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiChicken"@en .
+
+wd:Q5669275 a wd:Q12139612 ;
+    rdfs:label "List of municipalities of Armenia"@en .
+
+wd:Q56800939 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Articles for creation/Reviewing instructions"@en .
+
+wd:Q56803843 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Articles for creation/Participants"@en .
+
+wd:Q56850426 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Database reports/Shortest biographies of living people"@en .
+
+wd:Q56850427 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Database reports/Unused file redirects"@en .
+
+wd:Q56853000 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Stub improvement"@en .
+
+wd:Q56861006 a wd:Q12139612 ;
+    rdfs:label "Q56861006"^^xsd:string .
+
+wd:Q5686787 a wd:Q12139612 ;
+    rdfs:label "Q5686787"^^xsd:string .
+
+wd:Q56875766 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Meetup/Seoul/WikiConference Seoul 2018"@en .
+
+wd:Q56876236 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Log/2018 October 1"@en .
+
+wd:Q56884231 a wd:Q11028 ;
+    rdfs:label "IREG List of Academic Awards"@en .
+
+wd:Q56887372 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Articles for creation/Help desk"@en .
+
+wd:Q56887435 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Articles for creation/Helper script"@en .
+
+wd:Q56983907 a wd:Q12139612 ;
+    rdfs:label "Q56983907"^^xsd:string .
+
+wd:Q57093586 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Discord/Userbox"@en .
+
+wd:Q57168359 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Olympics/countdown"@en .
+
+wd:Q57258856 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/January 2019"@en .
+
+wd:Q57306407 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiKitten"@en .
+
+wd:Q57312952 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Ami.bangali/Archive"@en .
+
+wd:Q57316629 a wd:Q12139612 ;
+    rdfs:label "Q57316629"^^xsd:string .
+
+wd:Q5735986 a wd:Q12139612 ;
+    rdfs:label "Q5735986"^^xsd:string .
+
+wd:Q57496980 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Meetup/WikiWednesday"@en .
+
+wd:Q57596496 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Admitting you're wrong"@en .
+
+wd:Q57597947 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Musicians/Article guidelines"@en .
+
+wd:Q57693528 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia does not need you"@en .
+
+wd:Q57704091 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Do not expect reward"@en .
+
+wd:Q57773567 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Zeroth law of Wikipedia"@en .
+
+wd:Q57774342 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:School and university projects/Discrete and numerical mathematics"@en .
+
+wd:Q57774365 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:School and university projects/Discrete and numerical mathematics/Learning plan"@en .
+
+wd:Q57774394 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:School and university projects/Discrete and numerical mathematics/Learning plan/Sandbox"@en .
+
+wd:Q57774438 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:School and university projects/Discrete and numerical mathematics/Participants and major contributions"@en .
+
+wd:Q57787366 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Politics/Assessment"@en .
+
+wd:Q57857809 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Meetup/Tiruchirappalli/Tiruchirappalli2"@en .
+
+wd:Q57862013 a wd:Q12139612 ;
+    rdfs:label "Selected Dealer Archives & Locations"@en .
+
+wd:Q57973490 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject User warnings/Help:Template coding"@en .
+
+wd:Q57984373 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/February 2019"@en .
+
+wd:Q57985762 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Imeghana17"@en .
+
+wd:Q58050855 a wd:Q12139612 ;
+    rdfs:label "President of International Association of Volcanology and Chemistry of the Earth's Interior"@en .
+
+wd:Q58185092 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:List of non-admins with high edit counts"@en .
+
+wd:Q58200862 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Check your facts"@en .
+
+wd:Q58237036 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Apple Inc./iOS task force/Invite"@en .
+
+wd:Q58392344 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Log/2012 May 21"@en .
+
+wd:Q58434370 a wd:Q12139612 ;
+    rdfs:label "Q58434370"^^xsd:string .
+
+wd:Q58438426 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Edit filter/False positives/Archive 13"@en .
+
+wd:Q58554652 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Ottoman Empire/Assessment"@en .
+
+wd:Q58666493 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Tip of the day/November 15"@en .
+
+wd:Q58768667 a wd:Q11028 ;
+    rdfs:label "District Census Handbook of Andhra Pradesh and Telangana - Villages"@en .
+
+wd:Q58819158 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Danny's contest"@en .
+
+wd:Q58820261 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Anime and manga/Topic workshop"@en .
+
+wd:Q58823824 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Categories are different from articles"@en .
+
+wd:Q58824055 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Edit summary legend/Quick reference"@en .
+
+wd:Q58837520 a wd:Q11028 ;
+    rdfs:label "Q58837520"^^xsd:string .
+
+wd:Q58875284 a wd:Q11028 ;
+    rdfs:label "Canada Inventory of International Awards"@en .
+
+wd:Q58879354 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Software notability"@en .
+
+wd:Q5888893 a wd:Q16686448 ;
+    rdfs:label "Q5888893"^^xsd:string .
+
+wd:Q58890665 a wd:Q11028 ;
+    rdfs:label "ICDA Official Awards Roster"@en .
+
+wd:Q58903758 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Milind devpurkar"@en .
+
+wd:Q5903583 a wd:Q16686448 ;
+    rdfs:label "Q5903583"^^xsd:string .
+
+wd:Q590581 a wd:Q621184 ;
+    rdfs:label "horizon problem"@en .
+
+wd:Q59203477 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Biography dos and don'ts"@en .
+
+wd:Q59336363 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Article wizard/HowToDiscloseCOI"@en .
+
+wd:Q59339265 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Women in Red/WiR header"@en .
+
+wd:Q59339383 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Women in Red/icon link"@en .
+
+wd:Q59342512 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Categories versus lists"@en .
+
+wd:Q59347348 a wd:Q17442446 ;
+    rdfs:label "Project:Guide to administrator intervention against vandalism"@en .
+
+wd:Q5934868 a wd:Q12139612 ;
+    rdfs:label "List of Commonly Used Characters in Modern Chinese"@en .
+
+wd:Q59356183 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Vital articles/Level/5/People/Religious figures"@en .
+
+wd:Q59356414 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Vital articles/Level/5/Geography/Cities"@en .
+
+wd:Q59459615 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia Signpost/Template:Signpost-footer"@en .
+
+wd:Q59464956 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:An article about yourself isn't necessarily a good thing"@en .
+
+wd:Q59490011 a wd:Q12139612 ;
+    rdfs:label "Q59490011"^^xsd:string .
+
+wd:Q59492210 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia Signpost/Ticker/5"@en .
+
+wd:Q59492229 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia Signpost/Ticker/2"@en .
+
+wd:Q59542217 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Merchandise giveaways"@en .
+
+wd:Q59555779 a wd:Q12139612 ;
+    rdfs:label "Q59555779"^^xsd:string .
+
+wd:Q59563410 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Nipponese Dog Calvero"@en .
+
+wd:Q59602984 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Meetup/Penang 1"@en .
+
+wd:Q59603005 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Meetup/Kuala Lumpur 6"@en .
+
+wd:Q59690566 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/House Boulevard"@en .
+
+wd:Q59695498 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/1952 Olinda massacre"@en .
+
+wd:Q59771567 a wd:Q12139612 ;
+    rdfs:label "Churrätisches Reichsguturbar"@en .
+
+wd:Q59771725 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Requests for comment/Biographies"@en .
+
+wd:Q59772515 a wd:Q12139612 ;
+    rdfs:label "Gross- und Mittelstädte im alemannischen Gebiet"@en .
+
+wd:Q59772564 a wd:Q12139612 ;
+    rdfs:label "Lieder der Sammlung „Im Röseligarte“"@en .
+
+wd:Q59772621 a wd:Q12139612 ;
+    rdfs:label "Mundartlieder im Schweizer Singbuch Unterstufe 1962"@en .
+
+wd:Q59821108 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Identifying reliable sources/Perennial sources"@en .
+
+wd:Q59846903 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Cases/Overview"@en .
+
+wd:Q59867032 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/SPI/Inputbox blank report for ordinary use for IPs"@en .
+
+wd:Q60034683 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Evangelical Reformed Church in Portugal"@en .
+
+wd:Q60035153 a wd:Q17442446 ;
+    rdfs:label "Wikimedia thematic organizations/id"@en .
+
+wd:Q60160503 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Talk page layout"@en .
+
+wd:Q60162157 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Userboxes/Sports/More"@en .
+
+wd:Q60169638 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Userboxes/Law"@en .
+
+wd:Q60194081 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Userboxes/Life/Sexuality"@en .
+
+wd:Q60194128 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Userboxes/Wikipedia/Miscellaneous"@en .
+
+wd:Q60197535 a wd:Q17442446 ;
+    rdfs:label "Project:Overcategorization/Intersection of location and occupation"@en .
+
+wd:Q60205075 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Planet Pop Festival"@en .
+
+wd:Q60208590 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Christian Presbyterian Church in Portugal"@en .
+
+wd:Q60220305 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Featured articles promoted in 2018"@en .
+
+wd:Q60226606 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Why most sentences should be cited"@en .
+
+wd:Q60313989 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Identifying and using self-published works"@en .
+
+wd:Q60325209 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/April 2019"@en .
+
+wd:Q60325215 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/May 2019"@en .
+
+wd:Q60325217 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/June 2019"@en .
+
+wd:Q60325220 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/July 2019"@en .
+
+wd:Q60325223 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/August 2019"@en .
+
+wd:Q60325227 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/September 2019"@en .
+
+wd:Q60325228 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/October 2019"@en .
+
+wd:Q60325230 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/November 2019"@en .
+
+wd:Q60325232 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Picture of the day/December 2019"@en .
+
+wd:Q6042926 a wd:Q11028 ;
+    rdfs:label "Integrated Postsecondary Education Data System"@en .
+
+wd:Q60458528 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Alessandro Hirata"@en .
+
+wd:Q60458816 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Kim Kamberlly"@en .
+
+wd:Q60459673 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Anttonio Pereira"@en .
+
+wd:Q60459686 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Sara Carvalho"@en .
+
+wd:Q60459689 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Francisco José da Silva Couto"@en .
+
+wd:Q60459700 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Carlos Becker Westphall (2nd nomination)"@en .
+
+wd:Q60459733 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Bianca Soares"@en .
+
+wd:Q60459762 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Faye Reagan"@en .
+
+wd:Q60459829 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Samantha Sin"@en .
+
+wd:Q60459859 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Emma Starr"@en .
+
+wd:Q60459922 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/T-Rock"@en .
+
+wd:Q60460015 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/2017 Waddesdon Manor mid-air collision"@en .
+
+wd:Q60460055 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Bravox"@en .
+
+wd:Q60460105 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Traduki"@en .
+
+wd:Q60460208 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Lanny Barby"@en .
+
+wd:Q60460336 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Maristela Tayoko"@en .
+
+wd:Q60461421 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Jeff Reinholds"@en .
+
+wd:Q60461445 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Christina Magalhães Herrmann"@en .
+
+wd:Q60461484 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Jackets (professional wrestling)"@en .
+
+wd:Q60461520 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Curdy"@en .
+
+wd:Q60461591 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Pederastic couples in Japan"@en .
+
+wd:Q60461621 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Hot100Brasil"@en .
+
+wd:Q60461651 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Carolina Moraes-Liu"@en .
+
+wd:Q60461669 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Henry Zaga"@en .
+
+wd:Q60461676 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Keeani Lei (3rd nomination)"@en .
+
+wd:Q60461736 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Bethany Benz"@en .
+
+wd:Q60461806 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Ann Pouder"@en .
+
+wd:Q60461831 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Cynthia Harrell"@en .
+
+wd:Q60461840 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Tia Ling (2nd nomination)"@en .
+
+wd:Q60461850 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Glossary of terms in The Urantia Book (2nd nomination)"@en .
+
+wd:Q60461880 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Cassidy Freeman"@en .
+
+wd:Q60461889 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/BiBi Jones"@en .
+
+wd:Q60461893 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Cody Lohan"@en .
+
+wd:Q60461902 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Renan Oliveira (model)"@en .
+
+wd:Q60461904 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/List of people who died before the age of 30 (2nd nomination)"@en .
+
+wd:Q60461919 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Caue Barcelos"@en .
+
+wd:Q60461935 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Masanobu Sato"@en .
+
+wd:Q60461941 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Leonardo Augusto Amaral Terra"@en .
+
+wd:Q60461964 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Tribal Wars"@en .
+
+wd:Q60461984 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Sociedade Brasileira de Céticos e Racionalistas"@en .
+
+wd:Q60461991 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Aldo Novak"@en .
+
+wd:Q60461999 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Nnamdi Oduamadi"@en .
+
+wd:Q60462103 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Programmer's day"@en .
+
+wd:Q60462156 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/What Lies Beneath (album)"@en .
+
+wd:Q60462173 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Cardiology (album)"@en .
+
+wd:Q60462177 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Fernando Luiz Ayres da Cunha Santos-Reis"@en .
+
+wd:Q60462198 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Gia Jordan"@en .
+
+wd:Q60462223 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Tesão de vaca"@en .
+
+wd:Q60462229 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/MagicISO"@en .
+
+wd:Q60462274 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/List of young people in history"@en .
+
+wd:Q60462290 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Shmuel Yerushalmi (2nd nomination)"@en .
+
+wd:Q60462362 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Katilce Miranda (second nomination)"@en .
+
+wd:Q60462426 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Alan de Freitas"@en .
+
+wd:Q60463908 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Stella Gimenez Norfleet"@en .
+
+wd:Q60463980 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Sorin Cerin"@en .
+
+wd:Q60464025 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/ApolloGesCom"@en .
+
+wd:Q60464145 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Taurino Araujo"@en .
+
+wd:Q60464479 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Nico Christ"@en .
+
+wd:Q60494497 a wd:Q17442446 ;
+    rdfs:label "NTER"@en .
+
+wd:Q60587008 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Evangelical Christianity/Popular pages"@en .
+
+wd:Q6059909 a wd:Q12139612 ;
+    rdfs:label "inventory"@en .
+
+wd:Q60608300 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Database reports/Large fair-use images"@en .
+
+wd:Q60613080 a wd:Q17442446 ;
+    rdfs:label "Project:Most read articles of 2017"@en .
+
+wd:Q60613083 a wd:Q17442446 ;
+    rdfs:label "Project:Most read articles of 2018"@en .
+
+wd:Q60617066 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Zeshan Mahmood"@en .
+
+wd:Q60617650 a wd:Q17442446 ;
+    rdfs:label "Q60617650"^^xsd:string .
+
+wd:Q60644780 a wd:Q12139612 ;
+    rdfs:label "List of Anglo-Saxon cemeteries"@en .
+
+wd:Q60695729 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/LeandroTelesRocha1983"@en .
+
+wd:Q60769885 a wd:Q17442446 ;
+    rdfs:label "Meetup/NCL/Headsandtales 2019/Newcastle Upon Tyne City Library"@en .
+
+wd:Q60809348 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Article wizard/Content"@en .
+
+wd:Q60813567 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia is not the place to post your résumé"@en .
+
+wd:Q60849575 a wd:Q12139612 ;
+    rdfs:label "List of Standardised Welsh Place-names"@en .
+
+wd:Q60850212 a wd:Q12139612 ;
+    rdfs:label "Q60850212"^^xsd:string .
+
+wd:Q60886099 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:No get out of jail free cards"@en .
+
+wd:Q61216215 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Featured picture candidates/File:Paper Clip Surface Tension 1.jpg"@en .
+
+wd:Q61283564 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Meetup/Kuala Lumpur 7"@en .
+
+wd:Q61390634 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/SPI/quick check header"@en .
+
+wd:Q61427018 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Wine/Popular pages"@en .
+
+wd:Q6152418 a wd:Q12139612 ;
+    rdfs:label "List of Graphemes of Commonly-used Chinese Characters"@en .
+
+wd:Q61608515 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Anime and manga/Newsletter"@en .
+
+wd:Q61610245 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Anime and manga/Characters"@en .
+
+wd:Q61640539 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Meetup/Penang"@en .
+
+wd:Q61655393 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Userboxes/Wikipedia/Stats and tools/edit count"@en .
+
+wd:Q61657022 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Short descriptions"@en .
+
+wd:Q61662969 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Userboxes/Life/Citizenship"@en .
+
+wd:Q61662980 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Userboxes/Life/Residence"@en .
+
+wd:Q61663052 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Userboxes/Life/Residence-2"@en .
+
+wd:Q61663066 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Userboxes/Life/Citizenship-3"@en .
+
+wd:Q61663174 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Userboxes/Languages"@en .
+
+wd:Q61663285 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Userboxes/Travel-3"@en .
+
+wd:Q61675017 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Alex9777777"@en .
+
+wd:Q61700893 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Alec Smithson"@en .
+
+wd:Q61741044 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:User page design center/User page Hall of Fame/Review"@en .
+
+wd:Q61743697 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Good article nominations/Topic lists"@en .
+
+wd:Q61755994 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Supervote"@en .
+
+wd:Q61786742 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Reliable sources/Perennial sources/Uses"@en .
+
+wd:Q61786745 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Reliable sources/Perennial sources/Status"@en .
+
+wd:Q61786748 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Reliable sources/Perennial sources/Last"@en .
+
+wd:Q61793735 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Don't remind others of past misdeeds"@en .
+
+wd:Q61813787 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Main Page alternatives/(editable)"@en .
+
+wd:Q61826549 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject WikiAfrica Schools"@en .
+
+wd:Q61931214 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia as a source"@en .
+
+wd:Q61942915 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Userboxes/Location/Brunei"@en .
+
+wd:Q61969014 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Gender identity"@en .
+
+wd:Q62000068 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:OABOT"@en .
+
+wd:Q62019439 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Compliment before criticism"@en .
+
+wd:Q62070510 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Long-term abuse/123Aristotle"@en .
+
+wd:Q62083045 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Naming conventions (languages)"@en .
+
+wd:Q62108705 a wd:Q12139612 ;
+    rdfs:label "Name Suggestion Index"@en .
+
+wd:Q62116213 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Don't cry COI"@en .
+
+wd:Q62124673 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Yes. We are biased."@en .
+
+wd:Q62384066 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Long-term abuse/Albert20009"@en .
+
+wd:Q62475222 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia Syndrome"@en .
+
+wd:Q62524767 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Ignore all uses of \"ignore all rules\""@en .
+
+wd:Q62566325 a wd:Q17442446 ;
+    rdfs:label "Requests for approval/InternetArchiveBot"@en .
+
+wd:Q62595677 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Index of Denmark political party meta attributes"@en .
+
+wd:Q62599008 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Userboxes/Personality"@en .
+
+wd:Q62602885 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Articles for deletion/Narnian timeline"@en .
+
+wd:Q62609447 a wd:Q28813620 ;
+    rdfs:label "Collection Fill-Trevisiol"@en .
+
+wd:Q62658587 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/小林力"@en .
+
+wd:Q62726871 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:VideoWiki/Typhoid fever 2 min overview"@en .
+
+wd:Q62726891 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:VideoWiki/Cancer 2 min overview"@en .
+
+wd:Q62728563 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:VideoWiki/Measles 2 min overview"@en .
+
+wd:Q62921496 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Meetup/Kedah"@en .
+
+wd:Q62985529 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:WikiProject Women in Red/Redlist index"@en .
+
+wd:Q62996145 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Asad Ali Palijo"@en .
+
+wd:Q6306047 a wd:Q11028 ;
+    rdfs:label "Q6306047"^^xsd:string .
+
+wd:Q63138940 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Meetup/Japan/Japan SciCom Forum Workshop 2019"@en .
+
+wd:Q63168297 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/おほ＾～ツク海"@en .
+
+wd:Q63181290 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:How many legs does a horse really have?"@en .
+
+wd:Q63204097 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia as a press source 2018"@en .
+
+wd:Q63204108 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia as a press source 2017"@en .
+
+wd:Q63204132 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia as a press source 2015"@en .
+
+wd:Q63204157 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia as a press source 2014"@en .
+
+wd:Q63204178 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia as a press source 2013"@en .
+
+wd:Q63204195 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia as a press source 2012"@en .
+
+wd:Q63204220 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia as a press source 2011"@en .
+
+wd:Q63204238 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia as a press source 2010"@en .
+
+wd:Q63204262 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia as a press source 2009"@en .
+
+wd:Q63204286 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia as a press source 2008"@en .
+
+wd:Q63204307 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia as a press source 2007"@en .
+
+wd:Q63204325 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia as a press source 2006"@en .
+
+wd:Q63204345 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wikipedia as a press source 2005"@en .
+
+wd:Q63211227 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Database reports/Potential biographies of dead people (3)"@en .
+
+wd:Q632959 a wd:Q12139612 ;
+    rdfs:label "black list"@en .
+
+wd:Q63341563 a wd:Q12139612 ;
+    rdfs:label "Q63341563"^^xsd:string .
+
+wd:Q63341601 a wd:Q12139612 ;
+    rdfs:label "Q63341601"^^xsd:string .
+
+wd:Q63341632 a wd:Q12139612 ;
+    rdfs:label "Q63341632"^^xsd:string .
+
+wd:Q63345180 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Assessing articles"@en .
+
+wd:Q6341765 a wd:Q12139612 ;
+    rdfs:label "Q6341765"^^xsd:string .
+
+wd:Q63468499 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:VideoWiki/Dengue fever"@en .
+
+wd:Q6347816 a wd:Q12139612 ;
+    rdfs:label "List of honorary doctors of the University of Murcia"@en .
+
+wd:Q63525601 a wd:Q12139612 ;
+    rdfs:label "Q63525601"^^xsd:string .
+
+wd:Q6353115 a wd:Q12139612 ;
+    rdfs:label "Q6353115"^^xsd:string .
+
+wd:Q6368271 a wd:Q12139612 ;
+    rdfs:label "Wikipedia:List of shortcuts"@en .
+
+wd:Q63725176 a wd:Q12139612 ;
+    rdfs:label "Lexicon of stratigraphic nomenclature in Missouri"@en .
+
+wd:Q63866901 a wd:Q11028 ;
+    rdfs:label "Q63866901"^^xsd:string .
+
+wd:Q64026014 a wd:Q12139612 ;
+    rdfs:label "The Blue Book"@en .
+
+wd:Q64167115 a wd:Q11028 ;
+    rdfs:label "Moving in and moving out records"@en .
+
+wd:Q64168619 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/いせちか"@en .
+
+wd:Q64168630 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Azizi.developments2019"@en .
+
+wd:Q64357187 a wd:Q12139612 ;
+    rdfs:label "Arrêté du 10 février 2006 portant nomination d'élèves à l'École normale supérieure (session 2005)"@en .
+
+wd:Q64587301 a wd:Q12139612 ;
+    rdfs:label "Q64587301"^^xsd:string .
+
+wd:Q64624935 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:VideoWiki/Pneumonia"@en .
+
+wd:Q64679432 a wd:Q12139612 ;
+    rdfs:label "Star Trek: Voyager – Complete episode checklist"@en .
+
+wd:Q64709955 a wd:Q12139612 ;
+    rdfs:label "FBI vexsome filer list"@en .
+
+wd:Q64979313 a wd:Q28813620 ;
+    rdfs:label "Blue Mountains, drawings by John William Lewin 1815-1816"@en .
+
+wd:Q6498184 a wd:Q12139612 ;
+    rdfs:label "Table of standardized forms for frequently used national characters"@en .
+
+wd:Q6500369 a wd:Q11028 ;
+    rdfs:label "probate"@en .
+
+wd:Q6520183 a wd:Q12139612 ;
+    rdfs:label "Leipzig–Jakarta list"@en .
+
+wd:Q65262848 a wd:Q12139612 ;
+    rdfs:label "Q65262848"^^xsd:string .
+
+wd:Q65555138 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Sayangarai32"@en .
+
+wd:Q65560861 a wd:Q12139612 ;
+    rdfs:label "Q65560861"^^xsd:string .
+
+wd:Q65563110 a wd:Q12139612 ;
+    rdfs:label "Q65563110"^^xsd:string .
+
+wd:Q65683663 a wd:Q12139612 ;
+    rdfs:label "Q65683663"^^xsd:string .
+
+wd:Q65946539 a wd:Q11028 ;
+    rdfs:label "Ketamine and other glutamate receptor modulators for depression in adults"@en .
+
+wd:Q65946767 a wd:Q11028 ;
+    rdfs:label "Graded Evidence"@en .
+
+wd:Q65992128 a wd:Q12139612 ;
+    rdfs:label "Q65992128"^^xsd:string .
+
+wd:Q66237541 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Sockpuppet investigations/Marquis de la Eirron"@en .
+
+wd:Q66494116 a wd:Q12139612 ;
+    rdfs:label "Virus Information Summary List"@en .
+
+wd:Q66593068 a wd:Q12139612 ;
+    rdfs:label "list of Wikidata end causes"@en .
+
+wd:Q66761550 a wd:Q12139612 ;
+    rdfs:label "Q66761550"^^xsd:string .
+
+wd:Q66809857 a wd:Q28813620 ;
+    rdfs:label "120 Danish words"@en .
+
+wd:Q66809980 a wd:Q28813620 ;
+    rdfs:label "Q66809980"^^xsd:string .
+
+wd:Q66816502 a wd:Q12139612 ;
+    rdfs:label "Q66816502"^^xsd:string .
+
+wd:Q669585 a wd:Q11028 ;
+    rdfs:label "author citation"@en .
+
+wd:Q67647534 a wd:Q17442446 ;
+    rdfs:label "Q67647534"^^xsd:string .
+
+wd:Q67799625 a wd:Q28813620 ;
+    rdfs:label "Radio-Locator"@en .
+
+wd:Q680849 a wd:Q621184 ;
+    rdfs:label "capital question of Switzerland"@en .
+
+wd:Q68094786 a wd:Q12139612 ;
+    rdfs:label "Q68094786"^^xsd:string .
+
+wd:Q68130917 a wd:Q17442446 ;
+    rdfs:label "Wikidata internal char test 1: 0033-0126,0161-0500"@en .
+
+wd:Q68131362 a wd:Q17442446 ;
+    rdfs:label "Wikidata internal char test 2: 0501-1500"@en .
+
+wd:Q68131498 a wd:Q17442446 ;
+    rdfs:label "Wikidata internal char test 3: 1501-2500"@en .
+
+wd:Q68131614 a wd:Q17442446 ;
+    rdfs:label "Wikidata internal char test 4: 2501-3500"@en .
+
+wd:Q68131725 a wd:Q17442446 ;
+    rdfs:label "Wikidata internal char test 5: 3501-4500"@en .
+
+wd:Q68131794 a wd:Q17442446 ;
+    rdfs:label "Wikidata internal char test 6: 4501-5500"@en .
+
+wd:Q68133860 a wd:Q17442446 ;
+    rdfs:label "Wikidata internal char test"@en .
+
+wd:Q6867695 a wd:Q12139612 ;
+    rdfs:label "Ministry of the Interior"@en .
+
+wd:Q69024711 a wd:Q12139612 ;
+    rdfs:label "Works with a suspicious provenance"@en .
+
+wd:Q6973981 a wd:Q12139612 ;
+    rdfs:label "National Lampoon's Totally Baked: A Potumentary"@en .
+
+wd:Q69925482 a wd:Q12139612 ;
+    rdfs:label "Top 20 most iconic red carpet dresses"@en .
+
+wd:Q7081467 a wd:Q12139612 ;
+    rdfs:label "oil terminals in India"@en .
+
+wd:Q71220808 a wd:Q28813620 ;
+    rdfs:label "Smith—Shelley 'Ozymandias' competition"@en .
+
+wd:Q712728 a wd:Q12139612 ;
+    rdfs:label "New7Wonders of the World"@en .
+
+wd:Q714827 a wd:Q12139612 ;
+    rdfs:label "mailing list"@en .
+
+wd:Q71709606 a wd:Q12139612 ;
+    rdfs:label "List of awards and nominations received by Ebrahim Hatamikia"@en .
+
+wd:Q7187701 a wd:Q12139612 ;
+    rdfs:label "photo print sizes"@en .
+
+wd:Q7277418 a wd:Q12139612 ;
+    rdfs:label "ROTAP"@en .
+
+wd:Q73066211 a wd:Q48522 ;
+    rdfs:label "Q73066211"^^xsd:string .
+
+wd:Q7313377 a wd:Q12139612 ;
+    rdfs:label "Reno 911! Characters"@en .
+
+wd:Q73616850 a wd:Q17442446 ;
+    rdfs:label "PID milestone"@en .
+
+wd:Q74054784 a wd:Q12139612 ;
+    rdfs:label "Q74054784"^^xsd:string .
+
+wd:Q746242 a wd:Q621184 ;
+    rdfs:label "P versus NP problem"@en .
+
+wd:Q74858660 a wd:Q12139612 ;
+    rdfs:label "Q74858660"^^xsd:string .
+
+wd:Q75012961 a wd:Q12139612 ;
+    rdfs:label "Ebrahim Hatamikia bibliography"@en .
+
+wd:Q75013824 a wd:Q12139612 ;
+    rdfs:label "Ebrahim Hatamikia filmography"@en .
+
+wd:Q75488338 a wd:Q28813620 ;
+    rdfs:label "Language"@en .
+
+wd:Q7573477 a wd:Q17442446 ;
+    rdfs:label "Spanish tickler"@en .
+
+wd:Q75778920 a wd:Q12139612 ;
+    rdfs:label "List of things named after Sheikh Hasina"@en .
+
+wd:Q75819246 a wd:Q17442446 ;
+    rdfs:label "cycling teams change names regularly, but the structure remains the same, like the Wikidata element where P1448 (official name) evolves"@en .
+
+wd:Q75823723 a wd:Q17442446 ;
+    rdfs:label "when an order has more than one grade/rank, then P166 (award received) must have the grade/rank as statement and not the order"@en .
+
+wd:Q75852397 a wd:Q12139612 ;
+    rdfs:label "Black Digital Humanities Projects and Resources"@en .
+
+wd:Q76362586 a wd:Q12139612 ;
+    rdfs:label "Q76362586"^^xsd:string .
+
+wd:Q76425810 a wd:Q28813620 ;
+    rdfs:label "Deutsches Reichsgesetzblatt 1878"@en .
+
+wd:Q76506245 a wd:Q12139612 ;
+    rdfs:label "US Latinx and Southwestern Digital Humanities Projects"@en .
+
+wd:Q76510930 a wd:Q12139612 ;
+    rdfs:label "Women's and Gender History DH list"@en .
+
+wd:Q76548374 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:Wiki Science Competition 2019 in the United States"@en .
+
+wd:Q76637123 a wd:Q12139612 ;
+    rdfs:label "list of Wikidata reasons for preferred rank"@en .
+
+wd:Q77201056 a wd:Q28813620 ;
+    rdfs:label "Archive of Entreprises Générales de Travaux Immobiliers"@en .
+
+wd:Q77249998 a wd:Q28813620 ;
+    rdfs:label "Women Trailblazers in the Law Project"@en .
+
+wd:Q7742549 a wd:Q12139612 ;
+    rdfs:label "The Irish Legal 100"@en .
+
+wd:Q77591538 a wd:Q12139612 ;
+    rdfs:label "Q77591538"^^xsd:string .
+
+wd:Q781365 a wd:Q11028 ;
+    rdfs:label "Australian Broadcasting Corporation"@en .
+
+wd:Q7937548 a wd:Q17442446 ;
+    rdfs:label "Vivarem"@en .
+
+wd:Q798456 a wd:Q12139612 ;
+    rdfs:label "Backlist"@en .
+
+wd:Q8001518 a wd:Q12139612 ;
+    rdfs:label "Wildstein list"@en .
+
+wd:Q80950969 a wd:Q12139612 ;
+    rdfs:label "US Peace Registry"@en .
+
+wd:Q821699 a wd:Q16686448 ;
+    rdfs:label "Berliner Rahmen"@en .
+
+wd:Q8240157 a wd:Q12139612 ;
+    rdfs:label "Q8240157"^^xsd:string .
+
+wd:Q845937 a wd:Q11028 ;
+    rdfs:label "National Statistics Institute"@en .
+
+wd:Q85394109 a wd:Q12139612 ;
+    rdfs:label "Q85394109"^^xsd:string .
+
+wd:Q85997164 a wd:Q12139612 ;
+    rdfs:label "Q85997164"^^xsd:string .
+
+wd:Q86535545 a wd:Q48522 ;
+    rdfs:label "Q86535545"^^xsd:string .
+
+wd:Q86674196 a wd:Q12139612 ;
+    rdfs:label "Q86674196"^^xsd:string .
+
+wd:Q86674698 a wd:Q12139612 ;
+    rdfs:label "republican era roman legion"@en .
+
+wd:Q86921279 a wd:Q12139612 ;
+    rdfs:label "Q86921279"^^xsd:string .
+
+wd:Q875368 a wd:Q12139612 ;
+    rdfs:label "Jōyō kanji"@en .
+
+wd:Q8988466 a wd:Q17442446 ;
+    rdfs:label "Wikipedia:IRC/wikipedia-en-help"@en .
+
+wd:Q929093 a wd:Q12139612 ;
+    rdfs:label "Table of Ranks"@en .
+
+wd:Q9305767 a wd:Q12139612 ;
+    rdfs:label "Q9305767"^^xsd:string .
+
+wd:Q9470311 a wd:Q17442446 ;
+    rdfs:label "Deletionism in Wikipedia"@en .
+
+wd:Q971779 a wd:Q12139612 ;
+    rdfs:label "no-longer-polymers"@en .
+
+wd:Q992463 a wd:Q621184 ;
+    rdfs:label "ground loop"@en .
+
+wd:Q15633587 rdfs:label "MediaWiki main-namespace page"@en ;
+    rdfs:subClassOf wd:Q15474042 .
+
+wd:Q4167410 rdfs:label "Wikimedia disambiguation page"@en ;
+    rdfs:subClassOf wd:Q12139612,
+        wd:Q15633587,
+        wd:Q17442446,
+        wd:Q48522 .
+
+wd:Q48522 rdfs:label "word-sense disambiguation"@en ;
+    rdfs:subClassOf wd:Q621184 .
+
+wd:Q16686448 rdfs:label "artificial entity"@en .
+
+wd:Q28813620 rdfs:label "collection"@en .
+
+wd:Q15474042 rdfs:label "MediaWiki page"@en .
+
+wd:Q621184 rdfs:label "problem"@en .
+
+wd:Q11028 rdfs:label "information"@en .
+
+wd:Q12139612 rdfs:label "list"@en ;
+    rdfs:subClassOf wd:Q11028,
+        wd:Q28813620 .
+
+wd:Q17442446 rdfs:label "Wikimedia internal item"@en ;
+    rdfs:subClassOf wd:Q16686448 .
+

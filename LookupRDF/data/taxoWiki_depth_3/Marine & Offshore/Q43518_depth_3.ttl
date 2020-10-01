@@ -1,0 +1,1083 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1017611 a wd:Q1047113 ;
+    rdfs:label "business service management"@en .
+
+wd:Q10369463 a wd:Q1047113 ;
+    rdfs:label "work safety"@en .
+
+wd:Q10372154 a wd:Q336 ;
+    rdfs:label "traditional taxonomy"@en .
+
+wd:Q10387 a wd:Q1047113 ;
+    rdfs:label "gerontology"@en .
+
+wd:Q10427676 a wd:Q1047113 ;
+    rdfs:label "civil defense"@en .
+
+wd:Q1046109 a wd:Q8008 ;
+    rdfs:label "Q1046109"^^xsd:string .
+
+wd:Q1050578 a wd:Q1047113 ;
+    rdfs:label "marine geology"@en .
+
+wd:Q1056396 a wd:Q1047113 ;
+    rdfs:label "human resource management"@en .
+
+wd:Q1069 a wd:Q336 ;
+    rdfs:label "geology"@en .
+
+wd:Q1086164 a wd:Q1047113 ;
+    rdfs:label "evolutionary anthropology"@en .
+
+wd:Q1093434 a wd:Q336 ;
+    rdfs:label "citizen science"@en .
+
+wd:Q1107856 rdfs:label "cold seep"@en ;
+    rdfs:subClassOf wd:Q43518 .
+
+wd:Q1136352 a wd:Q1047113 ;
+    rdfs:label "naval architecture"@en .
+
+wd:Q1153495 a wd:Q1047113 ;
+    rdfs:label "configuration management"@en .
+
+wd:Q11830171 a wd:Q336 ;
+    rdfs:label "Q11830171"^^xsd:string .
+
+wd:Q12027855 a wd:Q1047113 ;
+    rdfs:label "Q12027855"^^xsd:string .
+
+wd:Q1203683 a wd:Q1047113 ;
+    rdfs:label "German philosophy"@en .
+
+wd:Q1224913 a wd:Q1047113 ;
+    rdfs:label "Q1224913"^^xsd:string .
+
+wd:Q1241279 a wd:Q1047113 ;
+    rdfs:label "orthoptics"@en .
+
+wd:Q1244108 a wd:Q1047113 ;
+    rdfs:label "liturgics"@en .
+
+wd:Q1263075 a wd:Q1047113 ;
+    rdfs:label "Kremlinology"@en .
+
+wd:Q1269649 a wd:Q1047113 ;
+    rdfs:label "Q1269649"^^xsd:string .
+
+wd:Q1273263 a wd:Q9081 ;
+    rdfs:label "digital competence"@en .
+
+wd:Q12766879 a wd:Q336 ;
+    rdfs:label "historical astronomy"@en .
+
+wd:Q128030 a wd:Q1047113 ;
+    rdfs:label "dynamics"@en .
+
+wd:Q12817347 a wd:Q1047113 ;
+    rdfs:label "Advor"@en .
+
+wd:Q1298380 a wd:Q1047113 ;
+    rdfs:label "sports science"@en .
+
+wd:Q1306010 a wd:Q1047113 ;
+    rdfs:label "Q1306010"^^xsd:string .
+
+wd:Q131110 a wd:Q1047113 ;
+    rdfs:label "history of the United States"@en .
+
+wd:Q1318442 a wd:Q7991 ;
+    rdfs:label "Q1318442"^^xsd:string .
+
+wd:Q132116 a wd:Q1047113 ;
+    rdfs:label "folkloristics"@en .
+
+wd:Q1327566 a wd:Q1047113 ;
+    rdfs:label "Q1327566"^^xsd:string .
+
+wd:Q133080 a wd:Q1047113 ;
+    rdfs:label "public relations"@en .
+
+wd:Q1337681 rdfs:label "physical oceanography"@en ;
+    rdfs:subClassOf wd:Q43518 .
+
+wd:Q1338164 a wd:Q1047113 ;
+    rdfs:label "codicology"@en .
+
+wd:Q13400901 a wd:Q1047113 ;
+    rdfs:label "filmmaking"@en .
+
+wd:Q1349130 a wd:Q1047113 ;
+    rdfs:label "geotechnics"@en .
+
+wd:Q13515694 a wd:Q1047113 ;
+    rdfs:label "long-term preservation"@en .
+
+wd:Q1358521 a wd:Q1047113 ;
+    rdfs:label "pharmacogenetics"@en .
+
+wd:Q1363350 a wd:Q1047113 ;
+    rdfs:label "monetary policy"@en .
+
+wd:Q1371418 a wd:Q1047113 ;
+    rdfs:label "ethnosociology"@en .
+
+wd:Q1384615 a wd:Q1047113 ;
+    rdfs:label "explosion protection"@en .
+
+wd:Q1392782 a wd:Q336 ;
+    rdfs:label "gnomonics"@en .
+
+wd:Q13955118 a wd:Q1047113 ;
+    rdfs:label "earthworks"@en .
+
+wd:Q1411056 a wd:Q1047113 ;
+    rdfs:label "graphemics"@en .
+
+wd:Q1412461 a wd:Q1047113 ;
+    rdfs:label "psephology"@en .
+
+wd:Q1413406 a wd:Q1047113 ;
+    rdfs:label "technical documentation"@en .
+
+wd:Q1413942 a wd:Q1047113 ;
+    rdfs:label "material handling"@en .
+
+wd:Q141495 a wd:Q1047113 ;
+    rdfs:label "mathematical optimization"@en .
+
+wd:Q1416532 a wd:Q1047113 ;
+    rdfs:label "Q1416532"^^xsd:string .
+
+wd:Q1434024 a wd:Q1047113 ;
+    rdfs:label "aeronautical meteorology"@en .
+
+wd:Q1434048 a wd:Q1047113 ;
+    rdfs:label "aircraft construction"@en .
+
+wd:Q1434104 a wd:Q1047113 ;
+    rdfs:label "Internet economy"@en .
+
+wd:Q1460420 a wd:Q1047113 ;
+    rdfs:label "emergency management"@en .
+
+wd:Q1471510 a wd:Q1047113 ;
+    rdfs:label "stratification"@en .
+
+wd:Q1481411 a wd:Q1047113 ;
+    rdfs:label "Automotive Software"@en .
+
+wd:Q14928321 a wd:Q336 ;
+    rdfs:label "necropapiloscopy"@en .
+
+wd:Q149584 a wd:Q1047113 ;
+    rdfs:label "organizational theory"@en .
+
+wd:Q1502822 a wd:Q1047113 ;
+    rdfs:label "geobiology"@en .
+
+wd:Q1503122 a wd:Q336 ;
+    rdfs:label "Q1503122"^^xsd:string .
+
+wd:Q1509603 a wd:Q336 ;
+    rdfs:label "geothermobarometry"@en .
+
+wd:Q150971 a wd:Q1047113 ;
+    rdfs:label "computer graphics"@en .
+
+wd:Q1528429 a wd:Q9081 ;
+    rdfs:label "game schedule"@en .
+
+wd:Q1569796 a wd:Q1047113 ;
+    rdfs:label "fate analysis"@en .
+
+wd:Q15783860 a wd:Q1047113 ;
+    rdfs:label "sociology of work"@en .
+
+wd:Q158230 a wd:Q1047113 ;
+    rdfs:label "pharmacoepidemiology"@en .
+
+wd:Q15841889 a wd:Q1047113 ;
+    rdfs:label "computer engineering"@en .
+
+wd:Q15880378 a wd:Q1047113 ;
+    rdfs:label "Q15880378"^^xsd:string .
+
+wd:Q1591207 a wd:Q1047113 ;
+    rdfs:label "Q1591207"^^xsd:string .
+
+wd:Q15983985 a wd:Q1047113 ;
+    rdfs:label "classical archaeologist"@en .
+
+wd:Q161733 a wd:Q1047113 ;
+    rdfs:label "criminology"@en .
+
+wd:Q16257937 a wd:Q1047113 ;
+    rdfs:label "molecular diagnostics"@en .
+
+wd:Q16267607 a wd:Q1047113 ;
+    rdfs:label "classical philologist"@en .
+
+wd:Q1640108 a wd:Q1047113 ;
+    rdfs:label "switching technology"@en .
+
+wd:Q16442998 a wd:Q1047113 ;
+    rdfs:label "Q16442998"^^xsd:string .
+
+wd:Q1648418 a wd:Q1047113 ;
+    rdfs:label "Vaticanology"@en .
+
+wd:Q165838 a wd:Q1047113 ;
+    rdfs:label "limnology"@en .
+
+wd:Q166153 a wd:Q1047113 ;
+    rdfs:label "German studies"@en .
+
+wd:Q1666927 a wd:Q1047113 ;
+    rdfs:label "clinical social work"@en .
+
+wd:Q1680955 a wd:Q1047113 ;
+    rdfs:label "tagmemics"@en .
+
+wd:Q17023270 a wd:Q336 ;
+    rdfs:label "heritage science"@en .
+
+wd:Q17106096 rdfs:label "Strudel"@en ;
+    rdfs:subClassOf wd:Q43518 .
+
+wd:Q1711247 a wd:Q1047113 ;
+    rdfs:label "youth work"@en .
+
+wd:Q171184 a wd:Q1047113 ;
+    rdfs:label "phylogenetics"@en .
+
+wd:Q17142722 a wd:Q1047113 ;
+    rdfs:label "vehicle technology"@en .
+
+wd:Q1733207 a wd:Q1047113 ;
+    rdfs:label "private international law"@en .
+
+wd:Q1734506 a wd:Q1047113 ;
+    rdfs:label "karstology"@en .
+
+wd:Q17351863 a wd:Q1047113 ;
+    rdfs:label "costume design"@en .
+
+wd:Q17494858 a wd:Q1047113 ;
+    rdfs:label "pipeline construction"@en .
+
+wd:Q1754940 a wd:Q1047113 ;
+    rdfs:label "philosophy of space and time"@en .
+
+wd:Q177777 a wd:Q336 ;
+    rdfs:label "logistics"@en .
+
+wd:Q1782985 a wd:Q1047113 ;
+    rdfs:label "Q1782985"^^xsd:string .
+
+wd:Q178476 a wd:Q1047113 ;
+    rdfs:label "monetary policy"@en .
+
+wd:Q1785846 a wd:Q1047113 ;
+    rdfs:label "molecular ecology"@en .
+
+wd:Q1791844 a wd:Q336 ;
+    rdfs:label "Q1791844"^^xsd:string .
+
+wd:Q179232 a wd:Q1047113 ;
+    rdfs:label "interior design"@en .
+
+wd:Q179957 a wd:Q1047113 ;
+    rdfs:label "palaeography"@en .
+
+wd:Q180711 a wd:Q1047113 ;
+    rdfs:label "search engine optimization"@en .
+
+wd:Q1820059 a wd:Q336 ;
+    rdfs:label "Q1820059"^^xsd:string .
+
+wd:Q183257 a wd:Q1047113 ;
+    rdfs:label "psychotherapy"@en .
+
+wd:Q18336 a wd:Q1047113 ;
+    rdfs:label "heraldry"@en .
+
+wd:Q18378619 rdfs:label "biological oceanography"@en ;
+    rdfs:subClassOf wd:Q43518 .
+
+wd:Q184631 a wd:Q336 ;
+    rdfs:label "ballistics"@en .
+
+wd:Q184793 a wd:Q1047113 ;
+    rdfs:label "computer-aided design"@en .
+
+wd:Q185925 a wd:Q1047113 ;
+    rdfs:label "graphic design"@en .
+
+wd:Q185973 a wd:Q336 ;
+    rdfs:label "plant physiology"@en .
+
+wd:Q18749628 a wd:Q1047113 ;
+    rdfs:label "regulatory affairs"@en .
+
+wd:Q188504 a wd:Q1047113 ;
+    rdfs:label "alternative medicine"@en .
+
+wd:Q189603 a wd:Q336 ;
+    rdfs:label "public health"@en .
+
+wd:Q190149 a wd:Q336 ;
+    rdfs:label "photogrammetry"@en .
+
+wd:Q190637 a wd:Q1047113 ;
+    rdfs:label "web design"@en .
+
+wd:Q1908419 a wd:Q1047113 ;
+    rdfs:label "mathematical geography"@en .
+
+wd:Q1916340 a wd:Q1047113 ;
+    rdfs:label "Media relations"@en .
+
+wd:Q1916441 a wd:Q1047113 ;
+    rdfs:label "media technology"@en .
+
+wd:Q1924400 a wd:Q1047113 ;
+    rdfs:label "Q1924400"^^xsd:string .
+
+wd:Q1924856 a wd:Q1047113 ;
+    rdfs:label "metal construction"@en .
+
+wd:Q192521 a wd:Q1047113 ;
+    rdfs:label "technical drawing"@en .
+
+wd:Q1929812 a wd:Q1047113 ;
+    rdfs:label "systemic therapy"@en .
+
+wd:Q1931480 a wd:Q1047113 ;
+    rdfs:label "neuroinformatics"@en .
+
+wd:Q193378 a wd:Q1047113 ;
+    rdfs:label "biomechanics"@en .
+
+wd:Q1936640 a wd:Q1047113 ;
+    rdfs:label "history of sport"@en .
+
+wd:Q193870 a wd:Q1047113 ;
+    rdfs:label "tribology"@en .
+
+wd:Q193959 a wd:Q1047113 ;
+    rdfs:label "marketing mix"@en .
+
+wd:Q1944497 a wd:Q1047113 ;
+    rdfs:label "crop protection"@en .
+
+wd:Q199655 a wd:Q1047113 ;
+    rdfs:label "library science"@en .
+
+wd:Q20059765 a wd:Q1047113 ;
+    rdfs:label "bibliology"@en .
+
+wd:Q2029930 a wd:Q1047113 ;
+    rdfs:label "organizational studies"@en .
+
+wd:Q2056335 a wd:Q1047113 ;
+    rdfs:label "pastoral theology"@en .
+
+wd:Q2056514 a wd:Q1047113 ;
+    rdfs:label "Active safety"@en .
+
+wd:Q205740 a wd:Q1047113 ;
+    rdfs:label "Egyptian mythology"@en .
+
+wd:Q207011 a wd:Q336 ;
+    rdfs:label "neuroscience"@en .
+
+wd:Q20825773 a wd:Q1047113 ;
+    rdfs:label "textile engineering"@en .
+
+wd:Q2090494 a wd:Q1047113 ;
+    rdfs:label "Automobile safety"@en .
+
+wd:Q210553 a wd:Q336 ;
+    rdfs:label "atomic theory"@en .
+
+wd:Q21071559 a wd:Q1047113 ;
+    rdfs:label "archology"@en .
+
+wd:Q2134756 a wd:Q1047113 ;
+    rdfs:label "Q2134756"^^xsd:string .
+
+wd:Q2137554 a wd:Q1047113 ;
+    rdfs:label "Television broadcast studio"@en .
+
+wd:Q2145956 a wd:Q1047113 ;
+    rdfs:label "Capacity management"@en .
+
+wd:Q21520189 a wd:Q43518 ;
+    rdfs:label "Q21520189"^^xsd:string .
+
+wd:Q2163669 a wd:Q1047113 ;
+    rdfs:label "Q2163669"^^xsd:string .
+
+wd:Q2177380 a wd:Q1047113 ;
+    rdfs:label "ethnozoology"@en .
+
+wd:Q219625 a wd:Q1047113 ;
+    rdfs:label "fine art"@en .
+
+wd:Q220131 a wd:Q1047113 ;
+    rdfs:label "zoo architecture"@en .
+
+wd:Q222749 a wd:Q1047113 ;
+    rdfs:label "acting"@en .
+
+wd:Q223750 a wd:Q1047113 ;
+    rdfs:label "ancient Roman architecture"@en .
+
+wd:Q2251428 a wd:Q1047113 ;
+    rdfs:label "technology history"@en .
+
+wd:Q2264178 a wd:Q1047113 ;
+    rdfs:label "security level management"@en .
+
+wd:Q2301555 a wd:Q1047113 ;
+    rdfs:label "open-loop controller"@en .
+
+wd:Q2334061 a wd:Q1047113 ;
+    rdfs:label "design of experiments"@en .
+
+wd:Q2349677 a wd:Q1047113 ;
+    rdfs:label "Roadworks"@en .
+
+wd:Q2352767 a wd:Q1047113 ;
+    rdfs:label "Latin epigraphy"@en .
+
+wd:Q2376157 a wd:Q1047113 ;
+    rdfs:label "syntax theory"@en .
+
+wd:Q2377719 a wd:Q1047113 ;
+    rdfs:label "Q2377719"^^xsd:string .
+
+wd:Q240389 a wd:Q1047113 ;
+    rdfs:label "craniometry"@en .
+
+wd:Q2405713 a wd:Q1047113 ;
+    rdfs:label "administrative organisation"@en .
+
+wd:Q24067399 a wd:Q336 ;
+    rdfs:label "finance sciences"@en .
+
+wd:Q246396 a wd:Q1047113 ;
+    rdfs:label "deltiology"@en .
+
+wd:Q24937814 a wd:Q1047113 ;
+    rdfs:label "Roman Catholic theology of Scripture"@en .
+
+wd:Q24943442 a wd:Q1047113 ;
+    rdfs:label "Utopian studies"@en .
+
+wd:Q24961304 a wd:Q1047113 ;
+    rdfs:label "Q24961304"^^xsd:string .
+
+wd:Q2515819 a wd:Q1047113 ;
+    rdfs:label "genocide studies"@en .
+
+wd:Q2516123 a wd:Q1047113 ;
+    rdfs:label "Transport Civil engineering"@en .
+
+wd:Q2516453 a wd:Q1047113 ;
+    rdfs:label "traffic engineering"@en .
+
+wd:Q25203895 a wd:Q1047113 ;
+    rdfs:label "morphology"@en .
+
+wd:Q2520723 a wd:Q1047113 ;
+    rdfs:label "Administrative Procedure Law"@en .
+
+wd:Q25261 a wd:Q336 ;
+    rdfs:label "meteorology"@en .
+
+wd:Q2532329 a wd:Q9081 ;
+    rdfs:label "Q2532329"^^xsd:string .
+
+wd:Q25346139 a wd:Q1047113 ;
+    rdfs:label "morphology"@en .
+
+wd:Q25376901 a wd:Q7991 ;
+    rdfs:label "Q25376901"^^xsd:string .
+
+wd:Q25377229 a wd:Q336 ;
+    rdfs:label "Edutainment and pedagogy"@en .
+
+wd:Q2539147 a wd:Q1047113 ;
+    rdfs:label "Q2539147"^^xsd:string .
+
+wd:Q25421114 a wd:Q336 ;
+    rdfs:label "Celebrate Hummingbirds"@en .
+
+wd:Q2560571 a wd:Q1047113 ;
+    rdfs:label "Toolmaking"@en .
+
+wd:Q2563573 a wd:Q1047113 ;
+    rdfs:label "securities law"@en .
+
+wd:Q2620112 a wd:Q336 ;
+    rdfs:label "Germanic philology"@en .
+
+wd:Q2627395 a wd:Q8008 ;
+    rdfs:label "surface-water hydrology"@en .
+
+wd:Q2629037 a wd:Q1047113 ;
+    rdfs:label "Q2629037"^^xsd:string .
+
+wd:Q2629623 a wd:Q1047113 ;
+    rdfs:label "Q2629623"^^xsd:string .
+
+wd:Q2654422 a wd:Q1047113 ;
+    rdfs:label "sector of archives"@en .
+
+wd:Q265799 a wd:Q1047113 ;
+    rdfs:label "human genetics"@en .
+
+wd:Q268194 a wd:Q1047113 ;
+    rdfs:label "history of economic thought"@en .
+
+wd:Q2695430 a wd:Q1047113 ;
+    rdfs:label "airline security"@en .
+
+wd:Q2699199 a wd:Q336 ;
+    rdfs:label "Geragogy"@en .
+
+wd:Q2705119 a wd:Q1047113 ;
+    rdfs:label "Neuro-psychoanalysis"@en .
+
+wd:Q2736989 a wd:Q1047113 ;
+    rdfs:label "science of public administration"@en .
+
+wd:Q28389 a wd:Q1047113 ;
+    rdfs:label "screenwriter"@en .
+
+wd:Q28873772 a wd:Q1047113 ;
+    rdfs:label "inferential statistics"@en .
+
+wd:Q2892439 a wd:Q336 ;
+    rdfs:label "human physiology"@en .
+
+wd:Q2901245 a wd:Q1047113 ;
+    rdfs:label "bibliology"@en .
+
+wd:Q294240 a wd:Q1047113 ;
+    rdfs:label "public security"@en .
+
+wd:Q294417 a wd:Q1047113 ;
+    rdfs:label "Public Building Law (Germany)"@en .
+
+wd:Q3009579 a wd:Q336 ;
+    rdfs:label "cytology"@en .
+
+wd:Q3039605 a wd:Q1047113 ;
+    rdfs:label "Q3039605"^^xsd:string .
+
+wd:Q3039676 a wd:Q1047113 ;
+    rdfs:label "Q3039676"^^xsd:string .
+
+wd:Q3039756 a wd:Q1047113 ;
+    rdfs:label "Q3039756"^^xsd:string .
+
+wd:Q3046459 a wd:Q336 ;
+    rdfs:label "Earth system science"@en .
+
+wd:Q30708491 a wd:Q1047113 ;
+    rdfs:label "fragmentology"@en .
+
+wd:Q3092681 a wd:Q1047113 ;
+    rdfs:label "feminism in international relations"@en .
+
+wd:Q31157641 a wd:Q336 ;
+    rdfs:label "vase science"@en .
+
+wd:Q321249 a wd:Q1047113 ;
+    rdfs:label "applied linguistics"@en .
+
+wd:Q323936 a wd:Q1047113 ;
+    rdfs:label "pharmacokinetics"@en .
+
+wd:Q323996 a wd:Q1047113 ;
+    rdfs:label "demonology"@en .
+
+wd:Q3302130 a wd:Q1047113 ;
+    rdfs:label "Cardiac electrophysiology"@en .
+
+wd:Q33026675 a wd:Q336 ;
+    rdfs:label "Q33026675"^^xsd:string .
+
+wd:Q3305355 a wd:Q1047113 ;
+    rdfs:label "neurotechnology"@en .
+
+wd:Q33226 a wd:Q1047113 ;
+    rdfs:label "speech-language pathology"@en .
+
+wd:Q334823 a wd:Q1047113 ;
+    rdfs:label "structural geology"@en .
+
+wd:Q3349060 a wd:Q336 ;
+    rdfs:label "oceanology"@en .
+
+wd:Q3457018 a wd:Q1047113 ;
+    rdfs:label "Q3457018"^^xsd:string .
+
+wd:Q3475736 a wd:Q336 ;
+    rdfs:label "Q3475736"^^xsd:string .
+
+wd:Q3475768 a wd:Q336 ;
+    rdfs:label "Q3475768"^^xsd:string .
+
+wd:Q34850488 a wd:Q336 ;
+    rdfs:label "Sindonology"@en .
+
+wd:Q350151 a wd:Q1047113 ;
+    rdfs:label "national accounts"@en .
+
+wd:Q3519248 a wd:Q336 ;
+    rdfs:label "teuthology"@en .
+
+wd:Q3526520 a wd:Q1047113 ;
+    rdfs:label "Q3526520"^^xsd:string .
+
+wd:Q35395 a wd:Q1047113 ;
+    rdfs:label "phonetics"@en .
+
+wd:Q3547018 a wd:Q1047113 ;
+    rdfs:label "Q3547018"^^xsd:string .
+
+wd:Q3578760 a wd:Q1047113 ;
+    rdfs:label "geographical economy"@en .
+
+wd:Q360239 a wd:Q1047113 ;
+    rdfs:label "Building biology"@en .
+
+wd:Q3621186 a wd:Q1047113 ;
+    rdfs:label "Arabic studies"@en .
+
+wd:Q3745514 a wd:Q1047113 ;
+    rdfs:label "Latin American philosophy"@en .
+
+wd:Q378426 a wd:Q1047113 ;
+    rdfs:label "diplomatics"@en .
+
+wd:Q379838 a wd:Q1047113 ;
+    rdfs:label "sigillography"@en .
+
+wd:Q380313 a wd:Q1047113 ;
+    rdfs:label "archival science"@en .
+
+wd:Q380344 a wd:Q1047113 ;
+    rdfs:label "descriptive statistics"@en .
+
+wd:Q381496 a wd:Q1047113 ;
+    rdfs:label "aeroclimatology"@en .
+
+wd:Q381517 a wd:Q336 ;
+    rdfs:label "Atmospheric sounding"@en .
+
+wd:Q381792 a wd:Q1047113 ;
+    rdfs:label "Q381792"^^xsd:string .
+
+wd:Q382113 a wd:Q1047113 ;
+    rdfs:label "admiralty law"@en .
+
+wd:Q382857 a wd:Q336 ;
+    rdfs:label "Q382857"^^xsd:string .
+
+wd:Q3901985 a wd:Q1047113 ;
+    rdfs:label "piano pedagogy"@en .
+
+wd:Q396188 a wd:Q1047113 ;
+    rdfs:label "Agricultural journalism"@en .
+
+wd:Q3963865 a wd:Q1047113 ;
+    rdfs:label "Sociology of deviance and social change"@en .
+
+wd:Q397439 a wd:Q336 ;
+    rdfs:label "agrophysics"@en .
+
+wd:Q39809 a wd:Q1047113 ;
+    rdfs:label "marketing"@en .
+
+wd:Q4086949 a wd:Q336 ;
+    rdfs:label "biocenology"@en .
+
+wd:Q4130902 a wd:Q336 ;
+    rdfs:label "Q4130902"^^xsd:string .
+
+wd:Q41493 a wd:Q1047113 ;
+    rdfs:label "ancient history"@en .
+
+wd:Q41630 a wd:Q1047113 ;
+    rdfs:label "psychoanalysis"@en .
+
+wd:Q421890 a wd:Q1047113 ;
+    rdfs:label "Q421890"^^xsd:string .
+
+wd:Q42250 a wd:Q1047113 ;
+    rdfs:label "hydrology"@en .
+
+wd:Q423617 a wd:Q1047113 ;
+    rdfs:label "Q423617"^^xsd:string .
+
+wd:Q424083 a wd:Q1047113 ;
+    rdfs:label "acoustic phonetics"@en .
+
+wd:Q425694 a wd:Q1047113 ;
+    rdfs:label "family and consumer science"@en .
+
+wd:Q428691 a wd:Q1047113 ;
+    rdfs:label "computer engineering"@en .
+
+wd:Q435608 a wd:Q1047113 ;
+    rdfs:label "Ancient History"@en .
+
+wd:Q4378388 a wd:Q336 ;
+    rdfs:label "applied optics"@en .
+
+wd:Q439072 a wd:Q336 ;
+    rdfs:label "classical studies"@en .
+
+wd:Q44325 a wd:Q1047113 ;
+    rdfs:label "ontology"@en .
+
+wd:Q449343 a wd:Q1047113 ;
+    rdfs:label "automotive electronics"@en .
+
+wd:Q456632 a wd:Q1047113 ;
+    rdfs:label "information privacy"@en .
+
+wd:Q46267078 a wd:Q1047113 ;
+    rdfs:label "Luxembourgish studies"@en .
+
+wd:Q471906 a wd:Q336 ;
+    rdfs:label "quantum cryptography"@en .
+
+wd:Q47307 a wd:Q1047113 ;
+    rdfs:label "genealogy"@en .
+
+wd:Q47555 a wd:Q1047113 ;
+    rdfs:label "political economy"@en .
+
+wd:Q48183402 a wd:Q1047113 ;
+    rdfs:label "Q48183402"^^xsd:string .
+
+wd:Q485762 a wd:Q1047113 ;
+    rdfs:label "toponymy"@en .
+
+wd:Q48582594 a wd:Q1047113 ;
+    rdfs:label "Christian angelology"@en .
+
+wd:Q4914852 a wd:Q7991 ;
+    rdfs:label "biogeophysics"@en .
+
+wd:Q4915039 a wd:Q1047113 ;
+    rdfs:label "Biologically inspired engineering"@en .
+
+wd:Q492537 a wd:Q1047113 ;
+    rdfs:label "dramaturgy"@en .
+
+wd:Q501778 a wd:Q1047113 ;
+    rdfs:label "translation studies"@en .
+
+wd:Q5031434 a wd:Q1047113 ;
+    rdfs:label "cancer epigenetics"@en .
+
+wd:Q50852144 a wd:Q1047113 ;
+    rdfs:label "Q50852144"^^xsd:string .
+
+wd:Q51078297 a wd:Q43518 ;
+    rdfs:label "Q51078297"^^xsd:string .
+
+wd:Q5157304 a wd:Q1047113 ;
+    rdfs:label "Computational cognition"@en .
+
+wd:Q5193419 a wd:Q1047113 ;
+    rdfs:label "cultural translation"@en .
+
+wd:Q528130 rdfs:label "chemical oceanography"@en ;
+    rdfs:subClassOf wd:Q43518 .
+
+wd:Q5381001 a wd:Q1047113 ;
+    rdfs:label "Environment, Health and Safety"@en .
+
+wd:Q5427161 a wd:Q336 ;
+    rdfs:label "FSU Young Scholars Program"@en .
+
+wd:Q5567091 a wd:Q1047113 ;
+    rdfs:label "glass art"@en .
+
+wd:Q56683254 a wd:Q1047113 ;
+    rdfs:label "Q56683254"^^xsd:string .
+
+wd:Q56864127 a wd:Q1047113 ;
+    rdfs:label "physiological optics"@en .
+
+wd:Q572824 a wd:Q1047113 ;
+    rdfs:label "cultural heritage management"@en .
+
+wd:Q580178 a wd:Q1047113 ;
+    rdfs:label "wildlife management"@en .
+
+wd:Q58483256 a wd:Q1047113 ;
+    rdfs:label "data tribology"@en .
+
+wd:Q586060 a wd:Q1047113 ;
+    rdfs:label "creative writing"@en .
+
+wd:Q591138 a wd:Q336 ;
+    rdfs:label "Plant evolutionary developmental biology"@en .
+
+wd:Q59258895 a wd:Q336 ;
+    rdfs:label "Bioscience"@en .
+
+wd:Q59467300 a wd:Q336 ;
+    rdfs:label "adion"@en .
+
+wd:Q599048 a wd:Q1047113 ;
+    rdfs:label "political consulting"@en .
+
+wd:Q615457 a wd:Q336 ;
+    rdfs:label "Estação Cabo Branco de Ciências, Culturas e Artes"@en .
+
+wd:Q615684 a wd:Q1047113 ;
+    rdfs:label "social computing"@en .
+
+wd:Q61706319 a wd:Q1047113 ;
+    rdfs:label "Development Policy"@en .
+
+wd:Q62392920 a wd:Q336 ;
+    rdfs:label "community science"@en .
+
+wd:Q62393045 a wd:Q336 ;
+    rdfs:label "academic research"@en .
+
+wd:Q62689 a wd:Q336 ;
+    rdfs:label "Cameralism"@en .
+
+wd:Q62693579 a wd:Q336 ;
+    rdfs:label "quintuplet"@en .
+
+wd:Q638 a wd:Q1047113 ;
+    rdfs:label "music"@en .
+
+wd:Q64145527 a wd:Q1047113 ;
+    rdfs:label "crime prediction"@en .
+
+wd:Q64711756 rdfs:label "submarine geology"@en ;
+    rdfs:subClassOf wd:Q43518 .
+
+wd:Q6502543 a wd:Q1047113 ;
+    rdfs:label "Lavender linguistics"@en .
+
+wd:Q65614235 a wd:Q1047113 ;
+    rdfs:label "Algerian war and comics"@en .
+
+wd:Q6684817 a wd:Q336 ;
+    rdfs:label "lotology"@en .
+
+wd:Q6686069 a wd:Q1047113 ;
+    rdfs:label "Loudspeaker acoustics"@en .
+
+wd:Q671024 a wd:Q1047113 ;
+    rdfs:label "feudal law"@en .
+
+wd:Q6913459 a wd:Q1047113 ;
+    rdfs:label "folkloristic morphology"@en .
+
+wd:Q6940702 a wd:Q1047113 ;
+    rdfs:label "museum anthropology"@en .
+
+wd:Q6971323 a wd:Q336 ;
+    rdfs:label "National Center for Ecological Analysis and Synthesis"@en .
+
+wd:Q69883 a wd:Q1047113 ;
+    rdfs:label "urban planning"@en .
+
+wd:Q69886737 a wd:Q1047113 ;
+    rdfs:label "psychiatric social work"@en .
+
+wd:Q7007379 a wd:Q1047113 ;
+    rdfs:label "business process management"@en .
+
+wd:Q7076133 a wd:Q336 ;
+    rdfs:label "ocean chemistry"@en ;
+    rdfs:subClassOf wd:Q43518 .
+
+wd:Q7168 a wd:Q336 ;
+    rdfs:label "histology"@en .
+
+wd:Q7202 a wd:Q336 ;
+    rdfs:label "molecular biology"@en .
+
+wd:Q7206 a wd:Q336 ;
+    rdfs:label "paleoanthropology"@en .
+
+wd:Q72083407 a wd:Q336 ;
+    rdfs:label "health and medicine"@en .
+
+wd:Q7268931 a wd:Q1047113 ;
+    rdfs:label "Quantitative marketing research"@en .
+
+wd:Q730675 a wd:Q1047113 ;
+    rdfs:label "quantitative research"@en .
+
+wd:Q735602 a wd:Q1047113 ;
+    rdfs:label "quantum optics"@en .
+
+wd:Q7394713 a wd:Q9081 ;
+    rdfs:label "STEAM fields"@en .
+
+wd:Q743030 a wd:Q1047113 ;
+    rdfs:label "environmental technology"@en .
+
+wd:Q7455845 a wd:Q336 ;
+    rdfs:label "services computing"@en .
+
+wd:Q7567247 a wd:Q336 ;
+    rdfs:label "South Florida Science Museum"@en .
+
+wd:Q757248 a wd:Q336 ;
+    rdfs:label "papyrology"@en .
+
+wd:Q7596512 a wd:Q336 ;
+    rdfs:label "stadium seating"@en .
+
+wd:Q76025593 a wd:Q336 ;
+    rdfs:label "monster"@en .
+
+wd:Q76574329 a wd:Q1047113 ;
+    rdfs:label "chaotician"@en .
+
+wd:Q7663776 a wd:Q1047113 ;
+    rdfs:label "systematic ideology"@en .
+
+wd:Q77597909 a wd:Q336 ;
+    rdfs:label "mountain breeze"@en .
+
+wd:Q777376 a wd:Q1047113 ;
+    rdfs:label "School social work"@en .
+
+wd:Q77922667 a wd:Q1047113 ;
+    rdfs:label "climate dynamics"@en .
+
+wd:Q77967208 a wd:Q1047113 ;
+    rdfs:label "Public Building Law (Switzerland)"@en .
+
+wd:Q7834487 a wd:Q1047113 ;
+    rdfs:label "transitology"@en .
+
+wd:Q7834548 a wd:Q336 ;
+    rdfs:label "translational science"@en .
+
+wd:Q787422 a wd:Q1047113 ;
+    rdfs:label "Automatic Control (technology of automation)"@en .
+
+wd:Q8078 a wd:Q336 ;
+    rdfs:label "logic"@en .
+
+wd:Q81009 a wd:Q1047113 ;
+    rdfs:label "rhetoric"@en .
+
+wd:Q812943 a wd:Q1047113 ;
+    rdfs:label "Civil Service Law"@en .
+
+wd:Q815820 a wd:Q1047113 ;
+    rdfs:label "computational fluid dynamics"@en .
+
+wd:Q8190263 a wd:Q336 ;
+    rdfs:label "Q8190263"^^xsd:string .
+
+wd:Q82604 a wd:Q1047113 ;
+    rdfs:label "design"@en .
+
+wd:Q831873 a wd:Q1047113 ;
+    rdfs:label "Betriebsfestigkeit"@en .
+
+wd:Q83634378 a wd:Q1047113 ;
+    rdfs:label "radio playwright"@en .
+
+wd:Q840400 a wd:Q1047113 ;
+    rdfs:label "evolutionary biology"@en .
+
+wd:Q8421 a wd:Q336 ;
+    rdfs:label "aeronautics"@en .
+
+wd:Q843601 a wd:Q1047113 ;
+    rdfs:label "health science"@en .
+
+wd:Q852008 a wd:Q1047113 ;
+    rdfs:label "Civil protection"@en .
+
+wd:Q853422 a wd:Q1047113 ;
+    rdfs:label "paleomagnetism"@en .
+
+wd:Q853915 a wd:Q1047113 ;
+    rdfs:label "economic geology"@en .
+
+wd:Q856623 a wd:Q1047113 ;
+    rdfs:label "library management"@en .
+
+wd:Q856625 a wd:Q1047113 ;
+    rdfs:label "branch of libraries"@en .
+
+wd:Q861716 a wd:Q1047113 ;
+    rdfs:label "visual culture"@en .
+
+wd:Q865083 a wd:Q1047113 ;
+    rdfs:label "corpus linguistics"@en .
+
+wd:Q8789 a wd:Q336 ;
+    rdfs:label "cryptography"@en .
+
+wd:Q897511 a wd:Q336 ;
+    rdfs:label "cryptanalysis"@en .
+
+wd:Q9008037 a wd:Q1047113 ;
+    rdfs:label "Imagery"@en .
+
+wd:Q905036 a wd:Q1047113 ;
+    rdfs:label "computational sociology"@en .
+
+wd:Q908604 a wd:Q336 ;
+    rdfs:label "social history"@en .
+
+wd:Q9375979 a wd:Q1047113 ;
+    rdfs:label "visagie"@en .
+
+wd:Q948732 a wd:Q1047113 ;
+    rdfs:label "environmental education"@en .
+
+wd:Q1048607 rdfs:label "conviction"@en .
+
+wd:Q492 rdfs:label "memory"@en .
+
+wd:Q8008 rdfs:label "Earth sciences"@en ;
+    rdfs:subClassOf wd:Q7991 .
+
+wd:Q7991 rdfs:label "natural science"@en ;
+    rdfs:subClassOf wd:Q336 .
+
+wd:Q9081 rdfs:label "knowledge"@en ;
+    rdfs:subClassOf wd:Q1048607,
+        wd:Q492 .
+
+wd:Q43518 a wd:Q1047113 ;
+    rdfs:label "oceanography"@en ;
+    rdfs:subClassOf wd:Q8008 .
+
+wd:Q336 rdfs:label "science"@en .
+
+wd:Q1047113 rdfs:label "specialty"@en ;
+    rdfs:subClassOf wd:Q9081 .
+

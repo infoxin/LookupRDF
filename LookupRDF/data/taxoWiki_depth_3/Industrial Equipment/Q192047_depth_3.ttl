@@ -1,0 +1,942 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q10271302 a wd:Q3249551 ;
+    rdfs:label "bids for the 1992 Summer Olympics"@en .
+
+wd:Q10354133 a wd:Q3249551 ;
+    rdfs:label "Q10354133"^^xsd:string .
+
+wd:Q1054121 a wd:Q1408288 ;
+    rdfs:label "hammered coinage"@en .
+
+wd:Q10542587 a wd:Q10843872 ;
+    rdfs:label "Kaldo converter"@en .
+
+wd:Q10573252 a wd:Q10843872 ;
+    rdfs:label "Q10573252"^^xsd:string .
+
+wd:Q10609775 a wd:Q10843872 ;
+    rdfs:label "information visualization"@en .
+
+wd:Q10676124 a wd:Q3249551 ;
+    rdfs:label "Q10676124"^^xsd:string .
+
+wd:Q10690961 a wd:Q1408288 ;
+    rdfs:label "tapestry stitch"@en .
+
+wd:Q1069953 a wd:Q10843872 ;
+    rdfs:label "lip reading"@en .
+
+wd:Q1087682 a wd:Q3249551 ;
+    rdfs:label "background check"@en .
+
+wd:Q1087697 a wd:Q1408288 ;
+    rdfs:label "chromizing"@en .
+
+wd:Q114077 a wd:Q10843872 ;
+    rdfs:label "Message Mapping"@en .
+
+wd:Q1142948 a wd:Q18511800 ;
+    rdfs:label "legal separation"@en .
+
+wd:Q1154530 a wd:Q3249551 ;
+    rdfs:label "DMADV"@en .
+
+wd:Q11698385 a wd:Q10843872 ;
+    rdfs:label "foliation"@en .
+
+wd:Q11750728 a wd:Q1408288 ;
+    rdfs:label "Punching"@en .
+
+wd:Q118568 a wd:Q1408288 ;
+    rdfs:label "Oxy-fuel welding and cutting"@en .
+
+wd:Q1186844 a wd:Q3249551 ;
+    rdfs:label "leather crafting"@en .
+
+wd:Q1196099 a wd:Q18511800 ;
+    rdfs:label "Tito–Stalin split"@en .
+
+wd:Q1196855 a wd:Q1408288 ;
+    rdfs:label "Electrochemical machining"@en .
+
+wd:Q11993747 rdfs:label "oil drilling"@en ;
+    rdfs:subClassOf wd:Q890886 .
+
+wd:Q1200681 a wd:Q3249551 ;
+    rdfs:label "designation"@en .
+
+wd:Q1203642 a wd:Q10843872 ;
+    rdfs:label "planetary migration"@en .
+
+wd:Q12056404 a wd:Q10843872 ;
+    rdfs:label "food sterilization"@en .
+
+wd:Q12147611 a wd:Q10843872 ;
+    rdfs:label "rheolaveur"@en .
+
+wd:Q12371171 a wd:Q3249551 ;
+    rdfs:label "Q12371171"^^xsd:string .
+
+wd:Q125587 a wd:Q3249551 ;
+    rdfs:label "interpretatio graeca"@en .
+
+wd:Q1261779 a wd:Q1408288 ;
+    rdfs:label "metal spinning"@en .
+
+wd:Q1268460 a wd:Q1408288 ;
+    rdfs:label "Q1268460"^^xsd:string .
+
+wd:Q12860083 a wd:Q10843872 ;
+    rdfs:label "Vinyl cutter"@en .
+
+wd:Q129871 a wd:Q10843872 ;
+    rdfs:label "trichromy"@en .
+
+wd:Q1304791 a wd:Q3249551 ;
+    rdfs:label "goldwork"@en .
+
+wd:Q1321267 a wd:Q3249551 ;
+    rdfs:label "egg tempera"@en .
+
+wd:Q1326773 a wd:Q1408288 ;
+    rdfs:label "Q1326773"^^xsd:string .
+
+wd:Q133067 a wd:Q3249551 ;
+    rdfs:label "mosaic"@en .
+
+wd:Q1343660 a wd:Q10843872 ;
+    rdfs:label "register allocation"@en .
+
+wd:Q1362274 a wd:Q3249551 ;
+    rdfs:label "hominization"@en .
+
+wd:Q139143 a wd:Q1408288 ;
+    rdfs:label "extrusion"@en .
+
+wd:Q1396390 a wd:Q3249551 ;
+    rdfs:label "color grading"@en .
+
+wd:Q1399180 a wd:Q3249551 ;
+    rdfs:label "interpretatio romana"@en .
+
+wd:Q1399209 a wd:Q10843872 ;
+    rdfs:label "social innovation"@en .
+
+wd:Q1428108 a wd:Q10843872 ;
+    rdfs:label "room air distribution"@en .
+
+wd:Q14317675 a wd:Q1408288 ;
+    rdfs:label "Q14317675"^^xsd:string .
+
+wd:Q1470124 a wd:Q1408288 ;
+    rdfs:label "riveting"@en .
+
+wd:Q14850406 a wd:Q10843872 ;
+    rdfs:label "Q14850406"^^xsd:string .
+
+wd:Q1501437 a wd:Q10843872 ;
+    rdfs:label "Basic oxygen steelmaking"@en .
+
+wd:Q1506986 a wd:Q1408288 ;
+    rdfs:label "chrome plating"@en .
+
+wd:Q15121266 a wd:Q10843872 ;
+    rdfs:label "Food fortification"@en .
+
+wd:Q1520743 a wd:Q3249551 ;
+    rdfs:label "Canadian Confederation"@en .
+
+wd:Q1529731 a wd:Q1408288 ;
+    rdfs:label "Q1529731"^^xsd:string .
+
+wd:Q15305109 a wd:Q10843872 ;
+    rdfs:label "fractionation"@en .
+
+wd:Q15583893 a wd:Q10843872 ;
+    rdfs:label "Direct reduction"@en .
+
+wd:Q1570432 a wd:Q10843872,
+        wd:Q1408288 ;
+    rdfs:label "semiconductor device fabrication"@en .
+
+wd:Q1581290 a wd:Q10843872 ;
+    rdfs:label "healing"@en .
+
+wd:Q1625089 a wd:Q3249551 ;
+    rdfs:label "Holotropic Breathwork"@en .
+
+wd:Q16294951 a wd:Q10843872 ;
+    rdfs:label "Lenticular lens"@en .
+
+wd:Q1651044 a wd:Q1408288 ;
+    rdfs:label "shaping process"@en .
+
+wd:Q16543829 a wd:Q10843872 ;
+    rdfs:label "Manhès-David process"@en .
+
+wd:Q16543833 a wd:Q10843872 ;
+    rdfs:label "Peirce-Smith converter"@en .
+
+wd:Q1668135 a wd:Q3249551 ;
+    rdfs:label "interpretatio celtica"@en .
+
+wd:Q1671183 a wd:Q10843872 ;
+    rdfs:label "Q1671183"^^xsd:string .
+
+wd:Q17086007 a wd:Q3249551 ;
+    rdfs:label "tokenization"@en .
+
+wd:Q17141444 a wd:Q3249551 ;
+    rdfs:label "mixed technique"@en .
+
+wd:Q17141634 a wd:Q3249551 ;
+    rdfs:label "codification"@en .
+
+wd:Q17232201 a wd:Q3249551 ;
+    rdfs:label "folding"@en .
+
+wd:Q17382879 a wd:Q10843872 ;
+    rdfs:label "Q17382879"^^xsd:string .
+
+wd:Q1740014 a wd:Q1408288 ;
+    rdfs:label "Q1740014"^^xsd:string .
+
+wd:Q175166 a wd:Q3249551 ;
+    rdfs:label "tempera"@en .
+
+wd:Q175873 a wd:Q3249551 ;
+    rdfs:label "Dry sterilisation process"@en .
+
+wd:Q1769505 a wd:Q1408288 ;
+    rdfs:label "copper plating"@en .
+
+wd:Q1775972 a wd:Q3249551 ;
+    rdfs:label "development of doctrine"@en .
+
+wd:Q1784021 a wd:Q10843872 ;
+    rdfs:label "artwork copy"@en .
+
+wd:Q1795585 a wd:Q10843872 ;
+    rdfs:label "Release management"@en .
+
+wd:Q1797057 a wd:Q1408288 ;
+    rdfs:label "Shearing"@en .
+
+wd:Q17985448 a wd:Q10843872 ;
+    rdfs:label "AJAX furnace"@en .
+
+wd:Q1800324 a wd:Q10843872 ;
+    rdfs:label "store"@en .
+
+wd:Q184554 a wd:Q10843872 ;
+    rdfs:label "orogeny"@en .
+
+wd:Q1894248 a wd:Q1408288 ;
+    rdfs:label "coining (mint)"@en .
+
+wd:Q1915261 a wd:Q3249551 ;
+    rdfs:label "Q1915261"^^xsd:string .
+
+wd:Q191623 a wd:Q10843872 ;
+    rdfs:label "Zerfallskanal"@en .
+
+wd:Q191682 a wd:Q1408288 ;
+    rdfs:label "decomposition"@en .
+
+wd:Q191960 a wd:Q10843872 ;
+    rdfs:label "Zerobalancing"@en .
+
+wd:Q196930 a wd:Q10843872 ;
+    rdfs:label "Zeugdruckerei"@en .
+
+wd:Q1988426 a wd:Q10843872 ;
+    rdfs:label "low cupola furnace"@en .
+
+wd:Q20091852 a wd:Q3249551 ;
+    rdfs:label "instrument-making"@en .
+
+wd:Q2044919 a wd:Q10843872 ;
+    rdfs:label "ISAC"@en .
+
+wd:Q2071902 a wd:Q3249551 ;
+    rdfs:label "coalescence"@en .
+
+wd:Q2084429 a wd:Q10843872 ;
+    rdfs:label "Q2084429"^^xsd:string .
+
+wd:Q2098216 a wd:Q1408288 ;
+    rdfs:label "planishing"@en .
+
+wd:Q2098498 a wd:Q1408288 ;
+    rdfs:label "plasticizing"@en .
+
+wd:Q21051252 a wd:Q1408288 ;
+    rdfs:label "Q21051252"^^xsd:string .
+
+wd:Q21087295 a wd:Q3249551 ;
+    rdfs:label "Q21087295"^^xsd:string .
+
+wd:Q2112558 a wd:Q3249551 ;
+    rdfs:label "project planning"@en .
+
+wd:Q211578 a wd:Q3249551 ;
+    rdfs:label "tanning"@en .
+
+wd:Q21651879 a wd:Q3249551 ;
+    rdfs:label "Q21651879"^^xsd:string .
+
+wd:Q21711434 a wd:Q1408288 ;
+    rdfs:label "nickel plating"@en .
+
+wd:Q217418 a wd:Q10843872 ;
+    rdfs:label "cloud seeding"@en .
+
+wd:Q2238208 rdfs:label "Q2238208"^^xsd:string ;
+    rdfs:subClassOf wd:Q192047 .
+
+wd:Q23201577 a wd:Q3249551 ;
+    rdfs:label "carving"@en .
+
+wd:Q23304806 a wd:Q3249551 ;
+    rdfs:label "extra-illustration"@en .
+
+wd:Q2347024 a wd:Q1408288 ;
+    rdfs:label "wood splitting"@en .
+
+wd:Q2348121 a wd:Q3249551 ;
+    rdfs:label "clock recovery"@en .
+
+wd:Q2368570 a wd:Q18511800 ;
+    rdfs:label "Latin classes"@en .
+
+wd:Q2370615 rdfs:label "Q2370615"^^xsd:string ;
+    rdfs:subClassOf wd:Q192047 .
+
+wd:Q238559 a wd:Q10843872 ;
+    rdfs:label "5-point check"@en .
+
+wd:Q2392168 a wd:Q1408288 ;
+    rdfs:label "photoelectrolysis"@en .
+
+wd:Q2398008 a wd:Q1408288 ;
+    rdfs:label "Q2398008"^^xsd:string .
+
+wd:Q2415536 a wd:Q1408288 ;
+    rdfs:label "milled coinage"@en .
+
+wd:Q2431978 rdfs:label "Q2431978"^^xsd:string ;
+    rdfs:subClassOf wd:Q192047 .
+
+wd:Q2442900 rdfs:label "counterbore"@en ;
+    rdfs:subClassOf wd:Q192047 .
+
+wd:Q245117 a wd:Q3249551 ;
+    rdfs:label "relief sculpture"@en .
+
+wd:Q24639848 a wd:Q10843872 ;
+    rdfs:label "atheization"@en .
+
+wd:Q249099 a wd:Q10843872 ;
+    rdfs:label "Cuvée"@en .
+
+wd:Q25054194 a wd:Q10843872 ;
+    rdfs:label "Goal pursuit"@en .
+
+wd:Q25091543 a wd:Q3249551 ;
+    rdfs:label "repopulation"@en .
+
+wd:Q2517023 a wd:Q1408288 ;
+    rdfs:label "brass plating"@en .
+
+wd:Q25381331 rdfs:label "Q25381331"^^xsd:string ;
+    rdfs:subClassOf wd:Q192047 .
+
+wd:Q25448719 a wd:Q1422489 ;
+    rdfs:label "Q25448719"^^xsd:string .
+
+wd:Q2546886 rdfs:label "Q2546886"^^xsd:string ;
+    rdfs:subClassOf wd:Q192047 .
+
+wd:Q258127 rdfs:label "turning"@en ;
+    rdfs:subClassOf wd:Q192047 .
+
+wd:Q2595403 a wd:Q18511800 ;
+    rdfs:label "partition"@en .
+
+wd:Q2596041 a wd:Q10843872 ;
+    rdfs:label "Waelz process"@en .
+
+wd:Q260606 a wd:Q10843872 ;
+    rdfs:label "injection molding"@en .
+
+wd:Q26257586 a wd:Q1408288 ;
+    rdfs:label "Q26257586"^^xsd:string .
+
+wd:Q2626056 a wd:Q1408288 ;
+    rdfs:label "Q2626056"^^xsd:string .
+
+wd:Q26265824 a wd:Q1408288 ;
+    rdfs:label "chasing"@en .
+
+wd:Q2637825 rdfs:label "Q2637825"^^xsd:string ;
+    rdfs:subClassOf wd:Q192047 .
+
+wd:Q2657271 a wd:Q1408288 ;
+    rdfs:label "silvering"@en .
+
+wd:Q2673285 a wd:Q3249551 ;
+    rdfs:label "Q2673285"^^xsd:string .
+
+wd:Q2679703 a wd:Q1408288 ;
+    rdfs:label "cast coinage"@en .
+
+wd:Q27110331 a wd:Q10843872 ;
+    rdfs:label "Applying for asylum"@en .
+
+wd:Q272953 a wd:Q1408288 ;
+    rdfs:label "tinning"@en .
+
+wd:Q27617 a wd:Q10843872 ;
+    rdfs:label "denazification"@en .
+
+wd:Q278156 a wd:Q10843872 ;
+    rdfs:label "woodturning"@en .
+
+wd:Q27866177 a wd:Q10843872 ;
+    rdfs:label "Q27866177"^^xsd:string .
+
+wd:Q28195494 a wd:Q3249551 ;
+    rdfs:label "fluid flow"@en .
+
+wd:Q283635 a wd:Q3249551 ;
+    rdfs:label "Gold fixing"@en .
+
+wd:Q285332 a wd:Q3249551 ;
+    rdfs:label "Bergeron process"@en .
+
+wd:Q29010608 a wd:Q3249551 ;
+    rdfs:label "efforts to impeach Donald Trump"@en .
+
+wd:Q2906367 a wd:Q10843872 ;
+    rdfs:label "Expansion of Jerusalem in the 19th-century"@en .
+
+wd:Q29110171 rdfs:label "Q29110171"^^xsd:string ;
+    rdfs:subClassOf wd:Q890886 .
+
+wd:Q2920267 a wd:Q3249551 ;
+    rdfs:label "Engineering design process"@en .
+
+wd:Q295905 a wd:Q10843872 ;
+    rdfs:label "Argon oxygen decarburization"@en .
+
+wd:Q296486 a wd:Q3249551 ;
+    rdfs:label "ecocide"@en .
+
+wd:Q2997961 a wd:Q1408288 ;
+    rdfs:label "drawing"@en .
+
+wd:Q302932 a wd:Q1408288 ;
+    rdfs:label "corona treatment"@en .
+
+wd:Q3050558 a wd:Q10843872 ;
+    rdfs:label "Electrical Wafer Sorting"@en .
+
+wd:Q3052219 a wd:Q10843872 ;
+    rdfs:label "nixtamalization"@en .
+
+wd:Q3094388 a wd:Q10843872 ;
+    rdfs:label "Q3094388"^^xsd:string .
+
+wd:Q31842612 a wd:Q1408288 ;
+    rdfs:label "Q31842612"^^xsd:string .
+
+wd:Q322255 a wd:Q3249551 ;
+    rdfs:label "distributing"@en .
+
+wd:Q32947890 a wd:Q1408288 ;
+    rdfs:label "Q32947890"^^xsd:string .
+
+wd:Q3297076 rdfs:label "Diamond tool"@en ;
+    rdfs:subClassOf wd:Q192047 .
+
+wd:Q3303183 a wd:Q10843872 ;
+    rdfs:label "iron refining"@en .
+
+wd:Q33101028 a wd:Q1408288 ;
+    rdfs:label "Oxy-fuel cutting"@en .
+
+wd:Q333669 a wd:Q1408288 ;
+    rdfs:label "Absäuern"@en .
+
+wd:Q334055 a wd:Q10843872 ;
+    rdfs:label "Bessemer process"@en .
+
+wd:Q3460220 a wd:Q10843872 ;
+    rdfs:label "SUL"@en .
+
+wd:Q3491532 a wd:Q10843872 ;
+    rdfs:label "combing"@en .
+
+wd:Q3508687 a wd:Q3249551 ;
+    rdfs:label "staging"@en .
+
+wd:Q353598 a wd:Q1408288 ;
+    rdfs:label "Q353598"^^xsd:string .
+
+wd:Q3552566 rdfs:label "abrasive machining"@en ;
+    rdfs:subClassOf wd:Q192047 .
+
+wd:Q35587 a wd:Q3249551 ;
+    rdfs:label "WWE Brand Extension"@en .
+
+wd:Q356282 a wd:Q10843872 ;
+    rdfs:label "Gilchrist-Thomas process"@en .
+
+wd:Q3588150 a wd:Q1408288 ;
+    rdfs:label "compacted oxide layer glaze"@en .
+
+wd:Q360931 a wd:Q1408288 ;
+    rdfs:label "additive manufacturing"@en .
+
+wd:Q3781599 a wd:Q1408288 ;
+    rdfs:label "Retouch"@en .
+
+wd:Q379750 a wd:Q10843872 ;
+    rdfs:label "Advanced trauma life support"@en .
+
+wd:Q3836471 a wd:Q10843872 ;
+    rdfs:label "logout"@en .
+
+wd:Q3860741 a wd:Q1408288 ;
+    rdfs:label "milled coinage"@en .
+
+wd:Q3875942 a wd:Q1408288 ;
+    rdfs:label "nickel electroplating"@en .
+
+wd:Q4259146 a wd:Q10843872 ;
+    rdfs:label "Q4259146"^^xsd:string .
+
+wd:Q43100963 a wd:Q10843872 ;
+    rdfs:label "Q43100963"^^xsd:string .
+
+wd:Q4311765 a wd:Q3249551 ;
+    rdfs:label "heating"@en .
+
+wd:Q4393206 a wd:Q10843872 ;
+    rdfs:label "Riddling racks"@en .
+
+wd:Q447424 a wd:Q1408288 ;
+    rdfs:label "aluminizing"@en .
+
+wd:Q4476444 a wd:Q1408288 ;
+    rdfs:label "alloy hardening"@en .
+
+wd:Q452648 a wd:Q1408288 ;
+    rdfs:label "rolling"@en .
+
+wd:Q45728 a wd:Q10843872 ;
+    rdfs:label "open hearth furnace"@en .
+
+wd:Q46706053 a wd:Q18511800 ;
+    rdfs:label "Prima divisio"@en .
+
+wd:Q47161436 a wd:Q3249551 ;
+    rdfs:label "Q47161436"^^xsd:string .
+
+wd:Q472302 a wd:Q10843872 ;
+    rdfs:label "login"@en .
+
+wd:Q47277 a wd:Q18511800 ;
+    rdfs:label "partition of Belgium"@en .
+
+wd:Q47325507 a wd:Q890886 ;
+    rdfs:label "ice drilling"@en .
+
+wd:Q478432 a wd:Q192047 ;
+    rdfs:label "Friction drilling"@en .
+
+wd:Q4790326 a wd:Q3249551 ;
+    rdfs:label "Aridification"@en .
+
+wd:Q4873100 a wd:Q10843872 ;
+    rdfs:label "Battlefield Advanced Trauma Life Support"@en .
+
+wd:Q5009973 a wd:Q10843872 ;
+    rdfs:label "CDMQ"@en .
+
+wd:Q5148596 a wd:Q3249551 ;
+    rdfs:label "color correction"@en .
+
+wd:Q5249554 a wd:Q3249551 ;
+    rdfs:label "decolonisation of Asia"@en .
+
+wd:Q53178539 a wd:Q1408288 ;
+    rdfs:label "crafting"@en .
+
+wd:Q5321385 a wd:Q10843872 ;
+    rdfs:label "E-COM"@en .
+
+wd:Q5322482 a wd:Q10843872 ;
+    rdfs:label "EABR"@en .
+
+wd:Q53229003 a wd:Q10843872 ;
+    rdfs:label "Q53229003"^^xsd:string .
+
+wd:Q53229019 a wd:Q10843872 ;
+    rdfs:label "Q53229019"^^xsd:string .
+
+wd:Q5358051 a wd:Q1408288 ;
+    rdfs:label "electroless nickel"@en .
+
+wd:Q5358335 a wd:Q1408288 ;
+    rdfs:label "Electronic beam curing"@en .
+
+wd:Q5410738 a wd:Q10843872 ;
+    rdfs:label "Flash smelting"@en .
+
+wd:Q5426859 a wd:Q10843872 ;
+    rdfs:label "FOMP"@en .
+
+wd:Q54946807 a wd:Q10843872 ;
+    rdfs:label "throwing"@en .
+
+wd:Q5567097 a wd:Q10843872 ;
+    rdfs:label "Glass casting"@en .
+
+wd:Q55812888 a wd:Q1408288 ;
+    rdfs:label "forage drying"@en .
+
+wd:Q56267362 a wd:Q10843872 ;
+    rdfs:label "Q56267362"^^xsd:string .
+
+wd:Q5635479 a wd:Q10843872 ;
+    rdfs:label "HOTA"@en .
+
+wd:Q56420443 a wd:Q10843872 ;
+    rdfs:label "Q56420443"^^xsd:string .
+
+wd:Q5652515 a wd:Q192047 ;
+    rdfs:label "Q5652515"^^xsd:string .
+
+wd:Q56558509 a wd:Q1408288 ;
+    rdfs:label "Oxy-fuel welding"@en .
+
+wd:Q56649209 a wd:Q10843872 ;
+    rdfs:label "T-cell exhaustion"@en .
+
+wd:Q56676227 a wd:Q3249551 ;
+    rdfs:label "oil painting"@en .
+
+wd:Q56933 a wd:Q18511800 ;
+    rdfs:label "image segmentation"@en .
+
+wd:Q5748404 a wd:Q1408288 ;
+    rdfs:label "hewing"@en .
+
+wd:Q575241 a wd:Q3249551 ;
+    rdfs:label "Immune complex"@en .
+
+wd:Q577484 rdfs:label "electrical discharge machining"@en ;
+    rdfs:subClassOf wd:Q192047 .
+
+wd:Q577889 a wd:Q10843872 ;
+    rdfs:label "pickling"@en .
+
+wd:Q58864601 a wd:Q3249551 ;
+    rdfs:label "Q58864601"^^xsd:string .
+
+wd:Q59221648 a wd:Q10843872 ;
+    rdfs:label "Q59221648"^^xsd:string .
+
+wd:Q5941904 a wd:Q3249551 ;
+    rdfs:label "Humvee replacement process"@en .
+
+wd:Q59627780 a wd:Q3249551 ;
+    rdfs:label "transition"@en .
+
+wd:Q5974808 a wd:Q10843872 ;
+    rdfs:label "ITGC"@en .
+
+wd:Q59755437 a wd:Q10843872 ;
+    rdfs:label "Q59755437"^^xsd:string .
+
+wd:Q59755515 a wd:Q10843872 ;
+    rdfs:label "Q59755515"^^xsd:string .
+
+wd:Q6011293 a wd:Q10843872 ;
+    rdfs:label "Marketing Public Relations"@en .
+
+wd:Q60679258 a wd:Q10843872 ;
+    rdfs:label "Procédé Asser"@en .
+
+wd:Q608256 a wd:Q10843872 ;
+    rdfs:label "Auditory brainstem response"@en .
+
+wd:Q608613 a wd:Q3249551 ;
+    rdfs:label "fall of the Western Roman Empire"@en .
+
+wd:Q60972106 a wd:Q3249551 ;
+    rdfs:label "Q60972106"^^xsd:string .
+
+wd:Q61052522 a wd:Q10843872 ;
+    rdfs:label "Q61052522"^^xsd:string .
+
+wd:Q61218025 a wd:Q10843872 ;
+    rdfs:label "Q61218025"^^xsd:string .
+
+wd:Q61631047 a wd:Q10843872 ;
+    rdfs:label "Q61631047"^^xsd:string .
+
+wd:Q61695203 a wd:Q3249551 ;
+    rdfs:label "Digital Intermediate"@en .
+
+wd:Q61864293 a wd:Q3249551 ;
+    rdfs:label "Q61864293"^^xsd:string .
+
+wd:Q61960396 a wd:Q3249551 ;
+    rdfs:label "prudent behavior"@en .
+
+wd:Q62068120 a wd:Q3249551 ;
+    rdfs:label "personal data ecosystem mapping process"@en .
+
+wd:Q62600961 a wd:Q10843872 ;
+    rdfs:label "Q62600961"^^xsd:string .
+
+wd:Q627339 a wd:Q3249551 ;
+    rdfs:label "Job analysis"@en .
+
+wd:Q63100 a wd:Q3249551 ;
+    rdfs:label "urban design"@en .
+
+wd:Q63136608 a wd:Q10843872 ;
+    rdfs:label "Q63136608"^^xsd:string .
+
+wd:Q63302202 a wd:Q3249551 ;
+    rdfs:label "language standardization"@en .
+
+wd:Q63859027 a wd:Q3249551 ;
+    rdfs:label "river renaturalization"@en .
+
+wd:Q63927838 a wd:Q3249551 ;
+    rdfs:label "hyperlocalization"@en .
+
+wd:Q64873195 a wd:Q10843872 ;
+    rdfs:label "Macro Porous Polymer Extraction"@en .
+
+wd:Q65042425 a wd:Q3249551 ;
+    rdfs:label "percent free time"@en .
+
+wd:Q652970 a wd:Q10843872 ;
+    rdfs:label "argyrotype"@en .
+
+wd:Q6542545 a wd:Q3249551 ;
+    rdfs:label "Library assessment"@en .
+
+wd:Q6548259 a wd:Q10843872 ;
+    rdfs:label "Proletarianization"@en .
+
+wd:Q65558384 a wd:Q10843872 ;
+    rdfs:label "Q65558384"^^xsd:string .
+
+wd:Q656950 a wd:Q192047 ;
+    rdfs:label "milling"@en .
+
+wd:Q6592216 a wd:Q10843872 ;
+    rdfs:label "industrial wastewater treatment"@en .
+
+wd:Q66150420 a wd:Q3249551 ;
+    rdfs:label "brickmaking"@en .
+
+wd:Q66157046 a wd:Q3249551 ;
+    rdfs:label "mainstreaming"@en .
+
+wd:Q66309832 a wd:Q3249551 ;
+    rdfs:label "ironworking"@en .
+
+wd:Q66309836 a wd:Q10843872 ;
+    rdfs:label "Q66309836"^^xsd:string .
+
+wd:Q66828125 a wd:Q3249551 ;
+    rdfs:label "Spanish settlement at San Tomas, Hispaniola"@en .
+
+wd:Q66972929 a wd:Q3249551 ;
+    rdfs:label "Spanish discovery of gold in Cibao"@en .
+
+wd:Q6714655 a wd:Q3249551 ;
+    rdfs:label "MBASE"@en .
+
+wd:Q6723635 a wd:Q10843872 ;
+    rdfs:label "Machine Check Exception"@en .
+
+wd:Q67853855 a wd:Q10843872 ;
+    rdfs:label "Biomethanation"@en .
+
+wd:Q6821201 a wd:Q10843872 ;
+    rdfs:label "Mesenchymal–epithelial transition"@en .
+
+wd:Q6900510 a wd:Q3249551 ;
+    rdfs:label "Monitoring in clinical trials"@en .
+
+wd:Q690418 a wd:Q1408288 ;
+    rdfs:label "zinc coating"@en .
+
+wd:Q7142788 a wd:Q10843872 ;
+    rdfs:label "passivation"@en .
+
+wd:Q7145044 a wd:Q3249551 ;
+    rdfs:label "Patio process"@en .
+
+wd:Q7181 a wd:Q3249551 ;
+    rdfs:label "globalization"@en .
+
+wd:Q72316098 a wd:Q3249551 ;
+    rdfs:label "mobilisation"@en .
+
+wd:Q72400633 a wd:Q3249551 ;
+    rdfs:label "VisualAudio"@en .
+
+wd:Q7242432 a wd:Q10843872 ;
+    rdfs:label "Previsualization"@en .
+
+wd:Q734243 a wd:Q10843872 ;
+    rdfs:label "Puddling"@en .
+
+wd:Q7439057 a wd:Q3249551 ;
+    rdfs:label "Screening resumes"@en .
+
+wd:Q748015 a wd:Q3249551 ;
+    rdfs:label "Chilean transition to democracy"@en .
+
+wd:Q7531796 a wd:Q3249551 ;
+    rdfs:label "site selection"@en .
+
+wd:Q7577157 a wd:Q10843872 ;
+    rdfs:label "spike-timing-dependent plasticity"@en .
+
+wd:Q7635413 a wd:Q3249551 ;
+    rdfs:label "Suicide watch"@en .
+
+wd:Q77855586 a wd:Q10843872 ;
+    rdfs:label "Q77855586"^^xsd:string .
+
+wd:Q79002247 a wd:Q3249551 ;
+    rdfs:label "blood typing"@en .
+
+wd:Q791801 a wd:Q10843872 ;
+    rdfs:label "estimation process"@en .
+
+wd:Q7937652 a wd:Q10843872 ;
+    rdfs:label "Vivex"@en .
+
+wd:Q79559210 a wd:Q10843872 ;
+    rdfs:label "Category:Rádlování"@en .
+
+wd:Q7973430 a wd:Q3249551 ;
+    rdfs:label "water aeration"@en .
+
+wd:Q816754 a wd:Q10843872 ;
+    rdfs:label "Benchmarking"@en .
+
+wd:Q827742 a wd:Q10843872 ;
+    rdfs:label "mastication"@en .
+
+wd:Q830234 a wd:Q10843872 ;
+    rdfs:label "Plasma gasification"@en .
+
+wd:Q84757986 a wd:Q3249551 ;
+    rdfs:label "evaluation (education)"@en .
+
+wd:Q84846960 a wd:Q3249551 ;
+    rdfs:label "water deficit"@en .
+
+wd:Q84847152 a wd:Q3249551 ;
+    rdfs:label "Fluvial processes"@en .
+
+wd:Q852747 a wd:Q10843872 ;
+    rdfs:label "underground mine ventilation"@en .
+
+wd:Q85502 a wd:Q3249551 ;
+    rdfs:label "secularization"@en .
+
+wd:Q85621166 a wd:Q3249551 ;
+    rdfs:label "pencil drawing"@en .
+
+wd:Q86239184 a wd:Q18511800 ;
+    rdfs:label "Q86239184"^^xsd:string .
+
+wd:Q864204 a wd:Q10843872 ;
+    rdfs:label "Bioaugmentation"@en .
+
+wd:Q86500202 a wd:Q3249551 ;
+    rdfs:label "Joining of the Archdiocese of Russian Orthodox churches in Western Europe to the Moscow Patriarchate"@en .
+
+wd:Q86908652 a wd:Q3249551 ;
+    rdfs:label "Drawing made with watered China ink"@en .
+
+wd:Q86908790 a wd:Q3249551 ;
+    rdfs:label "Semi-oil"@en .
+
+wd:Q871362 a wd:Q10843872 ;
+    rdfs:label "Osmond process"@en .
+
+wd:Q876072 a wd:Q3249551 ;
+    rdfs:label "Universal Periodic Review"@en .
+
+wd:Q902751 a wd:Q10843872 ;
+    rdfs:label "pressurization"@en .
+
+wd:Q902898 a wd:Q3249551 ;
+    rdfs:label "electron transfer"@en .
+
+wd:Q903397 a wd:Q3249551 ;
+    rdfs:label "Phlegmatized"@en .
+
+wd:Q924685 a wd:Q10843872 ;
+    rdfs:label "Autonomation"@en .
+
+wd:Q9268371 a wd:Q10843872 ;
+    rdfs:label "casting"@en .
+
+wd:Q9363879 a wd:Q1408288 ;
+    rdfs:label "stamping"@en .
+
+wd:Q944016 a wd:Q192047 ;
+    rdfs:label "honing"@en .
+
+wd:Q959049 a wd:Q3249551 ;
+    rdfs:label "music production"@en .
+
+wd:Q977984 a wd:Q3249551 ;
+    rdfs:label "deglobalization"@en .
+
+wd:Q1422489 rdfs:label "Directional drilling"@en ;
+    rdfs:subClassOf wd:Q890886 .
+
+wd:Q196751 rdfs:label "cutting"@en ;
+    rdfs:subClassOf wd:Q18511800 .
+
+wd:Q2451515 rdfs:label "metal cutting"@en ;
+    rdfs:subClassOf wd:Q196751 .
+
+wd:Q890886 rdfs:label "drilling"@en ;
+    rdfs:subClassOf wd:Q192047 .
+
+wd:Q18511800 rdfs:label "split"@en .
+
+wd:Q192047 rdfs:label "machining"@en ;
+    rdfs:subClassOf wd:Q1408288,
+        wd:Q2451515 .
+
+wd:Q1408288 rdfs:label "manufacturing process"@en ;
+    rdfs:subClassOf wd:Q10843872 .
+
+wd:Q3249551 rdfs:label "process"@en .
+
+wd:Q10843872 rdfs:label "engineering process"@en ;
+    rdfs:subClassOf wd:Q3249551 .
+

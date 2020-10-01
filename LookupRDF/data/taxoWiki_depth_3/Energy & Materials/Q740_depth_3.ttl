@@ -1,0 +1,1921 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1038 a wd:Q11344 ;
+    rdfs:label "zirconium"@en .
+
+wd:Q104085 a wd:Q187661 ;
+    rdfs:label "asbestos"@en .
+
+wd:Q1046 a wd:Q11344 ;
+    rdfs:label "niobium"@en .
+
+wd:Q1053 a wd:Q11344 ;
+    rdfs:label "molybdenum"@en .
+
+wd:Q1054 a wd:Q11344 ;
+    rdfs:label "technetium"@en .
+
+wd:Q10606858 a wd:Q7184903 ;
+    rdfs:label "Odjur"@en .
+
+wd:Q10708298 a wd:Q16889133 ;
+    rdfs:label "Not Otherwise Specified"@en .
+
+wd:Q10843705 a wd:Q187661 ;
+    rdfs:label "1,3-dichloro-2-propanol"@en .
+
+wd:Q10859489 a wd:Q187661 ;
+    rdfs:label "4-chloro-2-methylaniline"@en .
+
+wd:Q1086 a wd:Q11344 ;
+    rdfs:label "ruthenium"@en .
+
+wd:Q1087 a wd:Q11344 ;
+    rdfs:label "rhodium"@en .
+
+wd:Q1089 a wd:Q11344 ;
+    rdfs:label "palladium"@en .
+
+wd:Q1090 a wd:Q11344 ;
+    rdfs:label "silver"@en .
+
+wd:Q1091 a wd:Q11344,
+        wd:Q187661 ;
+    rdfs:label "cadmium"@en .
+
+wd:Q1094 a wd:Q11344 ;
+    rdfs:label "indium"@en .
+
+wd:Q1096 a wd:Q11344 ;
+    rdfs:label "tin"@en .
+
+wd:Q1097932 a wd:Q187661 ;
+    rdfs:label "Cycasin"@en .
+
+wd:Q1098 a wd:Q11344 ;
+    rdfs:label "uranium"@en .
+
+wd:Q1099 a wd:Q11344 ;
+    rdfs:label "antimony"@en .
+
+wd:Q1100 a wd:Q11344 ;
+    rdfs:label "tellurium"@en .
+
+wd:Q1100813 a wd:Q16889133 ;
+    rdfs:label "Hard seat"@en .
+
+wd:Q1102 a wd:Q11344 ;
+    rdfs:label "plutonium"@en .
+
+wd:Q1103 a wd:Q11344 ;
+    rdfs:label "iodine"@en .
+
+wd:Q1105 a wd:Q11344 ;
+    rdfs:label "neptunium"@en .
+
+wd:Q1106 a wd:Q11344 ;
+    rdfs:label "xenon"@en .
+
+wd:Q1108 a wd:Q11344 ;
+    rdfs:label "Caesium"@en .
+
+wd:Q1109 a wd:Q11344 ;
+    rdfs:label "protactinium"@en .
+
+wd:Q1112 a wd:Q11344 ;
+    rdfs:label "barium"@en .
+
+wd:Q1115 a wd:Q11344 ;
+    rdfs:label "thorium"@en .
+
+wd:Q1119 a wd:Q11344 ;
+    rdfs:label "hafnium"@en .
+
+wd:Q1121 a wd:Q11344 ;
+    rdfs:label "actinium"@en .
+
+wd:Q1123 a wd:Q11344 ;
+    rdfs:label "tantalum"@en .
+
+wd:Q1128 a wd:Q11344 ;
+    rdfs:label "radium"@en .
+
+wd:Q11289368 a wd:Q11344 ;
+    rdfs:label "unsepttrium"@en .
+
+wd:Q1133 a wd:Q11344 ;
+    rdfs:label "radon"@en .
+
+wd:Q1139 a wd:Q11344 ;
+    rdfs:label "ununennium"@en .
+
+wd:Q1146 a wd:Q11344 ;
+    rdfs:label "unbinilium"@en .
+
+wd:Q1151479 a wd:Q187661 ;
+    rdfs:label "isobutyl nitrite"@en .
+
+wd:Q11854090 a wd:Q187661 ;
+    rdfs:label "Benzyl violet 4B"@en .
+
+wd:Q1195471 a wd:Q11344 ;
+    rdfs:label "neutronium"@en .
+
+wd:Q11964099 a wd:Q16889133 ;
+    rdfs:label "Corbett"@en .
+
+wd:Q11972429 a wd:Q16889133 ;
+    rdfs:label "Graham"@en .
+
+wd:Q1200992 a wd:Q16889133 ;
+    rdfs:label "abstraction layer"@en .
+
+wd:Q12054558 a wd:Q16889133 ;
+    rdfs:label "Q12054558"^^xsd:string .
+
+wd:Q1207805 a wd:Q187661 ;
+    rdfs:label "dipropyl isocinchomeronate"@en .
+
+wd:Q1209248 a wd:Q187661 ;
+    rdfs:label "diazoaminobenzene"@en .
+
+wd:Q1210263 a wd:Q187661 ;
+    rdfs:label "diclofop-methyl"@en .
+
+wd:Q1226 a wd:Q11344 ;
+    rdfs:label "rutherfordium"@en .
+
+wd:Q1227597 a wd:Q16889133 ;
+    rdfs:label "substantive dye"@en .
+
+wd:Q1230937 a wd:Q187661 ;
+    rdfs:label "semustine"@en .
+
+wd:Q1232 a wd:Q11344 ;
+    rdfs:label "dubnium"@en .
+
+wd:Q1234 a wd:Q11344 ;
+    rdfs:label "seaborgium"@en .
+
+wd:Q12341716 a wd:Q7184903 ;
+    rdfs:label "Yooka"@en .
+
+wd:Q12488383 a wd:Q7184903 ;
+    rdfs:label "content"@en .
+
+wd:Q1249 a wd:Q11344 ;
+    rdfs:label "bohrium"@en .
+
+wd:Q1252 a wd:Q11344 ;
+    rdfs:label "hassium"@en .
+
+wd:Q1258 a wd:Q11344 ;
+    rdfs:label "meitnerium"@en .
+
+wd:Q1260632 a wd:Q7184903 ;
+    rdfs:label "content"@en .
+
+wd:Q1266 a wd:Q11344 ;
+    rdfs:label "darmstadtium"@en .
+
+wd:Q1272 a wd:Q11344 ;
+    rdfs:label "roentgenium"@en .
+
+wd:Q1278 a wd:Q11344 ;
+    rdfs:label "copernicium"@en .
+
+wd:Q12797896 a wd:Q7184903 ;
+    rdfs:label "frame"@en .
+
+wd:Q1301 a wd:Q11344 ;
+    rdfs:label "nihonium"@en .
+
+wd:Q1302 a wd:Q11344 ;
+    rdfs:label "flerovium"@en .
+
+wd:Q1303 a wd:Q11344 ;
+    rdfs:label "moscovium"@en .
+
+wd:Q1304 a wd:Q11344 ;
+    rdfs:label "livermorium"@en .
+
+wd:Q1306 a wd:Q11344 ;
+    rdfs:label "tennessine"@en .
+
+wd:Q1307 a wd:Q11344 ;
+    rdfs:label "oganesson"@en .
+
+wd:Q1320721 a wd:Q16889133 ;
+    rdfs:label "Munro"@en .
+
+wd:Q1366419 a wd:Q11344 ;
+    rdfs:label "untriseptium"@en .
+
+wd:Q1385 a wd:Q11344 ;
+    rdfs:label "cerium"@en .
+
+wd:Q1386 a wd:Q11344 ;
+    rdfs:label "praseodymium"@en .
+
+wd:Q1388 a wd:Q11344 ;
+    rdfs:label "neodymium"@en .
+
+wd:Q1396 a wd:Q11344 ;
+    rdfs:label "europium"@en .
+
+wd:Q1463013 a wd:Q35758 ;
+    rdfs:label "matrix"@en .
+
+wd:Q1466 a wd:Q11344 ;
+    rdfs:label "unbiunium"@en .
+
+wd:Q154 a wd:Q187661 ;
+    rdfs:label "alcoholic beverage"@en .
+
+wd:Q15632815 a wd:Q187661 ;
+    rdfs:label "furmecyclox"@en .
+
+wd:Q15632849 a wd:Q187661 ;
+    rdfs:label "methallyl chloride"@en .
+
+wd:Q15632872 a wd:Q187661 ;
+    rdfs:label "Isopyrazam"@en .
+
+wd:Q15632908 a wd:Q187661 ;
+    rdfs:label "isoxaflutole"@en .
+
+wd:Q15726118 a wd:Q187661 ;
+    rdfs:label "o-aminoazotoluene"@en .
+
+wd:Q158539 a wd:Q187661 ;
+    rdfs:label "chloromethyl methyl ether"@en .
+
+wd:Q160151 a wd:Q7184903 ;
+    rdfs:label "price"@en .
+
+wd:Q161210 a wd:Q187661 ;
+    rdfs:label "formaldehyde"@en .
+
+wd:Q161282 a wd:Q187661 ;
+    rdfs:label "ethylidene chloride"@en .
+
+wd:Q161284 a wd:Q187661 ;
+    rdfs:label "1,1-dichloroethene"@en .
+
+wd:Q161296 a wd:Q187661 ;
+    rdfs:label "1,1-dimethylhydrazine"@en .
+
+wd:Q161465 a wd:Q187661 ;
+    rdfs:label "1,2-dibromo-3-chloropropane"@en .
+
+wd:Q161471 a wd:Q187661 ;
+    rdfs:label "1,2-dibromoethane"@en .
+
+wd:Q161478 a wd:Q187661 ;
+    rdfs:label "1,2-dichloropropane"@en .
+
+wd:Q161480 a wd:Q187661 ;
+    rdfs:label "1,2-dichloroethane"@en .
+
+wd:Q161484 a wd:Q187661 ;
+    rdfs:label "1,2-dimethylhydrazine"@en .
+
+wd:Q161503 a wd:Q187661 ;
+    rdfs:label "1,3-butadiene"@en .
+
+wd:Q161529 a wd:Q187661 ;
+    rdfs:label "1,4-dichlorobenzene"@en .
+
+wd:Q161532 a wd:Q187661 ;
+    rdfs:label "dioxane"@en .
+
+wd:Q161589 a wd:Q187661 ;
+    rdfs:label "propyl bromide"@en .
+
+wd:Q16307164 a wd:Q11344 ;
+    rdfs:label "unseptbium"@en .
+
+wd:Q163648 a wd:Q187661 ;
+    rdfs:label "DDT"@en .
+
+wd:Q163767 a wd:Q27166344 ;
+    rdfs:label "reaction inhibitor"@en .
+
+wd:Q1660181 a wd:Q103537 ;
+    rdfs:label "Immunogen"@en .
+
+wd:Q16887380 a wd:Q16889133 ;
+    rdfs:label "group"@en .
+
+wd:Q17019467 a wd:Q16889133 ;
+    rdfs:label "LCC Class M: Music"@en .
+
+wd:Q172275 a wd:Q187661 ;
+    rdfs:label "chloroform"@en .
+
+wd:Q17330081 a wd:Q101843 ;
+    rdfs:label "period 10"@en .
+
+wd:Q1739168 a wd:Q187661 ;
+    rdfs:label "ceramic fiber"@en .
+
+wd:Q1788000 a wd:Q187661 ;
+    rdfs:label "kresoxim-methyl"@en .
+
+wd:Q1801 a wd:Q11344 ;
+    rdfs:label "lanthanum"@en .
+
+wd:Q1809 a wd:Q11344 ;
+    rdfs:label "promethium"@en .
+
+wd:Q1816679 a wd:Q187661 ;
+    rdfs:label "Areca nut"@en .
+
+wd:Q1819 a wd:Q11344 ;
+    rdfs:label "samarium"@en .
+
+wd:Q1832 a wd:Q11344 ;
+    rdfs:label "gadolinium"@en .
+
+wd:Q18341502 a wd:Q16889133 ;
+    rdfs:label "Q18341502"^^xsd:string .
+
+wd:Q1838 a wd:Q11344 ;
+    rdfs:label "terbium"@en .
+
+wd:Q1838431 a wd:Q187661 ;
+    rdfs:label "indeno[1,2,3-cd]pyrene"@en .
+
+wd:Q1840368 a wd:Q16889133 ;
+    rdfs:label "cloud genera"@en .
+
+wd:Q1843 a wd:Q11344 ;
+    rdfs:label "dysprosium"@en .
+
+wd:Q1846 a wd:Q11344 ;
+    rdfs:label "holmium"@en .
+
+wd:Q18487018 a wd:Q16889133 ;
+    rdfs:label "missile family"@en .
+
+wd:Q18487055 a wd:Q16889133 ;
+    rdfs:label "missile model"@en .
+
+wd:Q1849 a wd:Q11344 ;
+    rdfs:label "erbium"@en .
+
+wd:Q1853 a wd:Q11344 ;
+    rdfs:label "thulium"@en .
+
+wd:Q18533477 a wd:Q187661 ;
+    rdfs:label "dibromoacetic acid"@en .
+
+wd:Q1854296 a wd:Q187661 ;
+    rdfs:label "chlorendic acid"@en .
+
+wd:Q1855 a wd:Q11344 ;
+    rdfs:label "ytterbium"@en .
+
+wd:Q1857 a wd:Q11344 ;
+    rdfs:label "lutetium"@en .
+
+wd:Q186127 a wd:Q187661 ;
+    rdfs:label "dactinomycin"@en .
+
+wd:Q186414 a wd:Q187661 ;
+    rdfs:label "aniline"@en .
+
+wd:Q1872 a wd:Q11344 ;
+    rdfs:label "americium"@en .
+
+wd:Q187487 a wd:Q187661 ;
+    rdfs:label "7,12-dimethylbenzanthracene"@en .
+
+wd:Q1876 a wd:Q11344 ;
+    rdfs:label "curium"@en .
+
+wd:Q18818937 a wd:Q187661 ;
+    rdfs:label "nitro-p-dichlorobenzene"@en .
+
+wd:Q1882 a wd:Q11344 ;
+    rdfs:label "berkelium"@en .
+
+wd:Q18844843 rdfs:label "cobalt-47"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844844 rdfs:label "cobalt-48"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844845 rdfs:label "cobalt-49"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844846 rdfs:label "cobalt-50"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844847 rdfs:label "cobalt-51"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844848 rdfs:label "cobalt-52"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844849 rdfs:label "cobalt-53"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844850 rdfs:label "cobalt-54"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844852 rdfs:label "cobalt-55"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844853 rdfs:label "cobalt-56"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844854 rdfs:label "cobalt-57"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844855 rdfs:label "cobalt-58"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844856 rdfs:label "cobalt-61"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844857 rdfs:label "cobalt-62"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844858 rdfs:label "cobalt-63"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844859 rdfs:label "cobalt-64"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844860 rdfs:label "cobalt-65"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844861 rdfs:label "cobalt-66"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844862 rdfs:label "cobalt-67"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844863 rdfs:label "cobalt-68"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844864 rdfs:label "cobalt-69"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844865 rdfs:label "cobalt-70"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844866 rdfs:label "cobalt-71"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844867 rdfs:label "cobalt-72"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844868 rdfs:label "cobalt-73"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844869 rdfs:label "cobalt-74"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844870 rdfs:label "cobalt-75"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q1885921 a wd:Q35758 ;
+    rdfs:label "Matte"@en .
+
+wd:Q1888 a wd:Q11344 ;
+    rdfs:label "californium"@en .
+
+wd:Q18880108 rdfs:label "cobalt-52m"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880114 rdfs:label "cobalt-53m"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880117 rdfs:label "cobalt-54m"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880120 rdfs:label "cobalt-58m1"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880124 rdfs:label "cobalt-58m2"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880128 rdfs:label "cobalt-60m"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880132 rdfs:label "cobalt-62m"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880136 rdfs:label "cobalt-66m1"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880140 rdfs:label "cobalt-66m2"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880143 rdfs:label "cobalt-68m"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880148 rdfs:label "cobalt-70m"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q1892 a wd:Q11344 ;
+    rdfs:label "einsteinium"@en .
+
+wd:Q18939 a wd:Q187661 ;
+    rdfs:label "azathioprine"@en .
+
+wd:Q1896 a wd:Q11344 ;
+    rdfs:label "fermium"@en .
+
+wd:Q1898 a wd:Q11344 ;
+    rdfs:label "mendelevium"@en .
+
+wd:Q1901 a wd:Q11344 ;
+    rdfs:label "nobelium"@en .
+
+wd:Q1905 a wd:Q11344 ;
+    rdfs:label "lawrencium"@en .
+
+wd:Q191936 a wd:Q101843 ;
+    rdfs:label "period 1"@en .
+
+wd:Q19599218 a wd:Q11344 ;
+    rdfs:label "unhexennium"@en .
+
+wd:Q2051705 a wd:Q187661 ;
+    rdfs:label "N,N,4-trimethylbenzenamine"@en .
+
+wd:Q20572322 a wd:Q16889133 ;
+    rdfs:label "HuMP"@en .
+
+wd:Q207712 a wd:Q101843 ;
+    rdfs:label "period 2"@en .
+
+wd:Q209195 a wd:Q187661 ;
+    rdfs:label "toluene-2,4-diamine"@en .
+
+wd:Q20983436 a wd:Q187661 ;
+    rdfs:label "2,4-diaminoanisole"@en .
+
+wd:Q21013793 a wd:Q35758 ;
+    rdfs:label "Q21013793"^^xsd:string .
+
+wd:Q211331 a wd:Q101843 ;
+    rdfs:label "period 3"@en .
+
+wd:Q2122914 a wd:Q7184903 ;
+    rdfs:label "Q2122914"^^xsd:string .
+
+wd:Q2139516 a wd:Q16889133 ;
+    rdfs:label "Q2139516"^^xsd:string .
+
+wd:Q21601419 a wd:Q16889133 ;
+    rdfs:label "FAO risk status"@en .
+
+wd:Q2170812 a wd:Q5850078 ;
+    rdfs:label "trauma mechanism"@en .
+
+wd:Q21873060 a wd:Q7184903 ;
+    rdfs:label "Säuleck"@en .
+
+wd:Q2194382 a wd:Q187661 ;
+    rdfs:label "captan"@en .
+
+wd:Q22133393 a wd:Q187661 ;
+    rdfs:label "benzidine dye"@en .
+
+wd:Q2227780 a wd:Q27166344 ;
+    rdfs:label "computronium"@en .
+
+wd:Q222968 a wd:Q187661 ;
+    rdfs:label "dianisidine"@en .
+
+wd:Q222991 a wd:Q187661 ;
+    rdfs:label "3,3'-dichlorobenzidine"@en .
+
+wd:Q22313918 a wd:Q11344 ;
+    rdfs:label "unpentquadium"@en .
+
+wd:Q22314315 a wd:Q11344 ;
+    rdfs:label "unpentpentium"@en .
+
+wd:Q2234721 a wd:Q16889133 ;
+    rdfs:label "Q2234721"^^xsd:string .
+
+wd:Q225045 a wd:Q187661 ;
+    rdfs:label "carbon tetrachloride"@en .
+
+wd:Q22569524 a wd:Q16889133 ;
+    rdfs:label "Graham"@en .
+
+wd:Q22569536 a wd:Q16889133 ;
+    rdfs:label "Murdo"@en .
+
+wd:Q2270 a wd:Q187661 ;
+    rdfs:label "benzene"@en .
+
+wd:Q2282887 a wd:Q103537 ;
+    rdfs:label "HBsAg"@en .
+
+wd:Q2283186 a wd:Q187661 ;
+    rdfs:label "bis(chloromethyl) ether"@en .
+
+wd:Q2286646 a wd:Q187661 ;
+    rdfs:label "2,6-dinitrotoluene"@en .
+
+wd:Q2287905 a wd:Q187661 ;
+    rdfs:label "anilinium chloride"@en .
+
+wd:Q22979549 a wd:Q187661 ;
+    rdfs:label "dibenzo(a,e)pyrene"@en .
+
+wd:Q229922 a wd:Q187661 ;
+    rdfs:label "4-biphenylamine"@en .
+
+wd:Q2307855 a wd:Q187661 ;
+    rdfs:label "glycidaldehyde"@en .
+
+wd:Q233294 a wd:Q101843 ;
+    rdfs:label "Second modernity"@en .
+
+wd:Q2345829 a wd:Q27166344 ;
+    rdfs:label "Star jelly"@en .
+
+wd:Q2380192 a wd:Q187661 ;
+    rdfs:label "benzo[b]fluoranthene"@en .
+
+wd:Q239813 a wd:Q101843 ;
+    rdfs:label "period 6"@en .
+
+wd:Q2399140 a wd:Q11344 ;
+    rdfs:label "unquadennium"@en .
+
+wd:Q243992 a wd:Q187661 ;
+    rdfs:label "furan"@en .
+
+wd:Q2442512 a wd:Q187661 ;
+    rdfs:label "benz[a]anthracene"@en .
+
+wd:Q244979 a wd:Q101843 ;
+    rdfs:label "period 7"@en .
+
+wd:Q244982 a wd:Q101843 ;
+    rdfs:label "period 5"@en .
+
+wd:Q2467555 a wd:Q187661 ;
+    rdfs:label "furazolidone"@en .
+
+wd:Q24739946 a wd:Q103537 ;
+    rdfs:label "Apical membrane antigen 1"@en .
+
+wd:Q2509768 a wd:Q187661 ;
+    rdfs:label "bis(2-chloroethyl)ether"@en .
+
+wd:Q2526002 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class D, subclass DH -- History of the Low Countries and Benelux"@en .
+
+wd:Q2536409 a wd:Q16889133 ;
+    rdfs:label "IBA Official Cocktail"@en .
+
+wd:Q2563907 a wd:Q187661 ;
+    rdfs:label "dimethylcarbamoyl chloride"@en .
+
+wd:Q258034 a wd:Q187661 ;
+    rdfs:label "Pteridium"@en .
+
+wd:Q2653981 a wd:Q187661 ;
+    rdfs:label "Citrus Red 2"@en .
+
+wd:Q26709961 a wd:Q16889133 ;
+    rdfs:label "Tump"@en .
+
+wd:Q26709966 a wd:Q16889133 ;
+    rdfs:label "Simm"@en .
+
+wd:Q26709969 a wd:Q16889133 ;
+    rdfs:label "Graham"@en .
+
+wd:Q26709973 a wd:Q16889133 ;
+    rdfs:label "Donald"@en .
+
+wd:Q26710654 a wd:Q16889133 ;
+    rdfs:label "Highland Five"@en .
+
+wd:Q26710662 a wd:Q16889133 ;
+    rdfs:label "Donald Dewey"@en .
+
+wd:Q26711849 a wd:Q16889133 ;
+    rdfs:label "Munro Top"@en .
+
+wd:Q26711856 a wd:Q16889133 ;
+    rdfs:label "Furth"@en .
+
+wd:Q2681712 a wd:Q7184903 ;
+    rdfs:label "Gusty"@en .
+
+wd:Q26840749 a wd:Q187661 ;
+    rdfs:label "2,3-dibromopropanol"@en .
+
+wd:Q26840753 a wd:Q187661 ;
+    rdfs:label "2-aminofluorene"@en .
+
+wd:Q26840756 a wd:Q187661 ;
+    rdfs:label "dibenzo(a,L)pyrene"@en .
+
+wd:Q26840760 a wd:Q187661 ;
+    rdfs:label "dibenz(a,H)acridine"@en .
+
+wd:Q26840770 a wd:Q187661 ;
+    rdfs:label "solvent yellow 34"@en .
+
+wd:Q26840806 a wd:Q187661 ;
+    rdfs:label "dibenz(a,j)acridine"@en .
+
+wd:Q26840865 a wd:Q187661 ;
+    rdfs:label "N,N'-diacetylbenzidine"@en .
+
+wd:Q26840903 a wd:Q187661 ;
+    rdfs:label "chromium(6+)"@en .
+
+wd:Q26840983 a wd:Q187661 ;
+    rdfs:label "2,4-diaminoanisole sulfate"@en .
+
+wd:Q26841007 a wd:Q187661 ;
+    rdfs:label "dibenzo(a,i)pyrene"@en .
+
+wd:Q26841191 a wd:Q187661 ;
+    rdfs:label "7H-dibenzo(c,g)carbazole"@en .
+
+wd:Q26841193 a wd:Q187661 ;
+    rdfs:label "pentaerythritol dibromide"@en .
+
+wd:Q26841223 a wd:Q187661 ;
+    rdfs:label "3,3'-dichlorobenzidine dihydrochloride"@en .
+
+wd:Q26841300 a wd:Q187661 ;
+    rdfs:label "dibenzo(a,h)pyrene"@en .
+
+wd:Q2701912 a wd:Q187661 ;
+    rdfs:label "clofibrate"@en .
+
+wd:Q27032359 a wd:Q187661 ;
+    rdfs:label "doxorubicin hydrochloride"@en .
+
+wd:Q27032530 a wd:Q187661 ;
+    rdfs:label "Disperse Yellow 3"@en .
+
+wd:Q2705544 a wd:Q187661 ;
+    rdfs:label "2,4-dichloronitrobenzene"@en .
+
+wd:Q27094452 a wd:Q187661 ;
+    rdfs:label "direct blue 15"@en .
+
+wd:Q27094563 a wd:Q187661 ;
+    rdfs:label "heptachlor epoxide"@en .
+
+wd:Q27095620 a wd:Q187661 ;
+    rdfs:label "Direct Blue 6"@en .
+
+wd:Q27096169 a wd:Q187661 ;
+    rdfs:label "Direct Black 38"@en .
+
+wd:Q27103937 a wd:Q187661 ;
+    rdfs:label "1-hydroxyanthraquinone"@en .
+
+wd:Q27106287 a wd:Q187661 ;
+    rdfs:label "cyclophosphamide hydrate"@en .
+
+wd:Q27107185 a wd:Q187661 ;
+    rdfs:label "Lasiocarpine"@en .
+
+wd:Q27115788 a wd:Q187661 ;
+    rdfs:label "1,6-dinitropyrene"@en .
+
+wd:Q27115949 a wd:Q187661 ;
+    rdfs:label "2-aminoanthraquinone"@en .
+
+wd:Q27120486 a wd:Q187661 ;
+    rdfs:label "2-amino-3-methylimidazo(4,5-f)quinoline"@en .
+
+wd:Q27133122 a wd:Q187661 ;
+    rdfs:label "bromochloroacetic acid"@en .
+
+wd:Q27144914 a wd:Q187661 ;
+    rdfs:label "furaltadone"@en .
+
+wd:Q27155585 a wd:Q187661 ;
+    rdfs:label "benthiavalicarb-isopropyl"@en .
+
+wd:Q27155771 a wd:Q187661 ;
+    rdfs:label "aramite"@en .
+
+wd:Q27155853 a wd:Q187661 ;
+    rdfs:label "cyclopenta(cd)pyrene"@en .
+
+wd:Q27155854 a wd:Q187661 ;
+    rdfs:label "2-amino-9H-pyrido(2,3-b)indole"@en .
+
+wd:Q27155857 a wd:Q187661 ;
+    rdfs:label "triafur"@en .
+
+wd:Q27155863 a wd:Q187661 ;
+    rdfs:label "β-butyrolactone"@en .
+
+wd:Q27155864 a wd:Q187661 ;
+    rdfs:label "1-chloro-2-methyl-1-propene"@en .
+
+wd:Q27155865 a wd:Q187661 ;
+    rdfs:label "4-chloro-O-phenylenediamine"@en .
+
+wd:Q27155867 a wd:Q187661 ;
+    rdfs:label "1-amino-2,4-dibromoanthraquinone"@en .
+
+wd:Q27155869 a wd:Q187661 ;
+    rdfs:label "3,3'-Dichloro-4,4'-diaminodiphenyl ether"@en .
+
+wd:Q27155871 a wd:Q187661 ;
+    rdfs:label "N,N'-diethylhydrazine"@en .
+
+wd:Q27155872 a wd:Q187661 ;
+    rdfs:label "dihydrosafrole"@en .
+
+wd:Q27155875 a wd:Q187661 ;
+    rdfs:label "3,7-dinitrofluoranthene"@en .
+
+wd:Q27155876 a wd:Q187661 ;
+    rdfs:label "3,9-dinitrofluoranthene"@en .
+
+wd:Q27155877 a wd:Q187661 ;
+    rdfs:label "disperse blue 1"@en .
+
+wd:Q27155879 a wd:Q187661 ;
+    rdfs:label "fusarin C"@en .
+
+wd:Q27155882 a wd:Q187661 ;
+    rdfs:label "hc blue no. 1"@en .
+
+wd:Q27155894 a wd:Q187661 ;
+    rdfs:label "furathiazole"@en .
+
+wd:Q27155911 a wd:Q187661 ;
+    rdfs:label "disperse orange 11"@en .
+
+wd:Q27155914 a wd:Q187661 ;
+    rdfs:label "4-amino-2-nitrophenol"@en .
+
+wd:Q27155933 a wd:Q187661 ;
+    rdfs:label "cinnamyl anthranilate"@en .
+
+wd:Q27155939 a wd:Q187661 ;
+    rdfs:label "2,3-benzotriphenylene"@en .
+
+wd:Q27155946 a wd:Q187661 ;
+    rdfs:label "dibromoacetonitrile"@en .
+
+wd:Q27155954 a wd:Q187661 ;
+    rdfs:label "1,3-dinitropyrene"@en .
+
+wd:Q27163155 a wd:Q187661 ;
+    rdfs:label "cobalt(II) sulfate heptahydrate"@en .
+
+wd:Q271943 a wd:Q187661 ;
+    rdfs:label "isoprene"@en .
+
+wd:Q27251403 a wd:Q187661 ;
+    rdfs:label "3-amino-9-ethylcarbazole hydrochloride"@en .
+
+wd:Q27255828 a wd:Q187661 ;
+    rdfs:label "4-chloro-2-aminophenol"@en .
+
+wd:Q27258415 a wd:Q187661 ;
+    rdfs:label "phenytoin sodium"@en .
+
+wd:Q27262572 a wd:Q187661 ;
+    rdfs:label "O-tolidine dihydrochloride"@en .
+
+wd:Q27264899 a wd:Q187661 ;
+    rdfs:label "acifluorfen-sodium"@en .
+
+wd:Q27269783 a wd:Q187661 ;
+    rdfs:label "chloramphenicol sodium succinate"@en .
+
+wd:Q27273261 a wd:Q187661 ;
+    rdfs:label "sodium bromebrate"@en .
+
+wd:Q27276766 a wd:Q187661 ;
+    rdfs:label "dinitroaniline orange"@en .
+
+wd:Q27282927 a wd:Q187661 ;
+    rdfs:label "bronze orange"@en .
+
+wd:Q27286666 a wd:Q187661 ;
+    rdfs:label "p-chloroaniline hydrochloride"@en .
+
+wd:Q27287518 a wd:Q187661 ;
+    rdfs:label "O-dianisidine dihydrochloride"@en .
+
+wd:Q27288251 a wd:Q187661 ;
+    rdfs:label "direct blue 218"@en .
+
+wd:Q27289240 a wd:Q187661 ;
+    rdfs:label "bromodichloroacetic acid"@en .
+
+wd:Q27335 a wd:Q187661 ;
+    rdfs:label "furfuryl alcohol"@en .
+
+wd:Q27430160 a wd:Q187661 ;
+    rdfs:label "HCH"@en .
+
+wd:Q2784004 a wd:Q187661 ;
+    rdfs:label "amsacrine"@en .
+
+wd:Q27890208 a wd:Q187661 ;
+    rdfs:label "pararosaniline hydrochloride"@en .
+
+wd:Q28146811 a wd:Q35758 ;
+    rdfs:label "cement"@en .
+
+wd:Q282440 a wd:Q187661 ;
+    rdfs:label "pyrocatechol"@en .
+
+wd:Q28530079 a wd:Q5127848 ;
+    rdfs:label "observable universe"@en .
+
+wd:Q285562 a wd:Q16889133 ;
+    rdfs:label "Marilyn"@en .
+
+wd:Q2901318 a wd:Q16889133 ;
+    rdfs:label "mine roller"@en .
+
+wd:Q295074 a wd:Q16889133 ;
+    rdfs:label "AMD Sempron"@en .
+
+wd:Q2956475 a wd:Q187661 ;
+    rdfs:label "m-bis(2,3-epoxypropoxy)benzene"@en .
+
+wd:Q296919 a wd:Q16889133 ;
+    rdfs:label "ARTIS"@en .
+
+wd:Q3007584 a wd:Q187661 ;
+    rdfs:label "cupferron"@en .
+
+wd:Q3029913 a wd:Q11344 ;
+    rdfs:label "unquadnilium"@en .
+
+wd:Q306051 a wd:Q187661 ;
+    rdfs:label "benzo[a]pyrene"@en .
+
+wd:Q30929350 a wd:Q11344 ;
+    rdfs:label "unhexquadium"@en .
+
+wd:Q309528 a wd:Q187661 ;
+    rdfs:label "p-cresidine"@en .
+
+wd:Q31834028 a wd:Q5127848 ;
+    rdfs:label "confidence value"@en .
+
+wd:Q3267971 a wd:Q187661 ;
+    rdfs:label "furylfuramide"@en .
+
+wd:Q3295808 a wd:Q187661 ;
+    rdfs:label "o-anisidine"@en .
+
+wd:Q342939 a wd:Q187661 ;
+    rdfs:label "acrylamide"@en .
+
+wd:Q342968 a wd:Q187661 ;
+    rdfs:label "acrylonitrile"@en .
+
+wd:Q343014 a wd:Q187661 ;
+    rdfs:label "ethyl acrylate"@en .
+
+wd:Q348922 a wd:Q187661 ;
+    rdfs:label "busulfan"@en .
+
+wd:Q3551918 a wd:Q11344 ;
+    rdfs:label "unpentbium"@en .
+
+wd:Q3551919 a wd:Q11344 ;
+    rdfs:label "unpentnilium"@en .
+
+wd:Q3551921 a wd:Q11344 ;
+    rdfs:label "unpentunium"@en .
+
+wd:Q3551924 a wd:Q11344 ;
+    rdfs:label "unpenttrium"@en .
+
+wd:Q3551926 a wd:Q11344 ;
+    rdfs:label "unquadhexium"@en .
+
+wd:Q3551927 a wd:Q11344 ;
+    rdfs:label "unquadbium"@en .
+
+wd:Q3551928 a wd:Q11344 ;
+    rdfs:label "unquadoctium"@en .
+
+wd:Q3551929 a wd:Q11344 ;
+    rdfs:label "unquadseptium"@en .
+
+wd:Q3551930 a wd:Q11344 ;
+    rdfs:label "unquadpentium"@en .
+
+wd:Q3551931 a wd:Q11344 ;
+    rdfs:label "unquadquadium"@en .
+
+wd:Q3551933 a wd:Q11344 ;
+    rdfs:label "unquadtrium"@en .
+
+wd:Q3551935 a wd:Q11344 ;
+    rdfs:label "unquadunium"@en .
+
+wd:Q3552038 a wd:Q11344 ;
+    rdfs:label "untripentium"@en .
+
+wd:Q3552040 a wd:Q11344 ;
+    rdfs:label "untriquadium"@en .
+
+wd:Q3552041 a wd:Q11344 ;
+    rdfs:label "untritrium"@en .
+
+wd:Q355445 a wd:Q35758 ;
+    rdfs:label "horn substance"@en .
+
+wd:Q357427 a wd:Q27166344 ;
+    rdfs:label "Adipocere"@en .
+
+wd:Q3596749 a wd:Q187661 ;
+    rdfs:label "1,8-dinitropyrene"@en .
+
+wd:Q36906466 a wd:Q5127848 ;
+    rdfs:label "universe"@en .
+
+wd:Q3704503 a wd:Q187661 ;
+    rdfs:label "diaminodiphenyl ether"@en .
+
+wd:Q382915 a wd:Q16889133 ;
+    rdfs:label "Discoverer"@en .
+
+wd:Q407232 a wd:Q187661 ;
+    rdfs:label "glyphosate"@en .
+
+wd:Q407473 a wd:Q187661 ;
+    rdfs:label "ethylene oxide"@en .
+
+wd:Q408524 a wd:Q187661 ;
+    rdfs:label "cyclophosphamide"@en .
+
+wd:Q408767 a wd:Q187661 ;
+    rdfs:label "2-mercaptoimidazoline"@en .
+
+wd:Q40888808 a wd:Q5850078 ;
+    rdfs:label "miscarriage risk"@en .
+
+wd:Q409035 a wd:Q187661 ;
+    rdfs:label "antimony trioxide"@en .
+
+wd:Q409054 a wd:Q187661 ;
+    rdfs:label "Aldrin"@en .
+
+wd:Q409133 a wd:Q187661 ;
+    rdfs:label "chloroethane"@en .
+
+wd:Q409141 a wd:Q187661 ;
+    rdfs:label "aziridine"@en .
+
+wd:Q409184 a wd:Q187661 ;
+    rdfs:label "ethylbenzene"@en .
+
+wd:Q409298 a wd:Q187661 ;
+    rdfs:label "N,N-dimethylformamide"@en .
+
+wd:Q409401 a wd:Q187661 ;
+    rdfs:label "Butylated hydroxyanisole"@en .
+
+wd:Q409482 a wd:Q187661 ;
+    rdfs:label "benzophenone"@en .
+
+wd:Q409592 a wd:Q187661 ;
+    rdfs:label "DDE"@en .
+
+wd:Q409682 a wd:Q187661 ;
+    rdfs:label "hexachlorobenzene"@en .
+
+wd:Q409799 a wd:Q187661 ;
+    rdfs:label "bromoform"@en .
+
+wd:Q410066 a wd:Q187661 ;
+    rdfs:label "benzidine"@en .
+
+wd:Q410089 a wd:Q187661 ;
+    rdfs:label "benzofuran"@en .
+
+wd:Q410107 a wd:Q187661 ;
+    rdfs:label "cumene"@en .
+
+wd:Q410400 a wd:Q187661 ;
+    rdfs:label "phenytoin"@en .
+
+wd:Q410670 a wd:Q187661 ;
+    rdfs:label "Parachlorobenzotrifluoride"@en .
+
+wd:Q410871 a wd:Q187661 ;
+    rdfs:label "chloroprene"@en .
+
+wd:Q411064 a wd:Q187661 ;
+    rdfs:label "androstenedione"@en .
+
+wd:Q411214 a wd:Q187661 ;
+    rdfs:label "cobalt(II) sulfate"@en .
+
+wd:Q411283 a wd:Q187661 ;
+    rdfs:label "cobalt(II) oxide"@en .
+
+wd:Q4112922 a wd:Q27166344 ;
+    rdfs:label "Cytoplasmic inclusion"@en .
+
+wd:Q411542 a wd:Q187661 ;
+    rdfs:label "iprodione"@en .
+
+wd:Q411659 a wd:Q187661 ;
+    rdfs:label "daunorubicin"@en .
+
+wd:Q411754 a wd:Q187661 ;
+    rdfs:label "ethoprophos"@en .
+
+wd:Q412245 a wd:Q187661 ;
+    rdfs:label "bromoethane"@en .
+
+wd:Q412260 a wd:Q187661 ;
+    rdfs:label "benzyl chloride"@en .
+
+wd:Q412340 a wd:Q187661 ;
+    rdfs:label "Chloral hydrate"@en .
+
+wd:Q412415 a wd:Q187661 ;
+    rdfs:label "cisplatin"@en .
+
+wd:Q412845 a wd:Q187661 ;
+    rdfs:label "dichloroacetic acid"@en .
+
+wd:Q413421 a wd:Q187661 ;
+    rdfs:label "dimethyl sulfate"@en .
+
+wd:Q413500 a wd:Q187661 ;
+    rdfs:label "O-tolidine"@en .
+
+wd:Q413515 a wd:Q187661 ;
+    rdfs:label "4-chloroaniline"@en .
+
+wd:Q413847 a wd:Q187661 ;
+    rdfs:label "hydrazine sulfate"@en .
+
+wd:Q4138771 a wd:Q5850078 ;
+    rdfs:label "list of causes of hypoglycemia"@en .
+
+wd:Q4140494 a wd:Q187661 ;
+    rdfs:label "dibenz[a,h]anthracene"@en .
+
+wd:Q414116 a wd:Q187661 ;
+    rdfs:label "trans-caffeic acid"@en .
+
+wd:Q414195 a wd:Q187661 ;
+    rdfs:label "2-phenylpropene"@en .
+
+wd:Q414591 a wd:Q187661 ;
+    rdfs:label "bromate ion"@en .
+
+wd:Q414986 a wd:Q187661 ;
+    rdfs:label "estrone"@en .
+
+wd:Q415090 a wd:Q187661 ;
+    rdfs:label "carbaril"@en .
+
+wd:Q415341 a wd:Q187661 ;
+    rdfs:label "Chlordimeform"@en .
+
+wd:Q415378 a wd:Q187661 ;
+    rdfs:label "lomustine"@en .
+
+wd:Q415465 a wd:Q187661 ;
+    rdfs:label "chrysene"@en .
+
+wd:Q415472 a wd:Q187661 ;
+    rdfs:label "fenoxycarb"@en .
+
+wd:Q415563 a wd:Q187661 ;
+    rdfs:label "ethinylestradiol"@en .
+
+wd:Q415869 a wd:Q187661 ;
+    rdfs:label "carmustine"@en .
+
+wd:Q415939 a wd:Q187661 ;
+    rdfs:label "chlorambucilddv"@en .
+
+wd:Q415988 a wd:Q187661 ;
+    rdfs:label "hexachloroethane"@en .
+
+wd:Q416086 a wd:Q187661 ;
+    rdfs:label "hexamethylphosphoramide triamide"@en .
+
+wd:Q416096 a wd:Q187661 ;
+    rdfs:label "griseofulvin"@en .
+
+wd:Q416291 a wd:Q187661 ;
+    rdfs:label "indium phosphide"@en .
+
+wd:Q416393 a wd:Q187661 ;
+    rdfs:label "hexachlorobutadiene"@en .
+
+wd:Q416451 a wd:Q187661 ;
+    rdfs:label "azacitidine"@en .
+
+wd:Q416626 a wd:Q187661 ;
+    rdfs:label "2,4-dinitrotoluene"@en .
+
+wd:Q416643 a wd:Q187661 ;
+    rdfs:label "ethyl methanesulfonate"@en .
+
+wd:Q416956 a wd:Q187661 ;
+    rdfs:label "p-dimethylaminoazobenzene"@en .
+
+wd:Q417134 a wd:Q187661 ;
+    rdfs:label "chlordane"@en .
+
+wd:Q417426 a wd:Q187661 ;
+    rdfs:label "bromodichloromethane"@en .
+
+wd:Q417640 a wd:Q187661 ;
+    rdfs:label "ganciclovir"@en .
+
+wd:Q417682 a wd:Q187661 ;
+    rdfs:label "1,1-dichloro-2,2-bis(p-chlorophenyl)ethane"@en .
+
+wd:Q417891 a wd:Q187661 ;
+    rdfs:label "heptachlor"@en .
+
+wd:Q418265 a wd:Q187661 ;
+    rdfs:label "glycidol"@en .
+
+wd:Q418320 a wd:Q187661 ;
+    rdfs:label "chlorothalonil"@en .
+
+wd:Q418437 a wd:Q187661 ;
+    rdfs:label "diethanolamine"@en .
+
+wd:Q418492 a wd:Q187661 ;
+    rdfs:label "diethylhexyl phthalate"@en .
+
+wd:Q418817 a wd:Q187661 ;
+    rdfs:label "etoposide"@en .
+
+wd:Q419495 a wd:Q187661 ;
+    rdfs:label "estragole"@en .
+
+wd:Q419732 a wd:Q187661 ;
+    rdfs:label "acetochlor"@en .
+
+wd:Q4201946 a wd:Q103537 ;
+    rdfs:label "Integrin subunit alpha 1"@en .
+
+wd:Q420574 a wd:Q103537 ;
+    rdfs:label "HLA-B27"@en .
+
+wd:Q420622 a wd:Q187661 ;
+    rdfs:label "dichlorvos"@en .
+
+wd:Q420680 a wd:Q187661 ;
+    rdfs:label "cacodylic acid"@en .
+
+wd:Q420705 a wd:Q187661 ;
+    rdfs:label "crystal violet"@en .
+
+wd:Q420762 a wd:Q187661 ;
+    rdfs:label "(2S)-Fumonisin B1"@en .
+
+wd:Q421204 a wd:Q187661 ;
+    rdfs:label "alachlor"@en .
+
+wd:Q421338 a wd:Q187661 ;
+    rdfs:label "diethyl sulfate"@en .
+
+wd:Q421576 a wd:Q187661 ;
+    rdfs:label "enilconazole"@en .
+
+wd:Q421721 a wd:Q187661 ;
+    rdfs:label "acetamide"@en .
+
+wd:Q422416 a wd:Q187661 ;
+    rdfs:label "17β-estradiol"@en .
+
+wd:Q422755 a wd:Q187661 ;
+    rdfs:label "chloral"@en .
+
+wd:Q422819 a wd:Q187661 ;
+    rdfs:label "gallium arsenide"@en .
+
+wd:Q423083 a wd:Q187661 ;
+    rdfs:label "epichlorohydrin"@en .
+
+wd:Q42314051 a wd:Q5127848 ;
+    rdfs:label "ammunition family"@en .
+
+wd:Q423174 a wd:Q187661 ;
+    rdfs:label "anthraquinone"@en .
+
+wd:Q423314 a wd:Q187661 ;
+    rdfs:label "amitrole"@en .
+
+wd:Q423445 a wd:Q187661 ;
+    rdfs:label "cidofovir"@en .
+
+wd:Q423839 a wd:Q187661 ;
+    rdfs:label "gyromitrin"@en .
+
+wd:Q423892 a wd:Q187661 ;
+    rdfs:label "chlordecone"@en .
+
+wd:Q423989 a wd:Q187661 ;
+    rdfs:label "diethylstilbestrol"@en .
+
+wd:Q423992 a wd:Q187661 ;
+    rdfs:label "dieldrin"@en .
+
+wd:Q424003 a wd:Q187661 ;
+    rdfs:label "carbazole"@en .
+
+wd:Q424210 a wd:Q187661 ;
+    rdfs:label "aristolochic acids"@en .
+
+wd:Q424372 a wd:Q187661 ;
+    rdfs:label "daminozide"@en .
+
+wd:Q424993 a wd:Q187661 ;
+    rdfs:label "1,2-diphenylhydrazine"@en .
+
+wd:Q425389 a wd:Q187661 ;
+    rdfs:label "diuron"@en .
+
+wd:Q426111 a wd:Q187661 ;
+    rdfs:label "benzotrichloride"@en .
+
+wd:Q426485 a wd:Q187661 ;
+    rdfs:label "folpet"@en .
+
+wd:Q42848 a wd:Q7184903 ;
+    rdfs:label "data"@en .
+
+wd:Q428629 a wd:Q11344 ;
+    rdfs:label "untriunium"@en .
+
+wd:Q428635 a wd:Q11344 ;
+    rdfs:label "untribium"@en .
+
+wd:Q428640 a wd:Q11344 ;
+    rdfs:label "unbiennium"@en .
+
+wd:Q428648 a wd:Q11344 ;
+    rdfs:label "untrinilium"@en .
+
+wd:Q428685 a wd:Q11344 ;
+    rdfs:label "unbipentium"@en .
+
+wd:Q428692 a wd:Q11344 ;
+    rdfs:label "unbiseptium"@en .
+
+wd:Q428703 a wd:Q11344 ;
+    rdfs:label "unbioctium"@en .
+
+wd:Q428741 a wd:Q11344 ;
+    rdfs:label "unbiquadium"@en .
+
+wd:Q428758 a wd:Q11344 ;
+    rdfs:label "unbitrium"@en .
+
+wd:Q428818 a wd:Q101843 ;
+    rdfs:label "period 8"@en .
+
+wd:Q429022 a wd:Q187661 ;
+    rdfs:label "rhodamine B"@en .
+
+wd:Q4350852 rdfs:label "cobalt-59"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q4369087 a wd:Q16889133 ;
+    rdfs:label "jet fighter generation"@en .
+
+wd:Q4382200 a wd:Q187661 ;
+    rdfs:label "2-acetylaminofluorene"@en .
+
+wd:Q45242174 a wd:Q16889133 ;
+    rdfs:label "gazetted locality of Victoria"@en .
+
+wd:Q4548761 a wd:Q16889133 ;
+    rdfs:label "12ft Skiff"@en .
+
+wd:Q4573133 a wd:Q16889133 ;
+    rdfs:label "Donald Top"@en .
+
+wd:Q4637187 a wd:Q187661 ;
+    rdfs:label "4-Chloronitrobenzene"@en .
+
+wd:Q47456790 rdfs:label "cobalt-76"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q47456793 rdfs:label "cobalt-77"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q4832281 a wd:Q187661 ;
+    rdfs:label "Azaserine"@en .
+
+wd:Q5029135 a wd:Q186752 ;
+    rdfs:label "Can f 1"@en .
+
+wd:Q5033171 a wd:Q7184903 ;
+    rdfs:label "canon"@en .
+
+wd:Q50824634 a wd:Q16889133 ;
+    rdfs:label "memorial to William Tell"@en .
+
+wd:Q5102985 a wd:Q187661 ;
+    rdfs:label "chlornaphazine"@en .
+
+wd:Q5103213 a wd:Q187661 ;
+    rdfs:label "chlorotrianisene"@en .
+
+wd:Q5103222 a wd:Q187661 ;
+    rdfs:label "chlorozotocin"@en .
+
+wd:Q5119521 a wd:Q5127848 ;
+    rdfs:label "Cidex"@en .
+
+wd:Q5221244 a wd:Q187661 ;
+    rdfs:label "danthron"@en .
+
+wd:Q5272255 a wd:Q187661 ;
+    rdfs:label "dibenz[a,j]anthracene"@en .
+
+wd:Q5274970 a wd:Q187661 ;
+    rdfs:label "diepoxybutane"@en .
+
+wd:Q52822 a wd:Q187661 ;
+    rdfs:label "2,3,7,8-tetrachlorodibenzo-p-dioxin"@en .
+
+wd:Q5401860 a wd:Q187661 ;
+    rdfs:label "estropipate"@en .
+
+wd:Q54377 a wd:Q11344 ;
+    rdfs:label "unbihexium"@en .
+
+wd:Q546957 a wd:Q187661 ;
+    rdfs:label "p-aminoazobenzene"@en .
+
+wd:Q548592 a wd:Q11344 ;
+    rdfs:label "untriennium"@en .
+
+wd:Q550039 a wd:Q187661 ;
+    rdfs:label "benzo[k]fluoranthene"@en .
+
+wd:Q55427380 a wd:Q187661 ;
+    rdfs:label "IARC Group 1 carcinogen"@en .
+
+wd:Q556 a wd:Q11344 ;
+    rdfs:label "hydrogen"@en .
+
+wd:Q55710195 a wd:Q103537 ;
+    rdfs:label "ECA"@en .
+
+wd:Q560 a wd:Q11344 ;
+    rdfs:label "helium"@en .
+
+wd:Q56097469 a wd:Q35758 ;
+    rdfs:label "Q56097469"^^xsd:string .
+
+wd:Q56317935 a wd:Q5850078 ;
+    rdfs:label "causes of  Alzheimer's disease"@en .
+
+wd:Q5656540 a wd:Q16889133 ;
+    rdfs:label "Hardy"@en .
+
+wd:Q568 a wd:Q11344 ;
+    rdfs:label "lithium"@en .
+
+wd:Q569 a wd:Q11344,
+        wd:Q187661 ;
+    rdfs:label "beryllium"@en .
+
+wd:Q576630 a wd:Q187661 ;
+    rdfs:label "benzo[j]fluoranthene"@en .
+
+wd:Q58447 a wd:Q187661 ;
+    rdfs:label "hydrazine"@en .
+
+wd:Q5861 a wd:Q187661 ;
+    rdfs:label "glass fiber"@en .
+
+wd:Q58622448 a wd:Q187661 ;
+    rdfs:label "methyldimethylaminoazobenzene"@en .
+
+wd:Q58778 a wd:Q7184903 ;
+    rdfs:label "system"@en .
+
+wd:Q5897556 a wd:Q187661 ;
+    rdfs:label "Iron Dextran"@en .
+
+wd:Q60964479 a wd:Q5850078 ;
+    rdfs:label "Q60964479"^^xsd:string .
+
+wd:Q61457 a wd:Q187661 ;
+    rdfs:label "acetaldehyde"@en .
+
+wd:Q61704160 a wd:Q101843 ;
+    rdfs:label "all-time"@en .
+
+wd:Q618 a wd:Q11344 ;
+    rdfs:label "boron"@en .
+
+wd:Q61854433 a wd:Q187661 ;
+    rdfs:label "1,3-dichloropropene"@en .
+
+wd:Q61888167 a wd:Q16889133 ;
+    rdfs:label "manifestation (FRBR concept)"@en .
+
+wd:Q62082016 a wd:Q16889133 ;
+    rdfs:label "Hewitt"@en .
+
+wd:Q62082048 a wd:Q16889133 ;
+    rdfs:label "Nuttall"@en .
+
+wd:Q62082113 a wd:Q16889133 ;
+    rdfs:label "Dodd"@en .
+
+wd:Q62082131 a wd:Q16889133 ;
+    rdfs:label "Wainwright"@en .
+
+wd:Q62082171 a wd:Q16889133 ;
+    rdfs:label "Wainwright Outlying Fell"@en .
+
+wd:Q623 a wd:Q11344 ;
+    rdfs:label "carbon"@en .
+
+wd:Q627 a wd:Q11344 ;
+    rdfs:label "nitrogen"@en .
+
+wd:Q629 a wd:Q11344 ;
+    rdfs:label "oxygen"@en .
+
+wd:Q63433068 a wd:Q16889133 ;
+    rdfs:label "national naval fleet"@en .
+
+wd:Q63433199 a wd:Q16889133 ;
+    rdfs:label "national class-specific fleet"@en .
+
+wd:Q63433208 a wd:Q16889133 ;
+    rdfs:label "class-specific naval fleet"@en .
+
+wd:Q63973264 a wd:Q16889133 ;
+    rdfs:label "tractor propeller"@en .
+
+wd:Q64353376 a wd:Q35758 ;
+    rdfs:label "Durapore"@en .
+
+wd:Q6469021 a wd:Q187661 ;
+    rdfs:label "lactofen"@en .
+
+wd:Q650 a wd:Q11344 ;
+    rdfs:label "fluorine"@en .
+
+wd:Q654 a wd:Q11344 ;
+    rdfs:label "neon"@en .
+
+wd:Q6542581 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class B, subclass BM -- Judaism"@en .
+
+wd:Q6542586 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class B, subclass BQ -- Buddhism"@en .
+
+wd:Q6542587 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class B, subclass BR -- Christianity"@en .
+
+wd:Q6542594 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class B -- Philosophy, Psychology, Religion"@en .
+
+wd:Q6542599 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class D, subclass DC -- History of France, Andorra, and Monaco"@en .
+
+wd:Q6542621 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class D -- History, General and Old World"@en .
+
+wd:Q6542622 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class E -- History of America"@en .
+
+wd:Q6542625 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class G, subclass GA -- Mathematical geography. Cartography"@en .
+
+wd:Q6542634 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class G, subclass GV -- Recreation and Leisure"@en .
+
+wd:Q6542636 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class G -- Geography. Anthropology. Recreation"@en .
+
+wd:Q6542661 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class P, subclass PD -- Germanic languages"@en .
+
+wd:Q6542680 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class Q -- Science"@en .
+
+wd:Q6542683 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class V -- Naval Science"@en .
+
+wd:Q658 a wd:Q11344 ;
+    rdfs:label "sodium"@en .
+
+wd:Q660 a wd:Q11344 ;
+    rdfs:label "magnesium"@en .
+
+wd:Q66253298 a wd:Q16889133 ;
+    rdfs:label "national destroyer fleet"@en .
+
+wd:Q663 a wd:Q11344 ;
+    rdfs:label "aluminum"@en .
+
+wd:Q670 a wd:Q11344 ;
+    rdfs:label "silicon"@en .
+
+wd:Q671 a wd:Q11344 ;
+    rdfs:label "francium"@en .
+
+wd:Q67206648 a wd:Q16889133 ;
+    rdfs:label "Q67206648"^^xsd:string .
+
+wd:Q67206680 a wd:Q16889133 ;
+    rdfs:label "Q67206680"^^xsd:string .
+
+wd:Q674 a wd:Q11344 ;
+    rdfs:label "phosphoru"@en .
+
+wd:Q677 a wd:Q11344 ;
+    rdfs:label "iron"@en .
+
+wd:Q682 a wd:Q11344 ;
+    rdfs:label "sulfur"@en .
+
+wd:Q68482296 a wd:Q16889133 ;
+    rdfs:label "military activity"@en .
+
+wd:Q688 a wd:Q11344 ;
+    rdfs:label "chlorine"@en .
+
+wd:Q696 a wd:Q11344 ;
+    rdfs:label "argon"@en .
+
+wd:Q703 a wd:Q11344 ;
+    rdfs:label "potassium"@en .
+
+wd:Q706 a wd:Q11344 ;
+    rdfs:label "calcium"@en .
+
+wd:Q708 a wd:Q11344 ;
+    rdfs:label "lead"@en .
+
+wd:Q713 a wd:Q11344 ;
+    rdfs:label "scandium"@en .
+
+wd:Q716 a wd:Q11344 ;
+    rdfs:label "titanium"@en .
+
+wd:Q722 a wd:Q11344 ;
+    rdfs:label "vanadium"@en .
+
+wd:Q72461111 a wd:Q187661 ;
+    rdfs:label "Clomifene citrate"@en .
+
+wd:Q72465833 a wd:Q187661 ;
+    rdfs:label "trans-1,4-Dichloro-2-butene"@en .
+
+wd:Q72469565 a wd:Q187661 ;
+    rdfs:label "Direct Brown 95"@en .
+
+wd:Q72470913 a wd:Q187661 ;
+    rdfs:label "Epoxiconazole"@en .
+
+wd:Q725 a wd:Q11344 ;
+    rdfs:label "chromium"@en .
+
+wd:Q7251502 a wd:Q16889133 ;
+    rdfs:label "Protein subfamily"@en .
+
+wd:Q731 a wd:Q11344 ;
+    rdfs:label "manganese"@en .
+
+wd:Q737 a wd:Q11344 ;
+    rdfs:label "rhenium"@en .
+
+wd:Q7425 a wd:Q11344 ;
+    rdfs:label "unbibium"@en .
+
+wd:Q743 a wd:Q11344 ;
+    rdfs:label "tungsten"@en .
+
+wd:Q744 a wd:Q11344 ;
+    rdfs:label "nickel"@en .
+
+wd:Q74457656 a wd:Q16889133 ;
+    rdfs:label "Q74457656"^^xsd:string .
+
+wd:Q74458071 a wd:Q16889133 ;
+    rdfs:label "Q74458071"^^xsd:string .
+
+wd:Q751 a wd:Q11344 ;
+    rdfs:label "osmium"@en .
+
+wd:Q753 a wd:Q11344 ;
+    rdfs:label "copper"@en .
+
+wd:Q7572183 a wd:Q35758 ;
+    rdfs:label "space-time crystal"@en .
+
+wd:Q758 a wd:Q11344 ;
+    rdfs:label "zinc"@en .
+
+wd:Q764245 a wd:Q187661 ;
+    rdfs:label "carbon black"@en .
+
+wd:Q77030030 a wd:Q16889133 ;
+    rdfs:label "protein variant"@en .
+
+wd:Q77768178 a wd:Q16889133 ;
+    rdfs:label "type of footage"@en .
+
+wd:Q78154500 a wd:Q16889133 ;
+    rdfs:label "group of protein complexes"@en .
+
+wd:Q78155096 a wd:Q16889133 ;
+    rdfs:label "family of protein complexes"@en .
+
+wd:Q7834645 a wd:Q5850078 ;
+    rdfs:label "Transmission of hepadnaviruses"@en .
+
+wd:Q79633016 a wd:Q16889133 ;
+    rdfs:label "Q79633016"^^xsd:string .
+
+wd:Q810811 a wd:Q27166344 ;
+    rdfs:label "Bathybius haeckelii"@en .
+
+wd:Q816713 a wd:Q35758 ;
+    rdfs:label "sawdust"@en .
+
+wd:Q83748716 a wd:Q16889133 ;
+    rdfs:label "twin-float gear"@en .
+
+wd:Q85509189 a wd:Q5127848 ;
+    rdfs:label "symptom"@en .
+
+wd:Q855681 a wd:Q7184903 ;
+    rdfs:label "Q855681"^^xsd:string .
+
+wd:Q85640110 a wd:Q16889133 ;
+    rdfs:label "Q85640110"^^xsd:string .
+
+wd:Q861 a wd:Q11344 ;
+    rdfs:label "gallium"@en .
+
+wd:Q867 a wd:Q11344 ;
+    rdfs:label "germanium"@en .
+
+wd:Q868375 a wd:Q11344 ;
+    rdfs:label "untrihexium"@en .
+
+wd:Q869681 a wd:Q11344 ;
+    rdfs:label "untrioctium"@en .
+
+wd:Q871 a wd:Q11344,
+        wd:Q187661 ;
+    rdfs:label "arsenic"@en .
+
+wd:Q876 a wd:Q11344 ;
+    rdfs:label "selenium"@en .
+
+wd:Q877 a wd:Q11344 ;
+    rdfs:label "iridium"@en .
+
+wd:Q879 a wd:Q11344 ;
+    rdfs:label "bromine"@en .
+
+wd:Q880 a wd:Q11344 ;
+    rdfs:label "platinum"@en .
+
+wd:Q888 a wd:Q11344 ;
+    rdfs:label "krypton"@en .
+
+wd:Q8884513 a wd:Q187661 ;
+    rdfs:label "Azobenzene"@en .
+
+wd:Q895 a wd:Q11344 ;
+    rdfs:label "rubidium"@en .
+
+wd:Q897 a wd:Q11344 ;
+    rdfs:label "gold"@en .
+
+wd:Q900279 a wd:Q35758 ;
+    rdfs:label "Digestate"@en .
+
+wd:Q901018 a wd:Q187661 ;
+    rdfs:label "solvent yellow 14"@en .
+
+wd:Q902245 a wd:Q27166344 ;
+    rdfs:label "Black liquor"@en .
+
+wd:Q909808 a wd:Q187661 ;
+    rdfs:label "creosote"@en .
+
+wd:Q925 a wd:Q11344 ;
+    rdfs:label "mercury"@en .
+
+wd:Q932 a wd:Q11344 ;
+    rdfs:label "thallium"@en .
+
+wd:Q932960 rdfs:label "cobalt-60"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q938 a wd:Q11344 ;
+    rdfs:label "strontium"@en .
+
+wd:Q941 a wd:Q11344 ;
+    rdfs:label "yttrium"@en .
+
+wd:Q942 a wd:Q11344 ;
+    rdfs:label "bismuth"@en .
+
+wd:Q979 a wd:Q11344 ;
+    rdfs:label "polonium"@en .
+
+wd:Q986218 a wd:Q101843 ;
+    rdfs:label "period 9"@en .
+
+wd:Q999 a wd:Q11344 ;
+    rdfs:label "astatine"@en .
+
+wd:Q17154431 rdfs:label "mode of toxic action"@en .
+
+wd:Q178593 rdfs:label "macromolecule"@en .
+
+wd:Q18205885 rdfs:label "causes of cancer"@en ;
+    rdfs:subClassOf wd:Q5850078 .
+
+wd:Q239825 a wd:Q101843 ;
+    rdfs:label "period 4"@en ;
+    rdfs:subClassOf wd:Q101843 .
+
+wd:Q2826767 rdfs:label "disease causative agent"@en ;
+    rdfs:subClassOf wd:Q86923152 .
+
+wd:Q50379880 rdfs:label "noxae"@en ;
+    rdfs:subClassOf wd:Q17154431 .
+
+wd:Q86923152 rdfs:label "risk source"@en .
+
+wd:Q186752 rdfs:label "allergen"@en ;
+    rdfs:subClassOf wd:Q103537,
+        wd:Q2826767 .
+
+wd:Q103537 rdfs:label "antigen"@en ;
+    rdfs:subClassOf wd:Q178593 .
+
+wd:Q5127848 rdfs:label "class"@en ;
+    rdfs:subClassOf wd:Q7184903 .
+
+wd:Q5850078 rdfs:label "etiology"@en .
+
+wd:Q27166344 rdfs:label "substance"@en ;
+    rdfs:subClassOf wd:Q35758 .
+
+wd:Q35758 rdfs:label "matter"@en .
+
+wd:Q101843 rdfs:label "period"@en ;
+    rdfs:subClassOf wd:Q16889133 .
+
+wd:Q7184903 rdfs:label "abstract object"@en .
+
+wd:Q740 a wd:Q11344,
+        wd:Q187661 ;
+    rdfs:label "cobalt"@en ;
+    rdfs:subClassOf wd:Q186752,
+        wd:Q208107,
+        wd:Q239825 .
+
+wd:Q16889133 rdfs:label "class"@en .
+
+wd:Q11344 rdfs:label "chemical element"@en ;
+    rdfs:subClassOf wd:Q5127848 .
+
+wd:Q187661 rdfs:label "carcinogen"@en ;
+    rdfs:subClassOf wd:Q18205885,
+        wd:Q27166344,
+        wd:Q50379880 .
+

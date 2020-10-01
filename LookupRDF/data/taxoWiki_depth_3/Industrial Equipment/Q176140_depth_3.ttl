@@ -1,0 +1,51 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1231614 a wd:Q176140 ;
+    rdfs:label "control grid"@en .
+
+wd:Q1365473 a wd:Q175233 ;
+    rdfs:label "Hot cathode"@en .
+
+wd:Q16699995 a wd:Q176140 ;
+    rdfs:label "gate of field transistor"@en .
+
+wd:Q16979465 rdfs:label "Microelectrode"@en ;
+    rdfs:subClassOf wd:Q176140 .
+
+wd:Q1720284 a wd:Q176140 ;
+    rdfs:label "welding electrode"@en .
+
+wd:Q20851363 rdfs:label "platinum electrode"@en ;
+    rdfs:subClassOf wd:Q176140 .
+
+wd:Q2477607 rdfs:label "ion selective electrode"@en ;
+    rdfs:subClassOf wd:Q176140 .
+
+wd:Q2694862 rdfs:label "Q2694862"^^xsd:string ;
+    rdfs:subClassOf wd:Q176140 .
+
+wd:Q3105649 rdfs:label "Q3105649"^^xsd:string ;
+    rdfs:subClassOf wd:Q176140 .
+
+wd:Q5462838 a wd:Q176140 ;
+    rdfs:label "Fluoride selective electrode"@en .
+
+wd:Q6201500 rdfs:label "Q6201500"^^xsd:string ;
+    rdfs:subClassOf wd:Q181232 .
+
+wd:Q814902 a wd:Q175233 ;
+    rdfs:label "Cold cathode"@en .
+
+wd:Q181232 rdfs:label "anode"@en ;
+    rdfs:subClassOf wd:Q176140 .
+
+wd:Q175233 rdfs:label "cathode"@en ;
+    rdfs:subClassOf wd:Q176140 .
+
+wd:Q176140 rdfs:label "electrode"@en ;
+    rdfs:subClassOf wd:Q947546 .
+

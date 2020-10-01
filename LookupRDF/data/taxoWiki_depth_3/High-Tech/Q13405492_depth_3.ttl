@@ -1,0 +1,29 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q11325069 a wd:Q174077 ;
+    rdfs:label "Nintendo Power"@en .
+
+wd:Q1535598 a wd:Q5830907 ;
+    rdfs:label "write-only memory"@en .
+
+wd:Q28872287 rdfs:label "Toshiba THGBMHG8C2LBAIL 32 GB eMMC NAND Flash IC"@en ;
+    rdfs:subClassOf wd:Q13405492 .
+
+wd:Q59402062 a wd:Q5830907 ;
+    rdfs:label "quantum memory"@en .
+
+wd:Q10997658 rdfs:label "non-volatile memory"@en ;
+    rdfs:subClassOf wd:Q5830907 .
+
+wd:Q13405492 rdfs:label "NAND flash"@en ;
+    rdfs:subClassOf wd:Q174077 .
+
+wd:Q174077 rdfs:label "flash memory"@en ;
+    rdfs:subClassOf wd:Q10997658 .
+
+wd:Q5830907 rdfs:label "computer memory"@en .
+

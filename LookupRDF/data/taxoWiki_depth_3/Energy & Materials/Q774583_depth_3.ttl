@@ -1,0 +1,60 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1256545 a wd:Q951504 ;
+    rdfs:label "synchro"@en .
+
+wd:Q1826468 a wd:Q951504 ;
+    rdfs:label "Linear alternator"@en .
+
+wd:Q19478858 a wd:Q131502 ;
+    rdfs:label "Woolrich Electrical Generator"@en .
+
+wd:Q2004575 a wd:Q131502 ;
+    rdfs:label "nuclide generator"@en .
+
+wd:Q29222871 a wd:Q131502 ;
+    rdfs:label "Q29222871"^^xsd:string .
+
+wd:Q384549 a wd:Q131502 ;
+    rdfs:label "Kelvin Water Dropper"@en .
+
+wd:Q53869216 a wd:Q951504 ;
+    rdfs:label "Electrostatic machine-MHS 1459"@en .
+
+wd:Q55454822 a wd:Q951504 ;
+    rdfs:label "Magneto-electrical machine-MHS 813"@en .
+
+wd:Q62090928 a wd:Q217941 ;
+    rdfs:label "Tesla Solar Panels"@en .
+
+wd:Q7556726 rdfs:label "solar panels on spacecraft"@en ;
+    rdfs:subClassOf wd:Q774583 .
+
+wd:Q7556883 rdfs:label "Solar shingle"@en ;
+    rdfs:subClassOf wd:Q774583 .
+
+wd:Q7598442 a wd:Q131502 ;
+    rdfs:label "Standby generator"@en .
+
+wd:Q76395064 a wd:Q837515 ;
+    rdfs:label "Q76395064"^^xsd:string .
+
+wd:Q1753139 rdfs:label "power source"@en .
+
+wd:Q217941 rdfs:label "solar cell panel"@en ;
+    rdfs:subClassOf wd:Q131502 .
+
+wd:Q774583 rdfs:label "Solar Panel"@en ;
+    rdfs:subClassOf wd:Q217941,
+        wd:Q837515 .
+
+wd:Q951504 rdfs:label "electric machine"@en .
+
+wd:Q131502 rdfs:label "electric generator"@en ;
+    rdfs:subClassOf wd:Q1753139,
+        wd:Q951504 .
+

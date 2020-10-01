@@ -1,0 +1,5184 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q10435565 a wd:Q37756 ;
+    rdfs:label "Brightray"@en .
+
+wd:Q1046522 a wd:Q169336 ;
+    rdfs:label "Abacavir/lamivudine/zidovudine"@en .
+
+wd:Q10564962 a wd:Q5447188 ;
+    rdfs:label "Alsever's solution"@en .
+
+wd:Q1057786 a wd:Q169336 ;
+    rdfs:label "cetostearyl alcohol"@en .
+
+wd:Q10721424 a wd:Q169336 ;
+    rdfs:label "Q10721424"^^xsd:string .
+
+wd:Q10749869 a wd:Q5447188 ;
+    rdfs:label "vanilla extract"@en .
+
+wd:Q1110350 a wd:Q37756 ;
+    rdfs:label "ELC steel"@en .
+
+wd:Q1121621 a wd:Q37756 ;
+    rdfs:label "Heyden gold"@en .
+
+wd:Q11241810 a wd:Q169336 ;
+    rdfs:label "Retr0bright"@en .
+
+wd:Q11254 a wd:Q169336 ;
+    rdfs:label "table salt"@en .
+
+wd:Q1129345 a wd:Q11427 ;
+    rdfs:label "Reynolds 531"@en .
+
+wd:Q11744481 a wd:Q37756 ;
+    rdfs:label "Kowar"@en .
+
+wd:Q11789394 a wd:Q169336 ;
+    rdfs:label "Nalew"@en .
+
+wd:Q11901252 a wd:Q37756 ;
+    rdfs:label "green gold"@en .
+
+wd:Q11904087 a wd:Q37756 ;
+    rdfs:label "Steel molding"@en .
+
+wd:Q11936626 a wd:Q37756 ;
+    rdfs:label "Frary metal"@en .
+
+wd:Q1247030 a wd:Q11427 ;
+    rdfs:label "Suminagashi"@en .
+
+wd:Q12549485 a wd:Q37756 ;
+    rdfs:label "cobalt-chromium melt"@en .
+
+wd:Q1256090 a wd:Q11427,
+        wd:Q37756 ;
+    rdfs:label "TWIP steel"@en .
+
+wd:Q1264354 a wd:Q37756 ;
+    rdfs:label "Dukatengold"@en .
+
+wd:Q12861 a wd:Q169336 ;
+    rdfs:label "gunpowder"@en .
+
+wd:Q12970360 a wd:Q169336 ;
+    rdfs:label "saltpeter"@en .
+
+wd:Q13174090 a wd:Q169336 ;
+    rdfs:label "Q13174090"^^xsd:string .
+
+wd:Q1328465 a wd:Q37756 ;
+    rdfs:label "Hepatizon"@en .
+
+wd:Q13460406 a wd:Q169336 ;
+    rdfs:label "Q13460406"^^xsd:string .
+
+wd:Q1350187 a wd:Q37756 ;
+    rdfs:label "tempering steel"@en .
+
+wd:Q1400720 a wd:Q1070521 ;
+    rdfs:label "Spring steel"@en .
+
+wd:Q1434117 a wd:Q169336 ;
+    rdfs:label "fluid mud"@en .
+
+wd:Q143957 a wd:Q169336 ;
+    rdfs:label "Ethylen-Copolymer-Bitumen"@en .
+
+wd:Q144355 a wd:Q37756 ;
+    rdfs:label "Zain"@en .
+
+wd:Q145352 a wd:Q37756 ;
+    rdfs:label "Zamak"@en .
+
+wd:Q1455584 a wd:Q37756 ;
+    rdfs:label "phantom metal"@en .
+
+wd:Q1457905 a wd:Q37756 ;
+    rdfs:label "Nivarox"@en .
+
+wd:Q14906075 a wd:Q169336 ;
+    rdfs:label "Q14906075"^^xsd:string .
+
+wd:Q1519073 a wd:Q37756 ;
+    rdfs:label "titanium zinc"@en .
+
+wd:Q15410179 a wd:Q169336 ;
+    rdfs:label "Tegafur/gimeracil/oteracil"@en .
+
+wd:Q154389 a wd:Q169336 ;
+    rdfs:label "molasses"@en .
+
+wd:Q155925 a wd:Q169336 ;
+    rdfs:label "saliva"@en .
+
+wd:Q15708335 a wd:Q169336 ;
+    rdfs:label "tipiracil / Trifluridine"@en .
+
+wd:Q15846914 a wd:Q37756 ;
+    rdfs:label "heat-resistant alloy"@en .
+
+wd:Q1587055 a wd:Q37756 ;
+    rdfs:label "Hartblei"@en .
+
+wd:Q1587436 a wd:Q37756 ;
+    rdfs:label "Isaohm"@en .
+
+wd:Q1589612 a wd:Q169336 ;
+    rdfs:label "Q1589612"^^xsd:string .
+
+wd:Q1591882 a wd:Q5447188 ;
+    rdfs:label "Hayem's solution"@en .
+
+wd:Q15943058 a wd:Q37756 ;
+    rdfs:label "iron platinum"@en .
+
+wd:Q15982768 a wd:Q169336 ;
+    rdfs:label "Kinetite"@en .
+
+wd:Q1635105 a wd:Q37756 ;
+    rdfs:label "Wironit"@en .
+
+wd:Q1660564 a wd:Q37756 ;
+    rdfs:label "Bell metal"@en .
+
+wd:Q1673660 a wd:Q37756 ;
+    rdfs:label "Isabellin"@en .
+
+wd:Q16911501 a wd:Q169336 ;
+    rdfs:label "ethylenediamine pyrocatechol"@en .
+
+wd:Q17004283 a wd:Q1070521 ;
+    rdfs:label "ASTM A53 steel"@en .
+
+wd:Q17027436 a wd:Q37756 ;
+    rdfs:label "Indium gallium arsenide phosphide"@en .
+
+wd:Q170449 a wd:Q169336 ;
+    rdfs:label "mud"@en .
+
+wd:Q17075321 a wd:Q37756 ;
+    rdfs:label "Platinum sterling"@en .
+
+wd:Q17076698 a wd:Q37756 ;
+    rdfs:label "Pseudo palladium"@en .
+
+wd:Q1708647 a wd:Q37756 ;
+    rdfs:label "NiHard"@en .
+
+wd:Q17098392 a wd:Q37756 ;
+    rdfs:label "Iron–hydrogen alloy"@en .
+
+wd:Q17105079 a wd:Q37756 ;
+    rdfs:label "Oilite"@en .
+
+wd:Q17105798 a wd:Q37756 ;
+    rdfs:label "Silicon-tin"@en .
+
+wd:Q17125410 a wd:Q169336 ;
+    rdfs:label "Umeclidinium bromide/vilanterol"@en .
+
+wd:Q17125970 a wd:Q37756 ;
+    rdfs:label "scandium hydride"@en .
+
+wd:Q17127633 a wd:Q169336 ;
+    rdfs:label "Fluticasone furoate/vilanterol"@en .
+
+wd:Q17148614 a wd:Q169336 ;
+    rdfs:label "Actoplus Met"@en .
+
+wd:Q17192770 a wd:Q169336 ;
+    rdfs:label "gastric juice"@en .
+
+wd:Q1722084 a wd:Q169336 ;
+    rdfs:label "calf feet"@en .
+
+wd:Q1727375 a wd:Q169336 ;
+    rdfs:label "Phlobaphene"@en .
+
+wd:Q1739903 a wd:Q37756 ;
+    rdfs:label "Magnimat"@en .
+
+wd:Q174670 a wd:Q169336 ;
+    rdfs:label "aqua regia"@en .
+
+wd:Q17561423 a wd:Q37756 ;
+    rdfs:label "Q17561423"^^xsd:string .
+
+wd:Q1780969 a wd:Q37756 ;
+    rdfs:label "composition gold"@en .
+
+wd:Q18042828 a wd:Q169336 ;
+    rdfs:label "Spence's metal"@en .
+
+wd:Q1807032 a wd:Q169336 ;
+    rdfs:label "Q1807032"^^xsd:string .
+
+wd:Q1812878 a wd:Q5447188 ;
+    rdfs:label "Nital"@en .
+
+wd:Q18208897 a wd:Q169336 ;
+    rdfs:label "Abacavir/dolutegravir/lamivudine"@en .
+
+wd:Q18348108 a wd:Q169336 ;
+    rdfs:label "Halotron I"@en .
+
+wd:Q18386473 a wd:Q37756 ;
+    rdfs:label "Supertherm"@en .
+
+wd:Q18432680 a wd:Q37756 ;
+    rdfs:label "AA 6201"@en .
+
+wd:Q18476657 a wd:Q169336 ;
+    rdfs:label "Emtricitabine/rilpivirine/tenofovir"@en .
+
+wd:Q1851701 a wd:Q169336 ;
+    rdfs:label "Dalteparin"@en .
+
+wd:Q186209 a wd:Q169336 ;
+    rdfs:label "tar"@en .
+
+wd:Q18663249 a wd:Q5447188 ;
+    rdfs:label "Q18663249"^^xsd:string .
+
+wd:Q19258978 a wd:Q37756 ;
+    rdfs:label "Algerian metal"@en .
+
+wd:Q19598140 a wd:Q169336 ;
+    rdfs:label "Netupitant/palonosetron"@en .
+
+wd:Q19598149 a wd:Q5447188 ;
+    rdfs:label "non-aqueous phase liquid"@en .
+
+wd:Q19858657 a wd:Q169336 ;
+    rdfs:label "Ombitasvir/paritaprevir/ritonavir"@en .
+
+wd:Q19864811 a wd:Q169336 ;
+    rdfs:label "Empagliflozin/linagliptin"@en .
+
+wd:Q19903539 a wd:Q37756 ;
+    rdfs:label "Bismuth Indium"@en .
+
+wd:Q19904081 a wd:Q169336 ;
+    rdfs:label "Ephedrine/ethylmorphine"@en .
+
+wd:Q19978142 a wd:Q169336 ;
+    rdfs:label "stearin"@en .
+
+wd:Q202501 a wd:Q169336 ;
+    rdfs:label "Royal jelly"@en .
+
+wd:Q2030245 a wd:Q37756 ;
+    rdfs:label "organ metal"@en .
+
+wd:Q2034113 a wd:Q169336 ;
+    rdfs:label "Actrapid"@en .
+
+wd:Q2041604 a wd:Q169336 ;
+    rdfs:label "Torpex"@en .
+
+wd:Q20668292 a wd:Q37756 ;
+    rdfs:label "regule"@en .
+
+wd:Q2069439 a wd:Q169336 ;
+    rdfs:label "Egg oil"@en .
+
+wd:Q20707360 a wd:Q169336 ;
+    rdfs:label "Nourseothricin"@en .
+
+wd:Q20707624 a wd:Q169336 ;
+    rdfs:label "Indacaterol/glycopyrrolate"@en .
+
+wd:Q20817252 a wd:Q169336 ;
+    rdfs:label "Tinzaparin"@en .
+
+wd:Q20820254 a wd:Q37756 ;
+    rdfs:label "Nitridable steel"@en .
+
+wd:Q20885557 a wd:Q169336 ;
+    rdfs:label "aurolate"@en .
+
+wd:Q20963650 a wd:Q169336 ;
+    rdfs:label "phenyl ether–biphenyl mixture"@en .
+
+wd:Q20963908 a wd:Q169336 ;
+    rdfs:label "vegetable oil mist"@en .
+
+wd:Q20966458 a wd:Q169336 ;
+    rdfs:label "Niax Catalyst ESN"@en .
+
+wd:Q20966474 a wd:Q169336 ;
+    rdfs:label "coal tar naphtha"@en .
+
+wd:Q20973563 a wd:Q169336 ;
+    rdfs:label "Ceftazidime/avibactam"@en .
+
+wd:Q21057847 a wd:Q169336 ;
+    rdfs:label "polychlorinated biphenyl with 42% chlorine"@en .
+
+wd:Q21058099 a wd:Q169336 ;
+    rdfs:label "polychlorinated biphenyl with 54% chlorine"@en .
+
+wd:Q21234842 a wd:Q11427 ;
+    rdfs:label "X16CrNi16"@en .
+
+wd:Q21272521 a wd:Q11427 ;
+    rdfs:label "AISI 347"@en .
+
+wd:Q21505394 a wd:Q169336 ;
+    rdfs:label "mustard–lewisite mixture"@en .
+
+wd:Q2159176 a wd:Q1070521,
+        wd:Q10772391 ;
+    rdfs:label "mangalloy"@en .
+
+wd:Q2189236 a wd:Q169336 ;
+    rdfs:label "Arabinoxylan"@en .
+
+wd:Q2227049 a wd:Q169336 ;
+    rdfs:label "Q2227049"^^xsd:string .
+
+wd:Q2227304 a wd:Q169336 ;
+    rdfs:label "HBX"@en .
+
+wd:Q222920 a wd:Q37756 ;
+    rdfs:label "Platinit"@en .
+
+wd:Q2234132 a wd:Q37756 ;
+    rdfs:label "layer block"@en .
+
+wd:Q225854 a wd:Q169336 ;
+    rdfs:label "Acriflavinium chloride"@en .
+
+wd:Q2285757 a wd:Q37756 ;
+    rdfs:label "silver bronze"@en .
+
+wd:Q2303521 a wd:Q37756 ;
+    rdfs:label "Nikasil"@en .
+
+wd:Q2362625 a wd:Q169336 ;
+    rdfs:label "formalin"@en .
+
+wd:Q23661325 a wd:Q169336 ;
+    rdfs:label "Lumacaftor/ivacaftor"@en .
+
+wd:Q23807877 a wd:Q169336 ;
+    rdfs:label "oxymel"@en .
+
+wd:Q2390632 a wd:Q37756 ;
+    rdfs:label "talmi"@en .
+
+wd:Q2394424 a wd:Q1070521 ;
+    rdfs:label "Bulat steel"@en .
+
+wd:Q2407802 a wd:Q37756 ;
+    rdfs:label "Staballoy"@en .
+
+wd:Q2412859 a wd:Q169336 ;
+    rdfs:label "Tenofovir/emtricitabine"@en .
+
+wd:Q244680 a wd:Q169336 ;
+    rdfs:label "latex"@en .
+
+wd:Q2451168 a wd:Q169336 ;
+    rdfs:label "Otto fuel II"@en .
+
+wd:Q24883533 a wd:Q11427 ;
+    rdfs:label "KS Steel"@en .
+
+wd:Q24894808 a wd:Q169336 ;
+    rdfs:label "Liraglutide/insulin degludek"@en .
+
+wd:Q25048068 a wd:Q169336 ;
+    rdfs:label "Buprenorphine/naloxone"@en .
+
+wd:Q25098874 a wd:Q169336 ;
+    rdfs:label "trimethylhexamethylenediamine"@en .
+
+wd:Q25099532 a wd:Q169336 ;
+    rdfs:label "formocresol"@en .
+
+wd:Q25100947 a wd:Q169336 ;
+    rdfs:label "Zimmermann reagent"@en .
+
+wd:Q25110523 a wd:Q169336 ;
+    rdfs:label "velpatasvir/sofosbuvir"@en .
+
+wd:Q25220591 a wd:Q37756 ;
+    rdfs:label "Lead tin telluride"@en .
+
+wd:Q2561395 a wd:Q169336 ;
+    rdfs:label "intestinal juice"@en .
+
+wd:Q257128 a wd:Q169336 ;
+    rdfs:label "Cannabis flower essential oil"@en .
+
+wd:Q2585674 a wd:Q37756 ;
+    rdfs:label "Wironium"@en .
+
+wd:Q2592216 a wd:Q37756 ;
+    rdfs:label "sodium tungsten bronze"@en .
+
+wd:Q2592238 a wd:Q37756 ;
+    rdfs:label "tungsten steel"@en .
+
+wd:Q2618059 a wd:Q37756 ;
+    rdfs:label "indium gallium arsenide"@en .
+
+wd:Q2623013 a wd:Q37756 ;
+    rdfs:label "Fernico"@en .
+
+wd:Q2625654 a wd:Q37756 ;
+    rdfs:label "Permendur"@en .
+
+wd:Q2631369 a wd:Q169336 ;
+    rdfs:label "Oxyliquit"@en .
+
+wd:Q2647518 a wd:Q169336 ;
+    rdfs:label "alkylate gasoline"@en .
+
+wd:Q264923 a wd:Q169336 ;
+    rdfs:label "Armstrong's mixture"@en .
+
+wd:Q2670347 a wd:Q37756 ;
+    rdfs:label "red gold"@en .
+
+wd:Q26841195 a wd:Q169336 ;
+    rdfs:label "methylchloroisothiazolinone/methylisothiazolinone"@en .
+
+wd:Q26990372 a wd:Q169336 ;
+    rdfs:label "Coal tar creosote"@en .
+
+wd:Q27106059 a wd:Q169336 ;
+    rdfs:label "Carbidopa-levodopa"@en .
+
+wd:Q2736016 a wd:Q169336 ;
+    rdfs:label "Bile soap"@en .
+
+wd:Q2807383 a wd:Q11427 ;
+    rdfs:label "12C27"@en .
+
+wd:Q2823305 a wd:Q169336 ;
+    rdfs:label "sulfonitric acid"@en .
+
+wd:Q2828250 a wd:Q37756 ;
+    rdfs:label "green copper"@en .
+
+wd:Q28295264 a wd:Q169336 ;
+    rdfs:label "stove-making putty"@en .
+
+wd:Q2835646 a wd:Q37756 ;
+    rdfs:label "Alfenide"@en .
+
+wd:Q28455452 a wd:Q37756 ;
+    rdfs:label "Victorium"@en .
+
+wd:Q28455583 a wd:Q37756 ;
+    rdfs:label "Germanium-tin"@en .
+
+wd:Q28456167 a wd:Q37756 ;
+    rdfs:label "Ashtadhatu"@en .
+
+wd:Q28457852 a wd:Q37756 ;
+    rdfs:label "Havar"@en .
+
+wd:Q28576373 a wd:Q11427 ;
+    rdfs:label "Q28576373"^^xsd:string .
+
+wd:Q2869808 a wd:Q169336 ;
+    rdfs:label "Emtricitabine/tenofovir/efavirenz"@en .
+
+wd:Q28791955 a wd:Q169336 ;
+    rdfs:label "Alli"@en .
+
+wd:Q28856135 a wd:Q169336 ;
+    rdfs:label "dapagliflozin / metformin"@en .
+
+wd:Q28856418 a wd:Q169336 ;
+    rdfs:label "rosiglitazone / metformin"@en .
+
+wd:Q28859529 a wd:Q169336 ;
+    rdfs:label "memantine / donepezil"@en .
+
+wd:Q28859576 a wd:Q169336 ;
+    rdfs:label "ketorolac / phenylephrine"@en .
+
+wd:Q28859577 a wd:Q169336 ;
+    rdfs:label "nomegestrol acetate / estradiol"@en .
+
+wd:Q28859597 a wd:Q169336 ;
+    rdfs:label "alogliptin / metformin"@en .
+
+wd:Q28859598 a wd:Q169336 ;
+    rdfs:label "linagliptin / metformin"@en .
+
+wd:Q28859599 a wd:Q169336 ;
+    rdfs:label "empagliflozin / metformin"@en .
+
+wd:Q28859600 a wd:Q169336 ;
+    rdfs:label "ceftolozane / tazobactam"@en .
+
+wd:Q28859601 a wd:Q169336 ;
+    rdfs:label "alendronate sodium trihydrate / colecalciferol"@en .
+
+wd:Q28859602 a wd:Q169336 ;
+    rdfs:label "clopidogrel / acetylsalicylic acid"@en .
+
+wd:Q28859603 a wd:Q169336 ;
+    rdfs:label "alendronic acid / colecalciferol"@en .
+
+wd:Q28859604 a wd:Q169336 ;
+    rdfs:label "vildagliptin / metformin"@en .
+
+wd:Q28859605 a wd:Q169336 ;
+    rdfs:label "budesonide / salmeterol"@en .
+
+wd:Q28859607 a wd:Q169336 ;
+    rdfs:label "irbesartan / hydrochlorothiazide"@en .
+
+wd:Q28859608 a wd:Q169336 ;
+    rdfs:label "norelgestromin / ethinyl estradiol"@en .
+
+wd:Q28859611 a wd:Q169336 ;
+    rdfs:label "desloratadine / pseudophedrine sulphate"@en .
+
+wd:Q28859612 a wd:Q169336 ;
+    rdfs:label "emtricitabine / rilpivirine / tenofovir alafenamide"@en .
+
+wd:Q28859613 a wd:Q169336 ;
+    rdfs:label "follitropin alfa / lutropin alfa"@en .
+
+wd:Q28859614 a wd:Q169336 ;
+    rdfs:label "atazanavir / cobicistat"@en .
+
+wd:Q28859615 a wd:Q169336 ;
+    rdfs:label "fenofibrate / simvastatin"@en .
+
+wd:Q28859617 a wd:Q169336 ;
+    rdfs:label "laropiprant / nicotinic acid"@en .
+
+wd:Q28859618 a wd:Q169336 ;
+    rdfs:label "rosiglitazone / glimepiride"@en .
+
+wd:Q28859619 a wd:Q169336 ;
+    rdfs:label "brinzolamide / timolol"@en .
+
+wd:Q28859621 a wd:Q169336 ;
+    rdfs:label "brinzolamide / brimonidine tartrate"@en .
+
+wd:Q28859622 a wd:Q169336 ;
+    rdfs:label "darunavir / cobicistat"@en .
+
+wd:Q28859623 a wd:Q169336 ;
+    rdfs:label "emtricitabine / tenofovir alafenamide"@en .
+
+wd:Q28859624 a wd:Q169336 ;
+    rdfs:label "metformin / saxagliptin"@en .
+
+wd:Q28859628 a wd:Q169336 ;
+    rdfs:label "bimatoprost / timolol"@en .
+
+wd:Q28859630 a wd:Q169336 ;
+    rdfs:label "fluticasone furoate / vilanterol trifenatate"@en .
+
+wd:Q28859632 a wd:Q169336 ;
+    rdfs:label "fenofibrate / pravastatin"@en .
+
+wd:Q28859633 a wd:Q169336 ;
+    rdfs:label "pioglitazone / glimepiride"@en .
+
+wd:Q28859634 a wd:Q169336 ;
+    rdfs:label "amlodipine / valsartan / hydrochlorothiazide"@en .
+
+wd:Q28859635 a wd:Q169336 ;
+    rdfs:label "travoprost / timolol"@en .
+
+wd:Q28859636 a wd:Q169336 ;
+    rdfs:label "alogliptin / pioglitazone"@en .
+
+wd:Q28859653 a wd:Q169336 ;
+    rdfs:label "lamivudine / raltegravir"@en .
+
+wd:Q28859656 a wd:Q169336 ;
+    rdfs:label "elvitegravir / cobicistat / emtricitabine / tenofovir alafenamide"@en .
+
+wd:Q28859657 a wd:Q169336 ;
+    rdfs:label "aliskiren / hydrochlorothiazide"@en .
+
+wd:Q28859658 a wd:Q169336 ;
+    rdfs:label "insulin aspart / insulin degludec"@en .
+
+wd:Q28859659 a wd:Q169336 ;
+    rdfs:label "telmisartan / amlodipine"@en .
+
+wd:Q28884562 a wd:Q169336 ;
+    rdfs:label "Aclasta"@en .
+
+wd:Q28890051 a wd:Q169336 ;
+    rdfs:label "Afinitor"@en .
+
+wd:Q28977410 a wd:Q169336 ;
+    rdfs:label "Abasaglar"@en .
+
+wd:Q29000363 a wd:Q169336 ;
+    rdfs:label "Abilify"@en .
+
+wd:Q29003613 a wd:Q169336 ;
+    rdfs:label "Abilify Maintena"@en .
+
+wd:Q29003636 a wd:Q169336 ;
+    rdfs:label "Ablavar"@en .
+
+wd:Q29003737 a wd:Q169336 ;
+    rdfs:label "Abraxane"@en .
+
+wd:Q29004303 a wd:Q169336 ;
+    rdfs:label "Abseamed"@en .
+
+wd:Q29004367 a wd:Q169336 ;
+    rdfs:label "Accofil"@en .
+
+wd:Q29004369 a wd:Q169336 ;
+    rdfs:label "Acomplia"@en .
+
+wd:Q29004371 a wd:Q169336 ;
+    rdfs:label "Acrescent"@en .
+
+wd:Q29004373 a wd:Q169336 ;
+    rdfs:label "Actelsar Hct"@en .
+
+wd:Q29004374 a wd:Q169336 ;
+    rdfs:label "Actos"@en .
+
+wd:Q29004375 a wd:Q169336 ;
+    rdfs:label "Actraphane"@en .
+
+wd:Q29004379 a wd:Q169336 ;
+    rdfs:label "Adasuve"@en .
+
+wd:Q29004381 a wd:Q169336 ;
+    rdfs:label "Adcetris"@en .
+
+wd:Q29004383 a wd:Q169336 ;
+    rdfs:label "Adcirca"@en .
+
+wd:Q29004385 a wd:Q169336 ;
+    rdfs:label "Adempas"@en .
+
+wd:Q29004386 a wd:Q169336 ;
+    rdfs:label "Adenuric"@en .
+
+wd:Q29004387 a wd:Q169336 ;
+    rdfs:label "Adrovance"@en .
+
+wd:Q29004389 a wd:Q169336 ;
+    rdfs:label "Advagraf"@en .
+
+wd:Q29004390 a wd:Q169336 ;
+    rdfs:label "Advate"@en .
+
+wd:Q29004391 a wd:Q169336 ;
+    rdfs:label "Aerinaze"@en .
+
+wd:Q29004393 a wd:Q169336 ;
+    rdfs:label "Aerius"@en .
+
+wd:Q29004394 a wd:Q169336 ;
+    rdfs:label "Aerivio Spiromax"@en .
+
+wd:Q29004396 a wd:Q169336 ;
+    rdfs:label "Agenerase"@en .
+
+wd:Q29004398 a wd:Q169336 ;
+    rdfs:label "Airexar Spiromax"@en .
+
+wd:Q29004399 a wd:Q169336 ;
+    rdfs:label "Akynzeo"@en .
+
+wd:Q29004400 a wd:Q169336 ;
+    rdfs:label "Aldara"@en .
+
+wd:Q29004403 a wd:Q169336 ;
+    rdfs:label "Aldurazyme"@en .
+
+wd:Q29004404 a wd:Q169336 ;
+    rdfs:label "Alimta"@en .
+
+wd:Q29004406 a wd:Q169336 ;
+    rdfs:label "Alisade"@en .
+
+wd:Q29004407 a wd:Q169336 ;
+    rdfs:label "Allex"@en .
+
+wd:Q29004410 a wd:Q169336 ;
+    rdfs:label "Aloxi"@en .
+
+wd:Q29004412 a wd:Q169336 ;
+    rdfs:label "Alpheon"@en .
+
+wd:Q29004413 a wd:Q169336 ;
+    rdfs:label "Alprolix"@en .
+
+wd:Q29004415 a wd:Q169336 ;
+    rdfs:label "Altargo"@en .
+
+wd:Q29004417 a wd:Q169336 ;
+    rdfs:label "Ameluz"@en .
+
+wd:Q29004825 a wd:Q169336 ;
+    rdfs:label "Ammonaps"@en .
+
+wd:Q29004826 a wd:Q169336 ;
+    rdfs:label "Amyvid"@en .
+
+wd:Q29004829 a wd:Q169336 ;
+    rdfs:label "Angiox"@en .
+
+wd:Q29004831 a wd:Q169336 ;
+    rdfs:label "Anoro"@en .
+
+wd:Q29004832 a wd:Q169336 ;
+    rdfs:label "Apidra"@en .
+
+wd:Q29004834 a wd:Q169336 ;
+    rdfs:label "Aprovel"@en .
+
+wd:Q29004835 a wd:Q169336 ;
+    rdfs:label "Aptivus"@en .
+
+wd:Q29004837 a wd:Q169336 ;
+    rdfs:label "Aranesp"@en .
+
+wd:Q29004839 a wd:Q169336 ;
+    rdfs:label "Arava"@en .
+
+wd:Q29004841 a wd:Q169336 ;
+    rdfs:label "Ariclaim"@en .
+
+wd:Q29004842 a wd:Q169336 ;
+    rdfs:label "Aripiprazole Accord"@en .
+
+wd:Q29004845 a wd:Q169336 ;
+    rdfs:label "Aripiprazole Mylan Pharma"@en .
+
+wd:Q29004847 a wd:Q169336 ;
+    rdfs:label "Aripiprazole Sandoz"@en .
+
+wd:Q29004848 a wd:Q169336 ;
+    rdfs:label "Aripiprazole Zentiva"@en .
+
+wd:Q29004851 a wd:Q169336 ;
+    rdfs:label "Arixtra"@en .
+
+wd:Q29004853 a wd:Q169336 ;
+    rdfs:label "Arzerra"@en .
+
+wd:Q29004855 a wd:Q169336 ;
+    rdfs:label "Atazanavir Mylan"@en .
+
+wd:Q29004856 a wd:Q169336 ;
+    rdfs:label "Atosiban Sun"@en .
+
+wd:Q29004858 a wd:Q169336 ;
+    rdfs:label "Atriance"@en .
+
+wd:Q29004860 a wd:Q169336 ;
+    rdfs:label "Atripla"@en .
+
+wd:Q29004861 a wd:Q169336 ;
+    rdfs:label "Atryn"@en .
+
+wd:Q29004862 a wd:Q169336 ;
+    rdfs:label "Aubagio"@en .
+
+wd:Q29004865 a wd:Q169336 ;
+    rdfs:label "Avaglim"@en .
+
+wd:Q29004866 a wd:Q169336 ;
+    rdfs:label "Avamys"@en .
+
+wd:Q29004868 a wd:Q169336 ;
+    rdfs:label "Avandamet"@en .
+
+wd:Q29004869 a wd:Q169336 ;
+    rdfs:label "Avandia"@en .
+
+wd:Q29004870 a wd:Q169336 ;
+    rdfs:label "Avastin"@en .
+
+wd:Q29004873 a wd:Q169336 ;
+    rdfs:label "Avonex"@en .
+
+wd:Q29004874 a wd:Q169336 ;
+    rdfs:label "Axura"@en .
+
+wd:Q29004876 a wd:Q169336 ;
+    rdfs:label "Azarga"@en .
+
+wd:Q29004877 a wd:Q169336 ;
+    rdfs:label "Azilect"@en .
+
+wd:Q29004878 a wd:Q169336 ;
+    rdfs:label "Azomyr"@en .
+
+wd:Q29004881 a wd:Q169336 ;
+    rdfs:label "Azopt"@en .
+
+wd:Q29004882 a wd:Q169336 ;
+    rdfs:label "Balaxur"@en .
+
+wd:Q29004884 a wd:Q169336 ;
+    rdfs:label "Baraclude"@en .
+
+wd:Q29004885 a wd:Q169336 ;
+    rdfs:label "Bemfola"@en .
+
+wd:Q29004887 a wd:Q169336 ;
+    rdfs:label "Benefix"@en .
+
+wd:Q29004889 a wd:Q169336 ;
+    rdfs:label "Benepali"@en .
+
+wd:Q29004890 a wd:Q169336 ;
+    rdfs:label "Benlysta"@en .
+
+wd:Q29004891 a wd:Q169336 ;
+    rdfs:label "Beromun"@en .
+
+wd:Q29004893 a wd:Q169336 ;
+    rdfs:label "Betaferon"@en .
+
+wd:Q29004895 a wd:Q169336 ;
+    rdfs:label "Betmiga"@en .
+
+wd:Q29004896 a wd:Q169336 ;
+    rdfs:label "Bextra"@en .
+
+wd:Q29004898 a wd:Q169336 ;
+    rdfs:label "Bindren"@en .
+
+wd:Q29004899 a wd:Q169336 ;
+    rdfs:label "Binocrit"@en .
+
+wd:Q29004901 a wd:Q169336 ;
+    rdfs:label "Biograstim"@en .
+
+wd:Q29004903 a wd:Q169336 ;
+    rdfs:label "Biopoin"@en .
+
+wd:Q29004904 a wd:Q169336 ;
+    rdfs:label "Biresp Spiromax"@en .
+
+wd:Q29004905 a wd:Q169336 ;
+    rdfs:label "Blincyto"@en .
+
+wd:Q29004907 a wd:Q169336 ;
+    rdfs:label "Bondenza"@en .
+
+wd:Q29004908 a wd:Q169336 ;
+    rdfs:label "Bondronat"@en .
+
+wd:Q29004910 a wd:Q169336 ;
+    rdfs:label "Bonviva"@en .
+
+wd:Q29004911 a wd:Q169336 ;
+    rdfs:label "Bortezomib Accord"@en .
+
+wd:Q29004913 a wd:Q169336 ;
+    rdfs:label "Bortezomib Hospira"@en .
+
+wd:Q29004914 a wd:Q169336 ;
+    rdfs:label "Bortezomib Sun"@en .
+
+wd:Q29004916 a wd:Q169336 ;
+    rdfs:label "Bosulif"@en .
+
+wd:Q29004918 a wd:Q169336 ;
+    rdfs:label "Bretaris Genuair"@en .
+
+wd:Q29004919 a wd:Q169336 ;
+    rdfs:label "Bridion"@en .
+
+wd:Q29004920 a wd:Q169336 ;
+    rdfs:label "Brilique"@en .
+
+wd:Q29004922 a wd:Q169336 ;
+    rdfs:label "Brimica Genuair"@en .
+
+wd:Q29004923 a wd:Q169336 ;
+    rdfs:label "Brinavess"@en .
+
+wd:Q29004924 a wd:Q169336 ;
+    rdfs:label "Brintellix"@en .
+
+wd:Q29004926 a wd:Q169336 ;
+    rdfs:label "Briviact"@en .
+
+wd:Q29004927 a wd:Q169336 ;
+    rdfs:label "Bronchitol"@en .
+
+wd:Q29004929 a wd:Q169336 ;
+    rdfs:label "Buccolam"@en .
+
+wd:Q29004932 a wd:Q169336 ;
+    rdfs:label "Budesonide/formoterol Teva"@en .
+
+wd:Q29004933 a wd:Q169336 ;
+    rdfs:label "Budesonide/formoterol Teva Pharma B.v."@en .
+
+wd:Q29004936 a wd:Q169336 ;
+    rdfs:label "Busilvex"@en .
+
+wd:Q29004938 a wd:Q169336 ;
+    rdfs:label "Busulfan Fresenius Kabi"@en .
+
+wd:Q29004940 a wd:Q169336 ;
+    rdfs:label "Bydureon"@en .
+
+wd:Q29004942 a wd:Q169336 ;
+    rdfs:label "Byetta"@en .
+
+wd:Q29004943 a wd:Q169336 ;
+    rdfs:label "Caelyx"@en .
+
+wd:Q29004944 a wd:Q169336 ;
+    rdfs:label "Cancidas"@en .
+
+wd:Q29004946 a wd:Q169336 ;
+    rdfs:label "Capecitabine Accord"@en .
+
+wd:Q29004947 a wd:Q169336 ;
+    rdfs:label "Capecitabine Medac"@en .
+
+wd:Q29004949 a wd:Q169336 ;
+    rdfs:label "Capecitabine Sun"@en .
+
+wd:Q29004950 a wd:Q169336 ;
+    rdfs:label "Capecitabine Teva"@en .
+
+wd:Q29004953 a wd:Q169336 ;
+    rdfs:label "Caprelsa"@en .
+
+wd:Q29004954 a wd:Q169336 ;
+    rdfs:label "Carbaglu"@en .
+
+wd:Q29004956 a wd:Q169336 ;
+    rdfs:label "Caspofungin Accord"@en .
+
+wd:Q29004957 a wd:Q169336 ;
+    rdfs:label "Cayston"@en .
+
+wd:Q29004959 a wd:Q169336 ;
+    rdfs:label "Cea-scan"@en .
+
+wd:Q29004960 a wd:Q169336 ;
+    rdfs:label "Cellcept"@en .
+
+wd:Q29004961 a wd:Q169336 ;
+    rdfs:label "Celsentri"@en .
+
+wd:Q29004963 a wd:Q169336 ;
+    rdfs:label "Ceplene"@en .
+
+wd:Q29004964 a wd:Q169336 ;
+    rdfs:label "Ceprotin"@en .
+
+wd:Q29004966 a wd:Q169336 ;
+    rdfs:label "Cerdelga"@en .
+
+wd:Q29004967 a wd:Q169336 ;
+    rdfs:label "Cerezyme"@en .
+
+wd:Q29004968 a wd:Q169336 ;
+    rdfs:label "Cetrotide"@en .
+
+wd:Q29004970 a wd:Q169336 ;
+    rdfs:label "Champix"@en .
+
+wd:Q29004971 a wd:Q169336 ;
+    rdfs:label "Cholestagel"@en .
+
+wd:Q29004973 a wd:Q169336 ;
+    rdfs:label "Cholib"@en .
+
+wd:Q29004974 a wd:Q169336 ;
+    rdfs:label "Chondrocelect"@en .
+
+wd:Q29004975 a wd:Q169336 ;
+    rdfs:label "Cialis"@en .
+
+wd:Q29004977 a wd:Q169336 ;
+    rdfs:label "Ciambra"@en .
+
+wd:Q29004978 a wd:Q169336 ;
+    rdfs:label "Cimzia"@en .
+
+wd:Q29005606 a wd:Q169336 ;
+    rdfs:label "Cinacalcet Mylan"@en .
+
+wd:Q29005607 a wd:Q169336 ;
+    rdfs:label "Cinqaero"@en .
+
+wd:Q29005608 a wd:Q169336 ;
+    rdfs:label "Cinryze"@en .
+
+wd:Q29005609 a wd:Q169336 ;
+    rdfs:label "Circadin"@en .
+
+wd:Q29005611 a wd:Q169336 ;
+    rdfs:label "Clopidogrel 1a Pharma"@en .
+
+wd:Q29005613 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Acino"@en .
+
+wd:Q29005615 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Acino Pharma"@en .
+
+wd:Q29005616 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Acino Pharma Gmbh"@en .
+
+wd:Q29005618 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Apotex"@en .
+
+wd:Q29005619 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Bgr"@en .
+
+wd:Q29005621 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Bms"@en .
+
+wd:Q29005622 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Dura"@en .
+
+wd:Q29005623 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Hcs"@en .
+
+wd:Q29005624 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Hexal"@en .
+
+wd:Q29005626 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Krka"@en .
+
+wd:Q29005627 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Krka D.d."@en .
+
+wd:Q29005629 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Mylan"@en .
+
+wd:Q29005630 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Qualimed"@en .
+
+wd:Q29005631 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Ratiopharm"@en .
+
+wd:Q29005634 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Ratiopharm Gmbh"@en .
+
+wd:Q29005636 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Sandoz"@en .
+
+wd:Q29005638 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Tad"@en .
+
+wd:Q29005640 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Teva"@en .
+
+wd:Q29005641 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Teva Generics B.v."@en .
+
+wd:Q29005642 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Teva Pharma"@en .
+
+wd:Q29005644 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Teva Pharma B.v."@en .
+
+wd:Q29005645 a wd:Q169336 ;
+    rdfs:label "Clopidogrel Zentiva"@en .
+
+wd:Q29005647 a wd:Q169336 ;
+    rdfs:label "Clopidogrel/acetylsalicylic Acid Teva"@en .
+
+wd:Q29005648 a wd:Q169336 ;
+    rdfs:label "Clopidogrel/acetylsalicylic Acid Zentiva"@en .
+
+wd:Q29005649 a wd:Q169336 ;
+    rdfs:label "Coagadex"@en .
+
+wd:Q29005650 a wd:Q169336 ;
+    rdfs:label "Coaprovel"@en .
+
+wd:Q29005651 a wd:Q169336 ;
+    rdfs:label "Colobreathe"@en .
+
+wd:Q29005653 a wd:Q169336 ;
+    rdfs:label "Combivir"@en .
+
+wd:Q29005654 a wd:Q169336 ;
+    rdfs:label "Cometriq"@en .
+
+wd:Q29005655 a wd:Q169336 ;
+    rdfs:label "Competact"@en .
+
+wd:Q29005657 a wd:Q169336 ;
+    rdfs:label "Comtan"@en .
+
+wd:Q29005658 a wd:Q169336 ;
+    rdfs:label "Comtess"@en .
+
+wd:Q29005661 a wd:Q169336 ;
+    rdfs:label "Conbriza"@en .
+
+wd:Q29005662 a wd:Q169336 ;
+    rdfs:label "Constella"@en .
+
+wd:Q29005664 a wd:Q169336 ;
+    rdfs:label "Controloc Control"@en .
+
+wd:Q29005665 a wd:Q169336 ;
+    rdfs:label "Copalia"@en .
+
+wd:Q29005666 a wd:Q169336 ;
+    rdfs:label "Copalia Hct"@en .
+
+wd:Q29005668 a wd:Q169336 ;
+    rdfs:label "Corbilta"@en .
+
+wd:Q29005669 a wd:Q169336 ;
+    rdfs:label "Corlentor"@en .
+
+wd:Q29005670 a wd:Q169336 ;
+    rdfs:label "Cosentyx"@en .
+
+wd:Q29005672 a wd:Q169336 ;
+    rdfs:label "Cotellic"@en .
+
+wd:Q29005673 a wd:Q169336 ;
+    rdfs:label "Cotronak"@en .
+
+wd:Q29005676 a wd:Q169336 ;
+    rdfs:label "Cresemba"@en .
+
+wd:Q29005677 a wd:Q169336 ;
+    rdfs:label "Crixivan"@en .
+
+wd:Q29005679 a wd:Q169336 ;
+    rdfs:label "Cubicin"@en .
+
+wd:Q29005680 a wd:Q169336 ;
+    rdfs:label "Cuprymina"@en .
+
+wd:Q29005682 a wd:Q169336 ;
+    rdfs:label "Cyanokit"@en .
+
+wd:Q29005683 a wd:Q169336 ;
+    rdfs:label "Cymbalta"@en .
+
+wd:Q29005685 a wd:Q169336 ;
+    rdfs:label "Cyramza"@en .
+
+wd:Q29005687 a wd:Q169336 ;
+    rdfs:label "Cystadane"@en .
+
+wd:Q29005688 a wd:Q169336 ;
+    rdfs:label "Cystagon"@en .
+
+wd:Q29005690 a wd:Q169336 ;
+    rdfs:label "Dacogen"@en .
+
+wd:Q29005691 a wd:Q169336 ;
+    rdfs:label "Dafiro"@en .
+
+wd:Q29005692 a wd:Q169336 ;
+    rdfs:label "Dafiro Hct"@en .
+
+wd:Q29005694 a wd:Q169336 ;
+    rdfs:label "Daklinza"@en .
+
+wd:Q29005695 a wd:Q169336 ;
+    rdfs:label "Daliresp"@en .
+
+wd:Q29005697 a wd:Q169336 ;
+    rdfs:label "Daquiran"@en .
+
+wd:Q29005698 a wd:Q169336 ;
+    rdfs:label "Darunavir Mylan"@en .
+
+wd:Q29005701 a wd:Q169336 ;
+    rdfs:label "Darzalex"@en .
+
+wd:Q29005702 a wd:Q169336 ;
+    rdfs:label "Dasselta"@en .
+
+wd:Q29005703 a wd:Q169336 ;
+    rdfs:label "Datscan"@en .
+
+wd:Q29005706 a wd:Q169336 ;
+    rdfs:label "Daxas"@en .
+
+wd:Q29005707 a wd:Q169336 ;
+    rdfs:label "Defitelio"@en .
+
+wd:Q29005708 a wd:Q169336 ;
+    rdfs:label "Deltyba"@en .
+
+wd:Q29005710 a wd:Q169336 ;
+    rdfs:label "Depocyte"@en .
+
+wd:Q29005711 a wd:Q169336 ;
+    rdfs:label "Descovy"@en .
+
+wd:Q29005713 a wd:Q169336 ;
+    rdfs:label "Desloratadine Actavis"@en .
+
+wd:Q29005714 a wd:Q169336 ;
+    rdfs:label "Desloratadine Ratiopharm"@en .
+
+wd:Q29005716 a wd:Q169336 ;
+    rdfs:label "Desloratadine Teva"@en .
+
+wd:Q29005717 a wd:Q169336 ;
+    rdfs:label "Destara"@en .
+
+wd:Q29005719 a wd:Q169336 ;
+    rdfs:label "Dexdor"@en .
+
+wd:Q29005720 a wd:Q169336 ;
+    rdfs:label "Diacomit"@en .
+
+wd:Q29005721 a wd:Q169336 ;
+    rdfs:label "Dificlir"@en .
+
+wd:Q29005723 a wd:Q169336 ;
+    rdfs:label "Docefrez"@en .
+
+wd:Q29005724 a wd:Q169336 ;
+    rdfs:label "Docetaxel Accord"@en .
+
+wd:Q29005725 a wd:Q169336 ;
+    rdfs:label "Docetaxel Kabi"@en .
+
+wd:Q29005727 a wd:Q169336 ;
+    rdfs:label "Docetaxel Mylan"@en .
+
+wd:Q29005728 a wd:Q169336 ;
+    rdfs:label "Docetaxel Teva"@en .
+
+wd:Q29005730 a wd:Q169336 ;
+    rdfs:label "Docetaxel Teva Pharma"@en .
+
+wd:Q29005731 a wd:Q169336 ;
+    rdfs:label "Docetaxel Winthrop"@en .
+
+wd:Q29005733 a wd:Q169336 ;
+    rdfs:label "Doribax"@en .
+
+wd:Q29005735 a wd:Q169336 ;
+    rdfs:label "Dropcys"@en .
+
+wd:Q29005736 a wd:Q169336 ;
+    rdfs:label "Duaklir Genuair"@en .
+
+wd:Q29005737 a wd:Q169336 ;
+    rdfs:label "Duavive"@en .
+
+wd:Q29005739 a wd:Q169336 ;
+    rdfs:label "Duloxetine Boehringer Ingelheim"@en .
+
+wd:Q29005741 a wd:Q169336 ;
+    rdfs:label "Duloxetine Lilly"@en .
+
+wd:Q29005742 a wd:Q169336 ;
+    rdfs:label "Duloxetine Mylan"@en .
+
+wd:Q29005744 a wd:Q169336 ;
+    rdfs:label "Duloxetine Zentiva"@en .
+
+wd:Q29005746 a wd:Q169336 ;
+    rdfs:label "Duoplavin"@en .
+
+wd:Q29005748 a wd:Q169336 ;
+    rdfs:label "Duoresp Spiromax"@en .
+
+wd:Q29005749 a wd:Q169336 ;
+    rdfs:label "Duotrav"@en .
+
+wd:Q29005750 a wd:Q169336 ;
+    rdfs:label "Dutrebis"@en .
+
+wd:Q29005751 a wd:Q169336 ;
+    rdfs:label "Dynastat"@en .
+
+wd:Q29005753 a wd:Q169336 ;
+    rdfs:label "Dynepo"@en .
+
+wd:Q29005754 a wd:Q169336 ;
+    rdfs:label "Ebilfumin"@en .
+
+wd:Q29005756 a wd:Q169336 ;
+    rdfs:label "Ebixa"@en .
+
+wd:Q29005757 a wd:Q169336 ;
+    rdfs:label "Ebymect"@en .
+
+wd:Q29005758 a wd:Q169336 ;
+    rdfs:label "Ecalta"@en .
+
+wd:Q29005760 a wd:Q169336 ;
+    rdfs:label "Ecansya"@en .
+
+wd:Q29005761 a wd:Q169336 ;
+    rdfs:label "Echogen"@en .
+
+wd:Q29005763 a wd:Q169336 ;
+    rdfs:label "Ecokinase"@en .
+
+wd:Q29005764 a wd:Q169336 ;
+    rdfs:label "Edarbi"@en .
+
+wd:Q29005765 a wd:Q169336 ;
+    rdfs:label "Edistride"@en .
+
+wd:Q29005767 a wd:Q169336 ;
+    rdfs:label "Edurant"@en .
+
+wd:Q29005768 a wd:Q169336 ;
+    rdfs:label "Efavirenz Teva"@en .
+
+wd:Q29005770 a wd:Q169336 ;
+    rdfs:label "Effentora"@en .
+
+wd:Q29005771 a wd:Q169336 ;
+    rdfs:label "Efficib"@en .
+
+wd:Q29005773 a wd:Q169336 ;
+    rdfs:label "Efient"@en .
+
+wd:Q29005775 a wd:Q169336 ;
+    rdfs:label "Eklira Genuair"@en .
+
+wd:Q29005776 a wd:Q169336 ;
+    rdfs:label "Elaprase"@en .
+
+wd:Q29005778 a wd:Q169336 ;
+    rdfs:label "Elelyso"@en .
+
+wd:Q29005779 a wd:Q169336 ;
+    rdfs:label "Eliquis"@en .
+
+wd:Q29005780 a wd:Q169336 ;
+    rdfs:label "Ellaone"@en .
+
+wd:Q29005782 a wd:Q169336 ;
+    rdfs:label "Elocta"@en .
+
+wd:Q29005783 a wd:Q169336 ;
+    rdfs:label "Elonva"@en .
+
+wd:Q29005784 a wd:Q169336 ;
+    rdfs:label "Emadine"@en .
+
+wd:Q29005786 a wd:Q169336 ;
+    rdfs:label "Emend"@en .
+
+wd:Q29005787 a wd:Q169336 ;
+    rdfs:label "Empliciti"@en .
+
+wd:Q29005788 a wd:Q169336 ;
+    rdfs:label "Emselex"@en .
+
+wd:Q29005790 a wd:Q169336 ;
+    rdfs:label "Emtricitabine / Tenofovir Disoproxil Mylan"@en .
+
+wd:Q29005791 a wd:Q169336 ;
+    rdfs:label "Emtricitabine/tenofovir Disoproxil Zentiva"@en .
+
+wd:Q29005792 a wd:Q169336 ;
+    rdfs:label "Emtriva"@en .
+
+wd:Q29005794 a wd:Q169336 ;
+    rdfs:label "Enbrel"@en .
+
+wd:Q29005795 a wd:Q169336 ;
+    rdfs:label "Endolucinbeta"@en .
+
+wd:Q29005797 a wd:Q169336 ;
+    rdfs:label "Entacapone Orion"@en .
+
+wd:Q29005798 a wd:Q169336 ;
+    rdfs:label "Entacapone Teva"@en .
+
+wd:Q29005800 a wd:Q169336 ;
+    rdfs:label "Entresto"@en .
+
+wd:Q29005802 a wd:Q169336 ;
+    rdfs:label "Entyvio"@en .
+
+wd:Q29005804 a wd:Q169336 ;
+    rdfs:label "Envarsus"@en .
+
+wd:Q29005806 a wd:Q169336 ;
+    rdfs:label "Enviage"@en .
+
+wd:Q29005808 a wd:Q169336 ;
+    rdfs:label "Enyglid"@en .
+
+wd:Q29005810 a wd:Q169336 ;
+    rdfs:label "Epclusa"@en .
+
+wd:Q29005811 a wd:Q169336 ;
+    rdfs:label "Eperzan"@en .
+
+wd:Q29005812 a wd:Q169336 ;
+    rdfs:label "Epivir"@en .
+
+wd:Q29005814 a wd:Q169336 ;
+    rdfs:label "Epoetin Alfa Hexal"@en .
+
+wd:Q29005815 a wd:Q169336 ;
+    rdfs:label "Eporatio"@en .
+
+wd:Q29005817 a wd:Q169336 ;
+    rdfs:label "Eptifibatide Accord"@en .
+
+wd:Q29005818 a wd:Q169336 ;
+    rdfs:label "Erbitux"@en .
+
+wd:Q29005820 a wd:Q169336 ;
+    rdfs:label "Erivedge"@en .
+
+wd:Q29005821 a wd:Q169336 ;
+    rdfs:label "Esbriet"@en .
+
+wd:Q29005823 a wd:Q169336 ;
+    rdfs:label "Esmya"@en .
+
+wd:Q29005825 a wd:Q169336 ;
+    rdfs:label "Eucreas"@en .
+
+wd:Q29005826 a wd:Q169336 ;
+    rdfs:label "Eurartesim"@en .
+
+wd:Q29005827 a wd:Q169336 ;
+    rdfs:label "Evarrest"@en .
+
+wd:Q29005829 a wd:Q169336 ;
+    rdfs:label "Eviplera"@en .
+
+wd:Q29005830 a wd:Q169336 ;
+    rdfs:label "Evista"@en .
+
+wd:Q29005831 a wd:Q169336 ;
+    rdfs:label "Evoltra"@en .
+
+wd:Q29005833 a wd:Q169336 ;
+    rdfs:label "Evotaz"@en .
+
+wd:Q29005834 a wd:Q169336 ;
+    rdfs:label "Evotopin"@en .
+
+wd:Q29005835 a wd:Q169336 ;
+    rdfs:label "Evra"@en .
+
+wd:Q29005837 a wd:Q169336 ;
+    rdfs:label "Exalief"@en .
+
+wd:Q29005838 a wd:Q169336 ;
+    rdfs:label "Exelon"@en .
+
+wd:Q29005839 a wd:Q169336 ;
+    rdfs:label "Exforge"@en .
+
+wd:Q29005841 a wd:Q169336 ;
+    rdfs:label "Exforge Hct"@en .
+
+wd:Q29005842 a wd:Q169336 ;
+    rdfs:label "Exjade"@en .
+
+wd:Q29005844 a wd:Q169336 ;
+    rdfs:label "Extavia"@en .
+
+wd:Q29005845 a wd:Q169336 ;
+    rdfs:label "Exubera"@en .
+
+wd:Q29005848 a wd:Q169336 ;
+    rdfs:label "Exviera"@en .
+
+wd:Q29005849 a wd:Q169336 ;
+    rdfs:label "Eylea"@en .
+
+wd:Q29005850 a wd:Q169336 ;
+    rdfs:label "Fablyn"@en .
+
+wd:Q29005852 a wd:Q169336 ;
+    rdfs:label "Fabrazyme"@en .
+
+wd:Q29005853 a wd:Q169336 ;
+    rdfs:label "Fampyra"@en .
+
+wd:Q29005855 a wd:Q169336 ;
+    rdfs:label "Fareston"@en .
+
+wd:Q29005856 a wd:Q169336 ;
+    rdfs:label "Farydak"@en .
+
+wd:Q29005857 a wd:Q169336 ;
+    rdfs:label "Faslodex"@en .
+
+wd:Q29005859 a wd:Q169336 ;
+    rdfs:label "Fasturtec"@en .
+
+wd:Q29005860 a wd:Q169336 ;
+    rdfs:label "Fendrix"@en .
+
+wd:Q29005861 a wd:Q169336 ;
+    rdfs:label "Feraccru"@en .
+
+wd:Q29005863 a wd:Q169336 ;
+    rdfs:label "Ferriprox"@en .
+
+wd:Q29005864 a wd:Q169336 ;
+    rdfs:label "Fertavid"@en .
+
+wd:Q29005866 a wd:Q169336 ;
+    rdfs:label "Fiasp"@en .
+
+wd:Q29005867 a wd:Q169336 ;
+    rdfs:label "Filgrastim Hexal"@en .
+
+wd:Q29005869 a wd:Q169336 ;
+    rdfs:label "Filgrastim Ratiopharm"@en .
+
+wd:Q29005870 a wd:Q169336 ;
+    rdfs:label "Firazyr"@en .
+
+wd:Q29005871 a wd:Q169336 ;
+    rdfs:label "Firdapse"@en .
+
+wd:Q29005873 a wd:Q169336 ;
+    rdfs:label "Firmagon"@en .
+
+wd:Q29005874 a wd:Q169336 ;
+    rdfs:label "Flebogamma Dif"@en .
+
+wd:Q29005875 a wd:Q169336 ;
+    rdfs:label "Flixabi"@en .
+
+wd:Q29005877 a wd:Q169336 ;
+    rdfs:label "Folotyn"@en .
+
+wd:Q29005878 a wd:Q169336 ;
+    rdfs:label "Forcaltonin"@en .
+
+wd:Q29005879 a wd:Q169336 ;
+    rdfs:label "Forsteo"@en .
+
+wd:Q29005881 a wd:Q169336 ;
+    rdfs:label "Fortacin"@en .
+
+wd:Q29005882 a wd:Q169336 ;
+    rdfs:label "Fortovase"@en .
+
+wd:Q29005884 a wd:Q169336 ;
+    rdfs:label "Forxiga"@en .
+
+wd:Q29005885 a wd:Q169336 ;
+    rdfs:label "Fosavance"@en .
+
+wd:Q29005887 a wd:Q169336 ;
+    rdfs:label "Foscan"@en .
+
+wd:Q29005888 a wd:Q169336 ;
+    rdfs:label "Fuzeon"@en .
+
+wd:Q29005890 a wd:Q169336 ;
+    rdfs:label "Fycompa"@en .
+
+wd:Q29005891 a wd:Q169336 ;
+    rdfs:label "Galafold"@en .
+
+wd:Q29005893 a wd:Q169336 ;
+    rdfs:label "Galvus"@en .
+
+wd:Q29005895 a wd:Q169336 ;
+    rdfs:label "Ganfort"@en .
+
+wd:Q29005896 a wd:Q169336 ;
+    rdfs:label "Gazyvaro"@en .
+
+wd:Q29005898 a wd:Q169336 ;
+    rdfs:label "Gemesis"@en .
+
+wd:Q29005899 a wd:Q169336 ;
+    rdfs:label "Genasense"@en .
+
+wd:Q29005900 a wd:Q169336 ;
+    rdfs:label "Genvoya"@en .
+
+wd:Q29005901 a wd:Q169336 ;
+    rdfs:label "Gilenya"@en .
+
+wd:Q29005903 a wd:Q169336 ;
+    rdfs:label "Giotrif"@en .
+
+wd:Q29005904 a wd:Q169336 ;
+    rdfs:label "Glidipion"@en .
+
+wd:Q29005906 a wd:Q169336 ;
+    rdfs:label "Gliolan"@en .
+
+wd:Q29005907 a wd:Q169336 ;
+    rdfs:label "Glivec"@en .
+
+wd:Q29005908 a wd:Q169336 ;
+    rdfs:label "Glubrava"@en .
+
+wd:Q29005910 a wd:Q169336 ;
+    rdfs:label "Glustin"@en .
+
+wd:Q29005911 a wd:Q169336 ;
+    rdfs:label "Glybera"@en .
+
+wd:Q29005912 a wd:Q169336 ;
+    rdfs:label "Glyxambi"@en .
+
+wd:Q29005914 a wd:Q169336 ;
+    rdfs:label "Gonal-f"@en .
+
+wd:Q29005915 a wd:Q169336 ;
+    rdfs:label "Granpidam"@en .
+
+wd:Q29005916 a wd:Q169336 ;
+    rdfs:label "Granupas"@en .
+
+wd:Q29005918 a wd:Q169336 ;
+    rdfs:label "Grastofil"@en .
+
+wd:Q29005919 a wd:Q169336 ;
+    rdfs:label "Grepid"@en .
+
+wd:Q29005920 a wd:Q169336 ;
+    rdfs:label "Halaven"@en .
+
+wd:Q29005922 a wd:Q169336 ;
+    rdfs:label "Harvoni"@en .
+
+wd:Q29005923 a wd:Q169336 ;
+    rdfs:label "Hbvaxpro"@en .
+
+wd:Q29005924 a wd:Q169336 ;
+    rdfs:label "Helicobacter Test Infai"@en .
+
+wd:Q29005926 a wd:Q169336 ;
+    rdfs:label "Helixate Nexgen"@en .
+
+wd:Q29005927 a wd:Q169336 ;
+    rdfs:label "Hemangiol"@en .
+
+wd:Q29005928 a wd:Q169336 ;
+    rdfs:label "Hepacare"@en .
+
+wd:Q29005930 a wd:Q169336 ;
+    rdfs:label "Hepsera"@en .
+
+wd:Q29005931 a wd:Q169336 ;
+    rdfs:label "Herceptin"@en .
+
+wd:Q29005932 a wd:Q169336 ;
+    rdfs:label "Hetlioz"@en .
+
+wd:Q29005934 a wd:Q169336 ;
+    rdfs:label "Hirobriz Breezhaler"@en .
+
+wd:Q29005935 a wd:Q169336 ;
+    rdfs:label "Humalog"@en .
+
+wd:Q29005936 a wd:Q169336 ;
+    rdfs:label "Humaspect"@en .
+
+wd:Q29005938 a wd:Q169336 ;
+    rdfs:label "Humira"@en .
+
+wd:Q29005939 a wd:Q169336 ;
+    rdfs:label "Hycamtin"@en .
+
+wd:Q29005941 a wd:Q169336 ;
+    rdfs:label "Hyqvia"@en .
+
+wd:Q29005942 a wd:Q169336 ;
+    rdfs:label "Iasibon"@en .
+
+wd:Q29005943 a wd:Q169336 ;
+    rdfs:label "Ibandronic Acid Accord"@en .
+
+wd:Q29005945 a wd:Q169336 ;
+    rdfs:label "Ibandronic Acid Sandoz"@en .
+
+wd:Q29005946 a wd:Q169336 ;
+    rdfs:label "Ibandronic Acid Teva"@en .
+
+wd:Q29005948 a wd:Q169336 ;
+    rdfs:label "Iblias"@en .
+
+wd:Q29005949 a wd:Q169336 ;
+    rdfs:label "Ibrance"@en .
+
+wd:Q29005950 a wd:Q169336 ;
+    rdfs:label "Icandra"@en .
+
+wd:Q29005952 a wd:Q169336 ;
+    rdfs:label "Iclusig"@en .
+
+wd:Q29005954 a wd:Q169336 ;
+    rdfs:label "Idelvion"@en .
+
+wd:Q29005955 a wd:Q169336 ;
+    rdfs:label "Ifirmacombi"@en .
+
+wd:Q29005957 a wd:Q169336 ;
+    rdfs:label "Ifirmasta"@en .
+
+wd:Q29005958 a wd:Q169336 ;
+    rdfs:label "Ikervis"@en .
+
+wd:Q29005960 a wd:Q169336 ;
+    rdfs:label "Ilaris"@en .
+
+wd:Q29005961 a wd:Q169336 ;
+    rdfs:label "Imatinib Accord"@en .
+
+wd:Q29005963 a wd:Q169336 ;
+    rdfs:label "Imatinib Actavis"@en .
+
+wd:Q29005965 a wd:Q169336 ;
+    rdfs:label "Imatinib Medac"@en .
+
+wd:Q29005966 a wd:Q169336 ;
+    rdfs:label "Imatinib Teva"@en .
+
+wd:Q29005968 a wd:Q169336 ;
+    rdfs:label "Imbruvica"@en .
+
+wd:Q29005969 a wd:Q169336 ;
+    rdfs:label "Imlygic"@en .
+
+wd:Q29005971 a wd:Q169336 ;
+    rdfs:label "Immunogam"@en .
+
+wd:Q29005973 a wd:Q169336 ;
+    rdfs:label "Imnovid"@en .
+
+wd:Q29005974 a wd:Q169336 ;
+    rdfs:label "Imprida"@en .
+
+wd:Q29005976 a wd:Q169336 ;
+    rdfs:label "Imprida Hct"@en .
+
+wd:Q29005977 a wd:Q169336 ;
+    rdfs:label "Impulsor"@en .
+
+wd:Q29005978 a wd:Q169336 ;
+    rdfs:label "Incivo"@en .
+
+wd:Q29005980 a wd:Q169336 ;
+    rdfs:label "Increlex"@en .
+
+wd:Q29005981 a wd:Q169336 ;
+    rdfs:label "Incresync"@en .
+
+wd:Q29005982 a wd:Q169336 ;
+    rdfs:label "Incruse"@en .
+
+wd:Q29005984 a wd:Q169336 ;
+    rdfs:label "Indimacis 125"@en .
+
+wd:Q29005985 a wd:Q169336 ;
+    rdfs:label "Inductos"@en .
+
+wd:Q29005986 a wd:Q169336 ;
+    rdfs:label "Infergen"@en .
+
+wd:Q29005987 a wd:Q169336 ;
+    rdfs:label "Inflectra"@en .
+
+wd:Q29005989 a wd:Q169336 ;
+    rdfs:label "Inhixa"@en .
+
+wd:Q29005990 a wd:Q169336 ;
+    rdfs:label "Inlyta"@en .
+
+wd:Q29005992 a wd:Q169336 ;
+    rdfs:label "Inomax"@en .
+
+wd:Q29005993 a wd:Q169336 ;
+    rdfs:label "Inovelon"@en .
+
+wd:Q29005995 a wd:Q169336 ;
+    rdfs:label "Instanyl"@en .
+
+wd:Q29005996 a wd:Q169336 ;
+    rdfs:label "Insulatard"@en .
+
+wd:Q29005999 a wd:Q169336 ;
+    rdfs:label "Insulin Human Winthrop"@en .
+
+wd:Q29006003 a wd:Q169336 ;
+    rdfs:label "Insuman"@en .
+
+wd:Q29006005 a wd:Q169336 ;
+    rdfs:label "Integrilin"@en .
+
+wd:Q29006007 a wd:Q169336 ;
+    rdfs:label "Intelence"@en .
+
+wd:Q29006008 a wd:Q169336 ;
+    rdfs:label "Intrinsa"@en .
+
+wd:Q29006010 a wd:Q169336 ;
+    rdfs:label "Introna"@en .
+
+wd:Q29006012 a wd:Q169336 ;
+    rdfs:label "Intuniv"@en .
+
+wd:Q29006014 a wd:Q169336 ;
+    rdfs:label "Invanz"@en .
+
+wd:Q29006015 a wd:Q169336 ;
+    rdfs:label "Invega"@en .
+
+wd:Q29006017 a wd:Q169336 ;
+    rdfs:label "Invirase"@en .
+
+wd:Q29006019 a wd:Q169336 ;
+    rdfs:label "Invokana"@en .
+
+wd:Q29006020 a wd:Q169336 ;
+    rdfs:label "Ioa"@en .
+
+wd:Q29006021 a wd:Q169336 ;
+    rdfs:label "Ionsys"@en .
+
+wd:Q29006024 a wd:Q169336 ;
+    rdfs:label "Ipreziv"@en .
+
+wd:Q29006025 a wd:Q169336 ;
+    rdfs:label "Irbesartan Bms"@en .
+
+wd:Q29006027 a wd:Q169336 ;
+    rdfs:label "Irbesartan Hydrochlorothiazide Bms"@en .
+
+wd:Q29006028 a wd:Q169336 ;
+    rdfs:label "Irbesartan Hydrochlorothiazide Zentiva"@en .
+
+wd:Q29006029 a wd:Q169336 ;
+    rdfs:label "Irbesartan Teva"@en .
+
+wd:Q29006031 a wd:Q169336 ;
+    rdfs:label "Irbesartan Zentiva"@en .
+
+wd:Q29006032 a wd:Q169336 ;
+    rdfs:label "Irbesartan/hydrochlorothiazide Teva"@en .
+
+wd:Q29006033 a wd:Q169336 ;
+    rdfs:label "Iressa"@en .
+
+wd:Q29006035 a wd:Q169336 ;
+    rdfs:label "Iscover"@en .
+
+wd:Q29006037 a wd:Q169336 ;
+    rdfs:label "Isentress"@en .
+
+wd:Q29006038 a wd:Q169336 ;
+    rdfs:label "Istodax"@en .
+
+wd:Q29006039 a wd:Q169336 ;
+    rdfs:label "Ivabradine Anpharm"@en .
+
+wd:Q29006041 a wd:Q169336 ;
+    rdfs:label "Ivabradine Jensonr"@en .
+
+wd:Q29006042 a wd:Q169336 ;
+    rdfs:label "Ivabradine Zentiva"@en .
+
+wd:Q29006043 a wd:Q169336 ;
+    rdfs:label "Ivemend"@en .
+
+wd:Q29006045 a wd:Q169336 ;
+    rdfs:label "Ixense"@en .
+
+wd:Q29006047 a wd:Q169336 ;
+    rdfs:label "Ixiaro"@en .
+
+wd:Q29006048 a wd:Q169336 ;
+    rdfs:label "Izba"@en .
+
+wd:Q29006050 a wd:Q169336 ;
+    rdfs:label "Jakavi"@en .
+
+wd:Q29006051 a wd:Q169336 ;
+    rdfs:label "Jalra"@en .
+
+wd:Q29006052 a wd:Q169336 ;
+    rdfs:label "Janumet"@en .
+
+wd:Q29006054 a wd:Q169336 ;
+    rdfs:label "Januvia"@en .
+
+wd:Q29006055 a wd:Q169336 ;
+    rdfs:label "Jardiance"@en .
+
+wd:Q29006057 a wd:Q169336 ;
+    rdfs:label "Javlor"@en .
+
+wd:Q29006058 a wd:Q169336 ;
+    rdfs:label "Jentadueto"@en .
+
+wd:Q29006059 a wd:Q169336 ;
+    rdfs:label "Jetrea"@en .
+
+wd:Q29006060 a wd:Q169336 ;
+    rdfs:label "Jevtana"@en .
+
+wd:Q29006062 a wd:Q169336 ;
+    rdfs:label "Jinarc"@en .
+
+wd:Q29006063 a wd:Q169336 ;
+    rdfs:label "Kadcyla"@en .
+
+wd:Q29006067 a wd:Q169336 ;
+    rdfs:label "Kaletra"@en .
+
+wd:Q29006068 a wd:Q169336 ;
+    rdfs:label "Kalydeco"@en .
+
+wd:Q29006069 a wd:Q169336 ;
+    rdfs:label "Kanuma"@en .
+
+wd:Q29006071 a wd:Q169336 ;
+    rdfs:label "Karvea"@en .
+
+wd:Q29006073 a wd:Q169336 ;
+    rdfs:label "Karvezide"@en .
+
+wd:Q29006075 a wd:Q169336 ;
+    rdfs:label "Kengrexal"@en .
+
+wd:Q29006076 a wd:Q169336 ;
+    rdfs:label "Kentera"@en .
+
+wd:Q29006077 a wd:Q169336 ;
+    rdfs:label "Kepivance"@en .
+
+wd:Q29006079 a wd:Q169336 ;
+    rdfs:label "Keppra"@en .
+
+wd:Q29006081 a wd:Q169336 ;
+    rdfs:label "Ketek"@en .
+
+wd:Q29006082 a wd:Q169336 ;
+    rdfs:label "Ketoconazole Hra"@en .
+
+wd:Q29006084 a wd:Q169336 ;
+    rdfs:label "Keytruda"@en .
+
+wd:Q29006085 a wd:Q169336 ;
+    rdfs:label "Kineret"@en .
+
+wd:Q29006087 a wd:Q169336 ;
+    rdfs:label "Kinzalkomb"@en .
+
+wd:Q29006088 a wd:Q169336 ;
+    rdfs:label "Kinzalmono"@en .
+
+wd:Q29006089 a wd:Q169336 ;
+    rdfs:label "Kiovig"@en .
+
+wd:Q29006091 a wd:Q169336 ;
+    rdfs:label "Kisplyx"@en .
+
+wd:Q29006092 a wd:Q169336 ;
+    rdfs:label "Kivexa"@en .
+
+wd:Q29006093 a wd:Q169336 ;
+    rdfs:label "Kogenate Bayer"@en .
+
+wd:Q29006095 a wd:Q169336 ;
+    rdfs:label "Komboglyze"@en .
+
+wd:Q29006096 a wd:Q169336 ;
+    rdfs:label "Kovaltry"@en .
+
+wd:Q29006097 a wd:Q169336 ;
+    rdfs:label "Krystexxa"@en .
+
+wd:Q29006099 a wd:Q169336 ;
+    rdfs:label "Kuvan"@en .
+
+wd:Q29006100 a wd:Q169336 ;
+    rdfs:label "Kynamro"@en .
+
+wd:Q29006101 a wd:Q169336 ;
+    rdfs:label "Kyprolis"@en .
+
+wd:Q29006103 a wd:Q169336 ;
+    rdfs:label "Labazenit"@en .
+
+wd:Q29006104 a wd:Q169336 ;
+    rdfs:label "Lamivudine Teva"@en .
+
+wd:Q29006106 a wd:Q169336 ;
+    rdfs:label "Lamivudine Teva Pharma B.v."@en .
+
+wd:Q29006107 a wd:Q169336 ;
+    rdfs:label "Lamivudine/zidovudine Teva"@en .
+
+wd:Q29006109 a wd:Q169336 ;
+    rdfs:label "Lantus"@en .
+
+wd:Q29006110 a wd:Q169336 ;
+    rdfs:label "Lartruvo"@en .
+
+wd:Q29006112 a wd:Q169336 ;
+    rdfs:label "Latuda"@en .
+
+wd:Q29006113 a wd:Q169336 ;
+    rdfs:label "Laventair"@en .
+
+wd:Q29006115 a wd:Q169336 ;
+    rdfs:label "Leflunomide Medac"@en .
+
+wd:Q29006116 a wd:Q169336 ;
+    rdfs:label "Leflunomide Ratiopharm"@en .
+
+wd:Q29006117 a wd:Q169336 ;
+    rdfs:label "Leflunomide Teva"@en .
+
+wd:Q29006118 a wd:Q169336 ;
+    rdfs:label "Leflunomide Winthrop"@en .
+
+wd:Q29006119 a wd:Q169336 ;
+    rdfs:label "Leganto"@en .
+
+wd:Q29006120 a wd:Q169336 ;
+    rdfs:label "Lemtrada"@en .
+
+wd:Q29006121 a wd:Q169336 ;
+    rdfs:label "Lenvima"@en .
+
+wd:Q29006122 a wd:Q169336 ;
+    rdfs:label "Leukoscan"@en .
+
+wd:Q29006123 a wd:Q169336 ;
+    rdfs:label "Levemir"@en .
+
+wd:Q29006124 a wd:Q169336 ;
+    rdfs:label "Levetiracetam Accord"@en .
+
+wd:Q29006125 a wd:Q169336 ;
+    rdfs:label "Levetiracetam Actavis"@en .
+
+wd:Q29006126 a wd:Q169336 ;
+    rdfs:label "Levetiracetam Actavis Group"@en .
+
+wd:Q29006127 a wd:Q169336 ;
+    rdfs:label "Levetiracetam Hospira"@en .
+
+wd:Q29006128 a wd:Q169336 ;
+    rdfs:label "Levetiracetam Ratiopharm"@en .
+
+wd:Q29006129 a wd:Q169336 ;
+    rdfs:label "Levetiracetam Sun"@en .
+
+wd:Q29006130 a wd:Q169336 ;
+    rdfs:label "Levetiracetam Teva"@en .
+
+wd:Q29006131 a wd:Q169336 ;
+    rdfs:label "Levitra"@en .
+
+wd:Q29006132 a wd:Q169336 ;
+    rdfs:label "Levodopa/carbidopa/entacapone Orion"@en .
+
+wd:Q29006133 a wd:Q169336 ;
+    rdfs:label "Levviax"@en .
+
+wd:Q29006134 a wd:Q169336 ;
+    rdfs:label "Libertek"@en .
+
+wd:Q29006135 a wd:Q169336 ;
+    rdfs:label "Liprolog"@en .
+
+wd:Q29006137 a wd:Q169336 ;
+    rdfs:label "Litak"@en .
+
+wd:Q29006138 a wd:Q169336 ;
+    rdfs:label "Livensa"@en .
+
+wd:Q29006139 a wd:Q169336 ;
+    rdfs:label "Lixiana"@en .
+
+wd:Q29006140 a wd:Q169336 ;
+    rdfs:label "Lojuxta"@en .
+
+wd:Q29006141 a wd:Q169336 ;
+    rdfs:label "Lonquex"@en .
+
+wd:Q29006142 a wd:Q169336 ;
+    rdfs:label "Lonsurf"@en .
+
+wd:Q29006143 a wd:Q169336 ;
+    rdfs:label "Lopinavir/ritonavir Mylan"@en .
+
+wd:Q29006144 a wd:Q169336 ;
+    rdfs:label "Lucentis"@en .
+
+wd:Q29006145 a wd:Q169336 ;
+    rdfs:label "Lumark"@en .
+
+wd:Q29006146 a wd:Q169336 ;
+    rdfs:label "Lumigan"@en .
+
+wd:Q29006147 a wd:Q169336 ;
+    rdfs:label "Luminity"@en .
+
+wd:Q29006148 a wd:Q169336 ;
+    rdfs:label "Lusduna"@en .
+
+wd:Q29006149 a wd:Q169336 ;
+    rdfs:label "Luveris"@en .
+
+wd:Q29006150 a wd:Q169336 ;
+    rdfs:label "Lymphoseek"@en .
+
+wd:Q29006151 a wd:Q169336 ;
+    rdfs:label "Lynparza"@en .
+
+wd:Q29006152 a wd:Q169336 ;
+    rdfs:label "Lyrica"@en .
+
+wd:Q29006153 a wd:Q169336 ;
+    rdfs:label "Lysodren"@en .
+
+wd:Q29006154 a wd:Q169336 ;
+    rdfs:label "Mabcampath"@en .
+
+wd:Q29006155 a wd:Q169336 ;
+    rdfs:label "Mabthera"@en .
+
+wd:Q29006156 a wd:Q169336 ;
+    rdfs:label "Maci"@en .
+
+wd:Q29006157 a wd:Q169336 ;
+    rdfs:label "Macugen"@en .
+
+wd:Q29006158 a wd:Q169336 ;
+    rdfs:label "Marixino"@en .
+
+wd:Q29006160 a wd:Q169336 ;
+    rdfs:label "Masican"@en .
+
+wd:Q29006162 a wd:Q169336 ;
+    rdfs:label "Masiviera"@en .
+
+wd:Q29006163 a wd:Q169336 ;
+    rdfs:label "Matever"@en .
+
+wd:Q29006164 a wd:Q169336 ;
+    rdfs:label "Mekinist"@en .
+
+wd:Q29006165 a wd:Q169336 ;
+    rdfs:label "Memantine Accord"@en .
+
+wd:Q29006166 a wd:Q169336 ;
+    rdfs:label "Memantine Lek"@en .
+
+wd:Q29006167 a wd:Q169336 ;
+    rdfs:label "Memantine Merz"@en .
+
+wd:Q29006168 a wd:Q169336 ;
+    rdfs:label "Memantine Mylan"@en .
+
+wd:Q29006169 a wd:Q169336 ;
+    rdfs:label "Memantine Ratiopharm"@en .
+
+wd:Q29006170 a wd:Q169336 ;
+    rdfs:label "Mepact"@en .
+
+wd:Q29006171 a wd:Q169336 ;
+    rdfs:label "Metalyse"@en .
+
+wd:Q29006172 a wd:Q169336 ;
+    rdfs:label "Methylthioninium Chloride Proveblue"@en .
+
+wd:Q29006173 a wd:Q169336 ;
+    rdfs:label "Micardis"@en .
+
+wd:Q29006174 a wd:Q169336 ;
+    rdfs:label "Micardisplus"@en .
+
+wd:Q29006175 a wd:Q169336 ;
+    rdfs:label "Milnacipran Pierre Fabre Medicament"@en .
+
+wd:Q29006176 a wd:Q169336 ;
+    rdfs:label "Mimpara"@en .
+
+wd:Q29006178 a wd:Q169336 ;
+    rdfs:label "Mirapexin"@en .
+
+wd:Q29006179 a wd:Q169336 ;
+    rdfs:label "Mircera"@en .
+
+wd:Q29006180 a wd:Q169336 ;
+    rdfs:label "Mirvaso"@en .
+
+wd:Q29006181 a wd:Q169336 ;
+    rdfs:label "Mixtard"@en .
+
+wd:Q29006182 a wd:Q169336 ;
+    rdfs:label "Modigraf"@en .
+
+wd:Q29006184 a wd:Q169336 ;
+    rdfs:label "Monotard"@en .
+
+wd:Q29006185 a wd:Q169336 ;
+    rdfs:label "Moventig"@en .
+
+wd:Q29006186 a wd:Q169336 ;
+    rdfs:label "Mozobil"@en .
+
+wd:Q29006188 a wd:Q169336 ;
+    rdfs:label "Multaq"@en .
+
+wd:Q29006189 a wd:Q169336 ;
+    rdfs:label "Mycamine"@en .
+
+wd:Q29006190 a wd:Q169336 ;
+    rdfs:label "Myclausen"@en .
+
+wd:Q29006191 a wd:Q169336 ;
+    rdfs:label "Mycograb"@en .
+
+wd:Q29006192 a wd:Q169336 ;
+    rdfs:label "Mycophenolate Mofetil Teva"@en .
+
+wd:Q29006193 a wd:Q169336 ;
+    rdfs:label "Myfenax"@en .
+
+wd:Q29006194 a wd:Q169336 ;
+    rdfs:label "Mylotarg"@en .
+
+wd:Q29006195 a wd:Q169336 ;
+    rdfs:label "Myocet"@en .
+
+wd:Q29006196 a wd:Q169336 ;
+    rdfs:label "Myozyme"@en .
+
+wd:Q29006197 a wd:Q169336 ;
+    rdfs:label "Mysildecard"@en .
+
+wd:Q29006198 a wd:Q169336 ;
+    rdfs:label "Mysimba"@en .
+
+wd:Q29006199 a wd:Q169336 ;
+    rdfs:label "Naglazyme"@en .
+
+wd:Q29006200 a wd:Q169336 ;
+    rdfs:label "Natalizumab Elan Pharma"@en .
+
+wd:Q29006201 a wd:Q169336 ;
+    rdfs:label "Nemdatine"@en .
+
+wd:Q29006202 a wd:Q169336 ;
+    rdfs:label "Neoclarityn"@en .
+
+wd:Q29006204 a wd:Q169336 ;
+    rdfs:label "Neofordex"@en .
+
+wd:Q29006205 a wd:Q169336 ;
+    rdfs:label "Neorecormon"@en .
+
+wd:Q29006206 a wd:Q169336 ;
+    rdfs:label "Neospect"@en .
+
+wd:Q29006207 a wd:Q169336 ;
+    rdfs:label "Neparvis"@en .
+
+wd:Q29006208 a wd:Q169336 ;
+    rdfs:label "Nerventra"@en .
+
+wd:Q29006209 a wd:Q169336 ;
+    rdfs:label "Nespo"@en .
+
+wd:Q29006210 a wd:Q169336 ;
+    rdfs:label "Neulasta"@en .
+
+wd:Q29006211 a wd:Q169336 ;
+    rdfs:label "Neupopeg"@en .
+
+wd:Q29006212 a wd:Q169336 ;
+    rdfs:label "Neupro"@en .
+
+wd:Q29006214 a wd:Q169336 ;
+    rdfs:label "Neuraceq"@en .
+
+wd:Q29006215 a wd:Q169336 ;
+    rdfs:label "Neurobloc"@en .
+
+wd:Q29006216 a wd:Q169336 ;
+    rdfs:label "Nevanac"@en .
+
+wd:Q29006217 a wd:Q169336 ;
+    rdfs:label "Nevirapine Teva"@en .
+
+wd:Q29006218 a wd:Q169336 ;
+    rdfs:label "Nexavar"@en .
+
+wd:Q29006219 a wd:Q169336 ;
+    rdfs:label "Nexium Control"@en .
+
+wd:Q29006220 a wd:Q169336 ;
+    rdfs:label "Nexobrid"@en .
+
+wd:Q29006221 a wd:Q169336 ;
+    rdfs:label "Nimvastid"@en .
+
+wd:Q29006222 a wd:Q169336 ;
+    rdfs:label "Ninlaro"@en .
+
+wd:Q29006223 a wd:Q169336 ;
+    rdfs:label "Nivestim"@en .
+
+wd:Q29006224 a wd:Q169336 ;
+    rdfs:label "Nivolumab Bms"@en .
+
+wd:Q29006225 a wd:Q169336 ;
+    rdfs:label "Nonafact"@en .
+
+wd:Q29006226 a wd:Q169336 ;
+    rdfs:label "Nordimet"@en .
+
+wd:Q29006228 a wd:Q169336 ;
+    rdfs:label "Norvir"@en .
+
+wd:Q29006229 a wd:Q169336 ;
+    rdfs:label "Novoeight"@en .
+
+wd:Q29006230 a wd:Q169336 ;
+    rdfs:label "Novomix"@en .
+
+wd:Q29006231 a wd:Q169336 ;
+    rdfs:label "Novonorm"@en .
+
+wd:Q29006232 a wd:Q169336 ;
+    rdfs:label "Novorapid"@en .
+
+wd:Q29006234 a wd:Q169336 ;
+    rdfs:label "Novoseven"@en .
+
+wd:Q29006235 a wd:Q169336 ;
+    rdfs:label "Novothirteen"@en .
+
+wd:Q29006236 a wd:Q169336 ;
+    rdfs:label "Noxafil"@en .
+
+wd:Q29006237 a wd:Q169336 ;
+    rdfs:label "Nplate"@en .
+
+wd:Q29006238 a wd:Q169336 ;
+    rdfs:label "Nucala"@en .
+
+wd:Q29006239 a wd:Q169336 ;
+    rdfs:label "Nuedexta"@en .
+
+wd:Q29006240 a wd:Q169336 ;
+    rdfs:label "Nulojix"@en .
+
+wd:Q29006241 a wd:Q169336 ;
+    rdfs:label "Numient"@en .
+
+wd:Q29006242 a wd:Q169336 ;
+    rdfs:label "Nutropinaq"@en .
+
+wd:Q29006244 a wd:Q169336 ;
+    rdfs:label "Nuwiq"@en .
+
+wd:Q29006245 a wd:Q169336 ;
+    rdfs:label "Nyracta"@en .
+
+wd:Q29006246 a wd:Q169336 ;
+    rdfs:label "Obizur"@en .
+
+wd:Q29006247 a wd:Q169336 ;
+    rdfs:label "Ocaliva"@en .
+
+wd:Q29006248 a wd:Q169336 ;
+    rdfs:label "Odefsey"@en .
+
+wd:Q29006249 a wd:Q169336 ;
+    rdfs:label "Odomzo"@en .
+
+wd:Q29006250 a wd:Q169336 ;
+    rdfs:label "Ofev"@en .
+
+wd:Q29006251 a wd:Q169336 ;
+    rdfs:label "Olansek"@en .
+
+wd:Q29006252 a wd:Q169336 ;
+    rdfs:label "Olanzapine Apotex"@en .
+
+wd:Q29006254 a wd:Q169336 ;
+    rdfs:label "Olanzapine Cipla"@en .
+
+wd:Q29006255 a wd:Q169336 ;
+    rdfs:label "Olanzapine Glenmark"@en .
+
+wd:Q29006257 a wd:Q169336 ;
+    rdfs:label "Olanzapine Glenmark Europe"@en .
+
+wd:Q29006258 a wd:Q169336 ;
+    rdfs:label "Olanzapine Mylan"@en .
+
+wd:Q29006259 a wd:Q169336 ;
+    rdfs:label "Olanzapine Teva"@en .
+
+wd:Q29006261 a wd:Q169336 ;
+    rdfs:label "Olazax"@en .
+
+wd:Q29006262 a wd:Q169336 ;
+    rdfs:label "Olazax Disperzi"@en .
+
+wd:Q29006263 a wd:Q169336 ;
+    rdfs:label "Olysio"@en .
+
+wd:Q29006267 a wd:Q169336 ;
+    rdfs:label "Omidria"@en .
+
+wd:Q29006269 a wd:Q169336 ;
+    rdfs:label "Omnitrope"@en .
+
+wd:Q29006270 a wd:Q169336 ;
+    rdfs:label "Onbrez Breezhaler"@en .
+
+wd:Q29006271 a wd:Q169336 ;
+    rdfs:label "Oncaspar"@en .
+
+wd:Q29006272 a wd:Q169336 ;
+    rdfs:label "Onduarp"@en .
+
+wd:Q29006274 a wd:Q169336 ;
+    rdfs:label "Ongentys"@en .
+
+wd:Q29006275 a wd:Q169336 ;
+    rdfs:label "Onglyza"@en .
+
+wd:Q29006276 a wd:Q169336 ;
+    rdfs:label "Onivyde"@en .
+
+wd:Q29006277 a wd:Q169336 ;
+    rdfs:label "Onsenal"@en .
+
+wd:Q29006278 a wd:Q169336 ;
+    rdfs:label "Opatanol"@en .
+
+wd:Q29006280 a wd:Q169336 ;
+    rdfs:label "Opdivo"@en .
+
+wd:Q29006281 a wd:Q169336 ;
+    rdfs:label "Opgenra"@en .
+
+wd:Q29006282 a wd:Q169336 ;
+    rdfs:label "Oprymea"@en .
+
+wd:Q29006283 a wd:Q169336 ;
+    rdfs:label "Opsumit"@en .
+
+wd:Q29006284 a wd:Q169336 ;
+    rdfs:label "Optimark"@en .
+
+wd:Q29006285 a wd:Q169336 ;
+    rdfs:label "Optison"@en .
+
+wd:Q29006286 a wd:Q169336 ;
+    rdfs:label "Optruma"@en .
+
+wd:Q29006287 a wd:Q169336 ;
+    rdfs:label "Opulis"@en .
+
+wd:Q29006288 a wd:Q169336 ;
+    rdfs:label "Orbactiv"@en .
+
+wd:Q29006289 a wd:Q169336 ;
+    rdfs:label "Orencia"@en .
+
+wd:Q29006291 a wd:Q169336 ;
+    rdfs:label "Orfadin"@en .
+
+wd:Q29006292 a wd:Q169336 ;
+    rdfs:label "Orgalutran"@en .
+
+wd:Q29006293 a wd:Q169336 ;
+    rdfs:label "Orkambi"@en .
+
+wd:Q29006294 a wd:Q169336 ;
+    rdfs:label "Orlaam"@en .
+
+wd:Q29006295 a wd:Q169336 ;
+    rdfs:label "Orphacol"@en .
+
+wd:Q29006297 a wd:Q169336 ;
+    rdfs:label "Osigraft"@en .
+
+wd:Q29006298 a wd:Q169336 ;
+    rdfs:label "Oslif Breezhaler"@en .
+
+wd:Q29006300 a wd:Q169336 ;
+    rdfs:label "Osseor"@en .
+
+wd:Q29006301 a wd:Q169336 ;
+    rdfs:label "Otezla"@en .
+
+wd:Q29006302 a wd:Q169336 ;
+    rdfs:label "Ovaleap"@en .
+
+wd:Q29006303 a wd:Q169336 ;
+    rdfs:label "Ovitrelle"@en .
+
+wd:Q29006304 a wd:Q169336 ;
+    rdfs:label "Ozurdex"@en .
+
+wd:Q29006305 a wd:Q169336 ;
+    rdfs:label "Paglitaz"@en .
+
+wd:Q29006307 a wd:Q169336 ;
+    rdfs:label "Palonosetron Accord"@en .
+
+wd:Q29006308 a wd:Q169336 ;
+    rdfs:label "Palonosetron Hospira"@en .
+
+wd:Q29006309 a wd:Q169336 ;
+    rdfs:label "Panretin"@en .
+
+wd:Q29006311 a wd:Q169336 ;
+    rdfs:label "Pantecta Control"@en .
+
+wd:Q29006312 a wd:Q169336 ;
+    rdfs:label "Pantoloc Control"@en .
+
+wd:Q29006313 a wd:Q169336 ;
+    rdfs:label "Pantozol Control"@en .
+
+wd:Q29006314 a wd:Q169336 ;
+    rdfs:label "Parareg"@en .
+
+wd:Q29006315 a wd:Q169336 ;
+    rdfs:label "Parsabiv"@en .
+
+wd:Q29006316 a wd:Q169336 ;
+    rdfs:label "Patrex"@en .
+
+wd:Q29006318 a wd:Q169336 ;
+    rdfs:label "Paxene"@en .
+
+wd:Q29006319 a wd:Q169336 ;
+    rdfs:label "Pecfent"@en .
+
+wd:Q29006320 a wd:Q169336 ;
+    rdfs:label "Pedea"@en .
+
+wd:Q29006321 a wd:Q169336 ;
+    rdfs:label "Pegasys"@en .
+
+wd:Q29006322 a wd:Q169336 ;
+    rdfs:label "Pegintron"@en .
+
+wd:Q29006323 a wd:Q169336 ;
+    rdfs:label "Pelzont"@en .
+
+wd:Q29006324 a wd:Q169336 ;
+    rdfs:label "Pemetrexed Accord"@en .
+
+wd:Q29006325 a wd:Q169336 ;
+    rdfs:label "Pemetrexed Fresenius Kabi"@en .
+
+wd:Q29006326 a wd:Q169336 ;
+    rdfs:label "Pemetrexed Hospira"@en .
+
+wd:Q29006327 a wd:Q169336 ;
+    rdfs:label "Pemetrexed Lilly"@en .
+
+wd:Q29006328 a wd:Q169336 ;
+    rdfs:label "Pemetrexed Medac"@en .
+
+wd:Q29006329 a wd:Q169336 ;
+    rdfs:label "Pemetrexed Sandoz"@en .
+
+wd:Q29006331 a wd:Q169336 ;
+    rdfs:label "Pergoveris"@en .
+
+wd:Q29006332 a wd:Q169336 ;
+    rdfs:label "Perjeta"@en .
+
+wd:Q29006333 a wd:Q169336 ;
+    rdfs:label "Peyona"@en .
+
+wd:Q29006334 a wd:Q169336 ;
+    rdfs:label "Pheburane"@en .
+
+wd:Q29006335 a wd:Q169336 ;
+    rdfs:label "Photobarr"@en .
+
+wd:Q29006336 a wd:Q169336 ;
+    rdfs:label "Picato"@en .
+
+wd:Q29006337 a wd:Q169336 ;
+    rdfs:label "Pioglitazone Accord"@en .
+
+wd:Q29006338 a wd:Q169336 ;
+    rdfs:label "Pioglitazone Actavis"@en .
+
+wd:Q29006339 a wd:Q169336 ;
+    rdfs:label "Pioglitazone Krka"@en .
+
+wd:Q29006340 a wd:Q169336 ;
+    rdfs:label "Pioglitazone Teva"@en .
+
+wd:Q29006341 a wd:Q169336 ;
+    rdfs:label "Pioglitazone Teva Pharma"@en .
+
+wd:Q29006342 a wd:Q169336 ;
+    rdfs:label "Pixuvri"@en .
+
+wd:Q29006343 a wd:Q169336 ;
+    rdfs:label "Plavix"@en .
+
+wd:Q29006344 a wd:Q169336 ;
+    rdfs:label "Plegridy"@en .
+
+wd:Q29006346 a wd:Q169336 ;
+    rdfs:label "Plenadren"@en .
+
+wd:Q29006347 a wd:Q169336 ;
+    rdfs:label "Portrazza"@en .
+
+wd:Q29006348 a wd:Q169336 ;
+    rdfs:label "Posaconazole Sp"@en .
+
+wd:Q29006349 a wd:Q169336 ;
+    rdfs:label "Possia"@en .
+
+wd:Q29006350 a wd:Q169336 ;
+    rdfs:label "Potactasol"@en .
+
+wd:Q29006351 a wd:Q169336 ;
+    rdfs:label "Pradaxa"@en .
+
+wd:Q29006352 a wd:Q169336 ;
+    rdfs:label "Praluent"@en .
+
+wd:Q29006353 a wd:Q169336 ;
+    rdfs:label "Pramipexole Accord"@en .
+
+wd:Q29006355 a wd:Q169336 ;
+    rdfs:label "Pramipexole Teva"@en .
+
+wd:Q29006356 a wd:Q169336 ;
+    rdfs:label "Prandin"@en .
+
+wd:Q29006357 a wd:Q169336 ;
+    rdfs:label "Pravafenix"@en .
+
+wd:Q29006358 a wd:Q169336 ;
+    rdfs:label "Praxbind"@en .
+
+wd:Q29006359 a wd:Q169336 ;
+    rdfs:label "Pregabalin Accord"@en .
+
+wd:Q29006360 a wd:Q169336 ;
+    rdfs:label "Pregabalin Mylan"@en .
+
+wd:Q29006361 a wd:Q169336 ;
+    rdfs:label "Pregabalin Mylan Pharma"@en .
+
+wd:Q29006362 a wd:Q169336 ;
+    rdfs:label "Pregabalin Pfizer"@en .
+
+wd:Q29006363 a wd:Q169336 ;
+    rdfs:label "Pregabalin Sandoz"@en .
+
+wd:Q29006364 a wd:Q169336 ;
+    rdfs:label "Pregabalin Sandoz Gmbh"@en .
+
+wd:Q29006365 a wd:Q169336 ;
+    rdfs:label "Pregabalin Zentiva"@en .
+
+wd:Q29006366 a wd:Q169336 ;
+    rdfs:label "Preotact"@en .
+
+wd:Q29006367 a wd:Q169336 ;
+    rdfs:label "Prezista"@en .
+
+wd:Q29006368 a wd:Q169336 ;
+    rdfs:label "Prialt"@en .
+
+wd:Q29006369 a wd:Q169336 ;
+    rdfs:label "Pritor"@en .
+
+wd:Q29006370 a wd:Q169336 ;
+    rdfs:label "Pritorplus"@en .
+
+wd:Q29006371 a wd:Q169336 ;
+    rdfs:label "Privigen"@en .
+
+wd:Q29006372 a wd:Q169336 ;
+    rdfs:label "Procoralan"@en .
+
+wd:Q29006373 a wd:Q169336 ;
+    rdfs:label "Procysbi"@en .
+
+wd:Q29006374 a wd:Q169336 ;
+    rdfs:label "Prolia"@en .
+
+wd:Q29006375 a wd:Q169336 ;
+    rdfs:label "Prometax"@en .
+
+wd:Q29006376 a wd:Q169336 ;
+    rdfs:label "Protaphane"@en .
+
+wd:Q29006377 a wd:Q169336 ;
+    rdfs:label "Protelos"@en .
+
+wd:Q29006378 a wd:Q169336 ;
+    rdfs:label "Protopic"@en .
+
+wd:Q29006379 a wd:Q169336 ;
+    rdfs:label "Protopy"@en .
+
+wd:Q29006380 a wd:Q169336 ;
+    rdfs:label "Provenge"@en .
+
+wd:Q29006381 a wd:Q169336 ;
+    rdfs:label "Puregon"@en .
+
+wd:Q29006382 a wd:Q169336 ;
+    rdfs:label "Pylobactell"@en .
+
+wd:Q29006383 a wd:Q169336 ;
+    rdfs:label "Pylori-chek"@en .
+
+wd:Q29006384 a wd:Q169336 ;
+    rdfs:label "Qsiva"@en .
+
+wd:Q29006385 a wd:Q169336 ;
+    rdfs:label "Qtern"@en .
+
+wd:Q29006386 a wd:Q169336 ;
+    rdfs:label "Quadramet"@en .
+
+wd:Q29006387 a wd:Q169336 ;
+    rdfs:label "Quinsair"@en .
+
+wd:Q29006388 a wd:Q169336 ;
+    rdfs:label "Quixidar"@en .
+
+wd:Q29006389 a wd:Q169336 ;
+    rdfs:label "Qutenza"@en .
+
+wd:Q29006390 a wd:Q169336 ;
+    rdfs:label "Raloxifene Teva"@en .
+
+wd:Q29006391 a wd:Q169336 ;
+    rdfs:label "Ranexa"@en .
+
+wd:Q29006392 a wd:Q169336 ;
+    rdfs:label "Rapamune"@en .
+
+wd:Q29006393 a wd:Q169336 ;
+    rdfs:label "Rapilysin"@en .
+
+wd:Q29006394 a wd:Q169336 ;
+    rdfs:label "Rapiscan"@en .
+
+wd:Q29006395 a wd:Q169336 ;
+    rdfs:label "Raplixa"@en .
+
+wd:Q29006396 a wd:Q169336 ;
+    rdfs:label "Raptiva"@en .
+
+wd:Q29006397 a wd:Q169336 ;
+    rdfs:label "Rasagiline Mylan"@en .
+
+wd:Q29006398 a wd:Q169336 ;
+    rdfs:label "Rasagiline Ratiopharm"@en .
+
+wd:Q29006399 a wd:Q169336 ;
+    rdfs:label "Rasilamlo"@en .
+
+wd:Q29006400 a wd:Q169336 ;
+    rdfs:label "Rasilez"@en .
+
+wd:Q29006401 a wd:Q169336 ;
+    rdfs:label "Rasilez Hct"@en .
+
+wd:Q29006402 a wd:Q169336 ;
+    rdfs:label "Rasitrio"@en .
+
+wd:Q29006403 a wd:Q169336 ;
+    rdfs:label "Ratiograstim"@en .
+
+wd:Q29006404 a wd:Q169336 ;
+    rdfs:label "Ravicti"@en .
+
+wd:Q29006405 a wd:Q169336 ;
+    rdfs:label "Raxone"@en .
+
+wd:Q29006406 a wd:Q169336 ;
+    rdfs:label "Rayzon"@en .
+
+wd:Q29006407 a wd:Q169336 ;
+    rdfs:label "Reasanz"@en .
+
+wd:Q29006408 a wd:Q169336 ;
+    rdfs:label "Rebetol"@en .
+
+wd:Q29006409 a wd:Q169336 ;
+    rdfs:label "Rebif"@en .
+
+wd:Q29006410 a wd:Q169336 ;
+    rdfs:label "Refacto Af"@en .
+
+wd:Q29006411 a wd:Q169336 ;
+    rdfs:label "Refludan"@en .
+
+wd:Q29006412 a wd:Q169336 ;
+    rdfs:label "Regranex"@en .
+
+wd:Q29006413 a wd:Q169336 ;
+    rdfs:label "Relistor"@en .
+
+wd:Q29006414 a wd:Q169336 ;
+    rdfs:label "Relvar Ellipta"@en .
+
+wd:Q29006415 a wd:Q169336 ;
+    rdfs:label "Remicade"@en .
+
+wd:Q29006416 a wd:Q169336 ;
+    rdfs:label "Removab"@en .
+
+wd:Q29006417 a wd:Q169336 ;
+    rdfs:label "Remsima"@en .
+
+wd:Q29006418 a wd:Q169336 ;
+    rdfs:label "Renagel"@en .
+
+wd:Q29006419 a wd:Q169336 ;
+    rdfs:label "Renvela"@en .
+
+wd:Q29006420 a wd:Q169336 ;
+    rdfs:label "Repaglinide Accord"@en .
+
+wd:Q29006422 a wd:Q169336 ;
+    rdfs:label "Repaglinide Krka"@en .
+
+wd:Q29006423 a wd:Q169336 ;
+    rdfs:label "Repaglinide Teva"@en .
+
+wd:Q29006424 a wd:Q169336 ;
+    rdfs:label "Repatha"@en .
+
+wd:Q29006425 a wd:Q169336 ;
+    rdfs:label "Replagal"@en .
+
+wd:Q29006426 a wd:Q169336 ;
+    rdfs:label "Repso"@en .
+
+wd:Q29006427 a wd:Q169336 ;
+    rdfs:label "Resolor"@en .
+
+wd:Q29006428 a wd:Q169336 ;
+    rdfs:label "Respreeza"@en .
+
+wd:Q29006429 a wd:Q169336 ;
+    rdfs:label "Retacrit"@en .
+
+wd:Q29006430 a wd:Q169336 ;
+    rdfs:label "Revasc"@en .
+
+wd:Q29006431 a wd:Q169336 ;
+    rdfs:label "Revatio"@en .
+
+wd:Q29006432 a wd:Q169336 ;
+    rdfs:label "Revestive"@en .
+
+wd:Q29006433 a wd:Q169336 ;
+    rdfs:label "Revinty Ellipta"@en .
+
+wd:Q29006434 a wd:Q169336 ;
+    rdfs:label "Revlimid"@en .
+
+wd:Q29006435 a wd:Q169336 ;
+    rdfs:label "Revolade"@en .
+
+wd:Q29006436 a wd:Q169336 ;
+    rdfs:label "Reyataz"@en .
+
+wd:Q29006437 a wd:Q169336 ;
+    rdfs:label "Rezolsta"@en .
+
+wd:Q29006438 a wd:Q169336 ;
+    rdfs:label "Rhucin"@en .
+
+wd:Q29006439 a wd:Q169336 ;
+    rdfs:label "Ribavirin Biopartners"@en .
+
+wd:Q29006440 a wd:Q169336 ;
+    rdfs:label "Ribavirin Mylan"@en .
+
+wd:Q29006441 a wd:Q169336 ;
+    rdfs:label "Ribavirin Teva"@en .
+
+wd:Q29006443 a wd:Q169336 ;
+    rdfs:label "Ribavirin Teva Pharma B.v."@en .
+
+wd:Q29006444 a wd:Q169336 ;
+    rdfs:label "Rienso"@en .
+
+wd:Q29006445 a wd:Q169336 ;
+    rdfs:label "Rilonacept Regeneron"@en .
+
+wd:Q29006446 a wd:Q169336 ;
+    rdfs:label "Rilutek"@en .
+
+wd:Q29006447 a wd:Q169336 ;
+    rdfs:label "Riluzole Zentiva"@en .
+
+wd:Q29006448 a wd:Q169336 ;
+    rdfs:label "Riprazo"@en .
+
+wd:Q29006449 a wd:Q169336 ;
+    rdfs:label "Ristaben"@en .
+
+wd:Q29006450 a wd:Q169336 ;
+    rdfs:label "Ristempa"@en .
+
+wd:Q29006451 a wd:Q169336 ;
+    rdfs:label "Ristfor"@en .
+
+wd:Q29006452 a wd:Q169336 ;
+    rdfs:label "Rivastigmine 1 A Pharma"@en .
+
+wd:Q29006453 a wd:Q169336 ;
+    rdfs:label "Rivastigmine 3m Health Care Ltd"@en .
+
+wd:Q29006454 a wd:Q169336 ;
+    rdfs:label "Rivastigmine Actavis"@en .
+
+wd:Q29006455 a wd:Q169336 ;
+    rdfs:label "Rivastigmine Hexal"@en .
+
+wd:Q29006456 a wd:Q169336 ;
+    rdfs:label "Rivastigmine Sandoz"@en .
+
+wd:Q29006457 a wd:Q169336 ;
+    rdfs:label "Rivastigmine Teva"@en .
+
+wd:Q29006458 a wd:Q169336 ;
+    rdfs:label "Rixubis"@en .
+
+wd:Q29006460 a wd:Q169336 ;
+    rdfs:label "Roactemra"@en .
+
+wd:Q29006461 a wd:Q169336 ;
+    rdfs:label "Ruconest"@en .
+
+wd:Q29006462 a wd:Q169336 ;
+    rdfs:label "Ryzodeg"@en .
+
+wd:Q29006463 a wd:Q169336 ;
+    rdfs:label "Sabervel"@en .
+
+wd:Q29006464 a wd:Q169336 ;
+    rdfs:label "Samsca"@en .
+
+wd:Q29006465 a wd:Q169336 ;
+    rdfs:label "Sancuso"@en .
+
+wd:Q29006466 a wd:Q169336 ;
+    rdfs:label "Savene"@en .
+
+wd:Q29006467 a wd:Q169336 ;
+    rdfs:label "Saxenda"@en .
+
+wd:Q29006468 a wd:Q169336 ;
+    rdfs:label "Scenesse"@en .
+
+wd:Q29006469 a wd:Q169336 ;
+    rdfs:label "Scintimun"@en .
+
+wd:Q29006470 a wd:Q169336 ;
+    rdfs:label "Sebivo"@en .
+
+wd:Q29006471 a wd:Q169336 ;
+    rdfs:label "Seebri Breezhaler"@en .
+
+wd:Q29006472 a wd:Q169336 ;
+    rdfs:label "Selincro"@en .
+
+wd:Q29006473 a wd:Q169336 ;
+    rdfs:label "Senshio"@en .
+
+wd:Q29006474 a wd:Q169336 ;
+    rdfs:label "Sepioglin"@en .
+
+wd:Q29006475 a wd:Q169336 ;
+    rdfs:label "Sevelamer Carbonate Zentiva"@en .
+
+wd:Q29006476 a wd:Q169336 ;
+    rdfs:label "Sialanar"@en .
+
+wd:Q29006477 a wd:Q169336 ;
+    rdfs:label "Sifrol"@en .
+
+wd:Q29006478 a wd:Q169336 ;
+    rdfs:label "Signifor"@en .
+
+wd:Q29006479 a wd:Q169336 ;
+    rdfs:label "Siklos"@en .
+
+wd:Q29006480 a wd:Q169336 ;
+    rdfs:label "Silapo"@en .
+
+wd:Q29006481 a wd:Q169336 ;
+    rdfs:label "Sildenafil Actavis"@en .
+
+wd:Q29006482 a wd:Q169336 ;
+    rdfs:label "Sildenafil Ratiopharm"@en .
+
+wd:Q29006483 a wd:Q169336 ;
+    rdfs:label "Sildenafil Teva"@en .
+
+wd:Q29006484 a wd:Q169336 ;
+    rdfs:label "Silodyx"@en .
+
+wd:Q29006485 a wd:Q169336 ;
+    rdfs:label "Simbrinza"@en .
+
+wd:Q29006487 a wd:Q169336 ;
+    rdfs:label "Simponi"@en .
+
+wd:Q29006488 a wd:Q169336 ;
+    rdfs:label "Simulect"@en .
+
+wd:Q29006489 a wd:Q169336 ;
+    rdfs:label "Sirturo"@en .
+
+wd:Q29006490 a wd:Q169336 ;
+    rdfs:label "Sivextro"@en .
+
+wd:Q29006491 a wd:Q169336 ;
+    rdfs:label "Soliris"@en .
+
+wd:Q29006492 a wd:Q169336 ;
+    rdfs:label "Solumarv"@en .
+
+wd:Q29006493 a wd:Q169336 ;
+    rdfs:label "Somac Control"@en .
+
+wd:Q29006494 a wd:Q169336 ;
+    rdfs:label "Somatropin Biopartners"@en .
+
+wd:Q29006495 a wd:Q169336 ;
+    rdfs:label "Somavert"@en .
+
+wd:Q29006496 a wd:Q169336 ;
+    rdfs:label "Sonata"@en .
+
+wd:Q29006497 a wd:Q169336 ;
+    rdfs:label "Sonovue"@en .
+
+wd:Q29006498 a wd:Q169336 ;
+    rdfs:label "Sovaldi"@en .
+
+wd:Q29006499 a wd:Q169336 ;
+    rdfs:label "Sovrima"@en .
+
+wd:Q29006500 a wd:Q169336 ;
+    rdfs:label "Spectrila"@en .
+
+wd:Q29006501 a wd:Q169336 ;
+    rdfs:label "Spedra"@en .
+
+wd:Q29006502 a wd:Q169336 ;
+    rdfs:label "Sprimeo"@en .
+
+wd:Q29006503 a wd:Q169336 ;
+    rdfs:label "Sprimeo Hct"@en .
+
+wd:Q29006504 a wd:Q169336 ;
+    rdfs:label "Sprycel"@en .
+
+wd:Q29006505 a wd:Q169336 ;
+    rdfs:label "Stalevo"@en .
+
+wd:Q29006507 a wd:Q169336 ;
+    rdfs:label "Starlix"@en .
+
+wd:Q29006508 a wd:Q169336 ;
+    rdfs:label "Stayveer"@en .
+
+wd:Q29006509 a wd:Q169336 ;
+    rdfs:label "Stelara"@en .
+
+wd:Q29006510 a wd:Q169336 ;
+    rdfs:label "Stivarga"@en .
+
+wd:Q29006511 a wd:Q169336 ;
+    rdfs:label "Stocrin"@en .
+
+wd:Q29006512 a wd:Q169336 ;
+    rdfs:label "Strensiq"@en .
+
+wd:Q29006513 a wd:Q169336 ;
+    rdfs:label "Stribild"@en .
+
+wd:Q29006514 a wd:Q169336 ;
+    rdfs:label "Suboxone"@en .
+
+wd:Q29006516 a wd:Q169336 ;
+    rdfs:label "Sumatriptan Galpharm"@en .
+
+wd:Q29006517 a wd:Q169336 ;
+    rdfs:label "Sustiva"@en .
+
+wd:Q29006518 a wd:Q169336 ;
+    rdfs:label "Sutent"@en .
+
+wd:Q29006519 a wd:Q169336 ;
+    rdfs:label "Sycrest"@en .
+
+wd:Q29006520 a wd:Q169336 ;
+    rdfs:label "Sylvant"@en .
+
+wd:Q29006521 a wd:Q169336 ;
+    rdfs:label "Synagis"@en .
+
+wd:Q29006522 a wd:Q169336 ;
+    rdfs:label "Synjardy"@en .
+
+wd:Q29006523 a wd:Q169336 ;
+    rdfs:label "Tadalafil Generics"@en .
+
+wd:Q29006524 a wd:Q169336 ;
+    rdfs:label "Tadalafil Mylan"@en .
+
+wd:Q29006525 a wd:Q169336 ;
+    rdfs:label "Tafinlar"@en .
+
+wd:Q29006526 a wd:Q169336 ;
+    rdfs:label "Tagrisso"@en .
+
+wd:Q29006528 a wd:Q169336 ;
+    rdfs:label "Taltz"@en .
+
+wd:Q29006529 a wd:Q169336 ;
+    rdfs:label "Taluvian"@en .
+
+wd:Q29006530 a wd:Q169336 ;
+    rdfs:label "Tamiflu"@en .
+
+wd:Q29006531 a wd:Q169336 ;
+    rdfs:label "Tandemact"@en .
+
+wd:Q29006532 a wd:Q169336 ;
+    rdfs:label "Tarceva"@en .
+
+wd:Q29006534 a wd:Q169336 ;
+    rdfs:label "Targretin"@en .
+
+wd:Q29006535 a wd:Q169336 ;
+    rdfs:label "Tasermity"@en .
+
+wd:Q29006536 a wd:Q169336 ;
+    rdfs:label "Tasigna"@en .
+
+wd:Q29006537 a wd:Q169336 ;
+    rdfs:label "Tasmar"@en .
+
+wd:Q29006538 a wd:Q169336 ;
+    rdfs:label "Taxespira"@en .
+
+wd:Q29006539 a wd:Q169336 ;
+    rdfs:label "Taxotere"@en .
+
+wd:Q29006540 a wd:Q169336 ;
+    rdfs:label "Tecfidera"@en .
+
+wd:Q29006542 a wd:Q169336 ;
+    rdfs:label "Tekturna"@en .
+
+wd:Q29006543 a wd:Q169336 ;
+    rdfs:label "Telmisartan Actavis"@en .
+
+wd:Q29006544 a wd:Q169336 ;
+    rdfs:label "Telmisartan Teva"@en .
+
+wd:Q29006545 a wd:Q169336 ;
+    rdfs:label "Telmisartan Teva Pharma"@en .
+
+wd:Q29006546 a wd:Q169336 ;
+    rdfs:label "Telzir"@en .
+
+wd:Q29006547 a wd:Q169336 ;
+    rdfs:label "Temodal"@en .
+
+wd:Q29006548 a wd:Q169336 ;
+    rdfs:label "Temomedac"@en .
+
+wd:Q29006549 a wd:Q169336 ;
+    rdfs:label "Temozolomide Accord"@en .
+
+wd:Q29006551 a wd:Q169336 ;
+    rdfs:label "Temozolomide Hexal"@en .
+
+wd:Q29006552 a wd:Q169336 ;
+    rdfs:label "Temozolomide Sandoz"@en .
+
+wd:Q29006553 a wd:Q169336 ;
+    rdfs:label "Temozolomide Sun"@en .
+
+wd:Q29006554 a wd:Q169336 ;
+    rdfs:label "Temozolomide Teva"@en .
+
+wd:Q29006555 a wd:Q169336 ;
+    rdfs:label "Tenecteplase Boehringer Ingelheim Pharma Gmbh & Co. Kg"@en .
+
+wd:Q29006556 a wd:Q169336 ;
+    rdfs:label "Tenofovir Disoproxil Mylan"@en .
+
+wd:Q29006557 a wd:Q169336 ;
+    rdfs:label "Tepadina"@en .
+
+wd:Q29006559 a wd:Q169336 ;
+    rdfs:label "Tesavel"@en .
+
+wd:Q29006560 a wd:Q169336 ;
+    rdfs:label "Teslascan"@en .
+
+wd:Q29006561 a wd:Q169336 ;
+    rdfs:label "Tevagrastim"@en .
+
+wd:Q29006562 a wd:Q169336 ;
+    rdfs:label "Teysuno"@en .
+
+wd:Q29006563 a wd:Q169336 ;
+    rdfs:label "Thalidomide Celgene"@en .
+
+wd:Q29006564 a wd:Q169336 ;
+    rdfs:label "Thelin"@en .
+
+wd:Q29006565 a wd:Q169336 ;
+    rdfs:label "Theryttrex"@en .
+
+wd:Q29006566 a wd:Q169336 ;
+    rdfs:label "Thorinane"@en .
+
+wd:Q29006567 a wd:Q169336 ;
+    rdfs:label "Thymanax"@en .
+
+wd:Q29006569 a wd:Q169336 ;
+    rdfs:label "Thyrogen"@en .
+
+wd:Q29006570 a wd:Q169336 ;
+    rdfs:label "Tikosyn"@en .
+
+wd:Q29006571 a wd:Q169336 ;
+    rdfs:label "Tivicay"@en .
+
+wd:Q29006573 a wd:Q169336 ;
+    rdfs:label "Tobi Podhaler"@en .
+
+wd:Q29006574 a wd:Q169336 ;
+    rdfs:label "Tolucombi"@en .
+
+wd:Q29006575 a wd:Q169336 ;
+    rdfs:label "Tolura"@en .
+
+wd:Q29006577 a wd:Q169336 ;
+    rdfs:label "Topotecan Actavis"@en .
+
+wd:Q29006578 a wd:Q169336 ;
+    rdfs:label "Topotecan Eagle"@en .
+
+wd:Q29006579 a wd:Q169336 ;
+    rdfs:label "Topotecan Hospira"@en .
+
+wd:Q29006580 a wd:Q169336 ;
+    rdfs:label "Topotecan Teva"@en .
+
+wd:Q29006582 a wd:Q169336 ;
+    rdfs:label "Torisel"@en .
+
+wd:Q29006583 a wd:Q169336 ;
+    rdfs:label "Toujeo"@en .
+
+wd:Q29006584 a wd:Q169336 ;
+    rdfs:label "Tovanor Breezhaler"@en .
+
+wd:Q29006585 a wd:Q169336 ;
+    rdfs:label "Toviaz"@en .
+
+wd:Q29006586 a wd:Q169336 ;
+    rdfs:label "Tracleer"@en .
+
+wd:Q29006587 a wd:Q169336 ;
+    rdfs:label "Tractocile"@en .
+
+wd:Q29006588 a wd:Q169336 ;
+    rdfs:label "Trajenta"@en .
+
+wd:Q29006589 a wd:Q169336 ;
+    rdfs:label "Translarna"@en .
+
+wd:Q29006591 a wd:Q169336 ;
+    rdfs:label "Travatan"@en .
+
+wd:Q29006592 a wd:Q169336 ;
+    rdfs:label "Trazec"@en .
+
+wd:Q29006593 a wd:Q169336 ;
+    rdfs:label "Tredaptive"@en .
+
+wd:Q29006594 a wd:Q169336 ;
+    rdfs:label "Tresiba"@en .
+
+wd:Q29006596 a wd:Q169336 ;
+    rdfs:label "Trevaclyn"@en .
+
+wd:Q29006597 a wd:Q169336 ;
+    rdfs:label "Trevicta"@en .
+
+wd:Q29006598 a wd:Q169336 ;
+    rdfs:label "Trisenox"@en .
+
+wd:Q29006599 a wd:Q169336 ;
+    rdfs:label "Triumeq"@en .
+
+wd:Q29006600 a wd:Q169336 ;
+    rdfs:label "Trizivir"@en .
+
+wd:Q29006601 a wd:Q169336 ;
+    rdfs:label "Trobalt"@en .
+
+wd:Q29006602 a wd:Q169336 ;
+    rdfs:label "Trovan"@en .
+
+wd:Q29006603 a wd:Q169336 ;
+    rdfs:label "Trovan Iv"@en .
+
+wd:Q29006604 a wd:Q169336 ;
+    rdfs:label "Truberzi"@en .
+
+wd:Q29006605 a wd:Q169336 ;
+    rdfs:label "Trudexa"@en .
+
+wd:Q29006606 a wd:Q169336 ;
+    rdfs:label "Trulicity"@en .
+
+wd:Q29006607 a wd:Q169336 ;
+    rdfs:label "Truvada"@en .
+
+wd:Q29006608 a wd:Q169336 ;
+    rdfs:label "Turvel"@en .
+
+wd:Q29006609 a wd:Q169336 ;
+    rdfs:label "Turvel Iv"@en .
+
+wd:Q29006610 a wd:Q169336 ;
+    rdfs:label "Twynsta"@en .
+
+wd:Q29006611 a wd:Q169336 ;
+    rdfs:label "Tybost"@en .
+
+wd:Q29006612 a wd:Q169336 ;
+    rdfs:label "Tygacil"@en .
+
+wd:Q29006614 a wd:Q169336 ;
+    rdfs:label "Tysabri"@en .
+
+wd:Q29006615 a wd:Q169336 ;
+    rdfs:label "Tyverb"@en .
+
+wd:Q29006616 a wd:Q169336 ;
+    rdfs:label "Ultibro Breezhaler"@en .
+
+wd:Q29006617 a wd:Q169336 ;
+    rdfs:label "Ultratard"@en .
+
+wd:Q29006618 a wd:Q169336 ;
+    rdfs:label "Ulunar Breezhaler"@en .
+
+wd:Q29006619 a wd:Q169336 ;
+    rdfs:label "Unituxin"@en .
+
+wd:Q29006620 a wd:Q169336 ;
+    rdfs:label "Uprima"@en .
+
+wd:Q29006621 a wd:Q169336 ;
+    rdfs:label "Uptravi"@en .
+
+wd:Q29006622 a wd:Q169336 ;
+    rdfs:label "Urorec"@en .
+
+wd:Q29006623 a wd:Q169336 ;
+    rdfs:label "Valdoxan"@en .
+
+wd:Q29006625 a wd:Q169336 ;
+    rdfs:label "Valdyn"@en .
+
+wd:Q29006627 a wd:Q169336 ;
+    rdfs:label "Valtropin"@en .
+
+wd:Q29006628 a wd:Q169336 ;
+    rdfs:label "Vaniqa"@en .
+
+wd:Q29006629 a wd:Q169336 ;
+    rdfs:label "Vantavo"@en .
+
+wd:Q29006630 a wd:Q169336 ;
+    rdfs:label "Vantobra"@en .
+
+wd:Q29006632 a wd:Q169336 ;
+    rdfs:label "Vargatef"@en .
+
+wd:Q29006633 a wd:Q169336 ;
+    rdfs:label "Vectibix"@en .
+
+wd:Q29006634 a wd:Q169336 ;
+    rdfs:label "Vedrop"@en .
+
+wd:Q29006635 a wd:Q169336 ;
+    rdfs:label "Velcade"@en .
+
+wd:Q29006636 a wd:Q169336 ;
+    rdfs:label "Velmetia"@en .
+
+wd:Q29006637 a wd:Q169336 ;
+    rdfs:label "Velosulin"@en .
+
+wd:Q29006638 a wd:Q169336 ;
+    rdfs:label "Velphoro"@en .
+
+wd:Q29006639 a wd:Q169336 ;
+    rdfs:label "Venclyxto"@en .
+
+wd:Q29006640 a wd:Q169336 ;
+    rdfs:label "Ventavis"@en .
+
+wd:Q29006641 a wd:Q169336 ;
+    rdfs:label "Venvia"@en .
+
+wd:Q29006642 a wd:Q169336 ;
+    rdfs:label "Vfend"@en .
+
+wd:Q29006643 a wd:Q169336 ;
+    rdfs:label "Viagra"@en .
+
+wd:Q29006644 a wd:Q169336 ;
+    rdfs:label "Vibativ"@en .
+
+wd:Q29006645 a wd:Q169336 ;
+    rdfs:label "Victoza"@en .
+
+wd:Q29006646 a wd:Q169336 ;
+    rdfs:label "Victrelis"@en .
+
+wd:Q29006647 a wd:Q169336 ;
+    rdfs:label "Vidaza"@en .
+
+wd:Q29006648 a wd:Q169336 ;
+    rdfs:label "Viekirax"@en .
+
+wd:Q29006649 a wd:Q169336 ;
+    rdfs:label "Vimizim"@en .
+
+wd:Q29006650 a wd:Q169336 ;
+    rdfs:label "Vimpat"@en .
+
+wd:Q29006651 a wd:Q169336 ;
+    rdfs:label "Vipdomet"@en .
+
+wd:Q29006652 a wd:Q169336 ;
+    rdfs:label "Vipidia"@en .
+
+wd:Q29006653 a wd:Q169336 ;
+    rdfs:label "Viracept"@en .
+
+wd:Q29006654 a wd:Q169336 ;
+    rdfs:label "Viraferon"@en .
+
+wd:Q29006655 a wd:Q169336 ;
+    rdfs:label "Viraferonpeg"@en .
+
+wd:Q29006656 a wd:Q169336 ;
+    rdfs:label "Viramune"@en .
+
+wd:Q29006657 a wd:Q169336 ;
+    rdfs:label "Viread"@en .
+
+wd:Q29006658 a wd:Q169336 ;
+    rdfs:label "Vistide"@en .
+
+wd:Q29006659 a wd:Q169336 ;
+    rdfs:label "Visudyne"@en .
+
+wd:Q29006660 a wd:Q169336 ;
+    rdfs:label "Vitekta"@en .
+
+wd:Q29006661 a wd:Q169336 ;
+    rdfs:label "Vitrasert Implant"@en .
+
+wd:Q29006662 a wd:Q169336 ;
+    rdfs:label "Vitravene"@en .
+
+wd:Q29006663 a wd:Q169336 ;
+    rdfs:label "Vivanza"@en .
+
+wd:Q29006664 a wd:Q169336 ;
+    rdfs:label "Vizamyl"@en .
+
+wd:Q29006665 a wd:Q169336 ;
+    rdfs:label "Vizarsin"@en .
+
+wd:Q29006666 a wd:Q169336 ;
+    rdfs:label "Vokanamet"@en .
+
+wd:Q29006667 a wd:Q169336 ;
+    rdfs:label "Volibris"@en .
+
+wd:Q29006668 a wd:Q169336 ;
+    rdfs:label "Voriconazole Accord"@en .
+
+wd:Q29006669 a wd:Q169336 ;
+    rdfs:label "Voriconazole Hospira"@en .
+
+wd:Q29006670 a wd:Q169336 ;
+    rdfs:label "Votrient"@en .
+
+wd:Q29006671 a wd:Q169336 ;
+    rdfs:label "Votubia"@en .
+
+wd:Q29006672 a wd:Q169336 ;
+    rdfs:label "Vpriv"@en .
+
+wd:Q29006673 a wd:Q169336 ;
+    rdfs:label "Vylaer Spiromax"@en .
+
+wd:Q29006674 a wd:Q169336 ;
+    rdfs:label "Vyndaqel"@en .
+
+wd:Q29006675 a wd:Q169336 ;
+    rdfs:label "Wakix"@en .
+
+wd:Q29006676 a wd:Q169336 ;
+    rdfs:label "Wilzin"@en .
+
+wd:Q29006677 a wd:Q169336 ;
+    rdfs:label "Xadago"@en .
+
+wd:Q29006679 a wd:Q169336 ;
+    rdfs:label "Xagrid"@en .
+
+wd:Q29006680 a wd:Q169336 ;
+    rdfs:label "Xalkori"@en .
+
+wd:Q29006681 a wd:Q169336 ;
+    rdfs:label "Xaluprine"@en .
+
+wd:Q29006682 a wd:Q169336 ;
+    rdfs:label "Xapit"@en .
+
+wd:Q29006683 a wd:Q169336 ;
+    rdfs:label "Xarelto"@en .
+
+wd:Q29006684 a wd:Q169336 ;
+    rdfs:label "Xelevia"@en .
+
+wd:Q29006685 a wd:Q169336 ;
+    rdfs:label "Xeloda"@en .
+
+wd:Q29006686 a wd:Q169336 ;
+    rdfs:label "Xenical"@en .
+
+wd:Q29006688 a wd:Q169336 ;
+    rdfs:label "Xeplion"@en .
+
+wd:Q29006689 a wd:Q169336 ;
+    rdfs:label "Xeristar"@en .
+
+wd:Q29006691 a wd:Q169336 ;
+    rdfs:label "Xgeva"@en .
+
+wd:Q29006693 a wd:Q169336 ;
+    rdfs:label "Xiapex"@en .
+
+wd:Q29006694 a wd:Q169336 ;
+    rdfs:label "Xigduo"@en .
+
+wd:Q29006695 a wd:Q169336 ;
+    rdfs:label "Xigris"@en .
+
+wd:Q29006696 a wd:Q169336 ;
+    rdfs:label "Xiliarx"@en .
+
+wd:Q29006697 a wd:Q169336 ;
+    rdfs:label "Xofigo"@en .
+
+wd:Q29006698 a wd:Q169336 ;
+    rdfs:label "Xolair"@en .
+
+wd:Q29006699 a wd:Q169336 ;
+    rdfs:label "Xoterna Breezhaler"@en .
+
+wd:Q29006700 a wd:Q169336 ;
+    rdfs:label "Xtandi"@en .
+
+wd:Q29006701 a wd:Q169336 ;
+    rdfs:label "Xultophy"@en .
+
+wd:Q29006702 a wd:Q169336 ;
+    rdfs:label "Xydalba"@en .
+
+wd:Q29006703 a wd:Q169336 ;
+    rdfs:label "Xyrem"@en .
+
+wd:Q29006704 a wd:Q169336 ;
+    rdfs:label "Yellox"@en .
+
+wd:Q29006705 a wd:Q169336 ;
+    rdfs:label "Yentreve"@en .
+
+wd:Q29006706 a wd:Q169336 ;
+    rdfs:label "Yervoy"@en .
+
+wd:Q29006707 a wd:Q169336 ;
+    rdfs:label "Yondelis"@en .
+
+wd:Q29006710 a wd:Q169336 ;
+    rdfs:label "Ytracis"@en .
+
+wd:Q29006711 a wd:Q169336 ;
+    rdfs:label "Yttriga"@en .
+
+wd:Q29006712 a wd:Q169336 ;
+    rdfs:label "Zalasta"@en .
+
+wd:Q29006714 a wd:Q169336 ;
+    rdfs:label "Zaltrap"@en .
+
+wd:Q29006715 a wd:Q169336 ;
+    rdfs:label "Zalviso"@en .
+
+wd:Q29006717 a wd:Q169336 ;
+    rdfs:label "Zartra"@en .
+
+wd:Q29006718 a wd:Q169336 ;
+    rdfs:label "Zarzio"@en .
+
+wd:Q29006720 a wd:Q169336 ;
+    rdfs:label "Zavesca"@en .
+
+wd:Q29006721 a wd:Q169336 ;
+    rdfs:label "Zavicefta"@en .
+
+wd:Q29006723 a wd:Q169336 ;
+    rdfs:label "Zebinix"@en .
+
+wd:Q29006724 a wd:Q169336 ;
+    rdfs:label "Zeffix"@en .
+
+wd:Q29006727 a wd:Q169336 ;
+    rdfs:label "Zeftera"@en .
+
+wd:Q29006728 a wd:Q169336 ;
+    rdfs:label "Zelboraf"@en .
+
+wd:Q29006729 a wd:Q169336 ;
+    rdfs:label "Zelnorm"@en .
+
+wd:Q29006730 a wd:Q169336 ;
+    rdfs:label "Zenapax"@en .
+
+wd:Q29006731 a wd:Q169336 ;
+    rdfs:label "Zepatier"@en .
+
+wd:Q29006732 a wd:Q169336 ;
+    rdfs:label "Zerbaxa"@en .
+
+wd:Q29006733 a wd:Q169336 ;
+    rdfs:label "Zerene"@en .
+
+wd:Q29006734 a wd:Q169336 ;
+    rdfs:label "Zerit"@en .
+
+wd:Q29006735 a wd:Q169336 ;
+    rdfs:label "Zevalin"@en .
+
+wd:Q29006736 a wd:Q169336 ;
+    rdfs:label "Ziagen"@en .
+
+wd:Q29006737 a wd:Q169336 ;
+    rdfs:label "Zimulti"@en .
+
+wd:Q29006738 a wd:Q169336 ;
+    rdfs:label "Zinbryta"@en .
+
+wd:Q29006739 a wd:Q169336 ;
+    rdfs:label "Zinforo"@en .
+
+wd:Q29006740 a wd:Q169336 ;
+    rdfs:label "Zoely"@en .
+
+wd:Q29006741 a wd:Q169336 ;
+    rdfs:label "Zoledronic Acid Accord"@en .
+
+wd:Q29006742 a wd:Q169336 ;
+    rdfs:label "Zoledronic Acid Actavis"@en .
+
+wd:Q29006743 a wd:Q169336 ;
+    rdfs:label "Zoledronic Acid Hospira"@en .
+
+wd:Q29006744 a wd:Q169336 ;
+    rdfs:label "Zoledronic Acid Medac"@en .
+
+wd:Q29006745 a wd:Q169336 ;
+    rdfs:label "Zoledronic Acid Mylan"@en .
+
+wd:Q29006746 a wd:Q169336 ;
+    rdfs:label "Zoledronic Acid Teva"@en .
+
+wd:Q29006748 a wd:Q169336 ;
+    rdfs:label "Zoledronic Acid Teva Generics"@en .
+
+wd:Q29006750 a wd:Q169336 ;
+    rdfs:label "Zoledronic Acid Teva Pharma"@en .
+
+wd:Q29006751 a wd:Q169336 ;
+    rdfs:label "Zomarist"@en .
+
+wd:Q29006752 a wd:Q169336 ;
+    rdfs:label "Zometa"@en .
+
+wd:Q29006753 a wd:Q169336 ;
+    rdfs:label "Zonegran"@en .
+
+wd:Q29006754 a wd:Q169336 ;
+    rdfs:label "Zonisamide Mylan"@en .
+
+wd:Q29006755 a wd:Q169336 ;
+    rdfs:label "Zontivity"@en .
+
+wd:Q29006757 a wd:Q169336 ;
+    rdfs:label "Zostavax"@en .
+
+wd:Q29006758 a wd:Q169336 ;
+    rdfs:label "Zurampic"@en .
+
+wd:Q29006760 a wd:Q169336 ;
+    rdfs:label "Zutectra"@en .
+
+wd:Q29006762 a wd:Q169336 ;
+    rdfs:label "Zyclara"@en .
+
+wd:Q29006763 a wd:Q169336 ;
+    rdfs:label "Zydelig"@en .
+
+wd:Q29006764 a wd:Q169336 ;
+    rdfs:label "Zykadia"@en .
+
+wd:Q29006765 a wd:Q169336 ;
+    rdfs:label "Zyllt"@en .
+
+wd:Q29006766 a wd:Q169336 ;
+    rdfs:label "Zypadhera"@en .
+
+wd:Q29006767 a wd:Q169336 ;
+    rdfs:label "Zyprexa"@en .
+
+wd:Q29006768 a wd:Q169336 ;
+    rdfs:label "Zyprexa Velotab"@en .
+
+wd:Q29006769 a wd:Q169336 ;
+    rdfs:label "Zytiga"@en .
+
+wd:Q29018011 a wd:Q37756 ;
+    rdfs:label "Nitronic"@en .
+
+wd:Q295697 a wd:Q169336 ;
+    rdfs:label "ANFO"@en .
+
+wd:Q2974480 a wd:Q169336 ;
+    rdfs:label "caffeine citrate"@en .
+
+wd:Q2981100 a wd:Q169336 ;
+    rdfs:label "Artemether/lumefantrine"@en .
+
+wd:Q30023303 a wd:Q37756 ;
+    rdfs:label "aluminium-magnesium alloy"@en .
+
+wd:Q30314021 a wd:Q169336 ;
+    rdfs:label "Hyoscyamine/hexamethylenetetramine/phenyl salicylate/methylene blue/benzoic acid"@en .
+
+wd:Q304176 a wd:Q37756 ;
+    rdfs:label "aluminium gallium arsenide"@en .
+
+wd:Q3046705 a wd:Q5447188 ;
+    rdfs:label "gum arabic solution"@en .
+
+wd:Q305345 a wd:Q169336 ;
+    rdfs:label "abamectin"@en .
+
+wd:Q3055104 a wd:Q37756 ;
+    rdfs:label "Widia"@en .
+
+wd:Q3064751 a wd:Q169336 ;
+    rdfs:label "Secobarbital/brallobarbital/hydroxyzine"@en .
+
+wd:Q3068462 a wd:Q37756 ;
+    rdfs:label "beaten iron"@en .
+
+wd:Q30715308 a wd:Q169336 ;
+    rdfs:label "Silica sulfuric acid"@en .
+
+wd:Q30752210 a wd:Q37756 ;
+    rdfs:label "Ni-resist"@en .
+
+wd:Q3130053 a wd:Q169336 ;
+    rdfs:label "inosine pranobex"@en .
+
+wd:Q3142155 a wd:Q37756 ;
+    rdfs:label "Terfenol-D"@en .
+
+wd:Q31576 a wd:Q37756 ;
+    rdfs:label "sterling silver"@en .
+
+wd:Q329022 a wd:Q169336 ;
+    rdfs:label "acetone peroxide"@en .
+
+wd:Q331451 a wd:Q169336 ;
+    rdfs:label "abrin"@en .
+
+wd:Q337192 a wd:Q169336 ;
+    rdfs:label "Thermite"@en .
+
+wd:Q3378713 a wd:Q169336 ;
+    rdfs:label "Phentermine/topiramate"@en .
+
+wd:Q3381504 a wd:Q37756 ;
+    rdfs:label "gallium arsenide phosphide"@en .
+
+wd:Q340032 a wd:Q169336 ;
+    rdfs:label "mumia"@en .
+
+wd:Q3415002 a wd:Q169336 ;
+    rdfs:label "R404A"@en .
+
+wd:Q3415004 a wd:Q169336 ;
+    rdfs:label "R407C"@en .
+
+wd:Q3415005 a wd:Q169336 ;
+    rdfs:label "R422D"@en .
+
+wd:Q3415007 a wd:Q169336 ;
+    rdfs:label "R507"@en .
+
+wd:Q34666046 a wd:Q5447188 ;
+    rdfs:label "lead acetate"@en .
+
+wd:Q3493529 a wd:Q169336 ;
+    rdfs:label "Spinosad"@en .
+
+wd:Q353087 a wd:Q169336 ;
+    rdfs:label "Mint oil"@en .
+
+wd:Q3531018 a wd:Q37756 ;
+    rdfs:label "Panchaloha"@en .
+
+wd:Q3552130 a wd:Q37756 ;
+    rdfs:label "uranium rhodium germanium"@en .
+
+wd:Q3604129 a wd:Q11427 ;
+    rdfs:label "100Cr6"@en .
+
+wd:Q3604130 a wd:Q11427 ;
+    rdfs:label "100CrMn4"@en .
+
+wd:Q3604131 a wd:Q11427 ;
+    rdfs:label "18CrMo4"@en .
+
+wd:Q3604132 a wd:Q11427 ;
+    rdfs:label "18NiCrMo5"@en .
+
+wd:Q3604133 a wd:Q11427 ;
+    rdfs:label "39NiCrMo3"@en .
+
+wd:Q3604135 a wd:Q11427 ;
+    rdfs:label "40CrMo4"@en .
+
+wd:Q3604136 a wd:Q11427 ;
+    rdfs:label "50CrV4"@en .
+
+wd:Q3604137 a wd:Q11427 ;
+    rdfs:label "C40 steel"@en .
+
+wd:Q3604141 a wd:Q11427 ;
+    rdfs:label "X85WMoCoV6.5.4.2 KU"@en .
+
+wd:Q3604145 a wd:Q11427 ;
+    rdfs:label "hypoeutectoid steel"@en .
+
+wd:Q3681908 a wd:Q169336 ;
+    rdfs:label "Cocamide DEA"@en .
+
+wd:Q37026435 a wd:Q37756 ;
+    rdfs:label "tungsten heavy metal"@en .
+
+wd:Q3731411 a wd:Q37756 ;
+    rdfs:label "Ergal"@en .
+
+wd:Q3758615 a wd:Q169336 ;
+    rdfs:label "natural gasoline"@en .
+
+wd:Q3759140 a wd:Q37756 ;
+    rdfs:label "GeSbTe"@en .
+
+wd:Q37760265 a wd:Q37756 ;
+    rdfs:label "Virenium"@en .
+
+wd:Q37788431 rdfs:label "natural steel"@en ;
+    rdfs:subClassOf wd:Q967996 .
+
+wd:Q3801507 a wd:Q11427 ;
+    rdfs:label "hypereutectic steel"@en .
+
+wd:Q3817820 a wd:Q37756 ;
+    rdfs:label "Megallium"@en .
+
+wd:Q3820407 a wd:Q5447188 ;
+    rdfs:label "light non-aqueous phase liquid"@en .
+
+wd:Q3836750 a wd:Q169336 ;
+    rdfs:label "Lopinavir/ritonavir"@en .
+
+wd:Q38423 a wd:Q169336 ;
+    rdfs:label "diesel"@en .
+
+wd:Q39048038 a wd:Q169336 ;
+    rdfs:label "Glecaprevir/pibrentasvir"@en .
+
+wd:Q39049403 a wd:Q169336 ;
+    rdfs:label "Lesinurad/allopurinol"@en .
+
+wd:Q3929867 a wd:Q37756 ;
+    rdfs:label "Arsenical copper"@en .
+
+wd:Q39558 a wd:Q169336 ;
+    rdfs:label "gasoline"@en .
+
+wd:Q4006347 a wd:Q169336 ;
+    rdfs:label "N-Carbamoyl-DL-aspartic acid, compound with 5-amino-1H-imidazole-4-carboxamide"@en .
+
+wd:Q4019783 a wd:Q169336 ;
+    rdfs:label "Lidocaine/prilocaine"@en .
+
+wd:Q408014 a wd:Q169336 ;
+    rdfs:label "chondroitin sulfate"@en .
+
+wd:Q40858 a wd:Q169336 ;
+    rdfs:label "natural gas"@en .
+
+wd:Q4093407 a wd:Q37756 ;
+    rdfs:label "boron-carbon-silicon"@en .
+
+wd:Q409406 a wd:Q169336 ;
+    rdfs:label "Mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids"@en .
+
+wd:Q411286 a wd:Q169336 ;
+    rdfs:label "prallethrin"@en .
+
+wd:Q4118295 a wd:Q169336 ;
+    rdfs:label "Conjugated Estrogens"@en .
+
+wd:Q412068 a wd:Q169336 ;
+    rdfs:label "Isomalt"@en .
+
+wd:Q412082 a wd:Q169336 ;
+    rdfs:label "inverted sugar syrup"@en .
+
+wd:Q412561 a wd:Q169336 ;
+    rdfs:label "sodium laureth sulfate"@en .
+
+wd:Q415178 a wd:Q169336 ;
+    rdfs:label "ivermectin"@en .
+
+wd:Q415571 a wd:Q169336 ;
+    rdfs:label "Bleomycin"@en .
+
+wd:Q416711 a wd:Q169336 ;
+    rdfs:label "mono- and diglycerides of fatty acids"@en .
+
+wd:Q4176395 a wd:Q169336 ;
+    rdfs:label "Q4176395"^^xsd:string .
+
+wd:Q418946 a wd:Q169336 ;
+    rdfs:label "Colistin"@en .
+
+wd:Q418980 a wd:Q169336 ;
+    rdfs:label "Gramicidin D"@en .
+
+wd:Q419375 a wd:Q169336 ;
+    rdfs:label "selenium disulfide"@en .
+
+wd:Q419421 a wd:Q169336 ;
+    rdfs:label "Tyrothricin"@en .
+
+wd:Q419882 a wd:Q169336 ;
+    rdfs:label "BTEX"@en .
+
+wd:Q420358 a wd:Q169336 ;
+    rdfs:label "Polysorbate 80"@en .
+
+wd:Q422141 a wd:Q169336 ;
+    rdfs:label "yellowcake"@en .
+
+wd:Q422482 a wd:Q169336 ;
+    rdfs:label "gentamicin"@en .
+
+wd:Q422717 a wd:Q37756 ;
+    rdfs:label "mercury cadmium telluride"@en .
+
+wd:Q423098 a wd:Q169336 ;
+    rdfs:label "neomycin"@en .
+
+wd:Q4232581 a wd:Q37756 ;
+    rdfs:label "naval armor"@en .
+
+wd:Q423972 a wd:Q169336 ;
+    rdfs:label "γ-oryzanol"@en .
+
+wd:Q425645 a wd:Q169336 ;
+    rdfs:label "orcein"@en .
+
+wd:Q426288 a wd:Q169336 ;
+    rdfs:label "Polyethoxylated tallow amine"@en .
+
+wd:Q426846 a wd:Q169336 ;
+    rdfs:label "pancreatin"@en .
+
+wd:Q42762731 a wd:Q37756 ;
+    rdfs:label "soft iron"@en .
+
+wd:Q428912 a wd:Q169336,
+        wd:Q37756 ;
+    rdfs:label "didymium"@en .
+
+wd:Q4299016 a wd:Q169336 ;
+    rdfs:label "Movil"@en .
+
+wd:Q43133343 a wd:Q37756 ;
+    rdfs:label "AuCu"@en .
+
+wd:Q43136078 a wd:Q37756 ;
+    rdfs:label "Q43136078"^^xsd:string .
+
+wd:Q4345412 a wd:Q37756 ;
+    rdfs:label "Q4345412"^^xsd:string .
+
+wd:Q4356365 a wd:Q169336 ;
+    rdfs:label "quercitron"@en .
+
+wd:Q4364570 a wd:Q37756 ;
+    rdfs:label "Platinum-iridium alloy"@en .
+
+wd:Q4384623 a wd:Q169336 ;
+    rdfs:label "gun grease"@en .
+
+wd:Q4439269 a wd:Q11427 ;
+    rdfs:label "10895 steel"@en .
+
+wd:Q4457839 a wd:Q37756 ;
+    rdfs:label "Tinidur"@en .
+
+wd:Q4463029 a wd:Q5447188 ;
+    rdfs:label "TRIzol"@en .
+
+wd:Q447475 a wd:Q37756 ;
+    rdfs:label "Aluminium amalgam"@en .
+
+wd:Q457239 a wd:Q169336 ;
+    rdfs:label "petroleum jelly"@en .
+
+wd:Q4634148 a wd:Q169336 ;
+    rdfs:label "3-hydroxymorphinan"@en .
+
+wd:Q4649437 a wd:Q1070521 ;
+    rdfs:label "A514 steel"@en .
+
+wd:Q4654371 a wd:Q1070521 ;
+    rdfs:label "ASTM A992 steel"@en .
+
+wd:Q4663143 a wd:Q169336 ;
+    rdfs:label "abacavir/lamivudine"@en .
+
+wd:Q4674033 a wd:Q169336 ;
+    rdfs:label "hydrolyzed vegetable protein"@en .
+
+wd:Q469089 a wd:Q169336 ;
+    rdfs:label "calcium ammonium nitrate"@en .
+
+wd:Q4690906 a wd:Q37756 ;
+    rdfs:label "AgInSbTe"@en .
+
+wd:Q4705462 a wd:Q37756 ;
+    rdfs:label "Alacrite"@en .
+
+wd:Q4726988 a wd:Q169336 ;
+    rdfs:label "Aliskiren/amlodipine/hydrochlorothiazide"@en .
+
+wd:Q4726990 a wd:Q169336 ;
+    rdfs:label "Aliskiren/amlodipine"@en .
+
+wd:Q4737390 a wd:Q37756 ;
+    rdfs:label "aluminium indium arsenide"@en .
+
+wd:Q4740596 a wd:Q169336 ;
+    rdfs:label "Amatex"@en .
+
+wd:Q4741993 a wd:Q169336 ;
+    rdfs:label "ambuphylline"@en .
+
+wd:Q4747075 a wd:Q169336 ;
+    rdfs:label "amlodipine/valsartan"@en .
+
+wd:Q47495792 a wd:Q169336 ;
+    rdfs:label "Ferumoxides"@en .
+
+wd:Q478468 a wd:Q37756 ;
+    rdfs:label "tumbaga"@en .
+
+wd:Q48561349 a wd:Q169336 ;
+    rdfs:label "Nitric Oxide / Nitrogen"@en .
+
+wd:Q48561426 a wd:Q169336 ;
+    rdfs:label "Acetaminophen / butalbital"@en .
+
+wd:Q48561428 a wd:Q169336 ;
+    rdfs:label "eprosartan / Hydrochlorothiazide"@en .
+
+wd:Q48563713 a wd:Q169336 ;
+    rdfs:label "Levonordefrin / Mepivacaine"@en .
+
+wd:Q48563715 a wd:Q169336 ;
+    rdfs:label "Metformin / pioglitazone"@en .
+
+wd:Q48564239 a wd:Q169336 ;
+    rdfs:label "acetaminophen/tramadol"@en .
+
+wd:Q48564241 a wd:Q169336 ;
+    rdfs:label "sofosbuvir / velpatasvir / voxilaprevir"@en .
+
+wd:Q48564242 a wd:Q169336 ;
+    rdfs:label "Epinephrine / Prilocaine"@en .
+
+wd:Q48564244 a wd:Q169336 ;
+    rdfs:label "Fluoxetine / olanzapine"@en .
+
+wd:Q48566623 a wd:Q169336 ;
+    rdfs:label "Dexamethasone / Tobramycin"@en .
+
+wd:Q48566624 a wd:Q169336 ;
+    rdfs:label "Codeine / Pseudoephedrine / Triprolidine"@en .
+
+wd:Q48566627 a wd:Q169336 ;
+    rdfs:label "Betamethasone / calcipotriene"@en .
+
+wd:Q48566629 a wd:Q169336 ;
+    rdfs:label "Aspirin / butalbital / Caffeine / Codeine"@en .
+
+wd:Q48566631 a wd:Q169336 ;
+    rdfs:label "Dexamethasone / Neomycin / Polymyxin B"@en .
+
+wd:Q48566633 a wd:Q169336 ;
+    rdfs:label "isoniazid / Rifampin"@en .
+
+wd:Q48566634 a wd:Q169336 ;
+    rdfs:label "Articaine / Epinephrine"@en .
+
+wd:Q48566635 a wd:Q169336 ;
+    rdfs:label "penicillin G benzathine / penicillin G procaine"@en .
+
+wd:Q48566638 a wd:Q169336 ;
+    rdfs:label "Naproxen / Sumatriptan"@en .
+
+wd:Q48566639 a wd:Q169336 ;
+    rdfs:label "Aspirin / Caffeine / dihydrocodeine"@en .
+
+wd:Q48566641 a wd:Q169336 ;
+    rdfs:label "Clindamycin / Tretinoin"@en .
+
+wd:Q48566642 a wd:Q169336 ;
+    rdfs:label "Aspirin / Omeprazole"@en .
+
+wd:Q48566646 a wd:Q169336 ;
+    rdfs:label "Guaifenesin / Hydrocodone / Pseudoephedrine"@en .
+
+wd:Q48566647 a wd:Q169336 ;
+    rdfs:label "Acetaminophen / Caffeine / dihydrocodeine"@en .
+
+wd:Q48566649 a wd:Q169336 ;
+    rdfs:label "Loratadine / Pseudoephedrine"@en .
+
+wd:Q48566651 a wd:Q169336 ;
+    rdfs:label "Ciprofloxacin / Dexamethasone"@en .
+
+wd:Q48566653 a wd:Q169336 ;
+    rdfs:label "Albuterol / Ipratropium"@en .
+
+wd:Q48566655 a wd:Q169336 ;
+    rdfs:label "Enalapril / Hydrochlorothiazide"@en .
+
+wd:Q48566657 a wd:Q169336 ;
+    rdfs:label "Hydrochlorothiazide / Triamterene"@en .
+
+wd:Q48566658 a wd:Q169336 ;
+    rdfs:label "Aspirin / Dipyridamole"@en .
+
+wd:Q48566660 a wd:Q169336 ;
+    rdfs:label "Epinephrine / Lidocaine"@en .
+
+wd:Q48566661 a wd:Q169336 ;
+    rdfs:label "Amitriptyline / Chlordiazepoxide"@en .
+
+wd:Q48566663 a wd:Q169336 ;
+    rdfs:label "dalfopristin / quinupristin"@en .
+
+wd:Q48566664 a wd:Q169336 ;
+    rdfs:label "fexofenadine / Pseudoephedrine"@en .
+
+wd:Q48566666 a wd:Q169336 ;
+    rdfs:label "Ciprofloxacin / fluocinolone"@en .
+
+wd:Q48566667 a wd:Q169336 ;
+    rdfs:label "Acetaminophen / butalbital / Caffeine / Codeine"@en .
+
+wd:Q48566668 a wd:Q169336 ;
+    rdfs:label "Cyclopentolate / Phenylephrine"@en .
+
+wd:Q48566670 a wd:Q169336 ;
+    rdfs:label "Benzoyl Peroxide / Clindamycin"@en .
+
+wd:Q48566671 a wd:Q169336 ;
+    rdfs:label "dorzolamide / Timolol"@en .
+
+wd:Q48566672 a wd:Q169336 ;
+    rdfs:label "Chlorpheniramine / Hydrocodone / Pseudoephedrine"@en .
+
+wd:Q48566673 a wd:Q169336 ;
+    rdfs:label "Betamethasone / Clotrimazole"@en .
+
+wd:Q48566674 a wd:Q169336 ;
+    rdfs:label "Bupivacaine / Epinephrine"@en .
+
+wd:Q48566676 a wd:Q169336 ;
+    rdfs:label "Aspirin / butalbital / Caffeine"@en .
+
+wd:Q48566679 a wd:Q169336 ;
+    rdfs:label "Ethinyl Estradiol / Etonogestrel"@en .
+
+wd:Q48566680 a wd:Q169336 ;
+    rdfs:label "olodaterol / tiotropium"@en .
+
+wd:Q48566682 a wd:Q169336 ;
+    rdfs:label "Hydrochlorothiazide / quinapril"@en .
+
+wd:Q48566683 a wd:Q169336 ;
+    rdfs:label "Betamethasone / Betamethasone acetate"@en .
+
+wd:Q48566689 a wd:Q169336 ;
+    rdfs:label "isoniazid / Pyrazinamide / Rifampin"@en .
+
+wd:Q48566693 a wd:Q169336 ;
+    rdfs:label "Hydrochlorothiazide / Losartan"@en .
+
+wd:Q48566694 a wd:Q169336 ;
+    rdfs:label "Hydrochlorothiazide / valsartan"@en .
+
+wd:Q48566696 a wd:Q169336 ;
+    rdfs:label "Hydrochlorothiazide / Spironolactone"@en .
+
+wd:Q48566697 a wd:Q169336 ;
+    rdfs:label "acrivastine / Pseudoephedrine"@en .
+
+wd:Q48566700 a wd:Q169336 ;
+    rdfs:label "Hydrochlorothiazide / Lisinopril"@en .
+
+wd:Q48566702 a wd:Q169336 ;
+    rdfs:label "Hydrocortisone / Neomycin / Polymyxin B"@en .
+
+wd:Q48566704 a wd:Q169336 ;
+    rdfs:label "Insulin Glargine / Lixisenatide"@en .
+
+wd:Q48566705 a wd:Q169336 ;
+    rdfs:label "ezetimibe / Simvastatin"@en .
+
+wd:Q48566706 a wd:Q169336 ;
+    rdfs:label "Ciprofloxacin / Hydrocortisone"@en .
+
+wd:Q48566708 a wd:Q169336 ;
+    rdfs:label "Hydrocortisone / pramoxine"@en .
+
+wd:Q48566709 a wd:Q169336 ;
+    rdfs:label "trandolapril / Verapamil"@en .
+
+wd:Q48566710 a wd:Q169336 ;
+    rdfs:label "Aspirin / Oxycodone"@en .
+
+wd:Q48566712 a wd:Q169336 ;
+    rdfs:label "Amlodipine / benazepril"@en .
+
+wd:Q48566714 a wd:Q169336 ;
+    rdfs:label "canagliflozin / Metformin"@en .
+
+wd:Q48566715 a wd:Q169336 ;
+    rdfs:label "Benzoyl Peroxide / Erythromycin"@en .
+
+wd:Q48566716 a wd:Q169336 ;
+    rdfs:label "Brompheniramine / Dextromethorphan / Pseudoephedrine"@en .
+
+wd:Q48566717 a wd:Q169336 ;
+    rdfs:label "Esomeprazole / Naproxen"@en .
+
+wd:Q48566719 a wd:Q169336 ;
+    rdfs:label "formoterol / Glycopyrrolate"@en .
+
+wd:Q48566720 a wd:Q169336 ;
+    rdfs:label "brimonidine / Timolol"@en .
+
+wd:Q48566724 a wd:Q169336 ;
+    rdfs:label "Amlodipine / Hydrochlorothiazide / olmesartan"@en .
+
+wd:Q48566725 a wd:Q169336 ;
+    rdfs:label "Lovastatin / Niacin"@en .
+
+wd:Q48566727 a wd:Q169336 ;
+    rdfs:label "Estradiol / Norethindrone"@en .
+
+wd:Q48566728 a wd:Q169336 ;
+    rdfs:label "Chlorpheniramine / Codeine"@en .
+
+wd:Q48566729 a wd:Q169336 ;
+    rdfs:label "Neomycin / Polymyxin B"@en .
+
+wd:Q48566731 a wd:Q169336 ;
+    rdfs:label "dolutegravir / Rilpivirine"@en .
+
+wd:Q48566733 a wd:Q169336 ;
+    rdfs:label "meropenem/vaborbactam"@en .
+
+wd:Q48566734 a wd:Q169336 ;
+    rdfs:label "ertugliflozin / sitagliptin"@en .
+
+wd:Q48566735 a wd:Q169336 ;
+    rdfs:label "Acetaminophen / Codeine"@en .
+
+wd:Q48566738 a wd:Q169336 ;
+    rdfs:label "Hydrochlorothiazide / Metoprolol"@en .
+
+wd:Q48566740 a wd:Q169336 ;
+    rdfs:label "dapagliflozin / saxagliptin"@en .
+
+wd:Q48566743 a wd:Q169336 ;
+    rdfs:label "Hydralazine / Isosorbide Dinitrate"@en .
+
+wd:Q48566747 a wd:Q169336 ;
+    rdfs:label "acetaminophen / butalbital / caffeine"@en .
+
+wd:Q48566749 a wd:Q169336 ;
+    rdfs:label "Acetaminophen / Hydrocodone"@en .
+
+wd:Q48566750 a wd:Q169336 ;
+    rdfs:label "Dutasteride / tamsulosin"@en .
+
+wd:Q48566752 a wd:Q169336 ;
+    rdfs:label "fluocinolone / hydroquinone / Tretinoin"@en .
+
+wd:Q48566754 a wd:Q169336 ;
+    rdfs:label "prednisolone / Sulfacetamide"@en .
+
+wd:Q48566756 a wd:Q169336 ;
+    rdfs:label "Hydrocodone / Ibuprofen"@en .
+
+wd:Q48566757 a wd:Q169336 ;
+    rdfs:label "Bisoprolol / Hydrochlorothiazide"@en .
+
+wd:Q48566759 a wd:Q169336 ;
+    rdfs:label "benazepril / Hydrochlorothiazide"@en .
+
+wd:Q48566761 a wd:Q169336 ;
+    rdfs:label "fluticasone / vilanterol"@en .
+
+wd:Q48566762 a wd:Q169336 ;
+    rdfs:label "Allopurinol / lesinurad"@en .
+
+wd:Q48566764 a wd:Q169336 ;
+    rdfs:label "p-Hydroxyamphetamine / Tropicamide"@en .
+
+wd:Q48566765 a wd:Q169336 ;
+    rdfs:label "ertugliflozin / Metformin"@en .
+
+wd:Q48566767 a wd:Q169336 ;
+    rdfs:label "azelastine / fluticasone"@en .
+
+wd:Q48566769 a wd:Q169336 ;
+    rdfs:label "Guaifenesin / Pseudoephedrine"@en .
+
+wd:Q48566770 a wd:Q169336 ;
+    rdfs:label "glyburide / metformin"@en .
+
+wd:Q48566771 a wd:Q169336 ;
+    rdfs:label "candesartan / Hydrochlorothiazide"@en .
+
+wd:Q48566774 a wd:Q169336 ;
+    rdfs:label "Chlorpheniramine / Hydrocodone"@en .
+
+wd:Q48566776 a wd:Q169336 ;
+    rdfs:label "Ethinyl Estradiol / Norethindrone"@en .
+
+wd:Q48566781 a wd:Q169336 ;
+    rdfs:label "Chlordiazepoxide / clidinium"@en .
+
+wd:Q48566783 a wd:Q169336 ;
+    rdfs:label "Acyclovir / Hydrocortisone"@en .
+
+wd:Q48566784 a wd:Q169336 ;
+    rdfs:label "Famotidine / Ibuprofen"@en .
+
+wd:Q48566789 a wd:Q169336 ;
+    rdfs:label "glecaprevir / pibrentasvir"@en .
+
+wd:Q48566790 a wd:Q169336 ;
+    rdfs:label "Lidocaine / Tetracaine"@en .
+
+wd:Q48566792 a wd:Q169336 ;
+    rdfs:label "Oxymetazoline / Tetracaine"@en .
+
+wd:Q48566794 a wd:Q169336 ;
+    rdfs:label "levothyroxine / liothyronine"@en .
+
+wd:Q48566795 a wd:Q169336 ;
+    rdfs:label "Morphine / Naltrexone"@en .
+
+wd:Q48566796 a wd:Q169336 ;
+    rdfs:label "fluocinolone / Neomycin"@en .
+
+wd:Q48566799 a wd:Q169336 ;
+    rdfs:label "Amlodipine / olmesartan"@en .
+
+wd:Q48566800 a wd:Q169336 ;
+    rdfs:label "loteprednol etabonate / Tobramycin"@en .
+
+wd:Q48566801 a wd:Q169336 ;
+    rdfs:label "fluticasone / umeclidinium / vilanterol"@en .
+
+wd:Q48566802 a wd:Q169336 ;
+    rdfs:label "amphetamine aspartate / amphetamine sulfate / dextroamphetamine saccharate / dextroamphetamine sulfate"@en .
+
+wd:Q48566803 a wd:Q169336 ;
+    rdfs:label "Acetaminophen / Oxycodone"@en .
+
+wd:Q48566806 a wd:Q169336 ;
+    rdfs:label "Ampicillin / Sulbactam"@en .
+
+wd:Q48566808 a wd:Q169336 ;
+    rdfs:label "Amlodipine / atorvastatin"@en .
+
+wd:Q48566809 a wd:Q169336 ;
+    rdfs:label "elbasvir / grazoprevir"@en .
+
+wd:Q48566811 a wd:Q169336 ;
+    rdfs:label "Chlorthalidone / Clonidine"@en .
+
+wd:Q48566813 a wd:Q169336 ;
+    rdfs:label "adapalene / Benzoyl Peroxide"@en .
+
+wd:Q48566814 a wd:Q169336 ;
+    rdfs:label "Doxylamine / pyridoxine"@en .
+
+wd:Q48566815 a wd:Q169336 ;
+    rdfs:label "Caffeine / Ergotamine"@en .
+
+wd:Q48566816 a wd:Q169336 ;
+    rdfs:label "Guaifenesin / Hydrocodone"@en .
+
+wd:Q48566820 a wd:Q169336 ;
+    rdfs:label "Atropine / difenoxin"@en .
+
+wd:Q48566821 a wd:Q169336 ;
+    rdfs:label "Sulfamethoxazole / Trimethoprim"@en .
+
+wd:Q48566822 a wd:Q169336 ;
+    rdfs:label "brimonidine / brinzolamide"@en .
+
+wd:Q48566823 a wd:Q169336 ;
+    rdfs:label "Niacin / Simvastatin"@en .
+
+wd:Q48566827 a wd:Q169336 ;
+    rdfs:label "hydrochlorothiazide / olmesartan"@en .
+
+wd:Q48566828 a wd:Q169336 ;
+    rdfs:label "azilsartan / Chlorthalidone"@en .
+
+wd:Q48566830 a wd:Q169336 ;
+    rdfs:label "Amlodipine / Perindopril"@en .
+
+wd:Q48566831 a wd:Q169336 ;
+    rdfs:label "Cetirizine / Pseudoephedrine"@en .
+
+wd:Q48719715 a wd:Q169336 ;
+    rdfs:label "formoterol / Mometasone"@en .
+
+wd:Q48719717 a wd:Q169336 ;
+    rdfs:label "Estradiol / Levonorgestrel"@en .
+
+wd:Q487286 a wd:Q37756 ;
+    rdfs:label "austenite"@en .
+
+wd:Q48769336 a wd:Q169336 ;
+    rdfs:label "Agaropectin"@en .
+
+wd:Q48832 a wd:Q169336 ;
+    rdfs:label "tea tree oil"@en .
+
+wd:Q48832104 a wd:Q169336 ;
+    rdfs:label "Bacitracin / Neomycin / Polymyxin B"@en .
+
+wd:Q48832105 a wd:Q169336 ;
+    rdfs:label "Gentamicin / prednisolone"@en .
+
+wd:Q48832106 a wd:Q169336 ;
+    rdfs:label "Colistin / Hydrocortisone / Neomycin / THONZONIUM"@en .
+
+wd:Q48832108 a wd:Q169336 ;
+    rdfs:label "Bendroflumethiazide / Nadolol"@en .
+
+wd:Q48832109 a wd:Q169336 ;
+    rdfs:label "NITROFURANTOIN, MACROCRYSTALS / Nitrofurantoin, Monohydrate"@en .
+
+wd:Q48832111 a wd:Q169336 ;
+    rdfs:label "Bacitracin / Polymyxin B"@en .
+
+wd:Q48832112 a wd:Q169336 ;
+    rdfs:label "Bacitracin / Hydrocortisone / Neomycin / Polymyxin B"@en .
+
+wd:Q4890968 a wd:Q169336 ;
+    rdfs:label "beractant"@en .
+
+wd:Q48937951 a wd:Q37756 ;
+    rdfs:label "Q48937951"^^xsd:string .
+
+wd:Q4938125 a wd:Q169336 ;
+    rdfs:label "bohemic acid"@en .
+
+wd:Q4998036 a wd:Q169336 ;
+    rdfs:label "bupropion/naltrexone"@en .
+
+wd:Q5005885 a wd:Q5447188 ;
+    rdfs:label "C-KAD"@en .
+
+wd:Q5018412 a wd:Q37756 ;
+    rdfs:label "Calamine brass"@en .
+
+wd:Q5019575 a wd:Q169336 ;
+    rdfs:label "calfactant"@en .
+
+wd:Q503288 a wd:Q5447188 ;
+    rdfs:label "antifreeze"@en .
+
+wd:Q5037862 a wd:Q169336 ;
+    rdfs:label "Carbidopa/levodopa"@en .
+
+wd:Q5038840 a wd:Q169336 ;
+    rdfs:label "Care 30"@en .
+
+wd:Q506266 a wd:Q169336 ;
+    rdfs:label "Oxyhydrogen"@en .
+
+wd:Q5073935 a wd:Q169336 ;
+    rdfs:label "charantin"@en .
+
+wd:Q5100929 a wd:Q37756 ;
+    rdfs:label "Chinese silver"@en .
+
+wd:Q5113830 a wd:Q37756 ;
+    rdfs:label "Chromium hydride"@en .
+
+wd:Q51160853 a wd:Q1924900 ;
+    rdfs:label "ferritic stainless steel"@en .
+
+wd:Q5137497 a wd:Q169336 ;
+    rdfs:label "atropine/diphenoxylate"@en .
+
+wd:Q5138700 a wd:Q37756 ;
+    rdfs:label "Cobalt-chrome"@en .
+
+wd:Q5139140 a wd:Q169336 ;
+    rdfs:label "cocamide"@en .
+
+wd:Q5139141 a wd:Q169336 ;
+    rdfs:label "Cocamide MEA"@en .
+
+wd:Q5139142 a wd:Q169336 ;
+    rdfs:label "cocamidopropyl hydroxysultaine"@en .
+
+wd:Q5145911 a wd:Q169336 ;
+    rdfs:label "Collagenase clostridium histolyticum"@en .
+
+wd:Q5268496 a wd:Q169336 ;
+    rdfs:label "Dextromethorphan/quinidine"@en .
+
+wd:Q5276885 a wd:Q169336 ;
+    rdfs:label "Dille–Koppanyi reagent"@en .
+
+wd:Q5277287 a wd:Q169336 ;
+    rdfs:label "Dimer acid"@en .
+
+wd:Q5282502 a wd:Q169336 ;
+    rdfs:label "disodium cocoamphodiacetate"@en .
+
+wd:Q528522 a wd:Q1070521 ;
+    rdfs:label "electrical steel"@en .
+
+wd:Q5299121 a wd:Q37756 ;
+    rdfs:label "doré bullion"@en .
+
+wd:Q5318829 a wd:Q37756 ;
+    rdfs:label "Dymalloy"@en .
+
+wd:Q5321427 a wd:Q37756 ;
+    rdfs:label "E-Material"@en .
+
+wd:Q5332139 a wd:Q169336 ;
+    rdfs:label "Ecalene"@en .
+
+wd:Q5340119 a wd:Q169336 ;
+    rdfs:label "Ednatol"@en .
+
+wd:Q5348061 a wd:Q1070521 ;
+    rdfs:label "Eglin steel"@en .
+
+wd:Q535814 a wd:Q169336 ;
+    rdfs:label "gum arabic"@en .
+
+wd:Q5368263 a wd:Q169336 ;
+    rdfs:label "Elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil"@en .
+
+wd:Q5378618 a wd:Q37756 ;
+    rdfs:label "English pewter"@en .
+
+wd:Q5383825 a wd:Q169336 ;
+    rdfs:label "epoxidized soybean oil"@en .
+
+wd:Q539571 a wd:Q169336 ;
+    rdfs:label "Olestra"@en .
+
+wd:Q5404439 a wd:Q169336 ;
+    rdfs:label "ethyl macadamiate"@en .
+
+wd:Q5426968 a wd:Q5447188 ;
+    rdfs:label "FOX reagent"@en .
+
+wd:Q5464244 a wd:Q5447188 ;
+    rdfs:label "Folch solution"@en .
+
+wd:Q5501695 a wd:Q37756 ;
+    rdfs:label "French Bronze"@en .
+
+wd:Q5505154 a wd:Q169336 ;
+    rdfs:label "Froehde reagent"@en .
+
+wd:Q55168081 a wd:Q169336 ;
+    rdfs:label "Pi"@en .
+
+wd:Q55172146 a wd:Q169336 ;
+    rdfs:label "Q55172146"^^xsd:string .
+
+wd:Q5519109 a wd:Q37756 ;
+    rdfs:label "Gallium manganese arsenide"@en .
+
+wd:Q5572537 a wd:Q169336 ;
+    rdfs:label "glycerine acetate"@en .
+
+wd:Q5572571 a wd:Q169336 ;
+    rdfs:label "Glyceryl behenate"@en .
+
+wd:Q5629071 a wd:Q169336 ;
+    rdfs:label "HC-12a"@en .
+
+wd:Q56408495 a wd:Q169336 ;
+    rdfs:label "Q56408495"^^xsd:string .
+
+wd:Q56462566 a wd:Q169336 ;
+    rdfs:label "CNS"@en .
+
+wd:Q56527185 a wd:Q169336 ;
+    rdfs:label "butirosin"@en .
+
+wd:Q5655886 rdfs:label "hardened steel"@en ;
+    rdfs:subClassOf wd:Q967996 .
+
+wd:Q5748837 a wd:Q169336 ;
+    rdfs:label "Hexanite"@en .
+
+wd:Q57660226 a wd:Q37756 ;
+    rdfs:label "ferroaluminum"@en .
+
+wd:Q58010668 a wd:Q169336 ;
+    rdfs:label "cocamidopropyl betaine"@en .
+
+wd:Q581334 a wd:Q169336 ;
+    rdfs:label "Fluticasone/salmeterol"@en .
+
+wd:Q583582 a wd:Q169336 ;
+    rdfs:label "mineral oil"@en .
+
+wd:Q58546032 a wd:Q169336 ;
+    rdfs:label "Octoxynol"@en .
+
+wd:Q59420980 a wd:Q169336 ;
+    rdfs:label "Q59420980"^^xsd:string .
+
+wd:Q5954738 a wd:Q169336 ;
+    rdfs:label "hydrocortisone butyrate"@en .
+
+wd:Q595557 a wd:Q169336 ;
+    rdfs:label "Marquis reagent"@en .
+
+wd:Q5965703 a wd:Q169336 ;
+    rdfs:label "Ishikawa reagent"@en .
+
+wd:Q5989617 a wd:Q37756 ;
+    rdfs:label "Magal"@en .
+
+wd:Q6004128 a wd:Q169336 ;
+    rdfs:label "Imipenem/cilastatin"@en .
+
+wd:Q60614862 a wd:Q169336 ;
+    rdfs:label "Q60614862"^^xsd:string .
+
+wd:Q60686624 a wd:Q169336 ;
+    rdfs:label "Rozen's reagent"@en .
+
+wd:Q6086270 a wd:Q169336 ;
+    rdfs:label "isopropyl jojobate"@en .
+
+wd:Q609621 a wd:Q169336 ;
+    rdfs:label "MAPP gas"@en .
+
+wd:Q60982962 a wd:Q169336 ;
+    rdfs:label "Q60982962"^^xsd:string .
+
+wd:Q6147773 a wd:Q169336 ;
+    rdfs:label "Tobramycin/dexamethasone"@en .
+
+wd:Q6153218 a wd:Q169336 ;
+    rdfs:label "Thromboplastin"@en .
+
+wd:Q61653285 a wd:Q169336 ;
+    rdfs:label "Candicidin"@en .
+
+wd:Q61954719 a wd:Q169336 ;
+    rdfs:label "bacitracin"@en .
+
+wd:Q61959095 a wd:Q169336 ;
+    rdfs:label "jojoba wax esters"@en .
+
+wd:Q620361 a wd:Q37756 ;
+    rdfs:label "sodium-potassium alloy"@en .
+
+wd:Q62109291 a wd:Q169336 ;
+    rdfs:label "Moringa oleifera extract"@en .
+
+wd:Q6269634 a wd:Q169336 ;
+    rdfs:label "jojoba alcohol"@en .
+
+wd:Q64006971 a wd:Q169336 ;
+    rdfs:label "Inert Gas 541"@en .
+
+wd:Q64211954 a wd:Q169336 ;
+    rdfs:label "Q64211954"^^xsd:string .
+
+wd:Q64358880 a wd:Q169336 ;
+    rdfs:label "Q64358880"^^xsd:string .
+
+wd:Q6457467 a wd:Q169336 ;
+    rdfs:label "LCZ696"@en .
+
+wd:Q64785360 a wd:Q169336 ;
+    rdfs:label "Cavea-B"@en .
+
+wd:Q6482030 a wd:Q169336 ;
+    rdfs:label "Lamivudine/zidovudine"@en .
+
+wd:Q649090 a wd:Q37756 ;
+    rdfs:label "cupronickel"@en .
+
+wd:Q654970 a wd:Q37756 ;
+    rdfs:label "Glucydur"@en .
+
+wd:Q6556738 a wd:Q169336 ;
+    rdfs:label "lipoplatin"@en .
+
+wd:Q66309894 rdfs:label "low-carbon steel"@en ;
+    rdfs:subClassOf wd:Q967996 .
+
+wd:Q664848 a wd:Q169336 ;
+    rdfs:label "forming gas"@en .
+
+wd:Q67195214 a wd:Q169336 ;
+    rdfs:label "sodium coco sulfate"@en .
+
+wd:Q6818687 a wd:Q37756 ;
+    rdfs:label "Mercury zinc telluride"@en .
+
+wd:Q6883982 a wd:Q169336 ;
+    rdfs:label "mixed liquor suspended solids"@en .
+
+wd:Q689464 a wd:Q169336 ;
+    rdfs:label "Armstrong's mixture"@en .
+
+wd:Q693323 a wd:Q37756 ;
+    rdfs:label "Mosaic gold"@en .
+
+wd:Q695975 a wd:Q169336 ;
+    rdfs:label "ammonium phosphatide"@en .
+
+wd:Q70111963 a wd:Q169336 ;
+    rdfs:label "chow"@en .
+
+wd:Q7028241 a wd:Q37756 ;
+    rdfs:label "Nickel Babbitt"@en .
+
+wd:Q7118917 a wd:Q169336 ;
+    rdfs:label "PEG-16 macadamia glycerides"@en .
+
+wd:Q7118918 a wd:Q169336 ;
+    rdfs:label "PEG-150 hydrogenated jojoba"@en .
+
+wd:Q7129023 a wd:Q169336 ;
+    rdfs:label "pamabrom"@en .
+
+wd:Q7131901 a wd:Q169336 ;
+    rdfs:label "Pantopon"@en .
+
+wd:Q7178974 a wd:Q169336 ;
+    rdfs:label "Petroleum naphtha"@en .
+
+wd:Q7202312 a wd:Q37756 ;
+    rdfs:label "Platinaire"@en .
+
+wd:Q7205706 a wd:Q37756 ;
+    rdfs:label "Plutonium-gallium alloy"@en .
+
+wd:Q72188495 a wd:Q169336 ;
+    rdfs:label "Echinacea extract"@en .
+
+wd:Q72289699 a wd:Q169336 ;
+    rdfs:label "aescin"@en .
+
+wd:Q72369525 a wd:Q169336 ;
+    rdfs:label "tyrocidine"@en .
+
+wd:Q72534076 a wd:Q169336 ;
+    rdfs:label "methylphenol fraction of tar acids"@en .
+
+wd:Q7263592 a wd:Q169336 ;
+    rdfs:label "Pyridoxine/doxylamine"@en .
+
+wd:Q7273257 a wd:Q169336 ;
+    rdfs:label "R-406A"@en .
+
+wd:Q7273258 a wd:Q169336 ;
+    rdfs:label "R-407A"@en .
+
+wd:Q72987121 a wd:Q169336 ;
+    rdfs:label "ostracitoxin"@en .
+
+wd:Q73040934 a wd:Q169336 ;
+    rdfs:label "helenin"@en .
+
+wd:Q731033 a wd:Q37756 ;
+    rdfs:label "orichalcum"@en .
+
+wd:Q732279 a wd:Q169336 ;
+    rdfs:label "pine tar oil"@en .
+
+wd:Q73259976 a wd:Q169336 ;
+    rdfs:label "schreckstoff"@en .
+
+wd:Q7391292 a wd:Q169336 ;
+    rdfs:label "air"@en .
+
+wd:Q74804390 a wd:Q169336 ;
+    rdfs:label "kanamycin (extract)"@en .
+
+wd:Q7531599 a wd:Q169336 ;
+    rdfs:label "Sitagliptin/metformin"@en .
+
+wd:Q754267 a wd:Q169336 ;
+    rdfs:label "respiratory poison"@en .
+
+wd:Q7546880 a wd:Q169336 ;
+    rdfs:label "snack mix"@en .
+
+wd:Q7553310 a wd:Q169336 ;
+    rdfs:label "sodium cocoate"@en .
+
+wd:Q7553350 a wd:Q169336 ;
+    rdfs:label "(C10-C16) alcohol ethoxylate sulfated sodium salt"@en .
+
+wd:Q7575919 a wd:Q37756 ;
+    rdfs:label "Spelter"@en .
+
+wd:Q7597226 a wd:Q169336 ;
+    rdfs:label "carbidopa / levodopa / entacapone"@en .
+
+wd:Q76703708 a wd:Q169336 ;
+    rdfs:label "Light oil (coal), semi-coking process"@en .
+
+wd:Q76704072 a wd:Q169336 ;
+    rdfs:label "Coke-oven light oil (coal)"@en .
+
+wd:Q76904 a wd:Q169336 ;
+    rdfs:label "kerosene"@en .
+
+wd:Q7697766 a wd:Q169336 ;
+    rdfs:label "Telmisartan/hydrochlorothiazide"@en .
+
+wd:Q7700570 a wd:Q169336 ;
+    rdfs:label "atenolol/chlorthalidone"@en .
+
+wd:Q7702941 a wd:Q37756 ;
+    rdfs:label "Terne"@en .
+
+wd:Q7706839 a wd:Q169336 ;
+    rdfs:label "Tetrytol"@en .
+
+wd:Q772913 a wd:Q37756 ;
+    rdfs:label "Devarda's alloy"@en .
+
+wd:Q7753433 a wd:Q37756 ;
+    rdfs:label "The Net"@en .
+
+wd:Q787157 a wd:Q37756 ;
+    rdfs:label "free machining steel"@en .
+
+wd:Q7883020 a wd:Q169336 ;
+    rdfs:label "undecoylium chloride"@en .
+
+wd:Q794304 a wd:Q37756 ;
+    rdfs:label "type metal"@en .
+
+wd:Q8050687 a wd:Q37756 ;
+    rdfs:label "YbGaGe"@en .
+
+wd:Q8072285 a wd:Q169336 ;
+    rdfs:label "zinc cadmium sulfide"@en .
+
+wd:Q8072304 a wd:Q169336 ;
+    rdfs:label "zinc proteinate"@en .
+
+wd:Q8180436 a wd:Q169336 ;
+    rdfs:label "Q8180436"^^xsd:string .
+
+wd:Q819450 a wd:Q169336 ;
+    rdfs:label "saponaria extract"@en .
+
+wd:Q836765 a wd:Q169336 ;
+    rdfs:label "glycerol ester of wood rosin"@en .
+
+wd:Q840688 a wd:Q169336 ;
+    rdfs:label "plasticine"@en .
+
+wd:Q852372 a wd:Q37756 ;
+    rdfs:label "pewter"@en .
+
+wd:Q85757811 a wd:Q37756 ;
+    rdfs:label "Ducol"@en .
+
+wd:Q860451 a wd:Q10772391,
+        wd:Q37756 ;
+    rdfs:label "wrought iron"@en .
+
+wd:Q863089 a wd:Q169336 ;
+    rdfs:label "pancreatic juice"@en .
+
+wd:Q863389 a wd:Q169336 ;
+    rdfs:label "Budesonide/formoterol"@en .
+
+wd:Q897 a wd:Q1924900 ;
+    rdfs:label "gold"@en .
+
+wd:Q897783 a wd:Q169336 ;
+    rdfs:label "jojoba oil"@en .
+
+wd:Q898391 a wd:Q169336 ;
+    rdfs:label "nitrox"@en .
+
+wd:Q898546 a wd:Q37756 ;
+    rdfs:label "Stellite"@en .
+
+wd:Q898562 a wd:Q37756 ;
+    rdfs:label "Inconel"@en .
+
+wd:Q898730 a wd:Q37756 ;
+    rdfs:label "Sendust"@en .
+
+wd:Q898806 a wd:Q169336 ;
+    rdfs:label "R-410A"@en .
+
+wd:Q898983 a wd:Q169336 ;
+    rdfs:label "naphtha"@en .
+
+wd:Q899314 a wd:Q169336 ;
+    rdfs:label "Lithopone"@en .
+
+wd:Q900446 a wd:Q169336 ;
+    rdfs:label "Q900446"^^xsd:string .
+
+wd:Q901475 a wd:Q37756 ;
+    rdfs:label "Sodium amalgam"@en .
+
+wd:Q901979 a wd:Q169336 ;
+    rdfs:label "Trimix"@en .
+
+wd:Q901990 a wd:Q37756 ;
+    rdfs:label "Kovar"@en .
+
+wd:Q902213 a wd:Q37756 ;
+    rdfs:label "Elinvar"@en .
+
+wd:Q902498 a wd:Q5447188 ;
+    rdfs:label "dense non-aqueous phase liquid"@en .
+
+wd:Q902540 a wd:Q37756 ;
+    rdfs:label "Supermalloy"@en .
+
+wd:Q902739 a wd:Q169336 ;
+    rdfs:label "Gelignite"@en .
+
+wd:Q903402 a wd:Q37756 ;
+    rdfs:label "Plessite"@en .
+
+wd:Q903442 a wd:Q5447188 ;
+    rdfs:label "Lucas' reagent"@en .
+
+wd:Q904352 a wd:Q169336 ;
+    rdfs:label "Hydreliox"@en .
+
+wd:Q904648 a wd:Q169336 ;
+    rdfs:label "glyceryl diacetate"@en .
+
+wd:Q904799 a wd:Q169336 ;
+    rdfs:label "dipropylene glycol"@en .
+
+wd:Q905246 a wd:Q37756 ;
+    rdfs:label "samarium–cobalt magnet"@en .
+
+wd:Q905850 a wd:Q169336 ;
+    rdfs:label "Mixed acid"@en .
+
+wd:Q905892 a wd:Q169336 ;
+    rdfs:label "Heliox"@en .
+
+wd:Q906733 a wd:Q37756 ;
+    rdfs:label "cadmium zinc telluride"@en .
+
+wd:Q908636 a wd:Q37756 ;
+    rdfs:label "Mischmetal"@en .
+
+wd:Q909312 a wd:Q37756 ;
+    rdfs:label "Q909312"^^xsd:string .
+
+wd:Q9097718 a wd:Q37756 ;
+    rdfs:label "Zinag"@en .
+
+wd:Q910503 a wd:Q37756 ;
+    rdfs:label "Vitallium"@en .
+
+wd:Q9141517 a wd:Q37756 ;
+    rdfs:label "Aeral"@en .
+
+wd:Q9150042 a wd:Q169336 ;
+    rdfs:label "amine 9D-178"@en .
+
+wd:Q9177720 a wd:Q169336 ;
+    rdfs:label "Q9177720"^^xsd:string .
+
+wd:Q9207471 a wd:Q169336 ;
+    rdfs:label "Q9207471"^^xsd:string .
+
+wd:Q923944 a wd:Q37756 ;
+    rdfs:label "ledeburite"@en .
+
+wd:Q9252996 a wd:Q5447188 ;
+    rdfs:label "Eluat"@en .
+
+wd:Q9254528 a wd:Q169336 ;
+    rdfs:label "ergotin"@en .
+
+wd:Q9284808 a wd:Q1070521 ;
+    rdfs:label "HY-80"@en .
+
+wd:Q9346015 a wd:Q37756 ;
+    rdfs:label "resistance alloy"@en .
+
+wd:Q935761 a wd:Q169336 ;
+    rdfs:label "Adderall"@en .
+
+wd:Q9361617 a wd:Q169336 ;
+    rdfs:label "Q9361617"^^xsd:string .
+
+wd:Q948232 a wd:Q169336 ;
+    rdfs:label "coal tar"@en .
+
+wd:Q9635292 a wd:Q169336 ;
+    rdfs:label "Simvastatin/sitagliptin"@en .
+
+wd:Q1924900 rdfs:label "metallic material"@en .
+
+wd:Q967996 a wd:Q1070521 ;
+    rdfs:label "carbon steel"@en ;
+    rdfs:subClassOf wd:Q11427 .
+
+wd:Q10772391 rdfs:label "ferrous alloy"@en ;
+    rdfs:subClassOf wd:Q37756 .
+
+wd:Q1070521 rdfs:label "alloy steel"@en ;
+    rdfs:subClassOf wd:Q10772391,
+        wd:Q11427 .
+
+wd:Q5447188 rdfs:label "solution"@en .
+
+wd:Q11427 rdfs:label "steel"@en ;
+    rdfs:subClassOf wd:Q10772391,
+        wd:Q37756 .
+
+wd:Q37756 rdfs:label "alloy"@en ;
+    rdfs:subClassOf wd:Q169336,
+        wd:Q1924900,
+        wd:Q5447188 .
+
+wd:Q169336 rdfs:label "mixture"@en .
+

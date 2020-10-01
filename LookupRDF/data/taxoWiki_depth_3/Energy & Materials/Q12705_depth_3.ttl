@@ -1,0 +1,771 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:P1108 a wd:Q4373292 ;
+    rdfs:label "electronegativity"@en .
+
+wd:Q1053121 a wd:Q128991 ;
+    rdfs:label "Cellulosic ethanol"@en .
+
+wd:Q1075 a wd:Q4373292 ;
+    rdfs:label "color"@en .
+
+wd:Q10861803 a wd:Q107715 ;
+    rdfs:label "Q10861803"^^xsd:string .
+
+wd:Q1125947 rdfs:label "ocean thermal energy conversion"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q1142730 a wd:Q107715 ;
+    rdfs:label "cycle threshold"@en .
+
+wd:Q11430 a wd:Q4373292 ;
+    rdfs:label "state of matter"@en .
+
+wd:Q114817 a wd:Q107715 ;
+    rdfs:label "surface roughness"@en .
+
+wd:Q11567495 a wd:Q4373292 ;
+    rdfs:label "colorlessness"@en .
+
+wd:Q11696597 a wd:Q43302 ;
+    rdfs:label "wind power in Belarus"@en .
+
+wd:Q11826105 a wd:Q107715 ;
+    rdfs:label "Q11826105"^^xsd:string .
+
+wd:Q11919257 rdfs:label "Q11919257"^^xsd:string ;
+    rdfs:subClassOf wd:Q40015 .
+
+wd:Q11919258 rdfs:label "Q11919258"^^xsd:string ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q11985376 a wd:Q107715 ;
+    rdfs:label "Q11985376"^^xsd:string .
+
+wd:Q11985693 a wd:Q107715 ;
+    rdfs:label "Q11985693"^^xsd:string .
+
+wd:Q12020988 a wd:Q107715 ;
+    rdfs:label "Q12020988"^^xsd:string .
+
+wd:Q12021594 a wd:Q107715 ;
+    rdfs:label "Q12021594"^^xsd:string .
+
+wd:Q12027970 rdfs:label "liquid biofuel"@en ;
+    rdfs:subClassOf wd:Q128991 .
+
+wd:Q12036173 a wd:Q107715 ;
+    rdfs:label "Q12036173"^^xsd:string .
+
+wd:Q12045669 rdfs:label "gas biofuel"@en ;
+    rdfs:subClassOf wd:Q128991 .
+
+wd:Q12049177 a wd:Q107715 ;
+    rdfs:label "Specific Gravity"@en .
+
+wd:Q12055746 a wd:Q107715 ;
+    rdfs:label "Q12055746"^^xsd:string .
+
+wd:Q12056477 a wd:Q107715 ;
+    rdfs:label "storativity"@en .
+
+wd:Q12058674 a wd:Q107715 ;
+    rdfs:label "Q12058674"^^xsd:string .
+
+wd:Q12059077 a wd:Q107715 ;
+    rdfs:label "Q12059077"^^xsd:string .
+
+wd:Q12059078 a wd:Q107715 ;
+    rdfs:label "Q12059078"^^xsd:string .
+
+wd:Q12059129 a wd:Q107715 ;
+    rdfs:label "Q12059129"^^xsd:string .
+
+wd:Q12059858 rdfs:label "solid biofuel"@en ;
+    rdfs:subClassOf wd:Q128991 .
+
+wd:Q12142893 a wd:Q107715 ;
+    rdfs:label "rate of liquid flow"@en .
+
+wd:Q1230529 a wd:Q107715 ;
+    rdfs:label "Q1230529"^^xsd:string .
+
+wd:Q12559031 a wd:Q181175 ;
+    rdfs:label "potential"@en .
+
+wd:Q1277412 a wd:Q309314 ;
+    rdfs:label "water consumption"@en .
+
+wd:Q12774754 a wd:Q107715 ;
+    rdfs:label "Q12774754"^^xsd:string .
+
+wd:Q12775200 a wd:Q107715 ;
+    rdfs:label "Q12775200"^^xsd:string .
+
+wd:Q129609 a wd:Q107715 ;
+    rdfs:label "Q10"@en .
+
+wd:Q12990105 rdfs:label "jatropha oil"@en ;
+    rdfs:subClassOf wd:Q128991 .
+
+wd:Q13365548 a wd:Q4373292 ;
+    rdfs:label "graphics display resolution"@en .
+
+wd:Q13424566 a wd:Q107715 ;
+    rdfs:label "Q13424566"^^xsd:string .
+
+wd:Q1342552 rdfs:label "algae fuel"@en ;
+    rdfs:subClassOf wd:Q128991 .
+
+wd:Q13433825 a wd:Q107715 ;
+    rdfs:label "emotional quotient"@en .
+
+wd:Q13446392 a wd:Q107715 ;
+    rdfs:label "buffer capacity"@en .
+
+wd:Q13895363 a wd:Q309314 ;
+    rdfs:label "Q13895363"^^xsd:string .
+
+wd:Q1396651 a wd:Q4373292 ;
+    rdfs:label "infrared excess"@en .
+
+wd:Q15230792 a wd:Q107715 ;
+    rdfs:label "intrinsic brightness"@en .
+
+wd:Q1540011 a wd:Q4373292 ;
+    rdfs:label "specific storage"@en .
+
+wd:Q159190 a wd:Q107715 ;
+    rdfs:label "amplitude"@en .
+
+wd:Q1639747 rdfs:label "phytomass"@en ;
+    rdfs:subClassOf wd:Q18537 .
+
+wd:Q165074 a wd:Q107715 ;
+    rdfs:label "parallax"@en .
+
+wd:Q16635541 a wd:Q4373292 ;
+    rdfs:label "absorptance"@en .
+
+wd:Q16719623 a wd:Q107715,
+        wd:Q3386703 ;
+    rdfs:label "Q16719623"^^xsd:string .
+
+wd:Q17015303 rdfs:label "renewable energy in Taiwan"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q17103104 a wd:Q4373292 ;
+    rdfs:label "Mandel Q Parameter"@en .
+
+wd:Q17121302 a wd:Q107715 ;
+    rdfs:label "Wigner–Seitz radius"@en .
+
+wd:Q17334923 a wd:Q4373292 ;
+    rdfs:label "location"@en .
+
+wd:Q1737958 a wd:Q107715 ;
+    rdfs:label "Germination rate"@en .
+
+wd:Q1768800 a wd:Q1477711 ;
+    rdfs:label "Stronsay Beast"@en .
+
+wd:Q179615 a wd:Q4373292 ;
+    rdfs:label "salinity"@en .
+
+wd:Q18352621 a wd:Q4373292 ;
+    rdfs:label "Antifragility"@en .
+
+wd:Q18408015 a wd:Q107715 ;
+    rdfs:label "Q18408015"^^xsd:string .
+
+wd:Q18465415 a wd:Q80638 ;
+    rdfs:label "Q18465415"^^xsd:string .
+
+wd:Q18564568 a wd:Q107715 ;
+    rdfs:label "optical permeability"@en .
+
+wd:Q1884383 a wd:Q4373292 ;
+    rdfs:label "Tunnel magnetoresistance"@en .
+
+wd:Q189623 a wd:Q107715 ;
+    rdfs:label "zenithal hourly rate"@en .
+
+wd:Q1896478 rdfs:label "wind power in the Netherlands"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q192905 a wd:Q4373292 ;
+    rdfs:label "water hardness"@en .
+
+wd:Q1937903 rdfs:label "marine current power"@en ;
+    rdfs:subClassOf wd:Q170196,
+        wd:Q1887075 .
+
+wd:Q19702860 a wd:Q107715 ;
+    rdfs:label "Q19702860"^^xsd:string .
+
+wd:Q19967663 a wd:Q107715 ;
+    rdfs:label "shear"@en .
+
+wd:Q20057856 a wd:Q107715 ;
+    rdfs:label "Q20057856"^^xsd:string .
+
+wd:Q2031181 a wd:Q107715 ;
+    rdfs:label "Hubble's constant"@en .
+
+wd:Q205880 a wd:Q107715 ;
+    rdfs:label "circulation (fluid dynamics)"@en .
+
+wd:Q21013875 a wd:Q107715 ;
+    rdfs:label "Q21013875"^^xsd:string .
+
+wd:Q210521 a wd:Q4373292 ;
+    rdfs:label "image resolution"@en .
+
+wd:Q2133472 a wd:Q107715 ;
+    rdfs:label "spectral flatness"@en .
+
+wd:Q2142347 a wd:Q107715 ;
+    rdfs:label "environmental factor"@en .
+
+wd:Q21652129 a wd:Q107715,
+        wd:Q3386703 ;
+    rdfs:label "Gravitational field strength"@en .
+
+wd:Q217030 a wd:Q4373292 ;
+    rdfs:label "metallicity"@en .
+
+wd:Q2244324 a wd:Q107715 ;
+    rdfs:label "Q2244324"^^xsd:string .
+
+wd:Q22770823 a wd:Q107715 ;
+    rdfs:label "Q22770823"^^xsd:string .
+
+wd:Q2305173 a wd:Q4373292 ;
+    rdfs:label "chirality"@en .
+
+wd:Q2308794 rdfs:label "renewable energy in Spain"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q2347607 rdfs:label "Wind power in Sweden"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q23581230 a wd:Q80638 ;
+    rdfs:label "Japanese Hydro-electric Power Plant"@en .
+
+wd:Q23583744 rdfs:label "wind power in South Korea"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q2379408 a wd:Q107715 ;
+    rdfs:label "Q2379408"^^xsd:string .
+
+wd:Q2423940 a wd:Q107715 ;
+    rdfs:label "Q2423940"^^xsd:string .
+
+wd:Q2464746 rdfs:label "wind power in Denmark"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q24714833 a wd:Q107715 ;
+    rdfs:label "volatile random-access memory capacity"@en .
+
+wd:Q2488244 rdfs:label "Liquefied Bio Gas"@en ;
+    rdfs:subClassOf wd:Q171076 .
+
+wd:Q2490338 rdfs:label "wind power in the European Union"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q2520404 rdfs:label "renewable energy in the European Union"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q25226758 rdfs:label "renewable energy in Oceania"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q25326882 rdfs:label "Hot dry rock geothermal energy"@en ;
+    rdfs:subClassOf wd:Q127993 .
+
+wd:Q255119 a wd:Q107715 ;
+    rdfs:label "Änderungsrate"@en .
+
+wd:Q2555508 a wd:Q107715 ;
+    rdfs:label "topness"@en .
+
+wd:Q256699 a wd:Q4373292 ;
+    rdfs:label "permeability"@en .
+
+wd:Q25906188 a wd:Q107715 ;
+    rdfs:label "arid capacity"@en .
+
+wd:Q2593282 a wd:Q4373292 ;
+    rdfs:label "Antiferroelectricity"@en .
+
+wd:Q2623005 a wd:Q107715 ;
+    rdfs:label "spacetime interval"@en .
+
+wd:Q2639469 rdfs:label "wind power in the United States"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q26534 a wd:Q309314 ;
+    rdfs:label "water footprint"@en .
+
+wd:Q2783041 a wd:Q4373292 ;
+    rdfs:label "hydraulic conductivity"@en .
+
+wd:Q28146413 a wd:Q107715 ;
+    rdfs:label "Q28146413"^^xsd:string .
+
+wd:Q29856937 a wd:Q107715 ;
+    rdfs:label "Q29856937"^^xsd:string .
+
+wd:Q2989745 a wd:Q107715 ;
+    rdfs:label "Q2989745"^^xsd:string .
+
+wd:Q2991848 rdfs:label "wind power in Germany"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q2995540 a wd:Q107715 ;
+    rdfs:label "Liquid water content"@en .
+
+wd:Q30601968 a wd:Q107715 ;
+    rdfs:label "color index"@en .
+
+wd:Q3080293 a wd:Q107715 ;
+    rdfs:label "isotope fractionation"@en .
+
+wd:Q309017 a wd:Q4373292 ;
+    rdfs:label "electrical conductance"@en .
+
+wd:Q3109025 a wd:Q127993 ;
+    rdfs:label "The Geysers"@en .
+
+wd:Q3198926 a wd:Q107715 ;
+    rdfs:label "Q3198926"^^xsd:string .
+
+wd:Q320067 a wd:Q181175 ;
+    rdfs:label "Q320067"^^xsd:string .
+
+wd:Q32032 a wd:Q107715 ;
+    rdfs:label "net"@en .
+
+wd:Q3215493 rdfs:label "geothermal power"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q3217120 a wd:Q107715 ;
+    rdfs:label "Q3217120"^^xsd:string .
+
+wd:Q3257842 a wd:Q4373292 ;
+    rdfs:label "logD"@en .
+
+wd:Q3306785 rdfs:label "sustainable biofuels"@en ;
+    rdfs:subClassOf wd:Q128991 .
+
+wd:Q3323043 rdfs:label "renewable energy in Germany"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q3363554 a wd:Q4373292 ;
+    rdfs:label "deceleration parameter"@en .
+
+wd:Q3419689 a wd:Q4373292 ;
+    rdfs:label "mass-to-light ratio"@en .
+
+wd:Q3447366 a wd:Q107715 ;
+    rdfs:label "Q3447366"^^xsd:string .
+
+wd:Q3495388 a wd:Q4373292 ;
+    rdfs:label "Q3495388"^^xsd:string .
+
+wd:Q350205 a wd:Q107715 ;
+    rdfs:label "income"@en .
+
+wd:Q3503313 a wd:Q4373292 ;
+    rdfs:label "power density"@en .
+
+wd:Q3564806 a wd:Q107715 ;
+    rdfs:label "Q3564806"^^xsd:string .
+
+wd:Q356865 a wd:Q4373292 ;
+    rdfs:label "adiabasie"@en .
+
+wd:Q3588999 rdfs:label "Wind power in Iran"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q3683519 rdfs:label "oscillating water column"@en ;
+    rdfs:subClassOf wd:Q208554 .
+
+wd:Q3725306 rdfs:label "renewable energy in Africa"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q382783 a wd:Q107715 ;
+    rdfs:label "chemical affinity"@en .
+
+wd:Q383911 a wd:Q12705 ;
+    rdfs:label "Falck Group"@en .
+
+wd:Q385817 rdfs:label "passive solar building design"@en ;
+    rdfs:subClassOf wd:Q40015 .
+
+wd:Q3879445 a wd:Q107715 ;
+    rdfs:label "spin quantum number"@en .
+
+wd:Q3900742 a wd:Q4373292 ;
+    rdfs:label "formula weight"@en .
+
+wd:Q39076312 a wd:Q107715 ;
+    rdfs:label "Q39076312"^^xsd:string .
+
+wd:Q3983428 a wd:Q4373292 ;
+    rdfs:label "tenebrescence"@en .
+
+wd:Q4016091 a wd:Q4373292 ;
+    rdfs:label "Q4016091"^^xsd:string .
+
+wd:Q4110086 rdfs:label "wind power in Canada"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q4116742 rdfs:label "clean energy"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q4185038 rdfs:label "shrouded tidal turbine"@en ;
+    rdfs:subClassOf wd:Q3250943 .
+
+wd:Q41853520 a wd:Q4373292 ;
+    rdfs:label "hydrophilicity"@en .
+
+wd:Q41854968 a wd:Q4373292 ;
+    rdfs:label "hydrophobicity"@en .
+
+wd:Q4227664 a wd:Q107715 ;
+    rdfs:label "vibrational speed"@en .
+
+wd:Q4367950 a wd:Q4373292 ;
+    rdfs:label "Q4367950"^^xsd:string .
+
+wd:Q4530817 a wd:Q107715 ;
+    rdfs:label "Q4530817"^^xsd:string .
+
+wd:Q4538627 a wd:Q4373292 ;
+    rdfs:label "brightness temperature"@en .
+
+wd:Q4669819 a wd:Q107715 ;
+    rdfs:label "absolute molar mass"@en .
+
+wd:Q47037274 rdfs:label "bioethanol"@en ;
+    rdfs:subClassOf wd:Q128991 .
+
+wd:Q4769688 a wd:Q107715 ;
+    rdfs:label "Annual fuel utilization efficiency"@en .
+
+wd:Q48469016 a wd:Q4373292 ;
+    rdfs:label "internal pressure"@en .
+
+wd:Q48841175 rdfs:label "renewable energy in Vietnam"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q4887162 rdfs:label "airborne wind energy"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q491774 a wd:Q107715 ;
+    rdfs:label "tonnage"@en .
+
+wd:Q5046374 a wd:Q107715 ;
+    rdfs:label "Carrier lifetime"@en .
+
+wd:Q522344 a wd:Q309314 ;
+    rdfs:label "score"@en .
+
+wd:Q5315065 rdfs:label "dung cake"@en ;
+    rdfs:subClassOf wd:Q128991 .
+
+wd:Q54031484 a wd:Q309314 ;
+    rdfs:label "chromosome number"@en .
+
+wd:Q54235419 a wd:Q4373292 ;
+    rdfs:label "charge distribution"@en .
+
+wd:Q5459047 a wd:Q4373292 ;
+    rdfs:label "flexural modulus"@en .
+
+wd:Q55737783 a wd:Q181175 ;
+    rdfs:label "Q55737783"^^xsd:string .
+
+wd:Q5604179 a wd:Q107715 ;
+    rdfs:label "bottomness"@en .
+
+wd:Q5609556 a wd:Q4373292 ;
+    rdfs:label "grip"@en .
+
+wd:Q56297898 a wd:Q107715 ;
+    rdfs:label "nuclear reaction rate"@en .
+
+wd:Q568855 a wd:Q107715 ;
+    rdfs:label "helicity"@en .
+
+wd:Q5693253 a wd:Q107715 ;
+    rdfs:label "heat capacity rate"@en .
+
+wd:Q57594575 a wd:Q4373292 ;
+    rdfs:label "flexural strain at break"@en .
+
+wd:Q58482124 a wd:Q4373292 ;
+    rdfs:label "crispy"@en .
+
+wd:Q59325137 a wd:Q4373292 ;
+    rdfs:label "Oil stability"@en .
+
+wd:Q61029267 a wd:Q309314 ;
+    rdfs:label "rest of the world"@en .
+
+wd:Q61637704 rdfs:label "offshore wind power"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q63248009 rdfs:label "renewable energy in Chile"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q63363573 rdfs:label "horizontal axis tidal turbine"@en ;
+    rdfs:subClassOf wd:Q3250943 .
+
+wd:Q63363632 rdfs:label "vertical axis tidal turbine"@en ;
+    rdfs:subClassOf wd:Q3250943 .
+
+wd:Q63363679 rdfs:label "hydrofoil tidal generator"@en ;
+    rdfs:subClassOf wd:Q3250943 .
+
+wd:Q63363710 rdfs:label "enclosed tidal generator"@en ;
+    rdfs:subClassOf wd:Q3250943 .
+
+wd:Q63363745 rdfs:label "Archimedes screw tidal generator"@en ;
+    rdfs:subClassOf wd:Q3250943 .
+
+wd:Q63363781 rdfs:label "tidal kite"@en ;
+    rdfs:subClassOf wd:Q3250943 .
+
+wd:Q63367036 rdfs:label "attenuator"@en ;
+    rdfs:subClassOf wd:Q208554 .
+
+wd:Q63367054 rdfs:label "point absorber"@en ;
+    rdfs:subClassOf wd:Q208554 .
+
+wd:Q63367137 rdfs:label "oscillating wave surge converter"@en ;
+    rdfs:subClassOf wd:Q208554 .
+
+wd:Q63367204 rdfs:label "overtopping device"@en ;
+    rdfs:subClassOf wd:Q208554 .
+
+wd:Q63367211 rdfs:label "submerged pressure differential device"@en ;
+    rdfs:subClassOf wd:Q208554 .
+
+wd:Q63367217 rdfs:label "bulge wave device"@en ;
+    rdfs:subClassOf wd:Q208554 .
+
+wd:Q63367226 rdfs:label "rotating mass wave device"@en ;
+    rdfs:subClassOf wd:Q208554 .
+
+wd:Q63848018 a wd:Q18556 ;
+    rdfs:label "Biofuel in Ukraine"@en .
+
+wd:Q647631 a wd:Q107715 ;
+    rdfs:label "constant of motion"@en .
+
+wd:Q64876327 a wd:Q107715 ;
+    rdfs:label "vertical separation"@en .
+
+wd:Q65171125 rdfs:label "wind power in Vietnam"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q65706151 rdfs:label "Q65706151"^^xsd:string ;
+    rdfs:subClassOf wd:Q40015 .
+
+wd:Q66033606 a wd:Q4373292 ;
+    rdfs:label "undyed"@en .
+
+wd:Q66061119 a wd:Q309314 ;
+    rdfs:label "contact area count"@en .
+
+wd:Q69428534 a wd:Q107715 ;
+    rdfs:label "x-ray exposure"@en .
+
+wd:Q69428825 a wd:Q107715 ;
+    rdfs:label "gamma-ray exposure"@en .
+
+wd:Q69429678 a wd:Q107715 ;
+    rdfs:label "catalytic activity concentration"@en .
+
+wd:Q7115956 a wd:Q107715 ;
+    rdfs:label "oxygen permeability"@en .
+
+wd:Q7265671 a wd:Q107715 ;
+    rdfs:label "Q value"@en .
+
+wd:Q7313108 rdfs:label "renewable energy in Russia"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q735075 a wd:Q107715 ;
+    rdfs:label "self-information"@en .
+
+wd:Q736895 a wd:Q309314 ;
+    rdfs:label "compressibility factor"@en .
+
+wd:Q739293 a wd:Q4373292 ;
+    rdfs:label "barotropic fluid"@en .
+
+wd:Q76950347 a wd:Q80638 ;
+    rdfs:label "Central Hidroeléctrica de Jugais"@en .
+
+wd:Q777830 a wd:Q107715 ;
+    rdfs:label "Q777830"^^xsd:string .
+
+wd:Q7833972 a wd:Q107715 ;
+    rdfs:label "Transepidermal water loss"@en .
+
+wd:Q8021740 rdfs:label "Willie Nelson Biodiesel"@en ;
+    rdfs:subClassOf wd:Q128991 .
+
+wd:Q8023991 rdfs:label "wind power in Australia"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q8023998 rdfs:label "Wind power in Greece"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q8024038 rdfs:label "wind power in South Australia"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q8024044 rdfs:label "wind power in the Philippines"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q8235394 a wd:Q107715 ;
+    rdfs:label "Q8235394"^^xsd:string .
+
+wd:Q82461363 a wd:Q128991 ;
+    rdfs:label "Q82461363"^^xsd:string .
+
+wd:Q842250 rdfs:label "Wind power in the People's Republic of China"@en ;
+    rdfs:subClassOf wd:Q43302 .
+
+wd:Q844840 a wd:Q4373292 ;
+    rdfs:label "spin-transfer torque"@en .
+
+wd:Q8535828 a wd:Q107715 ;
+    rdfs:label "Q8535828"^^xsd:string .
+
+wd:Q854659 a wd:Q107715 ;
+    rdfs:label "gain"@en .
+
+wd:Q857201 a wd:Q4373292 ;
+    rdfs:label "flexural strength"@en .
+
+wd:Q858318 a wd:Q4373292 ;
+    rdfs:label "pyroelectricity"@en .
+
+wd:Q859031 a wd:Q107715 ;
+    rdfs:label "stimulus"@en .
+
+wd:Q889514 a wd:Q107715 ;
+    rdfs:label "crop yield"@en .
+
+wd:Q898401 a wd:Q4373292 ;
+    rdfs:label "lipophilicity"@en .
+
+wd:Q898797 a wd:Q4373292 ;
+    rdfs:label "partition coefficient"@en .
+
+wd:Q899046 a wd:Q107715 ;
+    rdfs:label "Extent of reaction"@en .
+
+wd:Q900522 a wd:Q107715 ;
+    rdfs:label "ozone depletion potential"@en .
+
+wd:Q901028 a wd:Q107715 ;
+    rdfs:label "global warming potential"@en .
+
+wd:Q902301 a wd:Q107715 ;
+    rdfs:label "Multiplicity"@en .
+
+wd:Q907364 a wd:Q4373292 ;
+    rdfs:label "polymorphism"@en .
+
+wd:Q907564 a wd:Q4373292 ;
+    rdfs:label "electrolytic conductivity"@en .
+
+wd:Q908990 a wd:Q4373292 ;
+    rdfs:label "volatility"@en .
+
+wd:Q11379 rdfs:label "energy"@en ;
+    rdfs:subClassOf wd:Q107715,
+        wd:Q181175,
+        wd:Q3386703 .
+
+wd:Q1289248 rdfs:label "scalar"@en .
+
+wd:Q1477711 rdfs:label "Globster"@en ;
+    rdfs:subClassOf wd:Q18537 .
+
+wd:Q171076 rdfs:label "biogas"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q184037 rdfs:label "tidal energy"@en ;
+    rdfs:subClassOf wd:Q12705,
+        wd:Q170196 .
+
+wd:Q18556 rdfs:label "bioenergy"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q1887075 rdfs:label "marine energy"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q21855572 rdfs:label "additive object"@en .
+
+wd:Q127993 rdfs:label "geothermal energy"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q18537 rdfs:label "biomass"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q71550118 rdfs:label "individual quantity"@en .
+
+wd:Q3386703 rdfs:label "extensive quantity"@en ;
+    rdfs:subClassOf wd:Q107715,
+        wd:Q21855572,
+        wd:Q4373292,
+        wd:Q71550118 .
+
+wd:Q40015 rdfs:label "solar energy"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q80638 rdfs:label "hydroelectricity"@en ;
+    rdfs:subClassOf wd:Q12705,
+        wd:Q170196 .
+
+wd:Q170196 rdfs:label "hydropower"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q181175 rdfs:label "scalar physical quantity"@en ;
+    rdfs:subClassOf wd:Q107715,
+        wd:Q1289248 .
+
+wd:Q3250943 rdfs:label "tidal stream generator"@en ;
+    rdfs:subClassOf wd:Q184037 .
+
+wd:Q208554 rdfs:label "wave power"@en ;
+    rdfs:subClassOf wd:Q12705,
+        wd:Q170196 .
+
+wd:Q309314 rdfs:label "quantity"@en .
+
+wd:Q128991 rdfs:label "biofuel"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q43302 rdfs:label "wind power"@en ;
+    rdfs:subClassOf wd:Q12705 .
+
+wd:Q12705 rdfs:label "renewable energy"@en ;
+    rdfs:subClassOf wd:Q11379 .
+
+wd:Q4373292 rdfs:label "physical property"@en .
+
+wd:Q107715 rdfs:label "physical quantity"@en ;
+    rdfs:subClassOf wd:Q309314,
+        wd:Q4373292,
+        wd:Q71550118 .
+

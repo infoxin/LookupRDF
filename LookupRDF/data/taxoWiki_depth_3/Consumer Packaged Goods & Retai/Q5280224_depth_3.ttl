@@ -1,0 +1,386 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1023878 a wd:Q1979154 ;
+    rdfs:label "Q1023878"^^xsd:string .
+
+wd:Q1038500 a wd:Q1979154 ;
+    rdfs:label "ADDIE Model"@en .
+
+wd:Q10513064 a wd:Q1979154 ;
+    rdfs:label "HIRLAM"@en .
+
+wd:Q1059844 a wd:Q815823 ;
+    rdfs:label "patent troll"@en .
+
+wd:Q10614559 a wd:Q1979154 ;
+    rdfs:label "PROPS"@en .
+
+wd:Q1072976 a wd:Q1979154 ;
+    rdfs:label "reproduction"@en .
+
+wd:Q1105053 a wd:Q1979154 ;
+    rdfs:label "Cochemer model"@en .
+
+wd:Q1124860 a wd:Q815823 ;
+    rdfs:label "donation"@en .
+
+wd:Q112837 a wd:Q1979154 ;
+    rdfs:label "horseshoe theory"@en .
+
+wd:Q11699150 a wd:Q1979154 ;
+    rdfs:label "GSCF"@en .
+
+wd:Q11880252 a wd:Q1979154 ;
+    rdfs:label "MAPA"@en .
+
+wd:Q11934307 a wd:Q1979154 ;
+    rdfs:label "Q11934307"^^xsd:string .
+
+wd:Q12031293 a wd:Q1979154 ;
+    rdfs:label "Q12031293"^^xsd:string .
+
+wd:Q12032714 a wd:Q1979154 ;
+    rdfs:label "Langweil’s Model of Prague"@en .
+
+wd:Q1203807 a wd:Q1979154 ;
+    rdfs:label "Earth ellipsoid"@en .
+
+wd:Q12046862 a wd:Q1979154 ;
+    rdfs:label "Q12046862"^^xsd:string .
+
+wd:Q1255650 a wd:Q1979154 ;
+    rdfs:label "Karpman drama triangle"@en .
+
+wd:Q1267167 a wd:Q1979154 ;
+    rdfs:label "Kübler-Ross model"@en .
+
+wd:Q12872014 a wd:Q1979154 ;
+    rdfs:label "TOE framework"@en .
+
+wd:Q1335878 a wd:Q1979154 ;
+    rdfs:label "reference ellipsoid"@en .
+
+wd:Q1367082 a wd:Q1979154 ;
+    rdfs:label "Multi-licensing"@en .
+
+wd:Q1393677 a wd:Q1979154 ;
+    rdfs:label "Business Model Canvas"@en .
+
+wd:Q1393955 a wd:Q1979154 ;
+    rdfs:label "Tuckman's stages of group development"@en .
+
+wd:Q1414510 a wd:Q815823 ;
+    rdfs:label "free-to-play"@en .
+
+wd:Q1424110 a wd:Q1979154 ;
+    rdfs:label "Q1424110"^^xsd:string .
+
+wd:Q1439882 a wd:Q815823 ;
+    rdfs:label "foundry model"@en .
+
+wd:Q1509795 a wd:Q1979154 ;
+    rdfs:label "multiregional origin of modern humans"@en .
+
+wd:Q1523128 a wd:Q1979154 ;
+    rdfs:label "Van Laar equation"@en .
+
+wd:Q1592380 a wd:Q1979154 ;
+    rdfs:label "Lasswell's model of communication"@en .
+
+wd:Q163310 a wd:Q1979154 ;
+    rdfs:label "Turing machine"@en .
+
+wd:Q163701 a wd:Q1979154 ;
+    rdfs:label "Supply-chain operations reference"@en .
+
+wd:Q1640064 a wd:Q1979154 ;
+    rdfs:label "Social model of disability"@en .
+
+wd:Q1654615 a wd:Q1979154 ;
+    rdfs:label "ISIS12"@en .
+
+wd:Q17042291 a wd:Q815823 ;
+    rdfs:label "early access"@en .
+
+wd:Q17121671 a wd:Q815823 ;
+    rdfs:label "Pay what you can"@en .
+
+wd:Q17525156 a wd:Q1979154 ;
+    rdfs:label "Q17525156"^^xsd:string .
+
+wd:Q1781441 a wd:Q1979154 ;
+    rdfs:label "Friedrich Glasl's Model of Conflict Escalation"@en .
+
+wd:Q18413018 a wd:Q815823 ;
+    rdfs:label "Servitization of products business model"@en .
+
+wd:Q184850 a wd:Q1979154 ;
+    rdfs:label "indicator value"@en .
+
+wd:Q1850420 a wd:Q1979154 ;
+    rdfs:label "Responsibility assignment matrix"@en .
+
+wd:Q18713900 a wd:Q1979154 ;
+    rdfs:label "Cycle of Beau de Rochas"@en .
+
+wd:Q20755736 a wd:Q1979154 ;
+    rdfs:label "Q20755736"^^xsd:string .
+
+wd:Q21086338 a wd:Q1979154 ;
+    rdfs:label "Wave Prediction Model"@en .
+
+wd:Q219908 a wd:Q1979154 ;
+    rdfs:label "concentric zone model"@en .
+
+wd:Q2226867 a wd:Q815823 ;
+    rdfs:label "Design & Engineering Methodology for Organizations"@en .
+
+wd:Q2248439 a wd:Q1979154 ;
+    rdfs:label "gravity model of migration"@en .
+
+wd:Q2254405 a wd:Q1979154 ;
+    rdfs:label "Michigan model of Kaplan"@en .
+
+wd:Q2267171 a wd:Q1979154 ;
+    rdfs:label "MOSCED"@en .
+
+wd:Q2269229 a wd:Q1979154 ;
+    rdfs:label "triangle of reference"@en .
+
+wd:Q22826110 a wd:Q1979154 ;
+    rdfs:label "GloVe"@en .
+
+wd:Q2330356 a wd:Q1979154 ;
+    rdfs:label "Q2330356"^^xsd:string .
+
+wd:Q2351928 a wd:Q1979154 ;
+    rdfs:label "Information model Spatial Planning"@en .
+
+wd:Q24076418 a wd:Q1979154 ;
+    rdfs:label "past, present, and future"@en .
+
+wd:Q24260195 a wd:Q1979154 ;
+    rdfs:label "The CIPO-model"@en .
+
+wd:Q2435125 a wd:Q1979154 ;
+    rdfs:label "hard spheres"@en .
+
+wd:Q2440826 a wd:Q1979154 ;
+    rdfs:label "Q2440826"^^xsd:string .
+
+wd:Q2472721 a wd:Q1979154 ;
+    rdfs:label "Swiss cheese model"@en .
+
+wd:Q2480915 a wd:Q815823 ;
+    rdfs:label "Q2480915"^^xsd:string .
+
+wd:Q2523690 a wd:Q1979154 ;
+    rdfs:label "Q2523690"^^xsd:string .
+
+wd:Q25382084 a wd:Q1979154 ;
+    rdfs:label "tactile model"@en .
+
+wd:Q25387850 a wd:Q1979154 ;
+    rdfs:label "Q25387850"^^xsd:string .
+
+wd:Q2545759 a wd:Q1979154 ;
+    rdfs:label "TNO intestinal model"@en .
+
+wd:Q2555816 a wd:Q815823 ;
+    rdfs:label "web-based"@en .
+
+wd:Q2559483 a wd:Q1979154 ;
+    rdfs:label "competitiveness model"@en .
+
+wd:Q2607729 a wd:Q815823 ;
+    rdfs:label "multi-utility"@en .
+
+wd:Q2617832 a wd:Q1979154 ;
+    rdfs:label "Poincaré disk model"@en .
+
+wd:Q2684599 a wd:Q1979154 ;
+    rdfs:label "Q2684599"^^xsd:string .
+
+wd:Q27134988 a wd:Q815823 ;
+    rdfs:label "Customer development"@en .
+
+wd:Q2770103 a wd:Q1979154 ;
+    rdfs:label "meta model"@en .
+
+wd:Q2788747 a wd:Q1979154 ;
+    rdfs:label "digital terrain model"@en .
+
+wd:Q28585339 a wd:Q1979154 ;
+    rdfs:label "Liberty"@en .
+
+wd:Q290453 a wd:Q1979154 ;
+    rdfs:label "polder model"@en .
+
+wd:Q293465 a wd:Q1979154 ;
+    rdfs:label "AIDA marketing"@en .
+
+wd:Q30328573 a wd:Q1979154 ;
+    rdfs:label "Model of Brno from 1645 year"@en .
+
+wd:Q3058175 a wd:Q1979154 ;
+    rdfs:label "Einstein–de Sitter universe"@en .
+
+wd:Q30892132 a wd:Q1979154 ;
+    rdfs:label "Q30892132"^^xsd:string .
+
+wd:Q3101677 a wd:Q1979154 ;
+    rdfs:label "Eight-circuit model of consciousness"@en .
+
+wd:Q31310828 a wd:Q1979154 ;
+    rdfs:label "Persian shoe"@en .
+
+wd:Q323642 a wd:Q1979154 ;
+    rdfs:label "Spiral Dynamics"@en .
+
+wd:Q32904820 a wd:Q1979154 ;
+    rdfs:label "impossible bottle"@en .
+
+wd:Q3643219 a wd:Q1979154 ;
+    rdfs:label "business architecture"@en .
+
+wd:Q3711961 a wd:Q4393498 ;
+    rdfs:label "Divina Pastora"@en .
+
+wd:Q3889635 a wd:Q1979154 ;
+    rdfs:label "toy problem"@en .
+
+wd:Q41720 a wd:Q1979154 ;
+    rdfs:label "game of chicken"@en .
+
+wd:Q4299356 a wd:Q1979154 ;
+    rdfs:label "SA-482 seismic impact model"@en .
+
+wd:Q442402 a wd:Q1979154 ;
+    rdfs:label "Westphalian sovereignty"@en .
+
+wd:Q448161 a wd:Q1979154 ;
+    rdfs:label "Milton model"@en .
+
+wd:Q4818245 a wd:Q1979154 ;
+    rdfs:label "attenuation theory"@en .
+
+wd:Q486893 a wd:Q1979154 ;
+    rdfs:label "id, ego, and super-ego"@en .
+
+wd:Q4893239 a wd:Q1979154 ;
+    rdfs:label "Quantum cellular automata"@en .
+
+wd:Q5135837 a wd:Q1979154 ;
+    rdfs:label "Q5135837"^^xsd:string .
+
+wd:Q5216034 a wd:Q1979154 ;
+    rdfs:label "Danger model"@en .
+
+wd:Q5275810 a wd:Q1979154 ;
+    rdfs:label "Digital Classic Camera Leica M3"@en .
+
+wd:Q5280224 rdfs:label "Direct-to-consumer"@en ;
+    rdfs:subClassOf wd:Q815823 .
+
+wd:Q5455473 a wd:Q1979154 ;
+    rdfs:label "fitness model"@en .
+
+wd:Q5780282 a wd:Q1979154 ;
+    rdfs:label "Q5780282"^^xsd:string .
+
+wd:Q59208529 a wd:Q4393498 ;
+    rdfs:label "Lafeng Entertainment"@en .
+
+wd:Q59257991 a wd:Q1979154 ;
+    rdfs:label "cardiovascular model"@en .
+
+wd:Q61010045 a wd:Q4393498 ;
+    rdfs:label "baric topography"@en .
+
+wd:Q61717540 a wd:Q1979154 ;
+    rdfs:label "Q61717540"^^xsd:string .
+
+wd:Q62069765 a wd:Q1979154 ;
+    rdfs:label "Fraunhofer Dataspace Ecosystem model"@en .
+
+wd:Q62414777 a wd:Q1979154 ;
+    rdfs:label "Q62414777"^^xsd:string .
+
+wd:Q62416388 a wd:Q1979154 ;
+    rdfs:label "Q62416388"^^xsd:string .
+
+wd:Q63341730 a wd:Q1979154 ;
+    rdfs:label "Historical model of Madrid by León Gil de Palacio"@en .
+
+wd:Q65588563 a wd:Q1979154 ;
+    rdfs:label "universal design in the workplace"@en .
+
+wd:Q66138597 a wd:Q1979154 ;
+    rdfs:label "Strozzi Palast"@en .
+
+wd:Q6717885 a wd:Q1979154 ;
+    rdfs:label "MSRAM"@en .
+
+wd:Q6786269 a wd:Q1979154 ;
+    rdfs:label "Matching Person & Technology Model"@en .
+
+wd:Q6888327 a wd:Q4393498 ;
+    rdfs:label "Model figure"@en .
+
+wd:Q7339912 a wd:Q1979154 ;
+    rdfs:label "Transparent human"@en .
+
+wd:Q7365212 a wd:Q1979154 ;
+    rdfs:label "Ronald Reid's Three Topoi"@en .
+
+wd:Q7392747 a wd:Q4393498 ;
+    rdfs:label "SQUOZE"@en .
+
+wd:Q76543632 a wd:Q1979154 ;
+    rdfs:label "The New Computerized Godzilla"@en .
+
+wd:Q76825159 a wd:Q1979154 ;
+    rdfs:label "Bruce The Shark"@en .
+
+wd:Q846616 a wd:Q815823 ;
+    rdfs:label "Pay what you want"@en .
+
+wd:Q848354 a wd:Q1979154 ;
+    rdfs:label "capital asset pricing model"@en .
+
+wd:Q84902680 a wd:Q1979154 ;
+    rdfs:label "Q84902680"^^xsd:string .
+
+wd:Q851758 a wd:Q1979154 ;
+    rdfs:label "Model United Nations"@en .
+
+wd:Q86567185 a wd:Q1979154 ;
+    rdfs:label "Model of a tower-AO 29884"@en .
+
+wd:Q86833919 a wd:Q1979154 ;
+    rdfs:label "Q86833919"^^xsd:string .
+
+wd:Q910479 a wd:Q1979154 ;
+    rdfs:label "fire triangle"@en .
+
+wd:Q910845 a wd:Q815823 ;
+    rdfs:label "paywall"@en .
+
+wd:Q912894 a wd:Q1979154 ;
+    rdfs:label "competitive inhibition"@en .
+
+wd:Q929673 a wd:Q1979154 ;
+    rdfs:label "Capability Maturity Model"@en .
+
+wd:Q4393498 rdfs:label "representation"@en .
+
+wd:Q815823 rdfs:label "business model"@en ;
+    rdfs:subClassOf wd:Q1979154 .
+
+wd:Q1979154 rdfs:label "model"@en ;
+    rdfs:subClassOf wd:Q4393498 .
+

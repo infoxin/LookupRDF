@@ -1,0 +1,439 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q10708298 a wd:Q16889133 ;
+    rdfs:label "Not Otherwise Specified"@en .
+
+wd:Q1100813 a wd:Q16889133 ;
+    rdfs:label "Hard seat"@en .
+
+wd:Q11964099 a wd:Q16889133 ;
+    rdfs:label "Corbett"@en .
+
+wd:Q11972429 a wd:Q16889133 ;
+    rdfs:label "Graham"@en .
+
+wd:Q1200992 a wd:Q16889133 ;
+    rdfs:label "abstraction layer"@en .
+
+wd:Q12054558 a wd:Q16889133 ;
+    rdfs:label "Q12054558"^^xsd:string .
+
+wd:Q1227597 a wd:Q16889133 ;
+    rdfs:label "substantive dye"@en .
+
+wd:Q1320721 a wd:Q16889133 ;
+    rdfs:label "Munro"@en .
+
+wd:Q1325147 rdfs:label "Non-fermenter"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q13360072 a wd:Q10876 ;
+    rdfs:label "lactic acid bacteria"@en ;
+    rdfs:subClassOf wd:Q857288 .
+
+wd:Q135277 a wd:Q804517 ;
+    rdfs:label "Q135277"^^xsd:string .
+
+wd:Q1374968 rdfs:label "Psychrotrophic bacteria"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q16570 a wd:Q7239 ;
+    rdfs:label "The Lonesome George"@en .
+
+wd:Q16887380 a wd:Q16889133 ;
+    rdfs:label "group"@en .
+
+wd:Q17019467 a wd:Q16889133 ;
+    rdfs:label "LCC Class M: Music"@en .
+
+wd:Q17029247 a wd:Q7239 ;
+    rdfs:label "Illegitimate receiver"@en .
+
+wd:Q1747543 a wd:Q7239 ;
+    rdfs:label "protophyta"@en .
+
+wd:Q18011729 rdfs:label "butyric acid bacteria"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q18205556 rdfs:label "Bioluminescent bacteria"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q18341502 a wd:Q16889133 ;
+    rdfs:label "Q18341502"^^xsd:string .
+
+wd:Q1840368 a wd:Q16889133 ;
+    rdfs:label "cloud genera"@en .
+
+wd:Q18487018 a wd:Q16889133 ;
+    rdfs:label "missile family"@en .
+
+wd:Q18487055 a wd:Q16889133 ;
+    rdfs:label "missile model"@en .
+
+wd:Q189052 a wd:Q7239 ;
+    rdfs:label "cell colony"@en .
+
+wd:Q19606591 a wd:Q10876 ;
+    rdfs:label "Q19606591"^^xsd:string .
+
+wd:Q19844703 rdfs:label "Erwinia amylovora"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q20572322 a wd:Q16889133 ;
+    rdfs:label "HuMP"@en .
+
+wd:Q2139516 a wd:Q16889133 ;
+    rdfs:label "Q2139516"^^xsd:string .
+
+wd:Q21601419 a wd:Q16889133 ;
+    rdfs:label "FAO risk status"@en .
+
+wd:Q22082729 rdfs:label "aerobic bacteria"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q2234721 a wd:Q16889133 ;
+    rdfs:label "Q2234721"^^xsd:string .
+
+wd:Q22569524 a wd:Q16889133 ;
+    rdfs:label "Graham"@en .
+
+wd:Q22569536 a wd:Q16889133 ;
+    rdfs:label "Murdo"@en .
+
+wd:Q2348335 rdfs:label "Lipophilic bacteria"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q240433 a wd:Q7239 ;
+    rdfs:label "Mastigophora"@en .
+
+wd:Q24628 a wd:Q7239 ;
+    rdfs:label "Alex"@en .
+
+wd:Q2526002 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class D, subclass DH -- History of the Low Countries and Benelux"@en .
+
+wd:Q2536409 a wd:Q16889133 ;
+    rdfs:label "IBA Official Cocktail"@en .
+
+wd:Q2632669 a wd:Q7239 ;
+    rdfs:label "carrion flower"@en .
+
+wd:Q26709961 a wd:Q16889133 ;
+    rdfs:label "Tump"@en .
+
+wd:Q26709966 a wd:Q16889133 ;
+    rdfs:label "Simm"@en .
+
+wd:Q26709969 a wd:Q16889133 ;
+    rdfs:label "Graham"@en .
+
+wd:Q26709973 a wd:Q16889133 ;
+    rdfs:label "Donald"@en .
+
+wd:Q26710654 a wd:Q16889133 ;
+    rdfs:label "Highland Five"@en .
+
+wd:Q26710662 a wd:Q16889133 ;
+    rdfs:label "Donald Dewey"@en .
+
+wd:Q26711849 a wd:Q16889133 ;
+    rdfs:label "Munro Top"@en .
+
+wd:Q26711856 a wd:Q16889133 ;
+    rdfs:label "Furth"@en .
+
+wd:Q2750493 rdfs:label "Q2750493"^^xsd:string ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q28530079 a wd:Q5127848 ;
+    rdfs:label "observable universe"@en .
+
+wd:Q285562 a wd:Q16889133 ;
+    rdfs:label "Marilyn"@en .
+
+wd:Q28868699 a wd:Q10876 ;
+    rdfs:label "Aliiglaciecola lipolytica"@en .
+
+wd:Q2901318 a wd:Q16889133 ;
+    rdfs:label "mine roller"@en .
+
+wd:Q295074 a wd:Q16889133 ;
+    rdfs:label "AMD Sempron"@en .
+
+wd:Q296919 a wd:Q16889133 ;
+    rdfs:label "ARTIS"@en .
+
+wd:Q31270581 a wd:Q10876 ;
+    rdfs:label "sulfur bacteria"@en .
+
+wd:Q31834028 a wd:Q5127848 ;
+    rdfs:label "confidence value"@en .
+
+wd:Q34530484 a wd:Q632006 ;
+    rdfs:label "Shewanella aestuarii"@en .
+
+wd:Q34530619 a wd:Q632006 ;
+    rdfs:label "Psychrobacter pocilloporae"@en .
+
+wd:Q3528593 a wd:Q7239 ;
+    rdfs:label "Q3528593"^^xsd:string .
+
+wd:Q36906466 a wd:Q5127848 ;
+    rdfs:label "universe"@en .
+
+wd:Q382915 a wd:Q16889133 ;
+    rdfs:label "Discoverer"@en .
+
+wd:Q42314051 a wd:Q5127848 ;
+    rdfs:label "ammunition family"@en .
+
+wd:Q4369087 a wd:Q16889133 ;
+    rdfs:label "jet fighter generation"@en .
+
+wd:Q4392197 a wd:Q16686022 ;
+    rdfs:label "Q4392197"^^xsd:string .
+
+wd:Q45242174 a wd:Q16889133 ;
+    rdfs:label "gazetted locality of Victoria"@en .
+
+wd:Q4548761 a wd:Q16889133 ;
+    rdfs:label "12ft Skiff"@en .
+
+wd:Q4573133 a wd:Q16889133 ;
+    rdfs:label "Donald Top"@en .
+
+wd:Q4688192 rdfs:label "Aerobic anoxygenic photoheterotroph bacteria"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q4812067 rdfs:label "Asymmetric bacterium"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q4818884 rdfs:label "Atypical bacteria"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q5031431 rdfs:label "Cancer bacteria"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q50807479 rdfs:label "Q50807479"^^xsd:string ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q50824634 a wd:Q16889133 ;
+    rdfs:label "memorial to William Tell"@en .
+
+wd:Q5119521 a wd:Q5127848 ;
+    rdfs:label "Cidex"@en .
+
+wd:Q5168598 a wd:Q7239 ;
+    rdfs:label "Copiotroph"@en .
+
+wd:Q5193083 a wd:Q7239 ;
+    rdfs:label "Culmicole"@en .
+
+wd:Q5257859 rdfs:label "denitrifying bacteria"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q5656540 a wd:Q16889133 ;
+    rdfs:label "Hardy"@en .
+
+wd:Q604261 a wd:Q39833 ;
+    rdfs:label "oncovirus"@en .
+
+wd:Q61888167 a wd:Q16889133 ;
+    rdfs:label "manifestation (FRBR concept)"@en .
+
+wd:Q62082016 a wd:Q16889133 ;
+    rdfs:label "Hewitt"@en .
+
+wd:Q62082048 a wd:Q16889133 ;
+    rdfs:label "Nuttall"@en .
+
+wd:Q62082113 a wd:Q16889133 ;
+    rdfs:label "Dodd"@en .
+
+wd:Q62082131 a wd:Q16889133 ;
+    rdfs:label "Wainwright"@en .
+
+wd:Q62082171 a wd:Q16889133 ;
+    rdfs:label "Wainwright Outlying Fell"@en .
+
+wd:Q63085 a wd:Q10876 ;
+    rdfs:label "coccus"@en .
+
+wd:Q63433068 a wd:Q16889133 ;
+    rdfs:label "national naval fleet"@en .
+
+wd:Q63433199 a wd:Q16889133 ;
+    rdfs:label "national class-specific fleet"@en .
+
+wd:Q63433208 a wd:Q16889133 ;
+    rdfs:label "class-specific naval fleet"@en .
+
+wd:Q63973264 a wd:Q16889133 ;
+    rdfs:label "tractor propeller"@en .
+
+wd:Q6488497 a wd:Q10876 ;
+    rdfs:label "Lar1"@en .
+
+wd:Q6542581 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class B, subclass BM -- Judaism"@en .
+
+wd:Q6542586 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class B, subclass BQ -- Buddhism"@en .
+
+wd:Q6542587 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class B, subclass BR -- Christianity"@en .
+
+wd:Q6542594 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class B -- Philosophy, Psychology, Religion"@en .
+
+wd:Q6542599 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class D, subclass DC -- History of France, Andorra, and Monaco"@en .
+
+wd:Q6542621 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class D -- History, General and Old World"@en .
+
+wd:Q6542622 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class E -- History of America"@en .
+
+wd:Q6542625 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class G, subclass GA -- Mathematical geography. Cartography"@en .
+
+wd:Q6542634 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class G, subclass GV -- Recreation and Leisure"@en .
+
+wd:Q6542636 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class G -- Geography. Anthropology. Recreation"@en .
+
+wd:Q6542661 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class P, subclass PD -- Germanic languages"@en .
+
+wd:Q6542680 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class Q -- Science"@en .
+
+wd:Q6542683 a wd:Q16889133 ;
+    rdfs:label "Library of Congress Classification:Class V -- Naval Science"@en .
+
+wd:Q66253298 a wd:Q16889133 ;
+    rdfs:label "national destroyer fleet"@en .
+
+wd:Q67206648 a wd:Q16889133 ;
+    rdfs:label "Q67206648"^^xsd:string .
+
+wd:Q67206680 a wd:Q16889133 ;
+    rdfs:label "Q67206680"^^xsd:string .
+
+wd:Q68482296 a wd:Q16889133 ;
+    rdfs:label "military activity"@en .
+
+wd:Q68760895 rdfs:label "nitrogen-fixing bacteria"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q69350912 rdfs:label "Gram-Negative Oxygenic Photosynthetic Bacteria"@en ;
+    rdfs:subClassOf wd:Q632006 .
+
+wd:Q69351950 rdfs:label "Gram-Positive Endospore-Forming Rods"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q69381360 rdfs:label "Gram-Negative Anaerobic Straight, Curved, and Helical Rods"@en ;
+    rdfs:subClassOf wd:Q69381619 .
+
+wd:Q69394062 rdfs:label "Gram-Positive Endospore-Forming Bacteria"@en ;
+    rdfs:subClassOf wd:Q69351865 .
+
+wd:Q6982175 a wd:Q7239 ;
+    rdfs:label "Lem"@en .
+
+wd:Q7226917 rdfs:label "Polysaccharide encapsulated bacteria"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q7251502 a wd:Q16889133 ;
+    rdfs:label "Protein subfamily"@en .
+
+wd:Q7251873 a wd:Q10876 ;
+    rdfs:label "Proto-mitochondrion"@en .
+
+wd:Q74457656 a wd:Q16889133 ;
+    rdfs:label "Q74457656"^^xsd:string .
+
+wd:Q74458071 a wd:Q16889133 ;
+    rdfs:label "Q74458071"^^xsd:string .
+
+wd:Q77030030 a wd:Q16889133 ;
+    rdfs:label "protein variant"@en .
+
+wd:Q77768178 a wd:Q16889133 ;
+    rdfs:label "type of footage"@en .
+
+wd:Q78154500 a wd:Q16889133 ;
+    rdfs:label "group of protein complexes"@en .
+
+wd:Q78155096 a wd:Q16889133 ;
+    rdfs:label "family of protein complexes"@en .
+
+wd:Q789505 a wd:Q7239 ;
+    rdfs:label "Autöcie"@en .
+
+wd:Q79633016 a wd:Q16889133 ;
+    rdfs:label "Q79633016"^^xsd:string .
+
+wd:Q7971850 a wd:Q7239 ;
+    rdfs:label "Washington Elm"@en .
+
+wd:Q83748716 a wd:Q16889133 ;
+    rdfs:label "twin-float gear"@en .
+
+wd:Q85509189 a wd:Q5127848 ;
+    rdfs:label "symptom"@en .
+
+wd:Q85640110 a wd:Q16889133 ;
+    rdfs:label "Q85640110"^^xsd:string .
+
+wd:Q902010 rdfs:label "Coliform bacteria"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q1274979 rdfs:label "creature"@en .
+
+wd:Q16521 rdfs:label "taxon"@en ;
+    rdfs:subClassOf wd:Q16889133 .
+
+wd:Q41097039 rdfs:label "anaerobic bacteria"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q69351865 rdfs:label "Endospore-Forming Bacteria"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q69381619 rdfs:label "gram-negative anaerobic bacteria"@en ;
+    rdfs:subClassOf wd:Q41097039,
+        wd:Q632006 .
+
+wd:Q804517 rdfs:label "pathogenic bacteria"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q857288 rdfs:label "Gram-positive bacteria"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q16686022 rdfs:label "natural physical object"@en .
+
+wd:Q39833 rdfs:label "microorganism"@en ;
+    rdfs:subClassOf wd:Q7239 .
+
+wd:Q632006 rdfs:label "Gram-negative bacteria"@en ;
+    rdfs:subClassOf wd:Q10876 .
+
+wd:Q5127848 rdfs:label "class"@en .
+
+wd:Q7239 rdfs:label "organism"@en ;
+    rdfs:subClassOf wd:Q1274979,
+        wd:Q16686022 .
+
+wd:Q10876 a wd:Q16521 ;
+    rdfs:label "bacteria"@en ;
+    rdfs:subClassOf wd:Q39833 .
+
+wd:Q16889133 rdfs:label "class"@en ;
+    rdfs:subClassOf wd:Q5127848 .
+

@@ -1,0 +1,644 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q10269116 a wd:Q1207505 ;
+    rdfs:label "durability"@en .
+
+wd:Q10289243 a wd:Q1207505 ;
+    rdfs:label "hypogeal germination"@en .
+
+wd:Q1047129 a wd:Q1207505 ;
+    rdfs:label "relativity"@en .
+
+wd:Q1074648 a wd:Q1207505 ;
+    rdfs:label "relevance"@en .
+
+wd:Q1079090 a wd:Q1207505 ;
+    rdfs:label "neurotypical"@en .
+
+wd:Q109856 a wd:Q1207505 ;
+    rdfs:label "crystal twinning"@en .
+
+wd:Q1124626 a wd:Q1207505 ;
+    rdfs:label "hygrophanous"@en .
+
+wd:Q1131316 a wd:Q1207505 ;
+    rdfs:label "deciduous plant"@en .
+
+wd:Q1189116 a wd:Q814267 ;
+    rdfs:label "first class travel"@en .
+
+wd:Q1199254 a wd:Q814267 ;
+    rdfs:label "economy class"@en .
+
+wd:Q11999895 a wd:Q1207505 ;
+    rdfs:label "eponymously titled"@en .
+
+wd:Q1326365 a wd:Q1207505 ;
+    rdfs:label "elect"@en .
+
+wd:Q1340505 a wd:Q814267 ;
+    rdfs:label "business class"@en .
+
+wd:Q1399774 a wd:Q1207505 ;
+    rdfs:label "tautonym"@en .
+
+wd:Q1469792 a wd:Q1207505 ;
+    rdfs:label "salience"@en .
+
+wd:Q14849087 a wd:Q1207505 ;
+    rdfs:label "anthophore"@en .
+
+wd:Q14853032 a wd:Q1207505 ;
+    rdfs:label "androphore"@en .
+
+wd:Q15303501 a wd:Q1207505 ;
+    rdfs:label "secularity"@en .
+
+wd:Q1558457 a wd:Q1207505 ;
+    rdfs:label "gynophore"@en .
+
+wd:Q1571795 a wd:Q1207505 ;
+    rdfs:label "precocial"@en .
+
+wd:Q164359 a wd:Q1207505 ;
+    rdfs:label "experience"@en .
+
+wd:Q1660327 a wd:Q1207505 ;
+    rdfs:label "impertinence"@en .
+
+wd:Q1670965 a wd:Q1207505 ;
+    rdfs:label "toe"@en .
+
+wd:Q16722198 a wd:Q1207505 ;
+    rdfs:label "Q16722198"^^xsd:string .
+
+wd:Q1681936 a wd:Q1207505 ;
+    rdfs:label "washfastness"@en .
+
+wd:Q1726864 a wd:Q1207505 ;
+    rdfs:label "sentimentality"@en .
+
+wd:Q1736449 a wd:Q1207505 ;
+    rdfs:label "Q1736449"^^xsd:string .
+
+wd:Q1754278 a wd:Q1207505 ;
+    rdfs:label "referential transparency"@en .
+
+wd:Q1789144 a wd:Q1207505 ;
+    rdfs:label "crystalline"@en .
+
+wd:Q1810799 a wd:Q1207505 ;
+    rdfs:label "Q1810799"^^xsd:string .
+
+wd:Q18208100 a wd:Q1207505 ;
+    rdfs:label "instrumental convergence"@en .
+
+wd:Q1825273 a wd:Q1207505 ;
+    rdfs:label "leptosome"@en .
+
+wd:Q18435276 a wd:Q1207505 ;
+    rdfs:label "Q18435276"^^xsd:string .
+
+wd:Q18757 a wd:Q1207505 ;
+    rdfs:label "validity"@en .
+
+wd:Q190489 a wd:Q1207505 ;
+    rdfs:label "evergreen plant"@en .
+
+wd:Q1907514 a wd:Q1207505 ;
+    rdfs:label "area density"@en .
+
+wd:Q191903 a wd:Q1207505 ;
+    rdfs:label "autocephaly"@en .
+
+wd:Q1934745 a wd:Q1207505 ;
+    rdfs:label "keyboard expression"@en .
+
+wd:Q1975498 a wd:Q1207505 ;
+    rdfs:label "Q1975498"^^xsd:string .
+
+wd:Q1999273 a wd:Q1207505 ;
+    rdfs:label "value-fixed"@en .
+
+wd:Q20742557 a wd:Q1207505 ;
+    rdfs:label "permanence"@en .
+
+wd:Q21012180 a wd:Q1207505 ;
+    rdfs:label "quality of life"@en .
+
+wd:Q21159976 a wd:Q1207505 ;
+    rdfs:label "practicality"@en .
+
+wd:Q2136251 a wd:Q1207505 ;
+    rdfs:label "Q2136251"^^xsd:string .
+
+wd:Q215067 a wd:Q1207505 ;
+    rdfs:label "orthogonality"@en .
+
+wd:Q2175596 a wd:Q1207505 ;
+    rdfs:label "compatibility"@en .
+
+wd:Q219416 a wd:Q1207505 ;
+    rdfs:label "sustainability"@en .
+
+wd:Q2243455 a wd:Q814267 ;
+    rdfs:label "second class"@en .
+
+wd:Q2301186 a wd:Q1207505 ;
+    rdfs:label "necessity"@en .
+
+wd:Q2304620 a wd:Q1207505 ;
+    rdfs:label "bistability"@en .
+
+wd:Q2360634 a wd:Q1207505 ;
+    rdfs:label "immunity"@en .
+
+wd:Q23670522 a wd:Q1207505 ;
+    rdfs:label "recency"@en .
+
+wd:Q2367078 a wd:Q1207505 ;
+    rdfs:label "Q2367078"^^xsd:string .
+
+wd:Q24055197 a wd:Q1207505 ;
+    rdfs:label "sufficiency"@en .
+
+wd:Q24249439 a wd:Q1207505 ;
+    rdfs:label "slowness"@en .
+
+wd:Q2464310 a wd:Q1207505 ;
+    rdfs:label "pycnique"@en .
+
+wd:Q2476929 a wd:Q1207505 ;
+    rdfs:label "confidentiality"@en .
+
+wd:Q250692 a wd:Q1207505 ;
+    rdfs:label "cauliflory"@en .
+
+wd:Q2515622 a wd:Q1207505 ;
+    rdfs:label "constitutionality"@en .
+
+wd:Q2526778 a wd:Q1207505 ;
+    rdfs:label "Q2526778"^^xsd:string .
+
+wd:Q2534066 a wd:Q1207505 ;
+    rdfs:label "predictability"@en .
+
+wd:Q2549104 a wd:Q1207505 ;
+    rdfs:label "basilical"@en .
+
+wd:Q25931851 a wd:Q1207505 ;
+    rdfs:label "software freedom"@en .
+
+wd:Q2615093 a wd:Q1207505 ;
+    rdfs:label "multi dimensional"@en .
+
+wd:Q2634569 a wd:Q1207505 ;
+    rdfs:label "Q2634569"^^xsd:string .
+
+wd:Q2644277 a wd:Q1207505 ;
+    rdfs:label "complementarity"@en .
+
+wd:Q2645905 a wd:Q1207505 ;
+    rdfs:label "Q2645905"^^xsd:string .
+
+wd:Q2657215 a wd:Q1207505 ;
+    rdfs:label "offscreen"@en .
+
+wd:Q27684055 a wd:Q185957 ;
+    rdfs:label "Well-formedness"@en .
+
+wd:Q27768121 a wd:Q1207505 ;
+    rdfs:label "bilaterally"@en .
+
+wd:Q2822691 a wd:Q1207505 ;
+    rdfs:label "walkability"@en .
+
+wd:Q3080428 a wd:Q1207505 ;
+    rdfs:label "Software portability"@en .
+
+wd:Q3113318 a wd:Q1207505 ;
+    rdfs:label "valence"@en .
+
+wd:Q3243721 a wd:Q814267 ;
+    rdfs:label "first class"@en .
+
+wd:Q3246828 a wd:Q1207505 ;
+    rdfs:label "Trustworthiness"@en .
+
+wd:Q3326349 a wd:Q1207505 ;
+    rdfs:label "lyricism"@en .
+
+wd:Q333712 a wd:Q1207505 ;
+    rdfs:label "statically indeterminate"@en .
+
+wd:Q3384500 a wd:Q1207505 ;
+    rdfs:label "Q3384500"^^xsd:string .
+
+wd:Q340015 a wd:Q1207505 ;
+    rdfs:label "deixis"@en .
+
+wd:Q345367 a wd:Q1207505 ;
+    rdfs:label "social"@en .
+
+wd:Q3509975 a wd:Q1207505 ;
+    rdfs:label "in memoriam"@en .
+
+wd:Q373805 a wd:Q1207505 ;
+    rdfs:label "in-system programming"@en .
+
+wd:Q381437 a wd:Q1207505 ;
+    rdfs:label "aerodynamic diameter"@en .
+
+wd:Q38198189 a wd:Q1207505 ;
+    rdfs:label "creepiness"@en .
+
+wd:Q384871 a wd:Q1207505 ;
+    rdfs:label "availability"@en .
+
+wd:Q39086064 a wd:Q1207505 ;
+    rdfs:label "breakup song"@en .
+
+wd:Q3937033 a wd:Q1207505 ;
+    rdfs:label "measurement resolution"@en .
+
+wd:Q42295772 a wd:Q1207505 ;
+    rdfs:label "adaption"@en .
+
+wd:Q423495 a wd:Q1207505 ;
+    rdfs:label "actuality"@en .
+
+wd:Q45171911 a wd:Q1207505 ;
+    rdfs:label "passes the Bechdel Test"@en .
+
+wd:Q45172088 a wd:Q1207505 ;
+    rdfs:label "fails the Bechdel Test"@en .
+
+wd:Q461671 a wd:Q1207505 ;
+    rdfs:label "data integrity"@en .
+
+wd:Q4669873 a wd:Q1207505 ;
+    rdfs:label "absoluteness"@en .
+
+wd:Q47001369 a wd:Q1207505 ;
+    rdfs:label "impermanence"@en .
+
+wd:Q47455763 a wd:Q1207505 ;
+    rdfs:label "pleasantness"@en .
+
+wd:Q47455774 a wd:Q1207505 ;
+    rdfs:label "unpleasantness"@en .
+
+wd:Q47455943 a wd:Q1207505 ;
+    rdfs:label "qualitativeness"@en .
+
+wd:Q47455945 a wd:Q1207505 ;
+    rdfs:label "quantitativeness"@en .
+
+wd:Q4770819 a wd:Q1207505 ;
+    rdfs:label "answer song"@en .
+
+wd:Q4810714 a wd:Q1207505 ;
+    rdfs:label "Q4810714"^^xsd:string .
+
+wd:Q48799541 a wd:Q185957 ;
+    rdfs:label "verified badge"@en .
+
+wd:Q4993710 a wd:Q1207505 ;
+    rdfs:label "notability"@en .
+
+wd:Q50315879 a wd:Q1207505 ;
+    rdfs:label "diademed head"@en .
+
+wd:Q512136 a wd:Q1207505 ;
+    rdfs:label "linear phase"@en .
+
+wd:Q512392 a wd:Q1207505 ;
+    rdfs:label "androgynophore"@en .
+
+wd:Q51379 a wd:Q1207505 ;
+    rdfs:label "proportionality"@en .
+
+wd:Q5156150 a wd:Q1207505 ;
+    rdfs:label "compatibility"@en .
+
+wd:Q5156153 a wd:Q1207505 ;
+    rdfs:label "compatibility"@en .
+
+wd:Q55433472 a wd:Q1207505 ;
+    rdfs:label "sharpness"@en .
+
+wd:Q56055276 a wd:Q185957 ;
+    rdfs:label "previously unreleased"@en .
+
+wd:Q5658243 a wd:Q1207505 ;
+    rdfs:label "Roman adoption"@en .
+
+wd:Q5674297 a wd:Q1207505 ;
+    rdfs:label "adaptability"@en .
+
+wd:Q57173735 a wd:Q1207505 ;
+    rdfs:label "education"@en .
+
+wd:Q574291 a wd:Q1207505 ;
+    rdfs:label "backlight"@en .
+
+wd:Q58209506 a wd:Q1207505 ;
+    rdfs:label "comic"@en .
+
+wd:Q58483041 a wd:Q1207505 ;
+    rdfs:label "fails the reverse Bechdel test"@en .
+
+wd:Q58483045 a wd:Q1207505 ;
+    rdfs:label "passes the reverse Bechdel Test"@en .
+
+wd:Q59344393 a wd:Q1207505 ;
+    rdfs:label "neurodivergent"@en .
+
+wd:Q60528728 a wd:Q1207505 ;
+    rdfs:label "undesirability"@en .
+
+wd:Q60617645 a wd:Q1207505 ;
+    rdfs:label "desirability"@en .
+
+wd:Q60642587 a wd:Q1207505 ;
+    rdfs:label "Monolithity"@en .
+
+wd:Q60809954 a wd:Q1207505 ;
+    rdfs:label "single edit"@en .
+
+wd:Q60844538 a wd:Q1207505 ;
+    rdfs:label "membership"@en .
+
+wd:Q62692343 a wd:Q1207505 ;
+    rdfs:label "Aqua"@en .
+
+wd:Q62692345 a wd:Q1207505 ;
+    rdfs:label "Beast"@en .
+
+wd:Q62692347 a wd:Q1207505 ;
+    rdfs:label "Beast-Warrior"@en .
+
+wd:Q62692348 a wd:Q1207505 ;
+    rdfs:label "Charisma"@en .
+
+wd:Q62692350 a wd:Q1207505 ;
+    rdfs:label "Creator God"@en .
+
+wd:Q62692351 a wd:Q1207505 ;
+    rdfs:label "Cyberse"@en .
+
+wd:Q62692353 a wd:Q1207505 ;
+    rdfs:label "Dinosaur"@en .
+
+wd:Q62692355 a wd:Q1207505 ;
+    rdfs:label "Divine-Beast"@en .
+
+wd:Q62692357 a wd:Q1207505 ;
+    rdfs:label "Dragon"@en .
+
+wd:Q62692359 a wd:Q1207505 ;
+    rdfs:label "Fairy"@en .
+
+wd:Q62692361 a wd:Q1207505 ;
+    rdfs:label "Fiend"@en .
+
+wd:Q62692362 a wd:Q1207505 ;
+    rdfs:label "Fish"@en .
+
+wd:Q62692364 a wd:Q1207505 ;
+    rdfs:label "Insect"@en .
+
+wd:Q62692366 a wd:Q1207505 ;
+    rdfs:label "Machine"@en .
+
+wd:Q62692367 a wd:Q1207505 ;
+    rdfs:label "Plant"@en .
+
+wd:Q62692369 a wd:Q1207505 ;
+    rdfs:label "Psychic"@en .
+
+wd:Q62692370 a wd:Q1207505 ;
+    rdfs:label "Pyro"@en .
+
+wd:Q62692372 a wd:Q1207505 ;
+    rdfs:label "Reptile"@en .
+
+wd:Q62692374 a wd:Q1207505 ;
+    rdfs:label "Rock"@en .
+
+wd:Q62692376 a wd:Q1207505 ;
+    rdfs:label "Sea Serpent"@en .
+
+wd:Q62692377 a wd:Q1207505 ;
+    rdfs:label "Spellcaster"@en .
+
+wd:Q62692379 a wd:Q1207505 ;
+    rdfs:label "Thunder"@en .
+
+wd:Q62692380 a wd:Q1207505 ;
+    rdfs:label "Warrior"@en .
+
+wd:Q62692382 a wd:Q1207505 ;
+    rdfs:label "Winged Beast"@en .
+
+wd:Q62692384 a wd:Q1207505 ;
+    rdfs:label "Wyrm"@en .
+
+wd:Q62692387 a wd:Q1207505 ;
+    rdfs:label "Zombie"@en .
+
+wd:Q62692389 a wd:Q1207505 ;
+    rdfs:label "Black Magic"@en .
+
+wd:Q62692390 a wd:Q1207505 ;
+    rdfs:label "Dragon Magic"@en .
+
+wd:Q62692393 a wd:Q1207505 ;
+    rdfs:label "Human"@en .
+
+wd:Q62692394 a wd:Q1207505 ;
+    rdfs:label "Illusion Magic"@en .
+
+wd:Q62692396 a wd:Q1207505 ;
+    rdfs:label "Immortal"@en .
+
+wd:Q62692398 a wd:Q1207505 ;
+    rdfs:label "Sea Beast"@en .
+
+wd:Q62692400 a wd:Q1207505 ;
+    rdfs:label "White Magic"@en .
+
+wd:Q62692402 a wd:Q1207505 ;
+    rdfs:label "Yokai"@en .
+
+wd:Q63435238 a wd:Q1207505 ;
+    rdfs:label "Lenovo Battery Safeguard"@en .
+
+wd:Q63441625 a wd:Q1207505 ;
+    rdfs:label "giantness"@en .
+
+wd:Q63441638 a wd:Q1207505 ;
+    rdfs:label "dwarfness"@en .
+
+wd:Q639219 a wd:Q1207505 ;
+    rdfs:label "Theory of mind"@en .
+
+wd:Q64144036 a wd:Q1207505 ;
+    rdfs:label "hypertonicity"@en .
+
+wd:Q64214393 a wd:Q1207505 ;
+    rdfs:label "crewed"@en .
+
+wd:Q64214395 a wd:Q1207505 ;
+    rdfs:label "uncrewed"@en .
+
+wd:Q65015417 a wd:Q1207505 ;
+    rdfs:label "onscreen"@en .
+
+wd:Q65555649 a wd:Q1207505 ;
+    rdfs:label "Q65555649"^^xsd:string .
+
+wd:Q65924966 a wd:Q1207505 ;
+    rdfs:label "bishop-elect"@en .
+
+wd:Q65965582 a wd:Q1207505 ;
+    rdfs:label "reusability"@en .
+
+wd:Q65965618 a wd:Q1207505 ;
+    rdfs:label "disposability"@en .
+
+wd:Q66458973 a wd:Q1207505 ;
+    rdfs:label "absoluteness"@en .
+
+wd:Q66999058 a wd:Q1207505 ;
+    rdfs:label "fugitive"@en .
+
+wd:Q67085833 a wd:Q1207505 ;
+    rdfs:label "colored vinyl"@en .
+
+wd:Q67175826 a wd:Q1207505 ;
+    rdfs:label "extended mix / long version"@en .
+
+wd:Q67203587 a wd:Q1207505 ;
+    rdfs:label "unidirectionality"@en .
+
+wd:Q67203605 a wd:Q1207505 ;
+    rdfs:label "bidrectionality"@en .
+
+wd:Q68015325 a wd:Q1207505 ;
+    rdfs:label "portability"@en .
+
+wd:Q688615 a wd:Q1207505 ;
+    rdfs:label "world record"@en .
+
+wd:Q69349638 a wd:Q1207505 ;
+    rdfs:label "dissected"@en .
+
+wd:Q70326764 a wd:Q1207505 ;
+    rdfs:label "unsentimentality"@en .
+
+wd:Q70761814 a wd:Q1207505 ;
+    rdfs:label "argumentativeness"@en .
+
+wd:Q72221057 a wd:Q1207505 ;
+    rdfs:label "discreteness"@en .
+
+wd:Q7231329 a wd:Q1207505 ;
+    rdfs:label "portability"@en .
+
+wd:Q72402173 a wd:Q1207505 ;
+    rdfs:label "white background"@en .
+
+wd:Q7240477 a wd:Q814267 ;
+    rdfs:label "premium economy"@en .
+
+wd:Q725744 a wd:Q1207505 ;
+    rdfs:label "keyboard layout"@en .
+
+wd:Q72610653 a wd:Q1207505 ;
+    rdfs:label "usefullness"@en .
+
+wd:Q727490 a wd:Q1207505 ;
+    rdfs:label "scalability"@en .
+
+wd:Q7316334 a wd:Q1207505 ;
+    rdfs:label "restrictiveness"@en .
+
+wd:Q73204959 a wd:Q1207505 ;
+    rdfs:label "instrumentality"@en .
+
+wd:Q7451189 a wd:Q1207505 ;
+    rdfs:label "sentence arrangement"@en .
+
+wd:Q74550585 a wd:Q1207505 ;
+    rdfs:label "non-album track"@en .
+
+wd:Q74551327 a wd:Q1207505 ;
+    rdfs:label "album version"@en .
+
+wd:Q7696811 a wd:Q1207505 ;
+    rdfs:label "telescoping"@en .
+
+wd:Q81614 a wd:Q1207505 ;
+    rdfs:label "hypergolic propellant"@en .
+
+wd:Q81945865 a wd:Q1207505 ;
+    rdfs:label "multi-disc album format"@en .
+
+wd:Q82785806 a wd:Q1207505 ;
+    rdfs:label "propensity"@en .
+
+wd:Q83781188 a wd:Q1207505 ;
+    rdfs:label "Q83781188"^^xsd:string .
+
+wd:Q84426668 a wd:Q1207505 ;
+    rdfs:label "harmfulness"@en .
+
+wd:Q84427501 a wd:Q1207505 ;
+    rdfs:label "harmlessness"@en .
+
+wd:Q84944905 a wd:Q1207505 ;
+    rdfs:label "NSFW Steam game"@en .
+
+wd:Q85940254 a wd:Q1207505 ;
+    rdfs:label "Unclaimed"@en .
+
+wd:Q85940461 a wd:Q1207505 ;
+    rdfs:label "Asking for reviews"@en .
+
+wd:Q85940818 a wd:Q1207505 ;
+    rdfs:label "Claimed"@en .
+
+wd:Q877945 a wd:Q1207505 ;
+    rdfs:label "recursive set"@en .
+
+wd:Q9086319 a wd:Q1207505 ;
+    rdfs:label "Terribilità"@en .
+
+wd:Q909369 a wd:Q1207505 ;
+    rdfs:label "lightfastness"@en .
+
+wd:Q911138 a wd:Q1207505 ;
+    rdfs:label "thickener"@en .
+
+wd:Q912009 a wd:Q1207505 ;
+    rdfs:label "modularity"@en .
+
+wd:Q962365 a wd:Q1207505 ;
+    rdfs:label "precision"@en .
+
+wd:Q971246 a wd:Q1207505 ;
+    rdfs:label "Synteny"@en .
+
+wd:Q185957 rdfs:label "quality"@en ;
+    rdfs:subClassOf wd:Q1207505 .
+
+wd:Q814267 rdfs:label "travel class"@en ;
+    rdfs:subClassOf wd:Q185957 .
+
+wd:Q1207505 rdfs:label "quality"@en .
+

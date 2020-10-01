@@ -1,0 +1,3142 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1015148 a wd:Q58778 ;
+    rdfs:label "Burgopak"@en .
+
+wd:Q1019790 a wd:Q58778 ;
+    rdfs:label "Boehm system"@en .
+
+wd:Q1020768 a wd:Q58778 ;
+    rdfs:label "Trunked radio system"@en .
+
+wd:Q1024165 a wd:Q58778 ;
+    rdfs:label "COSIMIR"@en .
+
+wd:Q1029907 a wd:Q4936952 ;
+    rdfs:label "stomach"@en .
+
+wd:Q1030169 a wd:Q4936952 ;
+    rdfs:label "peritoneal cavity"@en .
+
+wd:Q10355120 a wd:Q4936952 ;
+    rdfs:label "pseudocoelom"@en .
+
+wd:Q10372149 a wd:Q58778 ;
+    rdfs:label "Q10372149"^^xsd:string .
+
+wd:Q1045076 a wd:Q58778 ;
+    rdfs:label "Carrier Routing System"@en .
+
+wd:Q1048080 a wd:Q4936952 ;
+    rdfs:label "ciliary body"@en .
+
+wd:Q10492730 a wd:Q58778 ;
+    rdfs:label "Evap"@en .
+
+wd:Q1049298 a wd:Q4936952 ;
+    rdfs:label "sphenoidal sinus"@en .
+
+wd:Q1049517 a wd:Q58778 ;
+    rdfs:label "invitation system"@en .
+
+wd:Q1051832 a wd:Q58778 ;
+    rdfs:label "Boehm System"@en .
+
+wd:Q105402 a wd:Q4936952 ;
+    rdfs:label "ventricular system"@en .
+
+wd:Q1054094 a wd:Q188193 ;
+    rdfs:label "olfactory system"@en .
+
+wd:Q105499 a wd:Q4936952 ;
+    rdfs:label "perineum"@en .
+
+wd:Q1056395 a wd:Q4936952 ;
+    rdfs:label "soft palate"@en .
+
+wd:Q10573269 a wd:Q58778 ;
+    rdfs:label "MIDAS"@en .
+
+wd:Q1059724 a wd:Q4936952 ;
+    rdfs:label "tarsal bones"@en .
+
+wd:Q10614560 a wd:Q58778 ;
+    rdfs:label "PS-08"@en .
+
+wd:Q1064403 a wd:Q4936952 ;
+    rdfs:label "semicircular canal"@en .
+
+wd:Q10660743 a wd:Q58778 ;
+    rdfs:label "Salto"@en .
+
+wd:Q1066345 a wd:Q4936952 ;
+    rdfs:label "Bowman's capsule"@en .
+
+wd:Q1068553 a wd:Q4936952 ;
+    rdfs:label "facial skeleton"@en .
+
+wd:Q1068559 a wd:Q4936952 ;
+    rdfs:label "ileocecal valve"@en .
+
+wd:Q1069121 a wd:Q4936952 ;
+    rdfs:label "fourth ventricle"@en .
+
+wd:Q10715102 a wd:Q58778 ;
+    rdfs:label "video system"@en .
+
+wd:Q1071710 a wd:Q4936952 ;
+    rdfs:label "optic chiasm"@en .
+
+wd:Q1072 a wd:Q4936952 ;
+    rdfs:label "heart"@en .
+
+wd:Q1074839 a wd:Q4936952 ;
+    rdfs:label "atrium"@en .
+
+wd:Q1076385 a wd:Q4936952 ;
+    rdfs:label "Chordae tendineae"@en .
+
+wd:Q1079316 a wd:Q4936952 ;
+    rdfs:label "optic  Nerve tract"@en .
+
+wd:Q1084533 a wd:Q4936952 ;
+    rdfs:label "cribriform plate"@en .
+
+wd:Q10859290 a wd:Q58778 ;
+    rdfs:label "autographic film"@en .
+
+wd:Q11068 a wd:Q188193 ;
+    rdfs:label "circulatory system"@en .
+
+wd:Q11078 a wd:Q4936952 ;
+    rdfs:label "endocrine system"@en .
+
+wd:Q11083 a wd:Q4936952 ;
+    rdfs:label "large intestine"@en .
+
+wd:Q11090 a wd:Q4936952 ;
+    rdfs:label "small intestine"@en .
+
+wd:Q1115649 a wd:Q4936952 ;
+    rdfs:label "habenular commissure"@en .
+
+wd:Q11188135 a wd:Q58778 ;
+    rdfs:label "68SNA"@en .
+
+wd:Q11188476 a wd:Q58778 ;
+    rdfs:label "93SNA"@en .
+
+wd:Q1119809 a wd:Q4936952 ;
+    rdfs:label "mesocolon"@en .
+
+wd:Q11199928 a wd:Q58778 ;
+    rdfs:label "FaaS"@en .
+
+wd:Q1120057 a wd:Q58778 ;
+    rdfs:label "Cyber-physical system"@en .
+
+wd:Q11216176 a wd:Q4936952 ;
+    rdfs:label "nasal concha"@en .
+
+wd:Q11223356 a wd:Q58778 ;
+    rdfs:label "HiDS"@en .
+
+wd:Q11226604 a wd:Q58778 ;
+    rdfs:label "JUMAN"@en .
+
+wd:Q11234300 a wd:Q58778 ;
+    rdfs:label "NAAWS"@en .
+
+wd:Q1127402 a wd:Q4936952 ;
+    rdfs:label "neural tube"@en .
+
+wd:Q1128309 a wd:Q4936952 ;
+    rdfs:label "organ of Corti"@en .
+
+wd:Q1130461 a wd:Q4936952 ;
+    rdfs:label "acetabulum"@en .
+
+wd:Q1134467 a wd:Q4936952 ;
+    rdfs:label "ependyma"@en .
+
+wd:Q11397859 a wd:Q4936952 ;
+    rdfs:label "frontal pole"@en .
+
+wd:Q11465565 a wd:Q4936952 ;
+    rdfs:label "kidney tubule"@en .
+
+wd:Q1148039 a wd:Q4936952 ;
+    rdfs:label "neurocranium"@en .
+
+wd:Q11488663 a wd:Q4936952 ;
+    rdfs:label "occipital pole"@en .
+
+wd:Q1149315 a wd:Q58778 ;
+    rdfs:label "Ie"@en .
+
+wd:Q1149653 a wd:Q58778 ;
+    rdfs:label "Building automation"@en .
+
+wd:Q1149795 a wd:Q58778 ;
+    rdfs:label "Mahābhūta"@en .
+
+wd:Q11611456 a wd:Q4936952 ;
+    rdfs:label "elbow joint"@en .
+
+wd:Q11663654 a wd:Q4936952 ;
+    rdfs:label "venous valve"@en .
+
+wd:Q11692571 a wd:Q58778 ;
+    rdfs:label "DPNR"@en .
+
+wd:Q1172095 a wd:Q4936952 ;
+    rdfs:label "patellar ligament"@en .
+
+wd:Q1172934 a wd:Q4936952 ;
+    rdfs:label "wing"@en .
+
+wd:Q11740986 a wd:Q4936952 ;
+    rdfs:label "Spike"@en .
+
+wd:Q11829330 a wd:Q4936952 ;
+    rdfs:label "semicircular duct"@en .
+
+wd:Q11829360 a wd:Q4936952 ;
+    rdfs:label "gastrointestinal tract"@en .
+
+wd:Q11832981 a wd:Q58778 ;
+    rdfs:label "RAPS"@en .
+
+wd:Q11864797 rdfs:label "lymphoid tissue"@en ;
+    rdfs:subClassOf wd:Q1059 .
+
+wd:Q11905393 a wd:Q4936952 ;
+    rdfs:label "ampulla of semicircular duct"@en .
+
+wd:Q12021555 rdfs:label "Q12021555"^^xsd:string ;
+    rdfs:subClassOf wd:Q1059 .
+
+wd:Q12049050 a wd:Q58778 ;
+    rdfs:label "redox system"@en .
+
+wd:Q12058421 a wd:Q58778 ;
+    rdfs:label "Q12058421"^^xsd:string .
+
+wd:Q12062351 a wd:Q58778 ;
+    rdfs:label "ASGLA"@en .
+
+wd:Q12074838 a wd:Q58778 ;
+    rdfs:label "Q12074838"^^xsd:string .
+
+wd:Q121631 a wd:Q58778 ;
+    rdfs:label "Heijunka"@en .
+
+wd:Q12232940 a wd:Q4936952 ;
+    rdfs:label "lobar bronchus"@en .
+
+wd:Q1229864 a wd:Q58778 ;
+    rdfs:label "Q1229864"^^xsd:string .
+
+wd:Q1233836 a wd:Q4936952 ;
+    rdfs:label "fallopian tube"@en .
+
+wd:Q12353560 a wd:Q58778 ;
+    rdfs:label "P-POP"@en .
+
+wd:Q12383338 a wd:Q4936952 ;
+    rdfs:label "carpometacarpal joint"@en .
+
+wd:Q1239352 a wd:Q4936952 ;
+    rdfs:label "adipose eyelid"@en .
+
+wd:Q1245722 a wd:Q58778 ;
+    rdfs:label "T-Pay"@en .
+
+wd:Q12487572 a wd:Q4936952 ;
+    rdfs:label "respiratory bronchiole"@en .
+
+wd:Q12504163 a wd:Q58778 ;
+    rdfs:label "Pela"@en .
+
+wd:Q12581937 a wd:Q58778 ;
+    rdfs:label "TDX"@en .
+
+wd:Q1273895 a wd:Q58778 ;
+    rdfs:label "Q1273895"^^xsd:string .
+
+wd:Q1275270 a wd:Q4936952 ;
+    rdfs:label "Scolex"@en .
+
+wd:Q1276180 a wd:Q58778 ;
+    rdfs:label "European Union Emission Trading Scheme"@en .
+
+wd:Q1276903 a wd:Q4936952 ;
+    rdfs:label "siphon"@en .
+
+wd:Q12785348 a wd:Q58778 ;
+    rdfs:label "BMC3I"@en .
+
+wd:Q12799631 a wd:Q28845870 ;
+    rdfs:label "pseudocuticle"@en .
+
+wd:Q129757 a wd:Q4936952 ;
+    rdfs:label "thigh"@en .
+
+wd:Q1303814 a wd:Q58778 ;
+    rdfs:label "CPU design"@en .
+
+wd:Q1308310 a wd:Q4936952 ;
+    rdfs:label "right ventricle"@en .
+
+wd:Q13147 a wd:Q4936952 ;
+    rdfs:label "skull"@en .
+
+wd:Q133105 a wd:Q4936952 ;
+    rdfs:label "leg"@en .
+
+wd:Q1331355 a wd:Q58778 ;
+    rdfs:label "Albert system"@en .
+
+wd:Q13400765 a wd:Q4936952 ;
+    rdfs:label "respiratory tract"@en .
+
+wd:Q13439414 a wd:Q58778 ;
+    rdfs:label "Q13439414"^^xsd:string .
+
+wd:Q13442166 a wd:Q4936952 ;
+    rdfs:label "Dua's layer"@en .
+
+wd:Q1344255 a wd:Q4936952 ;
+    rdfs:label "tricuspid valve"@en .
+
+wd:Q13447863 a wd:Q58778 ;
+    rdfs:label "cafeteria model"@en .
+
+wd:Q13458754 a wd:Q58778 ;
+    rdfs:label "Q13458754"^^xsd:string .
+
+wd:Q1345983 a wd:Q4936952 ;
+    rdfs:label "hard palate"@en .
+
+wd:Q1347272 a wd:Q4936952 ;
+    rdfs:label "Q1347272"^^xsd:string .
+
+wd:Q1347390 a wd:Q4936952 ;
+    rdfs:label "Q1347390"^^xsd:string .
+
+wd:Q134938 a wd:Q4936952 ;
+    rdfs:label "salivary"@en .
+
+wd:Q134955 a wd:Q4936952 ;
+    rdfs:label "duodenum"@en .
+
+wd:Q13497806 a wd:Q4936952 ;
+    rdfs:label "cortex parahippocampalis"@en .
+
+wd:Q13571719 a wd:Q58778 ;
+    rdfs:label "Dedazo"@en .
+
+wd:Q13572354 a wd:Q4936952 ;
+    rdfs:label "Cecum"@en .
+
+wd:Q13581097 a wd:Q4936952 ;
+    rdfs:label "rostrum"@en .
+
+wd:Q1358572 a wd:Q4936952 ;
+    rdfs:label "juxtaglomerular apparatus"@en .
+
+wd:Q1359392 a wd:Q58778 ;
+    rdfs:label "On-Chip Debug System"@en .
+
+wd:Q136289 a wd:Q58778 ;
+    rdfs:label "ZMGS"@en .
+
+wd:Q1367390 a wd:Q58778 ;
+    rdfs:label "Windows CardSpace"@en .
+
+wd:Q1376925 a wd:Q58778 ;
+    rdfs:label "European Quality Improvement System"@en .
+
+wd:Q1380786 a wd:Q4936952 ;
+    rdfs:label "mantle"@en .
+
+wd:Q138167 a wd:Q4936952 ;
+    rdfs:label "gnathosoma"@en .
+
+wd:Q1392606 a wd:Q4936952 ;
+    rdfs:label "floor of the mouth"@en .
+
+wd:Q1395055 a wd:Q4936952 ;
+    rdfs:label "falx cerebri"@en .
+
+wd:Q1403158 a wd:Q28845870 ;
+    rdfs:label "cuticle"@en .
+
+wd:Q14123862 a wd:Q4936952 ;
+    rdfs:label "pleura"@en .
+
+wd:Q14290107 a wd:Q4936952 ;
+    rdfs:label "glans"@en .
+
+wd:Q1429342 a wd:Q58778 ;
+    rdfs:label "Wireless distribution system"@en .
+
+wd:Q1431311 a wd:Q4936952 ;
+    rdfs:label "synovial bursa"@en .
+
+wd:Q1432584 a wd:Q4936952 ;
+    rdfs:label "Q1432584"^^xsd:string .
+
+wd:Q14333798 a wd:Q58778 ;
+    rdfs:label "Q14333798"^^xsd:string .
+
+wd:Q143588 a wd:Q4936952 ;
+    rdfs:label "dental alveolus"@en .
+
+wd:Q143634 a wd:Q4936952 ;
+    rdfs:label "Cementoenamel junction"@en .
+
+wd:Q143652 a wd:Q4936952 ;
+    rdfs:label "tooth supporting structure"@en .
+
+wd:Q143666 a wd:Q4936952 ;
+    rdfs:label "toothcomb"@en .
+
+wd:Q1438148 a wd:Q58778 ;
+    rdfs:label "Mannheimer school system"@en .
+
+wd:Q1450531 a wd:Q58778 ;
+    rdfs:label "cyberinfrastructure"@en .
+
+wd:Q1465231 a wd:Q6671777 ;
+    rdfs:label "Halbach array"@en .
+
+wd:Q14698418 a wd:Q4936952 ;
+    rdfs:label "metacarpophalangeal joint"@en .
+
+wd:Q1473782 a wd:Q58778 ;
+    rdfs:label "CASA FITS"@en .
+
+wd:Q1484346 a wd:Q4936952 ;
+    rdfs:label "tunica intima"@en .
+
+wd:Q1488045 a wd:Q58778 ;
+    rdfs:label "Metropolitan Park System of Greater Boston"@en .
+
+wd:Q1494743 a wd:Q58778 ;
+    rdfs:label "Hxaro"@en .
+
+wd:Q1496243 a wd:Q4936952 ;
+    rdfs:label "palatine gland"@en .
+
+wd:Q1503735 a wd:Q4936952 ;
+    rdfs:label "posterior pituitary"@en .
+
+wd:Q1504804 a wd:Q58778 ;
+    rdfs:label "chord symbol"@en .
+
+wd:Q1508564 a wd:Q58778 ;
+    rdfs:label "Graph rewriting"@en .
+
+wd:Q1515072 a wd:Q4936952 ;
+    rdfs:label "mesangium"@en .
+
+wd:Q15260537 a wd:Q58778 ;
+    rdfs:label "Hitas"@en .
+
+wd:Q1531644 a wd:Q58778 ;
+    rdfs:label "GOOS"@en .
+
+wd:Q1532008 a wd:Q4936952 ;
+    rdfs:label "carotid body"@en .
+
+wd:Q1535320 a wd:Q4936952 ;
+    rdfs:label "Schlemm's canal"@en .
+
+wd:Q1536712 a wd:Q58778 ;
+    rdfs:label "Q1536712"^^xsd:string .
+
+wd:Q15376278 a wd:Q58778 ;
+    rdfs:label "Leidang"@en .
+
+wd:Q1542842 a wd:Q4936952 ;
+    rdfs:label "cardia"@en .
+
+wd:Q15474254 a wd:Q188193 ;
+    rdfs:label "Glymphatic system"@en .
+
+wd:Q1552748 a wd:Q4936952 ;
+    rdfs:label "pulmonary valve"@en .
+
+wd:Q1553891 a wd:Q58778 ;
+    rdfs:label "Long-range identification and tracking"@en .
+
+wd:Q1569338 a wd:Q4936952 ;
+    rdfs:label "Conus medullaris"@en .
+
+wd:Q1570144 a wd:Q4936952 ;
+    rdfs:label "tympanic cavity"@en .
+
+wd:Q15735058 a wd:Q4936952 ;
+    rdfs:label "shin"@en .
+
+wd:Q158716 a wd:Q4936952 ;
+    rdfs:label "rectum"@en .
+
+wd:Q15874570 a wd:Q58778 ;
+    rdfs:label "Q15874570"^^xsd:string .
+
+wd:Q159462 a wd:Q58778 ;
+    rdfs:label "food chain"@en .
+
+wd:Q1594789 a wd:Q4936952 ;
+    rdfs:label "cortical bone"@en .
+
+wd:Q160695 a wd:Q4936952 ;
+    rdfs:label "torso"@en .
+
+wd:Q1618109 a wd:Q4936952 ;
+    rdfs:label "stria vascularis"@en .
+
+wd:Q162315 a wd:Q4936952 ;
+    rdfs:label "pharyngeal tooth"@en .
+
+wd:Q16248677 a wd:Q58778 ;
+    rdfs:label "dCache"@en .
+
+wd:Q162595 a wd:Q4936952 ;
+    rdfs:label "humerus"@en .
+
+wd:Q16319153 a wd:Q4936952 ;
+    rdfs:label "Q16319153"^^xsd:string .
+
+wd:Q1634731 a wd:Q58778 ;
+    rdfs:label "Huglin index"@en .
+
+wd:Q1636218 a wd:Q58778 ;
+    rdfs:label "Hukou system"@en .
+
+wd:Q16364 a wd:Q4936952 ;
+    rdfs:label "throat"@en .
+
+wd:Q163847 a wd:Q58778 ;
+    rdfs:label "10-20 system"@en .
+
+wd:Q163987 a wd:Q4936952 ;
+    rdfs:label "thymus"@en .
+
+wd:Q1641375 a wd:Q4936952 ;
+    rdfs:label "laryngopharynx"@en .
+
+wd:Q164386 a wd:Q4936952 ;
+    rdfs:label "hypothalamus"@en .
+
+wd:Q1645075 rdfs:label "adaptive immune system"@en ;
+    rdfs:subClassOf wd:Q1059 .
+
+wd:Q16508661 a wd:Q4936952 ;
+    rdfs:label "temporal pole"@en .
+
+wd:Q1652353 a wd:Q4936952 ;
+    rdfs:label "right atrium"@en .
+
+wd:Q1660582 a wd:Q58778 ;
+    rdfs:label "Integrated Administration and Control System"@en .
+
+wd:Q16608251 a wd:Q58778 ;
+    rdfs:label "railway system"@en .
+
+wd:Q168002 a wd:Q4936952 ;
+    rdfs:label "ankle"@en .
+
+wd:Q16824923 a wd:Q4936952 ;
+    rdfs:label "Acidopore"@en .
+
+wd:Q168291 a wd:Q4936952 ;
+    rdfs:label "cornea"@en .
+
+wd:Q16873995 a wd:Q4936952 ;
+    rdfs:label "optic disc"@en .
+
+wd:Q169342 a wd:Q4936952 ;
+    rdfs:label "retina"@en .
+
+wd:Q16972650 a wd:Q58778 ;
+    rdfs:label "Prompt Assessment of Global Earthquakes for Response"@en .
+
+wd:Q169953 a wd:Q4936952 ;
+    rdfs:label "peripheral nervous system"@en .
+
+wd:Q16999162 a wd:Q4936952 ;
+    rdfs:label "Foveola"@en .
+
+wd:Q17008757 a wd:Q58778 ;
+    rdfs:label "Concentrated solar still"@en .
+
+wd:Q17070395 a wd:Q58778 ;
+    rdfs:label "MyMagic+"@en .
+
+wd:Q170758 a wd:Q4936952 ;
+    rdfs:label "lymph node"@en .
+
+wd:Q17077421 a wd:Q58778 ;
+    rdfs:label "rapid response system"@en .
+
+wd:Q17081678 a wd:Q4936952 ;
+    rdfs:label "body of femur"@en .
+
+wd:Q17086003 a wd:Q4936952 ;
+    rdfs:label "habenular nucleus"@en .
+
+wd:Q17093776 a wd:Q4936952 ;
+    rdfs:label "labial gland"@en .
+
+wd:Q171064 a wd:Q4936952 ;
+    rdfs:label "autonomic nervous system"@en .
+
+wd:Q17111418 a wd:Q4936952 ;
+    rdfs:label "inferior horn of lateral ventricle"@en .
+
+wd:Q17115943 a wd:Q58778 ;
+    rdfs:label "Flutrack"@en .
+
+wd:Q17130717 a wd:Q4936952 ;
+    rdfs:label "tentorial incisure"@en .
+
+wd:Q17132761 a wd:Q4936952 ;
+    rdfs:label "internal globus pallidus"@en .
+
+wd:Q17165229 a wd:Q58778 ;
+    rdfs:label "intelligent maintenance system"@en .
+
+wd:Q1716552 a wd:Q58778 ;
+    rdfs:label "Q1716552"^^xsd:string .
+
+wd:Q1718639 a wd:Q58778 ;
+    rdfs:label "Personal Handy-phone System"@en .
+
+wd:Q172563 a wd:Q4936952 ;
+    rdfs:label "umbilical cord"@en .
+
+wd:Q172605 a wd:Q4936952 ;
+    rdfs:label "palate"@en .
+
+wd:Q173318 a wd:Q4936952 ;
+    rdfs:label "pupil"@en .
+
+wd:Q173710 a wd:Q4936952 ;
+    rdfs:label "esophagus"@en .
+
+wd:Q173801 a wd:Q4936952 ;
+    rdfs:label "eardrum"@en .
+
+wd:Q1740954 a wd:Q4936952 ;
+    rdfs:label "tunica media"@en .
+
+wd:Q174471 a wd:Q4936952 ;
+    rdfs:label "scrotum"@en .
+
+wd:Q174778 a wd:Q4936952 ;
+    rdfs:label "pharynx"@en .
+
+wd:Q17492930 a wd:Q58778 ;
+    rdfs:label "Q17492930"^^xsd:string .
+
+wd:Q17498 a wd:Q58778 ;
+    rdfs:label "SCADA"@en .
+
+wd:Q1752136 a wd:Q4936952 ;
+    rdfs:label "renal capsule"@en .
+
+wd:Q1753456 a wd:Q4936952 ;
+    rdfs:label "glomerular basement membrane"@en .
+
+wd:Q175449 a wd:Q4936952 ;
+    rdfs:label "trachea"@en .
+
+wd:Q1755301 a wd:Q4936952 ;
+    rdfs:label "Papez circuit"@en .
+
+wd:Q1759640 a wd:Q4936952 ;
+    rdfs:label "cancellous bone"@en .
+
+wd:Q17618966 a wd:Q4936952 ;
+    rdfs:label "front side of the neck"@en .
+
+wd:Q17628514 a wd:Q4936952 ;
+    rdfs:label "lumbar fossa"@en .
+
+wd:Q176468 a wd:Q58778 ;
+    rdfs:label "state transition system"@en .
+
+wd:Q178748 a wd:Q4936952 ;
+    rdfs:label "iris"@en .
+
+wd:Q1790261 a wd:Q4936952 ;
+    rdfs:label "rump"@en .
+
+wd:Q1796515 a wd:Q4936952 ;
+    rdfs:label "corneal stroma"@en .
+
+wd:Q1798853 a wd:Q4936952 ;
+    rdfs:label "semi-lunar valve"@en .
+
+wd:Q18000022 a wd:Q58778 ;
+    rdfs:label "MoLaRi"@en .
+
+wd:Q180569 a wd:Q4936952 ;
+    rdfs:label "tonsil"@en .
+
+wd:Q18088066 a wd:Q4936952 ;
+    rdfs:label "bikini line"@en .
+
+wd:Q18088285 a wd:Q4936952 ;
+    rdfs:label "left lung"@en .
+
+wd:Q1808960 a wd:Q58778 ;
+    rdfs:label "Linear time-invariant system"@en .
+
+wd:Q1813955 a wd:Q4936952 ;
+    rdfs:label "loop of Henle"@en .
+
+wd:Q181602 a wd:Q4936952 ;
+    rdfs:label "bronchus"@en .
+
+wd:Q182228 a wd:Q4936952 ;
+    rdfs:label "brain stem"@en .
+
+wd:Q18379371 a wd:Q4936952 ;
+    rdfs:label "bundle branch"@en .
+
+wd:Q18411196 a wd:Q58778 ;
+    rdfs:label "Combined Charging System"@en .
+
+wd:Q184494 a wd:Q4936952 ;
+    rdfs:label "phalanx of the foot"@en .
+
+wd:Q18516399 a wd:Q4936952 ;
+    rdfs:label "peltidium"@en .
+
+wd:Q185317 a wd:Q4936952 ;
+    rdfs:label "cecum"@en .
+
+wd:Q185589 a wd:Q4936952 ;
+    rdfs:label "parasympathetic nervous system"@en .
+
+wd:Q185765 a wd:Q4936952 ;
+    rdfs:label "jejunum"@en .
+
+wd:Q1857678 a wd:Q4936952 ;
+    rdfs:label "Q1857678"^^xsd:string .
+
+wd:Q1860001 a wd:Q58778 ;
+    rdfs:label "Q1860001"^^xsd:string .
+
+wd:Q1869156 a wd:Q58778 ;
+    rdfs:label "Auto Fast Idle System"@en .
+
+wd:Q1877663 a wd:Q4936952 ;
+    rdfs:label "Trapezoid ligament"@en .
+
+wd:Q1883079 a wd:Q4936952 ;
+    rdfs:label "macula densa"@en .
+
+wd:Q188641 a wd:Q4936952 ;
+    rdfs:label "nipple"@en .
+
+wd:Q190634 a wd:Q4936952 ;
+    rdfs:label "central canal of spinal cord"@en .
+
+wd:Q19065 a wd:Q4936952 ;
+    rdfs:label "adrenal cortex"@en .
+
+wd:Q1906616 a wd:Q4936952 ;
+    rdfs:label "middle phalanx"@en .
+
+wd:Q191341 a wd:Q4936952 ;
+    rdfs:label "pulmonary alveolus"@en .
+
+wd:Q1913658 a wd:Q4936952 ;
+    rdfs:label "papillary muscle"@en .
+
+wd:Q1922471 a wd:Q58778 ;
+    rdfs:label "Military Grid Reference System"@en .
+
+wd:Q192419 a wd:Q4936952 ;
+    rdfs:label "diencephalon"@en .
+
+wd:Q192560 a wd:Q30336093,
+        wd:Q4936952 ;
+    rdfs:label "limbic system"@en .
+
+wd:Q1929623 a wd:Q4936952 ;
+    rdfs:label "lateral ventricle"@en .
+
+wd:Q193107 a wd:Q4936952 ;
+    rdfs:label "sclera"@en .
+
+wd:Q1934178 a wd:Q4936952 ;
+    rdfs:label "nucleus"@en .
+
+wd:Q193818 a wd:Q4936952 ;
+    rdfs:label "hip"@en .
+
+wd:Q1963159 a wd:Q58778 ;
+    rdfs:label "speach codec"@en .
+
+wd:Q1963753 a wd:Q58778 ;
+    rdfs:label "Direct Air Intake System"@en .
+
+wd:Q196883 a wd:Q58778 ;
+    rdfs:label "Zettelkasten"@en .
+
+wd:Q1989441 a wd:Q4936952 ;
+    rdfs:label "left atrium"@en .
+
+wd:Q19921788 a wd:Q58778 ;
+    rdfs:label "two points for a win"@en .
+
+wd:Q19947190 a wd:Q6671777 ;
+    rdfs:label "system"@en .
+
+wd:Q199507 a wd:Q4936952 ;
+    rdfs:label "ulna"@en .
+
+wd:Q19974134 a wd:Q58778 ;
+    rdfs:label "Idensys"@en .
+
+wd:Q20011650 a wd:Q58778 ;
+    rdfs:label "Q20011650"^^xsd:string .
+
+wd:Q2002035 a wd:Q4936952 ;
+    rdfs:label "ventricle"@en .
+
+wd:Q2002615 a wd:Q4936952 ;
+    rdfs:label "notum"@en .
+
+wd:Q2012698 a wd:Q4936952 ;
+    rdfs:label "Musculus longissimus thoracis"@en .
+
+wd:Q201319 a wd:Q58778 ;
+    rdfs:label "Naxos radar detector"@en .
+
+wd:Q2014587 a wd:Q4936952 ;
+    rdfs:label "Purkinje fiber"@en .
+
+wd:Q20155136 a wd:Q58778 ;
+    rdfs:label "Q20155136"^^xsd:string .
+
+wd:Q2025355 a wd:Q58778 ;
+    rdfs:label "OpenAPC"@en .
+
+wd:Q203800 a wd:Q4936952 ;
+    rdfs:label "anterior commissure"@en .
+
+wd:Q204301 a wd:Q4936952 ;
+    rdfs:label "Q204301"^^xsd:string .
+
+wd:Q204664 a wd:Q4936952 ;
+    rdfs:label "antenna"@en .
+
+wd:Q2048022 a wd:Q58778 ;
+    rdfs:label "bidding system"@en .
+
+wd:Q2049802 a wd:Q58778 ;
+    rdfs:label "SW handicap system"@en .
+
+wd:Q2058618 a wd:Q58778 ;
+    rdfs:label "base point pricing"@en .
+
+wd:Q20669266 a wd:Q58778 ;
+    rdfs:label "Newark charging system"@en .
+
+wd:Q206718 a wd:Q4936952 ;
+    rdfs:label "teat"@en .
+
+wd:Q20707977 a wd:Q4936952 ;
+    rdfs:label "utriculosaccular duct"@en .
+
+wd:Q2073253 a wd:Q4936952 ;
+    rdfs:label "Cooper's ligaments"@en .
+
+wd:Q2073521 a wd:Q4936952 ;
+    rdfs:label "precordium"@en .
+
+wd:Q209030 a wd:Q58778 ;
+    rdfs:label "1chipMSX"@en .
+
+wd:Q2094206 a wd:Q4936952 ;
+    rdfs:label "scutellum"@en .
+
+wd:Q2096051 a wd:Q28845870 ;
+    rdfs:label "Q2096051"^^xsd:string .
+
+wd:Q21014231 a wd:Q4936952 ;
+    rdfs:label "proximal interphalangeal joint of finger"@en .
+
+wd:Q21087161 a wd:Q4936952 ;
+    rdfs:label "macula"@en .
+
+wd:Q2116921 a wd:Q58778 ;
+    rdfs:label "Q2116921"^^xsd:string .
+
+wd:Q212344 a wd:Q4936952 ;
+    rdfs:label "inner ear"@en .
+
+wd:Q212743 a wd:Q4936952 ;
+    rdfs:label "epidermis"@en .
+
+wd:Q21281112 a wd:Q4936952 ;
+    rdfs:label "humeral shell"@en .
+
+wd:Q21281113 a wd:Q4936952 ;
+    rdfs:label "pectoral shell"@en .
+
+wd:Q21281114 a wd:Q4936952 ;
+    rdfs:label "abdominal shell"@en .
+
+wd:Q21281115 a wd:Q4936952 ;
+    rdfs:label "femoral shell"@en .
+
+wd:Q21281116 a wd:Q4936952 ;
+    rdfs:label "gular shell"@en .
+
+wd:Q21281117 a wd:Q4936952 ;
+    rdfs:label "intergular shell"@en .
+
+wd:Q21282949 a wd:Q4936952 ;
+    rdfs:label "anal shell"@en .
+
+wd:Q21283031 a wd:Q4936952 ;
+    rdfs:label "marginal shell"@en .
+
+wd:Q21283034 a wd:Q4936952 ;
+    rdfs:label "ventral shell"@en .
+
+wd:Q21283037 a wd:Q4936952 ;
+    rdfs:label "nuchal shell"@en .
+
+wd:Q21283038 a wd:Q4936952 ;
+    rdfs:label "costal shell"@en .
+
+wd:Q2131484 a wd:Q4936952 ;
+    rdfs:label "raphe"@en .
+
+wd:Q2132001 a wd:Q4936952 ;
+    rdfs:label "pubic area"@en .
+
+wd:Q2134489 a wd:Q58778 ;
+    rdfs:label "Standard Scratch Score"@en .
+
+wd:Q2135237 a wd:Q4936952 ;
+    rdfs:label "Spermatheca"@en .
+
+wd:Q2142845 a wd:Q58778 ;
+    rdfs:label "Open field system"@en .
+
+wd:Q21467398 a wd:Q58778 ;
+    rdfs:label "Status-6"@en .
+
+wd:Q215620 a wd:Q4936952 ;
+    rdfs:label "heart valve"@en .
+
+wd:Q217605 a wd:Q4936952 ;
+    rdfs:label "claw"@en .
+
+wd:Q2187860 a wd:Q58778 ;
+    rdfs:label "lenses system"@en .
+
+wd:Q2187981 a wd:Q58778 ;
+    rdfs:label "Road Energy Systems"@en .
+
+wd:Q21884056 a wd:Q58778 ;
+    rdfs:label "Q21884056"^^xsd:string .
+
+wd:Q2200632 a wd:Q4936952 ;
+    rdfs:label "renal calyx"@en .
+
+wd:Q2210232 a wd:Q58778 ;
+    rdfs:label "birth-death queueing system"@en .
+
+wd:Q2212442 a wd:Q4936952 ;
+    rdfs:label "os carpi centrale"@en .
+
+wd:Q2218417 a wd:Q4936952 ;
+    rdfs:label "saw tooth"@en .
+
+wd:Q2223826 a wd:Q30336093,
+        wd:Q4936952 ;
+    rdfs:label "artery system"@en .
+
+wd:Q2233438 a wd:Q4936952 ;
+    rdfs:label "rostrum"@en .
+
+wd:Q2237755 a wd:Q6671777 ;
+    rdfs:label "Q2237755"^^xsd:string .
+
+wd:Q223851 a wd:Q4936952 ;
+    rdfs:label "corpus callosum"@en .
+
+wd:Q2251399 a wd:Q58778 ;
+    rdfs:label "Q2251399"^^xsd:string .
+
+wd:Q2255129 a wd:Q58778 ;
+    rdfs:label "Q2255129"^^xsd:string .
+
+wd:Q2258240 a wd:Q4936952 ;
+    rdfs:label "Fenestra"@en .
+
+wd:Q2270424 a wd:Q4936952 ;
+    rdfs:label "subthalamic nucleus"@en .
+
+wd:Q2276525 a wd:Q58778 ;
+    rdfs:label "sound system"@en .
+
+wd:Q2281343 a wd:Q58778 ;
+    rdfs:label "Backup chain"@en .
+
+wd:Q228524 a wd:Q58778 ;
+    rdfs:label "Zugstabsystem"@en .
+
+wd:Q228537 a wd:Q4936952 ;
+    rdfs:label "forearm"@en .
+
+wd:Q2290527 a wd:Q4936952 ;
+    rdfs:label "Bowman's membrane"@en .
+
+wd:Q229900 a wd:Q58778 ;
+    rdfs:label "4-0 system"@en .
+
+wd:Q2299597 a wd:Q4936952 ;
+    rdfs:label "somatosensible cortex"@en .
+
+wd:Q2300176 a wd:Q4936952 ;
+    rdfs:label "area praeoptica medialis"@en .
+
+wd:Q23016442 a wd:Q58778 ;
+    rdfs:label "Q23016442"^^xsd:string .
+
+wd:Q2303937 a wd:Q58778 ;
+    rdfs:label "Activated Radical Combustion"@en .
+
+wd:Q2307492 a wd:Q4936952 ;
+    rdfs:label "renal cortex"@en .
+
+wd:Q232358 a wd:Q4936952 ;
+    rdfs:label "tendon"@en .
+
+wd:Q232377 a wd:Q4936952 ;
+    rdfs:label "carpal bone"@en .
+
+wd:Q2327095 a wd:Q58778 ;
+    rdfs:label "current circuit"@en .
+
+wd:Q232956 a wd:Q58778 ;
+    rdfs:label "two-component regulatory system"@en .
+
+wd:Q2330350 a wd:Q30336093,
+        wd:Q4936952 ;
+    rdfs:label "neurovascular system"@en .
+
+wd:Q233345 a wd:Q4936952 ;
+    rdfs:label "ileum"@en .
+
+wd:Q2340596 a wd:Q4936952 ;
+    rdfs:label "Q2340596"^^xsd:string .
+
+wd:Q2346401 a wd:Q58778 ;
+    rdfs:label "National Road network"@en .
+
+wd:Q2359844 a wd:Q4936952 ;
+    rdfs:label "anterior segment of eyeball"@en .
+
+wd:Q2361541 a wd:Q4936952 ;
+    rdfs:label "subarachnoid space"@en .
+
+wd:Q2365500 a wd:Q58778 ;
+    rdfs:label "Mongol-Tatar yoke"@en .
+
+wd:Q237229 a wd:Q4936952 ;
+    rdfs:label "metacarpal bones"@en .
+
+wd:Q2382566 a wd:Q4936952 ;
+    rdfs:label "Bacillary band"@en .
+
+wd:Q2397680 a wd:Q4936952 ;
+    rdfs:label "interventricular septum"@en .
+
+wd:Q2401214 a wd:Q4936952 ;
+    rdfs:label "Tela chorioidea"@en .
+
+wd:Q24068787 a wd:Q4936952 ;
+    rdfs:label "Nose-leaf"@en .
+
+wd:Q2409399 a wd:Q4936952 ;
+    rdfs:label "renal medulla"@en .
+
+wd:Q2409648 a wd:Q4936952 ;
+    rdfs:label "zonule of Zinn"@en .
+
+wd:Q2415713 a wd:Q58778 ;
+    rdfs:label "Theater Battle Management Core System"@en .
+
+wd:Q2421877 a wd:Q4936952 ;
+    rdfs:label "labyrinth"@en .
+
+wd:Q2426384 a wd:Q58778 ;
+    rdfs:label "Brake Activated Suspension System"@en .
+
+wd:Q2432459 a wd:Q58778 ;
+    rdfs:label "Q2432459"^^xsd:string .
+
+wd:Q2435891 a wd:Q58778 ;
+    rdfs:label "water transport system"@en .
+
+wd:Q2442878 a wd:Q58778 ;
+    rdfs:label "Linear time continue theory"@en .
+
+wd:Q2448108 a wd:Q58778 ;
+    rdfs:label "structural system"@en .
+
+wd:Q2449197 a wd:Q4936952 ;
+    rdfs:label "fundus"@en .
+
+wd:Q24517852 a wd:Q4936952 ;
+    rdfs:label "free upper limb"@en .
+
+wd:Q2465231 a wd:Q4936952 ;
+    rdfs:label "anal canal"@en .
+
+wd:Q2477891 a wd:Q58778 ;
+    rdfs:label "asbestos tracking system"@en .
+
+wd:Q2491679 a wd:Q58778 ;
+    rdfs:label "Babylonian astrology"@en .
+
+wd:Q2491790 a wd:Q58778 ;
+    rdfs:label "Q2491790"^^xsd:string .
+
+wd:Q2493901 a wd:Q58778 ;
+    rdfs:label "Sonderkonto"@en .
+
+wd:Q2497987 a wd:Q4936952 ;
+    rdfs:label "Q2497987"^^xsd:string .
+
+wd:Q2509091 a wd:Q58778 ;
+    rdfs:label "Validation Authority"@en .
+
+wd:Q25098770 a wd:Q4936952 ;
+    rdfs:label "Weber's gland"@en .
+
+wd:Q2511211 a wd:Q58778 ;
+    rdfs:label "system of Petra Sancta"@en .
+
+wd:Q252509 a wd:Q4936952 ;
+    rdfs:label "Q252509"^^xsd:string .
+
+wd:Q2527483 a wd:Q58778 ;
+    rdfs:label "ten fingers system"@en .
+
+wd:Q2529769 a wd:Q4936952 ;
+    rdfs:label "interatrial septum"@en .
+
+wd:Q25326681 a wd:Q4936952 ;
+    rdfs:label "Henry's pocket"@en .
+
+wd:Q2533722 a wd:Q4936952 ;
+    rdfs:label "foregut"@en .
+
+wd:Q2535206 a wd:Q4936952 ;
+    rdfs:label "distal phalanx"@en .
+
+wd:Q2538984 a wd:Q58778 ;
+    rdfs:label "Q2538984"^^xsd:string .
+
+wd:Q25401057 a wd:Q4936952 ;
+    rdfs:label "Q25401057"^^xsd:string .
+
+wd:Q25506562 a wd:Q4936952 ;
+    rdfs:label "thymoid"@en .
+
+wd:Q2557749 a wd:Q58778 ;
+    rdfs:label "history tram line number system Vienna"@en .
+
+wd:Q255814 a wd:Q6671777 ;
+    rdfs:label "Q255814"^^xsd:string .
+
+wd:Q25600755 a wd:Q4936952 ;
+    rdfs:label "Q25600755"^^xsd:string .
+
+wd:Q2562556 a wd:Q4936952 ;
+    rdfs:label "ascending colon"@en .
+
+wd:Q2562565 a wd:Q4936952 ;
+    rdfs:label "descending colon"@en .
+
+wd:Q256356 a wd:Q4936952 ;
+    rdfs:label "ethmoid sinus"@en .
+
+wd:Q2576226 a wd:Q4936952 ;
+    rdfs:label "rib cage"@en .
+
+wd:Q258739 a wd:Q58778 ;
+    rdfs:label "IT-system"@en .
+
+wd:Q259305 a wd:Q58778 ;
+    rdfs:label "McKinsey 7S Framework"@en .
+
+wd:Q2617767 a wd:Q58778 ;
+    rdfs:label "Canton System"@en .
+
+wd:Q2619322 a wd:Q58778 ;
+    rdfs:label "Elections according to customs and traditions"@en .
+
+wd:Q2619732 a wd:Q4936952 ;
+    rdfs:label "transverse colon"@en .
+
+wd:Q2620422 a wd:Q58778 ;
+    rdfs:label "Q2620422"^^xsd:string .
+
+wd:Q262489 a wd:Q4936952 ;
+    rdfs:label "bony labyrinth"@en .
+
+wd:Q26252285 a wd:Q4936952 ;
+    rdfs:label "anal teeth"@en .
+
+wd:Q2657962 a wd:Q4936952 ;
+    rdfs:label "foetus circulation"@en .
+
+wd:Q267641 a wd:Q4936952 ;
+    rdfs:label "habenula"@en .
+
+wd:Q2690735 a wd:Q58778 ;
+    rdfs:label "Q2690735"^^xsd:string .
+
+wd:Q26962802 a wd:Q4936952 ;
+    rdfs:label "bone of hand"@en .
+
+wd:Q27058518 a wd:Q58778 ;
+    rdfs:label "Ocean Data Acquisition System"@en .
+
+wd:Q2706793 a wd:Q4936952 ;
+    rdfs:label "salience network"@en .
+
+wd:Q2706844 a wd:Q4936952 ;
+    rdfs:label "Descemet's membrane"@en .
+
+wd:Q2708714 a wd:Q6671777 ;
+    rdfs:label "firmament"@en .
+
+wd:Q27135948 a wd:Q58778 ;
+    rdfs:label "2-1-0 points system"@en .
+
+wd:Q27135963 a wd:Q58778 ;
+    rdfs:label "3-2-1 points system"@en .
+
+wd:Q271762 a wd:Q4936952 ;
+    rdfs:label "choroid"@en .
+
+wd:Q27204875 a wd:Q58778 ;
+    rdfs:label "2-1 points system"@en .
+
+wd:Q2724242 a wd:Q4936952 ;
+    rdfs:label "cerebral lobe"@en .
+
+wd:Q273538 a wd:Q4936952 ;
+    rdfs:label "uvula"@en .
+
+wd:Q273554 a wd:Q4936952 ;
+    rdfs:label "conjunctiva"@en .
+
+wd:Q2741512 a wd:Q4936952 ;
+    rdfs:label "synovial joint"@en .
+
+wd:Q2750338 a wd:Q4936952 ;
+    rdfs:label "vocal apparatus"@en .
+
+wd:Q2753474 a wd:Q58778 ;
+    rdfs:label "BMW Motormanagement System"@en .
+
+wd:Q276572 a wd:Q4936952 ;
+    rdfs:label "insect wing"@en .
+
+wd:Q277391 a wd:Q58778 ;
+    rdfs:label "9A53 Tornado"@en .
+
+wd:Q2779460 a wd:Q4936952 ;
+    rdfs:label "Q2779460"^^xsd:string .
+
+wd:Q278321 a wd:Q58778 ;
+    rdfs:label "Circuit Switched Data"@en .
+
+wd:Q2788072 a wd:Q4936952 ;
+    rdfs:label "Transverse humeral ligament"@en .
+
+wd:Q278859 a wd:Q4936952 ;
+    rdfs:label "uvea"@en .
+
+wd:Q2795262 a wd:Q4936952 ;
+    rdfs:label "splanchnic nerves"@en .
+
+wd:Q2796182 a wd:Q4936952 ;
+    rdfs:label "Conoid ligament"@en .
+
+wd:Q27970381 a wd:Q4936952 ;
+    rdfs:label "right bundle branch"@en .
+
+wd:Q27970383 a wd:Q4936952 ;
+    rdfs:label "left bundle branch"@en .
+
+wd:Q27990930 a wd:Q4936952 ;
+    rdfs:label "proximal straight tubule"@en .
+
+wd:Q27990941 a wd:Q4936952 ;
+    rdfs:label "proximal convoluted tubule"@en .
+
+wd:Q27990955 a wd:Q4936952 ;
+    rdfs:label "distal tubule"@en .
+
+wd:Q28015618 a wd:Q4936952 ;
+    rdfs:label "cortical collecting duct"@en .
+
+wd:Q28015619 a wd:Q4936952 ;
+    rdfs:label "medullary collecting duct"@en .
+
+wd:Q28015725 a wd:Q4936952 ;
+    rdfs:label "upper urinary tract"@en .
+
+wd:Q28018104 a wd:Q4936952 ;
+    rdfs:label "synovial cavity"@en .
+
+wd:Q280969 a wd:Q4936952 ;
+    rdfs:label "lateral line"@en .
+
+wd:Q281014 a wd:Q4936952 ;
+    rdfs:label "anal verge"@en .
+
+wd:Q28114114 a wd:Q58778 ;
+    rdfs:label "Joint Surveillance Target Attack Radar System"@en .
+
+wd:Q281473 a wd:Q4936952 ;
+    rdfs:label "paranasal sinus"@en .
+
+wd:Q2816680 a wd:Q58778 ;
+    rdfs:label "4.1"@en .
+
+wd:Q2817904 a wd:Q58778 ;
+    rdfs:label "6.1"@en .
+
+wd:Q28191960 a wd:Q58778 ;
+    rdfs:label "Q28191960"^^xsd:string .
+
+wd:Q28344798 a wd:Q58778 ;
+    rdfs:label "OpenStack Swift"@en .
+
+wd:Q28472 a wd:Q4936952 ;
+    rdfs:label "hair"@en .
+
+wd:Q2849630 a wd:Q4936952 ;
+    rdfs:label "iridocorneal angle"@en .
+
+wd:Q28539636 a wd:Q4936952 ;
+    rdfs:label "exocrine system"@en .
+
+wd:Q285715 a wd:Q4936952 ;
+    rdfs:label "inguinal ligament"@en .
+
+wd:Q2859739 a wd:Q4936952 ;
+    rdfs:label "lower respiratory tract"@en .
+
+wd:Q286020 a wd:Q4936952 ;
+    rdfs:label "sinoatrial node"@en .
+
+wd:Q2861865 a wd:Q58778 ;
+    rdfs:label "Q2861865"^^xsd:string .
+
+wd:Q28653735 a wd:Q4936952 ;
+    rdfs:label "subsegmental bronchus"@en .
+
+wd:Q28656735 a wd:Q4936952 ;
+    rdfs:label "right lung lobe"@en .
+
+wd:Q28656736 a wd:Q4936952 ;
+    rdfs:label "left lung lobe"@en .
+
+wd:Q28656741 a wd:Q4936952 ;
+    rdfs:label "upper lobe of lung"@en .
+
+wd:Q28656742 a wd:Q4936952 ;
+    rdfs:label "middle lobe of lung"@en .
+
+wd:Q28656743 a wd:Q4936952 ;
+    rdfs:label "lower lobe of lung"@en .
+
+wd:Q28656757 a wd:Q4936952 ;
+    rdfs:label "upper lobe of right lung"@en .
+
+wd:Q28656758 a wd:Q4936952 ;
+    rdfs:label "middle lobe of right lung"@en .
+
+wd:Q28656759 a wd:Q4936952 ;
+    rdfs:label "lower lobe of right lung"@en .
+
+wd:Q28656761 a wd:Q4936952 ;
+    rdfs:label "upper lobe of left lung"@en .
+
+wd:Q28656763 a wd:Q4936952 ;
+    rdfs:label "lower lobe of left lung"@en .
+
+wd:Q2865763 a wd:Q4936952 ;
+    rdfs:label "synarthroidal joint"@en .
+
+wd:Q28710459 a wd:Q4936952 ;
+    rdfs:label "infundibular recess"@en .
+
+wd:Q28718845 a wd:Q4936952 ;
+    rdfs:label "medial habenular nucleus"@en .
+
+wd:Q28718851 a wd:Q4936952 ;
+    rdfs:label "lateral habenular nucleus"@en .
+
+wd:Q28755368 a wd:Q4936952 ;
+    rdfs:label "plantar region"@en .
+
+wd:Q28792174 a wd:Q4936952 ;
+    rdfs:label "radiocarpal joint"@en .
+
+wd:Q28792725 a wd:Q4936952 ;
+    rdfs:label "hip joint"@en .
+
+wd:Q28828068 a wd:Q4936952 ;
+    rdfs:label "arm bone"@en .
+
+wd:Q28828120 a wd:Q4936952 ;
+    rdfs:label "ligament of elbow joint"@en .
+
+wd:Q28828604 a wd:Q4936952 ;
+    rdfs:label "wrist joint"@en .
+
+wd:Q28843316 a wd:Q4936952 ;
+    rdfs:label "distal interphalangeal joint of finger"@en .
+
+wd:Q28843368 a wd:Q4936952 ;
+    rdfs:label "proximal phalanx of toe"@en .
+
+wd:Q28843369 a wd:Q4936952 ;
+    rdfs:label "proximal phalanx of finger"@en .
+
+wd:Q28843381 a wd:Q4936952 ;
+    rdfs:label "middle phalanx of finger"@en .
+
+wd:Q28843382 a wd:Q4936952 ;
+    rdfs:label "middle phalanx of toe"@en .
+
+wd:Q28843401 a wd:Q4936952 ;
+    rdfs:label "distal phalanx of finger"@en .
+
+wd:Q28843402 a wd:Q4936952 ;
+    rdfs:label "distal phalanx of toe"@en .
+
+wd:Q2887739 a wd:Q58778 ;
+    rdfs:label "modulating regulation"@en .
+
+wd:Q288961 a wd:Q4936952 ;
+    rdfs:label "mucosa-associated lymphoid tissue"@en .
+
+wd:Q28949062 a wd:Q6671777 ;
+    rdfs:label "Q28949062"^^xsd:string .
+
+wd:Q29076252 a wd:Q4936952 ;
+    rdfs:label "auricular cartilage"@en .
+
+wd:Q2912094 a wd:Q4936952 ;
+    rdfs:label "fossa ovalis"@en .
+
+wd:Q2914731 a wd:Q4936952 ;
+    rdfs:label "distal convoluted tubule"@en .
+
+wd:Q2916078 a wd:Q4936952 ;
+    rdfs:label "ostia pilotes"@en .
+
+wd:Q29167816 a wd:Q58778 ;
+    rdfs:label "Optical Archiver"@en .
+
+wd:Q2918337 a wd:Q58778 ;
+    rdfs:label "Bogie exchange"@en .
+
+wd:Q2941792 a wd:Q4936952 ;
+    rdfs:label "interphalangeal joint of hand"@en .
+
+wd:Q2942440 a wd:Q4936952 ;
+    rdfs:label "Q2942440"^^xsd:string .
+
+wd:Q294759 a wd:Q58778 ;
+    rdfs:label "AMDP-System"@en .
+
+wd:Q29551619 a wd:Q4936952 ;
+    rdfs:label "filiform papilla"@en .
+
+wd:Q29551707 a wd:Q4936952 ;
+    rdfs:label "fungiform papilla"@en .
+
+wd:Q29551815 a wd:Q4936952 ;
+    rdfs:label "vallate papilla"@en .
+
+wd:Q29551886 a wd:Q4936952 ;
+    rdfs:label "foliate papilla"@en .
+
+wd:Q29551994 a wd:Q4936952 ;
+    rdfs:label "gustatory papilla"@en .
+
+wd:Q29554898 a wd:Q4936952 ;
+    rdfs:label "major salivary gland"@en .
+
+wd:Q29555471 a wd:Q4936952 ;
+    rdfs:label "buccal gland"@en .
+
+wd:Q29555512 a wd:Q4936952 ;
+    rdfs:label "molar gland"@en .
+
+wd:Q29555580 a wd:Q4936952 ;
+    rdfs:label "lingual gland"@en .
+
+wd:Q296254 a wd:Q58778 ;
+    rdfs:label "APRS Label System"@en .
+
+wd:Q29641795 a wd:Q4936952 ;
+    rdfs:label "pars tensa"@en .
+
+wd:Q29654295 a wd:Q4936952 ;
+    rdfs:label "otolith organ"@en .
+
+wd:Q29715897 a wd:Q4936952 ;
+    rdfs:label "lateral semicircular canal"@en .
+
+wd:Q29715904 a wd:Q4936952 ;
+    rdfs:label "lateral semicircular duct"@en .
+
+wd:Q29717447 a wd:Q4936952 ;
+    rdfs:label "anterior semicircular canal"@en .
+
+wd:Q29717452 a wd:Q4936952 ;
+    rdfs:label "anterior semicircular duct"@en .
+
+wd:Q29718855 a wd:Q4936952 ;
+    rdfs:label "posterior semicircular canal"@en .
+
+wd:Q29718860 a wd:Q4936952 ;
+    rdfs:label "posterior semicircular duct"@en .
+
+wd:Q29728284 a wd:Q4936952 ;
+    rdfs:label "lateral bony ampulla"@en .
+
+wd:Q29728287 a wd:Q4936952 ;
+    rdfs:label "lateral membranous ampulla"@en .
+
+wd:Q29729440 a wd:Q4936952 ;
+    rdfs:label "anterior bony ampulla"@en .
+
+wd:Q29729444 a wd:Q4936952 ;
+    rdfs:label "anterior membranous ampulla"@en .
+
+wd:Q29730614 a wd:Q4936952 ;
+    rdfs:label "posterior bony ampulla"@en .
+
+wd:Q29730618 a wd:Q4936952 ;
+    rdfs:label "posterior membranous ampulla"@en .
+
+wd:Q2996130 a wd:Q58778 ;
+    rdfs:label "Entry control systems"@en .
+
+wd:Q30015772 a wd:Q4936952 ;
+    rdfs:label "jejunal mucosa"@en .
+
+wd:Q30015775 a wd:Q4936952 ;
+    rdfs:label "epithelium of esophagus"@en .
+
+wd:Q30015791 a wd:Q4936952 ;
+    rdfs:label "caput epididymis"@en .
+
+wd:Q30015794 a wd:Q4936952 ;
+    rdfs:label "corpus epididymis"@en .
+
+wd:Q30015816 a wd:Q4936952 ;
+    rdfs:label "saphenous vein"@en .
+
+wd:Q30026228 a wd:Q4936952 ;
+    rdfs:label "myocardium of ventricle"@en .
+
+wd:Q30026336 a wd:Q4936952 ;
+    rdfs:label "muscle of leg"@en .
+
+wd:Q30026393 a wd:Q4936952 ;
+    rdfs:label "digastric muscle group"@en .
+
+wd:Q30026933 a wd:Q4936952 ;
+    rdfs:label "sexually immature organism"@en .
+
+wd:Q30026943 a wd:Q4936952 ;
+    rdfs:label "left colon"@en .
+
+wd:Q30026965 a wd:Q4936952 ;
+    rdfs:label "conjunctival fornix"@en .
+
+wd:Q30029740 a wd:Q4936952 ;
+    rdfs:label "bronchial epithelial cell"@en .
+
+wd:Q30029801 a wd:Q4936952 ;
+    rdfs:label "zone of skin"@en .
+
+wd:Q30030409 a wd:Q4936952 ;
+    rdfs:label "metanephric glomerulus"@en .
+
+wd:Q30030467 a wd:Q4936952 ;
+    rdfs:label "cervix epithelium"@en .
+
+wd:Q30030505 a wd:Q4936952 ;
+    rdfs:label "superior surface of tongue"@en .
+
+wd:Q30030529 a wd:Q4936952 ;
+    rdfs:label "layer of synovial tissue"@en .
+
+wd:Q30030569 a wd:Q4936952 ;
+    rdfs:label "body of tongue"@en .
+
+wd:Q30104011 a wd:Q4936952 ;
+    rdfs:label "cardiac septum"@en .
+
+wd:Q3023886 a wd:Q58778 ;
+    rdfs:label "Computer Leveling Air Suspension System"@en .
+
+wd:Q30320470 a wd:Q4936952 ;
+    rdfs:label "scleral stroma"@en .
+
+wd:Q30348885 a wd:Q4936952 ;
+    rdfs:label "bulbar conjunctiva"@en .
+
+wd:Q30348886 a wd:Q4936952 ;
+    rdfs:label "palpebral conjunctiva"@en .
+
+wd:Q30348959 a wd:Q4936952 ;
+    rdfs:label "upper eyelid"@en .
+
+wd:Q30348960 a wd:Q4936952 ;
+    rdfs:label "lower eyelid"@en .
+
+wd:Q3036574 a wd:Q58778 ;
+    rdfs:label "gender system"@en .
+
+wd:Q3078809 a wd:Q4936952 ;
+    rdfs:label "cerebellar vermis"@en .
+
+wd:Q3089359 a wd:Q4936952 ;
+    rdfs:label "Frustule"@en .
+
+wd:Q3090272 a wd:Q58778 ;
+    rdfs:label "Öhler system"@en .
+
+wd:Q3108494 a wd:Q4936952 ;
+    rdfs:label "minor salivary gland"@en .
+
+wd:Q3136420 a wd:Q58778 ;
+    rdfs:label "Air Stabilisation System"@en .
+
+wd:Q3139015 a wd:Q58778 ;
+    rdfs:label "Integrated NATO Air Defense System"@en .
+
+wd:Q3146655 a wd:Q58778 ;
+    rdfs:label "Q3146655"^^xsd:string .
+
+wd:Q31528 a wd:Q4936952 ;
+    rdfs:label "beak"@en .
+
+wd:Q317857 a wd:Q4936952 ;
+    rdfs:label "cochlea"@en .
+
+wd:Q31861298 a wd:Q4936952 ;
+    rdfs:label "upper gastrointestinal tract"@en .
+
+wd:Q31861950 a wd:Q4936952 ;
+    rdfs:label "lower gastrointestinal tract"@en .
+
+wd:Q3190065 a wd:Q58778 ;
+    rdfs:label "Dry Alternator Drive System"@en .
+
+wd:Q320524 a wd:Q4936952 ;
+    rdfs:label "metatarsal bones"@en .
+
+wd:Q320561 a wd:Q4936952 ;
+    rdfs:label "Eustachian tube"@en .
+
+wd:Q3216080 a wd:Q4936952 ;
+    rdfs:label "calf"@en .
+
+wd:Q3241072 a wd:Q4936952 ;
+    rdfs:label "medial collateral ligament"@en .
+
+wd:Q324663 a wd:Q4936952 ;
+    rdfs:label "endocrine gland"@en .
+
+wd:Q3247568 a wd:Q4936952 ;
+    rdfs:label "lamella"@en .
+
+wd:Q326710 a wd:Q4936952 ;
+    rdfs:label "vitreous humour"@en .
+
+wd:Q3268580 a wd:Q4936952 ;
+    rdfs:label "von Ebner's gland"@en .
+
+wd:Q3270352 a wd:Q4936952 ;
+    rdfs:label "body of stomach"@en .
+
+wd:Q3276159 a wd:Q4936952 ;
+    rdfs:label "upper respiratory tract"@en .
+
+wd:Q3279041 a wd:Q4936952 ;
+    rdfs:label "vestibule of the ear"@en .
+
+wd:Q3280579 a wd:Q58778 ;
+    rdfs:label "one key system"@en .
+
+wd:Q3301573 a wd:Q4936952 ;
+    rdfs:label "zona fasciculata"@en .
+
+wd:Q33026699 a wd:Q6671777 ;
+    rdfs:label "cosmic web"@en .
+
+wd:Q3307447 a wd:Q58778 ;
+    rdfs:label "Metrocable"@en .
+
+wd:Q33126544 a wd:Q4936952 ;
+    rdfs:label "ileocecal junction"@en .
+
+wd:Q33138851 a wd:Q4936952 ;
+    rdfs:label "pyloric part"@en .
+
+wd:Q332116 a wd:Q58778 ;
+    rdfs:label "Übergangssystem"@en .
+
+wd:Q3323810 a wd:Q4936952 ;
+    rdfs:label "proximal phalanx"@en .
+
+wd:Q3333376 a wd:Q4936952 ;
+    rdfs:label "Q3333376"^^xsd:string .
+
+wd:Q334848 a wd:Q30336093 ;
+    rdfs:label "complement system"@en .
+
+wd:Q3358595 a wd:Q58778 ;
+    rdfs:label "medicines reimbursement system"@en .
+
+wd:Q3366043 a wd:Q4936952 ;
+    rdfs:label "pars plana"@en .
+
+wd:Q3366579 a wd:Q58778 ;
+    rdfs:label "National League System"@en .
+
+wd:Q3368336 a wd:Q4936952 ;
+    rdfs:label "cardiac chamber"@en .
+
+wd:Q3393910 a wd:Q4936952 ;
+    rdfs:label "tympanic duct"@en .
+
+wd:Q340687 a wd:Q4936952 ;
+    rdfs:label "underarm hair"@en .
+
+wd:Q3407707 a wd:Q4936952 ;
+    rdfs:label "Q3407707"^^xsd:string .
+
+wd:Q34120687 a wd:Q58778 ;
+    rdfs:label "eID system"@en .
+
+wd:Q3433754 a wd:Q58778 ;
+    rdfs:label "cutting extinguisher"@en .
+
+wd:Q3451645 a wd:Q58778 ;
+    rdfs:label "Q3451645"^^xsd:string .
+
+wd:Q3459603 a wd:Q58778 ;
+    rdfs:label "Q3459603"^^xsd:string .
+
+wd:Q34630 a wd:Q4936952 ;
+    rdfs:label "abdomen"@en .
+
+wd:Q3476804 a wd:Q58778 ;
+    rdfs:label "Searev"@en .
+
+wd:Q3478803 a wd:Q58778 ;
+    rdfs:label "Sentry"@en .
+
+wd:Q3486606 a wd:Q4936952 ;
+    rdfs:label "posterior parietal cortex"@en .
+
+wd:Q3487444 a wd:Q58778 ;
+    rdfs:label "Q3487444"^^xsd:string .
+
+wd:Q3494094 a wd:Q4936952 ;
+    rdfs:label "saccule"@en .
+
+wd:Q3497796 a wd:Q4936952 ;
+    rdfs:label "visceral pleura"@en .
+
+wd:Q3499793 a wd:Q4936952 ;
+    rdfs:label "mature vesicular follicle, antral follicle"@en .
+
+wd:Q3502628 a wd:Q6671777 ;
+    rdfs:label "Survival of the Fattest"@en .
+
+wd:Q3504992 a wd:Q58778 ;
+    rdfs:label "Export Control System"@en .
+
+wd:Q350858 a wd:Q4936952 ;
+    rdfs:label "Q350858"^^xsd:string .
+
+wd:Q3508689 a wd:Q4936952 ;
+    rdfs:label "parietal pleura"@en .
+
+wd:Q3508767 a wd:Q58778 ;
+    rdfs:label "Dynamic Delegation Discovery System"@en .
+
+wd:Q3509293 a wd:Q58778 ;
+    rdfs:label "Air traffic control radar beacon system"@en .
+
+wd:Q3512295 a wd:Q58778 ;
+    rdfs:label "TORAN"@en .
+
+wd:Q352045 a wd:Q4936952 ;
+    rdfs:label "Adam's apple"@en .
+
+wd:Q352116 a wd:Q4936952 ;
+    rdfs:label "Adipose fin"@en .
+
+wd:Q3525903 a wd:Q4936952 ;
+    rdfs:label "secondary palate"@en .
+
+wd:Q3529455 a wd:Q4936952 ;
+    rdfs:label "lymphatic tissue"@en .
+
+wd:Q3536081 a wd:Q4936952 ;
+    rdfs:label "right heart"@en .
+
+wd:Q3536102 a wd:Q4936952 ;
+    rdfs:label "left heart"@en .
+
+wd:Q3538315 a wd:Q6671777 ;
+    rdfs:label "Tree of Life"@en .
+
+wd:Q3549771 a wd:Q4936952 ;
+    rdfs:label "zona reticularis"@en .
+
+wd:Q3551060 a wd:Q4936952 ;
+    rdfs:label "zona glomerulosa"@en .
+
+wd:Q3553005 a wd:Q58778 ;
+    rdfs:label "VSA"@en .
+
+wd:Q3558135 a wd:Q58778 ;
+    rdfs:label "Q3558135"^^xsd:string .
+
+wd:Q356002 a wd:Q4936952 ;
+    rdfs:label "anterior pituitary"@en .
+
+wd:Q360768 a wd:Q4936952 ;
+    rdfs:label "labrum"@en .
+
+wd:Q3624383 a wd:Q4936952 ;
+    rdfs:label "hand joint"@en .
+
+wd:Q3641113 a wd:Q58778 ;
+    rdfs:label "Bloxes"@en .
+
+wd:Q3645287 a wd:Q4936952 ;
+    rdfs:label "terminal bronchiole"@en .
+
+wd:Q36857 a wd:Q4936952 ;
+    rdfs:label "oviduct"@en .
+
+wd:Q36864 a wd:Q4936952 ;
+    rdfs:label "nail"@en .
+
+wd:Q369939 a wd:Q4936952 ;
+    rdfs:label "mitral valve"@en .
+
+wd:Q37017 a wd:Q4936952 ;
+    rdfs:label "face"@en .
+
+wd:Q3706364 a wd:Q58778 ;
+    rdfs:label "Dfree"@en .
+
+wd:Q372409 a wd:Q4936952 ;
+    rdfs:label "vena cava"@en .
+
+wd:Q3745702 a wd:Q4936952 ;
+    rdfs:label "Infratemporal fenestra"@en .
+
+wd:Q3752103 a wd:Q4936952 ;
+    rdfs:label "Zona incerta"@en .
+
+wd:Q376151 a wd:Q4936952 ;
+    rdfs:label "hinge joint"@en .
+
+wd:Q376390 a wd:Q4936952 ;
+    rdfs:label "Meckel's cartilage"@en .
+
+wd:Q3776165 a wd:Q4936952 ;
+    rdfs:label "renal pyramid"@en .
+
+wd:Q379323 a wd:Q58778 ;
+    rdfs:label "Q379323"^^xsd:string .
+
+wd:Q379555 a wd:Q58778 ;
+    rdfs:label "Advanced Function Presentation"@en .
+
+wd:Q379858 a wd:Q4936952 ;
+    rdfs:label "auricle"@en .
+
+wd:Q379859 a wd:Q4936952 ;
+    rdfs:label "upper arm"@en .
+
+wd:Q379955 a wd:Q58778 ;
+    rdfs:label "Adventure Master"@en .
+
+wd:Q380510 a wd:Q4936952 ;
+    rdfs:label "aedeagus"@en .
+
+wd:Q38095875 a wd:Q4936952 ;
+    rdfs:label "pleural sac"@en .
+
+wd:Q38096554 a wd:Q4936952 ;
+    rdfs:label "mediastinal pleura"@en .
+
+wd:Q38096556 a wd:Q4936952 ;
+    rdfs:label "costal pleura"@en .
+
+wd:Q38096558 a wd:Q4936952 ;
+    rdfs:label "diaphragmatic pleura"@en .
+
+wd:Q38096559 a wd:Q4936952 ;
+    rdfs:label "pleural cupula"@en .
+
+wd:Q3823855 a wd:Q4936952 ;
+    rdfs:label "macula of saccule"@en .
+
+wd:Q382417 a wd:Q4936952 ;
+    rdfs:label "afferent nerve fiber"@en .
+
+wd:Q3824661 a wd:Q4936952 ;
+    rdfs:label "endolymphatic duct"@en .
+
+wd:Q382991 a wd:Q4936952 ;
+    rdfs:label "reticular activating system"@en .
+
+wd:Q3841325 a wd:Q58778 ;
+    rdfs:label "MIC-3"@en .
+
+wd:Q3841326 a wd:Q58778 ;
+    rdfs:label "MIC-4"@en .
+
+wd:Q3841327 a wd:Q58778 ;
+    rdfs:label "MIC-2"@en .
+
+wd:Q384506 a wd:Q58778 ;
+    rdfs:label "Mestnichestvo"@en .
+
+wd:Q384631 a wd:Q4936952 ;
+    rdfs:label "supraglenoid tubercle"@en .
+
+wd:Q385239 a wd:Q58778 ;
+    rdfs:label "European Monetary System"@en .
+
+wd:Q387427 a wd:Q58778 ;
+    rdfs:label "push email"@en .
+
+wd:Q3879394 a wd:Q58778 ;
+    rdfs:label "Portsmouth Yardstick"@en .
+
+wd:Q389723 a wd:Q4936952 ;
+    rdfs:label "Glisson's capsule"@en .
+
+wd:Q3908521 a wd:Q4936952 ;
+    rdfs:label "alveolar pore"@en .
+
+wd:Q3928426 a wd:Q58778 ;
+    rdfs:label "RZ-25"@en .
+
+wd:Q3951891 a wd:Q6671777 ;
+    rdfs:label "metrical pattern"@en .
+
+wd:Q4008403 a wd:Q4936952 ;
+    rdfs:label "valve"@en .
+
+wd:Q402431 a wd:Q4936952 ;
+    rdfs:label "tragus"@en .
+
+wd:Q4038509 a wd:Q58778 ;
+    rdfs:label "FB-6A"@en .
+
+wd:Q4112929 a wd:Q4936952 ;
+    rdfs:label "Human vagina"@en .
+
+wd:Q4115130 a wd:Q4936952 ;
+    rdfs:label "frontal crest"@en .
+
+wd:Q4115800 a wd:Q4936952 ;
+    rdfs:label "pericardial cavity"@en .
+
+wd:Q4116732 a wd:Q4936952 ;
+    rdfs:label "lesser wing of sphenoid bone"@en .
+
+wd:Q4133300 a wd:Q4936952 ;
+    rdfs:label "connecting tubule"@en .
+
+wd:Q4139178 a wd:Q4936952 ;
+    rdfs:label "main bronchus"@en .
+
+wd:Q41759310 a wd:Q4936952 ;
+    rdfs:label "Hippocampal commissure"@en .
+
+wd:Q4200299 rdfs:label "Ocular immune system"@en ;
+    rdfs:subClassOf wd:Q1059 .
+
+wd:Q42120949 a wd:Q4936952 ;
+    rdfs:label "prepuce"@en .
+
+wd:Q42309126 a wd:Q6671777 ;
+    rdfs:label "Dorsland Trekker Cottage"@en .
+
+wd:Q42586 a wd:Q4936952 ;
+    rdfs:label "elbow"@en .
+
+wd:Q4261107 a wd:Q58778 ;
+    rdfs:label "Intelligent Parking Assist System"@en .
+
+wd:Q426139 a wd:Q4936952 ;
+    rdfs:label "foramen magnum"@en .
+
+wd:Q4265757 a wd:Q58778 ;
+    rdfs:label "Gunfire locator"@en .
+
+wd:Q4273598 a wd:Q58778 ;
+    rdfs:label "МС5"@en .
+
+wd:Q428822 a wd:Q58778 ;
+    rdfs:label "Unified numbering system"@en .
+
+wd:Q4332954 a wd:Q58778 ;
+    rdfs:label "octave system"@en .
+
+wd:Q434543 a wd:Q58778 ;
+    rdfs:label "AVR-TODO"@en .
+
+wd:Q43511656 a wd:Q58778 ;
+    rdfs:label "GCCS—J Global"@en .
+
+wd:Q43512507 a wd:Q58778 ;
+    rdfs:label "Joint Operation Planning and Execution System"@en .
+
+wd:Q43513472 a wd:Q58778 ;
+    rdfs:label "Modernized Integrated Database"@en .
+
+wd:Q43513994 a wd:Q58778 ;
+    rdfs:label "Joint Targeting Toolbox"@en .
+
+wd:Q4377727 a wd:Q58778 ;
+    rdfs:label "Q4377727"^^xsd:string .
+
+wd:Q43994368 a wd:Q4936952 ;
+    rdfs:label "pars intercerebralis"@en .
+
+wd:Q4449270 a wd:Q6671777 ;
+    rdfs:label "dimension"@en .
+
+wd:Q452419 a wd:Q4936952 ;
+    rdfs:label "collecting duct system"@en .
+
+wd:Q4584563 a wd:Q58778 ;
+    rdfs:label "Mating system"@en .
+
+wd:Q459987 a wd:Q4936952 ;
+    rdfs:label "water vascular system"@en .
+
+wd:Q463675 a wd:Q58778 ;
+    rdfs:label "Wiedergutmachung"@en .
+
+wd:Q464020 a wd:Q58778 ;
+    rdfs:label "Instrument Landing System"@en .
+
+wd:Q4646954 a wd:Q58778 ;
+    rdfs:label "A-VSB"@en .
+
+wd:Q4650867 a wd:Q58778 ;
+    rdfs:label "Automated Confirmation Transaction Service"@en .
+
+wd:Q4677130 a wd:Q58778 ;
+    rdfs:label "Action Office"@en .
+
+wd:Q468140 a wd:Q4936952 ;
+    rdfs:label "phalanx of finger"@en .
+
+wd:Q4683049 a wd:Q4936952 ;
+    rdfs:label "aditus to mastoid antrum"@en .
+
+wd:Q4686286 a wd:Q58778 ;
+    rdfs:label "Advanced Tactical Airborne Reconnaissance System"@en .
+
+wd:Q4690902 a wd:Q58778 ;
+    rdfs:label "AgCam"@en .
+
+wd:Q469660 a wd:Q4936952 ;
+    rdfs:label "tubercle"@en .
+
+wd:Q47273 a wd:Q4936952 ;
+    rdfs:label "Central nervous system"@en .
+
+wd:Q4737946 a wd:Q4936952 ;
+    rdfs:label "alveolar duct"@en .
+
+wd:Q4737959 a wd:Q4936952 ;
+    rdfs:label "alveolar septum"@en .
+
+wd:Q4739730 a wd:Q4936952 ;
+    rdfs:label "sinus venosus"@en .
+
+wd:Q47406287 a wd:Q6671777 ;
+    rdfs:label "Vadivam"@en .
+
+wd:Q4748565 a wd:Q4936952 ;
+    rdfs:label "cupula"@en .
+
+wd:Q47507681 a wd:Q4936952 ;
+    rdfs:label "renal segment"@en .
+
+wd:Q47507690 a wd:Q4936952 ;
+    rdfs:label "superior renal segment"@en .
+
+wd:Q47507691 a wd:Q4936952 ;
+    rdfs:label "anterior superior renal segment"@en .
+
+wd:Q47507692 a wd:Q4936952 ;
+    rdfs:label "anterior inferior renal segment"@en .
+
+wd:Q47507693 a wd:Q4936952 ;
+    rdfs:label "inferior renal segment"@en .
+
+wd:Q47507694 a wd:Q4936952 ;
+    rdfs:label "posterior renal segment"@en .
+
+wd:Q475167 a wd:Q4936952 ;
+    rdfs:label "gill raker"@en .
+
+wd:Q476820 a wd:Q4936952 ;
+    rdfs:label "tarsus"@en .
+
+wd:Q4769748 a wd:Q4936952 ;
+    rdfs:label "annulus"@en .
+
+wd:Q4769753 a wd:Q4936952 ;
+    rdfs:label "annulus"@en .
+
+wd:Q4771351 a wd:Q4936952 ;
+    rdfs:label "anterior horn of lateral ventricle"@en .
+
+wd:Q4771352 a wd:Q4936952 ;
+    rdfs:label "anterior hypothalamic nucleus"@en .
+
+wd:Q4771356 a wd:Q4936952 ;
+    rdfs:label "anterior interventricular sulcus"@en .
+
+wd:Q4771366 a wd:Q4936952 ;
+    rdfs:label "anterior lingual gland"@en .
+
+wd:Q4774597 a wd:Q58778 ;
+    rdfs:label "Anticausal system"@en .
+
+wd:Q477734 a wd:Q4936952 ;
+    rdfs:label "gizzard"@en .
+
+wd:Q4777779 a wd:Q4936952 ;
+    rdfs:label "anular ligament of radius"@en .
+
+wd:Q4787378 a wd:Q58778 ;
+    rdfs:label "Archy"@en .
+
+wd:Q4817572 a wd:Q4936952 ;
+    rdfs:label "atrioventricular septum"@en .
+
+wd:Q48228 a wd:Q4936952 ;
+    rdfs:label "eyelid"@en .
+
+wd:Q4828088 a wd:Q58778 ;
+    rdfs:label "Compact Drive System"@en .
+
+wd:Q483213 a wd:Q188193 ;
+    rdfs:label "integumentary system"@en .
+
+wd:Q4834680 a wd:Q58778 ;
+    rdfs:label "BATCO"@en .
+
+wd:Q4835748 a wd:Q58778 ;
+    rdfs:label "BIX"@en .
+
+wd:Q4835997 a wd:Q58778 ;
+    rdfs:label "BMRST"@en .
+
+wd:Q4836203 a wd:Q58778 ;
+    rdfs:label "BOINC Credit System"@en .
+
+wd:Q4836327 a wd:Q58778 ;
+    rdfs:label "BRAMS"@en .
+
+wd:Q4841652 a wd:Q6671777 ;
+    rdfs:label "Bagh-e Melli"@en .
+
+wd:Q486901 a wd:Q58778 ;
+    rdfs:label "Secondary market"@en .
+
+wd:Q4902356 a wd:Q58778 ;
+    rdfs:label "BiLock"@en .
+
+wd:Q492268 a wd:Q58778 ;
+    rdfs:label "Andon"@en .
+
+wd:Q4927079 a wd:Q4936952 ;
+    rdfs:label "lambda"@en .
+
+wd:Q493067 a wd:Q58778 ;
+    rdfs:label "CV/Gate"@en .
+
+wd:Q4936941 a wd:Q4936952 ;
+    rdfs:label "body of lateral ventricle"@en .
+
+wd:Q4944225 a wd:Q58778 ;
+    rdfs:label "Conversational Programming System"@en .
+
+wd:Q4982221 a wd:Q58778 ;
+    rdfs:label "Bubble curtain"@en .
+
+wd:Q498685 a wd:Q4936952 ;
+    rdfs:label "Kiesselbach's plexus"@en .
+
+wd:Q4989778 a wd:Q4936952 ;
+    rdfs:label "Q4989778"^^xsd:string .
+
+wd:Q499802 a wd:Q4936952 ;
+    rdfs:label "mammillary body"@en .
+
+wd:Q500634 a wd:Q4936952 ;
+    rdfs:label "nasal septum"@en .
+
+wd:Q5008836 a wd:Q58778 ;
+    rdfs:label "CARTO"@en .
+
+wd:Q5009750 a wd:Q58778 ;
+    rdfs:label "CCVS"@en .
+
+wd:Q5014630 a wd:Q58778 ;
+    rdfs:label "CTV Atlantic"@en .
+
+wd:Q501553 a wd:Q4936952 ;
+    rdfs:label "middle ear"@en .
+
+wd:Q5022111 a wd:Q58778 ;
+    rdfs:label "Calligraphic projection"@en .
+
+wd:Q5025979 a wd:Q4936952 ;
+    rdfs:label "camera"@en .
+
+wd:Q502704 a wd:Q4936952 ;
+    rdfs:label "bronchiole"@en .
+
+wd:Q5031084 a wd:Q4936952 ;
+    rdfs:label "ductus reuniens"@en .
+
+wd:Q5031097 a wd:Q4936952 ;
+    rdfs:label "Canals of Hering"@en .
+
+wd:Q503944 a wd:Q4936952 ;
+    rdfs:label "posterior cranial fossa"@en .
+
+wd:Q5058796 a wd:Q4936952 ;
+    rdfs:label "Cenchrus"@en .
+
+wd:Q5061652 a wd:Q58778 ;
+    rdfs:label "Central Pipeline"@en .
+
+wd:Q5072505 a wd:Q58778 ;
+    rdfs:label "Channel memory"@en .
+
+wd:Q509053 a wd:Q4936952 ;
+    rdfs:label "atrioventricular node"@en .
+
+wd:Q5148530 a wd:Q6671777 ;
+    rdfs:label "Color-tagged structure"@en .
+
+wd:Q5150187 a wd:Q4936952 ;
+    rdfs:label "Columella"@en .
+
+wd:Q5152886 a wd:Q4936952 ;
+    rdfs:label "commissural fiber"@en .
+
+wd:Q5159465 a wd:Q4936952 ;
+    rdfs:label "cone of light"@en .
+
+wd:Q5172197 a wd:Q4936952 ;
+    rdfs:label "coronary sulcus"@en .
+
+wd:Q5186106 a wd:Q4936952 ;
+    rdfs:label "ampullary crest"@en .
+
+wd:Q5188170 a wd:Q58778 ;
+    rdfs:label "Cross-domain solution"@en .
+
+wd:Q5192273 a wd:Q4936952 ;
+    rdfs:label "Cubital tunnel"@en .
+
+wd:Q5206196 a wd:Q58778 ;
+    rdfs:label "DSSim"@en .
+
+wd:Q52063548 a wd:Q58778 ;
+    rdfs:label "BC Parks and Protected Areas System"@en .
+
+wd:Q522113 a wd:Q4936952 ;
+    rdfs:label "proventriculus"@en .
+
+wd:Q5263721 a wd:Q4936952 ;
+    rdfs:label "descending limb of loop of Henle"@en .
+
+wd:Q5281607 a wd:Q4936952 ;
+    rdfs:label "arthropod mandible"@en .
+
+wd:Q5310209 a wd:Q58778 ;
+    rdfs:label "Dual ignition"@en .
+
+wd:Q5311589 a wd:Q4936952 ;
+    rdfs:label "papillary duct"@en .
+
+wd:Q5321438 a wd:Q58778 ;
+    rdfs:label "E-Petitioner"@en .
+
+wd:Q5321464 a wd:Q58778 ;
+    rdfs:label "e-TAG"@en .
+
+wd:Q5322940 a wd:Q58778 ;
+    rdfs:label "EEWH"@en .
+
+wd:Q5323220 a wd:Q58778 ;
+    rdfs:label "EJARI"@en .
+
+wd:Q5324002 a wd:Q58778 ;
+    rdfs:label "ERAM"@en .
+
+wd:Q5324514 a wd:Q58778 ;
+    rdfs:label "eToll"@en .
+
+wd:Q5333164 a wd:Q58778 ;
+    rdfs:label "EcocyclET systems"@en .
+
+wd:Q5367024 a wd:Q4936952 ;
+    rdfs:label "mastoid antrum"@en .
+
+wd:Q5370587 a wd:Q58778 ;
+    rdfs:label "Emergency Detection System"@en .
+
+wd:Q5376355 a wd:Q4936952 ;
+    rdfs:label "endolymphatic sac"@en .
+
+wd:Q5408386 a wd:Q58778 ;
+    rdfs:label "DIS"@en .
+
+wd:Q54086779 a wd:Q58778 ;
+    rdfs:label "Q54086779"^^xsd:string .
+
+wd:Q5420744 a wd:Q58778 ;
+    rdfs:label "Expandable tubular technology"@en .
+
+wd:Q5449279 a wd:Q4936952 ;
+    rdfs:label "filtration slit"@en .
+
+wd:Q54612110 a wd:Q58778 ;
+    rdfs:label "Q54612110"^^xsd:string .
+
+wd:Q546196 a wd:Q4936952 ;
+    rdfs:label "circular fold"@en .
+
+wd:Q5464056 a wd:Q58778 ;
+    rdfs:label "Fog display"@en .
+
+wd:Q5476216 a wd:Q58778 ;
+    rdfs:label "USALI"@en .
+
+wd:Q54871741 a wd:Q6671777 ;
+    rdfs:label "Haleʻākala"@en .
+
+wd:Q5499652 a wd:Q58778 ;
+    rdfs:label "FreeGEM"@en .
+
+wd:Q55006445 a wd:Q4936952 ;
+    rdfs:label "left coronary sulcus"@en .
+
+wd:Q55006447 a wd:Q4936952 ;
+    rdfs:label "right coronary sulcus"@en .
+
+wd:Q551808 a wd:Q4936952 ;
+    rdfs:label "cerebral hemisphere"@en .
+
+wd:Q552082 a wd:Q4936952 ;
+    rdfs:label "nasopharynx"@en .
+
+wd:Q552087 a wd:Q4936952 ;
+    rdfs:label "adenoid"@en .
+
+wd:Q55631905 a wd:Q4936952 ;
+    rdfs:label "inner renal medulla"@en .
+
+wd:Q55632159 a wd:Q4936952 ;
+    rdfs:label "outer renal medulla"@en .
+
+wd:Q55632545 a wd:Q4936952 ;
+    rdfs:label "inner stripe of outer renal medulla"@en .
+
+wd:Q55632547 a wd:Q4936952 ;
+    rdfs:label "outer stripe of outer renal medulla"@en .
+
+wd:Q5570191 a wd:Q58778 ;
+    rdfs:label "Global Command and Control System"@en .
+
+wd:Q5572480 a wd:Q4936952 ;
+    rdfs:label "Gluteal sulcus"@en .
+
+wd:Q5597190 a wd:Q58778 ;
+    rdfs:label "Graphics device interface"@en .
+
+wd:Q5608568 a wd:Q58778 ;
+    rdfs:label "Grid-tied electrical system"@en .
+
+wd:Q56099960 a wd:Q58778 ;
+    rdfs:label "Network of National Parks of Spain"@en .
+
+wd:Q5613963 a wd:Q58778 ;
+    rdfs:label "guard"@en .
+
+wd:Q5620438 a wd:Q4936952 ;
+    rdfs:label "inferior olivary nucleus"@en .
+
+wd:Q56314120 a wd:Q58778 ;
+    rdfs:label "Joint air traffic management system"@en .
+
+wd:Q56342611 a wd:Q4936952 ;
+    rdfs:label "Q56342611"^^xsd:string .
+
+wd:Q56348298 a wd:Q58778 ;
+    rdfs:label "Bachelor's master's doctorate system"@en .
+
+wd:Q5653916 a wd:Q58778 ;
+    rdfs:label "ARTE"@en .
+
+wd:Q56683076 a wd:Q58778 ;
+    rdfs:label "Q56683076"^^xsd:string .
+
+wd:Q56883667 a wd:Q28845870 ;
+    rdfs:label "fungal part"@en .
+
+wd:Q579657 a wd:Q4936952 ;
+    rdfs:label "foramen cecum"@en .
+
+wd:Q579886 a wd:Q4936952 ;
+    rdfs:label "submandibular gland"@en .
+
+wd:Q58184 a wd:Q4936952 ;
+    rdfs:label "nephron"@en .
+
+wd:Q584922 a wd:Q4936952 ;
+    rdfs:label "cochlear aqueduct"@en .
+
+wd:Q587409 a wd:Q58778 ;
+    rdfs:label "National Wilderness Preservation System"@en .
+
+wd:Q5880 a wd:Q4936952 ;
+    rdfs:label "vagina"@en .
+
+wd:Q5893911 a wd:Q6671777 ;
+    rdfs:label "Q5893911"^^xsd:string .
+
+wd:Q5901244 a wd:Q58778 ;
+    rdfs:label "Q5901244"^^xsd:string .
+
+wd:Q5911033 a wd:Q4936952 ;
+    rdfs:label "anterior chamber of the eye"@en .
+
+wd:Q591800 a wd:Q4936952 ;
+    rdfs:label "otolith"@en .
+
+wd:Q592177 a wd:Q4936952 ;
+    rdfs:label "thorax"@en .
+
+wd:Q5938041 a wd:Q4936952 ;
+    rdfs:label "right lung"@en .
+
+wd:Q5940703 a wd:Q4936952 ;
+    rdfs:label "humeroradial joint"@en .
+
+wd:Q5940709 a wd:Q4936952 ;
+    rdfs:label "humeroulnar joint"@en .
+
+wd:Q594593 a wd:Q58778 ;
+    rdfs:label "IT infrastructure"@en .
+
+wd:Q5953259 a wd:Q58778 ;
+    rdfs:label "Hybrid moored balloon"@en .
+
+wd:Q59626633 a wd:Q4936952 ;
+    rdfs:label "metatarsus"@en .
+
+wd:Q596832 a wd:Q188193 ;
+    rdfs:label "vestibular system"@en .
+
+wd:Q5973603 a wd:Q58778 ;
+    rdfs:label "IRS e-file"@en .
+
+wd:Q5982337 a wd:Q4936952 ;
+    rdfs:label "colon"@en .
+
+wd:Q5997581 a wd:Q4936952 ;
+    rdfs:label "ileocecal fold"@en .
+
+wd:Q599966 a wd:Q4936952 ;
+    rdfs:label "Peyer's patch"@en .
+
+wd:Q6014467 a wd:Q58778 ;
+    rdfs:label "83M6E"@en .
+
+wd:Q6031610 a wd:Q58778 ;
+    rdfs:label "Infratek"@en .
+
+wd:Q6031615 a wd:Q4936952 ;
+    rdfs:label "Infratentorial region"@en .
+
+wd:Q609753 a wd:Q4936952 ;
+    rdfs:label "outer ear"@en .
+
+wd:Q611133 a wd:Q58778 ;
+    rdfs:label "Strong Republic Transit System"@en .
+
+wd:Q6116076 a wd:Q58778 ;
+    rdfs:label "SAMCo"@en .
+
+wd:Q615689 a wd:Q4936952 ;
+    rdfs:label "distal radioulnar joint"@en .
+
+wd:Q615715 a wd:Q58778 ;
+    rdfs:label "Doppler Orbitography and Radiopositioning Integrated by Satellite"@en .
+
+wd:Q6158362 a wd:Q58778 ;
+    rdfs:label "Japanese aircraft engine identification system"@en .
+
+wd:Q616071 a wd:Q4936952 ;
+    rdfs:label "aortic valve"@en .
+
+wd:Q617973 a wd:Q4936952 ;
+    rdfs:label "vestibular duct"@en .
+
+wd:Q622381 a wd:Q58778 ;
+    rdfs:label "Deterministic system"@en .
+
+wd:Q623016 a wd:Q4936952 ;
+    rdfs:label "cerebral aqueduct"@en .
+
+wd:Q63020375 a wd:Q58778 ;
+    rdfs:label "Q63020375"^^xsd:string .
+
+wd:Q6309581 a wd:Q4936952 ;
+    rdfs:label "human abdomen"@en .
+
+wd:Q6330506 a wd:Q58778 ;
+    rdfs:label "KIAC"@en .
+
+wd:Q636182 a wd:Q6671777 ;
+    rdfs:label "German Air Force organization"@en .
+
+wd:Q644945 a wd:Q4936952 ;
+    rdfs:label "olfactory bulb"@en .
+
+wd:Q645450 a wd:Q4936952 ;
+    rdfs:label "oropharynx"@en .
+
+wd:Q6468 a wd:Q4936952 ;
+    rdfs:label "spiracle"@en .
+
+wd:Q64760358 a wd:Q6671777 ;
+    rdfs:label "Q64760358"^^xsd:string .
+
+wd:Q6495612 a wd:Q4936952 ;
+    rdfs:label "external globus pallidus"@en .
+
+wd:Q6498170 a wd:Q4936952 ;
+    rdfs:label "maxillary sinus"@en .
+
+wd:Q65007952 a wd:Q6671777 ;
+    rdfs:label "Q65007952"^^xsd:string .
+
+wd:Q651387 a wd:Q58778 ;
+    rdfs:label "Vaisheshika"@en .
+
+wd:Q6514826 a wd:Q4936952 ;
+    rdfs:label "suprapineal recess"@en .
+
+wd:Q652677 a wd:Q4936952 ;
+    rdfs:label "tentorium"@en .
+
+wd:Q6553990 a wd:Q4936952 ;
+    rdfs:label "lingual papilla"@en .
+
+wd:Q65746180 a wd:Q6671777 ;
+    rdfs:label "Q65746180"^^xsd:string .
+
+wd:Q658476 a wd:Q58778 ;
+    rdfs:label "public-key infrastructure"@en .
+
+wd:Q6593307 a wd:Q4936952 ;
+    rdfs:label "membranous labyrinth"@en .
+
+wd:Q662322 a wd:Q4936952 ;
+    rdfs:label "third ventricle"@en .
+
+wd:Q664439 a wd:Q4936952 ;
+    rdfs:label "cystic duct"@en .
+
+wd:Q664517 a wd:Q4936952 ;
+    rdfs:label "Foramen of Panizza"@en .
+
+wd:Q66545274 a wd:Q4936952 ;
+    rdfs:label "alveolar arch of maxilla"@en .
+
+wd:Q667120 a wd:Q4936952 ;
+    rdfs:label "falciform ligament"@en .
+
+wd:Q669339 a wd:Q4936952 ;
+    rdfs:label "egg tooth"@en .
+
+wd:Q6712076 a wd:Q58778 ;
+    rdfs:label "M-Tag"@en .
+
+wd:Q6715299 a wd:Q58778 ;
+    rdfs:label "MEDCIN"@en .
+
+wd:Q6725774 a wd:Q4936952 ;
+    rdfs:label "macula of utricle"@en .
+
+wd:Q677253 a wd:Q4936952 ;
+    rdfs:label "sigmoid colon"@en .
+
+wd:Q6785598 a wd:Q4936952 ;
+    rdfs:label "mastoid cell"@en .
+
+wd:Q68019463 a wd:Q4936952 ;
+    rdfs:label "human visual cortex"@en .
+
+wd:Q6806069 a wd:Q4936952 ;
+    rdfs:label "Medial palpebral ligament"@en .
+
+wd:Q6810954 a wd:Q6671777 ;
+    rdfs:label "Double layer (plasma)"@en .
+
+wd:Q682466 a wd:Q4936952 ;
+    rdfs:label "abdominal cavity"@en .
+
+wd:Q682551 a wd:Q4936952 ;
+    rdfs:label "Musculus iliocostalis cervicis"@en .
+
+wd:Q691653 a wd:Q4936952 ;
+    rdfs:label "parotid gland"@en .
+
+wd:Q692200 a wd:Q4936952 ;
+    rdfs:label "sublingual gland"@en .
+
+wd:Q6928183 a wd:Q58778 ;
+    rdfs:label "MpDRM"@en .
+
+wd:Q6931261 rdfs:label "mucosal immune system"@en ;
+    rdfs:subClassOf wd:Q1059 .
+
+wd:Q6952578 a wd:Q58778 ;
+    rdfs:label "NATO CRONOS"@en .
+
+wd:Q6953574 a wd:Q58778 ;
+    rdfs:label "NESI"@en .
+
+wd:Q6973556 a wd:Q58778 ;
+    rdfs:label "National Instant Criminal Background Check System"@en .
+
+wd:Q6974012 a wd:Q58778 ;
+    rdfs:label "National Landscape Conservation System"@en .
+
+wd:Q6998141 a wd:Q58778 ;
+    rdfs:label "Net3"@en .
+
+wd:Q70316391 a wd:Q58778 ;
+    rdfs:label "Q70316391"^^xsd:string .
+
+wd:Q704131 a wd:Q4936952 ;
+    rdfs:label "denticle"@en .
+
+wd:Q7060553 a wd:Q30336093 ;
+    rdfs:label "Muscle"@en .
+
+wd:Q7098801 a wd:Q4936952 ;
+    rdfs:label "optic recess"@en .
+
+wd:Q710066 a wd:Q58778 ;
+    rdfs:label "equal-field system"@en .
+
+wd:Q7107434 a wd:Q4936952 ;
+    rdfs:label "ampulla of semicircular canal"@en .
+
+wd:Q7108965 a wd:Q4936952 ;
+    rdfs:label "otolithic membrane"@en .
+
+wd:Q7118461 a wd:Q58778 ;
+    rdfs:label "PC-1"@en .
+
+wd:Q7119305 a wd:Q58778 ;
+    rdfs:label "PIATS"@en .
+
+wd:Q712294 a wd:Q4936952 ;
+    rdfs:label "adrenal gland"@en .
+
+wd:Q712424 a wd:Q4936952 ;
+    rdfs:label "proximal radioulnar joint"@en .
+
+wd:Q712604 a wd:Q188193 ;
+    rdfs:label "lymphatic system"@en .
+
+wd:Q713102 a wd:Q4936952 ;
+    rdfs:label "pelvis"@en .
+
+wd:Q7139911 a wd:Q4936952 ;
+    rdfs:label "pars flaccida"@en .
+
+wd:Q7139916 a wd:Q4936952 ;
+    rdfs:label "pars plicata"@en .
+
+wd:Q7139918 a wd:Q4936952 ;
+    rdfs:label "pars reticulata"@en .
+
+wd:Q7142060 a wd:Q6671777 ;
+    rdfs:label "Pashtun tribal structure"@en .
+
+wd:Q7158817 a wd:Q4936952 ;
+    rdfs:label "Pecten"@en .
+
+wd:Q71656856 a wd:Q4936952 ;
+    rdfs:label "Q71656856"^^xsd:string .
+
+wd:Q7168539 a wd:Q4936952 ;
+    rdfs:label "perilymphatic duct"@en .
+
+wd:Q7195420 a wd:Q4936952 ;
+    rdfs:label "pineal recess"@en .
+
+wd:Q7197992 a wd:Q4936952 ;
+    rdfs:label "piriform sinus"@en .
+
+wd:Q7234197 a wd:Q4936952 ;
+    rdfs:label "posterior horn of lateral ventricle"@en .
+
+wd:Q7234205 a wd:Q4936952 ;
+    rdfs:label "posterior interventricular sulcus"@en .
+
+wd:Q724563 a wd:Q4936952 ;
+    rdfs:label "fifth metacarpal bone"@en .
+
+wd:Q7259536 a wd:Q4936952 ;
+    rdfs:label "pulmonary lobe"@en .
+
+wd:Q7263301 a wd:Q4936952 ;
+    rdfs:label "pyramidal eminence"@en .
+
+wd:Q726543 a wd:Q4936952 ;
+    rdfs:label "musculoskeletal system"@en .
+
+wd:Q7265543 a wd:Q58778 ;
+    rdfs:label "QSAS"@en .
+
+wd:Q72711 a wd:Q4936952 ;
+    rdfs:label "electrical conduction system of the heart"@en .
+
+wd:Q72788 a wd:Q4936952 ;
+    rdfs:label "dorsolateral prefrontal cortex"@en .
+
+wd:Q7280266 a wd:Q4936952 ;
+    rdfs:label "radial collateral ligament of elbow joint"@en .
+
+wd:Q728309 a wd:Q4936952 ;
+    rdfs:label "islet of Langerhans"@en .
+
+wd:Q7315911 a wd:Q4936952 ;
+    rdfs:label "respiratory center"@en .
+
+wd:Q733981 a wd:Q58778 ;
+    rdfs:label "church discipline"@en .
+
+wd:Q7364 a wd:Q4936952 ;
+    rdfs:label "eye"@en .
+
+wd:Q7389638 a wd:Q58778 ;
+    rdfs:label "SEDAT"@en .
+
+wd:Q7393076 a wd:Q58778 ;
+    rdfs:label "SSTD"@en .
+
+wd:Q740900 a wd:Q4936952 ;
+    rdfs:label "spermatic cord"@en .
+
+wd:Q741774 a wd:Q4936952 ;
+    rdfs:label "tectorial membrane"@en .
+
+wd:Q7426091 a wd:Q58778 ;
+    rdfs:label "satellite space segment"@en .
+
+wd:Q747023 a wd:Q4936952 ;
+    rdfs:label "macula of retina"@en .
+
+wd:Q750873 a wd:Q4936952 ;
+    rdfs:label "trabecular meshwork"@en .
+
+wd:Q754845 a wd:Q4936952 ;
+    rdfs:label "exocrine gland"@en .
+
+wd:Q75762540 a wd:Q58778 ;
+    rdfs:label "Q75762540"^^xsd:string .
+
+wd:Q75785 a wd:Q4936952 ;
+    rdfs:label "visual cortex"@en .
+
+wd:Q7578933 a wd:Q58778 ;
+    rdfs:label "Spome"@en .
+
+wd:Q7579939 a wd:Q58778 ;
+    rdfs:label "sports rating system"@en .
+
+wd:Q760318 a wd:Q4936952 ;
+    rdfs:label "posterior chamber of eyeball"@en .
+
+wd:Q7623541 a wd:Q4936952 ;
+    rdfs:label "stria medullaris of thalamus"@en .
+
+wd:Q763062 a wd:Q4936952 ;
+    rdfs:label "Endoneurium"@en .
+
+wd:Q76362701 a wd:Q6671777 ;
+    rdfs:label "Q76362701"^^xsd:string .
+
+wd:Q7644754 a wd:Q4936952 ;
+    rdfs:label "supratentorial region"@en .
+
+wd:Q76624985 a wd:Q58778 ;
+    rdfs:label "Early Chinese Periodicals Online"@en .
+
+wd:Q7671982 a wd:Q58778 ;
+    rdfs:label "TU81"@en .
+
+wd:Q7672578 a wd:Q58778 ;
+    rdfs:label "TXK"@en .
+
+wd:Q7705265 a wd:Q4936952 ;
+    rdfs:label "segmental bronchus"@en .
+
+wd:Q772723 a wd:Q58778 ;
+    rdfs:label "European System of Financial Supervisors"@en .
+
+wd:Q773903 a wd:Q4936952 ;
+    rdfs:label "atrioventricular valve"@en .
+
+wd:Q7783927 a wd:Q4936952 ;
+    rdfs:label "thick ascending limb of loop of Henle"@en .
+
+wd:Q7784280 a wd:Q4936952 ;
+    rdfs:label "thin ascending limb of loop of Henle"@en .
+
+wd:Q781983 a wd:Q4936952 ;
+    rdfs:label "spinal canal"@en .
+
+wd:Q78295452 a wd:Q6671777 ;
+    rdfs:label "ice cream stick"@en .
+
+wd:Q7835240 a wd:Q58778 ;
+    rdfs:label "transportation in Minnesota"@en .
+
+wd:Q78358769 a wd:Q58778 ;
+    rdfs:label "BestMARC"@en .
+
+wd:Q7838849 a wd:Q6671777 ;
+    rdfs:label "Trestle"@en .
+
+wd:Q7864226 a wd:Q58778 ;
+    rdfs:label "UDOP"@en .
+
+wd:Q7879707 a wd:Q4936952 ;
+    rdfs:label "ulnar collateral ligament of elbow joint"@en .
+
+wd:Q78813007 a wd:Q58778 ;
+    rdfs:label "Special Procedures of the Human Rights Council"@en .
+
+wd:Q7881349 a wd:Q4936952 ;
+    rdfs:label "umbo of tympanic membrane"@en .
+
+wd:Q7891 a wd:Q4936952 ;
+    rdfs:label "respiratory system"@en .
+
+wd:Q7906737 a wd:Q58778 ;
+    rdfs:label "VEMS"@en .
+
+wd:Q7923449 a wd:Q4936952 ;
+    rdfs:label "vestibular aqueduct"@en .
+
+wd:Q7984306 a wd:Q58778 ;
+    rdfs:label "West American Digest System"@en .
+
+wd:Q806733 a wd:Q58778 ;
+    rdfs:label "European Union banking union"@en .
+
+wd:Q811126 a wd:Q4936952 ;
+    rdfs:label "proleg"@en .
+
+wd:Q81455294 a wd:Q58778 ;
+    rdfs:label "Cyber-Biological System"@en .
+
+wd:Q81455616 a wd:Q58778 ;
+    rdfs:label "Cyber-Cerebral System"@en .
+
+wd:Q81456002 a wd:Q58778 ;
+    rdfs:label "Cyber-Cognitive System"@en .
+
+wd:Q81456601 a wd:Q58778 ;
+    rdfs:label "Cyber-Entispheral System"@en .
+
+wd:Q81457224 a wd:Q58778 ;
+    rdfs:label "Interspheral System"@en .
+
+wd:Q81679098 a wd:Q4936952 ;
+    rdfs:label "paranotum"@en .
+
+wd:Q82025 a wd:Q4936952 ;
+    rdfs:label "horn"@en .
+
+wd:Q822050 a wd:Q4936952 ;
+    rdfs:label "white matter"@en .
+
+wd:Q824214 a wd:Q4936952 ;
+    rdfs:label "Wernicke's area"@en .
+
+wd:Q8265768 a wd:Q4936952 ;
+    rdfs:label "lower leg"@en .
+
+wd:Q833567 a wd:Q4936952 ;
+    rdfs:label "crista galli"@en .
+
+wd:Q834007 a wd:Q4936952 ;
+    rdfs:label "antlers"@en .
+
+wd:Q83926803 a wd:Q58778 ;
+    rdfs:label "Plumbing Fixtures"@en .
+
+wd:Q84133 a wd:Q4936952 ;
+    rdfs:label "myocardium"@en .
+
+wd:Q843875 a wd:Q4936952 ;
+    rdfs:label "cochlear duct"@en .
+
+wd:Q84410299 rdfs:label "Q84410299"^^xsd:string ;
+    rdfs:subClassOf wd:Q1059 .
+
+wd:Q846958 a wd:Q27043948 ;
+    rdfs:label "thagomizer"@en .
+
+wd:Q848390 a wd:Q4936952 ;
+    rdfs:label "root canal"@en .
+
+wd:Q849277 a wd:Q4936952 ;
+    rdfs:label "epithalamus"@en .
+
+wd:Q854346 a wd:Q4936952 ;
+    rdfs:label "gut-associated lymphoid tissue"@en .
+
+wd:Q856627 a wd:Q58778 ;
+    rdfs:label "distance measuring equipment"@en .
+
+wd:Q865103 a wd:Q4936952 ;
+    rdfs:label "fovea centralis"@en .
+
+wd:Q866106 a wd:Q4936952 ;
+    rdfs:label "tuber cinereum"@en .
+
+wd:Q8693083 a wd:Q4936952 ;
+    rdfs:label "auricular muscle"@en .
+
+wd:Q86999909 a wd:Q58778 ;
+    rdfs:label "Overwatch"@en .
+
+wd:Q872018 a wd:Q58778 ;
+    rdfs:label "Elberfeld system"@en .
+
+wd:Q872940 a wd:Q58778 ;
+    rdfs:label "Central Europe Pipeline System"@en .
+
+wd:Q876089 a wd:Q4936952 ;
+    rdfs:label "left ventricle"@en .
+
+wd:Q886410 a wd:Q4936952 ;
+    rdfs:label "blood-air barrier"@en .
+
+wd:Q909882 a wd:Q4936952 ;
+    rdfs:label "glomerulus"@en .
+
+wd:Q9103 a wd:Q4936952 ;
+    rdfs:label "breast"@en .
+
+wd:Q918118 a wd:Q4936952 ;
+    rdfs:label "frontal sinus"@en .
+
+wd:Q924684 a wd:Q4936952 ;
+    rdfs:label "Brodmann area"@en .
+
+wd:Q929966 rdfs:label "mononuclear phagocyte system"@en ;
+    rdfs:subClassOf wd:Q1059 .
+
+wd:Q9332411 a wd:Q58778 ;
+    rdfs:label "SYBIR"@en .
+
+wd:Q934888 a wd:Q4936952 ;
+    rdfs:label "adrenal medulla"@en .
+
+wd:Q9352191 a wd:Q4936952 ;
+    rdfs:label "Szpon"@en .
+
+wd:Q9353768 a wd:Q58778 ;
+    rdfs:label "Total mixed ration"@en .
+
+wd:Q9364698 a wd:Q188193 ;
+    rdfs:label "Open circulatory system"@en .
+
+wd:Q9364701 a wd:Q188193 ;
+    rdfs:label "Closed circulatory system"@en .
+
+wd:Q936867 a wd:Q4936952 ;
+    rdfs:label "Q936867"^^xsd:string .
+
+wd:Q9371 a wd:Q4936952 ;
+    rdfs:label "spleen"@en .
+
+wd:Q9377 a wd:Q4936952 ;
+    rdfs:label "kidney"@en .
+
+wd:Q9382 a wd:Q4936952 ;
+    rdfs:label "urinary bladder"@en .
+
+wd:Q9384 a wd:Q4936952 ;
+    rdfs:label "testicle"@en .
+
+wd:Q9385 a wd:Q4936952 ;
+    rdfs:label "ureter"@en .
+
+wd:Q9386 a wd:Q4936952 ;
+    rdfs:label "urethra"@en .
+
+wd:Q9404 a wd:Q4936952 ;
+    rdfs:label "nervous system"@en .
+
+wd:Q94510 a wd:Q58778 ;
+    rdfs:label "CBF ranking"@en .
+
+wd:Q949930 a wd:Q4936952 ;
+    rdfs:label "Pouch"@en .
+
+wd:Q953121 a wd:Q4936952 ;
+    rdfs:label "tunica externa"@en .
+
+wd:Q953556 a wd:Q4936952 ;
+    rdfs:label "ovarian follicle"@en .
+
+wd:Q955020 a wd:Q4936952 ;
+    rdfs:label "renal pelvis"@en .
+
+wd:Q95539 a wd:Q4936952 ;
+    rdfs:label "cheek pouch"@en .
+
+wd:Q9606 a wd:Q4936952 ;
+    rdfs:label "spinal cord"@en .
+
+wd:Q9614 a wd:Q4936952 ;
+    rdfs:label "tongue"@en .
+
+wd:Q9622 a wd:Q4936952 ;
+    rdfs:label "scalp"@en .
+
+wd:Q9625 a wd:Q27043948,
+        wd:Q4936952 ;
+    rdfs:label "prostate"@en .
+
+wd:Q9631 a wd:Q4936952 ;
+    rdfs:label "ovary"@en .
+
+wd:Q9637 a wd:Q4936952 ;
+    rdfs:label "larynx"@en .
+
+wd:Q9639 a wd:Q4936952 ;
+    rdfs:label "intestine"@en .
+
+wd:Q9647 a wd:Q4936952 ;
+    rdfs:label "gland"@en .
+
+wd:Q9654 a wd:Q4936952 ;
+    rdfs:label "thoracic diaphragm"@en .
+
+wd:Q9656 a wd:Q4936952 ;
+    rdfs:label "appendix"@en .
+
+wd:Q974231 a wd:Q4936952 ;
+    rdfs:label "utricle"@en .
+
+wd:Q984134 a wd:Q58778 ;
+    rdfs:label "life support system"@en .
+
+wd:Q988343 a wd:Q4936952 ;
+    rdfs:label "blood vessel"@en .
+
+wd:Q989783 a wd:Q58778 ;
+    rdfs:label "Q989783"^^xsd:string .
+
+wd:Q994554 a wd:Q4936952 ;
+    rdfs:label "thoracic cavity"@en .
+
+wd:Q997610 a wd:Q58778 ;
+    rdfs:label "Bubuti system"@en .
+
+wd:Q27043948 rdfs:label "material anatomical entity"@en .
+
+wd:Q28845870 rdfs:label "biological component"@en .
+
+wd:Q1059 a wd:Q188193 ;
+    rdfs:label "immune system"@en ;
+    rdfs:subClassOf wd:Q30336093 .
+
+wd:Q30336093 rdfs:label "biological system"@en ;
+    rdfs:subClassOf wd:Q58778 .
+
+wd:Q188193 rdfs:label "organ system"@en ;
+    rdfs:subClassOf wd:Q30336093,
+        wd:Q4936952 .
+
+wd:Q6671777 rdfs:label "structure"@en .
+
+wd:Q58778 rdfs:label "system"@en ;
+    rdfs:subClassOf wd:Q6671777 .
+
+wd:Q4936952 rdfs:label "anatomical structure"@en ;
+    rdfs:subClassOf wd:Q27043948,
+        wd:Q28845870 .
+

@@ -1,0 +1,3150 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1000122 a wd:Q17334923 ;
+    rdfs:label "mean line"@en .
+
+wd:Q10428698 a wd:Q188507 ;
+    rdfs:label "Q10428698"^^xsd:string .
+
+wd:Q1048225 a wd:Q17334923 ;
+    rdfs:label "Villarrica Volcano"@en .
+
+wd:Q10530327 a wd:Q17334923 ;
+    rdfs:label "Římské náměstí"@en .
+
+wd:Q1063974 a wd:Q17334923 ;
+    rdfs:label "Molniya orbit"@en .
+
+wd:Q10677654 a wd:Q699405 ;
+    rdfs:label "Q10677654"^^xsd:string .
+
+wd:Q10705746 a wd:Q17334923 ;
+    rdfs:label "Tua"@en .
+
+wd:Q10708794 a wd:Q17334923 ;
+    rdfs:label "Ullådalen"@en .
+
+wd:Q1076911 a wd:Q17334923 ;
+    rdfs:label "Khreshchatyk"@en .
+
+wd:Q10918343 a wd:Q699405 ;
+    rdfs:label "Former Residence of Lv Gong"@en .
+
+wd:Q10918374 a wd:Q699405 ;
+    rdfs:label "Q10918374"^^xsd:string .
+
+wd:Q1101969 a wd:Q27096213 ;
+    rdfs:label "Melitene"@en .
+
+wd:Q11104102 a wd:Q699405 ;
+    rdfs:label "Q11104102"^^xsd:string .
+
+wd:Q11124219 a wd:Q188507 ;
+    rdfs:label "Wukang Mansion"@en .
+
+wd:Q11359132 a wd:Q17334923 ;
+    rdfs:label "Kamisugi"@en .
+
+wd:Q11545899 a wd:Q699405 ;
+    rdfs:label "Buke Yashiki"@en .
+
+wd:Q11697931 a wd:Q699405 ;
+    rdfs:label "Farm"@en .
+
+wd:Q1187096 a wd:Q17334923 ;
+    rdfs:label "underline"@en .
+
+wd:Q11910028 a wd:Q27096213 ;
+    rdfs:label "Bruguerol de la Roca"@en .
+
+wd:Q11911049 a wd:Q27096213 ;
+    rdfs:label "Camp de les Garses"@en .
+
+wd:Q11911054 a wd:Q27096213 ;
+    rdfs:label "Camp de vol Les Humbertes"@en .
+
+wd:Q11932221 a wd:Q17334923 ;
+    rdfs:label "Lleialtat santsenca"@en .
+
+wd:Q11950700 a wd:Q17334923 ;
+    rdfs:label "Sóar"@en .
+
+wd:Q11993049 a wd:Q699405 ;
+    rdfs:label "Q11993049"^^xsd:string .
+
+wd:Q12059609 a wd:Q17334923 ;
+    rdfs:label "spawning ground"@en .
+
+wd:Q12119 a wd:Q17334923 ;
+    rdfs:label "celestial pole"@en .
+
+wd:Q12267758 a wd:Q17334923 ;
+    rdfs:label "Suro"@en .
+
+wd:Q1226870 a wd:Q17334923 ;
+    rdfs:label "Diois"@en .
+
+wd:Q12299139 a wd:Q27096213 ;
+    rdfs:label "Black Sea Basin"@en .
+
+wd:Q12302020 a wd:Q17334923 ;
+    rdfs:label "Q12302020"^^xsd:string .
+
+wd:Q12314774 a wd:Q17334923 ;
+    rdfs:label "Q12314774"^^xsd:string .
+
+wd:Q12319567 a wd:Q17334923 ;
+    rdfs:label "Q12319567"^^xsd:string .
+
+wd:Q12321291 a wd:Q17334923 ;
+    rdfs:label "Karan"@en .
+
+wd:Q1232877 a wd:Q17334923 ;
+    rdfs:label "Perlep"@en .
+
+wd:Q123559 a wd:Q27096213 ;
+    rdfs:label "Al-Andalus"@en .
+
+wd:Q1243472 a wd:Q699405 ;
+    rdfs:label "Episcopal Palace (Pécs)"@en .
+
+wd:Q12482591 a wd:Q17334923 ;
+    rdfs:label "Esek"@en .
+
+wd:Q1249686 a wd:Q699405 ;
+    rdfs:label "izba"@en .
+
+wd:Q12515537 a wd:Q17334923 ;
+    rdfs:label "Sitna"@en .
+
+wd:Q12518367 a wd:Q17334923 ;
+    rdfs:label "Syeba"@en .
+
+wd:Q12683271 a wd:Q17334923 ;
+    rdfs:label "Bakai"@en .
+
+wd:Q12683298 a wd:Q17334923 ;
+    rdfs:label "Bakun"@en .
+
+wd:Q12684749 a wd:Q17334923 ;
+    rdfs:label "But"@en .
+
+wd:Q12688139 a wd:Q17334923 ;
+    rdfs:label "Inas"@en .
+
+wd:Q12688560 a wd:Q17334923 ;
+    rdfs:label "Jenob"@en .
+
+wd:Q12691137 a wd:Q17334923 ;
+    rdfs:label "Labok"@en .
+
+wd:Q12709072 a wd:Q17334923 ;
+    rdfs:label "Setek"@en .
+
+wd:Q12818543 a wd:Q17334923 ;
+    rdfs:label "Arsaf"@en .
+
+wd:Q12821052 a wd:Q17334923 ;
+    rdfs:label "Darun"@en .
+
+wd:Q12821517 a wd:Q17334923 ;
+    rdfs:label "Dizak"@en .
+
+wd:Q12832262 a wd:Q17334923 ;
+    rdfs:label "Yom"@en .
+
+wd:Q13048328 a wd:Q27096213 ;
+    rdfs:label "Al-Challiq"@en .
+
+wd:Q1308354 rdfs:label "Secondary suite"@en ;
+    rdfs:subClassOf wd:Q188507 .
+
+wd:Q13100875 a wd:Q17334923 ;
+    rdfs:label "Latch"@en .
+
+wd:Q13110784 a wd:Q17334923 ;
+    rdfs:label "Ezhoor"@en .
+
+wd:Q13112406 a wd:Q17334923 ;
+    rdfs:label "Q13112406"^^xsd:string .
+
+wd:Q13114644 a wd:Q17334923 ;
+    rdfs:label "Vazhathope Gramapanchayath"@en .
+
+wd:Q13126861 a wd:Q17334923 ;
+    rdfs:label "Carnwyllion"@en .
+
+wd:Q13136942 a wd:Q17334923 ;
+    rdfs:label "Place in Sneek"@en .
+
+wd:Q13163802 a wd:Q699405 ;
+    rdfs:label "Q13163802"^^xsd:string .
+
+wd:Q13189759 a wd:Q17334923 ;
+    rdfs:label "Casca"@en .
+
+wd:Q13190363 a wd:Q17334923 ;
+    rdfs:label "Punin"@en .
+
+wd:Q13445779 a wd:Q18810310 ;
+    rdfs:label "Q13445779"^^xsd:string .
+
+wd:Q1426493 a wd:Q17334923 ;
+    rdfs:label "trailer park"@en .
+
+wd:Q143077 a wd:Q17334923 ;
+    rdfs:label "Areostationary orbit"@en .
+
+wd:Q14329079 a wd:Q699405 ;
+    rdfs:label "Q14329079"^^xsd:string .
+
+wd:Q1463565 a wd:Q17334923 ;
+    rdfs:label "cash"@en .
+
+wd:Q15128895 a wd:Q188507 ;
+    rdfs:label "Marine Gate"@en .
+
+wd:Q1530968 a wd:Q17334923 ;
+    rdfs:label "Glenelg"@en .
+
+wd:Q15488901 a wd:Q17334923 ;
+    rdfs:label "Kai Tei"@en .
+
+wd:Q1557068 a wd:Q17334923 ;
+    rdfs:label "Ndumba"@en .
+
+wd:Q15628677 a wd:Q17334923 ;
+    rdfs:label "Tuborg Havn"@en .
+
+wd:Q1579577 a wd:Q17334923 ;
+    rdfs:label "geocentric orbit"@en .
+
+wd:Q15879466 a wd:Q1221145 ;
+    rdfs:label "Q15879466"^^xsd:string .
+
+wd:Q15885458 a wd:Q1221145 ;
+    rdfs:label "Q15885458"^^xsd:string .
+
+wd:Q15885460 a wd:Q1221145 ;
+    rdfs:label "Q15885460"^^xsd:string .
+
+wd:Q15894258 a wd:Q699405 ;
+    rdfs:label "Q15894258"^^xsd:string .
+
+wd:Q1590279 a wd:Q699405 ;
+    rdfs:label "Museum B.C. Koekkoek-Haus"@en .
+
+wd:Q16008577 a wd:Q699405 ;
+    rdfs:label "Q16008577"^^xsd:string .
+
+wd:Q16008582 a wd:Q699405 ;
+    rdfs:label "Q16008582"^^xsd:string .
+
+wd:Q16078044 a wd:Q699405 ;
+    rdfs:label "Former Residence of Cai Yuanpei"@en .
+
+wd:Q16122053 a wd:Q17334923 ;
+    rdfs:label "Q16122053"^^xsd:string .
+
+wd:Q16840699 a wd:Q699405 ;
+    rdfs:label "Hacienda De La Paz"@en .
+
+wd:Q16910516 a wd:Q188507 ;
+    rdfs:label "Apartments of the dauphin and the dauphine"@en .
+
+wd:Q17187145 a wd:Q1221145 ;
+    rdfs:label "Elswout cottage on Duinlustweg"@en .
+
+wd:Q17187171 a wd:Q1221145 ;
+    rdfs:label "Q17187171"^^xsd:string .
+
+wd:Q17187210 a wd:Q1221145 ;
+    rdfs:label "Q17187210"^^xsd:string .
+
+wd:Q17187217 a wd:Q1221145 ;
+    rdfs:label "Q17187217"^^xsd:string .
+
+wd:Q17187226 a wd:Q1221145 ;
+    rdfs:label "Q17187226"^^xsd:string .
+
+wd:Q17187232 a wd:Q18759150 ;
+    rdfs:label "Q17187232"^^xsd:string .
+
+wd:Q17187268 a wd:Q1221145 ;
+    rdfs:label "Q17187268"^^xsd:string .
+
+wd:Q17187278 a wd:Q17496318 ;
+    rdfs:label "Vaart en Duin (Overveen)"@en .
+
+wd:Q17187718 a wd:Q1221145 ;
+    rdfs:label "Q17187718"^^xsd:string .
+
+wd:Q17187734 a wd:Q1221145 ;
+    rdfs:label "Q17187734"^^xsd:string .
+
+wd:Q17187766 a wd:Q18759150 ;
+    rdfs:label "Q17187766"^^xsd:string .
+
+wd:Q17195193 a wd:Q699405 ;
+    rdfs:label "Q17195193"^^xsd:string .
+
+wd:Q17195367 a wd:Q1221145 ;
+    rdfs:label "Q17195367"^^xsd:string .
+
+wd:Q17195396 a wd:Q1221145 ;
+    rdfs:label "Q17195396"^^xsd:string .
+
+wd:Q17195397 a wd:Q1221145 ;
+    rdfs:label "Q17195397"^^xsd:string .
+
+wd:Q17195414 a wd:Q17496318 ;
+    rdfs:label "Q17195414"^^xsd:string .
+
+wd:Q17195426 a wd:Q18759150 ;
+    rdfs:label "Gestichtskerk"@en .
+
+wd:Q17195436 a wd:Q1221145 ;
+    rdfs:label "Q17195436"^^xsd:string .
+
+wd:Q17195474 a wd:Q17496318 ;
+    rdfs:label "Q17195474"^^xsd:string .
+
+wd:Q17195485 a wd:Q17496318 ;
+    rdfs:label "Q17195485"^^xsd:string .
+
+wd:Q17195994 a wd:Q17496318 ;
+    rdfs:label "Q17195994"^^xsd:string .
+
+wd:Q17201719 a wd:Q1221145 ;
+    rdfs:label "Bosch en Hoven, Heemstede"@en .
+
+wd:Q17201746 a wd:Q1221145 ;
+    rdfs:label "Q17201746"^^xsd:string .
+
+wd:Q1720178 a wd:Q27096213 ;
+    rdfs:label "Measuring point"@en .
+
+wd:Q17201850 a wd:Q17496318 ;
+    rdfs:label "Q17201850"^^xsd:string .
+
+wd:Q17201854 a wd:Q1221145 ;
+    rdfs:label "Q17201854"^^xsd:string .
+
+wd:Q17201872 a wd:Q1221145 ;
+    rdfs:label "Q17201872"^^xsd:string .
+
+wd:Q17201877 a wd:Q17496318 ;
+    rdfs:label "Q17201877"^^xsd:string .
+
+wd:Q17201897 a wd:Q1221145 ;
+    rdfs:label "Q17201897"^^xsd:string .
+
+wd:Q17202045 a wd:Q1221145 ;
+    rdfs:label "Q17202045"^^xsd:string .
+
+wd:Q17202049 a wd:Q18759150 ;
+    rdfs:label "Q17202049"^^xsd:string .
+
+wd:Q17202107 a wd:Q17496318 ;
+    rdfs:label "Q17202107"^^xsd:string .
+
+wd:Q17202120 a wd:Q18759150 ;
+    rdfs:label "Q17202120"^^xsd:string .
+
+wd:Q17202182 a wd:Q1221145 ;
+    rdfs:label "Q17202182"^^xsd:string .
+
+wd:Q17202190 a wd:Q1221145 ;
+    rdfs:label "Q17202190"^^xsd:string .
+
+wd:Q17203052 a wd:Q17496318 ;
+    rdfs:label "Q17203052"^^xsd:string .
+
+wd:Q17203057 a wd:Q18759150 ;
+    rdfs:label "Q17203057"^^xsd:string .
+
+wd:Q17203403 a wd:Q1221145 ;
+    rdfs:label "Q17203403"^^xsd:string .
+
+wd:Q17203453 a wd:Q1221145 ;
+    rdfs:label "Q17203453"^^xsd:string .
+
+wd:Q17203462 a wd:Q17496318 ;
+    rdfs:label "Q17203462"^^xsd:string .
+
+wd:Q17203527 a wd:Q1221145 ;
+    rdfs:label "Q17203527"^^xsd:string .
+
+wd:Q17203541 a wd:Q1221145 ;
+    rdfs:label "Q17203541"^^xsd:string .
+
+wd:Q17203619 a wd:Q1221145 ;
+    rdfs:label "Q17203619"^^xsd:string .
+
+wd:Q17254778 a wd:Q1221145 ;
+    rdfs:label "Q17254778"^^xsd:string .
+
+wd:Q17255130 a wd:Q1221145 ;
+    rdfs:label "Gatekeepers cottage for Coen Cuserhof"@en .
+
+wd:Q17255142 a wd:Q1221145 ;
+    rdfs:label "Q17255142"^^xsd:string .
+
+wd:Q17255145 a wd:Q1221145 ;
+    rdfs:label "Q17255145"^^xsd:string .
+
+wd:Q17255147 a wd:Q1221145 ;
+    rdfs:label "Q17255147"^^xsd:string .
+
+wd:Q17255150 a wd:Q1221145 ;
+    rdfs:label "Q17255150"^^xsd:string .
+
+wd:Q17255151 a wd:Q1221145 ;
+    rdfs:label "Q17255151"^^xsd:string .
+
+wd:Q17287198 a wd:Q1221145 ;
+    rdfs:label "Q17287198"^^xsd:string .
+
+wd:Q17288979 a wd:Q1221145 ;
+    rdfs:label "Q17288979"^^xsd:string .
+
+wd:Q17291688 a wd:Q1221145 ;
+    rdfs:label "Q17291688"^^xsd:string .
+
+wd:Q17291778 a wd:Q1221145 ;
+    rdfs:label "Q17291778"^^xsd:string .
+
+wd:Q17291795 a wd:Q1221145 ;
+    rdfs:label "Q17291795"^^xsd:string .
+
+wd:Q17291808 a wd:Q1221145 ;
+    rdfs:label "Q17291808"^^xsd:string .
+
+wd:Q17291814 a wd:Q1221145 ;
+    rdfs:label "Q17291814"^^xsd:string .
+
+wd:Q17291979 a wd:Q18759150 ;
+    rdfs:label "Q17291979"^^xsd:string .
+
+wd:Q17291988 a wd:Q1221145 ;
+    rdfs:label "Q17291988"^^xsd:string .
+
+wd:Q17292119 a wd:Q18810458 ;
+    rdfs:label "Q17292119"^^xsd:string .
+
+wd:Q17292136 a wd:Q18810458 ;
+    rdfs:label "Q17292136"^^xsd:string .
+
+wd:Q17292243 a wd:Q18759150 ;
+    rdfs:label "Q17292243"^^xsd:string .
+
+wd:Q17292652 a wd:Q1221145 ;
+    rdfs:label "Q17292652"^^xsd:string .
+
+wd:Q17296558 a wd:Q1221145 ;
+    rdfs:label "Q17296558"^^xsd:string .
+
+wd:Q17296570 a wd:Q1221145 ;
+    rdfs:label "Q17296570"^^xsd:string .
+
+wd:Q17296584 a wd:Q1221145 ;
+    rdfs:label "Q17296584"^^xsd:string .
+
+wd:Q17296585 a wd:Q1221145 ;
+    rdfs:label "Q17296585"^^xsd:string .
+
+wd:Q17297059 a wd:Q1221145 ;
+    rdfs:label "Q17297059"^^xsd:string .
+
+wd:Q17297384 a wd:Q1221145 ;
+    rdfs:label "Q17297384"^^xsd:string .
+
+wd:Q17297814 a wd:Q1221145 ;
+    rdfs:label "Q17297814"^^xsd:string .
+
+wd:Q17299256 a wd:Q1221145 ;
+    rdfs:label "Q17299256"^^xsd:string .
+
+wd:Q17301184 a wd:Q17496318 ;
+    rdfs:label "Q17301184"^^xsd:string .
+
+wd:Q17301209 a wd:Q18810458 ;
+    rdfs:label "Q17301209"^^xsd:string .
+
+wd:Q17301694 a wd:Q1221145 ;
+    rdfs:label "Q17301694"^^xsd:string .
+
+wd:Q17301725 a wd:Q1221145 ;
+    rdfs:label "Q17301725"^^xsd:string .
+
+wd:Q17302049 a wd:Q18810458 ;
+    rdfs:label "Q17302049"^^xsd:string .
+
+wd:Q17302079 a wd:Q1221145 ;
+    rdfs:label "Q17302079"^^xsd:string .
+
+wd:Q17302593 a wd:Q18810458 ;
+    rdfs:label "Q17302593"^^xsd:string .
+
+wd:Q17319279 a wd:Q18810458 ;
+    rdfs:label "Q17319279"^^xsd:string .
+
+wd:Q17327951 a wd:Q18810310 ;
+    rdfs:label "Harlingersingel 2, Leeuwarden"@en .
+
+wd:Q17328713 a wd:Q18810310 ;
+    rdfs:label "Q17328713"^^xsd:string .
+
+wd:Q17329469 a wd:Q1221145 ;
+    rdfs:label "Q17329469"^^xsd:string .
+
+wd:Q17329471 a wd:Q1221145 ;
+    rdfs:label "Q17329471"^^xsd:string .
+
+wd:Q17329563 a wd:Q17496318 ;
+    rdfs:label "Q17329563"^^xsd:string .
+
+wd:Q17329626 a wd:Q18810310 ;
+    rdfs:label "Q17329626"^^xsd:string .
+
+wd:Q17329642 a wd:Q18810310 ;
+    rdfs:label "Emmakade 2, Leeuwarden"@en .
+
+wd:Q17331046 a wd:Q1221145 ;
+    rdfs:label "Q17331046"^^xsd:string .
+
+wd:Q17331062 a wd:Q1221145 ;
+    rdfs:label "Q17331062"^^xsd:string .
+
+wd:Q17331104 a wd:Q1221145 ;
+    rdfs:label "Q17331104"^^xsd:string .
+
+wd:Q17331163 a wd:Q18810310 ;
+    rdfs:label "Q17331163"^^xsd:string .
+
+wd:Q17339426 a wd:Q18810310 ;
+    rdfs:label "Q17339426"^^xsd:string .
+
+wd:Q17339502 a wd:Q18810310 ;
+    rdfs:label "Q17339502"^^xsd:string .
+
+wd:Q17339552 a wd:Q18810310 ;
+    rdfs:label "Q17339552"^^xsd:string .
+
+wd:Q17339650 a wd:Q1221145 ;
+    rdfs:label "Q17339650"^^xsd:string .
+
+wd:Q17341420 a wd:Q17496318 ;
+    rdfs:label "Tuinmanswoning, Dordwijk"@en .
+
+wd:Q17341455 a wd:Q17496318 ;
+    rdfs:label "Q17341455"^^xsd:string .
+
+wd:Q17341474 a wd:Q1221145 ;
+    rdfs:label "Q17341474"^^xsd:string .
+
+wd:Q17343825 a wd:Q1221145 ;
+    rdfs:label "Q17343825"^^xsd:string .
+
+wd:Q17343986 a wd:Q1221145 ;
+    rdfs:label "Q17343986"^^xsd:string .
+
+wd:Q17344965 a wd:Q1221145 ;
+    rdfs:label "Q17344965"^^xsd:string .
+
+wd:Q17349175 a wd:Q1221145 ;
+    rdfs:label "Q17349175"^^xsd:string .
+
+wd:Q17350748 a wd:Q1221145 ;
+    rdfs:label "Q17350748"^^xsd:string .
+
+wd:Q17351039 a wd:Q1221145 ;
+    rdfs:label "Q17351039"^^xsd:string .
+
+wd:Q17373402 a wd:Q18759150 ;
+    rdfs:label "Kingmatille 11, Zweins"@en .
+
+wd:Q17374655 a wd:Q1221145 ;
+    rdfs:label "Q17374655"^^xsd:string .
+
+wd:Q17374725 a wd:Q1221145 ;
+    rdfs:label "Q17374725"^^xsd:string .
+
+wd:Q17387006 a wd:Q18759150 ;
+    rdfs:label "Q17387006"^^xsd:string .
+
+wd:Q17388972 a wd:Q1221145 ;
+    rdfs:label "Q17388972"^^xsd:string .
+
+wd:Q17389477 a wd:Q1221145 ;
+    rdfs:label "Q17389477"^^xsd:string .
+
+wd:Q17400347 a wd:Q17496318 ;
+    rdfs:label "Q17400347"^^xsd:string .
+
+wd:Q17400348 a wd:Q17496318 ;
+    rdfs:label "Q17400348"^^xsd:string .
+
+wd:Q17406484 a wd:Q1221145 ;
+    rdfs:label "Q17406484"^^xsd:string .
+
+wd:Q17412755 a wd:Q17496318 ;
+    rdfs:label "Q17412755"^^xsd:string .
+
+wd:Q17412940 a wd:Q1221145 ;
+    rdfs:label "Q17412940"^^xsd:string .
+
+wd:Q17415551 a wd:Q17496318 ;
+    rdfs:label "Q17415551"^^xsd:string .
+
+wd:Q17415555 a wd:Q1221145 ;
+    rdfs:label "Q17415555"^^xsd:string .
+
+wd:Q17415934 a wd:Q1221145 ;
+    rdfs:label "Q17415934"^^xsd:string .
+
+wd:Q17417867 a wd:Q17496318 ;
+    rdfs:label "Q17417867"^^xsd:string .
+
+wd:Q174241 a wd:Q17334923 ;
+    rdfs:label "Sun-synchronous orbit"@en .
+
+wd:Q17427887 a wd:Q1221145 ;
+    rdfs:label "Q17427887"^^xsd:string .
+
+wd:Q17436194 a wd:Q1221145 ;
+    rdfs:label "Q17436194"^^xsd:string .
+
+wd:Q17436486 a wd:Q18810310 ;
+    rdfs:label "Q17436486"^^xsd:string .
+
+wd:Q17437200 a wd:Q1221145 ;
+    rdfs:label "Q17437200"^^xsd:string .
+
+wd:Q17437712 a wd:Q18759150 ;
+    rdfs:label "Q17437712"^^xsd:string .
+
+wd:Q17439391 a wd:Q1221145 ;
+    rdfs:label "Q17439391"^^xsd:string .
+
+wd:Q17439392 a wd:Q1221145 ;
+    rdfs:label "Q17439392"^^xsd:string .
+
+wd:Q17439393 a wd:Q1221145 ;
+    rdfs:label "Q17439393"^^xsd:string .
+
+wd:Q17439394 a wd:Q1221145 ;
+    rdfs:label "Dorpsstraat 16-38, Renswoude"@en .
+
+wd:Q17439395 a wd:Q1221145 ;
+    rdfs:label "Q17439395"^^xsd:string .
+
+wd:Q17439436 a wd:Q1221145 ;
+    rdfs:label "Q17439436"^^xsd:string .
+
+wd:Q17439437 a wd:Q1221145 ;
+    rdfs:label "Q17439437"^^xsd:string .
+
+wd:Q17440007 a wd:Q1221145 ;
+    rdfs:label "Q17440007"^^xsd:string .
+
+wd:Q17440332 a wd:Q1221145 ;
+    rdfs:label "Q17440332"^^xsd:string .
+
+wd:Q17443431 a wd:Q1221145 ;
+    rdfs:label "Q17443431"^^xsd:string .
+
+wd:Q17443497 a wd:Q1221145 ;
+    rdfs:label "Q17443497"^^xsd:string .
+
+wd:Q17444011 a wd:Q1221145 ;
+    rdfs:label "Q17444011"^^xsd:string .
+
+wd:Q17445534 a wd:Q1221145 ;
+    rdfs:label "Q17445534"^^xsd:string .
+
+wd:Q17446676 a wd:Q17496318 ;
+    rdfs:label "Q17446676"^^xsd:string .
+
+wd:Q17447466 a wd:Q1221145 ;
+    rdfs:label "Q17447466"^^xsd:string .
+
+wd:Q17447580 a wd:Q18810310 ;
+    rdfs:label "Q17447580"^^xsd:string .
+
+wd:Q17447815 a wd:Q1221145 ;
+    rdfs:label "Q17447815"^^xsd:string .
+
+wd:Q17447817 a wd:Q1221145 ;
+    rdfs:label "Q17447817"^^xsd:string .
+
+wd:Q17447818 a wd:Q1221145 ;
+    rdfs:label "Q17447818"^^xsd:string .
+
+wd:Q17447909 a wd:Q17496318 ;
+    rdfs:label "Q17447909"^^xsd:string .
+
+wd:Q17449405 a wd:Q17496318 ;
+    rdfs:label "Q17449405"^^xsd:string .
+
+wd:Q17449687 a wd:Q17496318 ;
+    rdfs:label "Q17449687"^^xsd:string .
+
+wd:Q17449772 a wd:Q17496318 ;
+    rdfs:label "Q17449772"^^xsd:string .
+
+wd:Q17449991 a wd:Q1221145 ;
+    rdfs:label "Q17449991"^^xsd:string .
+
+wd:Q17449994 a wd:Q1221145 ;
+    rdfs:label "Q17449994"^^xsd:string .
+
+wd:Q17450006 a wd:Q1221145 ;
+    rdfs:label "Q17450006"^^xsd:string .
+
+wd:Q17450238 a wd:Q17496318 ;
+    rdfs:label "Q17450238"^^xsd:string .
+
+wd:Q17450251 a wd:Q1221145 ;
+    rdfs:label "Q17450251"^^xsd:string .
+
+wd:Q17450318 a wd:Q1221145 ;
+    rdfs:label "Q17450318"^^xsd:string .
+
+wd:Q17451641 a wd:Q17496318 ;
+    rdfs:label "Q17451641"^^xsd:string .
+
+wd:Q17451834 a wd:Q18759150 ;
+    rdfs:label "Q17451834"^^xsd:string .
+
+wd:Q17453898 a wd:Q18759150 ;
+    rdfs:label "Q17453898"^^xsd:string .
+
+wd:Q17453899 a wd:Q1221145 ;
+    rdfs:label "Q17453899"^^xsd:string .
+
+wd:Q17453979 a wd:Q1221145 ;
+    rdfs:label "Q17453979"^^xsd:string .
+
+wd:Q17454366 a wd:Q1221145 ;
+    rdfs:label "Q17454366"^^xsd:string .
+
+wd:Q17454374 a wd:Q18759150 ;
+    rdfs:label "Q17454374"^^xsd:string .
+
+wd:Q17454424 a wd:Q1221145 ;
+    rdfs:label "Q17454424"^^xsd:string .
+
+wd:Q17454493 a wd:Q18810458 ;
+    rdfs:label "Q17454493"^^xsd:string .
+
+wd:Q17455088 a wd:Q17496318 ;
+    rdfs:label "Q17455088"^^xsd:string .
+
+wd:Q17455233 a wd:Q17496318 ;
+    rdfs:label "Q17455233"^^xsd:string .
+
+wd:Q17455281 a wd:Q1221145 ;
+    rdfs:label "Q17455281"^^xsd:string .
+
+wd:Q17455335 a wd:Q18810458 ;
+    rdfs:label "Q17455335"^^xsd:string .
+
+wd:Q17455397 a wd:Q17496318 ;
+    rdfs:label "Q17455397"^^xsd:string .
+
+wd:Q17455675 a wd:Q17496318 ;
+    rdfs:label "Q17455675"^^xsd:string .
+
+wd:Q17455676 a wd:Q17496318 ;
+    rdfs:label "Q17455676"^^xsd:string .
+
+wd:Q17456015 a wd:Q1221145 ;
+    rdfs:label "Q17456015"^^xsd:string .
+
+wd:Q17456160 a wd:Q1221145 ;
+    rdfs:label "Q17456160"^^xsd:string .
+
+wd:Q17456168 a wd:Q1221145 ;
+    rdfs:label "Q17456168"^^xsd:string .
+
+wd:Q17456169 a wd:Q1221145 ;
+    rdfs:label "Q17456169"^^xsd:string .
+
+wd:Q17456265 a wd:Q18759150 ;
+    rdfs:label "Q17456265"^^xsd:string .
+
+wd:Q17456321 a wd:Q17496318 ;
+    rdfs:label "Q17456321"^^xsd:string .
+
+wd:Q17456490 a wd:Q1221145 ;
+    rdfs:label "Q17456490"^^xsd:string .
+
+wd:Q17456613 a wd:Q18810310 ;
+    rdfs:label "Herman Colleniusbrug (Groningen)"@en .
+
+wd:Q17456690 a wd:Q18759150 ;
+    rdfs:label "Q17456690"^^xsd:string .
+
+wd:Q17456699 a wd:Q1221145 ;
+    rdfs:label "Q17456699"^^xsd:string .
+
+wd:Q17456701 a wd:Q1221145 ;
+    rdfs:label "Q17456701"^^xsd:string .
+
+wd:Q17456717 a wd:Q17496318 ;
+    rdfs:label "Q17456717"^^xsd:string .
+
+wd:Q17456907 a wd:Q18810458 ;
+    rdfs:label "Q17456907"^^xsd:string .
+
+wd:Q17457129 a wd:Q18759150 ;
+    rdfs:label "Q17457129"^^xsd:string .
+
+wd:Q17457427 a wd:Q1221145 ;
+    rdfs:label "Q17457427"^^xsd:string .
+
+wd:Q17457428 a wd:Q1221145 ;
+    rdfs:label "Q17457428"^^xsd:string .
+
+wd:Q17457433 a wd:Q18759150 ;
+    rdfs:label "Q17457433"^^xsd:string .
+
+wd:Q17457464 a wd:Q1221145 ;
+    rdfs:label "Q17457464"^^xsd:string .
+
+wd:Q17457465 a wd:Q18810310 ;
+    rdfs:label "Q17457465"^^xsd:string .
+
+wd:Q17457473 a wd:Q1221145 ;
+    rdfs:label "Q17457473"^^xsd:string .
+
+wd:Q17457507 a wd:Q1221145 ;
+    rdfs:label "Q17457507"^^xsd:string .
+
+wd:Q17457524 a wd:Q1221145 ;
+    rdfs:label "Q17457524"^^xsd:string .
+
+wd:Q17457525 a wd:Q17496318 ;
+    rdfs:label "Q17457525"^^xsd:string .
+
+wd:Q17457526 a wd:Q18759150 ;
+    rdfs:label "Q17457526"^^xsd:string .
+
+wd:Q17457563 a wd:Q17496318 ;
+    rdfs:label "Q17457563"^^xsd:string .
+
+wd:Q17457569 a wd:Q17496318 ;
+    rdfs:label "Prattenburg"@en .
+
+wd:Q17457595 a wd:Q17496318 ;
+    rdfs:label "Q17457595"^^xsd:string .
+
+wd:Q17457610 a wd:Q17496318 ;
+    rdfs:label "Q17457610"^^xsd:string .
+
+wd:Q17457636 a wd:Q1221145 ;
+    rdfs:label "Q17457636"^^xsd:string .
+
+wd:Q17457687 a wd:Q18810458 ;
+    rdfs:label "Q17457687"^^xsd:string .
+
+wd:Q17457710 a wd:Q1221145 ;
+    rdfs:label "Q17457710"^^xsd:string .
+
+wd:Q17457793 a wd:Q1221145 ;
+    rdfs:label "Q17457793"^^xsd:string .
+
+wd:Q17457942 a wd:Q1221145 ;
+    rdfs:label "Q17457942"^^xsd:string .
+
+wd:Q17457961 a wd:Q17496318 ;
+    rdfs:label "Q17457961"^^xsd:string .
+
+wd:Q17457977 a wd:Q1221145 ;
+    rdfs:label "Q17457977"^^xsd:string .
+
+wd:Q17457978 a wd:Q1221145 ;
+    rdfs:label "Q17457978"^^xsd:string .
+
+wd:Q17457979 a wd:Q1221145 ;
+    rdfs:label "Q17457979"^^xsd:string .
+
+wd:Q17457994 a wd:Q1221145 ;
+    rdfs:label "Double service house"@en .
+
+wd:Q17457995 a wd:Q1221145 ;
+    rdfs:label "Q17457995"^^xsd:string .
+
+wd:Q17458103 a wd:Q1221145 ;
+    rdfs:label "Q17458103"^^xsd:string .
+
+wd:Q17458105 a wd:Q1221145 ;
+    rdfs:label "Q17458105"^^xsd:string .
+
+wd:Q17458117 a wd:Q1221145 ;
+    rdfs:label "Q17458117"^^xsd:string .
+
+wd:Q17458119 a wd:Q1221145 ;
+    rdfs:label "Q17458119"^^xsd:string .
+
+wd:Q17458170 a wd:Q1221145 ;
+    rdfs:label "Q17458170"^^xsd:string .
+
+wd:Q17458189 a wd:Q1221145 ;
+    rdfs:label "Q17458189"^^xsd:string .
+
+wd:Q17458231 a wd:Q1221145 ;
+    rdfs:label "Q17458231"^^xsd:string .
+
+wd:Q17458346 a wd:Q1221145 ;
+    rdfs:label "Q17458346"^^xsd:string .
+
+wd:Q17458449 a wd:Q1221145 ;
+    rdfs:label "Q17458449"^^xsd:string .
+
+wd:Q17458596 a wd:Q17496318 ;
+    rdfs:label "Q17458596"^^xsd:string .
+
+wd:Q17458616 a wd:Q1221145 ;
+    rdfs:label "Q17458616"^^xsd:string .
+
+wd:Q17458710 a wd:Q17496318 ;
+    rdfs:label "Q17458710"^^xsd:string .
+
+wd:Q17459494 a wd:Q1221145 ;
+    rdfs:label "Q17459494"^^xsd:string .
+
+wd:Q17459685 a wd:Q1221145 ;
+    rdfs:label "Q17459685"^^xsd:string .
+
+wd:Q17459687 a wd:Q1221145 ;
+    rdfs:label "Q17459687"^^xsd:string .
+
+wd:Q17459740 a wd:Q1221145 ;
+    rdfs:label "Q17459740"^^xsd:string .
+
+wd:Q17459932 a wd:Q1221145 ;
+    rdfs:label "Q17459932"^^xsd:string .
+
+wd:Q17459933 a wd:Q1221145 ;
+    rdfs:label "Q17459933"^^xsd:string .
+
+wd:Q17460075 a wd:Q1221145 ;
+    rdfs:label "Q17460075"^^xsd:string .
+
+wd:Q17460322 a wd:Q1221145 ;
+    rdfs:label "Q17460322"^^xsd:string .
+
+wd:Q17460442 a wd:Q1221145 ;
+    rdfs:label "Q17460442"^^xsd:string .
+
+wd:Q17460499 a wd:Q1221145 ;
+    rdfs:label "Q17460499"^^xsd:string .
+
+wd:Q17460506 a wd:Q17496318 ;
+    rdfs:label "Q17460506"^^xsd:string .
+
+wd:Q17460508 a wd:Q1221145 ;
+    rdfs:label "Q17460508"^^xsd:string .
+
+wd:Q17460519 a wd:Q17496318 ;
+    rdfs:label "Q17460519"^^xsd:string .
+
+wd:Q17460588 a wd:Q17496318 ;
+    rdfs:label "Q17460588"^^xsd:string .
+
+wd:Q17460615 a wd:Q17496318 ;
+    rdfs:label "Q17460615"^^xsd:string .
+
+wd:Q17460638 a wd:Q17496318 ;
+    rdfs:label "Q17460638"^^xsd:string .
+
+wd:Q17460790 a wd:Q17496318 ;
+    rdfs:label "Q17460790"^^xsd:string .
+
+wd:Q17461038 a wd:Q18759150 ;
+    rdfs:label "Q17461038"^^xsd:string .
+
+wd:Q17461147 a wd:Q17496318 ;
+    rdfs:label "Q17461147"^^xsd:string .
+
+wd:Q17461215 a wd:Q1221145 ;
+    rdfs:label "Q17461215"^^xsd:string .
+
+wd:Q17461248 a wd:Q17496318 ;
+    rdfs:label "Q17461248"^^xsd:string .
+
+wd:Q17461276 a wd:Q1221145 ;
+    rdfs:label "Q17461276"^^xsd:string .
+
+wd:Q17461298 a wd:Q1221145 ;
+    rdfs:label "Q17461298"^^xsd:string .
+
+wd:Q17461333 a wd:Q17496318 ;
+    rdfs:label "Q17461333"^^xsd:string .
+
+wd:Q17461678 a wd:Q1221145 ;
+    rdfs:label "Q17461678"^^xsd:string .
+
+wd:Q17461683 a wd:Q1221145 ;
+    rdfs:label "Q17461683"^^xsd:string .
+
+wd:Q17461685 a wd:Q1221145 ;
+    rdfs:label "Q17461685"^^xsd:string .
+
+wd:Q17461691 a wd:Q1221145 ;
+    rdfs:label "Q17461691"^^xsd:string .
+
+wd:Q17461738 a wd:Q18810310 ;
+    rdfs:label "Q17461738"^^xsd:string .
+
+wd:Q17461928 a wd:Q1221145 ;
+    rdfs:label "Q17461928"^^xsd:string .
+
+wd:Q17462006 a wd:Q1221145 ;
+    rdfs:label "Q17462006"^^xsd:string .
+
+wd:Q17462025 a wd:Q18810310 ;
+    rdfs:label "Q17462025"^^xsd:string .
+
+wd:Q17462028 a wd:Q18810310 ;
+    rdfs:label "Q17462028"^^xsd:string .
+
+wd:Q17462036 a wd:Q18810310 ;
+    rdfs:label "Q17462036"^^xsd:string .
+
+wd:Q17462235 a wd:Q1221145 ;
+    rdfs:label "Q17462235"^^xsd:string .
+
+wd:Q17462239 a wd:Q1221145 ;
+    rdfs:label "Q17462239"^^xsd:string .
+
+wd:Q17462315 a wd:Q18759150 ;
+    rdfs:label "Q17462315"^^xsd:string .
+
+wd:Q17462526 a wd:Q1221145 ;
+    rdfs:label "Q17462526"^^xsd:string .
+
+wd:Q17462566 a wd:Q1221145 ;
+    rdfs:label "Larenberg, Laren"@en .
+
+wd:Q17462944 a wd:Q1221145 ;
+    rdfs:label "Q17462944"^^xsd:string .
+
+wd:Q17462985 a wd:Q17496318 ;
+    rdfs:label "Q17462985"^^xsd:string .
+
+wd:Q17462989 a wd:Q17496318 ;
+    rdfs:label "Q17462989"^^xsd:string .
+
+wd:Q17463018 a wd:Q1221145 ;
+    rdfs:label "Q17463018"^^xsd:string .
+
+wd:Q17463023 a wd:Q1221145 ;
+    rdfs:label "Q17463023"^^xsd:string .
+
+wd:Q17463029 a wd:Q1221145 ;
+    rdfs:label "Q17463029"^^xsd:string .
+
+wd:Q17463085 a wd:Q1221145 ;
+    rdfs:label "Q17463085"^^xsd:string .
+
+wd:Q17463086 a wd:Q1221145 ;
+    rdfs:label "Q17463086"^^xsd:string .
+
+wd:Q17463089 a wd:Q17496318 ;
+    rdfs:label "Dr. J. v.d. Mortellaan 7"@en .
+
+wd:Q17463090 a wd:Q1221145 ;
+    rdfs:label "Q17463090"^^xsd:string .
+
+wd:Q17463093 a wd:Q1221145 ;
+    rdfs:label "Q17463093"^^xsd:string .
+
+wd:Q17463098 a wd:Q1221145 ;
+    rdfs:label "Q17463098"^^xsd:string .
+
+wd:Q17463106 a wd:Q18759150 ;
+    rdfs:label "Q17463106"^^xsd:string .
+
+wd:Q17463107 a wd:Q1221145 ;
+    rdfs:label "Q17463107"^^xsd:string .
+
+wd:Q17463118 a wd:Q17496318 ;
+    rdfs:label "Q17463118"^^xsd:string .
+
+wd:Q17463122 a wd:Q1221145 ;
+    rdfs:label "Q17463122"^^xsd:string .
+
+wd:Q17463123 a wd:Q1221145 ;
+    rdfs:label "Q17463123"^^xsd:string .
+
+wd:Q17463212 a wd:Q1221145 ;
+    rdfs:label "Q17463212"^^xsd:string .
+
+wd:Q17463245 a wd:Q1221145 ;
+    rdfs:label "Q17463245"^^xsd:string .
+
+wd:Q17463248 a wd:Q1221145 ;
+    rdfs:label "Q17463248"^^xsd:string .
+
+wd:Q17463262 a wd:Q17496318 ;
+    rdfs:label "Q17463262"^^xsd:string .
+
+wd:Q17463295 a wd:Q1221145 ;
+    rdfs:label "Q17463295"^^xsd:string .
+
+wd:Q17463301 a wd:Q17496318 ;
+    rdfs:label "Q17463301"^^xsd:string .
+
+wd:Q17463310 a wd:Q17496318 ;
+    rdfs:label "Q17463310"^^xsd:string .
+
+wd:Q17463325 a wd:Q1221145 ;
+    rdfs:label "Q17463325"^^xsd:string .
+
+wd:Q17463327 a wd:Q1221145 ;
+    rdfs:label "Q17463327"^^xsd:string .
+
+wd:Q17463334 a wd:Q18810310 ;
+    rdfs:label "Q17463334"^^xsd:string .
+
+wd:Q17463347 a wd:Q1221145 ;
+    rdfs:label "Q17463347"^^xsd:string .
+
+wd:Q17463357 a wd:Q1221145 ;
+    rdfs:label "Kasteel Ulenpas"@en .
+
+wd:Q17463360 a wd:Q1221145 ;
+    rdfs:label "Q17463360"^^xsd:string .
+
+wd:Q17463384 a wd:Q1221145 ;
+    rdfs:label "Q17463384"^^xsd:string .
+
+wd:Q17463455 a wd:Q1221145 ;
+    rdfs:label "Q17463455"^^xsd:string .
+
+wd:Q17463456 a wd:Q1221145 ;
+    rdfs:label "Q17463456"^^xsd:string .
+
+wd:Q17463457 a wd:Q1221145 ;
+    rdfs:label "Q17463457"^^xsd:string .
+
+wd:Q17463486 a wd:Q1221145 ;
+    rdfs:label "Q17463486"^^xsd:string .
+
+wd:Q17463497 a wd:Q1221145 ;
+    rdfs:label "Landgoed Klarenbeek"@en .
+
+wd:Q17463552 a wd:Q1221145 ;
+    rdfs:label "Q17463552"^^xsd:string .
+
+wd:Q17463567 a wd:Q17496318 ;
+    rdfs:label "Q17463567"^^xsd:string .
+
+wd:Q17463661 a wd:Q17496318 ;
+    rdfs:label "Tuinmanswoning Den Treek"@en .
+
+wd:Q17463665 a wd:Q1221145 ;
+    rdfs:label "Q17463665"^^xsd:string .
+
+wd:Q17463667 a wd:Q1221145 ;
+    rdfs:label "Q17463667"^^xsd:string .
+
+wd:Q17463671 a wd:Q1221145 ;
+    rdfs:label "Q17463671"^^xsd:string .
+
+wd:Q17463673 a wd:Q17496318 ;
+    rdfs:label "Q17463673"^^xsd:string .
+
+wd:Q17463689 a wd:Q1221145 ;
+    rdfs:label "Q17463689"^^xsd:string .
+
+wd:Q17463693 a wd:Q17496318 ;
+    rdfs:label "Q17463693"^^xsd:string .
+
+wd:Q17463712 a wd:Q18810310 ;
+    rdfs:label "Q17463712"^^xsd:string .
+
+wd:Q17463726 a wd:Q17496318 ;
+    rdfs:label "Q17463726"^^xsd:string .
+
+wd:Q17463733 a wd:Q1221145 ;
+    rdfs:label "Q17463733"^^xsd:string .
+
+wd:Q17463763 a wd:Q1221145 ;
+    rdfs:label "Q17463763"^^xsd:string .
+
+wd:Q17463764 a wd:Q1221145 ;
+    rdfs:label "Q17463764"^^xsd:string .
+
+wd:Q17463766 a wd:Q1221145 ;
+    rdfs:label "Q17463766"^^xsd:string .
+
+wd:Q17463769 a wd:Q1221145 ;
+    rdfs:label "Q17463769"^^xsd:string .
+
+wd:Q17463770 a wd:Q1221145 ;
+    rdfs:label "Q17463770"^^xsd:string .
+
+wd:Q17463773 a wd:Q1221145 ;
+    rdfs:label "Q17463773"^^xsd:string .
+
+wd:Q17463827 a wd:Q1221145 ;
+    rdfs:label "Q17463827"^^xsd:string .
+
+wd:Q17463829 a wd:Q1221145 ;
+    rdfs:label "Q17463829"^^xsd:string .
+
+wd:Q17464065 a wd:Q1221145 ;
+    rdfs:label "Q17464065"^^xsd:string .
+
+wd:Q17464155 a wd:Q17496318 ;
+    rdfs:label "Q17464155"^^xsd:string .
+
+wd:Q17464276 a wd:Q18810310 ;
+    rdfs:label "Q17464276"^^xsd:string .
+
+wd:Q17464297 a wd:Q1221145 ;
+    rdfs:label "Q17464297"^^xsd:string .
+
+wd:Q17464383 a wd:Q1221145 ;
+    rdfs:label "Vm Klein seminarie en missiehuis Christus Koning, Helmond"@en .
+
+wd:Q17464451 a wd:Q1221145 ;
+    rdfs:label "Q17464451"^^xsd:string .
+
+wd:Q17464469 a wd:Q17496318 ;
+    rdfs:label "Huis Oolde"@en .
+
+wd:Q17464664 a wd:Q1221145 ;
+    rdfs:label "Q17464664"^^xsd:string .
+
+wd:Q17464666 a wd:Q17496318 ;
+    rdfs:label "Q17464666"^^xsd:string .
+
+wd:Q17464709 a wd:Q1221145 ;
+    rdfs:label "Q17464709"^^xsd:string .
+
+wd:Q17464716 a wd:Q1221145 ;
+    rdfs:label "Q17464716"^^xsd:string .
+
+wd:Q17464777 a wd:Q17496318 ;
+    rdfs:label "Q17464777"^^xsd:string .
+
+wd:Q17464786 a wd:Q1221145 ;
+    rdfs:label "Q17464786"^^xsd:string .
+
+wd:Q17464799 a wd:Q1221145 ;
+    rdfs:label "Q17464799"^^xsd:string .
+
+wd:Q17464951 a wd:Q1221145 ;
+    rdfs:label "Q17464951"^^xsd:string .
+
+wd:Q17464998 a wd:Q1221145 ;
+    rdfs:label "Q17464998"^^xsd:string .
+
+wd:Q17465075 a wd:Q1221145 ;
+    rdfs:label "Treeswijk"@en .
+
+wd:Q17465194 a wd:Q1221145 ;
+    rdfs:label "Q17465194"^^xsd:string .
+
+wd:Q17465212 a wd:Q1221145 ;
+    rdfs:label "Q17465212"^^xsd:string .
+
+wd:Q17465238 a wd:Q1221145 ;
+    rdfs:label "Q17465238"^^xsd:string .
+
+wd:Q17465243 a wd:Q1221145 ;
+    rdfs:label "Q17465243"^^xsd:string .
+
+wd:Q17465245 a wd:Q1221145 ;
+    rdfs:label "Q17465245"^^xsd:string .
+
+wd:Q17465288 a wd:Q17496318 ;
+    rdfs:label "Q17465288"^^xsd:string .
+
+wd:Q17465312 a wd:Q17496318 ;
+    rdfs:label "Q17465312"^^xsd:string .
+
+wd:Q17465455 a wd:Q1221145 ;
+    rdfs:label "Q17465455"^^xsd:string .
+
+wd:Q17465468 a wd:Q17496318 ;
+    rdfs:label "Q17465468"^^xsd:string .
+
+wd:Q17465534 a wd:Q17496318 ;
+    rdfs:label "Huisje Giesing"@en .
+
+wd:Q17465591 a wd:Q17496318 ;
+    rdfs:label "Q17465591"^^xsd:string .
+
+wd:Q17465666 a wd:Q1221145 ;
+    rdfs:label "Dienstwoning, Hoekelum"@en .
+
+wd:Q17465716 a wd:Q17496318 ;
+    rdfs:label "Q17465716"^^xsd:string .
+
+wd:Q17465783 a wd:Q17496318 ;
+    rdfs:label "Q17465783"^^xsd:string .
+
+wd:Q17466109 a wd:Q1221145 ;
+    rdfs:label "Q17466109"^^xsd:string .
+
+wd:Q17466125 a wd:Q1221145 ;
+    rdfs:label "Q17466125"^^xsd:string .
+
+wd:Q17466162 a wd:Q1221145 ;
+    rdfs:label "Q17466162"^^xsd:string .
+
+wd:Q17466167 a wd:Q1221145 ;
+    rdfs:label "Everard Meijsterlaan 1, Utrecht"@en .
+
+wd:Q17466175 a wd:Q1221145 ;
+    rdfs:label "Q17466175"^^xsd:string .
+
+wd:Q17466496 a wd:Q1221145 ;
+    rdfs:label "Q17466496"^^xsd:string .
+
+wd:Q17466760 a wd:Q1221145 ;
+    rdfs:label "Q17466760"^^xsd:string .
+
+wd:Q17466821 a wd:Q1221145 ;
+    rdfs:label "Q17466821"^^xsd:string .
+
+wd:Q17466901 a wd:Q1221145 ;
+    rdfs:label "Q17466901"^^xsd:string .
+
+wd:Q17467335 a wd:Q1221145 ;
+    rdfs:label "Q17467335"^^xsd:string .
+
+wd:Q17467444 a wd:Q1221145 ;
+    rdfs:label "Q17467444"^^xsd:string .
+
+wd:Q17467480 a wd:Q1221145 ;
+    rdfs:label "Q17467480"^^xsd:string .
+
+wd:Q17467618 a wd:Q1221145 ;
+    rdfs:label "Q17467618"^^xsd:string .
+
+wd:Q17467672 a wd:Q1221145 ;
+    rdfs:label "Q17467672"^^xsd:string .
+
+wd:Q17467692 a wd:Q17496318 ;
+    rdfs:label "Q17467692"^^xsd:string .
+
+wd:Q17467716 a wd:Q18759150 ;
+    rdfs:label "Q17467716"^^xsd:string .
+
+wd:Q17468122 a wd:Q1221145 ;
+    rdfs:label "Q17468122"^^xsd:string .
+
+wd:Q17468247 a wd:Q1221145 ;
+    rdfs:label "Q17468247"^^xsd:string .
+
+wd:Q17468539 a wd:Q17496318 ;
+    rdfs:label "Q17468539"^^xsd:string .
+
+wd:Q17468749 a wd:Q17496318 ;
+    rdfs:label "Q17468749"^^xsd:string .
+
+wd:Q17469424 a wd:Q1221145 ;
+    rdfs:label "Q17469424"^^xsd:string .
+
+wd:Q17469679 a wd:Q18810458 ;
+    rdfs:label "Q17469679"^^xsd:string .
+
+wd:Q17469685 a wd:Q1221145 ;
+    rdfs:label "Q17469685"^^xsd:string .
+
+wd:Q17469687 a wd:Q1221145 ;
+    rdfs:label "Q17469687"^^xsd:string .
+
+wd:Q17469714 a wd:Q1221145 ;
+    rdfs:label "Q17469714"^^xsd:string .
+
+wd:Q17469945 a wd:Q1221145 ;
+    rdfs:label "Q17469945"^^xsd:string .
+
+wd:Q17589963 a wd:Q1221145 ;
+    rdfs:label "Q17589963"^^xsd:string .
+
+wd:Q17590084 a wd:Q17496318 ;
+    rdfs:label "Q17590084"^^xsd:string .
+
+wd:Q17590115 a wd:Q17496318 ;
+    rdfs:label "Q17590115"^^xsd:string .
+
+wd:Q17590119 a wd:Q17496318 ;
+    rdfs:label "Q17590119"^^xsd:string .
+
+wd:Q17590136 a wd:Q18759150 ;
+    rdfs:label "Q17590136"^^xsd:string .
+
+wd:Q17590181 a wd:Q18759150 ;
+    rdfs:label "Q17590181"^^xsd:string .
+
+wd:Q17590191 a wd:Q17496318 ;
+    rdfs:label "Q17590191"^^xsd:string .
+
+wd:Q17590290 a wd:Q17496318 ;
+    rdfs:label "Q17590290"^^xsd:string .
+
+wd:Q17590378 a wd:Q1221145 ;
+    rdfs:label "Q17590378"^^xsd:string .
+
+wd:Q17590424 a wd:Q1221145 ;
+    rdfs:label "Q17590424"^^xsd:string .
+
+wd:Q17590515 a wd:Q1221145 ;
+    rdfs:label "Q17590515"^^xsd:string .
+
+wd:Q17590516 a wd:Q1221145 ;
+    rdfs:label "Q17590516"^^xsd:string .
+
+wd:Q17590563 a wd:Q1221145 ;
+    rdfs:label "Q17590563"^^xsd:string .
+
+wd:Q17590565 a wd:Q1221145 ;
+    rdfs:label "Westerhout, Beverwijk"@en .
+
+wd:Q17590681 a wd:Q1221145 ;
+    rdfs:label "Q17590681"^^xsd:string .
+
+wd:Q17590864 a wd:Q1221145 ;
+    rdfs:label "Q17590864"^^xsd:string .
+
+wd:Q17591088 a wd:Q17496318 ;
+    rdfs:label "Q17591088"^^xsd:string .
+
+wd:Q17591419 a wd:Q1221145 ;
+    rdfs:label "Q17591419"^^xsd:string .
+
+wd:Q17591431 a wd:Q1221145 ;
+    rdfs:label "Q17591431"^^xsd:string .
+
+wd:Q17591680 a wd:Q1221145 ;
+    rdfs:label "Q17591680"^^xsd:string .
+
+wd:Q17591704 a wd:Q1221145 ;
+    rdfs:label "Belastingkantoor"@en .
+
+wd:Q17591981 a wd:Q1221145 ;
+    rdfs:label "Q17591981"^^xsd:string .
+
+wd:Q17592556 a wd:Q1221145 ;
+    rdfs:label "Q17592556"^^xsd:string .
+
+wd:Q17592594 a wd:Q1221145 ;
+    rdfs:label "Q17592594"^^xsd:string .
+
+wd:Q17592876 a wd:Q18810458 ;
+    rdfs:label "Q17592876"^^xsd:string .
+
+wd:Q17593496 a wd:Q18810458 ;
+    rdfs:label "Q17593496"^^xsd:string .
+
+wd:Q17593522 a wd:Q18810458 ;
+    rdfs:label "Q17593522"^^xsd:string .
+
+wd:Q17593587 a wd:Q1221145 ;
+    rdfs:label "Q17593587"^^xsd:string .
+
+wd:Q17593649 a wd:Q1221145 ;
+    rdfs:label "Q17593649"^^xsd:string .
+
+wd:Q17593937 a wd:Q1221145 ;
+    rdfs:label "Q17593937"^^xsd:string .
+
+wd:Q17594118 a wd:Q18810458 ;
+    rdfs:label "Q17594118"^^xsd:string .
+
+wd:Q17594299 a wd:Q17496318 ;
+    rdfs:label "Q17594299"^^xsd:string .
+
+wd:Q17594323 a wd:Q1221145 ;
+    rdfs:label "Q17594323"^^xsd:string .
+
+wd:Q17594330 a wd:Q18810310 ;
+    rdfs:label "Q17594330"^^xsd:string .
+
+wd:Q17594349 a wd:Q18810458 ;
+    rdfs:label "Q17594349"^^xsd:string .
+
+wd:Q17594403 a wd:Q1221145 ;
+    rdfs:label "Q17594403"^^xsd:string .
+
+wd:Q17594405 a wd:Q1221145 ;
+    rdfs:label "Q17594405"^^xsd:string .
+
+wd:Q17594754 a wd:Q18810458 ;
+    rdfs:label "Q17594754"^^xsd:string .
+
+wd:Q17594828 a wd:Q1221145 ;
+    rdfs:label "Q17594828"^^xsd:string .
+
+wd:Q17594866 a wd:Q17496318 ;
+    rdfs:label "Q17594866"^^xsd:string .
+
+wd:Q17594908 a wd:Q1221145 ;
+    rdfs:label "Q17594908"^^xsd:string .
+
+wd:Q17595284 a wd:Q1221145 ;
+    rdfs:label "Q17595284"^^xsd:string .
+
+wd:Q17595424 a wd:Q1221145 ;
+    rdfs:label "Q17595424"^^xsd:string .
+
+wd:Q17595425 a wd:Q1221145 ;
+    rdfs:label "Q17595425"^^xsd:string .
+
+wd:Q17595442 a wd:Q1221145 ;
+    rdfs:label "Q17595442"^^xsd:string .
+
+wd:Q17595544 a wd:Q1221145 ;
+    rdfs:label "Q17595544"^^xsd:string .
+
+wd:Q17595578 a wd:Q1221145 ;
+    rdfs:label "Q17595578"^^xsd:string .
+
+wd:Q17595852 a wd:Q18759150 ;
+    rdfs:label "Q17595852"^^xsd:string .
+
+wd:Q17595854 a wd:Q1221145 ;
+    rdfs:label "Q17595854"^^xsd:string .
+
+wd:Q17595856 a wd:Q18759150 ;
+    rdfs:label "Q17595856"^^xsd:string .
+
+wd:Q17595868 a wd:Q1221145 ;
+    rdfs:label "Q17595868"^^xsd:string .
+
+wd:Q17595871 a wd:Q1221145 ;
+    rdfs:label "Q17595871"^^xsd:string .
+
+wd:Q17596109 a wd:Q18759150 ;
+    rdfs:label "Q17596109"^^xsd:string .
+
+wd:Q17596183 a wd:Q17496318 ;
+    rdfs:label "Q17596183"^^xsd:string .
+
+wd:Q17596201 a wd:Q1221145,
+        wd:Q17496318 ;
+    rdfs:label "Q17596201"^^xsd:string .
+
+wd:Q17596246 a wd:Q17496318 ;
+    rdfs:label "Q17596246"^^xsd:string .
+
+wd:Q17596254 a wd:Q1221145 ;
+    rdfs:label "Q17596254"^^xsd:string .
+
+wd:Q17596295 a wd:Q1221145 ;
+    rdfs:label "Q17596295"^^xsd:string .
+
+wd:Q17596363 a wd:Q17496318 ;
+    rdfs:label "Q17596363"^^xsd:string .
+
+wd:Q17596380 a wd:Q18759150 ;
+    rdfs:label "Q17596380"^^xsd:string .
+
+wd:Q17596440 a wd:Q18759150 ;
+    rdfs:label "Q17596440"^^xsd:string .
+
+wd:Q17596443 a wd:Q17496318 ;
+    rdfs:label "Q17596443"^^xsd:string .
+
+wd:Q17596618 a wd:Q1221145 ;
+    rdfs:label "Q17596618"^^xsd:string .
+
+wd:Q17596635 a wd:Q18759150 ;
+    rdfs:label "Q17596635"^^xsd:string .
+
+wd:Q17596707 a wd:Q17496318 ;
+    rdfs:label "Q17596707"^^xsd:string .
+
+wd:Q17596721 a wd:Q17496318 ;
+    rdfs:label "Q17596721"^^xsd:string .
+
+wd:Q17596799 a wd:Q1221145 ;
+    rdfs:label "Q17596799"^^xsd:string .
+
+wd:Q17596804 a wd:Q1221145 ;
+    rdfs:label "Q17596804"^^xsd:string .
+
+wd:Q17596808 a wd:Q18810310 ;
+    rdfs:label "Q17596808"^^xsd:string .
+
+wd:Q17596810 a wd:Q1221145 ;
+    rdfs:label "Q17596810"^^xsd:string .
+
+wd:Q17596818 a wd:Q18810310 ;
+    rdfs:label "Q17596818"^^xsd:string .
+
+wd:Q17596833 a wd:Q17496318 ;
+    rdfs:label "Q17596833"^^xsd:string .
+
+wd:Q17596856 a wd:Q17496318 ;
+    rdfs:label "Q17596856"^^xsd:string .
+
+wd:Q17596857 a wd:Q1221145 ;
+    rdfs:label "Q17596857"^^xsd:string .
+
+wd:Q17596910 a wd:Q1221145 ;
+    rdfs:label "Q17596910"^^xsd:string .
+
+wd:Q17596961 a wd:Q1221145 ;
+    rdfs:label "Q17596961"^^xsd:string .
+
+wd:Q17596966 a wd:Q18759150 ;
+    rdfs:label "Q17596966"^^xsd:string .
+
+wd:Q17597108 a wd:Q1221145 ;
+    rdfs:label "Q17597108"^^xsd:string .
+
+wd:Q17597116 a wd:Q1221145 ;
+    rdfs:label "Q17597116"^^xsd:string .
+
+wd:Q17597156 a wd:Q1221145 ;
+    rdfs:label "Q17597156"^^xsd:string .
+
+wd:Q17597242 a wd:Q18759150 ;
+    rdfs:label "Q17597242"^^xsd:string .
+
+wd:Q17597248 a wd:Q17496318 ;
+    rdfs:label "Q17597248"^^xsd:string .
+
+wd:Q17597319 a wd:Q17496318 ;
+    rdfs:label "Q17597319"^^xsd:string .
+
+wd:Q17597419 a wd:Q1221145 ;
+    rdfs:label "Q17597419"^^xsd:string .
+
+wd:Q17597420 a wd:Q17496318 ;
+    rdfs:label "Q17597420"^^xsd:string .
+
+wd:Q17597424 a wd:Q17496318 ;
+    rdfs:label "Q17597424"^^xsd:string .
+
+wd:Q17597430 a wd:Q1221145 ;
+    rdfs:label "Q17597430"^^xsd:string .
+
+wd:Q17597549 a wd:Q18810458 ;
+    rdfs:label "Q17597549"^^xsd:string .
+
+wd:Q17597565 a wd:Q1221145 ;
+    rdfs:label "Q17597565"^^xsd:string .
+
+wd:Q17597590 a wd:Q1221145 ;
+    rdfs:label "Q17597590"^^xsd:string .
+
+wd:Q17597866 a wd:Q1221145 ;
+    rdfs:label "Q17597866"^^xsd:string .
+
+wd:Q17598106 a wd:Q1221145 ;
+    rdfs:label "Q17598106"^^xsd:string .
+
+wd:Q17598108 a wd:Q1221145 ;
+    rdfs:label "Q17598108"^^xsd:string .
+
+wd:Q17598143 a wd:Q1221145 ;
+    rdfs:label "Q17598143"^^xsd:string .
+
+wd:Q17598162 a wd:Q17496318 ;
+    rdfs:label "Q17598162"^^xsd:string .
+
+wd:Q17598171 a wd:Q1221145 ;
+    rdfs:label "Q17598171"^^xsd:string .
+
+wd:Q17598187 a wd:Q1221145 ;
+    rdfs:label "Q17598187"^^xsd:string .
+
+wd:Q17598192 a wd:Q1221145 ;
+    rdfs:label "Q17598192"^^xsd:string .
+
+wd:Q17598214 a wd:Q18759150 ;
+    rdfs:label "Q17598214"^^xsd:string .
+
+wd:Q17598237 a wd:Q1221145 ;
+    rdfs:label "Q17598237"^^xsd:string .
+
+wd:Q17598239 a wd:Q1221145 ;
+    rdfs:label "Q17598239"^^xsd:string .
+
+wd:Q17598241 a wd:Q1221145 ;
+    rdfs:label "Q17598241"^^xsd:string .
+
+wd:Q17598242 a wd:Q1221145 ;
+    rdfs:label "Q17598242"^^xsd:string .
+
+wd:Q17598274 a wd:Q1221145 ;
+    rdfs:label "Q17598274"^^xsd:string .
+
+wd:Q17598581 a wd:Q1221145 ;
+    rdfs:label "Q17598581"^^xsd:string .
+
+wd:Q17598645 a wd:Q1221145 ;
+    rdfs:label "Q17598645"^^xsd:string .
+
+wd:Q17598662 a wd:Q1221145 ;
+    rdfs:label "Q17598662"^^xsd:string .
+
+wd:Q17598667 a wd:Q1221145 ;
+    rdfs:label "Q17598667"^^xsd:string .
+
+wd:Q17598730 a wd:Q1221145 ;
+    rdfs:label "Q17598730"^^xsd:string .
+
+wd:Q17598732 a wd:Q1221145 ;
+    rdfs:label "Q17598732"^^xsd:string .
+
+wd:Q17598834 a wd:Q1221145 ;
+    rdfs:label "Q17598834"^^xsd:string .
+
+wd:Q17598942 a wd:Q1221145 ;
+    rdfs:label "Q17598942"^^xsd:string .
+
+wd:Q17599016 a wd:Q1221145 ;
+    rdfs:label "Q17599016"^^xsd:string .
+
+wd:Q17599049 a wd:Q1221145 ;
+    rdfs:label "Q17599049"^^xsd:string .
+
+wd:Q17599053 a wd:Q18759150 ;
+    rdfs:label "Q17599053"^^xsd:string .
+
+wd:Q17599148 a wd:Q17496318 ;
+    rdfs:label "Q17599148"^^xsd:string .
+
+wd:Q17599173 a wd:Q17496318 ;
+    rdfs:label "Q17599173"^^xsd:string .
+
+wd:Q17599555 a wd:Q1221145 ;
+    rdfs:label "Q17599555"^^xsd:string .
+
+wd:Q17599564 a wd:Q17496318 ;
+    rdfs:label "Q17599564"^^xsd:string .
+
+wd:Q17599628 a wd:Q1221145 ;
+    rdfs:label "Q17599628"^^xsd:string .
+
+wd:Q17599629 a wd:Q1221145 ;
+    rdfs:label "Q17599629"^^xsd:string .
+
+wd:Q17599683 a wd:Q17496318 ;
+    rdfs:label "Q17599683"^^xsd:string .
+
+wd:Q17599813 a wd:Q17496318 ;
+    rdfs:label "Beethovenlaan 1, Hilversum"@en .
+
+wd:Q17599933 a wd:Q17496318 ;
+    rdfs:label "Q17599933"^^xsd:string .
+
+wd:Q17599966 a wd:Q17496318 ;
+    rdfs:label "Q17599966"^^xsd:string .
+
+wd:Q17600014 a wd:Q1221145 ;
+    rdfs:label "Q17600014"^^xsd:string .
+
+wd:Q17600623 a wd:Q1221145 ;
+    rdfs:label "Q17600623"^^xsd:string .
+
+wd:Q17600663 a wd:Q1221145 ;
+    rdfs:label "Q17600663"^^xsd:string .
+
+wd:Q17600748 a wd:Q18810458 ;
+    rdfs:label "Q17600748"^^xsd:string .
+
+wd:Q17601072 a wd:Q1221145 ;
+    rdfs:label "Q17601072"^^xsd:string .
+
+wd:Q17601089 a wd:Q1221145 ;
+    rdfs:label "Q17601089"^^xsd:string .
+
+wd:Q17601091 a wd:Q1221145 ;
+    rdfs:label "Q17601091"^^xsd:string .
+
+wd:Q17601093 a wd:Q1221145 ;
+    rdfs:label "Q17601093"^^xsd:string .
+
+wd:Q17601125 a wd:Q1221145 ;
+    rdfs:label "Q17601125"^^xsd:string .
+
+wd:Q17601132 a wd:Q1221145 ;
+    rdfs:label "Q17601132"^^xsd:string .
+
+wd:Q17601138 a wd:Q1221145 ;
+    rdfs:label "Q17601138"^^xsd:string .
+
+wd:Q17601140 a wd:Q1221145 ;
+    rdfs:label "Q17601140"^^xsd:string .
+
+wd:Q17601142 a wd:Q1221145 ;
+    rdfs:label "Q17601142"^^xsd:string .
+
+wd:Q17601425 a wd:Q17496318 ;
+    rdfs:label "Q17601425"^^xsd:string .
+
+wd:Q17601648 a wd:Q17496318 ;
+    rdfs:label "Tuinmanswoning, Staverden"@en .
+
+wd:Q17601838 a wd:Q17496318 ;
+    rdfs:label "Q17601838"^^xsd:string .
+
+wd:Q17602121 a wd:Q1221145 ;
+    rdfs:label "Q17602121"^^xsd:string .
+
+wd:Q17602472 a wd:Q1221145 ;
+    rdfs:label "Q17602472"^^xsd:string .
+
+wd:Q17602478 a wd:Q1221145 ;
+    rdfs:label "Q17602478"^^xsd:string .
+
+wd:Q17602508 a wd:Q1221145 ;
+    rdfs:label "Q17602508"^^xsd:string .
+
+wd:Q17602511 a wd:Q1221145 ;
+    rdfs:label "Q17602511"^^xsd:string .
+
+wd:Q17602529 a wd:Q1221145 ;
+    rdfs:label "Q17602529"^^xsd:string .
+
+wd:Q17602668 a wd:Q1221145 ;
+    rdfs:label "Heetvelderweg 2, Leusden-Zuid"@en .
+
+wd:Q17602706 a wd:Q1221145 ;
+    rdfs:label "Q17602706"^^xsd:string .
+
+wd:Q17602708 a wd:Q1221145 ;
+    rdfs:label "Q17602708"^^xsd:string .
+
+wd:Q17602715 a wd:Q1221145 ;
+    rdfs:label "Q17602715"^^xsd:string .
+
+wd:Q17602731 a wd:Q17496318 ;
+    rdfs:label "Q17602731"^^xsd:string .
+
+wd:Q17602733 a wd:Q1221145 ;
+    rdfs:label "Q17602733"^^xsd:string .
+
+wd:Q17602740 a wd:Q1221145 ;
+    rdfs:label "Q17602740"^^xsd:string .
+
+wd:Q17602743 a wd:Q1221145 ;
+    rdfs:label "Q17602743"^^xsd:string .
+
+wd:Q17602744 a wd:Q1221145 ;
+    rdfs:label "Q17602744"^^xsd:string .
+
+wd:Q17602844 a wd:Q17496318 ;
+    rdfs:label "Q17602844"^^xsd:string .
+
+wd:Q17602900 a wd:Q18810310 ;
+    rdfs:label "Q17602900"^^xsd:string .
+
+wd:Q17602904 a wd:Q18810310 ;
+    rdfs:label "Q17602904"^^xsd:string .
+
+wd:Q17602906 a wd:Q1221145 ;
+    rdfs:label "Q17602906"^^xsd:string .
+
+wd:Q17602938 a wd:Q1221145 ;
+    rdfs:label "Q17602938"^^xsd:string .
+
+wd:Q17602957 a wd:Q1221145 ;
+    rdfs:label "Q17602957"^^xsd:string .
+
+wd:Q17602963 a wd:Q17496318 ;
+    rdfs:label "Q17602963"^^xsd:string .
+
+wd:Q17602974 a wd:Q1221145 ;
+    rdfs:label "Q17602974"^^xsd:string .
+
+wd:Q17602985 a wd:Q17496318 ;
+    rdfs:label "Q17602985"^^xsd:string .
+
+wd:Q17602999 a wd:Q1221145 ;
+    rdfs:label "Q17602999"^^xsd:string .
+
+wd:Q17603000 a wd:Q1221145 ;
+    rdfs:label "Q17603000"^^xsd:string .
+
+wd:Q17603042 a wd:Q18759150 ;
+    rdfs:label "Q17603042"^^xsd:string .
+
+wd:Q17603044 a wd:Q1221145 ;
+    rdfs:label "Q17603044"^^xsd:string .
+
+wd:Q17603055 a wd:Q1221145 ;
+    rdfs:label "Q17603055"^^xsd:string .
+
+wd:Q17603062 a wd:Q18759150 ;
+    rdfs:label "Q17603062"^^xsd:string .
+
+wd:Q17603067 a wd:Q1221145 ;
+    rdfs:label "Q17603067"^^xsd:string .
+
+wd:Q17603084 a wd:Q18759150 ;
+    rdfs:label "Q17603084"^^xsd:string .
+
+wd:Q17603092 a wd:Q18759150 ;
+    rdfs:label "Q17603092"^^xsd:string .
+
+wd:Q17603101 a wd:Q1221145 ;
+    rdfs:label "Q17603101"^^xsd:string .
+
+wd:Q17603107 a wd:Q1221145 ;
+    rdfs:label "Q17603107"^^xsd:string .
+
+wd:Q17603111 a wd:Q1221145 ;
+    rdfs:label "Q17603111"^^xsd:string .
+
+wd:Q17603118 a wd:Q1221145 ;
+    rdfs:label "Q17603118"^^xsd:string .
+
+wd:Q17603127 a wd:Q1221145 ;
+    rdfs:label "Q17603127"^^xsd:string .
+
+wd:Q17603131 a wd:Q18759150 ;
+    rdfs:label "Q17603131"^^xsd:string .
+
+wd:Q17603220 a wd:Q1221145 ;
+    rdfs:label "Q17603220"^^xsd:string .
+
+wd:Q17603452 a wd:Q1221145 ;
+    rdfs:label "Q17603452"^^xsd:string .
+
+wd:Q17603502 a wd:Q1221145 ;
+    rdfs:label "Q17603502"^^xsd:string .
+
+wd:Q17603582 a wd:Q1221145 ;
+    rdfs:label "Q17603582"^^xsd:string .
+
+wd:Q17603586 a wd:Q1221145 ;
+    rdfs:label "Q17603586"^^xsd:string .
+
+wd:Q17603587 a wd:Q1221145 ;
+    rdfs:label "Q17603587"^^xsd:string .
+
+wd:Q17603616 a wd:Q1221145 ;
+    rdfs:label "Q17603616"^^xsd:string .
+
+wd:Q17603617 a wd:Q1221145 ;
+    rdfs:label "Q17603617"^^xsd:string .
+
+wd:Q17603639 a wd:Q1221145 ;
+    rdfs:label "Q17603639"^^xsd:string .
+
+wd:Q17603645 a wd:Q1221145 ;
+    rdfs:label "Q17603645"^^xsd:string .
+
+wd:Q17603648 a wd:Q18759150 ;
+    rdfs:label "Q17603648"^^xsd:string .
+
+wd:Q17603811 a wd:Q1221145 ;
+    rdfs:label "Q17603811"^^xsd:string .
+
+wd:Q17603813 a wd:Q1221145 ;
+    rdfs:label "Q17603813"^^xsd:string .
+
+wd:Q17603872 a wd:Q1221145 ;
+    rdfs:label "Q17603872"^^xsd:string .
+
+wd:Q17603894 a wd:Q1221145 ;
+    rdfs:label "Q17603894"^^xsd:string .
+
+wd:Q17604152 a wd:Q17496318 ;
+    rdfs:label "Villa Kortonjo"@en .
+
+wd:Q17604214 a wd:Q17496318 ;
+    rdfs:label "Q17604214"^^xsd:string .
+
+wd:Q17604484 a wd:Q17496318 ;
+    rdfs:label "Q17604484"^^xsd:string .
+
+wd:Q17604501 a wd:Q17496318 ;
+    rdfs:label "Q17604501"^^xsd:string .
+
+wd:Q17604513 a wd:Q1221145 ;
+    rdfs:label "Q17604513"^^xsd:string .
+
+wd:Q17604515 a wd:Q1221145 ;
+    rdfs:label "Q17604515"^^xsd:string .
+
+wd:Q17604581 a wd:Q1221145 ;
+    rdfs:label "Q17604581"^^xsd:string .
+
+wd:Q17604583 a wd:Q1221145 ;
+    rdfs:label "Q17604583"^^xsd:string .
+
+wd:Q17604584 a wd:Q1221145 ;
+    rdfs:label "Q17604584"^^xsd:string .
+
+wd:Q17604586 a wd:Q1221145 ;
+    rdfs:label "Q17604586"^^xsd:string .
+
+wd:Q17604588 a wd:Q1221145 ;
+    rdfs:label "Q17604588"^^xsd:string .
+
+wd:Q17604589 a wd:Q1221145 ;
+    rdfs:label "Q17604589"^^xsd:string .
+
+wd:Q17604591 a wd:Q1221145 ;
+    rdfs:label "Q17604591"^^xsd:string .
+
+wd:Q17604595 a wd:Q1221145 ;
+    rdfs:label "Q17604595"^^xsd:string .
+
+wd:Q17604598 a wd:Q1221145 ;
+    rdfs:label "Q17604598"^^xsd:string .
+
+wd:Q17604712 a wd:Q17496318 ;
+    rdfs:label "Q17604712"^^xsd:string .
+
+wd:Q17604793 a wd:Q1221145 ;
+    rdfs:label "Q17604793"^^xsd:string .
+
+wd:Q17604805 a wd:Q1221145 ;
+    rdfs:label "Q17604805"^^xsd:string .
+
+wd:Q17604822 a wd:Q17496318 ;
+    rdfs:label "Q17604822"^^xsd:string .
+
+wd:Q17604913 a wd:Q1221145 ;
+    rdfs:label "Q17604913"^^xsd:string .
+
+wd:Q17605042 a wd:Q17496318 ;
+    rdfs:label "Q17605042"^^xsd:string .
+
+wd:Q17605158 a wd:Q17496318 ;
+    rdfs:label "Q17605158"^^xsd:string .
+
+wd:Q17605284 a wd:Q1221145 ;
+    rdfs:label "Q17605284"^^xsd:string .
+
+wd:Q17605395 a wd:Q1221145 ;
+    rdfs:label "Q17605395"^^xsd:string .
+
+wd:Q17605401 a wd:Q1221145 ;
+    rdfs:label "Q17605401"^^xsd:string .
+
+wd:Q17605411 a wd:Q1221145 ;
+    rdfs:label "Q17605411"^^xsd:string .
+
+wd:Q17605703 a wd:Q1221145 ;
+    rdfs:label "Q17605703"^^xsd:string .
+
+wd:Q17605725 a wd:Q1221145 ;
+    rdfs:label "Q17605725"^^xsd:string .
+
+wd:Q17605820 a wd:Q1221145 ;
+    rdfs:label "Q17605820"^^xsd:string .
+
+wd:Q17605954 a wd:Q18759150 ;
+    rdfs:label "Q17605954"^^xsd:string .
+
+wd:Q17606120 a wd:Q1221145 ;
+    rdfs:label "Q17606120"^^xsd:string .
+
+wd:Q17606258 a wd:Q1221145 ;
+    rdfs:label "Q17606258"^^xsd:string .
+
+wd:Q17606288 a wd:Q1221145 ;
+    rdfs:label "Q17606288"^^xsd:string .
+
+wd:Q17606304 a wd:Q1221145 ;
+    rdfs:label "Q17606304"^^xsd:string .
+
+wd:Q17606306 a wd:Q1221145 ;
+    rdfs:label "Q17606306"^^xsd:string .
+
+wd:Q17606354 a wd:Q17496318 ;
+    rdfs:label "Q17606354"^^xsd:string .
+
+wd:Q17606355 a wd:Q1221145 ;
+    rdfs:label "Q17606355"^^xsd:string .
+
+wd:Q17606596 a wd:Q17496318 ;
+    rdfs:label "Huis Djoerang"@en .
+
+wd:Q17606667 a wd:Q18759150 ;
+    rdfs:label "Q17606667"^^xsd:string .
+
+wd:Q17606689 a wd:Q1221145 ;
+    rdfs:label "Q17606689"^^xsd:string .
+
+wd:Q17606732 a wd:Q1221145 ;
+    rdfs:label "Q17606732"^^xsd:string .
+
+wd:Q17606755 a wd:Q17496318 ;
+    rdfs:label "Q17606755"^^xsd:string .
+
+wd:Q17606765 a wd:Q17496318 ;
+    rdfs:label "Q17606765"^^xsd:string .
+
+wd:Q17606772 a wd:Q17496318 ;
+    rdfs:label "Q17606772"^^xsd:string .
+
+wd:Q17606775 a wd:Q1221145 ;
+    rdfs:label "Q17606775"^^xsd:string .
+
+wd:Q17606890 a wd:Q1221145 ;
+    rdfs:label "Q17606890"^^xsd:string .
+
+wd:Q17606957 a wd:Q1221145 ;
+    rdfs:label "Q17606957"^^xsd:string .
+
+wd:Q17607009 a wd:Q18759150 ;
+    rdfs:label "Q17607009"^^xsd:string .
+
+wd:Q17607580 a wd:Q1221145 ;
+    rdfs:label "Q17607580"^^xsd:string .
+
+wd:Q17607599 a wd:Q17496318 ;
+    rdfs:label "Q17607599"^^xsd:string .
+
+wd:Q17607694 a wd:Q1221145 ;
+    rdfs:label "Q17607694"^^xsd:string .
+
+wd:Q17607696 a wd:Q1221145 ;
+    rdfs:label "Q17607696"^^xsd:string .
+
+wd:Q17607751 a wd:Q17496318 ;
+    rdfs:label "Q17607751"^^xsd:string .
+
+wd:Q17607776 a wd:Q18759150 ;
+    rdfs:label "Q17607776"^^xsd:string .
+
+wd:Q17607789 a wd:Q17496318 ;
+    rdfs:label "Q17607789"^^xsd:string .
+
+wd:Q17607926 a wd:Q1221145 ;
+    rdfs:label "Q17607926"^^xsd:string .
+
+wd:Q17607933 a wd:Q17496318 ;
+    rdfs:label "Q17607933"^^xsd:string .
+
+wd:Q17607956 a wd:Q1221145 ;
+    rdfs:label "Q17607956"^^xsd:string .
+
+wd:Q17607977 a wd:Q17496318 ;
+    rdfs:label "Q17607977"^^xsd:string .
+
+wd:Q17608061 a wd:Q1221145 ;
+    rdfs:label "Q17608061"^^xsd:string .
+
+wd:Q17608063 a wd:Q1221145 ;
+    rdfs:label "Q17608063"^^xsd:string .
+
+wd:Q17608067 a wd:Q17496318 ;
+    rdfs:label "Q17608067"^^xsd:string .
+
+wd:Q17608068 a wd:Q1221145 ;
+    rdfs:label "Q17608068"^^xsd:string .
+
+wd:Q17608087 a wd:Q1221145 ;
+    rdfs:label "Q17608087"^^xsd:string .
+
+wd:Q17608114 a wd:Q17496318 ;
+    rdfs:label "Q17608114"^^xsd:string .
+
+wd:Q17608155 a wd:Q17496318 ;
+    rdfs:label "Q17608155"^^xsd:string .
+
+wd:Q17608187 a wd:Q17496318 ;
+    rdfs:label "Huis Baak"@en .
+
+wd:Q17608197 a wd:Q1221145 ;
+    rdfs:label "Salentein"@en .
+
+wd:Q17608420 a wd:Q1221145 ;
+    rdfs:label "Q17608420"^^xsd:string .
+
+wd:Q17608505 a wd:Q17496318 ;
+    rdfs:label "Q17608505"^^xsd:string .
+
+wd:Q17608674 a wd:Q17496318 ;
+    rdfs:label "Q17608674"^^xsd:string .
+
+wd:Q17608703 a wd:Q18759150 ;
+    rdfs:label "Q17608703"^^xsd:string .
+
+wd:Q17609251 a wd:Q1221145 ;
+    rdfs:label "Q17609251"^^xsd:string .
+
+wd:Q17609440 a wd:Q1221145 ;
+    rdfs:label "Q17609440"^^xsd:string .
+
+wd:Q17609443 a wd:Q1221145 ;
+    rdfs:label "Q17609443"^^xsd:string .
+
+wd:Q17609444 a wd:Q1221145 ;
+    rdfs:label "Q17609444"^^xsd:string .
+
+wd:Q17609459 a wd:Q18759150 ;
+    rdfs:label "Q17609459"^^xsd:string .
+
+wd:Q17609655 a wd:Q18759150 ;
+    rdfs:label "Q17609655"^^xsd:string .
+
+wd:Q17609679 a wd:Q17496318 ;
+    rdfs:label "Q17609679"^^xsd:string .
+
+wd:Q17609758 a wd:Q17496318 ;
+    rdfs:label "Q17609758"^^xsd:string .
+
+wd:Q17609791 a wd:Q18759150 ;
+    rdfs:label "Q17609791"^^xsd:string .
+
+wd:Q17609898 a wd:Q1221145 ;
+    rdfs:label "Q17609898"^^xsd:string .
+
+wd:Q17609908 a wd:Q1221145 ;
+    rdfs:label "Q17609908"^^xsd:string .
+
+wd:Q17609919 a wd:Q1221145 ;
+    rdfs:label "Q17609919"^^xsd:string .
+
+wd:Q17609922 a wd:Q1221145 ;
+    rdfs:label "Q17609922"^^xsd:string .
+
+wd:Q17609961 a wd:Q1221145 ;
+    rdfs:label "Q17609961"^^xsd:string .
+
+wd:Q17609968 a wd:Q1221145 ;
+    rdfs:label "Q17609968"^^xsd:string .
+
+wd:Q17610100 a wd:Q1221145 ;
+    rdfs:label "Q17610100"^^xsd:string .
+
+wd:Q17610106 a wd:Q17496318 ;
+    rdfs:label "Q17610106"^^xsd:string .
+
+wd:Q17610144 a wd:Q1221145 ;
+    rdfs:label "De Bramel, Vorden"@en .
+
+wd:Q17610189 a wd:Q18759150 ;
+    rdfs:label "Q17610189"^^xsd:string .
+
+wd:Q17610203 a wd:Q18759150 ;
+    rdfs:label "Q17610203"^^xsd:string .
+
+wd:Q17610207 a wd:Q17496318 ;
+    rdfs:label "Q17610207"^^xsd:string .
+
+wd:Q17610222 a wd:Q17496318 ;
+    rdfs:label "Q17610222"^^xsd:string .
+
+wd:Q17610305 a wd:Q17496318 ;
+    rdfs:label "Q17610305"^^xsd:string .
+
+wd:Q17610370 a wd:Q17496318 ;
+    rdfs:label "Q17610370"^^xsd:string .
+
+wd:Q17610439 a wd:Q1221145 ;
+    rdfs:label "Administratiegebouw (Diergaarde Blijdorp)"@en .
+
+wd:Q17610677 a wd:Q1221145 ;
+    rdfs:label "Q17610677"^^xsd:string .
+
+wd:Q17610698 a wd:Q18810310 ;
+    rdfs:label "Q17610698"^^xsd:string .
+
+wd:Q17611433 a wd:Q18810310 ;
+    rdfs:label "Q17611433"^^xsd:string .
+
+wd:Q17613369 a wd:Q18810310 ;
+    rdfs:label "Q17613369"^^xsd:string .
+
+wd:Q18125641 a wd:Q188507 ;
+    rdfs:label "Hitler's Munich apartment"@en .
+
+wd:Q18214259 a wd:Q699405 ;
+    rdfs:label "Camp des Louvières"@en .
+
+wd:Q18289115 a wd:Q17334923 ;
+    rdfs:label "Ringethal"@en .
+
+wd:Q18415358 a wd:Q17334923 ;
+    rdfs:label "Q18415358"^^xsd:string .
+
+wd:Q18478593 a wd:Q699405 ;
+    rdfs:label "Kotilo"@en .
+
+wd:Q18662165 a wd:Q699405 ;
+    rdfs:label "Suviranta"@en .
+
+wd:Q18785679 a wd:Q17334923 ;
+    rdfs:label "L'Éperon"@en .
+
+wd:Q18812974 a wd:Q18810458 ;
+    rdfs:label "Q18812974"^^xsd:string .
+
+wd:Q18813601 a wd:Q1221145 ;
+    rdfs:label "Q18813601"^^xsd:string .
+
+wd:Q18813887 a wd:Q18759150 ;
+    rdfs:label "Q18813887"^^xsd:string .
+
+wd:Q18813994 a wd:Q1221145 ;
+    rdfs:label "Q18813994"^^xsd:string .
+
+wd:Q18814293 a wd:Q1221145 ;
+    rdfs:label "Q18814293"^^xsd:string .
+
+wd:Q1885782 a wd:Q188507 ;
+    rdfs:label "Grand appartement de la reine"@en .
+
+wd:Q191110 a wd:Q27096213 ;
+    rdfs:label "craton"@en .
+
+wd:Q192316 a wd:Q17334923 ;
+    rdfs:label "geostationary orbit"@en .
+
+wd:Q193151 a wd:Q17334923 ;
+    rdfs:label "Armageddon"@en .
+
+wd:Q19378013 a wd:Q699405 ;
+    rdfs:label "Q19378013"^^xsd:string .
+
+wd:Q19386969 a wd:Q699405 ;
+    rdfs:label "Q19386969"^^xsd:string .
+
+wd:Q19602250 a wd:Q17334923 ;
+    rdfs:label "Q19602250"^^xsd:string .
+
+wd:Q19841569 a wd:Q17334923 ;
+    rdfs:label "Murasakino Saiin"@en .
+
+wd:Q20112155 a wd:Q699405 ;
+    rdfs:label "Q20112155"^^xsd:string .
+
+wd:Q20123526 a wd:Q188507 ;
+    rdfs:label "Private Apartments of the Winter Palace"@en .
+
+wd:Q20623422 a wd:Q17334923 ;
+    rdfs:label "Place in Sneek"@en .
+
+wd:Q20638413 a wd:Q699405 ;
+    rdfs:label "De Kruisberg"@en .
+
+wd:Q20651411 a wd:Q188507 ;
+    rdfs:label "Q20651411"^^xsd:string .
+
+wd:Q20730248 a wd:Q699405 ;
+    rdfs:label "Q20730248"^^xsd:string .
+
+wd:Q2073127 a wd:Q188507 ;
+    rdfs:label "Petit appartement du roi"@en .
+
+wd:Q210448 a wd:Q17334923 ;
+    rdfs:label "lunar orbit"@en .
+
+wd:Q2111762 a wd:Q17334923 ;
+    rdfs:label "machine shop"@en .
+
+wd:Q21481639 a wd:Q17334923 ;
+    rdfs:label "Anakkavur"@en .
+
+wd:Q218056 a wd:Q17334923 ;
+    rdfs:label "high Earth orbit"@en .
+
+wd:Q218414 a wd:Q17334923 ;
+    rdfs:label "medium Earth orbit"@en .
+
+wd:Q2188811 a wd:Q1221145 ;
+    rdfs:label "Q2188811"^^xsd:string .
+
+wd:Q22097591 a wd:Q699405 ;
+    rdfs:label "Sun Yun-suan Memorial Museum"@en .
+
+wd:Q22248247 a wd:Q699405 ;
+    rdfs:label "Q22248247"^^xsd:string .
+
+wd:Q22458234 a wd:Q17334923 ;
+    rdfs:label "Cerro de Sojalla"@en .
+
+wd:Q22463429 a wd:Q17334923 ;
+    rdfs:label "Cerro Paveza"@en .
+
+wd:Q22469049 a wd:Q17334923 ;
+    rdfs:label "Cerro Salapor"@en .
+
+wd:Q22471809 a wd:Q17334923 ;
+    rdfs:label "Cerro Toconce"@en .
+
+wd:Q2267685 a wd:Q17334923 ;
+    rdfs:label "Renholmen"@en .
+
+wd:Q22700204 a wd:Q17334923 ;
+    rdfs:label "Nevado de los Piuquenes"@en .
+
+wd:Q22979686 a wd:Q699405 ;
+    rdfs:label "Q22979686"^^xsd:string .
+
+wd:Q22991871 a wd:Q336532 ;
+    rdfs:label "Q22991871"^^xsd:string .
+
+wd:Q22997446 a wd:Q699405 ;
+    rdfs:label "Logement des Sœurs des cités de la fosse n° 12 des mines de Lens"@en .
+
+wd:Q23583803 a wd:Q17334923 ;
+    rdfs:label "Zabeel Park"@en .
+
+wd:Q23639660 a wd:Q17334923 ;
+    rdfs:label "Cerro La Parva"@en .
+
+wd:Q23642154 a wd:Q17334923 ;
+    rdfs:label "Cerro Juncal"@en .
+
+wd:Q23647805 a wd:Q17334923 ;
+    rdfs:label "Paso de la Deidad"@en .
+
+wd:Q23727978 a wd:Q699405 ;
+    rdfs:label "Q23727978"^^xsd:string .
+
+wd:Q23728375 a wd:Q699405 ;
+    rdfs:label "Q23728375"^^xsd:string .
+
+wd:Q24233913 a wd:Q17334923 ;
+    rdfs:label "Genadendal Residence"@en .
+
+wd:Q2467823 a wd:Q17334923 ;
+    rdfs:label "San José"@en .
+
+wd:Q2530252 a wd:Q1221145 ;
+    rdfs:label "Batalaan 5, Best"@en .
+
+wd:Q25391654 a wd:Q2069469 ;
+    rdfs:label "Donald Trump Penthouse"@en .
+
+wd:Q25416216 a wd:Q27096213 ;
+    rdfs:label "sub-basin"@en .
+
+wd:Q25545153 a wd:Q699405 ;
+    rdfs:label "Wichai Ratcha residence"@en .
+
+wd:Q2608678 rdfs:label "serviced apartment"@en ;
+    rdfs:subClassOf wd:Q188507 .
+
+wd:Q26898191 a wd:Q699405 ;
+    rdfs:label "Eirene Residence"@en .
+
+wd:Q27452187 a wd:Q188507 ;
+    rdfs:label "Condominium unit"@en .
+
+wd:Q28152304 a wd:Q17334923 ;
+    rdfs:label "Q28152304"^^xsd:string .
+
+wd:Q28404701 a wd:Q699405 ;
+    rdfs:label "Hill-Crest"@en .
+
+wd:Q28410147 a wd:Q17334923 ;
+    rdfs:label "Q28410147"^^xsd:string .
+
+wd:Q28414539 a wd:Q17334923 ;
+    rdfs:label "Q28414539"^^xsd:string .
+
+wd:Q2858633 a wd:Q188507 ;
+    rdfs:label "Madame du Barry's apartment"@en .
+
+wd:Q2858638 a wd:Q188507 ;
+    rdfs:label "Q2858638"^^xsd:string .
+
+wd:Q2858644 a wd:Q188507 ;
+    rdfs:label "Q2858644"^^xsd:string .
+
+wd:Q28795263 a wd:Q17334923 ;
+    rdfs:label "Tuokou"@en .
+
+wd:Q2908911 a wd:Q17334923 ;
+    rdfs:label "Q2908911"^^xsd:string .
+
+wd:Q29127275 a wd:Q17334923 ;
+    rdfs:label "Løjet"@en .
+
+wd:Q2945902 a wd:Q17334923 ;
+    rdfs:label "Q2945902"^^xsd:string .
+
+wd:Q29492952 a wd:Q699405 ;
+    rdfs:label "Capel Isaf, Cwm Ifor"@en .
+
+wd:Q3008927 a wd:Q18810310 ;
+    rdfs:label "Q3008927"^^xsd:string .
+
+wd:Q30158602 a wd:Q699405 ;
+    rdfs:label "Residence of Phraya Anuman Rajadhon"@en .
+
+wd:Q302009 a wd:Q17334923 ;
+    rdfs:label "home row"@en .
+
+wd:Q30242526 a wd:Q188507 ;
+    rdfs:label "Q30242526"^^xsd:string .
+
+wd:Q3034408 a wd:Q699405 ;
+    rdfs:label "Q3034408"^^xsd:string .
+
+wd:Q3053795 a wd:Q17334923 ;
+    rdfs:label "Foire Saint-Laurent"@en .
+
+wd:Q30716466 a wd:Q699405 ;
+    rdfs:label "Church of St Helen"@en .
+
+wd:Q3075432 a wd:Q699405 ;
+    rdfs:label "Fondation Deutsch de la Meurthe"@en .
+
+wd:Q3075639 a wd:Q699405 ;
+    rdfs:label "Q3075639"^^xsd:string .
+
+wd:Q3089010 a wd:Q17334923 ;
+    rdfs:label "Monte San Lorenzo"@en .
+
+wd:Q3113503 a wd:Q188507 ;
+    rdfs:label "Grand appartement du roi"@en .
+
+wd:Q3116456 a wd:Q17334923 ;
+    rdfs:label "Tinguiririca Volcano"@en .
+
+wd:Q3132346 a wd:Q17334923 ;
+    rdfs:label "Mocho-Choshuenco"@en .
+
+wd:Q3135853 a wd:Q17334923 ;
+    rdfs:label "Saikū"@en .
+
+wd:Q3206723 a wd:Q699405 ;
+    rdfs:label "Q3206723"^^xsd:string .
+
+wd:Q3212698 a wd:Q17334923 ;
+    rdfs:label "Q3212698"^^xsd:string .
+
+wd:Q3223901 a wd:Q27096213 ;
+    rdfs:label "Le Levron"@en .
+
+wd:Q3280261 a wd:Q699405 ;
+    rdfs:label "Q3280261"^^xsd:string .
+
+wd:Q3416973 a wd:Q17334923 ;
+    rdfs:label "Radio télévision suisse"@en .
+
+wd:Q3423102 a wd:Q17334923 ;
+    rdfs:label "Q3423102"^^xsd:string .
+
+wd:Q3478813 a wd:Q699405 ;
+    rdfs:label "senzala"@en .
+
+wd:Q3512550 a wd:Q17334923 ;
+    rdfs:label "TVM3 Switzerland"@en .
+
+wd:Q3627700 a wd:Q27096213 ;
+    rdfs:label "Asuristan"@en .
+
+wd:Q3636054 rdfs:label "Basso"@en ;
+    rdfs:subClassOf wd:Q188507 .
+
+wd:Q3654635 a wd:Q17334923 ;
+    rdfs:label "Campo Vaccino"@en .
+
+wd:Q368010 rdfs:label "communal apartment"@en ;
+    rdfs:subClassOf wd:Q188507 .
+
+wd:Q37327659 a wd:Q188507 ;
+    rdfs:label "Q37327659"^^xsd:string .
+
+wd:Q3836325 a wd:Q17334923 ;
+    rdfs:label "Epizephyrian Locri"@en .
+
+wd:Q3884965 a wd:Q17334923 ;
+    rdfs:label "Areocentric orbit"@en .
+
+wd:Q3884973 a wd:Q17334923 ;
+    rdfs:label "Areosynchronous orbit"@en .
+
+wd:Q3962069 a wd:Q17334923 ;
+    rdfs:label "Siscia"@en .
+
+wd:Q3962257 a wd:Q17334923 ;
+    rdfs:label "outer solar system"@en .
+
+wd:Q41603675 a wd:Q17334923 ;
+    rdfs:label "Eastern Fleet"@en .
+
+wd:Q4169 a wd:Q17334923 ;
+    rdfs:label "outer space"@en .
+
+wd:Q42804108 a wd:Q17334923 ;
+    rdfs:label "Site where the new temple of the Rosary was built in the city of San Salvador Historic site of the Republic"@en .
+
+wd:Q4291393 a wd:Q17334923 ;
+    rdfs:label "Q4291393"^^xsd:string .
+
+wd:Q4306047 a wd:Q188507 ;
+    rdfs:label "Q4306047"^^xsd:string .
+
+wd:Q4546878 a wd:Q699405 ;
+    rdfs:label "10 Janpath"@en .
+
+wd:Q4567104 a wd:Q17334923 ;
+    rdfs:label "Black Beach"@en .
+
+wd:Q46576260 a wd:Q699405 ;
+    rdfs:label "Roca Encantada"@en .
+
+wd:Q46614560 a wd:Q699405 ;
+    rdfs:label "deanery (building)"@en .
+
+wd:Q47034650 a wd:Q699405 ;
+    rdfs:label "Residence of Prince Damrong Phaetyakhun"@en .
+
+wd:Q472251 a wd:Q17334923 ;
+    rdfs:label "geosynchronous orbit"@en .
+
+wd:Q4849464 a wd:Q17334923 ;
+    rdfs:label "Bakkah"@en .
+
+wd:Q49726787 a wd:Q17334923 ;
+    rdfs:label "Lolito Spring"@en .
+
+wd:Q505688 a wd:Q17334923 ;
+    rdfs:label "Striezelmarkt"@en .
+
+wd:Q50585596 a wd:Q699405 ;
+    rdfs:label "Penghu Reclamation Hall"@en .
+
+wd:Q5122669 a wd:Q188507 ;
+    rdfs:label "The Classen"@en .
+
+wd:Q5142485 a wd:Q188507 ;
+    rdfs:label "Cold water flat"@en .
+
+wd:Q52377059 a wd:Q699405 ;
+    rdfs:label "Q52377059"^^xsd:string .
+
+wd:Q52387797 a wd:Q17334923 ;
+    rdfs:label "Q52387797"^^xsd:string .
+
+wd:Q524220 a wd:Q27096213 ;
+    rdfs:label "High Aragon"@en .
+
+wd:Q5312384 a wd:Q17334923 ;
+    rdfs:label "Duffy's Cut"@en .
+
+wd:Q54670212 a wd:Q699405 ;
+    rdfs:label "Q54670212"^^xsd:string .
+
+wd:Q54987438 a wd:Q188507 ;
+    rdfs:label "Flat-cum-studio of Jozef Peeters"@en .
+
+wd:Q55594451 a wd:Q17334923 ;
+    rdfs:label "Venues used by Festival des Arts de Saint-Sauveur"@en .
+
+wd:Q55604502 a wd:Q699405 ;
+    rdfs:label "Australian Agricultural Company Mine Manager's House"@en .
+
+wd:Q55605184 a wd:Q699405 ;
+    rdfs:label "Ben Chifley's House"@en .
+
+wd:Q55663923 a wd:Q188507 ;
+    rdfs:label "Q55663923"^^xsd:string .
+
+wd:Q5589609 a wd:Q17334923 ;
+    rdfs:label "Governor Stable"@en .
+
+wd:Q56016610 a wd:Q17334923 ;
+    rdfs:label "Q56016610"^^xsd:string .
+
+wd:Q56053198 a wd:Q699405 ;
+    rdfs:label "Jarman Island Quarters"@en .
+
+wd:Q56075917 a wd:Q17334923 ;
+    rdfs:label "Q56075917"^^xsd:string .
+
+wd:Q56240361 a wd:Q47520713 ;
+    rdfs:label "Carmenas"@en .
+
+wd:Q56277598 a wd:Q699405 ;
+    rdfs:label "28 Mistral Avenue, Mosman"@en .
+
+wd:Q56432894 a wd:Q17334923 ;
+    rdfs:label "Speddingup"@en .
+
+wd:Q5719586 a wd:Q17334923 ;
+    rdfs:label "Q5719586"^^xsd:string .
+
+wd:Q57316730 a wd:Q17334923 ;
+    rdfs:label "Q57316730"^^xsd:string .
+
+wd:Q58068469 a wd:Q699405 ;
+    rdfs:label "American Residence"@en .
+
+wd:Q58204064 a wd:Q699405 ;
+    rdfs:label "The Priory"@en .
+
+wd:Q58347896 a wd:Q17334923 ;
+    rdfs:label "Stedelijke Feestzaal Meir"@en .
+
+wd:Q59292711 a wd:Q699405 ;
+    rdfs:label "Lana Turner house (Wallace, Idaho)"@en .
+
+wd:Q59467420 a wd:Q17334923 ;
+    rdfs:label "Affolle Anticline"@en .
+
+wd:Q59467554 a wd:Q17334923 ;
+    rdfs:label "Agacher Strip"@en .
+
+wd:Q59525030 a wd:Q699405 ;
+    rdfs:label "Drakes Bridge"@en .
+
+wd:Q59695705 a wd:Q17334923 ;
+    rdfs:label "ImpactHub Geneva"@en .
+
+wd:Q60232515 a wd:Q699405 ;
+    rdfs:label "Workman’s Home, Skansen"@en .
+
+wd:Q60370862 a wd:Q699405 ;
+    rdfs:label "Q60370862"^^xsd:string .
+
+wd:Q60586353 a wd:Q188507 ;
+    rdfs:label "Columbia Hotel"@en .
+
+wd:Q6065943 a wd:Q17334923 ;
+    rdfs:label "Paso del Portillo"@en .
+
+wd:Q60674263 a wd:Q699405 ;
+    rdfs:label "Q60674263"^^xsd:string .
+
+wd:Q6075045 a wd:Q17334923 ;
+    rdfs:label "Pico Tres Mares"@en .
+
+wd:Q61721762 a wd:Q336532 ;
+    rdfs:label "Q61721762"^^xsd:string .
+
+wd:Q61785450 a wd:Q17334923 ;
+    rdfs:label "Q61785450"^^xsd:string .
+
+wd:Q61881928 a wd:Q17334923 ;
+    rdfs:label "Q61881928"^^xsd:string .
+
+wd:Q61882043 a wd:Q17334923 ;
+    rdfs:label "Q61882043"^^xsd:string .
+
+wd:Q61890850 a wd:Q17334923 ;
+    rdfs:label "Q61890850"^^xsd:string .
+
+wd:Q62001264 a wd:Q17334923 ;
+    rdfs:label "Mundelein"@en .
+
+wd:Q62007756 a wd:Q17334923 ;
+    rdfs:label "Llanelli"@en .
+
+wd:Q62016727 a wd:Q699405 ;
+    rdfs:label "Murray Guggenheim House"@en .
+
+wd:Q62077203 a wd:Q17334923 ;
+    rdfs:label "unknown location"@en .
+
+wd:Q62086094 a wd:Q699405 ;
+    rdfs:label "Cogshall Grange with outbuildings"@en .
+
+wd:Q62091313 a wd:Q699405 ;
+    rdfs:label "Q62091313"^^xsd:string .
+
+wd:Q62130277 a wd:Q17334923 ;
+    rdfs:label "House Island"@en .
+
+wd:Q62489242 a wd:Q17334923 ;
+    rdfs:label "Taste of London"@en .
+
+wd:Q63122877 a wd:Q17334923 ;
+    rdfs:label "Air Warfare Center"@en .
+
+wd:Q63246102 a wd:Q699405 ;
+    rdfs:label "Cootamundra Police Station Office"@en .
+
+wd:Q634449 rdfs:label "Maisonette"@en ;
+    rdfs:subClassOf wd:Q188507 .
+
+wd:Q63968632 a wd:Q336532 ;
+    rdfs:label "Q63968632"^^xsd:string .
+
+wd:Q63981070 a wd:Q17334923 ;
+    rdfs:label "Q63981070"^^xsd:string .
+
+wd:Q64013439 a wd:Q17334923 ;
+    rdfs:label "Lingeshwar Dham"@en .
+
+wd:Q64148720 a wd:Q17334923 ;
+    rdfs:label "Q64148720"^^xsd:string .
+
+wd:Q64148859 a wd:Q17334923 ;
+    rdfs:label "Q64148859"^^xsd:string .
+
+wd:Q6454223 a wd:Q188507 ;
+    rdfs:label "Küçük Theatre"@en .
+
+wd:Q6469274 a wd:Q17334923 ;
+    rdfs:label "Ladbroke Estate"@en .
+
+wd:Q64997971 a wd:Q17334923 ;
+    rdfs:label "astrocentric orbit"@en .
+
+wd:Q65082765 a wd:Q17334923 ;
+    rdfs:label "Mangyol stone money bank"@en .
+
+wd:Q65157853 a wd:Q17334923 ;
+    rdfs:label "Q65157853"^^xsd:string .
+
+wd:Q65651877 a wd:Q699405 ;
+    rdfs:label "Hu Lien's residence"@en .
+
+wd:Q65652596 a wd:Q699405 ;
+    rdfs:label "Q65652596"^^xsd:string .
+
+wd:Q65966139 a wd:Q17334923 ;
+    rdfs:label "underground power plant"@en .
+
+wd:Q65969285 a wd:Q699405 ;
+    rdfs:label "Q65969285"^^xsd:string .
+
+wd:Q65970868 a wd:Q699405 ;
+    rdfs:label "Q65970868"^^xsd:string .
+
+wd:Q66213356 a wd:Q17334923 ;
+    rdfs:label "Faranet"@en .
+
+wd:Q662213 a wd:Q17334923 ;
+    rdfs:label "Alszeg"@en .
+
+wd:Q663611 a wd:Q17334923 ;
+    rdfs:label "low Earth orbit"@en .
+
+wd:Q66659672 a wd:Q17334923 ;
+    rdfs:label "Bush Hill"@en .
+
+wd:Q66808779 a wd:Q17334923 ;
+    rdfs:label "Columnar basalts of Usson"@en .
+
+wd:Q67369899 a wd:Q699405 ;
+    rdfs:label "Tenuta San Domenico"@en .
+
+wd:Q67371698 a wd:Q699405 ;
+    rdfs:label "Cheng's Old Residence"@en .
+
+wd:Q67588942 a wd:Q699405 ;
+    rdfs:label "Q67588942"^^xsd:string .
+
+wd:Q678456 a wd:Q27096213 ;
+    rdfs:label "Kaiserswerth"@en .
+
+wd:Q6809472 a wd:Q699405 ;
+    rdfs:label "Meherazad"@en .
+
+wd:Q68117868 a wd:Q699405 ;
+    rdfs:label "Harwood Hall House"@en .
+
+wd:Q68531620 a wd:Q188507 ;
+    rdfs:label "Disneyland Fire Department"@en .
+
+wd:Q69387717 a wd:Q17334923 ;
+    rdfs:label "Ballaqueeny"@en .
+
+wd:Q6950364 a wd:Q17334923 ;
+    rdfs:label "Fum"@en .
+
+wd:Q716365 a wd:Q17334923 ;
+    rdfs:label "Nevados de Payachata"@en .
+
+wd:Q71807585 a wd:Q188507 ;
+    rdfs:label "Q71807585"^^xsd:string .
+
+wd:Q71826570 a wd:Q699405 ;
+    rdfs:label "Campus San Paolo"@en .
+
+wd:Q73364539 a wd:Q18759150 ;
+    rdfs:label "Q73364539"^^xsd:string .
+
+wd:Q75325857 a wd:Q17334923 ;
+    rdfs:label "Condor Flats"@en .
+
+wd:Q756244 a wd:Q17334923 ;
+    rdfs:label "Tupungato"@en .
+
+wd:Q75947148 a wd:Q17334923 ;
+    rdfs:label "Sundarharaincha"@en .
+
+wd:Q76672755 a wd:Q188507 ;
+    rdfs:label "Q76672755"^^xsd:string .
+
+wd:Q775644 a wd:Q188507 ;
+    rdfs:label "Rubenshuis"@en .
+
+wd:Q78001697 a wd:Q699405 ;
+    rdfs:label "The Lodge, Lincoln University"@en .
+
+wd:Q7820930 a wd:Q17334923 ;
+    rdfs:label "Tong Mei"@en .
+
+wd:Q7833396 a wd:Q17334923 ;
+    rdfs:label "Trandumskogen"@en .
+
+wd:Q7879772 a wd:Q17334923 ;
+    rdfs:label "Inner Solar System"@en .
+
+wd:Q78841106 a wd:Q27096213 ;
+    rdfs:label "Labrang Meditation Huts"@en .
+
+wd:Q78916184 a wd:Q699405 ;
+    rdfs:label "Q78916184"^^xsd:string .
+
+wd:Q79301000 a wd:Q699405 ;
+    rdfs:label "Dwelling"@en .
+
+wd:Q79301239 a wd:Q699405 ;
+    rdfs:label "Fair Holm (Dwelling)"@en .
+
+wd:Q79301532 a wd:Q699405 ;
+    rdfs:label "Heretaunga Settlement Workers' Dwellings Historic Area"@en .
+
+wd:Q79308188 a wd:Q699405 ;
+    rdfs:label "The Elms (dwelling), Kitchen Block and Dairy"@en .
+
+wd:Q79308209 a wd:Q699405 ;
+    rdfs:label "The Moorings (Dwelling, Formerly Phoebe Brown)"@en .
+
+wd:Q79310406 a wd:Q699405 ;
+    rdfs:label "Resthaven (Dwelling, Formerly Troutbeck)"@en .
+
+wd:Q79311138 a wd:Q699405 ;
+    rdfs:label "Windle Settlement Workers' Dwellings Historic Area"@en .
+
+wd:Q79312252 a wd:Q699405 ;
+    rdfs:label "Workers' Dwelling"@en .
+
+wd:Q79432775 a wd:Q699405 ;
+    rdfs:label "Khang An Residence"@en .
+
+wd:Q7971075 a wd:Q17334923 ;
+    rdfs:label "Warumbul, New South Wales"@en .
+
+wd:Q79711679 a wd:Q188507 ;
+    rdfs:label "Saigon Avenue"@en .
+
+wd:Q80051858 a wd:Q188507 ;
+    rdfs:label "Can ho ST Moritz"@en .
+
+wd:Q80796237 a wd:Q17334923 ;
+    rdfs:label "Q80796237"^^xsd:string .
+
+wd:Q82030773 a wd:Q17334923 ;
+    rdfs:label "Q82030773"^^xsd:string .
+
+wd:Q82914786 a wd:Q17334923 ;
+    rdfs:label "Q82914786"^^xsd:string .
+
+wd:Q83251841 a wd:Q699405 ;
+    rdfs:label "Building 18011-85"@en .
+
+wd:Q83422109 a wd:Q699405 ;
+    rdfs:label "Building 18010-91"@en .
+
+wd:Q83436626 a wd:Q699405 ;
+    rdfs:label "Khan al-Shuna"@en .
+
+wd:Q83467277 a wd:Q699405 ;
+    rdfs:label "Building 18011-20"@en .
+
+wd:Q83525248 a wd:Q699405 ;
+    rdfs:label "Building 18011-110"@en .
+
+wd:Q83528894 a wd:Q699405 ;
+    rdfs:label "Building 18011-122"@en .
+
+wd:Q83631573 a wd:Q699405 ;
+    rdfs:label "Building 18110-1"@en .
+
+wd:Q83639059 a wd:Q699405 ;
+    rdfs:label "Building 18010-18"@en .
+
+wd:Q83640688 a wd:Q699405 ;
+    rdfs:label "Building 18011-166"@en .
+
+wd:Q83641154 a wd:Q699405 ;
+    rdfs:label "Building 18011-175"@en .
+
+wd:Q83641514 a wd:Q699405 ;
+    rdfs:label "Building 18011-333"@en .
+
+wd:Q83642644 a wd:Q699405 ;
+    rdfs:label "Building 18012-4"@en .
+
+wd:Q83702262 a wd:Q699405 ;
+    rdfs:label "Building 18011-12"@en .
+
+wd:Q83796201 a wd:Q699405 ;
+    rdfs:label "Building 18013-172"@en .
+
+wd:Q83796212 a wd:Q699405 ;
+    rdfs:label "Building 18010/17"@en .
+
+wd:Q83797100 a wd:Q699405 ;
+    rdfs:label "Building 18010/19"@en .
+
+wd:Q83798799 a wd:Q699405 ;
+    rdfs:label "Building 18010/32"@en .
+
+wd:Q83799518 a wd:Q699405 ;
+    rdfs:label "Building 18010/55"@en .
+
+wd:Q83799879 a wd:Q699405 ;
+    rdfs:label "Building 18010/103"@en .
+
+wd:Q83864112 a wd:Q699405 ;
+    rdfs:label "Baptist Church in Acre"@en .
+
+wd:Q83868380 a wd:Q699405 ;
+    rdfs:label "Building 18011-100"@en .
+
+wd:Q83870497 a wd:Q699405 ;
+    rdfs:label "Building 18011-162"@en .
+
+wd:Q83873445 a wd:Q699405 ;
+    rdfs:label "Building 18011-270"@en .
+
+wd:Q84591158 a wd:Q699405 ;
+    rdfs:label "Building 18011-146"@en .
+
+wd:Q84592499 a wd:Q699405 ;
+    rdfs:label "Building 18010-123"@en .
+
+wd:Q84596569 a wd:Q699405 ;
+    rdfs:label "Building 18011-150"@en .
+
+wd:Q84599138 a wd:Q699405 ;
+    rdfs:label "Building 18011-73"@en .
+
+wd:Q846805 a wd:Q17334923 ;
+    rdfs:label "tundra orbit"@en .
+
+wd:Q84957357 a wd:Q17334923 ;
+    rdfs:label "Q84957357"^^xsd:string .
+
+wd:Q84986971 a wd:Q17334923 ;
+    rdfs:label "Bexon"@en .
+
+wd:Q85069981 a wd:Q699405 ;
+    rdfs:label "Building 18013-238"@en .
+
+wd:Q85073835 a wd:Q699405 ;
+    rdfs:label "Building 18013-302-303-304"@en .
+
+wd:Q85105362 a wd:Q699405 ;
+    rdfs:label "Building 18011-21"@en .
+
+wd:Q85106886 a wd:Q699405 ;
+    rdfs:label "Building 18011-83"@en .
+
+wd:Q85112935 a wd:Q699405 ;
+    rdfs:label "Building 18011-54"@en .
+
+wd:Q85113882 a wd:Q699405 ;
+    rdfs:label "Building 18011-53-58"@en .
+
+wd:Q85116410 a wd:Q699405 ;
+    rdfs:label "Building 18011-23"@en .
+
+wd:Q85164316 a wd:Q699405 ;
+    rdfs:label "Building 18013-372"@en .
+
+wd:Q85180884 a wd:Q188507 ;
+    rdfs:label "1-8 Adlington Hall Mews"@en .
+
+wd:Q85181527 a wd:Q188507 ;
+    rdfs:label "Adlington Hall Mews and tea rooms"@en .
+
+wd:Q8558762 a wd:Q17334923 ;
+    rdfs:label "Puerto de Tarna"@en .
+
+wd:Q857294 a wd:Q17334923 ;
+    rdfs:label "Levante"@en .
+
+wd:Q85934898 a wd:Q699405 ;
+    rdfs:label "Building 18010-2"@en .
+
+wd:Q86206563 a wd:Q699405 ;
+    rdfs:label "Building 18010-114"@en .
+
+wd:Q86209370 a wd:Q699405 ;
+    rdfs:label "Building 18010-139-140"@en .
+
+wd:Q86210506 a wd:Q699405 ;
+    rdfs:label "Building 18010-141"@en .
+
+wd:Q86217783 a wd:Q699405 ;
+    rdfs:label "Building 18011-4"@en .
+
+wd:Q86329250 a wd:Q699405 ;
+    rdfs:label "Building 18010 - 8"@en .
+
+wd:Q86330400 a wd:Q699405 ;
+    rdfs:label "Building 18010-37"@en .
+
+wd:Q86332208 a wd:Q699405 ;
+    rdfs:label "Building 18010-70"@en .
+
+wd:Q86367772 a wd:Q699405 ;
+    rdfs:label "Building 18010-111-110"@en .
+
+wd:Q86474396 a wd:Q699405 ;
+    rdfs:label "residence of Jean-de-Dieu Soult"@en .
+
+wd:Q86695031 a wd:Q699405 ;
+    rdfs:label "MOHABBAT MANZIL"@en .
+
+wd:Q906358 a wd:Q17334923 ;
+    rdfs:label "Maipo"@en .
+
+wd:Q9192205 a wd:Q17334923 ;
+    rdfs:label "Ciani"@en .
+
+wd:Q993056 a wd:Q1221145 ;
+    rdfs:label "Noordelijk Olympisch Huisje"@en .
+
+wd:Q2069469 rdfs:label "penthouse apartment"@en ;
+    rdfs:subClassOf wd:Q188507 .
+
+wd:Q47520713 rdfs:label "vacation apartment"@en ;
+    rdfs:subClassOf wd:Q188507 .
+
+wd:Q336532 rdfs:label "vacation rental"@en ;
+    rdfs:subClassOf wd:Q188507 .
+
+wd:Q27096213 rdfs:label "geographic entity"@en .
+
+wd:Q18810458 rdfs:label "Q18810458"^^xsd:string ;
+    rdfs:subClassOf wd:Q1221145 .
+
+wd:Q18810310 rdfs:label "Bridge keeper's house"@en ;
+    rdfs:subClassOf wd:Q1221145 .
+
+wd:Q188507 rdfs:label "apartment"@en ;
+    rdfs:subClassOf wd:Q699405 .
+
+wd:Q18759150 rdfs:label "porters house"@en ;
+    rdfs:subClassOf wd:Q1221145 .
+
+wd:Q699405 rdfs:label "residence"@en ;
+    rdfs:subClassOf wd:Q17334923 .
+
+wd:Q17496318 rdfs:label "gardener house"@en ;
+    rdfs:subClassOf wd:Q1221145 .
+
+wd:Q17334923 rdfs:label "location"@en ;
+    rdfs:subClassOf wd:Q27096213 .
+
+wd:Q1221145 rdfs:label "service apartment"@en ;
+    rdfs:subClassOf wd:Q188507 .
+

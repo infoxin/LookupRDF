@@ -1,0 +1,1022 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1015148 a wd:Q58778 ;
+    rdfs:label "Burgopak"@en .
+
+wd:Q1019790 a wd:Q58778 ;
+    rdfs:label "Boehm system"@en .
+
+wd:Q1020768 a wd:Q58778 ;
+    rdfs:label "Trunked radio system"@en .
+
+wd:Q1024165 a wd:Q58778 ;
+    rdfs:label "COSIMIR"@en .
+
+wd:Q10372149 a wd:Q58778 ;
+    rdfs:label "Q10372149"^^xsd:string .
+
+wd:Q1045076 a wd:Q58778 ;
+    rdfs:label "Carrier Routing System"@en .
+
+wd:Q10492730 a wd:Q58778 ;
+    rdfs:label "Evap"@en .
+
+wd:Q1049517 a wd:Q58778 ;
+    rdfs:label "invitation system"@en .
+
+wd:Q1051832 a wd:Q58778 ;
+    rdfs:label "Boehm System"@en .
+
+wd:Q10573269 a wd:Q58778 ;
+    rdfs:label "MIDAS"@en .
+
+wd:Q10614560 a wd:Q58778 ;
+    rdfs:label "PS-08"@en .
+
+wd:Q10660743 a wd:Q58778 ;
+    rdfs:label "Salto"@en .
+
+wd:Q1070558 rdfs:label "rear-wheel drive"@en ;
+    rdfs:subClassOf wd:Q18168614 .
+
+wd:Q10715102 a wd:Q58778 ;
+    rdfs:label "video system"@en .
+
+wd:Q10859290 a wd:Q58778 ;
+    rdfs:label "autographic film"@en .
+
+wd:Q11188135 a wd:Q58778 ;
+    rdfs:label "68SNA"@en .
+
+wd:Q11188476 a wd:Q58778 ;
+    rdfs:label "93SNA"@en .
+
+wd:Q11199928 a wd:Q58778 ;
+    rdfs:label "FaaS"@en .
+
+wd:Q1120057 a wd:Q58778 ;
+    rdfs:label "Cyber-physical system"@en .
+
+wd:Q11223356 a wd:Q58778 ;
+    rdfs:label "HiDS"@en .
+
+wd:Q11226604 a wd:Q58778 ;
+    rdfs:label "JUMAN"@en .
+
+wd:Q11234300 a wd:Q58778 ;
+    rdfs:label "NAAWS"@en .
+
+wd:Q1149315 a wd:Q58778 ;
+    rdfs:label "Ie"@en .
+
+wd:Q1149653 a wd:Q58778 ;
+    rdfs:label "Building automation"@en .
+
+wd:Q1149795 a wd:Q58778 ;
+    rdfs:label "Mahābhūta"@en .
+
+wd:Q11614379 a wd:Q2583685 ;
+    rdfs:label "Kampon boiler"@en .
+
+wd:Q11692571 a wd:Q58778 ;
+    rdfs:label "DPNR"@en .
+
+wd:Q11832981 a wd:Q58778 ;
+    rdfs:label "RAPS"@en .
+
+wd:Q12049050 a wd:Q58778 ;
+    rdfs:label "redox system"@en .
+
+wd:Q12058421 a wd:Q58778 ;
+    rdfs:label "Q12058421"^^xsd:string .
+
+wd:Q12062351 a wd:Q58778 ;
+    rdfs:label "ASGLA"@en .
+
+wd:Q12074838 a wd:Q58778 ;
+    rdfs:label "Q12074838"^^xsd:string .
+
+wd:Q121631 a wd:Q58778 ;
+    rdfs:label "Heijunka"@en .
+
+wd:Q1229864 a wd:Q58778 ;
+    rdfs:label "Q1229864"^^xsd:string .
+
+wd:Q12353560 a wd:Q58778 ;
+    rdfs:label "P-POP"@en .
+
+wd:Q1245722 a wd:Q58778 ;
+    rdfs:label "T-Pay"@en .
+
+wd:Q12504163 a wd:Q58778 ;
+    rdfs:label "Pela"@en .
+
+wd:Q12581937 a wd:Q58778 ;
+    rdfs:label "TDX"@en .
+
+wd:Q1273895 a wd:Q58778 ;
+    rdfs:label "Q1273895"^^xsd:string .
+
+wd:Q1276180 a wd:Q58778 ;
+    rdfs:label "European Union Emission Trading Scheme"@en .
+
+wd:Q12785348 a wd:Q58778 ;
+    rdfs:label "BMC3I"@en .
+
+wd:Q1303814 a wd:Q58778 ;
+    rdfs:label "CPU design"@en .
+
+wd:Q1331355 a wd:Q58778 ;
+    rdfs:label "Albert system"@en .
+
+wd:Q13439414 a wd:Q58778 ;
+    rdfs:label "Q13439414"^^xsd:string .
+
+wd:Q13447863 a wd:Q58778 ;
+    rdfs:label "cafeteria model"@en .
+
+wd:Q13458754 a wd:Q58778 ;
+    rdfs:label "Q13458754"^^xsd:string .
+
+wd:Q13571719 a wd:Q58778 ;
+    rdfs:label "Dedazo"@en .
+
+wd:Q1359392 a wd:Q58778 ;
+    rdfs:label "On-Chip Debug System"@en .
+
+wd:Q1362345 a wd:Q2583685 ;
+    rdfs:label "Q1362345"^^xsd:string .
+
+wd:Q136289 a wd:Q58778 ;
+    rdfs:label "ZMGS"@en .
+
+wd:Q1367390 a wd:Q58778 ;
+    rdfs:label "Windows CardSpace"@en .
+
+wd:Q1376925 a wd:Q58778 ;
+    rdfs:label "European Quality Improvement System"@en .
+
+wd:Q1429342 a wd:Q58778 ;
+    rdfs:label "Wireless distribution system"@en .
+
+wd:Q14333798 a wd:Q58778 ;
+    rdfs:label "Q14333798"^^xsd:string .
+
+wd:Q1438148 a wd:Q58778 ;
+    rdfs:label "Mannheimer school system"@en .
+
+wd:Q1450531 a wd:Q58778 ;
+    rdfs:label "cyberinfrastructure"@en .
+
+wd:Q1473782 a wd:Q58778 ;
+    rdfs:label "CASA FITS"@en .
+
+wd:Q1488045 a wd:Q58778 ;
+    rdfs:label "Metropolitan Park System of Greater Boston"@en .
+
+wd:Q1494743 a wd:Q58778 ;
+    rdfs:label "Hxaro"@en .
+
+wd:Q1504804 a wd:Q58778 ;
+    rdfs:label "chord symbol"@en .
+
+wd:Q1508564 a wd:Q58778 ;
+    rdfs:label "Graph rewriting"@en .
+
+wd:Q15260537 a wd:Q58778 ;
+    rdfs:label "Hitas"@en .
+
+wd:Q1531644 a wd:Q58778 ;
+    rdfs:label "GOOS"@en .
+
+wd:Q1536712 a wd:Q58778 ;
+    rdfs:label "Q1536712"^^xsd:string .
+
+wd:Q15376278 a wd:Q58778 ;
+    rdfs:label "Leidang"@en .
+
+wd:Q1553891 a wd:Q58778 ;
+    rdfs:label "Long-range identification and tracking"@en .
+
+wd:Q15874570 a wd:Q58778 ;
+    rdfs:label "Q15874570"^^xsd:string .
+
+wd:Q159462 a wd:Q58778 ;
+    rdfs:label "food chain"@en .
+
+wd:Q16248677 a wd:Q58778 ;
+    rdfs:label "dCache"@en .
+
+wd:Q1634731 a wd:Q58778 ;
+    rdfs:label "Huglin index"@en .
+
+wd:Q1636218 a wd:Q58778 ;
+    rdfs:label "Hukou system"@en .
+
+wd:Q163847 a wd:Q58778 ;
+    rdfs:label "10-20 system"@en .
+
+wd:Q1660582 a wd:Q58778 ;
+    rdfs:label "Integrated Administration and Control System"@en .
+
+wd:Q16608251 a wd:Q58778 ;
+    rdfs:label "railway system"@en .
+
+wd:Q16972650 a wd:Q58778 ;
+    rdfs:label "Prompt Assessment of Global Earthquakes for Response"@en .
+
+wd:Q17008757 a wd:Q58778 ;
+    rdfs:label "Concentrated solar still"@en .
+
+wd:Q17070395 a wd:Q58778 ;
+    rdfs:label "MyMagic+"@en .
+
+wd:Q17077421 a wd:Q58778 ;
+    rdfs:label "rapid response system"@en .
+
+wd:Q17115943 a wd:Q58778 ;
+    rdfs:label "Flutrack"@en .
+
+wd:Q17165229 a wd:Q58778 ;
+    rdfs:label "intelligent maintenance system"@en .
+
+wd:Q1716552 a wd:Q58778 ;
+    rdfs:label "Q1716552"^^xsd:string .
+
+wd:Q1718639 a wd:Q58778 ;
+    rdfs:label "Personal Handy-phone System"@en .
+
+wd:Q17492930 a wd:Q58778 ;
+    rdfs:label "Q17492930"^^xsd:string .
+
+wd:Q17498 a wd:Q58778 ;
+    rdfs:label "SCADA"@en .
+
+wd:Q176468 a wd:Q58778 ;
+    rdfs:label "state transition system"@en .
+
+wd:Q18000022 a wd:Q58778 ;
+    rdfs:label "MoLaRi"@en .
+
+wd:Q1808960 a wd:Q58778 ;
+    rdfs:label "Linear time-invariant system"@en .
+
+wd:Q18411196 a wd:Q58778 ;
+    rdfs:label "Combined Charging System"@en .
+
+wd:Q1860001 a wd:Q58778 ;
+    rdfs:label "Q1860001"^^xsd:string .
+
+wd:Q1869156 a wd:Q58778 ;
+    rdfs:label "Auto Fast Idle System"@en .
+
+wd:Q1922471 a wd:Q58778 ;
+    rdfs:label "Military Grid Reference System"@en .
+
+wd:Q1963159 a wd:Q58778 ;
+    rdfs:label "speach codec"@en .
+
+wd:Q1963753 a wd:Q58778 ;
+    rdfs:label "Direct Air Intake System"@en .
+
+wd:Q196883 a wd:Q58778 ;
+    rdfs:label "Zettelkasten"@en .
+
+wd:Q19921788 a wd:Q58778 ;
+    rdfs:label "two points for a win"@en .
+
+wd:Q19974134 a wd:Q58778 ;
+    rdfs:label "Idensys"@en .
+
+wd:Q20011650 a wd:Q58778 ;
+    rdfs:label "Q20011650"^^xsd:string .
+
+wd:Q201319 a wd:Q58778 ;
+    rdfs:label "Naxos radar detector"@en .
+
+wd:Q20155136 a wd:Q58778 ;
+    rdfs:label "Q20155136"^^xsd:string .
+
+wd:Q2025355 a wd:Q58778 ;
+    rdfs:label "OpenAPC"@en .
+
+wd:Q2048022 a wd:Q58778 ;
+    rdfs:label "bidding system"@en .
+
+wd:Q2049802 a wd:Q58778 ;
+    rdfs:label "SW handicap system"@en .
+
+wd:Q2058618 a wd:Q58778 ;
+    rdfs:label "base point pricing"@en .
+
+wd:Q20669266 a wd:Q58778 ;
+    rdfs:label "Newark charging system"@en .
+
+wd:Q209030 a wd:Q58778 ;
+    rdfs:label "1chipMSX"@en .
+
+wd:Q2116921 a wd:Q58778 ;
+    rdfs:label "Q2116921"^^xsd:string .
+
+wd:Q2134489 a wd:Q58778 ;
+    rdfs:label "Standard Scratch Score"@en .
+
+wd:Q2142845 a wd:Q58778 ;
+    rdfs:label "Open field system"@en .
+
+wd:Q21467398 a wd:Q58778 ;
+    rdfs:label "Status-6"@en .
+
+wd:Q2187860 a wd:Q58778 ;
+    rdfs:label "lenses system"@en .
+
+wd:Q2187981 a wd:Q58778 ;
+    rdfs:label "Road Energy Systems"@en .
+
+wd:Q21884056 a wd:Q58778 ;
+    rdfs:label "Q21884056"^^xsd:string .
+
+wd:Q2210232 a wd:Q58778 ;
+    rdfs:label "birth-death queueing system"@en .
+
+wd:Q2251399 a wd:Q58778 ;
+    rdfs:label "Q2251399"^^xsd:string .
+
+wd:Q2255129 a wd:Q58778 ;
+    rdfs:label "Q2255129"^^xsd:string .
+
+wd:Q2276525 a wd:Q58778 ;
+    rdfs:label "sound system"@en .
+
+wd:Q2281343 a wd:Q58778 ;
+    rdfs:label "Backup chain"@en .
+
+wd:Q228524 a wd:Q58778 ;
+    rdfs:label "Zugstabsystem"@en .
+
+wd:Q229900 a wd:Q58778 ;
+    rdfs:label "4-0 system"@en .
+
+wd:Q23016442 a wd:Q58778 ;
+    rdfs:label "Q23016442"^^xsd:string .
+
+wd:Q2303937 a wd:Q58778 ;
+    rdfs:label "Activated Radical Combustion"@en .
+
+wd:Q2327095 a wd:Q58778 ;
+    rdfs:label "current circuit"@en .
+
+wd:Q232956 a wd:Q58778 ;
+    rdfs:label "two-component regulatory system"@en .
+
+wd:Q2346401 a wd:Q58778 ;
+    rdfs:label "National Road network"@en .
+
+wd:Q2365500 a wd:Q58778 ;
+    rdfs:label "Mongol-Tatar yoke"@en .
+
+wd:Q2415713 a wd:Q58778 ;
+    rdfs:label "Theater Battle Management Core System"@en .
+
+wd:Q2426384 a wd:Q58778 ;
+    rdfs:label "Brake Activated Suspension System"@en .
+
+wd:Q2432459 a wd:Q58778 ;
+    rdfs:label "Q2432459"^^xsd:string .
+
+wd:Q2435891 a wd:Q58778 ;
+    rdfs:label "water transport system"@en .
+
+wd:Q2442878 a wd:Q58778 ;
+    rdfs:label "Linear time continue theory"@en .
+
+wd:Q2448108 a wd:Q58778 ;
+    rdfs:label "structural system"@en .
+
+wd:Q2477891 a wd:Q58778 ;
+    rdfs:label "asbestos tracking system"@en .
+
+wd:Q2491679 a wd:Q58778 ;
+    rdfs:label "Babylonian astrology"@en .
+
+wd:Q2491790 a wd:Q58778 ;
+    rdfs:label "Q2491790"^^xsd:string .
+
+wd:Q2493901 a wd:Q58778 ;
+    rdfs:label "Sonderkonto"@en .
+
+wd:Q2509091 a wd:Q58778 ;
+    rdfs:label "Validation Authority"@en .
+
+wd:Q2511211 a wd:Q58778 ;
+    rdfs:label "system of Petra Sancta"@en .
+
+wd:Q2527483 a wd:Q58778 ;
+    rdfs:label "ten fingers system"@en .
+
+wd:Q2538984 a wd:Q58778 ;
+    rdfs:label "Q2538984"^^xsd:string .
+
+wd:Q2557749 a wd:Q58778 ;
+    rdfs:label "history tram line number system Vienna"@en .
+
+wd:Q258739 a wd:Q58778 ;
+    rdfs:label "IT-system"@en .
+
+wd:Q259305 a wd:Q58778 ;
+    rdfs:label "McKinsey 7S Framework"@en .
+
+wd:Q2617767 a wd:Q58778 ;
+    rdfs:label "Canton System"@en .
+
+wd:Q2619322 a wd:Q58778 ;
+    rdfs:label "Elections according to customs and traditions"@en .
+
+wd:Q2620422 a wd:Q58778 ;
+    rdfs:label "Q2620422"^^xsd:string .
+
+wd:Q2690735 a wd:Q58778 ;
+    rdfs:label "Q2690735"^^xsd:string .
+
+wd:Q27058518 a wd:Q58778 ;
+    rdfs:label "Ocean Data Acquisition System"@en .
+
+wd:Q27135948 a wd:Q58778 ;
+    rdfs:label "2-1-0 points system"@en .
+
+wd:Q27135963 a wd:Q58778 ;
+    rdfs:label "3-2-1 points system"@en .
+
+wd:Q27204875 a wd:Q58778 ;
+    rdfs:label "2-1 points system"@en .
+
+wd:Q2753474 a wd:Q58778 ;
+    rdfs:label "BMW Motormanagement System"@en .
+
+wd:Q277391 a wd:Q58778 ;
+    rdfs:label "9A53 Tornado"@en .
+
+wd:Q278321 a wd:Q58778 ;
+    rdfs:label "Circuit Switched Data"@en .
+
+wd:Q28114114 a wd:Q58778 ;
+    rdfs:label "Joint Surveillance Target Attack Radar System"@en .
+
+wd:Q2816680 a wd:Q58778 ;
+    rdfs:label "4.1"@en .
+
+wd:Q2817904 a wd:Q58778 ;
+    rdfs:label "6.1"@en .
+
+wd:Q28191960 a wd:Q58778 ;
+    rdfs:label "Q28191960"^^xsd:string .
+
+wd:Q28344798 a wd:Q58778 ;
+    rdfs:label "OpenStack Swift"@en .
+
+wd:Q2861865 a wd:Q58778 ;
+    rdfs:label "Q2861865"^^xsd:string .
+
+wd:Q2887739 a wd:Q58778 ;
+    rdfs:label "modulating regulation"@en .
+
+wd:Q29167816 a wd:Q58778 ;
+    rdfs:label "Optical Archiver"@en .
+
+wd:Q2918337 a wd:Q58778 ;
+    rdfs:label "Bogie exchange"@en .
+
+wd:Q294759 a wd:Q58778 ;
+    rdfs:label "AMDP-System"@en .
+
+wd:Q296254 a wd:Q58778 ;
+    rdfs:label "APRS Label System"@en .
+
+wd:Q2996130 a wd:Q58778 ;
+    rdfs:label "Entry control systems"@en .
+
+wd:Q3023886 a wd:Q58778 ;
+    rdfs:label "Computer Leveling Air Suspension System"@en .
+
+wd:Q3036574 a wd:Q58778 ;
+    rdfs:label "gender system"@en .
+
+wd:Q3090272 a wd:Q58778 ;
+    rdfs:label "Öhler system"@en .
+
+wd:Q3136420 a wd:Q58778 ;
+    rdfs:label "Air Stabilisation System"@en .
+
+wd:Q3139015 a wd:Q58778 ;
+    rdfs:label "Integrated NATO Air Defense System"@en .
+
+wd:Q3146655 a wd:Q58778 ;
+    rdfs:label "Q3146655"^^xsd:string .
+
+wd:Q3190065 a wd:Q58778 ;
+    rdfs:label "Dry Alternator Drive System"@en .
+
+wd:Q3280579 a wd:Q58778 ;
+    rdfs:label "one key system"@en .
+
+wd:Q3307447 a wd:Q58778 ;
+    rdfs:label "Metrocable"@en .
+
+wd:Q332116 a wd:Q58778 ;
+    rdfs:label "Übergangssystem"@en .
+
+wd:Q3358595 a wd:Q58778 ;
+    rdfs:label "medicines reimbursement system"@en .
+
+wd:Q3366579 a wd:Q58778 ;
+    rdfs:label "National League System"@en .
+
+wd:Q34120687 a wd:Q58778 ;
+    rdfs:label "eID system"@en .
+
+wd:Q3433754 a wd:Q58778 ;
+    rdfs:label "cutting extinguisher"@en .
+
+wd:Q3451645 a wd:Q58778 ;
+    rdfs:label "Q3451645"^^xsd:string .
+
+wd:Q3459603 a wd:Q58778 ;
+    rdfs:label "Q3459603"^^xsd:string .
+
+wd:Q3476804 a wd:Q58778 ;
+    rdfs:label "Searev"@en .
+
+wd:Q3478803 a wd:Q58778 ;
+    rdfs:label "Sentry"@en .
+
+wd:Q3487444 a wd:Q58778 ;
+    rdfs:label "Q3487444"^^xsd:string .
+
+wd:Q3504992 a wd:Q58778 ;
+    rdfs:label "Export Control System"@en .
+
+wd:Q3508767 a wd:Q58778 ;
+    rdfs:label "Dynamic Delegation Discovery System"@en .
+
+wd:Q3509293 a wd:Q58778 ;
+    rdfs:label "Air traffic control radar beacon system"@en .
+
+wd:Q3512295 a wd:Q58778 ;
+    rdfs:label "TORAN"@en .
+
+wd:Q3553005 a wd:Q58778 ;
+    rdfs:label "VSA"@en .
+
+wd:Q3558135 a wd:Q58778 ;
+    rdfs:label "Q3558135"^^xsd:string .
+
+wd:Q3641113 a wd:Q58778 ;
+    rdfs:label "Bloxes"@en .
+
+wd:Q366634 a wd:Q2583685 ;
+    rdfs:label "Buchli drive"@en .
+
+wd:Q3706364 a wd:Q58778 ;
+    rdfs:label "Dfree"@en .
+
+wd:Q379323 a wd:Q58778 ;
+    rdfs:label "Q379323"^^xsd:string .
+
+wd:Q379555 a wd:Q58778 ;
+    rdfs:label "Advanced Function Presentation"@en .
+
+wd:Q379955 a wd:Q58778 ;
+    rdfs:label "Adventure Master"@en .
+
+wd:Q3841325 a wd:Q58778 ;
+    rdfs:label "MIC-3"@en .
+
+wd:Q3841326 a wd:Q58778 ;
+    rdfs:label "MIC-4"@en .
+
+wd:Q3841327 a wd:Q58778 ;
+    rdfs:label "MIC-2"@en .
+
+wd:Q384506 a wd:Q58778 ;
+    rdfs:label "Mestnichestvo"@en .
+
+wd:Q385239 a wd:Q58778 ;
+    rdfs:label "European Monetary System"@en .
+
+wd:Q387427 a wd:Q58778 ;
+    rdfs:label "push email"@en .
+
+wd:Q3879394 a wd:Q58778 ;
+    rdfs:label "Portsmouth Yardstick"@en .
+
+wd:Q3928426 a wd:Q58778 ;
+    rdfs:label "RZ-25"@en .
+
+wd:Q4038509 a wd:Q58778 ;
+    rdfs:label "FB-6A"@en .
+
+wd:Q4261107 a wd:Q58778 ;
+    rdfs:label "Intelligent Parking Assist System"@en .
+
+wd:Q4265757 a wd:Q58778 ;
+    rdfs:label "Gunfire locator"@en .
+
+wd:Q4273598 a wd:Q58778 ;
+    rdfs:label "МС5"@en .
+
+wd:Q428822 a wd:Q58778 ;
+    rdfs:label "Unified numbering system"@en .
+
+wd:Q4332954 a wd:Q58778 ;
+    rdfs:label "octave system"@en .
+
+wd:Q434543 a wd:Q58778 ;
+    rdfs:label "AVR-TODO"@en .
+
+wd:Q43511656 a wd:Q58778 ;
+    rdfs:label "GCCS—J Global"@en .
+
+wd:Q43512507 a wd:Q58778 ;
+    rdfs:label "Joint Operation Planning and Execution System"@en .
+
+wd:Q43513472 a wd:Q58778 ;
+    rdfs:label "Modernized Integrated Database"@en .
+
+wd:Q43513994 a wd:Q58778 ;
+    rdfs:label "Joint Targeting Toolbox"@en .
+
+wd:Q4377727 a wd:Q58778 ;
+    rdfs:label "Q4377727"^^xsd:string .
+
+wd:Q4584563 a wd:Q58778 ;
+    rdfs:label "Mating system"@en .
+
+wd:Q463675 a wd:Q58778 ;
+    rdfs:label "Wiedergutmachung"@en .
+
+wd:Q464020 a wd:Q58778 ;
+    rdfs:label "Instrument Landing System"@en .
+
+wd:Q4646954 a wd:Q58778 ;
+    rdfs:label "A-VSB"@en .
+
+wd:Q4650867 a wd:Q58778 ;
+    rdfs:label "Automated Confirmation Transaction Service"@en .
+
+wd:Q4677130 a wd:Q58778 ;
+    rdfs:label "Action Office"@en .
+
+wd:Q4686286 a wd:Q58778 ;
+    rdfs:label "Advanced Tactical Airborne Reconnaissance System"@en .
+
+wd:Q4690902 a wd:Q58778 ;
+    rdfs:label "AgCam"@en .
+
+wd:Q4774597 a wd:Q58778 ;
+    rdfs:label "Anticausal system"@en .
+
+wd:Q4787378 a wd:Q58778 ;
+    rdfs:label "Archy"@en .
+
+wd:Q4828088 a wd:Q58778 ;
+    rdfs:label "Compact Drive System"@en .
+
+wd:Q4834680 a wd:Q58778 ;
+    rdfs:label "BATCO"@en .
+
+wd:Q4835748 a wd:Q58778 ;
+    rdfs:label "BIX"@en .
+
+wd:Q4835997 a wd:Q58778 ;
+    rdfs:label "BMRST"@en .
+
+wd:Q4836203 a wd:Q58778 ;
+    rdfs:label "BOINC Credit System"@en .
+
+wd:Q4836327 a wd:Q58778 ;
+    rdfs:label "BRAMS"@en .
+
+wd:Q486901 a wd:Q58778 ;
+    rdfs:label "Secondary market"@en .
+
+wd:Q4902356 a wd:Q58778 ;
+    rdfs:label "BiLock"@en .
+
+wd:Q492268 a wd:Q58778 ;
+    rdfs:label "Andon"@en .
+
+wd:Q493067 a wd:Q58778 ;
+    rdfs:label "CV/Gate"@en .
+
+wd:Q4944225 a wd:Q58778 ;
+    rdfs:label "Conversational Programming System"@en .
+
+wd:Q4982221 a wd:Q58778 ;
+    rdfs:label "Bubble curtain"@en .
+
+wd:Q5008836 a wd:Q58778 ;
+    rdfs:label "CARTO"@en .
+
+wd:Q5009750 a wd:Q58778 ;
+    rdfs:label "CCVS"@en .
+
+wd:Q5014630 a wd:Q58778 ;
+    rdfs:label "CTV Atlantic"@en .
+
+wd:Q5022111 a wd:Q58778 ;
+    rdfs:label "Calligraphic projection"@en .
+
+wd:Q5061652 a wd:Q58778 ;
+    rdfs:label "Central Pipeline"@en .
+
+wd:Q5072505 a wd:Q58778 ;
+    rdfs:label "Channel memory"@en .
+
+wd:Q5188170 a wd:Q58778 ;
+    rdfs:label "Cross-domain solution"@en .
+
+wd:Q5206196 a wd:Q58778 ;
+    rdfs:label "DSSim"@en .
+
+wd:Q52063548 a wd:Q58778 ;
+    rdfs:label "BC Parks and Protected Areas System"@en .
+
+wd:Q5310209 a wd:Q58778 ;
+    rdfs:label "Dual ignition"@en .
+
+wd:Q5321438 a wd:Q58778 ;
+    rdfs:label "E-Petitioner"@en .
+
+wd:Q5321464 a wd:Q58778 ;
+    rdfs:label "e-TAG"@en .
+
+wd:Q5322940 a wd:Q58778 ;
+    rdfs:label "EEWH"@en .
+
+wd:Q5323220 a wd:Q58778 ;
+    rdfs:label "EJARI"@en .
+
+wd:Q5324002 a wd:Q58778 ;
+    rdfs:label "ERAM"@en .
+
+wd:Q5324514 a wd:Q58778 ;
+    rdfs:label "eToll"@en .
+
+wd:Q5333164 a wd:Q58778 ;
+    rdfs:label "EcocyclET systems"@en .
+
+wd:Q5370587 a wd:Q58778 ;
+    rdfs:label "Emergency Detection System"@en .
+
+wd:Q5408386 a wd:Q58778 ;
+    rdfs:label "DIS"@en .
+
+wd:Q54086779 a wd:Q58778 ;
+    rdfs:label "Q54086779"^^xsd:string .
+
+wd:Q5420744 a wd:Q58778 ;
+    rdfs:label "Expandable tubular technology"@en .
+
+wd:Q54612110 a wd:Q58778 ;
+    rdfs:label "Q54612110"^^xsd:string .
+
+wd:Q5464056 a wd:Q58778 ;
+    rdfs:label "Fog display"@en .
+
+wd:Q5476216 a wd:Q58778 ;
+    rdfs:label "USALI"@en .
+
+wd:Q5499652 a wd:Q58778 ;
+    rdfs:label "FreeGEM"@en .
+
+wd:Q5505237 a wd:Q2583685 ;
+    rdfs:label "frog kick"@en .
+
+wd:Q5570191 a wd:Q58778 ;
+    rdfs:label "Global Command and Control System"@en .
+
+wd:Q5597190 a wd:Q58778 ;
+    rdfs:label "Graphics device interface"@en .
+
+wd:Q5608568 a wd:Q58778 ;
+    rdfs:label "Grid-tied electrical system"@en .
+
+wd:Q56099960 a wd:Q58778 ;
+    rdfs:label "Network of National Parks of Spain"@en .
+
+wd:Q5613963 a wd:Q58778 ;
+    rdfs:label "guard"@en .
+
+wd:Q56314120 a wd:Q58778 ;
+    rdfs:label "Joint air traffic management system"@en .
+
+wd:Q56348298 a wd:Q58778 ;
+    rdfs:label "Bachelor's master's doctorate system"@en .
+
+wd:Q5653916 a wd:Q58778 ;
+    rdfs:label "ARTE"@en .
+
+wd:Q56683076 a wd:Q58778 ;
+    rdfs:label "Q56683076"^^xsd:string .
+
+wd:Q587409 a wd:Q58778 ;
+    rdfs:label "National Wilderness Preservation System"@en .
+
+wd:Q5901244 a wd:Q58778 ;
+    rdfs:label "Q5901244"^^xsd:string .
+
+wd:Q594593 a wd:Q58778 ;
+    rdfs:label "IT infrastructure"@en .
+
+wd:Q5953259 a wd:Q58778 ;
+    rdfs:label "Hybrid moored balloon"@en .
+
+wd:Q5973603 a wd:Q58778 ;
+    rdfs:label "IRS e-file"@en .
+
+wd:Q6014467 a wd:Q58778 ;
+    rdfs:label "83M6E"@en .
+
+wd:Q6031610 a wd:Q58778 ;
+    rdfs:label "Infratek"@en .
+
+wd:Q611133 a wd:Q58778 ;
+    rdfs:label "Strong Republic Transit System"@en .
+
+wd:Q6116076 a wd:Q58778 ;
+    rdfs:label "SAMCo"@en .
+
+wd:Q615715 a wd:Q58778 ;
+    rdfs:label "Doppler Orbitography and Radiopositioning Integrated by Satellite"@en .
+
+wd:Q6158362 a wd:Q58778 ;
+    rdfs:label "Japanese aircraft engine identification system"@en .
+
+wd:Q622381 a wd:Q58778 ;
+    rdfs:label "Deterministic system"@en .
+
+wd:Q63020375 a wd:Q58778 ;
+    rdfs:label "Q63020375"^^xsd:string .
+
+wd:Q6330506 a wd:Q58778 ;
+    rdfs:label "KIAC"@en .
+
+wd:Q651387 a wd:Q58778 ;
+    rdfs:label "Vaisheshika"@en .
+
+wd:Q658476 a wd:Q58778 ;
+    rdfs:label "public-key infrastructure"@en .
+
+wd:Q6712076 a wd:Q58778 ;
+    rdfs:label "M-Tag"@en .
+
+wd:Q6715299 a wd:Q58778 ;
+    rdfs:label "MEDCIN"@en .
+
+wd:Q6928183 a wd:Q58778 ;
+    rdfs:label "MpDRM"@en .
+
+wd:Q6952578 a wd:Q58778 ;
+    rdfs:label "NATO CRONOS"@en .
+
+wd:Q6953574 a wd:Q58778 ;
+    rdfs:label "NESI"@en .
+
+wd:Q6973556 a wd:Q58778 ;
+    rdfs:label "National Instant Criminal Background Check System"@en .
+
+wd:Q6974012 a wd:Q58778 ;
+    rdfs:label "National Landscape Conservation System"@en .
+
+wd:Q6998141 a wd:Q58778 ;
+    rdfs:label "Net3"@en .
+
+wd:Q70316391 a wd:Q58778 ;
+    rdfs:label "Q70316391"^^xsd:string .
+
+wd:Q710066 a wd:Q58778 ;
+    rdfs:label "equal-field system"@en .
+
+wd:Q7118461 a wd:Q58778 ;
+    rdfs:label "PC-1"@en .
+
+wd:Q7119305 a wd:Q58778 ;
+    rdfs:label "PIATS"@en .
+
+wd:Q7265543 a wd:Q58778 ;
+    rdfs:label "QSAS"@en .
+
+wd:Q733981 a wd:Q58778 ;
+    rdfs:label "church discipline"@en .
+
+wd:Q7389638 a wd:Q58778 ;
+    rdfs:label "SEDAT"@en .
+
+wd:Q7393076 a wd:Q58778 ;
+    rdfs:label "SSTD"@en .
+
+wd:Q7426091 a wd:Q58778 ;
+    rdfs:label "satellite space segment"@en .
+
+wd:Q75762540 a wd:Q58778 ;
+    rdfs:label "Q75762540"^^xsd:string .
+
+wd:Q7578933 a wd:Q58778 ;
+    rdfs:label "Spome"@en .
+
+wd:Q7579939 a wd:Q58778 ;
+    rdfs:label "sports rating system"@en .
+
+wd:Q76624985 a wd:Q58778 ;
+    rdfs:label "Early Chinese Periodicals Online"@en .
+
+wd:Q7671982 a wd:Q58778 ;
+    rdfs:label "TU81"@en .
+
+wd:Q7672578 a wd:Q58778 ;
+    rdfs:label "TXK"@en .
+
+wd:Q772723 a wd:Q58778 ;
+    rdfs:label "European System of Financial Supervisors"@en .
+
+wd:Q7835240 a wd:Q58778 ;
+    rdfs:label "transportation in Minnesota"@en .
+
+wd:Q78358769 a wd:Q58778 ;
+    rdfs:label "BestMARC"@en .
+
+wd:Q7864226 a wd:Q58778 ;
+    rdfs:label "UDOP"@en .
+
+wd:Q78813007 a wd:Q58778 ;
+    rdfs:label "Special Procedures of the Human Rights Council"@en .
+
+wd:Q7906737 a wd:Q58778 ;
+    rdfs:label "VEMS"@en .
+
+wd:Q7984306 a wd:Q58778 ;
+    rdfs:label "West American Digest System"@en .
+
+wd:Q806733 a wd:Q58778 ;
+    rdfs:label "European Union banking union"@en .
+
+wd:Q81455294 a wd:Q58778 ;
+    rdfs:label "Cyber-Biological System"@en .
+
+wd:Q81455616 a wd:Q58778 ;
+    rdfs:label "Cyber-Cerebral System"@en .
+
+wd:Q81456002 a wd:Q58778 ;
+    rdfs:label "Cyber-Cognitive System"@en .
+
+wd:Q81456601 a wd:Q58778 ;
+    rdfs:label "Cyber-Entispheral System"@en .
+
+wd:Q81457224 a wd:Q58778 ;
+    rdfs:label "Interspheral System"@en .
+
+wd:Q83926803 a wd:Q58778 ;
+    rdfs:label "Plumbing Fixtures"@en .
+
+wd:Q856627 a wd:Q58778 ;
+    rdfs:label "distance measuring equipment"@en .
+
+wd:Q86999909 a wd:Q58778 ;
+    rdfs:label "Overwatch"@en .
+
+wd:Q872018 a wd:Q58778 ;
+    rdfs:label "Elberfeld system"@en .
+
+wd:Q872940 a wd:Q58778 ;
+    rdfs:label "Central Europe Pipeline System"@en .
+
+wd:Q9332411 a wd:Q58778 ;
+    rdfs:label "SYBIR"@en .
+
+wd:Q9353768 a wd:Q58778 ;
+    rdfs:label "Total mixed ration"@en .
+
+wd:Q94510 a wd:Q58778 ;
+    rdfs:label "CBF ranking"@en .
+
+wd:Q984134 a wd:Q58778 ;
+    rdfs:label "life support system"@en .
+
+wd:Q989783 a wd:Q58778 ;
+    rdfs:label "Q989783"^^xsd:string .
+
+wd:Q997610 a wd:Q58778 ;
+    rdfs:label "Bubuti system"@en .
+
+wd:Q18168614 rdfs:label "propulsion"@en ;
+    rdfs:subClassOf wd:Q2583685 .
+
+wd:Q2583685 rdfs:label "propulsion"@en ;
+    rdfs:subClassOf wd:Q58778 .
+
+wd:Q58778 rdfs:label "system"@en .
+

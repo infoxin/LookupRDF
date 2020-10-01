@@ -1,0 +1,6669 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1002996 a wd:Q9143 ;
+    rdfs:label "Snap!"@en .
+
+wd:Q1013808 a wd:Q1914636 ;
+    rdfs:label "glass etching"@en .
+
+wd:Q1022268 a wd:Q9143 ;
+    rdfs:label "C++/CLI"@en .
+
+wd:Q1022951 a wd:Q9143 ;
+    rdfs:label "CBASIC"@en .
+
+wd:Q1023623 a wd:Q9143 ;
+    rdfs:label "CHIP-8"@en .
+
+wd:Q1023897 a wd:Q9143 ;
+    rdfs:label "CMU Common Lisp"@en .
+
+wd:Q1023991 a wd:Q9143 ;
+    rdfs:label "COMAL"@en .
+
+wd:Q1024000 a wd:Q9143 ;
+    rdfs:label "COMIT"@en .
+
+wd:Q1024657 a wd:Q9143 ;
+    rdfs:label "Cg"@en .
+
+wd:Q10263624 a wd:Q9143 ;
+    rdfs:label "DOPE"@en .
+
+wd:Q10287150 a wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "G-Portugol"@en .
+
+wd:Q1028852 a wd:Q1914636 ;
+    rdfs:label "Gureba"@en .
+
+wd:Q10289413 a wd:Q1914636 ;
+    rdfs:label "Ghost hunting"@en .
+
+wd:Q1029421 a wd:Q1914636 ;
+    rdfs:label "prostitution of children"@en .
+
+wd:Q10299315 a wd:Q9143 ;
+    rdfs:label "IBM Disk BASIC"@en .
+
+wd:Q10314316 a wd:Q9143 ;
+    rdfs:label "Kid’s Programming Language"@en .
+
+wd:Q10318621 a wd:Q9143 ;
+    rdfs:label "Oak"@en .
+
+wd:Q10319536 a wd:Q9143 ;
+    rdfs:label "Logic Basic"@en .
+
+wd:Q10321016 a wd:Q9143 ;
+    rdfs:label "Lush"@en .
+
+wd:Q10350148 a wd:Q9143 ;
+    rdfs:label "Pizza"@en .
+
+wd:Q10352265 a wd:Q9143 ;
+    rdfs:label "Powerscript"@en .
+
+wd:Q10354178 a wd:Q9143 ;
+    rdfs:label "Procyon"@en .
+
+wd:Q10355573 a wd:Q9143 ;
+    rdfs:label "Py"@en .
+
+wd:Q10356790 a wd:Q9143 ;
+    rdfs:label "RPG Code"@en .
+
+wd:Q10366596 a wd:Q9143 ;
+    rdfs:label "SQLPL"@en .
+
+wd:Q10370559 a wd:Q1914636 ;
+    rdfs:label "sertanismo"@en .
+
+wd:Q10374848 a wd:Q9143 ;
+    rdfs:label "SuperMumps"@en .
+
+wd:Q10375031 a wd:Q9143 ;
+    rdfs:label "Superlogo"@en .
+
+wd:Q1040272 a wd:Q9143 ;
+    rdfs:label "Monkey X"@en .
+
+wd:Q1042397 a wd:Q9143 ;
+    rdfs:label "Mesa"@en .
+
+wd:Q1043197 a wd:Q1914636 ;
+    rdfs:label "divination"@en .
+
+wd:Q1043226 a wd:Q205961 ;
+    rdfs:label "product design"@en .
+
+wd:Q1044290 a wd:Q9143 ;
+    rdfs:label "Etoys"@en .
+
+wd:Q1045076 a wd:Q241317 ;
+    rdfs:label "Carrier Routing System"@en .
+
+wd:Q10467798 a wd:Q1914636 ;
+    rdfs:label "decoration painting"@en .
+
+wd:Q1049202 a wd:Q9143 ;
+    rdfs:label "GW-BASIC"@en .
+
+wd:Q1049708 a wd:Q9143 ;
+    rdfs:label "A#"@en .
+
+wd:Q1050629 a wd:Q9143 ;
+    rdfs:label "rc"@en .
+
+wd:Q1051110 a wd:Q1914636 ;
+    rdfs:label "seal cutting"@en .
+
+wd:Q1053535 a wd:Q9143 ;
+    rdfs:label "Processing"@en .
+
+wd:Q1054365 a wd:Q9143 ;
+    rdfs:label "INTERCAL"@en .
+
+wd:Q1056057 a wd:Q9143 ;
+    rdfs:label "QuickBASIC"@en .
+
+wd:Q1056428 a wd:Q649732 ;
+    rdfs:label "type theory"@en .
+
+wd:Q1057802 a wd:Q9143 ;
+    rdfs:label "ABC"@en .
+
+wd:Q1064516 a wd:Q9143 ;
+    rdfs:label "C shell"@en .
+
+wd:Q1064754 a wd:Q1914636 ;
+    rdfs:label "streaking"@en .
+
+wd:Q1066923 a wd:Q187432 ;
+    rdfs:label "Sierra's Creative Interpreter"@en .
+
+wd:Q1067540 a wd:Q9143 ;
+    rdfs:label "Charm++"@en .
+
+wd:Q10706881 a wd:Q1914636 ;
+    rdfs:label "Zwangsmittel"@en .
+
+wd:Q1072180 a wd:Q9143 ;
+    rdfs:label "Synchronized Multimedia Integration Language"@en .
+
+wd:Q10749002 a wd:Q1914636 ;
+    rdfs:label "Cle"@en .
+
+wd:Q10751894 a wd:Q1914636 ;
+    rdfs:label "lifesaving"@en .
+
+wd:Q107885 a wd:Q1914636 ;
+    rdfs:label "speculation"@en .
+
+wd:Q10851621 a wd:Q9143 ;
+    rdfs:label "Mama"@en .
+
+wd:Q10852887 a wd:Q9143 ;
+    rdfs:label "TJS2"@en .
+
+wd:Q10885418 a wd:Q9143 ;
+    rdfs:label "EP-BASIC"@en .
+
+wd:Q1091461 a wd:Q80006 ;
+    rdfs:label "function overloading"@en .
+
+wd:Q10921015 a wd:Q9143 ;
+    rdfs:label "ZhPy"@en .
+
+wd:Q1092527 a wd:Q9143 ;
+    rdfs:label "JavaServer Pages Standard Tag Library"@en .
+
+wd:Q1094706 a wd:Q1914636 ;
+    rdfs:label "Grinding"@en .
+
+wd:Q10954043 a wd:Q1914636 ;
+    rdfs:label "peacekeeping"@en .
+
+wd:Q1095608 a wd:Q9143 ;
+    rdfs:label "Clarion"@en .
+
+wd:Q11034 a wd:Q1914636 ;
+    rdfs:label "printing"@en .
+
+wd:Q11038887 a wd:Q9143 ;
+    rdfs:label "Baltazar"@en .
+
+wd:Q1106293 a wd:Q9143 ;
+    rdfs:label "Genie"@en .
+
+wd:Q1106819 a wd:Q9143 ;
+    rdfs:label "CoffeeScript"@en .
+
+wd:Q11088328 a wd:Q9143 ;
+    rdfs:label "Easy Programming Language"@en .
+
+wd:Q1111497 a wd:Q9143 ;
+    rdfs:label "LZX"@en .
+
+wd:Q1118153 a wd:Q9143 ;
+    rdfs:label "Caml"@en .
+
+wd:Q11189997 a wd:Q9143 ;
+    rdfs:label "ActiveBasic"@en .
+
+wd:Q11194863 a wd:Q9143 ;
+    rdfs:label "Concurrent Prolog"@en .
+
+wd:Q1119743 a wd:Q187432 ;
+    rdfs:label "Web Language"@en .
+
+wd:Q11197636 a wd:Q241317 ;
+    rdfs:label "ELTAX"@en .
+
+wd:Q11200111 a wd:Q9143 ;
+    rdfs:label "Ficl"@en .
+
+wd:Q1121719 a wd:Q9143 ;
+    rdfs:label "Component Pascal"@en .
+
+wd:Q11221952 a wd:Q9143 ;
+    rdfs:label "Guarded Horn Clauses"@en .
+
+wd:Q1122526 a wd:Q1914636 ;
+    rdfs:label "ice cross downhill"@en .
+
+wd:Q11226532 a wd:Q9143 ;
+    rdfs:label "JSX"@en .
+
+wd:Q11227669 a wd:Q241317 ;
+    rdfs:label "KCP"@en .
+
+wd:Q11228202 a wd:Q9143 ;
+    rdfs:label "KS programming"@en .
+
+wd:Q11229880 a wd:Q9143 ;
+    rdfs:label "Lazy K"@en .
+
+wd:Q11232742 a wd:Q9143 ;
+    rdfs:label "Mana"@en .
+
+wd:Q11233335 a wd:Q9143 ;
+    rdfs:label "Mind"@en .
+
+wd:Q11235870 a wd:Q9143 ;
+    rdfs:label "Dolittle"@en .
+
+wd:Q11250217 a wd:Q9143 ;
+    rdfs:label "TTSneo"@en .
+
+wd:Q11252181 a wd:Q9143 ;
+    rdfs:label "UWSC"@en .
+
+wd:Q11253634 a wd:Q9143 ;
+    rdfs:label "WICS"@en .
+
+wd:Q11274357 a wd:Q9143 ;
+    rdfs:label "Nadeshiko"@en .
+
+wd:Q11276490 a wd:Q9143 ;
+    rdfs:label "Himawari"@en .
+
+wd:Q1128406 a wd:Q1914636 ;
+    rdfs:label "correspondence chess"@en .
+
+wd:Q1132500 a wd:Q9143 ;
+    rdfs:label "Core War"@en .
+
+wd:Q1133580 a wd:Q9143 ;
+    rdfs:label "Mathcad"@en .
+
+wd:Q11336092 a wd:Q9143 ;
+    rdfs:label "Prodel"@en .
+
+wd:Q113585 a wd:Q241317 ;
+    rdfs:label "PA-RISC"@en .
+
+wd:Q1136926 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Alice"@en .
+
+wd:Q1138939 a wd:Q9143 ;
+    rdfs:label "Vala"@en .
+
+wd:Q1140574 a wd:Q9143 ;
+    rdfs:label "Shakespeare"@en .
+
+wd:Q1141484 a wd:Q9143 ;
+    rdfs:label "WEB"@en .
+
+wd:Q1144458 a wd:Q1914636 ;
+    rdfs:label "archaeological field survey"@en .
+
+wd:Q1144631 a wd:Q12772052,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Curl"@en .
+
+wd:Q1146247 a wd:Q9143 ;
+    rdfs:label "CICS"@en .
+
+wd:Q1150391 a wd:Q9143 ;
+    rdfs:label "InterSystems Caché"@en .
+
+wd:Q1150963 a wd:Q9143 ;
+    rdfs:label "Distributed Application Specification Language"@en .
+
+wd:Q1151190 a wd:Q9143 ;
+    rdfs:label "Cω"@en .
+
+wd:Q1156474 a wd:Q9143 ;
+    rdfs:label "Icon"@en .
+
+wd:Q1160312 a wd:Q9143 ;
+    rdfs:label "J#"@en .
+
+wd:Q11605739 a wd:Q9143 ;
+    rdfs:label "Blitz Basic"@en .
+
+wd:Q11605785 a wd:Q9143 ;
+    rdfs:label "Blitz2D"@en .
+
+wd:Q11605797 a wd:Q9143 ;
+    rdfs:label "Blitz3D"@en .
+
+wd:Q11605804 a wd:Q9143 ;
+    rdfs:label "BlitzPlus"@en .
+
+wd:Q11605828 a wd:Q9143 ;
+    rdfs:label "BlitzMax"@en .
+
+wd:Q11606158 a wd:Q9143 ;
+    rdfs:label "AmiBlitz"@en .
+
+wd:Q11642 a wd:Q1914636 ;
+    rdfs:label "pottery"@en .
+
+wd:Q11649704 a wd:Q1914636 ;
+    rdfs:label "railway photography"@en .
+
+wd:Q1167341 a wd:Q9143 ;
+    rdfs:label "Basic For Qt"@en .
+
+wd:Q11680564 a wd:Q1914636 ;
+    rdfs:label "Q11680564"^^xsd:string .
+
+wd:Q1169476 a wd:Q9143 ;
+    rdfs:label "STOS BASIC"@en .
+
+wd:Q11715091 a wd:Q9143 ;
+    rdfs:label "JaM"@en .
+
+wd:Q11762387 a wd:Q9143 ;
+    rdfs:label "Logel"@en .
+
+wd:Q11762407 a wd:Q9143 ;
+    rdfs:label "Loglan 82"@en .
+
+wd:Q11764839 a wd:Q9143 ;
+    rdfs:label "MCPL"@en .
+
+wd:Q11765028 a wd:Q9143 ;
+    rdfs:label "MetaQuotes Language MQL4/MQL5"@en .
+
+wd:Q11794389 a wd:Q9143 ;
+    rdfs:label "OML"@en .
+
+wd:Q11854339 a wd:Q9143 ;
+    rdfs:label "Bla"@en .
+
+wd:Q1185543 a wd:Q187432 ;
+    rdfs:label "Linden Scripting Language"@en .
+
+wd:Q1186348 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "Seed7"@en .
+
+wd:Q11880995 a wd:Q1914636 ;
+    rdfs:label "berry picking"@en .
+
+wd:Q1191442 a wd:Q9143 ;
+    rdfs:label "UnrealScript"@en .
+
+wd:Q11916953 a wd:Q1914636 ;
+    rdfs:label "archival description"@en .
+
+wd:Q11927196 a wd:Q121359 ;
+    rdfs:label "Jardins de Winston Churchill"@en .
+
+wd:Q1194352 a wd:Q9143 ;
+    rdfs:label "Turbo C++"@en .
+
+wd:Q1194492 a wd:Q1914636 ;
+    rdfs:label "angling"@en .
+
+wd:Q11964041 a wd:Q9143 ;
+    rdfs:label "Concurrent C"@en .
+
+wd:Q11965128 a wd:Q121359 ;
+    rdfs:label "Den bergenske kongevei"@en .
+
+wd:Q119770 a wd:Q1914636 ;
+    rdfs:label "nose-picking"@en .
+
+wd:Q1197839 a wd:Q241317 ;
+    rdfs:label "Novell Open Enterprise Server"@en .
+
+wd:Q11985939 a wd:Q9143 ;
+    rdfs:label "Fantasy GameBook Engine"@en .
+
+wd:Q1200182 a wd:Q9143 ;
+    rdfs:label "Squirrel"@en .
+
+wd:Q12013292 a wd:Q1914636 ;
+    rdfs:label "Q12013292"^^xsd:string .
+
+wd:Q1201810 a wd:Q9143 ;
+    rdfs:label "Microsoft BASIC"@en .
+
+wd:Q12032760 a wd:Q9143 ;
+    rdfs:label "Laser BASIC"@en .
+
+wd:Q1204300 a wd:Q9143 ;
+    rdfs:label "Stata"@en .
+
+wd:Q12044793 a wd:Q9143 ;
+    rdfs:label "Petr"@en .
+
+wd:Q12049029 a wd:Q205961 ;
+    rdfs:label "recipathy"@en .
+
+wd:Q12050058 a wd:Q9143 ;
+    rdfs:label "Extended Syntax of Sinclair BASIC"@en .
+
+wd:Q1205020 a wd:Q241317 ;
+    rdfs:label "SuperH"@en .
+
+wd:Q12051030 a wd:Q1914636 ;
+    rdfs:label "choral conducting"@en .
+
+wd:Q12056479 a wd:Q179310 ;
+    rdfs:label "Q12056479"^^xsd:string .
+
+wd:Q12062721 a wd:Q1914636 ;
+    rdfs:label "CSRP"@en .
+
+wd:Q1208217 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "Oz"@en .
+
+wd:Q1209759 a wd:Q9143 ;
+    rdfs:label "ALGOL 60"@en .
+
+wd:Q12099208 a wd:Q1914636 ;
+    rdfs:label "Q12099208"^^xsd:string .
+
+wd:Q12179525 a wd:Q9143 ;
+    rdfs:label "S/SL"@en .
+
+wd:Q12235804 a wd:Q9143 ;
+    rdfs:label "Kelimat"@en .
+
+wd:Q12237321 a wd:Q9143 ;
+    rdfs:label "Jeem"@en .
+
+wd:Q1224389 a wd:Q1914636 ;
+    rdfs:label "copy editing"@en .
+
+wd:Q1227658 a wd:Q1914636 ;
+    rdfs:label "Executive search"@en .
+
+wd:Q12283360 a wd:Q1914636 ;
+    rdfs:label "collective rights management"@en .
+
+wd:Q12312095 a wd:Q1914636 ;
+    rdfs:label "Q12312095"^^xsd:string .
+
+wd:Q1232760 a wd:Q1914636 ;
+    rdfs:label "Vorlehre"@en .
+
+wd:Q1237093 a wd:Q1914636 ;
+    rdfs:label "Wringen"@en .
+
+wd:Q1254148 a wd:Q12772052,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Racket"@en .
+
+wd:Q12554212 a wd:Q1914636 ;
+    rdfs:label "Q12554212"^^xsd:string .
+
+wd:Q1258116 a wd:Q9143 ;
+    rdfs:label "Graphics Layout Engine"@en .
+
+wd:Q12590841 a wd:Q9143 ;
+    rdfs:label "Dao"@en .
+
+wd:Q12606786 a wd:Q9143 ;
+    rdfs:label "Entry"@en .
+
+wd:Q1265107 a wd:Q9143 ;
+    rdfs:label "Joy"@en .
+
+wd:Q1265836 a wd:Q9143 ;
+    rdfs:label "MetaPost"@en .
+
+wd:Q1266659 a wd:Q9143 ;
+    rdfs:label "Stateflow"@en .
+
+wd:Q12683239 a wd:Q9143 ;
+    rdfs:label "ICI"@en .
+
+wd:Q1268744 a wd:Q12772052,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Dylan"@en .
+
+wd:Q127213 a wd:Q1914636 ;
+    rdfs:label "arboriculture"@en .
+
+wd:Q1275046 a wd:Q9143 ;
+    rdfs:label "ELAN"@en .
+
+wd:Q1275955 a wd:Q9143 ;
+    rdfs:label "Executive Systems Problem Oriented Language"@en .
+
+wd:Q1277803 a wd:Q9143 ;
+    rdfs:label "JOVIAL"@en .
+
+wd:Q1281188 a wd:Q1914636 ;
+    rdfs:label "cheesemaking"@en .
+
+wd:Q1283865 a wd:Q9143 ;
+    rdfs:label "S"@en .
+
+wd:Q12891137 a wd:Q1914636 ;
+    rdfs:label "Q12891137"^^xsd:string .
+
+wd:Q12892521 a wd:Q1914636 ;
+    rdfs:label "Q12892521"^^xsd:string .
+
+wd:Q129137 a wd:Q187432 ;
+    rdfs:label "AppleScript"@en .
+
+wd:Q12976130 a wd:Q9143 ;
+    rdfs:label "SQL"@en .
+
+wd:Q1297897 a wd:Q1914636 ;
+    rdfs:label "sex work"@en .
+
+wd:Q130044 a wd:Q1914636 ;
+    rdfs:label "swaddling"@en .
+
+wd:Q1305571 a wd:Q1914636 ;
+    rdfs:label "Q1305571"^^xsd:string .
+
+wd:Q1306585 a wd:Q9143 ;
+    rdfs:label "Turbo Basic"@en .
+
+wd:Q1309003 a wd:Q1914636 ;
+    rdfs:label "Einschwenken"@en .
+
+wd:Q131140 a wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "COBOL"@en .
+
+wd:Q13136630 a wd:Q1914636 ;
+    rdfs:label "bell ringing"@en .
+
+wd:Q13137278 a wd:Q1914636 ;
+    rdfs:label "Q13137278"^^xsd:string .
+
+wd:Q131508 a wd:Q1914636,
+        wd:Q205961 ;
+    rdfs:label "enterprise resource planning"@en .
+
+wd:Q1323362 a wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "Oberon"@en .
+
+wd:Q132874 a wd:Q12772052,
+        wd:Q1993334,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Lisp"@en .
+
+wd:Q133080 a wd:Q1914636 ;
+    rdfs:label "public relations"@en .
+
+wd:Q1334586 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Emacs Lisp"@en .
+
+wd:Q1335009 a wd:Q9143 ;
+    rdfs:label "Embedded SQL"@en .
+
+wd:Q13380670 a wd:Q9143 ;
+    rdfs:label "EX-BASIC"@en .
+
+wd:Q13380671 a wd:Q9143 ;
+    rdfs:label "Improved Microdrive BASIC Operating System"@en .
+
+wd:Q13425292 a wd:Q1914636 ;
+    rdfs:label "adventure"@en .
+
+wd:Q1343316 a wd:Q1914636 ;
+    rdfs:label "military command"@en .
+
+wd:Q1346205 a wd:Q205961 ;
+    rdfs:label "linguistic competence"@en .
+
+wd:Q13496636 a wd:Q9143 ;
+    rdfs:label "asm.js"@en .
+
+wd:Q13515735 a wd:Q80006 ;
+    rdfs:label "Structure, sequence and organization"@en .
+
+wd:Q1356671 a wd:Q9143 ;
+    rdfs:label "GT.M"@en .
+
+wd:Q1359171 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "REBOL"@en .
+
+wd:Q13626277 a wd:Q1914636 ;
+    rdfs:label "Sexual Jihad"@en .
+
+wd:Q1363554 a wd:Q1914636 ;
+    rdfs:label "financial analysis"@en .
+
+wd:Q1366963 a wd:Q1914636 ;
+    rdfs:label "whale watching"@en .
+
+wd:Q1374139 a wd:Q9143 ;
+    rdfs:label "Euphoria"@en .
+
+wd:Q13743 a wd:Q187432,
+        wd:Q1993334 ;
+    rdfs:label "Visual Basic Script"@en .
+
+wd:Q1375924 a wd:Q649732 ;
+    rdfs:label "Hoare logic"@en .
+
+wd:Q1387402 a wd:Q9143 ;
+    rdfs:label "SystemVerilog"@en .
+
+wd:Q1389173 a wd:Q9143 ;
+    rdfs:label "FLOW-MATIC"@en .
+
+wd:Q1389363 a wd:Q9143 ;
+    rdfs:label "Focal"@en .
+
+wd:Q1391724 a wd:Q9143 ;
+    rdfs:label "Factor"@en .
+
+wd:Q139380 a wd:Q1993334,
+        wd:Q9143 ;
+    rdfs:label "Maple"@en .
+
+wd:Q1396106 a wd:Q187432 ;
+    rdfs:label "Sleep"@en .
+
+wd:Q1399846 a wd:Q9143 ;
+    rdfs:label "Unified Expression Language"@en .
+
+wd:Q14094 a wd:Q241317 ;
+    rdfs:label "iPod Touch"@en .
+
+wd:Q1411245 a wd:Q9143 ;
+    rdfs:label "Transact-SQL"@en .
+
+wd:Q1411658 a wd:Q9143 ;
+    rdfs:label "Gofer"@en .
+
+wd:Q1411875 a wd:Q9143 ;
+    rdfs:label "ladder logic"@en .
+
+wd:Q1411939 a wd:Q187432 ;
+    rdfs:label "Server Side Includes"@en .
+
+wd:Q1413596 a wd:Q1914636 ;
+    rdfs:label "Rub"@en .
+
+wd:Q1415247 a wd:Q1914636 ;
+    rdfs:label "film preservation"@en .
+
+wd:Q1415356 a wd:Q1914636 ;
+    rdfs:label "film distribution"@en .
+
+wd:Q1416052 a wd:Q1914636 ;
+    rdfs:label "computer-assisted legal research"@en .
+
+wd:Q1417175 a wd:Q9143 ;
+    rdfs:label "JScript .NET"@en .
+
+wd:Q1417626 a wd:Q9143 ;
+    rdfs:label "Reaktor"@en .
+
+wd:Q1417815 a wd:Q1914636 ;
+    rdfs:label "reading education"@en .
+
+wd:Q1418686 a wd:Q9143 ;
+    rdfs:label "Sieve"@en .
+
+wd:Q1420117 a wd:Q1914636 ;
+    rdfs:label "reefing"@en .
+
+wd:Q1420413 a wd:Q1914636 ;
+    rdfs:label "health technology assessment"@en .
+
+wd:Q14222943 a wd:Q1914636 ;
+    rdfs:label "London South Bank Walk"@en .
+
+wd:Q1427296 a wd:Q9143 ;
+    rdfs:label "Steel Bank Common Lisp"@en .
+
+wd:Q1427564 a wd:Q9143 ;
+    rdfs:label "Flavors"@en .
+
+wd:Q1428108 a wd:Q1914636 ;
+    rdfs:label "room air distribution"@en .
+
+wd:Q1429051 a wd:Q1914636 ;
+    rdfs:label "shunting"@en .
+
+wd:Q1430184 a wd:Q1914636 ;
+    rdfs:label "performance appraisal"@en .
+
+wd:Q1430627 a wd:Q1914636 ;
+    rdfs:label "Snake charming"@en .
+
+wd:Q1430738 a wd:Q241317 ;
+    rdfs:label "GNAB"@en .
+
+wd:Q1430892 a wd:Q1914636 ;
+    rdfs:label "voluntary social year"@en .
+
+wd:Q143419 a wd:Q9143 ;
+    rdfs:label "Blitz BASIC"@en .
+
+wd:Q14373 a wd:Q1914636 ;
+    rdfs:label "fishing"@en .
+
+wd:Q14378091 a wd:Q9143 ;
+    rdfs:label "Xojo"@en .
+
+wd:Q1439015 a wd:Q9143 ;
+    rdfs:label "Fortress"@en .
+
+wd:Q1443431 a wd:Q9143 ;
+    rdfs:label "Objective-J"@en .
+
+wd:Q1455737 a wd:Q1914636 ;
+    rdfs:label "ferreting"@en .
+
+wd:Q1457000 a wd:Q9143 ;
+    rdfs:label "Metafont"@en .
+
+wd:Q1460219 a wd:Q1914636 ;
+    rdfs:label "floral design"@en .
+
+wd:Q14614313 a wd:Q1914636 ;
+    rdfs:label "lustration"@en .
+
+wd:Q1461865 a wd:Q9143 ;
+    rdfs:label "Linda"@en .
+
+wd:Q14631474 a wd:Q1914636 ;
+    rdfs:label "Q14631474"^^xsd:string .
+
+wd:Q1474061 a wd:Q9143 ;
+    rdfs:label "FP"@en .
+
+wd:Q1477376 a wd:Q187432 ;
+    rdfs:label "KiXtart"@en .
+
+wd:Q1481938 a wd:Q1914636 ;
+    rdfs:label "militancy"@en .
+
+wd:Q1485336 a wd:Q9143 ;
+    rdfs:label "GFA BASIC"@en .
+
+wd:Q1485973 a wd:Q9143 ;
+    rdfs:label "Project Builder"@en .
+
+wd:Q1486175 a wd:Q9143 ;
+    rdfs:label "GNU Assembler"@en .
+
+wd:Q1491128 a wd:Q1914636 ;
+    rdfs:label "gold prospecting"@en .
+
+wd:Q14914644 a wd:Q9143 ;
+    rdfs:label "TouchDevelop"@en .
+
+wd:Q1494770 a wd:Q9143 ;
+    rdfs:label "ILNumerics.Net"@en .
+
+wd:Q15008046 a wd:Q1914636 ;
+    rdfs:label "log driving"@en .
+
+wd:Q15015195 a wd:Q241317 ;
+    rdfs:label "Apple Pippin"@en .
+
+wd:Q1505372 a wd:Q9143 ;
+    rdfs:label "Job Control Language"@en .
+
+wd:Q1518753 a wd:Q1914636 ;
+    rdfs:label "Gesenk"@en .
+
+wd:Q15241057 a wd:Q12772052,
+        wd:Q1993334,
+        wd:Q21562092,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Wolfram Language"@en .
+
+wd:Q15276568 a wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "flow chart language"@en .
+
+wd:Q1531570 a wd:Q121359 ;
+    rdfs:label "Global Biodiversity Information Facility"@en .
+
+wd:Q1533797 a wd:Q21562092,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "ISWIM"@en .
+
+wd:Q1537488 a wd:Q9143 ;
+    rdfs:label "M"@en .
+
+wd:Q15383191 a wd:Q1914636 ;
+    rdfs:label "Technology intelligence"@en .
+
+wd:Q1538458 a wd:Q9143 ;
+    rdfs:label "ALGOL W"@en .
+
+wd:Q1540659 a wd:Q9143 ;
+    rdfs:label "GrGen"@en .
+
+wd:Q15408477 a wd:Q9143 ;
+    rdfs:label "Idris"@en .
+
+wd:Q154273 a wd:Q1914636 ;
+    rdfs:label "colportage"@en .
+
+wd:Q15449497 a wd:Q1914636 ;
+    rdfs:label "executive transport"@en .
+
+wd:Q1546695 a wd:Q1914636 ;
+    rdfs:label "cartomancy"@en .
+
+wd:Q1547213 a wd:Q9143 ;
+    rdfs:label "OpenGL ES Shading Language"@en .
+
+wd:Q1547448 a wd:Q9143 ;
+    rdfs:label "TECO"@en .
+
+wd:Q154745 a wd:Q121359 ;
+    rdfs:label "Chavimochic"@en .
+
+wd:Q154755 a wd:Q12772052,
+        wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "Ada"@en .
+
+wd:Q15488100 a wd:Q1914636 ;
+    rdfs:label "film direction"@en .
+
+wd:Q1549370 a wd:Q9143 ;
+    rdfs:label "Aldor"@en .
+
+wd:Q1550789 a wd:Q1914636 ;
+    rdfs:label "Pharmacovigilance"@en .
+
+wd:Q1552147 a wd:Q1914636 ;
+    rdfs:label "Q1552147"^^xsd:string .
+
+wd:Q15620505 a wd:Q9143 ;
+    rdfs:label "Basic Sound Extension"@en .
+
+wd:Q1566023 a wd:Q9143 ;
+    rdfs:label "Rocky Mountain BASIC"@en .
+
+wd:Q15691806 a wd:Q9143 ;
+    rdfs:label "Potion"@en .
+
+wd:Q1571077 a wd:Q9143 ;
+    rdfs:label "Netwide Assembler"@en .
+
+wd:Q15712810 a wd:Q9143 ;
+    rdfs:label "data-entry language"@en .
+
+wd:Q1571494 a wd:Q9143 ;
+    rdfs:label "XProc"@en .
+
+wd:Q1571805 a wd:Q1914636 ;
+    rdfs:label "Tech C"@en .
+
+wd:Q1571870 a wd:Q9143 ;
+    rdfs:label "Hollywood"@en .
+
+wd:Q1571929 a wd:Q1914636 ;
+    rdfs:label "general aviation"@en .
+
+wd:Q1572341 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "Pike"@en .
+
+wd:Q1572865 a wd:Q9143 ;
+    rdfs:label "Sass"@en .
+
+wd:Q1573599 a wd:Q9143 ;
+    rdfs:label "Haml"@en .
+
+wd:Q15777 a wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "C"@en .
+
+wd:Q1577753 a wd:Q9143 ;
+    rdfs:label "NewtonScript"@en .
+
+wd:Q15833022 a wd:Q9143 ;
+    rdfs:label "Luna"@en .
+
+wd:Q15844059 a wd:Q187432 ;
+    rdfs:label "SassScript"@en .
+
+wd:Q15850009 a wd:Q1914636 ;
+    rdfs:label "Day-tripper"@en .
+
+wd:Q15877766 a wd:Q1914636 ;
+    rdfs:label "Q15877766"^^xsd:string .
+
+wd:Q158833 a wd:Q241317 ;
+    rdfs:label ".NET Micro Framework"@en .
+
+wd:Q15912075 a wd:Q39487140 ;
+    rdfs:label "information hiding"@en .
+
+wd:Q15971618 a wd:Q9143 ;
+    rdfs:label "Hack"@en .
+
+wd:Q1598031 a wd:Q1914636 ;
+    rdfs:label "Illizit"@en .
+
+wd:Q15995436 a wd:Q241317 ;
+    rdfs:label "Roku"@en .
+
+wd:Q16002899 a wd:Q9143 ;
+    rdfs:label "SAMPL"@en .
+
+wd:Q1603416 a wd:Q205961 ;
+    rdfs:label "competence"@en .
+
+wd:Q1609529 a wd:Q9143 ;
+    rdfs:label "Mizar system"@en .
+
+wd:Q16162582 a wd:Q9143 ;
+    rdfs:label "PAL"@en .
+
+wd:Q16195922 a wd:Q1993334,
+        wd:Q9143 ;
+    rdfs:label "GameMaker Studio"@en .
+
+wd:Q16249031 a wd:Q9143 ;
+    rdfs:label "DIPS"@en .
+
+wd:Q16319374 a wd:Q121359 ;
+    rdfs:label "Q16319374"^^xsd:string .
+
+wd:Q16321601 a wd:Q9143 ;
+    rdfs:label "///"@en .
+
+wd:Q16340 a wd:Q9143 ;
+    rdfs:label "XPath"@en .
+
+wd:Q163468 a wd:Q9143 ;
+    rdfs:label "Prolog"@en .
+
+wd:Q163565 a wd:Q9143 ;
+    rdfs:label "Flagship compiler"@en .
+
+wd:Q1643184 a wd:Q1914636 ;
+    rdfs:label "help"@en .
+
+wd:Q1648571 a wd:Q79872,
+        wd:Q9143 ;
+    rdfs:label "PowerBASIC"@en .
+
+wd:Q1649380 a wd:Q187432 ;
+    rdfs:label "JASS"@en .
+
+wd:Q1650350 a wd:Q1914636 ;
+    rdfs:label "prospecting"@en .
+
+wd:Q1653355 a wd:Q9143 ;
+    rdfs:label "ICon-L"@en .
+
+wd:Q165372 a wd:Q9143 ;
+    rdfs:label "CLIPS"@en .
+
+wd:Q165436 a wd:Q9143 ;
+    rdfs:label "assembly language"@en .
+
+wd:Q16613776 a wd:Q9143 ;
+    rdfs:label "Open Virtual Machine Language"@en .
+
+wd:Q16614712 a wd:Q9143 ;
+    rdfs:label "PPL"@en .
+
+wd:Q16616746 a wd:Q12772052,
+        wd:Q187432,
+        wd:Q21562092,
+        wd:Q28920813 ;
+    rdfs:label "Pascal Script"@en .
+
+wd:Q16632358 a wd:Q9143 ;
+    rdfs:label "Cameleon"@en .
+
+wd:Q16635395 a wd:Q1914636 ;
+    rdfs:label "tarotology"@en .
+
+wd:Q166376 a wd:Q1914636 ;
+    rdfs:label "doping in sport"@en .
+
+wd:Q16648605 a wd:Q9143 ;
+    rdfs:label "Koala"@en .
+
+wd:Q1665857 a wd:Q9143 ;
+    rdfs:label "Interactive Data Language"@en .
+
+wd:Q16687546 a wd:Q9143 ;
+    rdfs:label "CafeOBJ"@en .
+
+wd:Q1671165 a wd:Q1914636 ;
+    rdfs:label "Seihen"@en .
+
+wd:Q1675033 a wd:Q1914636 ;
+    rdfs:label "Itako"@en .
+
+wd:Q16824568 a wd:Q9143 ;
+    rdfs:label "Abstract-Type and Scheme-Definition Language"@en .
+
+wd:Q1682561 a wd:Q9143 ;
+    rdfs:label "MAI Basic Four"@en .
+
+wd:Q16834355 a wd:Q9143 ;
+    rdfs:label "Cypher Query Language"@en .
+
+wd:Q1684174 a wd:Q9143 ;
+    rdfs:label "Java Agent Development Framework"@en .
+
+wd:Q16879932 a wd:Q1914636 ;
+    rdfs:label "musical instrument making"@en .
+
+wd:Q16913488 a wd:Q9143 ;
+    rdfs:label "Algek"@en .
+
+wd:Q1691738 a wd:Q9143 ;
+    rdfs:label "Xtend"@en .
+
+wd:Q16920157 a wd:Q1914636 ;
+    rdfs:label "variation"@en .
+
+wd:Q169411 a wd:Q9143 ;
+    rdfs:label "Unified Modeling Language"@en .
+
+wd:Q169412 a wd:Q9143 ;
+    rdfs:label "Zebra"@en .
+
+wd:Q16944853 a wd:Q1914636 ;
+    rdfs:label "Hydraulist"@en .
+
+wd:Q16947404 a wd:Q9143 ;
+    rdfs:label "MATH-MATIC"@en .
+
+wd:Q16957751 a wd:Q121359 ;
+    rdfs:label "China–Pakistan Economic Corridor"@en .
+
+wd:Q16958879 a wd:Q9143 ;
+    rdfs:label "Umple"@en .
+
+wd:Q16963446 a wd:Q9143 ;
+    rdfs:label "LiveScript"@en .
+
+wd:Q16972633 a wd:Q9143 ;
+    rdfs:label "Godot"@en .
+
+wd:Q16975325 a wd:Q9143 ;
+    rdfs:label "Programming with Big Data in R"@en .
+
+wd:Q16975484 a wd:Q9143 ;
+    rdfs:label "PottersWheel"@en .
+
+wd:Q16976264 a wd:Q9143 ;
+    rdfs:label "Ox"@en .
+
+wd:Q16976350 a wd:Q9143 ;
+    rdfs:label "ExtendScript"@en .
+
+wd:Q16989736 a wd:Q9143 ;
+    rdfs:label "Hermes"@en .
+
+wd:Q17001427 a wd:Q1914636 ;
+    rdfs:label "Bitcoin network"@en .
+
+wd:Q17003225 a wd:Q1914636 ;
+    rdfs:label "biological illustration"@en .
+
+wd:Q17005830 a wd:Q9143 ;
+    rdfs:label "Coopr"@en .
+
+wd:Q17009745 a wd:Q9143 ;
+    rdfs:label "DADiSP"@en .
+
+wd:Q17018603 a wd:Q241317 ;
+    rdfs:label "Novena"@en .
+
+wd:Q17020459 a wd:Q9143 ;
+    rdfs:label "Halide"@en .
+
+wd:Q17023317 a wd:Q1914636 ;
+    rdfs:label "Shoulder Pole Rice Eating"@en .
+
+wd:Q17024773 a wd:Q1914636 ;
+    rdfs:label "television weathercast"@en .
+
+wd:Q17030435 a wd:Q9143 ;
+    rdfs:label "HOL"@en .
+
+wd:Q17047882 a wd:Q9143 ;
+    rdfs:label "Z++"@en .
+
+wd:Q17060857 a wd:Q9143 ;
+    rdfs:label "JSONiq"@en .
+
+wd:Q17067973 a wd:Q9143 ;
+    rdfs:label "M#"@en .
+
+wd:Q17072763 a wd:Q9143 ;
+    rdfs:label "Object-oriented CSS"@en .
+
+wd:Q17080030 a wd:Q9143 ;
+    rdfs:label "Message Format Language"@en .
+
+wd:Q17085079 a wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "Stan"@en .
+
+wd:Q17085538 a wd:Q9143 ;
+    rdfs:label "Basic4android"@en .
+
+wd:Q17088894 a wd:Q9143 ;
+    rdfs:label "ELI"@en .
+
+wd:Q17089974 a wd:Q9143 ;
+    rdfs:label "Windows App Studio"@en .
+
+wd:Q17092228 a wd:Q241317 ;
+    rdfs:label "IBM cloud computing"@en .
+
+wd:Q17092352 a wd:Q1914636 ;
+    rdfs:label "patient selection"@en .
+
+wd:Q17092771 a wd:Q9143 ;
+    rdfs:label "Itk"@en .
+
+wd:Q17092903 a wd:Q9143 ;
+    rdfs:label "Jolie"@en .
+
+wd:Q17096206 a wd:Q1914636 ;
+    rdfs:label "Target practice"@en .
+
+wd:Q17097207 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "LFE"@en .
+
+wd:Q171 a wd:Q121359 ;
+    rdfs:label "wiki"@en .
+
+wd:Q171141 a wd:Q1914636 ;
+    rdfs:label "gastronomy"@en .
+
+wd:Q17118377 a wd:Q12772052,
+        wd:Q21562092,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Swift"@en .
+
+wd:Q17135638 a wd:Q21562092 ;
+    rdfs:label "Structured Audio Orchestra Language"@en .
+
+wd:Q17143156 a wd:Q9143 ;
+    rdfs:label "P*"@en .
+
+wd:Q17143560 a wd:Q1914636 ;
+    rdfs:label "modelling"@en .
+
+wd:Q17145532 a wd:Q9143 ;
+    rdfs:label "Tritium"@en .
+
+wd:Q17146842 a wd:Q9143 ;
+    rdfs:label "webMethods Flow"@en .
+
+wd:Q17147733 a wd:Q9143 ;
+    rdfs:label "Swift"@en .
+
+wd:Q17148785 a wd:Q9143 ;
+    rdfs:label "Mouse"@en .
+
+wd:Q17162806 a wd:Q9143 ;
+    rdfs:label "PROSE"@en .
+
+wd:Q17173292 a wd:Q80006 ;
+    rdfs:label "Q17173292"^^xsd:string .
+
+wd:Q1717800 a wd:Q9143 ;
+    rdfs:label "Spec#"@en .
+
+wd:Q1719128 a wd:Q9143 ;
+    rdfs:label "PL/0"@en .
+
+wd:Q1725430 a wd:Q1914636 ;
+    rdfs:label "lawmaking"@en .
+
+wd:Q17305180 a wd:Q1914636 ;
+    rdfs:label "urban development"@en .
+
+wd:Q17308314 a wd:Q1914636 ;
+    rdfs:label "Bellfounding"@en .
+
+wd:Q17318037 a wd:Q1914636 ;
+    rdfs:label "waste picking"@en .
+
+wd:Q1733877 a wd:Q9143 ;
+    rdfs:label "PONIE"@en .
+
+wd:Q17344835 a wd:Q1914636 ;
+    rdfs:label "songwriting"@en .
+
+wd:Q1744214 a wd:Q1914636 ;
+    rdfs:label "Q1744214"^^xsd:string .
+
+wd:Q174841 a wd:Q9143 ;
+    rdfs:label "IBM BASIC"@en .
+
+wd:Q1748655 a wd:Q1914636 ;
+    rdfs:label "Corporate foresight"@en .
+
+wd:Q1753410 a wd:Q9143 ;
+    rdfs:label "XBase++"@en .
+
+wd:Q1753474 a wd:Q9143 ;
+    rdfs:label "Locomotive BASIC"@en .
+
+wd:Q1753738 a wd:Q9143 ;
+    rdfs:label "structured text"@en .
+
+wd:Q1753898 a wd:Q9143 ;
+    rdfs:label "Turbo-Basic XL"@en .
+
+wd:Q1754079 a wd:Q9143 ;
+    rdfs:label "TMG"@en .
+
+wd:Q1754680 a wd:Q9143 ;
+    rdfs:label "Ook!"@en .
+
+wd:Q17554390 a wd:Q1914636 ;
+    rdfs:label "resting"@en .
+
+wd:Q1756018 a wd:Q9143 ;
+    rdfs:label "Microsoft Macro Assembler"@en .
+
+wd:Q17572748 a wd:Q1914636 ;
+    rdfs:label "begging"@en .
+
+wd:Q1762591 a wd:Q1914636 ;
+    rdfs:label "diagnostic test"@en .
+
+wd:Q17634596 a wd:Q1914636 ;
+    rdfs:label "website maintenance"@en .
+
+wd:Q176984 a wd:Q9143 ;
+    rdfs:label "UCSD Pascal"@en .
+
+wd:Q1775182 a wd:Q9143 ;
+    rdfs:label "Leda"@en .
+
+wd:Q177719 a wd:Q1914636 ;
+    rdfs:label "medical diagnosis"@en .
+
+wd:Q1777233 a wd:Q9143 ;
+    rdfs:label "Dialect"@en .
+
+wd:Q1777659 a wd:Q9143 ;
+    rdfs:label "SuperBASIC"@en .
+
+wd:Q177873 a wd:Q9143 ;
+    rdfs:label "XUpdate"@en .
+
+wd:Q1779923 a wd:Q9143 ;
+    rdfs:label "Paradox"@en .
+
+wd:Q1783709 a wd:Q9143 ;
+    rdfs:label "Not Quite C"@en .
+
+wd:Q178481 a wd:Q241317 ;
+    rdfs:label "X Window System"@en .
+
+wd:Q1785511 a wd:Q9143 ;
+    rdfs:label "Not eXactly C"@en .
+
+wd:Q178817 a wd:Q9143 ;
+    rdfs:label "ASP.NET"@en .
+
+wd:Q1788178 a wd:Q1914636 ;
+    rdfs:label "Finding of the True Cross"@en .
+
+wd:Q1790516 a wd:Q1914636 ;
+    rdfs:label "language culture"@en .
+
+wd:Q17911657 a wd:Q1914636 ;
+    rdfs:label "taphophilia"@en .
+
+wd:Q179415 a wd:Q205961 ;
+    rdfs:label "massage"@en .
+
+wd:Q1798284 a wd:Q1993334,
+        wd:Q9143 ;
+    rdfs:label "LPC"@en .
+
+wd:Q1802953 a wd:Q1914636 ;
+    rdfs:label "Präsenzdienst"@en .
+
+wd:Q18029891 a wd:Q9143 ;
+    rdfs:label "Wyvern"@en .
+
+wd:Q1807379 a wd:Q9143 ;
+    rdfs:label "Game Maker Language"@en .
+
+wd:Q1812200 a wd:Q179310 ;
+    rdfs:label "idle"@en .
+
+wd:Q1813455 a wd:Q1914636 ;
+    rdfs:label "Lehrgang"@en .
+
+wd:Q18148451 a wd:Q9143 ;
+    rdfs:label "Bio7"@en .
+
+wd:Q18202981 a wd:Q9143 ;
+    rdfs:label "Blockly"@en .
+
+wd:Q18207130 a wd:Q1914636 ;
+    rdfs:label "flight-sharing"@en .
+
+wd:Q18207148 a wd:Q9143 ;
+    rdfs:label "Flowgorithm"@en .
+
+wd:Q18215974 a wd:Q9143 ;
+    rdfs:label "Raptor"@en .
+
+wd:Q18216034 a wd:Q9143 ;
+    rdfs:label "Visual Logic"@en .
+
+wd:Q1823021 a wd:Q9143 ;
+    rdfs:label "Liberty BASIC"@en .
+
+wd:Q182933 a wd:Q241317 ;
+    rdfs:label "x86"@en .
+
+wd:Q18379236 a wd:Q9143 ;
+    rdfs:label "bs"@en .
+
+wd:Q18382459 a wd:Q1914636 ;
+    rdfs:label "passenger airline service"@en .
+
+wd:Q18388455 a wd:Q9143 ;
+    rdfs:label "Telescript"@en .
+
+wd:Q18395593 a wd:Q9143 ;
+    rdfs:label "Wyvern"@en .
+
+wd:Q18415077 a wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "Pliant"@en .
+
+wd:Q18506524 a wd:Q1914636 ;
+    rdfs:label "Mazze"@en .
+
+wd:Q18523854 a wd:Q1914636 ;
+    rdfs:label "stage management"@en .
+
+wd:Q1852616 a wd:Q9143 ;
+    rdfs:label "X10"@en .
+
+wd:Q18543534 a wd:Q1914636 ;
+    rdfs:label "Q18543534"^^xsd:string .
+
+wd:Q185733 a wd:Q1914636 ;
+    rdfs:label "philanthropy"@en .
+
+wd:Q1859276 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "XL"@en .
+
+wd:Q18608406 a wd:Q1914636 ;
+    rdfs:label "mushing"@en .
+
+wd:Q18629564 a wd:Q9143 ;
+    rdfs:label "Open Roberta"@en .
+
+wd:Q1864529 a wd:Q9143 ;
+    rdfs:label "Self"@en .
+
+wd:Q18646422 a wd:Q1914636 ;
+    rdfs:label "confectionery"@en .
+
+wd:Q1865057 a wd:Q9143 ;
+    rdfs:label "Lite-C"@en .
+
+wd:Q18697160 a wd:Q1914636 ;
+    rdfs:label "golf ball diver"@en .
+
+wd:Q18700335 a wd:Q9143 ;
+    rdfs:label "XcalableMP"@en .
+
+wd:Q187094 a wd:Q1914636 ;
+    rdfs:label "time comparison"@en .
+
+wd:Q18711761 a wd:Q9143 ;
+    rdfs:label "Ur/Web"@en .
+
+wd:Q18749628 a wd:Q1914636 ;
+    rdfs:label "regulatory affairs"@en .
+
+wd:Q187560 a wd:Q12772052,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Scheme"@en .
+
+wd:Q1881539 a wd:Q9143 ;
+    rdfs:label "MIXAL"@en .
+
+wd:Q1882071 a wd:Q1993334,
+        wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "MUMPS"@en .
+
+wd:Q1882973 a wd:Q9143 ;
+    rdfs:label "Maclisp"@en .
+
+wd:Q188436 a wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "ALGOL"@en .
+
+wd:Q188494 a wd:Q1914636 ;
+    rdfs:label "witch hunt"@en .
+
+wd:Q188531 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "Objective-C"@en .
+
+wd:Q1886145 a wd:Q9143 ;
+    rdfs:label "Piet"@en .
+
+wd:Q188844 a wd:Q1914636 ;
+    rdfs:label "volunteering"@en .
+
+wd:Q189248 a wd:Q9143 ;
+    rdfs:label "GNU Bash"@en .
+
+wd:Q189439 a wd:Q1914636 ;
+    rdfs:label "version control"@en .
+
+wd:Q1895587 a wd:Q9143 ;
+    rdfs:label "Alef"@en .
+
+wd:Q18965699 a wd:Q9143 ;
+    rdfs:label "Cilk++"@en .
+
+wd:Q190902 a wd:Q1914636 ;
+    rdfs:label "Zentrierung"@en .
+
+wd:Q191342 a wd:Q241317 ;
+    rdfs:label "LAMP"@en .
+
+wd:Q192013 a wd:Q1914636 ;
+    rdfs:label "Zerscherbung"@en .
+
+wd:Q1920640 a wd:Q1914636 ;
+    rdfs:label "Utrecht Museum Night"@en .
+
+wd:Q1926748 a wd:Q1914636 ;
+    rdfs:label "Q1926748"^^xsd:string .
+
+wd:Q1928222 a wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "Modula-3"@en .
+
+wd:Q1929075 a wd:Q187432 ;
+    rdfs:label "Pawn"@en .
+
+wd:Q193181 a wd:Q1914636 ;
+    rdfs:label "observation"@en .
+
+wd:Q1932115 a wd:Q1914636 ;
+    rdfs:label "degustation"@en .
+
+wd:Q193321 a wd:Q241317 ;
+    rdfs:label "Java Virtual Machine"@en .
+
+wd:Q19359146 a wd:Q1914636 ;
+    rdfs:label "Q19359146"^^xsd:string .
+
+wd:Q1938241 a wd:Q1914636 ;
+    rdfs:label "Q1938241"^^xsd:string .
+
+wd:Q193828 a wd:Q241317 ;
+    rdfs:label "Java Platform, Micro Edition"@en .
+
+wd:Q194189 a wd:Q1914636 ;
+    rdfs:label "sales"@en .
+
+wd:Q1942241 a wd:Q9143 ;
+    rdfs:label "Modula-2+"@en .
+
+wd:Q1957816 a wd:Q1914636 ;
+    rdfs:label "design of furniture"@en .
+
+wd:Q195929 a wd:Q9143 ;
+    rdfs:label "FreeBASIC"@en .
+
+wd:Q19604141 a wd:Q9143 ;
+    rdfs:label "Blub"@en .
+
+wd:Q1961801 a wd:Q1914636 ;
+    rdfs:label "microfilming"@en .
+
+wd:Q1963461 a wd:Q9143 ;
+    rdfs:label "OpenEdge Advanced Business Language"@en .
+
+wd:Q1965525 a wd:Q187432 ;
+    rdfs:label "Nasal"@en .
+
+wd:Q1966202 a wd:Q9143 ;
+    rdfs:label "FOCAL"@en .
+
+wd:Q196720 a wd:Q1914636 ;
+    rdfs:label "Zerstäuben"@en .
+
+wd:Q19729219 a wd:Q241317 ;
+    rdfs:label "NodeMCU"@en .
+
+wd:Q197708 a wd:Q9143 ;
+    rdfs:label "C++/CX"@en .
+
+wd:Q19794820 a wd:Q1914636 ;
+    rdfs:label "stonemasonry"@en .
+
+wd:Q19834025 a wd:Q1914636 ;
+    rdfs:label "Q19834025"^^xsd:string .
+
+wd:Q19843694 a wd:Q1914636 ;
+    rdfs:label "Animal husbandry in France"@en .
+
+wd:Q19845290 a wd:Q9143 ;
+    rdfs:label "HC-BASIC"@en .
+
+wd:Q1984753 a wd:Q9143 ;
+    rdfs:label "Nice"@en .
+
+wd:Q198938 a wd:Q1914636 ;
+    rdfs:label "Zielansprache"@en .
+
+wd:Q198969 a wd:Q205961 ;
+    rdfs:label "Targeting accuracy"@en .
+
+wd:Q199001 a wd:Q1914636 ;
+    rdfs:label "Target object search (dog sports)"@en .
+
+wd:Q1990502 a wd:Q1914636 ;
+    rdfs:label "LJ"@en .
+
+wd:Q1992891 a wd:Q1914636 ;
+    rdfs:label "Q1992891"^^xsd:string .
+
+wd:Q19944901 a wd:Q1914636 ;
+    rdfs:label "goldbeating"@en .
+
+wd:Q19991564 a wd:Q1914636 ;
+    rdfs:label "Q19991564"^^xsd:string .
+
+wd:Q2003932 a wd:Q9143 ;
+    rdfs:label "SAS"@en .
+
+wd:Q2005 a wd:Q1051282,
+        wd:Q1135914,
+        wd:Q12772052,
+        wd:Q180868,
+        wd:Q187432,
+        wd:Q193076,
+        wd:Q1993334,
+        wd:Q21562092,
+        wd:Q241317,
+        wd:Q275596,
+        wd:Q28920810,
+        wd:Q28920813,
+        wd:Q30267,
+        wd:Q3839507 ;
+    rdfs:label "JavaScript"@en .
+
+wd:Q20056130 a wd:Q121359 ;
+    rdfs:label "Manaus Infrastructure"@en .
+
+wd:Q2005972 a wd:Q9143 ;
+    rdfs:label "JAL"@en .
+
+wd:Q20080327 a wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "Nim"@en .
+
+wd:Q2008191 a wd:Q9143 ;
+    rdfs:label "OTX"@en .
+
+wd:Q20085854 a wd:Q1914636 ;
+    rdfs:label "vigilantism"@en .
+
+wd:Q201436 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Logo"@en .
+
+wd:Q20191854 a wd:Q1914636 ;
+    rdfs:label "Q20191854"^^xsd:string .
+
+wd:Q2024920 a wd:Q9143 ;
+    rdfs:label "Opal"@en .
+
+wd:Q20311195 a wd:Q9143 ;
+    rdfs:label "Abbreviated Language For Authorization"@en .
+
+wd:Q2038042 a wd:Q9143 ;
+    rdfs:label "OttoQL"@en .
+
+wd:Q2040532 a wd:Q1914636 ;
+    rdfs:label "event planning"@en .
+
+wd:Q204222 a wd:Q9143 ;
+    rdfs:label "Korn shell"@en .
+
+wd:Q2043979 a wd:Q9143 ;
+    rdfs:label "PEARL"@en .
+
+wd:Q2044212 a wd:Q9143 ;
+    rdfs:label "PILOT"@en .
+
+wd:Q2044321 a wd:Q9143 ;
+    rdfs:label "IBM PL/S"@en .
+
+wd:Q2044345 a wd:Q9143 ;
+    rdfs:label "PL/pgSQL"@en .
+
+wd:Q2044500 a wd:Q9143 ;
+    rdfs:label "POW!"@en .
+
+wd:Q204693 a wd:Q9143 ;
+    rdfs:label "Karel"@en .
+
+wd:Q20479 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Agda"@en .
+
+wd:Q2052676 a wd:Q9143 ;
+    rdfs:label "Raku"@en .
+
+wd:Q206040 a wd:Q12772052,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Mercury"@en .
+
+wd:Q20665104 a wd:Q9143 ;
+    rdfs:label "Ada 95"@en .
+
+wd:Q20665106 a wd:Q9143 ;
+    rdfs:label "Ada 83"@en .
+
+wd:Q20665166 a wd:Q9143 ;
+    rdfs:label "Ada 80"@en .
+
+wd:Q20665174 a wd:Q9143 ;
+    rdfs:label "Ada 2012"@en .
+
+wd:Q20670531 a wd:Q241317 ;
+    rdfs:label "iPod Touch 6"@en .
+
+wd:Q2067286 a wd:Q241317 ;
+    rdfs:label "Pegasos"@en .
+
+wd:Q206904 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "R"@en .
+
+wd:Q2072087 a wd:Q9143 ;
+    rdfs:label "P′′"@en .
+
+wd:Q207316 a wd:Q12772052,
+        wd:Q187432,
+        wd:Q1993334,
+        wd:Q21562092,
+        wd:Q28920810,
+        wd:Q3839507 ;
+    rdfs:label "Lua"@en .
+
+wd:Q2074276 a wd:Q1914636 ;
+    rdfs:label "powered paragliding"@en .
+
+wd:Q20828869 a wd:Q9143 ;
+    rdfs:label "RBASIC"@en .
+
+wd:Q2084386 a wd:Q241317,
+        wd:Q9143 ;
+    rdfs:label "URBI"@en .
+
+wd:Q2084518 a wd:Q1914636 ;
+    rdfs:label "Q2084518"^^xsd:string .
+
+wd:Q20870787 a wd:Q1993334,
+        wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "Octave"@en .
+
+wd:Q20875604 a wd:Q9143 ;
+    rdfs:label "DUP programming language"@en .
+
+wd:Q20888355 a wd:Q9143 ;
+    rdfs:label "Arendelle"@en .
+
+wd:Q209455 a wd:Q9143 ;
+    rdfs:label "VHDL"@en .
+
+wd:Q2095090 a wd:Q9143 ;
+    rdfs:label "Unified Parallel C"@en .
+
+wd:Q209572 a wd:Q1914636 ;
+    rdfs:label "military service"@en .
+
+wd:Q20976736 a wd:Q1914636 ;
+    rdfs:label "scheduled international air service"@en .
+
+wd:Q20976813 a wd:Q1914636 ;
+    rdfs:label "international air service"@en .
+
+wd:Q20976913 a wd:Q1914636 ;
+    rdfs:label "commercial air service"@en .
+
+wd:Q20977792 a wd:Q1914636 ;
+    rdfs:label "domestic air service"@en .
+
+wd:Q20978155 a wd:Q1914636 ;
+    rdfs:label "scheduled domestic air service"@en .
+
+wd:Q209860 a wd:Q241317 ;
+    rdfs:label "PowerPC"@en .
+
+wd:Q21004260 a wd:Q1914636 ;
+    rdfs:label "inquiry"@en .
+
+wd:Q21009914 a wd:Q1914636 ;
+    rdfs:label "Q21009914"^^xsd:string .
+
+wd:Q21051492 a wd:Q9143 ;
+    rdfs:label "FileMaker Script"@en .
+
+wd:Q21055605 a wd:Q9143 ;
+    rdfs:label "Pixie"@en .
+
+wd:Q21056537 a wd:Q9143 ;
+    rdfs:label "ANSYS Parametric Design Language"@en .
+
+wd:Q2111340 a wd:Q9143 ;
+    rdfs:label "Pro*C"@en .
+
+wd:Q2112198 a wd:Q9143 ;
+    rdfs:label "PROGRES"@en .
+
+wd:Q2114846 a wd:Q1914636 ;
+    rdfs:label "zoological specimen"@en .
+
+wd:Q211557 a wd:Q1914636 ;
+    rdfs:label "bequest"@en .
+
+wd:Q2117267 a wd:Q9143 ;
+    rdfs:label "Puck"@en .
+
+wd:Q2118858 a wd:Q9143 ;
+    rdfs:label "PureBasic"@en .
+
+wd:Q2119351 a wd:Q187432 ;
+    rdfs:label "Fenix Project"@en .
+
+wd:Q2122062 a wd:Q187432 ;
+    rdfs:label "QuakeC"@en .
+
+wd:Q21228187 a wd:Q1914636 ;
+    rdfs:label "Q21228187"^^xsd:string .
+
+wd:Q212569 a wd:Q9143 ;
+    rdfs:label "Simula"@en .
+
+wd:Q212587 a wd:Q12772052,
+        wd:Q21562092,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "OCaml"@en .
+
+wd:Q213449 a wd:Q1914636 ;
+    rdfs:label "eating"@en .
+
+wd:Q2134714 a wd:Q9143 ;
+    rdfs:label "Real-time bidding"@en .
+
+wd:Q213970 a wd:Q187432 ;
+    rdfs:label "AWK"@en .
+
+wd:Q214092 a wd:Q1914636 ;
+    rdfs:label "patronage"@en .
+
+wd:Q2141460 a wd:Q241317 ;
+    rdfs:label "IBM Z"@en .
+
+wd:Q2143563 a wd:Q9143 ;
+    rdfs:label "Uniface"@en .
+
+wd:Q21467844 a wd:Q9143 ;
+    rdfs:label "Vienna Definition Language"@en .
+
+wd:Q214912 a wd:Q1914636 ;
+    rdfs:label "hitchhiking"@en .
+
+wd:Q21524853 a wd:Q9143 ;
+    rdfs:label "Comfy"@en .
+
+wd:Q2153520 a wd:Q629206 ;
+    rdfs:label "Ring Tone Transfer Language"@en .
+
+wd:Q21550668 a wd:Q1914636 ;
+    rdfs:label "illustration"@en .
+
+wd:Q21577202 a wd:Q9143 ;
+    rdfs:label "Gambas"@en .
+
+wd:Q2160963 a wd:Q9143 ;
+    rdfs:label "PL/M"@en .
+
+wd:Q216192 a wd:Q241317 ;
+    rdfs:label "Cygwin"@en .
+
+wd:Q21622213 a wd:Q241317 ;
+    rdfs:label ".NET Core"@en .
+
+wd:Q2162372 a wd:Q1914636 ;
+    rdfs:label "pipe fitting"@en .
+
+wd:Q2166735 a wd:Q9143 ;
+    rdfs:label "ALGOL 68"@en .
+
+wd:Q2170617 a wd:Q629206 ;
+    rdfs:label "Routing Policy Specification Language"@en .
+
+wd:Q2179317 a wd:Q1914636 ;
+    rdfs:label "Q2179317"^^xsd:string .
+
+wd:Q218170 a wd:Q1993334,
+        wd:Q9143 ;
+    rdfs:label "PostScript"@en .
+
+wd:Q218537 a wd:Q1914636 ;
+    rdfs:label "customs clearance"@en .
+
+wd:Q218582 a wd:Q1914636 ;
+    rdfs:label "Zollbeschau"@en .
+
+wd:Q218719 a wd:Q1914636 ;
+    rdfs:label "border control"@en .
+
+wd:Q2188678 a wd:Q1914636 ;
+    rdfs:label "bus spotting"@en .
+
+wd:Q21921428 a wd:Q9143 ;
+    rdfs:label "Crystal"@en .
+
+wd:Q219959 a wd:Q9143 ;
+    rdfs:label "Zonnon"@en .
+
+wd:Q2200492 a wd:Q1914636 ;
+    rdfs:label "Q2200492"^^xsd:string .
+
+wd:Q2204794 a wd:Q9143 ;
+    rdfs:label "Stanford Artificial Intelligence Language"@en .
+
+wd:Q2205923 a wd:Q9143 ;
+    rdfs:label "SETL"@en .
+
+wd:Q2206739 a wd:Q9143 ;
+    rdfs:label "SMIL Timesheets"@en .
+
+wd:Q22095795 a wd:Q12772052,
+        wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "eC"@en .
+
+wd:Q2210114 a wd:Q9143 ;
+    rdfs:label "SabreTalk"@en .
+
+wd:Q22261015 a wd:Q1914636 ;
+    rdfs:label "Q22261015"^^xsd:string .
+
+wd:Q223433 a wd:Q9143 ;
+    rdfs:label "PL/I"@en .
+
+wd:Q223679 a wd:Q9143 ;
+    rdfs:label "GNU Octave"@en .
+
+wd:Q22443688 a wd:Q9143 ;
+    rdfs:label "Karel++"@en .
+
+wd:Q2251017 a wd:Q9143 ;
+    rdfs:label "Dartmouth BASIC"@en .
+
+wd:Q2251595 a wd:Q1914636 ;
+    rdfs:label "protection"@en .
+
+wd:Q2251622 a wd:Q9143 ;
+    rdfs:label "Nessus Attack Scripting Language"@en .
+
+wd:Q2259392 a wd:Q9143 ;
+    rdfs:label "Jess"@en .
+
+wd:Q22661291 a wd:Q9143 ;
+    rdfs:label "Hy"@en .
+
+wd:Q22668 a wd:Q39487140 ;
+    rdfs:label "Principle of least astonishment"@en .
+
+wd:Q22670002 a wd:Q9143 ;
+    rdfs:label "Albatross"@en .
+
+wd:Q22681958 a wd:Q9143 ;
+    rdfs:label "Golo"@en .
+
+wd:Q22695923 a wd:Q9143 ;
+    rdfs:label "PL/X"@en .
+
+wd:Q22696099 a wd:Q9143 ;
+    rdfs:label "Programming Language for Distributed Systems"@en .
+
+wd:Q22709094 a wd:Q9143 ;
+    rdfs:label "HolyC"@en .
+
+wd:Q228163 a wd:Q1914636 ;
+    rdfs:label "Zuerwerb"@en .
+
+wd:Q228438 a wd:Q1914636 ;
+    rdfs:label "Zuglenkung"@en .
+
+wd:Q22906986 a wd:Q9143 ;
+    rdfs:label "MLAB"@en .
+
+wd:Q22907016 a wd:Q9143 ;
+    rdfs:label "ModernPascal"@en .
+
+wd:Q22908852 a wd:Q9143 ;
+    rdfs:label "Smart Pascal"@en .
+
+wd:Q22909519 a wd:Q9143 ;
+    rdfs:label "Tynker"@en .
+
+wd:Q2293187 a wd:Q9143 ;
+    rdfs:label "xHarbour"@en .
+
+wd:Q2293248 a wd:Q9143 ;
+    rdfs:label "FALSE"@en .
+
+wd:Q2293738 a wd:Q9143 ;
+    rdfs:label "Slate"@en .
+
+wd:Q22981701 a wd:Q9143 ;
+    rdfs:label "Delta COBOL"@en .
+
+wd:Q2298909 a wd:Q9143 ;
+    rdfs:label "Unobtrusive JavaScript"@en .
+
+wd:Q2299300 a wd:Q9143 ;
+    rdfs:label "Data Language Interface"@en .
+
+wd:Q230106 a wd:Q1914636 ;
+    rdfs:label "Zungenstoß"@en .
+
+wd:Q2304418 a wd:Q1914636 ;
+    rdfs:label "locksmithing"@en .
+
+wd:Q2306047 a wd:Q1914636 ;
+    rdfs:label "pest control"@en .
+
+wd:Q2313213 a wd:Q1914636 ;
+    rdfs:label "language teaching"@en .
+
+wd:Q2314618 a wd:Q1914636 ;
+    rdfs:label "forensic identification"@en .
+
+wd:Q2321567 a wd:Q9143 ;
+    rdfs:label "ObjectStar"@en .
+
+wd:Q232903 a wd:Q1914636 ;
+    rdfs:label "dual combat"@en .
+
+wd:Q2334477 a wd:Q1914636 ;
+    rdfs:label "stowage"@en .
+
+wd:Q23378244 a wd:Q9143 ;
+    rdfs:label "PL/8"@en .
+
+wd:Q2340775 a wd:Q1914636 ;
+    rdfs:label "Maske Begrave"@en .
+
+wd:Q234657 a wd:Q12772052,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "ActionScript"@en .
+
+wd:Q2347334 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "CPL"@en .
+
+wd:Q2348670 a wd:Q1914636 ;
+    rdfs:label "millstone dressing"@en .
+
+wd:Q2349274 a wd:Q9143 ;
+    rdfs:label "Planner"@en .
+
+wd:Q235086 a wd:Q9143 ;
+    rdfs:label "Smalltalk"@en .
+
+wd:Q2350995 a wd:Q1914636 ;
+    rdfs:label "plastering"@en .
+
+wd:Q2354985 a wd:Q1914636 ;
+    rdfs:label "road maintenance"@en .
+
+wd:Q2357042 a wd:Q9143 ;
+    rdfs:label "Strongtalk"@en .
+
+wd:Q23581415 a wd:Q1914636 ;
+    rdfs:label "Lead abatement"@en .
+
+wd:Q2364913 a wd:Q9143 ;
+    rdfs:label "Managed Extensions for C++"@en .
+
+wd:Q23653623 a wd:Q9143 ;
+    rdfs:label "Whiley"@en .
+
+wd:Q2366 a wd:Q187432 ;
+    rdfs:label "AngelScript"@en .
+
+wd:Q23663311 a wd:Q9143 ;
+    rdfs:label "Beatnik"@en .
+
+wd:Q2367280 a wd:Q9143 ;
+    rdfs:label "Superbase database"@en .
+
+wd:Q2368856 a wd:Q12772052,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Curry"@en .
+
+wd:Q2370 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "C#"@en .
+
+wd:Q2378 a wd:Q28920813,
+        wd:Q9143 ;
+    rdfs:label "Visual Basic"@en .
+
+wd:Q238106 a wd:Q9143 ;
+    rdfs:label "4DOS"@en .
+
+wd:Q2384396 a wd:Q9143 ;
+    rdfs:label "TI BASIC"@en .
+
+wd:Q238559 a wd:Q1914636 ;
+    rdfs:label "5-point check"@en .
+
+wd:Q2386093 a wd:Q1914636 ;
+    rdfs:label "Q2386093"^^xsd:string .
+
+wd:Q2391267 a wd:Q9143 ;
+    rdfs:label "Mozart Programming System"@en .
+
+wd:Q2391676 a wd:Q1914636 ;
+    rdfs:label "mushroom hunting"@en .
+
+wd:Q239406 a wd:Q9143 ;
+    rdfs:label "Standard ML of New Jersey"@en .
+
+wd:Q2396581 a wd:Q1914636 ;
+    rdfs:label "cooperage"@en .
+
+wd:Q24027074 a wd:Q9143 ;
+    rdfs:label "Openmodelica"@en .
+
+wd:Q2407 a wd:Q12772052,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "C++"@en .
+
+wd:Q24090648 a wd:Q1914636 ;
+    rdfs:label "Q24090648"^^xsd:string .
+
+wd:Q2409338 a wd:Q1914636 ;
+    rdfs:label "Q2409338"^^xsd:string .
+
+wd:Q2410234 a wd:Q1914636 ;
+    rdfs:label "transloading"@en .
+
+wd:Q24161734 a wd:Q1914636 ;
+    rdfs:label "Q24161734"^^xsd:string .
+
+wd:Q2418755 a wd:Q1914636 ;
+    rdfs:label "Q2418755"^^xsd:string .
+
+wd:Q2423764 a wd:Q9143 ;
+    rdfs:label "Physically Based Rendering Modeling Language"@en .
+
+wd:Q2428476 a wd:Q9143 ;
+    rdfs:label "Modula"@en .
+
+wd:Q2434422 a wd:Q1914636 ;
+    rdfs:label "Q2434422"^^xsd:string .
+
+wd:Q2437099 a wd:Q9143 ;
+    rdfs:label "Object REXX"@en .
+
+wd:Q2438046 a wd:Q9143 ;
+    rdfs:label "Arc"@en .
+
+wd:Q24398318 a wd:Q121359 ;
+    rdfs:label "religious building"@en .
+
+wd:Q244627 a wd:Q9143 ;
+    rdfs:label "Brainfuck"@en .
+
+wd:Q2463067 a wd:Q9143 ;
+    rdfs:label "QB64"@en .
+
+wd:Q24641054 a wd:Q9143 ;
+    rdfs:label "PROSA"@en .
+
+wd:Q2467824 a wd:Q1914636 ;
+    rdfs:label "driving"@en .
+
+wd:Q2474068 a wd:Q1914636 ;
+    rdfs:label "cosmetology"@en .
+
+wd:Q24909565 a wd:Q9143 ;
+    rdfs:label "Solidity"@en .
+
+wd:Q2502073 a wd:Q9143 ;
+    rdfs:label "Noop"@en .
+
+wd:Q25024981 a wd:Q80006 ;
+    rdfs:label "CodeCombat"@en .
+
+wd:Q2507721 a wd:Q9143 ;
+    rdfs:label "FoxPro"@en .
+
+wd:Q251 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "Java"@en .
+
+wd:Q25100572 a wd:Q9143 ;
+    rdfs:label "XLNT"@en .
+
+wd:Q25104949 a wd:Q9143 ;
+    rdfs:label "GraphQL"@en .
+
+wd:Q25111344 a wd:Q9143 ;
+    rdfs:label "Updated 7m cn livescore football results the fastest, the earliest in the world."@en .
+
+wd:Q25111997 a wd:Q9143 ;
+    rdfs:label "B4X"@en .
+
+wd:Q25112324 a wd:Q9143 ;
+    rdfs:label "SWAF"@en .
+
+wd:Q2512021 a wd:Q1914636 ;
+    rdfs:label "lumières"@en .
+
+wd:Q2516616 a wd:Q1914636 ;
+    rdfs:label "loading"@en .
+
+wd:Q25212795 a wd:Q9143 ;
+    rdfs:label "Dice"@en .
+
+wd:Q25215425 a wd:Q9143 ;
+    rdfs:label "P4"@en .
+
+wd:Q252340 a wd:Q9143 ;
+    rdfs:label "Common Lisp Object System"@en .
+
+wd:Q2524362 a wd:Q9143 ;
+    rdfs:label "ColdFusion Markup Language"@en .
+
+wd:Q25245640 a wd:Q9143 ;
+    rdfs:label "KUKA Robot Language"@en .
+
+wd:Q25277828 a wd:Q187432 ;
+    rdfs:label "Viola"@en .
+
+wd:Q252802 a wd:Q1914636 ;
+    rdfs:label "ostracism"@en .
+
+wd:Q25303708 a wd:Q9143 ;
+    rdfs:label "Hierarchical Editing Language for Macromolecules"@en .
+
+wd:Q25304718 a wd:Q9143 ;
+    rdfs:label "JSFuck"@en .
+
+wd:Q25313488 a wd:Q9143 ;
+    rdfs:label "X#"@en .
+
+wd:Q25339766 a wd:Q9143 ;
+    rdfs:label "STELLA"@en .
+
+wd:Q25344555 a wd:Q1914636 ;
+    rdfs:label "professional organizing"@en .
+
+wd:Q25344700 a wd:Q9143 ;
+    rdfs:label "Disk Extended Color BASIC"@en .
+
+wd:Q25345888 a wd:Q9143 ;
+    rdfs:label "Qore"@en .
+
+wd:Q25345930 a wd:Q9143 ;
+    rdfs:label "Citrine"@en .
+
+wd:Q25345964 a wd:Q9143 ;
+    rdfs:label "Janus"@en .
+
+wd:Q2535515 a wd:Q9143 ;
+    rdfs:label "vvvv"@en .
+
+wd:Q25379611 a wd:Q1914636 ;
+    rdfs:label "Q25379611"^^xsd:string .
+
+wd:Q25379932 a wd:Q9143 ;
+    rdfs:label "Neo Sign 0f Misery"@en .
+
+wd:Q25384242 a wd:Q9143 ;
+    rdfs:label "RCML"@en .
+
+wd:Q25385679 a wd:Q9143 ;
+    rdfs:label "CSS preprocessor"@en .
+
+wd:Q2538907 a wd:Q1914636 ;
+    rdfs:label "arms trade"@en .
+
+wd:Q25394435 a wd:Q9143 ;
+    rdfs:label "Kaya"@en .
+
+wd:Q25395189 a wd:Q9143 ;
+    rdfs:label "LTR"@en .
+
+wd:Q25401338 a wd:Q1914636 ;
+    rdfs:label "Q25401338"^^xsd:string .
+
+wd:Q25402184 a wd:Q241317 ;
+    rdfs:label "Yeeply"@en .
+
+wd:Q2540428 a wd:Q1914636 ;
+    rdfs:label "Q2540428"^^xsd:string .
+
+wd:Q2544816 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "Harbour"@en .
+
+wd:Q25461692 a wd:Q9143 ;
+    rdfs:label "SuperNova"@en .
+
+wd:Q25462748 a wd:Q9143 ;
+    rdfs:label "Ring"@en .
+
+wd:Q2560076 a wd:Q9143 ;
+    rdfs:label "Abbreviated Test Language for All Systems"@en .
+
+wd:Q256320 a wd:Q1914636 ;
+    rdfs:label "Equivalence Exchange"@en .
+
+wd:Q2566011 a wd:Q9143 ;
+    rdfs:label "Short Code"@en .
+
+wd:Q256879 a wd:Q1914636 ;
+    rdfs:label "Aestheticization"@en .
+
+wd:Q2569373 a wd:Q9143 ;
+    rdfs:label "Cilk"@en .
+
+wd:Q258778 a wd:Q9143 ;
+    rdfs:label "Extensible Application Markup Language"@en .
+
+wd:Q259138 a wd:Q1051282,
+        wd:Q1135914,
+        wd:Q12772052,
+        wd:Q180868,
+        wd:Q193076,
+        wd:Q275596,
+        wd:Q30267,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "ECMAScript"@en .
+
+wd:Q25931702 a wd:Q1914636 ;
+    rdfs:label "sleeping"@en .
+
+wd:Q2593394 a wd:Q9143 ;
+    rdfs:label "WordBASIC"@en .
+
+wd:Q2597533 a wd:Q629206 ;
+    rdfs:label "XML-QL"@en .
+
+wd:Q2597563 a wd:Q9143 ;
+    rdfs:label "XProfan"@en .
+
+wd:Q2598347 a wd:Q1914636 ;
+    rdfs:label "car spotting"@en .
+
+wd:Q2602017 a wd:Q1914636 ;
+    rdfs:label "human branding"@en .
+
+wd:Q260906 a wd:Q1914636 ;
+    rdfs:label "camping"@en .
+
+wd:Q2613697 a wd:Q9143 ;
+    rdfs:label "Julia"@en .
+
+wd:Q262003 a wd:Q9143 ;
+    rdfs:label "Newsqueak"@en .
+
+wd:Q26208537 a wd:Q1914636 ;
+    rdfs:label "Q26208537"^^xsd:string .
+
+wd:Q262238 a wd:Q241317 ;
+    rdfs:label "IA-32"@en .
+
+wd:Q2623912 a wd:Q9143 ;
+    rdfs:label "Leet"@en .
+
+wd:Q2626413 a wd:Q12772052,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Nemerle"@en .
+
+wd:Q2626418 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Refal"@en .
+
+wd:Q2629837 a wd:Q1914636 ;
+    rdfs:label "Q2629837"^^xsd:string .
+
+wd:Q2630324 a wd:Q9143 ;
+    rdfs:label "High Level Assembly"@en .
+
+wd:Q263490 a wd:Q9143 ;
+    rdfs:label "AS/400 Control Language"@en .
+
+wd:Q263544 a wd:Q9143 ;
+    rdfs:label "Common Intermediate Language"@en .
+
+wd:Q2640986 a wd:Q9143 ;
+    rdfs:label "Aleph"@en .
+
+wd:Q2642029 a wd:Q9143 ;
+    rdfs:label "Expect"@en .
+
+wd:Q2647901 a wd:Q9143 ;
+    rdfs:label "Prova"@en .
+
+wd:Q265039 a wd:Q9143 ;
+    rdfs:label "MSX BASIC"@en .
+
+wd:Q2658244 a wd:Q9143 ;
+    rdfs:label "E"@en .
+
+wd:Q265904 a wd:Q629206 ;
+    rdfs:label "Document Structure Description"@en .
+
+wd:Q2665141 a wd:Q9143 ;
+    rdfs:label "SWI-Prolog"@en .
+
+wd:Q2666550 a wd:Q1914636 ;
+    rdfs:label "lampworking"@en .
+
+wd:Q2671999 a wd:Q9143 ;
+    rdfs:label "DRAKON"@en .
+
+wd:Q2677243 a wd:Q9143 ;
+    rdfs:label "DRAMA"@en .
+
+wd:Q2681171 a wd:Q1914636 ;
+    rdfs:label "Q2681171"^^xsd:string .
+
+wd:Q26898104 a wd:Q9143 ;
+    rdfs:label "EXAPT"@en .
+
+wd:Q2692551 a wd:Q1914636 ;
+    rdfs:label "dewatering"@en .
+
+wd:Q2699404 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "Fantom"@en .
+
+wd:Q2699839 a wd:Q1914636 ;
+    rdfs:label "tracking"@en .
+
+wd:Q270285 a wd:Q241317 ;
+    rdfs:label "Apple TV"@en .
+
+wd:Q2707384 a wd:Q1914636 ;
+    rdfs:label "side project"@en .
+
+wd:Q2722952 a wd:Q9143 ;
+    rdfs:label "Phrogram"@en .
+
+wd:Q272629 a wd:Q241317 ;
+    rdfs:label "x86-64"@en .
+
+wd:Q272999 a wd:Q1914636 ;
+    rdfs:label "masonry"@en .
+
+wd:Q273190 a wd:Q241317 ;
+    rdfs:label "SPARC"@en .
+
+wd:Q2736535 a wd:Q1914636 ;
+    rdfs:label "military communications"@en .
+
+wd:Q2748054 a wd:Q9143 ;
+    rdfs:label "FutureBASIC"@en .
+
+wd:Q275131 a wd:Q9143 ;
+    rdfs:label "Scratch"@en .
+
+wd:Q275472 a wd:Q1993334,
+        wd:Q9143 ;
+    rdfs:label "Forth"@en .
+
+wd:Q27578833 a wd:Q9143 ;
+    rdfs:label "TouchDesigner"@en .
+
+wd:Q27690161 a wd:Q241317 ;
+    rdfs:label "Sonos Controller"@en .
+
+wd:Q277710 a wd:Q9143 ;
+    rdfs:label "A+"@en .
+
+wd:Q277713 a wd:Q9143 ;
+    rdfs:label "A-0 System"@en .
+
+wd:Q2778015 a wd:Q1914636 ;
+    rdfs:label "video capture"@en .
+
+wd:Q2778440 a wd:Q1914636 ;
+    rdfs:label "Classical guitar making"@en .
+
+wd:Q2783996 a wd:Q9143 ;
+    rdfs:label "COBOL.NET"@en .
+
+wd:Q278791 a wd:Q9143 ;
+    rdfs:label "DarkBASIC"@en .
+
+wd:Q2791660 a wd:Q9143 ;
+    rdfs:label "ObjectPAL"@en .
+
+wd:Q2795122 a wd:Q1914636 ;
+    rdfs:label "going out"@en .
+
+wd:Q27961782 a wd:Q9143 ;
+    rdfs:label "Cuis Smalltalk"@en .
+
+wd:Q27967355 a wd:Q9143 ;
+    rdfs:label "WaveGL"@en .
+
+wd:Q2802110 a wd:Q121359 ;
+    rdfs:label "Street cleaning"@en .
+
+wd:Q280221 a wd:Q1914636 ;
+    rdfs:label "interpretation"@en .
+
+wd:Q28038707 a wd:Q9143 ;
+    rdfs:label "Posity"@en .
+
+wd:Q28046771 a wd:Q9143 ;
+    rdfs:label "Milk"@en .
+
+wd:Q28126633 a wd:Q21562092 ;
+    rdfs:label "Synergy DBL"@en .
+
+wd:Q28126925 a wd:Q9143 ;
+    rdfs:label "CS-4"@en .
+
+wd:Q28136610 a wd:Q9143 ;
+    rdfs:label "EarSketch"@en .
+
+wd:Q28137119 a wd:Q179310 ;
+    rdfs:label "Crowdmapping"@en .
+
+wd:Q2816938 a wd:Q9143 ;
+    rdfs:label "IBM Informix-4GL"@en .
+
+wd:Q2818982 a wd:Q9143 ;
+    rdfs:label "Advanced Business Application Language"@en .
+
+wd:Q2818994 a wd:Q9143 ;
+    rdfs:label "Actor-Based Concurrent Language"@en .
+
+wd:Q2819526 a wd:Q9143 ;
+    rdfs:label "AT&T"@en .
+
+wd:Q2828703 a wd:Q9143 ;
+    rdfs:label "Airelle"@en .
+
+wd:Q28344182 a wd:Q9143 ;
+    rdfs:label "Programmable Command Language"@en .
+
+wd:Q28346709 a wd:Q9143 ;
+    rdfs:label "PLASMA"@en .
+
+wd:Q283534 a wd:Q1914636 ;
+    rdfs:label "recreational fishing"@en .
+
+wd:Q283791 a wd:Q1914636 ;
+    rdfs:label "family reunification"@en .
+
+wd:Q28404924 a wd:Q9143 ;
+    rdfs:label "Haggis"@en .
+
+wd:Q28415375 a wd:Q9143 ;
+    rdfs:label "BCY"@en .
+
+wd:Q28415382 a wd:Q9143 ;
+    rdfs:label "XCY"@en .
+
+wd:Q28416477 a wd:Q9143 ;
+    rdfs:label "SpiderBasic"@en .
+
+wd:Q2842324 a wd:Q9143 ;
+    rdfs:label "TRAC"@en .
+
+wd:Q28448452 a wd:Q9143 ;
+    rdfs:label "PQL"@en .
+
+wd:Q28451857 a wd:Q9143 ;
+    rdfs:label "CSCM"@en .
+
+wd:Q28452212 a wd:Q9143 ;
+    rdfs:label "Cuneiform"@en .
+
+wd:Q28456040 a wd:Q205961 ;
+    rdfs:label "Ice navigation"@en .
+
+wd:Q28457553 a wd:Q9143 ;
+    rdfs:label "Storyboard"@en .
+
+wd:Q28457672 a wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "Toi"@en .
+
+wd:Q28457754 a wd:Q9143 ;
+    rdfs:label "Céu"@en .
+
+wd:Q28532565 a wd:Q121359 ;
+    rdfs:label "post station"@en .
+
+wd:Q285756 a wd:Q9143 ;
+    rdfs:label "Incr Tcl"@en .
+
+wd:Q2858104 a wd:Q9143 ;
+    rdfs:label "Chipmunk Basic"@en .
+
+wd:Q285886 a wd:Q9143 ;
+    rdfs:label "Haxe"@en .
+
+wd:Q28600455 a wd:Q9143 ;
+    rdfs:label "dBase programming language"@en .
+
+wd:Q2861672 a wd:Q9143 ;
+    rdfs:label "ArmScript"@en .
+
+wd:Q286196 a wd:Q9143 ;
+    rdfs:label "Altair BASIC"@en .
+
+wd:Q286443 a wd:Q9143 ;
+    rdfs:label "nesC"@en .
+
+wd:Q28650069 a wd:Q1914636 ;
+    rdfs:label "2017 Taiwan Lantern Festival"@en .
+
+wd:Q2865620 a wd:Q1914636 ;
+    rdfs:label "Q2865620"^^xsd:string .
+
+wd:Q28684197 a wd:Q241317 ;
+    rdfs:label "Q28684197"^^xsd:string .
+
+wd:Q2868806 a wd:Q9143 ;
+    rdfs:label "Ateji PX"@en .
+
+wd:Q28716883 a wd:Q9143 ;
+    rdfs:label "SL5"@en .
+
+wd:Q2874223 a wd:Q9143 ;
+    rdfs:label "Averest"@en .
+
+wd:Q2876705 a wd:Q9143 ;
+    rdfs:label "Chinese BASIC"@en .
+
+wd:Q2876898 a wd:Q9143 ;
+    rdfs:label "BBj"@en .
+
+wd:Q2877155 a wd:Q9143 ;
+    rdfs:label "BLISS"@en .
+
+wd:Q28783134 a wd:Q121359 ;
+    rdfs:label "Q28783134"^^xsd:string .
+
+wd:Q28792482 a wd:Q1914636 ;
+    rdfs:label "astroengineering"@en .
+
+wd:Q28801607 a wd:Q9143 ;
+    rdfs:label "jq"@en .
+
+wd:Q288682 a wd:Q9143 ;
+    rdfs:label "XACML"@en .
+
+wd:Q28873643 a wd:Q1914636 ;
+    rdfs:label "tailoring"@en .
+
+wd:Q28873655 a wd:Q1914636 ;
+    rdfs:label "dressmaking"@en .
+
+wd:Q288844 a wd:Q9143 ;
+    rdfs:label "ACUCOBOL"@en .
+
+wd:Q289 a wd:Q121359 ;
+    rdfs:label "television"@en .
+
+wd:Q2892564 a wd:Q1914636 ;
+    rdfs:label "Q2892564"^^xsd:string .
+
+wd:Q28937935 a wd:Q9143 ;
+    rdfs:label "Dog"@en .
+
+wd:Q28938004 a wd:Q9143 ;
+    rdfs:label "Sue"@en .
+
+wd:Q28938017 a wd:Q9143 ;
+    rdfs:label "Links"@en .
+
+wd:Q28940832 a wd:Q9143 ;
+    rdfs:label "ENIAC coding system"@en .
+
+wd:Q28942158 a wd:Q9143 ;
+    rdfs:label "ENIAC Short Code"@en .
+
+wd:Q28942221 a wd:Q9143 ;
+    rdfs:label "Von Neumann and Goldstine graphing system"@en .
+
+wd:Q28942229 a wd:Q9143 ;
+    rdfs:label "ARC Assembly"@en .
+
+wd:Q28942232 a wd:Q9143 ;
+    rdfs:label "CPC Coding scheme"@en .
+
+wd:Q28942234 a wd:Q9143 ;
+    rdfs:label "Curry notation system"@en .
+
+wd:Q28942243 a wd:Q9143 ;
+    rdfs:label "Birkbeck Assembler"@en .
+
+wd:Q28942263 a wd:Q9143 ;
+    rdfs:label "Superplan"@en .
+
+wd:Q28942349 a wd:Q9143 ;
+    rdfs:label "ALGAE"@en .
+
+wd:Q28942352 a wd:Q9143 ;
+    rdfs:label "Intermediate Programming Language"@en .
+
+wd:Q28942354 a wd:Q9143 ;
+    rdfs:label "Regional Assembly Language"@en .
+
+wd:Q28942355 a wd:Q9143 ;
+    rdfs:label "Boehm unnamed coding system"@en .
+
+wd:Q28942356 a wd:Q9143 ;
+    rdfs:label "Klammerausdrücke"@en .
+
+wd:Q28942358 a wd:Q9143 ;
+    rdfs:label "OMNIBAC Symbolic Assembler"@en .
+
+wd:Q28942360 a wd:Q9143 ;
+    rdfs:label "Stanislaus"@en .
+
+wd:Q28942363 a wd:Q9143 ;
+    rdfs:label "Whirlwind assembler"@en .
+
+wd:Q28942365 a wd:Q9143 ;
+    rdfs:label "Rochester assembler"@en .
+
+wd:Q28942372 a wd:Q9143 ;
+    rdfs:label "Editing Generator"@en .
+
+wd:Q28942373 a wd:Q9143 ;
+    rdfs:label "COMPOOL"@en .
+
+wd:Q28942376 a wd:Q9143 ;
+    rdfs:label "READ/PRINT"@en .
+
+wd:Q28942378 a wd:Q9143 ;
+    rdfs:label "MATRIX MATH"@en .
+
+wd:Q28942380 a wd:Q9143 ;
+    rdfs:label "BACAIC"@en .
+
+wd:Q28942382 a wd:Q9143 ;
+    rdfs:label "Freiburger Code"@en .
+
+wd:Q28942384 a wd:Q9143 ;
+    rdfs:label "Sequentielle Formelübersetzung"@en .
+
+wd:Q28942386 a wd:Q9143 ;
+    rdfs:label "Internal Translator"@en .
+
+wd:Q28942389 a wd:Q9143 ;
+    rdfs:label "PRINT"@en .
+
+wd:Q28942394 a wd:Q9143 ;
+    rdfs:label "UNICODE"@en .
+
+wd:Q28942400 a wd:Q9143 ;
+    rdfs:label "Space Programming Language"@en .
+
+wd:Q28942559 a wd:Q9143 ;
+    rdfs:label "Yellow"@en .
+
+wd:Q28942571 a wd:Q9143 ;
+    rdfs:label "IBM Advanced BASIC"@en .
+
+wd:Q28942577 a wd:Q9143 ;
+    rdfs:label "RPG/400"@en .
+
+wd:Q28942582 a wd:Q9143 ;
+    rdfs:label "Turbo Pascal OOP"@en .
+
+wd:Q28942597 a wd:Q9143 ;
+    rdfs:label "RPG IV"@en .
+
+wd:Q28942599 a wd:Q9143 ;
+    rdfs:label "GDScript"@en .
+
+wd:Q28942628 a wd:Q9143 ;
+    rdfs:label "Analytical Engine order code"@en .
+
+wd:Q28942629 a wd:Q9143 ;
+    rdfs:label "Computest"@en .
+
+wd:Q28942649 a wd:Q9143 ;
+    rdfs:label "MIDAS"@en .
+
+wd:Q28942656 a wd:Q9143 ;
+    rdfs:label "Green"@en .
+
+wd:Q28942658 a wd:Q9143 ;
+    rdfs:label "GPM"@en .
+
+wd:Q28945295 a wd:Q9143 ;
+    rdfs:label "Caml Light"@en .
+
+wd:Q28945298 a wd:Q9143 ;
+    rdfs:label "Brief Code"@en .
+
+wd:Q28955096 a wd:Q9143 ;
+    rdfs:label "Reia"@en .
+
+wd:Q28955108 a wd:Q9143 ;
+    rdfs:label "FriCAS"@en .
+
+wd:Q28955120 a wd:Q9143 ;
+    rdfs:label "TLA+"@en .
+
+wd:Q28956437 a wd:Q9143 ;
+    rdfs:label "Ixi lang"@en .
+
+wd:Q28960864 a wd:Q9143 ;
+    rdfs:label "Discipulus"@en .
+
+wd:Q28975841 a wd:Q9143 ;
+    rdfs:label "Manchester Scene Description Language"@en .
+
+wd:Q29014973 a wd:Q9143 ;
+    rdfs:label "Alusus"@en .
+
+wd:Q29018770 a wd:Q9143 ;
+    rdfs:label "VIPLE"@en .
+
+wd:Q2904016 a wd:Q1914636 ;
+    rdfs:label "BioBlitz"@en .
+
+wd:Q2904782 a wd:Q9143 ;
+    rdfs:label "Cool"@en .
+
+wd:Q2904843 a wd:Q9143 ;
+    rdfs:label "Bistro"@en .
+
+wd:Q2905488 a wd:Q1914636 ;
+    rdfs:label "beer pouring"@en .
+
+wd:Q29103733 a wd:Q9143 ;
+    rdfs:label "Lusus"@en .
+
+wd:Q29167430 a wd:Q9143 ;
+    rdfs:label "Nock"@en .
+
+wd:Q292068 a wd:Q9143 ;
+    rdfs:label "m4"@en .
+
+wd:Q2920921 a wd:Q1914636 ;
+    rdfs:label "management"@en .
+
+wd:Q2924087 a wd:Q1993334,
+        wd:Q9143 ;
+    rdfs:label "Programming Language for Business"@en .
+
+wd:Q292803 a wd:Q9143 ;
+    rdfs:label "Altera Hardware Description Language"@en .
+
+wd:Q2930613 a wd:Q1914636 ;
+    rdfs:label "conscientious objection"@en .
+
+wd:Q2931220 a wd:Q3839507 ;
+    rdfs:label "CDuce"@en .
+
+wd:Q29319364 a wd:Q9143 ;
+    rdfs:label "SKILL"@en .
+
+wd:Q2932182 a wd:Q9143 ;
+    rdfs:label "C Intermediate Language"@en .
+
+wd:Q29349255 a wd:Q1914636 ;
+    rdfs:label "candlemaking"@en .
+
+wd:Q29377880 a wd:Q9143 ;
+    rdfs:label "ShEx"@en .
+
+wd:Q2941568 a wd:Q9143 ;
+    rdfs:label "Cat"@en .
+
+wd:Q29428404 a wd:Q1914636 ;
+    rdfs:label "Anti-gay purges in Chechnya"@en .
+
+wd:Q295232 a wd:Q9143 ;
+    rdfs:label "AMOS"@en .
+
+wd:Q295250 a wd:Q9143 ;
+    rdfs:label "AMPL"@en .
+
+wd:Q2957843 a wd:Q9143 ;
+    rdfs:label "Charity"@en .
+
+wd:Q2961375 a wd:Q1914636 ;
+    rdfs:label "Rabbiting"@en .
+
+wd:Q296187 a wd:Q12772052,
+        wd:Q1993334,
+        wd:Q3839507 ;
+    rdfs:label "APL"@en .
+
+wd:Q29641205 a wd:Q1914636 ;
+    rdfs:label "Q29641205"^^xsd:string .
+
+wd:Q296704 a wd:Q9143 ;
+    rdfs:label "ARLA"@en .
+
+wd:Q29749108 a wd:Q121359 ;
+    rdfs:label "Fucine Inlet"@en .
+
+wd:Q29758 a wd:Q241317 ;
+    rdfs:label "Pocket PC"@en .
+
+wd:Q2975883 a wd:Q1914636 ;
+    rdfs:label "violin making and maintenance"@en .
+
+wd:Q297730 a wd:Q9143 ;
+    rdfs:label "ASIC programming language"@en .
+
+wd:Q297868 a wd:Q9143 ;
+    rdfs:label "x86 assembly language"@en .
+
+wd:Q2982689 a wd:Q1914636 ;
+    rdfs:label "Decommunization"@en .
+
+wd:Q2992227 a wd:Q9143 ;
+    rdfs:label "Concurrent ML"@en .
+
+wd:Q2994466 a wd:Q1914636 ;
+    rdfs:label "traditional economy"@en .
+
+wd:Q30060052 a wd:Q121359 ;
+    rdfs:label "Q30060052"^^xsd:string .
+
+wd:Q300841 a wd:Q9143 ;
+    rdfs:label "mIRC scripting language"@en .
+
+wd:Q300897 a wd:Q9143 ;
+    rdfs:label "bc"@en .
+
+wd:Q300971 a wd:Q9143 ;
+    rdfs:label "dBase"@en .
+
+wd:Q30136 a wd:Q121359 ;
+    rdfs:label "Yangshupu Water Plant"@en .
+
+wd:Q3023481 a wd:Q9143 ;
+    rdfs:label "Dependency Constraint Language"@en .
+
+wd:Q3026464 a wd:Q187432 ;
+    rdfs:label "MIVA Script"@en .
+
+wd:Q3032255 a wd:Q9143 ;
+    rdfs:label "Magma computer algebra system"@en .
+
+wd:Q3044530 a wd:Q1914636 ;
+    rdfs:label "snow removal"@en .
+
+wd:Q3046179 a wd:Q9143 ;
+    rdfs:label "ESRI-Avenue"@en .
+
+wd:Q3046265 a wd:Q9143 ;
+    rdfs:label "EXEL"@en .
+
+wd:Q3050486 a wd:Q1914636 ;
+    rdfs:label "Q3050486"^^xsd:string .
+
+wd:Q3053394 a wd:Q1914636 ;
+    rdfs:label "Q3053394"^^xsd:string .
+
+wd:Q305876 a wd:Q9143 ;
+    rdfs:label "sed"@en .
+
+wd:Q30587705 a wd:Q9143 ;
+    rdfs:label "AIMACO"@en .
+
+wd:Q30599213 a wd:Q9143 ;
+    rdfs:label "P"@en .
+
+wd:Q30599811 a wd:Q9143 ;
+    rdfs:label "Bogus"@en .
+
+wd:Q306093 a wd:Q1914636 ;
+    rdfs:label "dismantling"@en .
+
+wd:Q3061422 a wd:Q9143 ;
+    rdfs:label "EventScripts"@en .
+
+wd:Q3061651 a wd:Q9143 ;
+    rdfs:label "Evolutionary Virtual Agent"@en .
+
+wd:Q3061763 a wd:Q9143 ;
+    rdfs:label "IBM Query Management Facility"@en .
+
+wd:Q3066076 a wd:Q9143 ;
+    rdfs:label "Family of programming languages"@en .
+
+wd:Q3068282 a wd:Q9143 ;
+    rdfs:label "LiveCode"@en .
+
+wd:Q30684100 a wd:Q187432 ;
+    rdfs:label "Installer"@en .
+
+wd:Q3068804 a wd:Q9143 ;
+    rdfs:label "Ferite"@en .
+
+wd:Q307329 a wd:Q1914636 ;
+    rdfs:label "Shanghaiing"@en .
+
+wd:Q3080425 a wd:Q9143 ;
+    rdfs:label "Frame representation language"@en .
+
+wd:Q308453 a wd:Q1914636,
+        wd:Q205961 ;
+    rdfs:label "Abdrehen"@en .
+
+wd:Q3087863 a wd:Q9143 ;
+    rdfs:label "Frink"@en .
+
+wd:Q3091025 a wd:Q9143 ;
+    rdfs:label "High Performance Fortran"@en .
+
+wd:Q3094826 a wd:Q9143 ;
+    rdfs:label "Gallina"@en .
+
+wd:Q3100720 a wd:Q9143 ;
+    rdfs:label "GeneXus"@en .
+
+wd:Q3104964 a wd:Q1914636 ;
+    rdfs:label "ghost-riding"@en .
+
+wd:Q3105355 a wd:Q9143 ;
+    rdfs:label "Gibiane"@en .
+
+wd:Q31092740 a wd:Q9143 ;
+    rdfs:label "Arduino"@en .
+
+wd:Q3109515 a wd:Q9143 ;
+    rdfs:label "Go!"@en .
+
+wd:Q31205855 a wd:Q9143 ;
+    rdfs:label "Python 3"@en .
+
+wd:Q3128486 a wd:Q1914636 ;
+    rdfs:label "French high civil service"@en .
+
+wd:Q3140351 a wd:Q12772052,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Hop"@en .
+
+wd:Q3154072 a wd:Q9143 ;
+    rdfs:label "Ioke"@en .
+
+wd:Q3154138 a wd:Q9143 ;
+    rdfs:label "Iota and Jot"@en .
+
+wd:Q3154510 a wd:Q9143 ;
+    rdfs:label "IronScheme"@en .
+
+wd:Q3155242 a wd:Q9143 ;
+    rdfs:label "ISETL"@en .
+
+wd:Q3156473 a wd:Q9143 ;
+    rdfs:label "Izibasic"@en .
+
+wd:Q3174329 a wd:Q1993334,
+        wd:Q9143 ;
+    rdfs:label "Yorick"@en .
+
+wd:Q31890014 a wd:Q1914636 ;
+    rdfs:label "Clothing care"@en .
+
+wd:Q319268 a wd:Q12772052,
+        wd:Q21562092,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "D"@en .
+
+wd:Q320037 a wd:Q1914636 ;
+    rdfs:label "Abflammen"@en .
+
+wd:Q320446 a wd:Q1914636,
+        wd:Q205961 ;
+    rdfs:label "Abgratung"@en .
+
+wd:Q3205918 a wd:Q9143 ;
+    rdfs:label "LACATRE"@en .
+
+wd:Q3205959 a wd:Q9143 ;
+    rdfs:label "LCM"@en .
+
+wd:Q3205992 a wd:Q9143 ;
+    rdfs:label "LEGO"@en .
+
+wd:Q3206154 a wd:Q9143 ;
+    rdfs:label "LSE"@en .
+
+wd:Q32110 a wd:Q9143 ;
+    rdfs:label "XSLT"@en .
+
+wd:Q321476 a wd:Q1914636 ;
+    rdfs:label "Wire stripping"@en .
+
+wd:Q3215756 a wd:Q1914636 ;
+    rdfs:label "typing"@en .
+
+wd:Q3217176 a wd:Q9143 ;
+    rdfs:label "Typed assembly language"@en .
+
+wd:Q3217187 a wd:Q12772052,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Red"@en .
+
+wd:Q3218363 a wd:Q9143 ;
+    rdfs:label "Lasso"@en .
+
+wd:Q322118 a wd:Q1914636 ;
+    rdfs:label "Ablastung"@en .
+
+wd:Q322377 a wd:Q1914636 ;
+    rdfs:label "meter reading"@en .
+
+wd:Q3241434 a wd:Q1914636 ;
+    rdfs:label "hydrocarbon exploration"@en .
+
+wd:Q3241663 a wd:Q9143 ;
+    rdfs:label "Linotte"@en .
+
+wd:Q3241671 a wd:Q1914636 ;
+    rdfs:label "plumbing"@en .
+
+wd:Q3242457 a wd:Q9143 ;
+    rdfs:label "Lisaac"@en .
+
+wd:Q3251260 a wd:Q9143 ;
+    rdfs:label "Oberon-2"@en .
+
+wd:Q3258085 a wd:Q9143 ;
+    rdfs:label "Logtalk"@en .
+
+wd:Q3260092 a wd:Q9143 ;
+    rdfs:label "LotusScript"@en .
+
+wd:Q3267991 a wd:Q9143 ;
+    rdfs:label "S-PLUS"@en .
+
+wd:Q3273110 a wd:Q9143 ;
+    rdfs:label "MOLOG"@en .
+
+wd:Q3279945 a wd:Q9143 ;
+    rdfs:label "Unicon"@en .
+
+wd:Q3287251 a wd:Q9143 ;
+    rdfs:label "MAPPER"@en .
+
+wd:Q3294091 a wd:Q9143 ;
+    rdfs:label "Gödel"@en .
+
+wd:Q329637 a wd:Q1914636 ;
+    rdfs:label "constructing"@en .
+
+wd:Q3304832 a wd:Q9143 ;
+    rdfs:label "Maya Embedded Language"@en .
+
+wd:Q3312001 a wd:Q9143 ;
+    rdfs:label "MicroMondes"@en .
+
+wd:Q3312016 a wd:Q9143 ;
+    rdfs:label "Micro Lua DS"@en .
+
+wd:Q3317751 a wd:Q9143 ;
+    rdfs:label "Mocklisp"@en .
+
+wd:Q331796 a wd:Q1914636 ;
+    rdfs:label "Sales promotion"@en .
+
+wd:Q331835 a wd:Q205961 ;
+    rdfs:label "suction"@en .
+
+wd:Q332097 a wd:Q1914636 ;
+    rdfs:label "Abschmecken"@en .
+
+wd:Q332163 a wd:Q1914636 ;
+    rdfs:label "Abschwenken"@en .
+
+wd:Q332171 a wd:Q1914636 ;
+    rdfs:label "Abschöpfung"@en .
+
+wd:Q332231 a wd:Q1914636 ;
+    rdfs:label "Abseiling"@en .
+
+wd:Q33275921 a wd:Q121359 ;
+    rdfs:label "Q33275921"^^xsd:string .
+
+wd:Q3327631 a wd:Q1914636 ;
+    rdfs:label "mulquinerie"@en .
+
+wd:Q3332038 a wd:Q9143 ;
+    rdfs:label "ZPL"@en .
+
+wd:Q3334275 a wd:Q9143 ;
+    rdfs:label "NCL"@en .
+
+wd:Q3334490 a wd:Q9143 ;
+    rdfs:label "NQP"@en .
+
+wd:Q3337877 a wd:Q9143 ;
+    rdfs:label "Neko"@en .
+
+wd:Q3339196 a wd:Q9143 ;
+    rdfs:label "Next Byte Codes"@en .
+
+wd:Q334401 a wd:Q1914636 ;
+    rdfs:label "surveillance"@en .
+
+wd:Q3344091 a wd:Q9143 ;
+    rdfs:label "North American Presentation Level Protocol Syntax"@en .
+
+wd:Q3348103 a wd:Q9143 ;
+    rdfs:label "Object-PL/SQL"@en .
+
+wd:Q334879 a wd:Q12772052,
+        wd:Q205961,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Erlang"@en .
+
+wd:Q33511524 a wd:Q121359 ;
+    rdfs:label "Q33511524"^^xsd:string .
+
+wd:Q3352982 a wd:Q9143 ;
+    rdfs:label "Ooc"@en .
+
+wd:Q3352989 a wd:Q9143 ;
+    rdfs:label "Oolong"@en .
+
+wd:Q3353033 a wd:Q9143 ;
+    rdfs:label "Opa"@en .
+
+wd:Q3354460 a wd:Q9143 ;
+    rdfs:label "OptimJ"@en .
+
+wd:Q3359558 a wd:Q9143 ;
+    rdfs:label "PANORAMIC"@en .
+
+wd:Q3359573 a wd:Q9143 ;
+    rdfs:label "PARI/GP"@en .
+
+wd:Q3359650 a wd:Q241317 ;
+    rdfs:label "PERQ"@en .
+
+wd:Q336152 a wd:Q1914636 ;
+    rdfs:label "dishwashing"@en .
+
+wd:Q336267 a wd:Q1914636 ;
+    rdfs:label "Abwerbung"@en .
+
+wd:Q3362976 a wd:Q9143 ;
+    rdfs:label "2APL"@en .
+
+wd:Q3367000 a wd:Q1914636 ;
+    rdfs:label "orchestration"@en .
+
+wd:Q336740 a wd:Q1914636 ;
+    rdfs:label "Trigger control"@en .
+
+wd:Q337272 a wd:Q9143 ;
+    rdfs:label "Commodore BASIC"@en .
+
+wd:Q3374941 a wd:Q9143 ;
+    rdfs:label "Cilk Plus"@en .
+
+wd:Q337907 a wd:Q1914636 ;
+    rdfs:label "woodcarving"@en .
+
+wd:Q337922 a wd:Q9143 ;
+    rdfs:label "CORC"@en .
+
+wd:Q3391827 a wd:Q241317 ;
+    rdfs:label "Java Platform"@en .
+
+wd:Q3393318 a wd:Q1914636 ;
+    rdfs:label "Mascletà"@en .
+
+wd:Q3398783 a wd:Q9143 ;
+    rdfs:label "Portal"@en .
+
+wd:Q34010 a wd:Q193076,
+        wd:Q1993334,
+        wd:Q9143 ;
+    rdfs:label "Haskell"@en .
+
+wd:Q3401385 a wd:Q9143 ;
+    rdfs:label "Praspel"@en .
+
+wd:Q3406362 a wd:Q9143 ;
+    rdfs:label "Processing.js"@en .
+
+wd:Q3408096 a wd:Q9143 ;
+    rdfs:label "Metaobject Protocol"@en .
+
+wd:Q3408184 a wd:Q9143 ;
+    rdfs:label "Prototype Verification System"@en .
+
+wd:Q3408297 a wd:Q9143 ;
+    rdfs:label "ProvideX"@en .
+
+wd:Q3409055 a wd:Q1914636 ;
+    rdfs:label "physical preparedness"@en .
+
+wd:Q3411311 a wd:Q9143 ;
+    rdfs:label "Pyrex"@en .
+
+wd:Q3412467 a wd:Q9143 ;
+    rdfs:label "Qi"@en .
+
+wd:Q3414446 a wd:Q9143 ;
+    rdfs:label "QuickPascal"@en .
+
+wd:Q3415803 a wd:Q9143 ;
+    rdfs:label "RUR-PLE"@en .
+
+wd:Q3420089 a wd:Q9143 ;
+    rdfs:label "Rational Modeling Language"@en .
+
+wd:Q34280 a wd:Q9143 ;
+    rdfs:label "Plankalkül"@en .
+
+wd:Q3429683 a wd:Q9143 ;
+    rdfs:label "Syntax Definition Formalism"@en .
+
+wd:Q3429919 a wd:Q1914636 ;
+    rdfs:label "screenwriting"@en .
+
+wd:Q343587 a wd:Q9143 ;
+    rdfs:label "Action!"@en .
+
+wd:Q344108 a wd:Q9143 ;
+    rdfs:label "Active Oberon"@en .
+
+wd:Q344202 a wd:Q1914636 ;
+    rdfs:label "Active Sourcing"@en .
+
+wd:Q344266 a wd:Q9143 ;
+    rdfs:label "Active Server Pages"@en .
+
+wd:Q3459179 a wd:Q9143 ;
+    rdfs:label "SAM76"@en .
+
+wd:Q3459203 a wd:Q1914636 ;
+    rdfs:label "SASPAS"@en .
+
+wd:Q3459625 a wd:Q9143 ;
+    rdfs:label "Simul"@en .
+
+wd:Q3475961 a wd:Q9143 ;
+    rdfs:label "Scol"@en .
+
+wd:Q3476475 a wd:Q187432 ;
+    rdfs:label "Scriptlet"@en .
+
+wd:Q3481158 a wd:Q9143 ;
+    rdfs:label "Fjölnir"@en .
+
+wd:Q34918199 a wd:Q1914636 ;
+    rdfs:label "Q34918199"^^xsd:string .
+
+wd:Q3491920 a wd:Q1914636 ;
+    rdfs:label "Sourcing"@en .
+
+wd:Q3493345 a wd:Q9143 ;
+    rdfs:label "SPARK"@en .
+
+wd:Q3493421 a wd:Q9143 ;
+    rdfs:label "Spice Lisp"@en .
+
+wd:Q3501043 a wd:Q9143 ;
+    rdfs:label "Parser"@en .
+
+wd:Q3503881 a wd:Q9143 ;
+    rdfs:label "Suneido"@en .
+
+wd:Q3508980 a wd:Q9143 ;
+    rdfs:label "Simple Yet Powerful Scripting Language"@en .
+
+wd:Q351363 a wd:Q205961 ;
+    rdfs:label "seamanship"@en .
+
+wd:Q3516674 a wd:Q12772052,
+        wd:Q1993334,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Tea"@en .
+
+wd:Q3526013 a wd:Q9143 ;
+    rdfs:label "Thue"@en .
+
+wd:Q352842 a wd:Q1914636 ;
+    rdfs:label "teaching"@en .
+
+wd:Q3535655 a wd:Q1914636 ;
+    rdfs:label "cataloging"@en .
+
+wd:Q353578 a wd:Q1914636 ;
+    rdfs:label "chartering"@en .
+
+wd:Q3539109 a wd:Q9143 ;
+    rdfs:label "Spoon"@en .
+
+wd:Q3547135 a wd:Q9143 ;
+    rdfs:label "UCBLogo"@en .
+
+wd:Q355217 a wd:Q205961 ;
+    rdfs:label "time management"@en .
+
+wd:Q3555239 a wd:Q1914636 ;
+    rdfs:label "Marketing intelligence"@en .
+
+wd:Q3558930 a wd:Q9143 ;
+    rdfs:label "Maude system"@en .
+
+wd:Q355968 a wd:Q9143 ;
+    rdfs:label "adenine"@en .
+
+wd:Q3561015 a wd:Q9143 ;
+    rdfs:label "MultiLisp"@en .
+
+wd:Q3561128 a wd:Q9143 ;
+    rdfs:label "Visual T#"@en .
+
+wd:Q3561750 a wd:Q9143 ;
+    rdfs:label "Lucid"@en .
+
+wd:Q3564719 a wd:Q9143 ;
+    rdfs:label "WLanguage"@en .
+
+wd:Q3564783 a wd:Q9143 ;
+    rdfs:label "WQL"@en .
+
+wd:Q3570345 a wd:Q9143 ;
+    rdfs:label "XBLite"@en .
+
+wd:Q3570358 a wd:Q187432 ;
+    rdfs:label "XGQL"@en .
+
+wd:Q3575311 a wd:Q9143 ;
+    rdfs:label "ZetaLisp"@en .
+
+wd:Q359122 a wd:Q9143 ;
+    rdfs:label "chef"@en .
+
+wd:Q3594646 a wd:Q9143 ;
+    rdfs:label "λProlog"@en .
+
+wd:Q360310 a wd:Q241317 ;
+    rdfs:label "Adobe AIR"@en .
+
+wd:Q3603427 a wd:Q9143 ;
+    rdfs:label "Abel"@en .
+
+wd:Q3622471 a wd:Q9143 ;
+    rdfs:label "Argus"@en .
+
+wd:Q3627873 a wd:Q9143 ;
+    rdfs:label "Atari LOGO"@en .
+
+wd:Q3627876 a wd:Q9143 ;
+    rdfs:label "Atari ST BASIC"@en .
+
+wd:Q3638306 a wd:Q241317 ;
+    rdfs:label "Bensley"@en .
+
+wd:Q3651101 a wd:Q9143 ;
+    rdfs:label "Maxscript"@en .
+
+wd:Q36630876 a wd:Q241317 ;
+    rdfs:label "OpenStreetCam"@en .
+
+wd:Q36633 a wd:Q1914636 ;
+    rdfs:label "prostitution"@en .
+
+wd:Q368880 a wd:Q9143 ;
+    rdfs:label "XL"@en .
+
+wd:Q369096 a wd:Q9143 ;
+    rdfs:label "Pharo"@en .
+
+wd:Q369244 a wd:Q9143 ;
+    rdfs:label "SolidThinking Embed"@en .
+
+wd:Q36963 a wd:Q1914636 ;
+    rdfs:label "hunting"@en .
+
+wd:Q3700175 a wd:Q241317 ;
+    rdfs:label "D+"@en .
+
+wd:Q37227 a wd:Q12772052,
+        wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "Go"@en .
+
+wd:Q373017 a wd:Q1914636 ;
+    rdfs:label "basketry"@en .
+
+wd:Q373069 a wd:Q1914636 ;
+    rdfs:label "evangelism"@en .
+
+wd:Q373338 a wd:Q121359 ;
+    rdfs:label "Critical infrastructure"@en .
+
+wd:Q3754509 a wd:Q1914636 ;
+    rdfs:label "Q3754509"^^xsd:string .
+
+wd:Q3754526 a wd:Q1914636 ;
+    rdfs:label "administration"@en .
+
+wd:Q375471 a wd:Q1914636 ;
+    rdfs:label "student exchange program"@en .
+
+wd:Q375533 a wd:Q9143 ;
+    rdfs:label "Kent Recursive Calculator"@en .
+
+wd:Q3756259 a wd:Q9143 ;
+    rdfs:label "GRASS"@en .
+
+wd:Q3772297 a wd:Q1914636 ;
+    rdfs:label "information seeking"@en .
+
+wd:Q377986 a wd:Q9143 ;
+    rdfs:label "Clean"@en .
+
+wd:Q37805571 a wd:Q1993334,
+        wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "MATLAB"@en .
+
+wd:Q3782201 a wd:Q9143 ;
+    rdfs:label "HQ9++"@en .
+
+wd:Q378222 a wd:Q9143 ;
+    rdfs:label "Whitespace"@en .
+
+wd:Q37822576 a wd:Q9143 ;
+    rdfs:label "Ada 2005"@en .
+
+wd:Q37822848 a wd:Q9143 ;
+    rdfs:label "Ada 2020"@en .
+
+wd:Q3782995 a wd:Q9143 ;
+    rdfs:label "Handel-C"@en .
+
+wd:Q3786912 a wd:Q9143 ;
+    rdfs:label "Hot Soup Processor"@en .
+
+wd:Q3787780 a wd:Q9143 ;
+    rdfs:label "Hybris"@en .
+
+wd:Q3788770 a wd:Q241317 ;
+    rdfs:label "iPod Touch 5"@en .
+
+wd:Q380523 a wd:Q9143 ;
+    rdfs:label "ABAP"@en .
+
+wd:Q380962 a wd:Q1914636 ;
+    rdfs:label "cooperation"@en .
+
+wd:Q381247 a wd:Q9143 ;
+    rdfs:label "QBasic"@en .
+
+wd:Q381526 a wd:Q1914636 ;
+    rdfs:label "aeromagnetics"@en .
+
+wd:Q3831444 a wd:Q9143 ;
+    rdfs:label "Lexico"@en .
+
+wd:Q3832623 a wd:Q241317 ;
+    rdfs:label "Lindenhurst"@en .
+
+wd:Q383994 a wd:Q12772052,
+        wd:Q1993334,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "J"@en .
+
+wd:Q3841543 a wd:Q9143 ;
+    rdfs:label "MS BASIC for Macintosh"@en .
+
+wd:Q3841549 a wd:Q9143 ;
+    rdfs:label "MShell"@en .
+
+wd:Q38438 a wd:Q1914636 ;
+    rdfs:label "dog walking"@en .
+
+wd:Q385325 a wd:Q9143 ;
+    rdfs:label "Modelica"@en .
+
+wd:Q3853337 a wd:Q241317 ;
+    rdfs:label "McCaslin"@en .
+
+wd:Q3858763 a wd:Q9143 ;
+    rdfs:label "Mirah"@en .
+
+wd:Q385970 a wd:Q1993334,
+        wd:Q9143 ;
+    rdfs:label "Apache Ant"@en .
+
+wd:Q3890214 a wd:Q9143 ;
+    rdfs:label "CycL"@en .
+
+wd:Q389350 a wd:Q9143 ;
+    rdfs:label "Transaction Application Language"@en .
+
+wd:Q3902685 a wd:Q9143 ;
+    rdfs:label "Pico"@en .
+
+wd:Q39059565 a wd:Q9143 ;
+    rdfs:label "Level I BASIC"@en .
+
+wd:Q39185837 a wd:Q187432 ;
+    rdfs:label "AutoHotkey language"@en .
+
+wd:Q3924253 a wd:Q9143 ;
+    rdfs:label "Proteus"@en .
+
+wd:Q392752 a wd:Q1914636 ;
+    rdfs:label "agent provocateur"@en .
+
+wd:Q3934000 a wd:Q9143 ;
+    rdfs:label "Rex"@en .
+
+wd:Q393768 a wd:Q9143 ;
+    rdfs:label "Agilent VEE"@en .
+
+wd:Q3960125 a wd:Q9143 ;
+    rdfs:label "Siddh"@en .
+
+wd:Q3991643 a wd:Q9143 ;
+    rdfs:label "Tiny"@en .
+
+wd:Q400244 a wd:Q241317 ;
+    rdfs:label "Windows Runtime"@en .
+
+wd:Q4003259 a wd:Q1914636 ;
+    rdfs:label "Ultracycling"@en .
+
+wd:Q4008379 a wd:Q1914636 ;
+    rdfs:label "valuation"@en .
+
+wd:Q4009255 a wd:Q1914636 ;
+    rdfs:label "Q4009255"^^xsd:string .
+
+wd:Q4017069 a wd:Q9143 ;
+    rdfs:label "WSFN"@en .
+
+wd:Q4021505 a wd:Q9143 ;
+    rdfs:label "XPL"@en .
+
+wd:Q4033768 a wd:Q9143 ;
+    rdfs:label "Allegro Common Lisp"@en .
+
+wd:Q4036051 a wd:Q9143 ;
+    rdfs:label "Chapel"@en .
+
+wd:Q4036419 a wd:Q9143 ;
+    rdfs:label "colorForth"@en .
+
+wd:Q4037189 a wd:Q9143 ;
+    rdfs:label "Delphi"@en .
+
+wd:Q4037222 a wd:Q9143 ;
+    rdfs:label "Dependent ML"@en .
+
+wd:Q4037648 a wd:Q9143 ;
+    rdfs:label "DuAL"@en .
+
+wd:Q4039486 a wd:Q9143 ;
+    rdfs:label "Global Arrays"@en .
+
+wd:Q4040636 a wd:Q9143 ;
+    rdfs:label "HiAsm"@en .
+
+wd:Q4040754 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Hope"@en .
+
+wd:Q4041852 a wd:Q9143 ;
+    rdfs:label "JoCaml"@en .
+
+wd:Q4042031 a wd:Q9143 ;
+    rdfs:label "K"@en .
+
+wd:Q4042096 a wd:Q9143 ;
+    rdfs:label "Katahdin"@en .
+
+wd:Q4042344 a wd:Q241317 ;
+    rdfs:label "KreaTV"@en .
+
+wd:Q4043546 a wd:Q9143 ;
+    rdfs:label "Macintosh Common Lisp"@en .
+
+wd:Q4044417 a wd:Q9143 ;
+    rdfs:label "Mobile BASIC"@en .
+
+wd:Q4046208 a wd:Q21562092 ;
+    rdfs:label "PL/Perl"@en .
+
+wd:Q4046509 a wd:Q9143 ;
+    rdfs:label "PascalABC.NET"@en .
+
+wd:Q4046690 a wd:Q9143 ;
+    rdfs:label "Perl Data Language"@en .
+
+wd:Q4047012 a wd:Q9143 ;
+    rdfs:label "Pixilang"@en .
+
+wd:Q4047113 a wd:Q9143 ;
+    rdfs:label "Pnuts"@en .
+
+wd:Q4047211 a wd:Q9143 ;
+    rdfs:label "Polyphonic C#"@en .
+
+wd:Q4047892 a wd:Q12772052 ;
+    rdfs:label "Q4047892"^^xsd:string .
+
+wd:Q4048691 a wd:Q9143 ;
+    rdfs:label "SASL"@en .
+
+wd:Q4048876 a wd:Q9143 ;
+    rdfs:label "SQL/PSM"@en .
+
+wd:Q4049196 a wd:Q9143 ;
+    rdfs:label "Scriptol"@en .
+
+wd:Q4049912 a wd:Q9143 ;
+    rdfs:label "Spice"@en .
+
+wd:Q4050034 a wd:Q9143 ;
+    rdfs:label "StarLogo"@en .
+
+wd:Q4050536 a wd:Q9143 ;
+    rdfs:label "T++"@en .
+
+wd:Q4050562 a wd:Q9143 ;
+    rdfs:label "TADS"@en .
+
+wd:Q4050584 a wd:Q9143 ;
+    rdfs:label "THINK C"@en .
+
+wd:Q4051864 a wd:Q9143 ;
+    rdfs:label "Turbo51"@en .
+
+wd:Q4052151 a wd:Q9143 ;
+    rdfs:label "URQ"@en .
+
+wd:Q4053269 a wd:Q9143 ;
+    rdfs:label "X++"@en .
+
+wd:Q4053289 a wd:Q9143 ;
+    rdfs:label "XBasic"@en .
+
+wd:Q4053333 a wd:Q9143 ;
+    rdfs:label "XOTcl"@en .
+
+wd:Q4057965 a wd:Q9143 ;
+    rdfs:label "Address programming language"@en .
+
+wd:Q406009 a wd:Q12772052,
+        wd:Q187432,
+        wd:Q21562092,
+        wd:Q3839507 ;
+    rdfs:label "Dart"@en .
+
+wd:Q4064746 a wd:Q9143 ;
+    rdfs:label "Analitik"@en .
+
+wd:Q4081244 a wd:Q9143 ;
+    rdfs:label "Vilnius BASIC"@en .
+
+wd:Q4115288 a wd:Q9143 ;
+    rdfs:label "Ratfor"@en .
+
+wd:Q4117140 a wd:Q9143 ;
+    rdfs:label "Rapira"@en .
+
+wd:Q4117415 a wd:Q9143 ;
+    rdfs:label "Atlas Autocode"@en .
+
+wd:Q4117844 a wd:Q9143 ;
+    rdfs:label "Coral 66"@en .
+
+wd:Q4117854 a wd:Q9143 ;
+    rdfs:label "MAD"@en .
+
+wd:Q4117879 a wd:Q9143 ;
+    rdfs:label "SETL2"@en .
+
+wd:Q4139206 a wd:Q1914636 ;
+    rdfs:label "Centralized computing"@en .
+
+wd:Q41574 a wd:Q9143 ;
+    rdfs:label "PL/SQL"@en .
+
+wd:Q4164783 a wd:Q1914636 ;
+    rdfs:label "Q4164783"^^xsd:string .
+
+wd:Q42118431 a wd:Q241317 ;
+    rdfs:label "Communecter"@en .
+
+wd:Q42308138 a wd:Q121359 ;
+    rdfs:label "Q42308138"^^xsd:string .
+
+wd:Q42478 a wd:Q9143 ;
+    rdfs:label "Perl"@en .
+
+wd:Q426038 a wd:Q9143 ;
+    rdfs:label "AmigaBASIC"@en .
+
+wd:Q427002 a wd:Q9143 ;
+    rdfs:label "DIGITAL Command Language"@en .
+
+wd:Q42979 a wd:Q21562092,
+        wd:Q79872,
+        wd:Q9143 ;
+    rdfs:label "BASIC"@en .
+
+wd:Q429801 a wd:Q9143 ;
+    rdfs:label "BBC BASIC"@en .
+
+wd:Q43089335 a wd:Q241317 ;
+    rdfs:label "Flathub"@en .
+
+wd:Q43267126 a wd:Q9143 ;
+    rdfs:label "Deadfish"@en .
+
+wd:Q43437 a wd:Q1914636 ;
+    rdfs:label "procuring"@en .
+
+wd:Q4353865 a wd:Q9143 ;
+    rdfs:label "POSXML"@en .
+
+wd:Q43556346 a wd:Q9143 ;
+    rdfs:label "Emmental"@en .
+
+wd:Q43556364 a wd:Q9143 ;
+    rdfs:label "Glass"@en .
+
+wd:Q4358532 a wd:Q9143 ;
+    rdfs:label "Robik"@en .
+
+wd:Q4363942 a wd:Q9143 ;
+    rdfs:label "Pythagoras"@en .
+
+wd:Q4386338 a wd:Q9143 ;
+    rdfs:label "Interlisp"@en .
+
+wd:Q446168 a wd:Q9143 ;
+    rdfs:label "SR"@en .
+
+wd:Q4504140 a wd:Q121359 ;
+    rdfs:label "Central Aeration Station in Saint Petersburg"@en .
+
+wd:Q451987 a wd:Q1914636 ;
+    rdfs:label "military recruitment"@en .
+
+wd:Q45322975 a wd:Q21562092,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Q#"@en .
+
+wd:Q45341562 a wd:Q241317 ;
+    rdfs:label "OpenWISP"@en .
+
+wd:Q45393 a wd:Q1914636 ;
+    rdfs:label "piracy"@en .
+
+wd:Q4544975 a wd:Q9143 ;
+    rdfs:label "*Lisp"@en .
+
+wd:Q4545417 a wd:Q9143 ;
+    rdfs:label ".QL"@en .
+
+wd:Q455550 a wd:Q1914636 ;
+    rdfs:label "camping"@en .
+
+wd:Q456157 a wd:Q241317 ;
+    rdfs:label "Amazon Web Services"@en .
+
+wd:Q460584 a wd:Q12772052,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Scala"@en .
+
+wd:Q4624334 a wd:Q1914636 ;
+    rdfs:label "Q4624334"^^xsd:string .
+
+wd:Q4636211 a wd:Q9143 ;
+    rdfs:label "3APL"@en .
+
+wd:Q464338 a wd:Q9143 ;
+    rdfs:label "EGL"@en .
+
+wd:Q464622 a wd:Q9143 ;
+    rdfs:label "Lustre"@en .
+
+wd:Q4646840 a wd:Q9143 ;
+    rdfs:label "A++"@en .
+
+wd:Q4650401 a wd:Q9143 ;
+    rdfs:label "ABSET"@en .
+
+wd:Q4650409 a wd:Q9143 ;
+    rdfs:label "ABSYS"@en .
+
+wd:Q4650692 a wd:Q9143 ;
+    rdfs:label "ACL2"@en .
+
+wd:Q4651150 a wd:Q9143 ;
+    rdfs:label "ADMB"@en .
+
+wd:Q4651947 a wd:Q9143 ;
+    rdfs:label "AIMMS"@en .
+
+wd:Q4652259 a wd:Q9143 ;
+    rdfs:label "ALCOR"@en .
+
+wd:Q4652452 a wd:Q9143 ;
+    rdfs:label "ALTRAN"@en .
+
+wd:Q4652541 a wd:Q9143 ;
+    rdfs:label "AMBIT"@en .
+
+wd:Q4653031 a wd:Q9143 ;
+    rdfs:label "ANSI/ISO C Specification Language"@en .
+
+wd:Q4653791 a wd:Q9143 ;
+    rdfs:label "ARITH-MATIC"@en .
+
+wd:Q4653815 a wd:Q9143 ;
+    rdfs:label "ARLOGO"@en .
+
+wd:Q4653914 a wd:Q9143 ;
+    rdfs:label "ARS++"@en .
+
+wd:Q4654106 a wd:Q9143 ;
+    rdfs:label "ASCEND"@en .
+
+wd:Q4654788 a wd:Q9143 ;
+    rdfs:label "ATOLL"@en .
+
+wd:Q4657151 a wd:Q9143 ;
+    rdfs:label "HP-GL"@en .
+
+wd:Q465747 a wd:Q9143 ;
+    rdfs:label "BASIC A+"@en .
+
+wd:Q4659444 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "A♯"@en .
+
+wd:Q4669931 a wd:Q9143 ;
+    rdfs:label "Abstract State Machine Language"@en .
+
+wd:Q4669973 a wd:Q39487140 ;
+    rdfs:label "abstraction principle"@en .
+
+wd:Q4677478 a wd:Q9143 ;
+    rdfs:label "ActiveVFP"@en .
+
+wd:Q4677713 a wd:Q9143 ;
+    rdfs:label "Actor"@en .
+
+wd:Q4686176 a wd:Q629206 ;
+    rdfs:label "Advanced Continuous Simulation Language"@en .
+
+wd:Q4686498 a wd:Q9143 ;
+    rdfs:label "Adventure Definition Language"@en .
+
+wd:Q4686801 a wd:Q9143 ;
+    rdfs:label "Advice taker"@en .
+
+wd:Q4692056 a wd:Q9143 ;
+    rdfs:label "AgentSpeak"@en .
+
+wd:Q4692057 a wd:Q9143 ;
+    rdfs:label "AgentSheets"@en .
+
+wd:Q4693571 a wd:Q9143 ;
+    rdfs:label "Agora"@en .
+
+wd:Q47009221 a wd:Q241317 ;
+    rdfs:label "Hypothèses"@en .
+
+wd:Q47069765 a wd:Q1914636 ;
+    rdfs:label "Q47069765"^^xsd:string .
+
+wd:Q471181 a wd:Q9143 ;
+    rdfs:label "Amiga E"@en .
+
+wd:Q472328 a wd:Q1914636 ;
+    rdfs:label "science communication"@en .
+
+wd:Q4723982 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "Algebraic Logic Functional programming language"@en .
+
+wd:Q4724011 a wd:Q9143 ;
+    rdfs:label "Algebraic semantics"@en .
+
+wd:Q47315624 a wd:Q1914636 ;
+    rdfs:label "artillery observation"@en .
+
+wd:Q473201 a wd:Q9143 ;
+    rdfs:label "Turbo Pascal"@en .
+
+wd:Q4733507 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "Alma-0"@en .
+
+wd:Q4734969 a wd:Q9143 ;
+    rdfs:label "Alpha"@en .
+
+wd:Q4735267 a wd:Q9143 ;
+    rdfs:label "Alphard"@en .
+
+wd:Q4741415 a wd:Q9143 ;
+    rdfs:label "AmbientTalk"@en .
+
+wd:Q4750300 a wd:Q9143 ;
+    rdfs:label "Ana"@en .
+
+wd:Q4751143 a wd:Q9143 ;
+    rdfs:label "Analytica"@en .
+
+wd:Q47518092 a wd:Q1914636 ;
+    rdfs:label "Q47518092"^^xsd:string .
+
+wd:Q47607 a wd:Q9143 ;
+    rdfs:label "Structured Query Language"@en .
+
+wd:Q47755560 a wd:Q1914636 ;
+    rdfs:label "Bilibili Macro Link"@en .
+
+wd:Q477690 a wd:Q9143 ;
+    rdfs:label "CUDA"@en .
+
+wd:Q4779266 a wd:Q9143 ;
+    rdfs:label "ApeScript"@en .
+
+wd:Q4781157 a wd:Q9143 ;
+    rdfs:label "Apple Dylan"@en .
+
+wd:Q479833 a wd:Q9143 ;
+    rdfs:label "batch file"@en .
+
+wd:Q4807752 a wd:Q9143 ;
+    rdfs:label "AspectC++"@en .
+
+wd:Q4817198 a wd:Q9143 ;
+    rdfs:label "Atom"@en .
+
+wd:Q4826226 a wd:Q9143 ;
+    rdfs:label "autocode"@en .
+
+wd:Q4830701 a wd:Q9143 ;
+    rdfs:label "Axum"@en .
+
+wd:Q4834591 a wd:Q9143 ;
+    rdfs:label "BANCStar programming language"@en .
+
+wd:Q4834657 a wd:Q9143 ;
+    rdfs:label "BASIC-PLUS"@en .
+
+wd:Q4834660 a wd:Q9143 ;
+    rdfs:label "BASIC09"@en .
+
+wd:Q4834661 a wd:Q9143 ;
+    rdfs:label "BASIC 8"@en .
+
+wd:Q4835068 a wd:Q9143 ;
+    rdfs:label "BBN LISP"@en .
+
+wd:Q4835421 a wd:Q9143 ;
+    rdfs:label "BEFLIX"@en .
+
+wd:Q4837581 a wd:Q9143 ;
+    rdfs:label "Babbage"@en .
+
+wd:Q4838445 a wd:Q9143 ;
+    rdfs:label "Baby modula-3"@en .
+
+wd:Q48517 a wd:Q1914636 ;
+    rdfs:label "conservation and restoration of glass objects"@en .
+
+wd:Q4866927 a wd:Q9143 ;
+    rdfs:label "Basic4GL"@en .
+
+wd:Q4866929 a wd:Q9143 ;
+    rdfs:label "Basic4ppc"@en .
+
+wd:Q487378 a wd:Q9143 ;
+    rdfs:label "Embarcadero Delphi"@en .
+
+wd:Q4873920 a wd:Q121359 ;
+    rdfs:label "Bay Area Rapid Transit expansion"@en .
+
+wd:Q48785284 a wd:Q1914636 ;
+    rdfs:label "cultural management"@en .
+
+wd:Q48805027 a wd:Q187432 ;
+    rdfs:label "Jsish"@en .
+
+wd:Q4880704 a wd:Q9143 ;
+    rdfs:label "Behavioral Description Language"@en .
+
+wd:Q488598 a wd:Q1914636 ;
+    rdfs:label "forward air control"@en .
+
+wd:Q489048 a wd:Q241317 ;
+    rdfs:label "Microsoft Silverlight"@en .
+
+wd:Q489525 a wd:Q9143 ;
+    rdfs:label "True BASIC"@en .
+
+wd:Q4895846 a wd:Q9143 ;
+    rdfs:label "Bertrand"@en .
+
+wd:Q48987595 a wd:Q9143 ;
+    rdfs:label "Darwin"@en .
+
+wd:Q48989398 a wd:Q9143 ;
+    rdfs:label "Dafny"@en .
+
+wd:Q4904280 a wd:Q9143 ;
+    rdfs:label "Bidule"@en .
+
+wd:Q490481 a wd:Q9143 ;
+    rdfs:label "Turing"@en .
+
+wd:Q4918681 a wd:Q9143 ;
+    rdfs:label "BitC"@en .
+
+wd:Q4927494 a wd:Q9143 ;
+    rdfs:label "BlooP and FlooP"@en .
+
+wd:Q4928808 a wd:Q9143 ;
+    rdfs:label "Blue"@en .
+
+wd:Q4929239 a wd:Q1914636 ;
+    rdfs:label "data collection"@en .
+
+wd:Q4930559 a wd:Q9143 ;
+    rdfs:label "Bluespec, Inc."@en .
+
+wd:Q4940926 a wd:Q9143 ;
+    rdfs:label "Bon"@en .
+
+wd:Q4943501 a wd:Q9143 ;
+    rdfs:label "Boomerang"@en .
+
+wd:Q4979883 a wd:Q9143 ;
+    rdfs:label "Brutus2D"@en .
+
+wd:Q5001740 a wd:Q9143 ;
+    rdfs:label "Business Intelligence Markup Language"@en .
+
+wd:Q5005842 a wd:Q9143 ;
+    rdfs:label "C*"@en .
+
+wd:Q5008638 a wd:Q9143 ;
+    rdfs:label "CAL"@en .
+
+wd:Q5009904 a wd:Q241317 ;
+    rdfs:label "CDC 1700"@en .
+
+wd:Q5010234 a wd:Q9143 ;
+    rdfs:label "CEEMAC"@en .
+
+wd:Q5010978 a wd:Q9143 ;
+    rdfs:label "CGOL"@en .
+
+wd:Q5011029 a wd:Q9143 ;
+    rdfs:label "CHAIN"@en .
+
+wd:Q5012660 a wd:Q9143 ;
+    rdfs:label "CLACL"@en .
+
+wd:Q5012783 a wd:Q9143 ;
+    rdfs:label "CLP(R)"@en .
+
+wd:Q5012997 a wd:Q9143 ;
+    rdfs:label "CMS-2"@en .
+
+wd:Q5013335 a wd:Q9143 ;
+    rdfs:label "COLA"@en .
+
+wd:Q5013384 a wd:Q9143 ;
+    rdfs:label "COMTRAN"@en .
+
+wd:Q5013542 a wd:Q9143 ;
+    rdfs:label "COWSEL"@en .
+
+wd:Q5014168 a wd:Q9143 ;
+    rdfs:label "CSMP III"@en .
+
+wd:Q5014842 a wd:Q9143 ;
+    rdfs:label "CWEB"@en .
+
+wd:Q5015156 a wd:Q9143 ;
+    rdfs:label "CaPSL"@en .
+
+wd:Q5016025 a wd:Q9143 ;
+    rdfs:label "Caché ObjectScript"@en .
+
+wd:Q5016377 a wd:Q9143 ;
+    rdfs:label "Cadence SKILL"@en .
+
+wd:Q5028389 a wd:Q1914636 ;
+    rdfs:label "Camping in New Zealand"@en .
+
+wd:Q50308680 a wd:Q241317 ;
+    rdfs:label "Q50308680"^^xsd:string .
+
+wd:Q5031941 a wd:Q9143 ;
+    rdfs:label "Candle"@en .
+
+wd:Q50378369 a wd:Q3839507 ;
+    rdfs:label "GNU epsilon"@en .
+
+wd:Q504453 a wd:Q12772052,
+        wd:Q187432,
+        wd:Q1993334,
+        wd:Q205961,
+        wd:Q21562092,
+        wd:Q3839507 ;
+    rdfs:label "Groovy"@en .
+
+wd:Q5055293 a wd:Q9143 ;
+    rdfs:label "Cayenne"@en .
+
+wd:Q5057409 a wd:Q9143 ;
+    rdfs:label "Cel"@en .
+
+wd:Q505877 a wd:Q9143 ;
+    rdfs:label "CFEngine"@en .
+
+wd:Q5064549 a wd:Q9143 ;
+    rdfs:label "Cerner CCL"@en .
+
+wd:Q5065901 a wd:Q9143 ;
+    rdfs:label "Ch"@en .
+
+wd:Q50862267 a wd:Q1914636 ;
+    rdfs:label "Flying duck race"@en .
+
+wd:Q5086385 a wd:Q9143 ;
+    rdfs:label "Charm"@en .
+
+wd:Q5095896 a wd:Q9143 ;
+    rdfs:label "SmallBASIC"@en .
+
+wd:Q5104453 a wd:Q9143 ;
+    rdfs:label "chomski"@en .
+
+wd:Q51159967 a wd:Q9143 ;
+    rdfs:label "Futhark"@en .
+
+wd:Q51160093 a wd:Q9143 ;
+    rdfs:label "Pony"@en .
+
+wd:Q51160183 a wd:Q9143 ;
+    rdfs:label "Ballerina"@en .
+
+wd:Q51164236 a wd:Q1914636 ;
+    rdfs:label "counterfeiting"@en .
+
+wd:Q5116543 a wd:Q9143 ;
+    rdfs:label "Church"@en .
+
+wd:Q5118089 a wd:Q1914636 ;
+    rdfs:label "church planting"@en .
+
+wd:Q5119046 a wd:Q9143 ;
+    rdfs:label "CiMPLE"@en .
+
+wd:Q5119098 a wd:Q9143 ;
+    rdfs:label "Ciao"@en .
+
+wd:Q51241799 a wd:Q9143 ;
+    rdfs:label "M language"@en .
+
+wd:Q512480 a wd:Q9143 ;
+    rdfs:label "Just BASIC"@en .
+
+wd:Q5125133 a wd:Q9143 ;
+    rdfs:label "Claire"@en .
+
+wd:Q5127798 a wd:Q9143 ;
+    rdfs:label "Clascal"@en .
+
+wd:Q513238 a wd:Q9143 ;
+    rdfs:label "LOLCODE"@en .
+
+wd:Q5148494 a wd:Q9143 ;
+    rdfs:label "Colony Framework"@en .
+
+wd:Q5148548 a wd:Q9143 ;
+    rdfs:label "Color BASIC"@en .
+
+wd:Q5151587 a wd:Q9143 ;
+    rdfs:label "Comet"@en .
+
+wd:Q5154338 a wd:Q241317 ;
+    rdfs:label "VAX-11"@en .
+
+wd:Q5156377 a wd:Q9143 ;
+    rdfs:label "Compiler Description Language"@en .
+
+wd:Q5159095 a wd:Q9143 ;
+    rdfs:label "Concurrent Euclid"@en .
+
+wd:Q5159099 a wd:Q9143 ;
+    rdfs:label "Concurrent Haskell"@en .
+
+wd:Q5164373 a wd:Q9143 ;
+    rdfs:label "Constraint Handling Rules"@en .
+
+wd:Q5166349 a wd:Q9143 ;
+    rdfs:label "Converge"@en .
+
+wd:Q5169369 a wd:Q9143 ;
+    rdfs:label "CorVision"@en .
+
+wd:Q5171570 a wd:Q9143 ;
+    rdfs:label "Cornell University Programming Language"@en .
+
+wd:Q5174038 a wd:Q9143 ;
+    rdfs:label "CosmicOS"@en .
+
+wd:Q517656 a wd:Q1914636 ;
+    rdfs:label "records management"@en .
+
+wd:Q517956 a wd:Q9143 ;
+    rdfs:label "Malbolge"@en .
+
+wd:Q51798 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Clojure"@en .
+
+wd:Q5183486 a wd:Q9143 ;
+    rdfs:label "Creative Basic"@en .
+
+wd:Q51885456 a wd:Q9143 ;
+    rdfs:label "Zig"@en .
+
+wd:Q5190950 a wd:Q9143 ;
+    rdfs:label "Cryptol"@en .
+
+wd:Q519163 a wd:Q9143 ;
+    rdfs:label "Geometric Description Language"@en .
+
+wd:Q5197880 a wd:Q9143 ;
+    rdfs:label "Cybil"@en .
+
+wd:Q5204273 a wd:Q9143 ;
+    rdfs:label "DAP FORTRAN"@en .
+
+wd:Q5204326 a wd:Q9143 ;
+    rdfs:label "DASL"@en .
+
+wd:Q5204332 a wd:Q9143 ;
+    rdfs:label "DATATRIEVE"@en .
+
+wd:Q5204944 a wd:Q9143 ;
+    rdfs:label "DG/L"@en .
+
+wd:Q5205093 a wd:Q9143 ;
+    rdfs:label "DIBOL"@en .
+
+wd:Q5206860 a wd:Q9143 ;
+    rdfs:label "DYNAMO"@en .
+
+wd:Q52185779 a wd:Q9143 ;
+    rdfs:label "Эль-76"@en .
+
+wd:Q522041 a wd:Q9143 ;
+    rdfs:label "SNOBOL"@en .
+
+wd:Q5225670 a wd:Q9143 ;
+    rdfs:label "Dartmouth ALGOL 30"@en .
+
+wd:Q5227139 a wd:Q9143 ;
+    rdfs:label "Data Access Language"@en .
+
+wd:Q5227670 a wd:Q1914636 ;
+    rdfs:label "Dating coach"@en .
+
+wd:Q5236137 a wd:Q9143 ;
+    rdfs:label "Robot Battle"@en .
+
+wd:Q524931 a wd:Q1914636 ;
+    rdfs:label "Coup de grâce"@en .
+
+wd:Q5250999 a wd:Q9143 ;
+    rdfs:label "Deesel"@en .
+
+wd:Q5254772 a wd:Q1914636 ;
+    rdfs:label "pharmaceutical marketing"@en .
+
+wd:Q5264253 a wd:Q9143 ;
+    rdfs:label "Design By Numbers"@en .
+
+wd:Q5265705 a wd:Q9143 ;
+    rdfs:label "Deterministic Parallel Java"@en .
+
+wd:Q5266268 a wd:Q9143 ;
+    rdfs:label "Deutsch limit"@en .
+
+wd:Q526649 a wd:Q9143 ;
+    rdfs:label "IBM RPG II"@en .
+
+wd:Q5268476 a wd:Q9143 ;
+    rdfs:label "Dexterity programming language"@en .
+
+wd:Q527464 a wd:Q241317 ;
+    rdfs:label "MIPS"@en .
+
+wd:Q5275973 a wd:Q1914636 ;
+    rdfs:label "digital researcher"@en .
+
+wd:Q5280559 a wd:Q1914636 ;
+    rdfs:label "Director of Public Prosecutions"@en .
+
+wd:Q5288 a wd:Q12772052,
+        wd:Q187432,
+        wd:Q1993334 ;
+    rdfs:label "Tool Command Language"@en .
+
+wd:Q5289 a wd:Q241317 ;
+    rdfs:label ".NET Framework"@en .
+
+wd:Q5304638 a wd:Q9143 ;
+    rdfs:label "Draco"@en .
+
+wd:Q5308661 a wd:Q1914636 ;
+    rdfs:label "droving"@en .
+
+wd:Q53134483 a wd:Q9143 ;
+    rdfs:label "Bloom"@en .
+
+wd:Q5322691 a wd:Q9143 ;
+    rdfs:label "ECL"@en .
+
+wd:Q5322692 a wd:Q9143 ;
+    rdfs:label "ECL programming language"@en .
+
+wd:Q5322984 a wd:Q9143 ;
+    rdfs:label "EFL"@en .
+
+wd:Q5323120 a wd:Q9143 ;
+    rdfs:label "EICASLAB"@en .
+
+wd:Q5323601 a wd:Q9143 ;
+    rdfs:label "EMML"@en .
+
+wd:Q5323921 a wd:Q9143 ;
+    rdfs:label "EPSILON"@en .
+
+wd:Q5324679 a wd:Q9143 ;
+    rdfs:label "EXEC 2"@en .
+
+wd:Q5327483 a wd:Q9143 ;
+    rdfs:label "Ease"@en .
+
+wd:Q5331070 a wd:Q9143 ;
+    rdfs:label "EasyLanguage"@en .
+
+wd:Q5337731 a wd:Q205961 ;
+    rdfs:label "edge pull"@en .
+
+wd:Q5338206 a wd:Q9143 ;
+    rdfs:label "Edinburgh IMP"@en .
+
+wd:Q535220 a wd:Q9143 ;
+    rdfs:label "Grace"@en .
+
+wd:Q5362035 a wd:Q205961,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Elixir"@en .
+
+wd:Q536471 a wd:Q9143 ;
+    rdfs:label "NATURAL"@en .
+
+wd:Q5365609 a wd:Q9143 ;
+    rdfs:label "Elliott ALGOL"@en .
+
+wd:Q5366250 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Elm"@en .
+
+wd:Q5367900 a wd:Q9143 ;
+    rdfs:label "Eltron Programming Language"@en .
+
+wd:Q5370013 a wd:Q9143 ;
+    rdfs:label "Embedded style language"@en .
+
+wd:Q5370400 a wd:Q9143 ;
+    rdfs:label "Emerald"@en .
+
+wd:Q5371140 a wd:Q1914636 ;
+    rdfs:label "Q5371140"^^xsd:string .
+
+wd:Q537288 a wd:Q9143 ;
+    rdfs:label "Wiring"@en .
+
+wd:Q537963 a wd:Q1914636 ;
+    rdfs:label "forgiveness"@en .
+
+wd:Q5380335 a wd:Q9143 ;
+    rdfs:label "Enterprise Mashup Markup Language"@en .
+
+wd:Q5381001 a wd:Q1914636 ;
+    rdfs:label "Environment, Health and Safety"@en .
+
+wd:Q5382927 a wd:Q9143 ;
+    rdfs:label "Epigram"@en .
+
+wd:Q539268 a wd:Q9143 ;
+    rdfs:label "Inform"@en .
+
+wd:Q5397186 a wd:Q9143 ;
+    rdfs:label "Escher"@en .
+
+wd:Q5405195 a wd:Q9143 ;
+    rdfs:label "EuLisp"@en .
+
+wd:Q5406088 a wd:Q9143 ;
+    rdfs:label "Euclid"@en .
+
+wd:Q5421921 a wd:Q9143 ;
+    rdfs:label "Extensible Embeddable Language"@en .
+
+wd:Q5423569 a wd:Q9143 ;
+    rdfs:label "F*"@en .
+
+wd:Q5423621 a wd:Q9143 ;
+    rdfs:label "F-Script"@en .
+
+wd:Q5424451 a wd:Q9143 ;
+    rdfs:label "FARGO"@en .
+
+wd:Q5426589 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "FL"@en .
+
+wd:Q5426825 a wd:Q9143 ;
+    rdfs:label "FOCAL-69"@en .
+
+wd:Q5426845 a wd:Q9143 ;
+    rdfs:label "FOIL"@en .
+
+wd:Q5426889 a wd:Q9143 ;
+    rdfs:label "FORMAC"@en .
+
+wd:Q5426980 a wd:Q9143 ;
+    rdfs:label "FP84"@en .
+
+wd:Q5427374 a wd:Q9143 ;
+    rdfs:label "FX-87"@en .
+
+wd:Q5427382 a wd:Q9143 ;
+    rdfs:label "FXML"@en .
+
+wd:Q5427464 a wd:Q9143 ;
+    rdfs:label "F"@en .
+
+wd:Q5428331 a wd:Q9143 ;
+    rdfs:label "Face Modeling Language"@en .
+
+wd:Q54369131 a wd:Q241317 ;
+    rdfs:label "H2O"@en .
+
+wd:Q54370127 a wd:Q241317 ;
+    rdfs:label "Herdict"@en .
+
+wd:Q5448405 a wd:Q9143 ;
+    rdfs:label "Filetab"@en .
+
+wd:Q544927 a wd:Q9143 ;
+    rdfs:label "Limbo"@en .
+
+wd:Q5457453 a wd:Q9143 ;
+    rdfs:label "Flapjax"@en .
+
+wd:Q545981 a wd:Q1914636 ;
+    rdfs:label "image editing"@en .
+
+wd:Q5462069 a wd:Q9143 ;
+    rdfs:label "Flow Java"@en .
+
+wd:Q5462122 a wd:Q9143 ;
+    rdfs:label "Flowcode"@en .
+
+wd:Q5470342 a wd:Q9143 ;
+    rdfs:label "Formula language"@en .
+
+wd:Q5472703 a wd:Q629206 ;
+    rdfs:label "FortranM"@en .
+
+wd:Q5473510 a wd:Q1914636 ;
+    rdfs:label "fossil collecting"@en .
+
+wd:Q5477411 a wd:Q9143 ;
+    rdfs:label "FpgaC"@en .
+
+wd:Q54863010 a wd:Q1914636 ;
+    rdfs:label "Q54863010"^^xsd:string .
+
+wd:Q5501320 a wd:Q9143 ;
+    rdfs:label "Frege"@en .
+
+wd:Q5502775 a wd:Q9143 ;
+    rdfs:label "Frenetic"@en .
+
+wd:Q5504566 a wd:Q9143 ;
+    rdfs:label "Fril"@en .
+
+wd:Q5511064 a wd:Q9143 ;
+    rdfs:label "Fuzzy Control Language"@en .
+
+wd:Q5513190 a wd:Q9143 ;
+    rdfs:label "GEORGE"@en .
+
+wd:Q5513633 a wd:Q9143 ;
+    rdfs:label "GLOBAL"@en .
+
+wd:Q5514022 a wd:Q9143 ;
+    rdfs:label "GNU E"@en .
+
+wd:Q5514027 a wd:Q9143 ;
+    rdfs:label "GNU Radio Companion"@en .
+
+wd:Q5514049 a wd:Q9143 ;
+    rdfs:label "GOAL"@en .
+
+wd:Q5514650 a wd:Q9143 ;
+    rdfs:label "GScript"@en .
+
+wd:Q5519874 a wd:Q9143 ;
+    rdfs:label "Game Oriented Assembly Lisp"@en .
+
+wd:Q5530763 a wd:Q9143 ;
+    rdfs:label "Gemstone"@en .
+
+wd:Q5531641 a wd:Q9143 ;
+    rdfs:label "General-purpose declarative language"@en .
+
+wd:Q5532427 a wd:Q9143 ;
+    rdfs:label "Generalized Automation Language"@en .
+
+wd:Q553514 a wd:Q187432 ;
+    rdfs:label "JScript"@en .
+
+wd:Q55587453 a wd:Q9143 ;
+    rdfs:label "Loglan 88"@en .
+
+wd:Q55587497 a wd:Q9143 ;
+    rdfs:label "Loglan"@en .
+
+wd:Q55604776 a wd:Q9143 ;
+    rdfs:label "Ballerina (programming language)"@en .
+
+wd:Q55696286 a wd:Q241317 ;
+    rdfs:label "Data Transfer Project"@en .
+
+wd:Q5572247 a wd:Q9143 ;
+    rdfs:label "Glowe"@en .
+
+wd:Q5572399 a wd:Q9143 ;
+    rdfs:label "GluonJ"@en .
+
+wd:Q557450 a wd:Q1914636 ;
+    rdfs:label "docking and berthing of spacecraft"@en .
+
+wd:Q5583799 a wd:Q9143 ;
+    rdfs:label "Google Apps Script"@en .
+
+wd:Q55842038 a wd:Q1914636 ;
+    rdfs:label "Q55842038"^^xsd:string .
+
+wd:Q5587589 a wd:Q9143 ;
+    rdfs:label "Gosu"@en .
+
+wd:Q5596608 a wd:Q1914636 ;
+    rdfs:label "grantwriting"@en .
+
+wd:Q5607337 a wd:Q9143 ;
+    rdfs:label "Gremlin"@en .
+
+wd:Q56148050 a wd:Q121359 ;
+    rdfs:label "social and civic buildings"@en .
+
+wd:Q56260328 a wd:Q1914636 ;
+    rdfs:label "Q56260328"^^xsd:string .
+
+wd:Q56319164 a wd:Q1914636 ;
+    rdfs:label "Q56319164"^^xsd:string .
+
+wd:Q56342732 a wd:Q629206 ;
+    rdfs:label "Q56342732"^^xsd:string .
+
+wd:Q5635573 a wd:Q9143 ;
+    rdfs:label "HPCC"@en .
+
+wd:Q5635739 a wd:Q9143 ;
+    rdfs:label "HP Time-Shared BASIC"@en .
+
+wd:Q5644861 a wd:Q9143 ;
+    rdfs:label "Hamilton C shell"@en .
+
+wd:Q5671453 a wd:Q1914636 ;
+    rdfs:label "knife sharpening"@en .
+
+wd:Q5675045 a wd:Q9143 ;
+    rdfs:label "Hartmann pipeline"@en .
+
+wd:Q56808122 a wd:Q9143 ;
+    rdfs:label "Argus"@en .
+
+wd:Q568492 a wd:Q1914636 ;
+    rdfs:label "fitting (clothing)"@en .
+
+wd:Q5685510 a wd:Q121359 ;
+    rdfs:label "Q5685510"^^xsd:string .
+
+wd:Q57016392 a wd:Q9143 ;
+    rdfs:label "Snap4Arduino"@en .
+
+wd:Q5706200 a wd:Q9143 ;
+    rdfs:label "Helium"@en .
+
+wd:Q57165562 a wd:Q9143 ;
+    rdfs:label "Tekkie Uni"@en .
+
+wd:Q57204236 a wd:Q15411548 ;
+    rdfs:label "Jamstack"@en .
+
+wd:Q5723497 a wd:Q1914636 ;
+    rdfs:label "Q5723497"^^xsd:string .
+
+wd:Q572824 a wd:Q1914636 ;
+    rdfs:label "cultural heritage management"@en .
+
+wd:Q5739064 a wd:Q1914636 ;
+    rdfs:label "heritage trail"@en .
+
+wd:Q575439 a wd:Q1914636 ;
+    rdfs:label "clam digging"@en .
+
+wd:Q5754758 a wd:Q179310 ;
+    rdfs:label "High-throughput computing"@en .
+
+wd:Q575650 a wd:Q12772052,
+        wd:Q21562092,
+        wd:Q3839507 ;
+    rdfs:label "Rust"@en .
+
+wd:Q5765910 a wd:Q9143 ;
+    rdfs:label "Hindawi Programming System"@en .
+
+wd:Q577967 a wd:Q9143 ;
+    rdfs:label "Programmation Automatique des Formules"@en .
+
+wd:Q57942280 a wd:Q241317 ;
+    rdfs:label "Mobincube"@en .
+
+wd:Q57948355 a wd:Q9143 ;
+    rdfs:label "StaDyn"@en .
+
+wd:Q579880 a wd:Q9143 ;
+    rdfs:label "CLIST"@en .
+
+wd:Q580448 a wd:Q9143 ;
+    rdfs:label "Falcon"@en .
+
+wd:Q58329 a wd:Q187432 ;
+    rdfs:label "HyperTalk"@en .
+
+wd:Q584540 a wd:Q1914636 ;
+    rdfs:label "captain"@en .
+
+wd:Q584620 a wd:Q9143 ;
+    rdfs:label "NWScript"@en .
+
+wd:Q58642936 a wd:Q9143 ;
+    rdfs:label "Amber"@en .
+
+wd:Q586622 a wd:Q9143 ;
+    rdfs:label "Tiny BASIC"@en .
+
+wd:Q5875280 a wd:Q9143 ;
+    rdfs:label "hoc"@en .
+
+wd:Q5882078 a wd:Q9143 ;
+    rdfs:label "Gobstones"@en .
+
+wd:Q588806 a wd:Q9143 ;
+    rdfs:label "Integer BASIC"@en .
+
+wd:Q59 a wd:Q1993334 ;
+    rdfs:label "PHP"@en .
+
+wd:Q59154534 a wd:Q1914636 ;
+    rdfs:label "database administration"@en .
+
+wd:Q59155052 a wd:Q1914636 ;
+    rdfs:label "scanning"@en .
+
+wd:Q5933700 a wd:Q9143 ;
+    rdfs:label "Hugo"@en .
+
+wd:Q5940583 a wd:Q9143 ;
+    rdfs:label "Hume"@en .
+
+wd:Q59555084 a wd:Q1914636 ;
+    rdfs:label "fact checking"@en .
+
+wd:Q5957572 a wd:Q9143 ;
+    rdfs:label "HyperFun"@en .
+
+wd:Q5965507 a wd:Q9143 ;
+    rdfs:label "KL1"@en .
+
+wd:Q5968955 a wd:Q9143 ;
+    rdfs:label "IBM RPG III"@en .
+
+wd:Q5969053 a wd:Q9143 ;
+    rdfs:label "IBM System/36 BASIC"@en .
+
+wd:Q5971386 a wd:Q9143 ;
+    rdfs:label "IITRAN"@en .
+
+wd:Q5972087 a wd:Q9143 ;
+    rdfs:label "IMP"@en .
+
+wd:Q597330 a wd:Q1993334,
+        wd:Q9143 ;
+    rdfs:label "Standard ML"@en .
+
+wd:Q5973848 a wd:Q9143 ;
+    rdfs:label "ISETLW"@en .
+
+wd:Q5974027 a wd:Q9143 ;
+    rdfs:label "ISLISP"@en .
+
+wd:Q5986860 a wd:Q9143 ;
+    rdfs:label "Id"@en .
+
+wd:Q6000370 a wd:Q9143 ;
+    rdfs:label "Illumination Software Creator"@en .
+
+wd:Q60042658 a wd:Q1914636 ;
+    rdfs:label "thaumaturgy"@en .
+
+wd:Q600450 a wd:Q9143 ;
+    rdfs:label "KTurtle"@en .
+
+wd:Q6007984 a wd:Q9143 ;
+    rdfs:label "Impulse C"@en .
+
+wd:Q601641 a wd:Q1914636 ;
+    rdfs:label "aircraft spotting"@en .
+
+wd:Q602012 a wd:Q9143 ;
+    rdfs:label "Sather"@en .
+
+wd:Q6024222 a wd:Q9143 ;
+    rdfs:label "gawk"@en .
+
+wd:Q6036852 a wd:Q9143 ;
+    rdfs:label "NEAT"@en .
+
+wd:Q60396389 a wd:Q1914636 ;
+    rdfs:label "backing vocal"@en .
+
+wd:Q6043451 a wd:Q9143 ;
+    rdfs:label "Intel Concurrent Collections"@en .
+
+wd:Q6043516 a wd:Q9143 ;
+    rdfs:label "Intel Parallel Building Blocks"@en .
+
+wd:Q6045242 a wd:Q9143 ;
+    rdfs:label "Interactive C"@en .
+
+wd:Q604792 a wd:Q9143 ;
+    rdfs:label "Singularity"@en .
+
+wd:Q60551191 a wd:Q9143 ;
+    rdfs:label "graph query language"@en .
+
+wd:Q6059598 a wd:Q1914636 ;
+    rdfs:label "Zenne"@en .
+
+wd:Q60617979 a wd:Q1914636 ;
+    rdfs:label "Laienprediger (in German)"@en .
+
+wd:Q606550 a wd:Q9143 ;
+    rdfs:label "Simulink"@en .
+
+wd:Q6067575 a wd:Q9143 ;
+    rdfs:label "Pauscal"@en .
+
+wd:Q6072267 a wd:Q9143 ;
+    rdfs:label "IronLisp"@en .
+
+wd:Q608276 a wd:Q9143 ;
+    rdfs:label "Unreal Engine"@en .
+
+wd:Q608565 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "Cobra"@en .
+
+wd:Q609180 a wd:Q9143 ;
+    rdfs:label "Quartz Composer"@en .
+
+wd:Q609804 a wd:Q9143 ;
+    rdfs:label "JavaFX Script"@en .
+
+wd:Q61047486 a wd:Q9143 ;
+    rdfs:label "Biological Expression Language"@en .
+
+wd:Q6105049 a wd:Q1914636 ;
+    rdfs:label "Changing of the Royal Guards at the Royal Palace of Madrid"@en .
+
+wd:Q6107617 a wd:Q9143 ;
+    rdfs:label "JADE"@en .
+
+wd:Q6108047 a wd:Q9143 ;
+    rdfs:label "JEAN"@en .
+
+wd:Q6108552 a wd:Q9143 ;
+    rdfs:label "JModelica.org"@en .
+
+wd:Q6108839 a wd:Q9143 ;
+    rdfs:label "JRT"@en .
+
+wd:Q6125402 a wd:Q9143 ;
+    rdfs:label "QUEL"@en .
+
+wd:Q613270 a wd:Q629206 ;
+    rdfs:label "Knowledge Query and Manipulation Language"@en .
+
+wd:Q61391 a wd:Q1914636 ;
+    rdfs:label "cheerleading"@en .
+
+wd:Q6147158 a wd:Q9143 ;
+    rdfs:label "Tink"@en .
+
+wd:Q6155940 a wd:Q9143 ;
+    rdfs:label "Janus"@en .
+
+wd:Q61606996 a wd:Q241317 ;
+    rdfs:label "Pathwar"@en .
+
+wd:Q61632937 a wd:Q9143 ;
+    rdfs:label "V"@en .
+
+wd:Q61783220 a wd:Q1914636 ;
+    rdfs:label "handball executive"@en .
+
+wd:Q61892423 a wd:Q1914636 ;
+    rdfs:label "radio pioneer"@en .
+
+wd:Q620464 a wd:Q9143 ;
+    rdfs:label "G-code"@en .
+
+wd:Q6208245 a wd:Q9143 ;
+    rdfs:label "Joe-E"@en .
+
+wd:Q621556 a wd:Q9143 ;
+    rdfs:label "Applesoft BASIC"@en .
+
+wd:Q621618 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "ATS"@en .
+
+wd:Q623610 a wd:Q9143 ;
+    rdfs:label "MBASIC"@en .
+
+wd:Q62493681 a wd:Q241317 ;
+    rdfs:label "Agency for the Development of Creative Industries"@en .
+
+wd:Q6268981 a wd:Q9143 ;
+    rdfs:label "Join-pattern"@en .
+
+wd:Q6268983 a wd:Q9143 ;
+    rdfs:label "Join-calculus"@en .
+
+wd:Q6268991 a wd:Q9143 ;
+    rdfs:label "Join Java"@en .
+
+wd:Q627335 a wd:Q1914636 ;
+    rdfs:label "workflow"@en .
+
+wd:Q627600 a wd:Q9143 ;
+    rdfs:label "Visual Prolog"@en .
+
+wd:Q629329 a wd:Q1914636 ;
+    rdfs:label "work scheduling"@en .
+
+wd:Q6294583 a wd:Q9143 ;
+    rdfs:label "Joule"@en .
+
+wd:Q6297370 a wd:Q9143 ;
+    rdfs:label "Joyce"@en .
+
+wd:Q6304189 a wd:Q9143 ;
+    rdfs:label "Judoscript"@en .
+
+wd:Q63170827 a wd:Q9143 ;
+    rdfs:label "ZIL"@en .
+
+wd:Q63243349 a wd:Q9143 ;
+    rdfs:label "Bosque"@en .
+
+wd:Q6331122 a wd:Q9143 ;
+    rdfs:label "KISS"@en .
+
+wd:Q6332350 a wd:Q9143 ;
+    rdfs:label "KL0"@en .
+
+wd:Q6334120 a wd:Q9143 ;
+    rdfs:label "KM"@en .
+
+wd:Q6334372 a wd:Q9143 ;
+    rdfs:label "KNITRO"@en .
+
+wd:Q6335049 a wd:Q9143 ;
+    rdfs:label "KOMPILER"@en .
+
+wd:Q6336852 a wd:Q9143 ;
+    rdfs:label "KRL"@en .
+
+wd:Q633894 a wd:Q12772052,
+        wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "Object Pascal"@en .
+
+wd:Q63453753 a wd:Q1914636 ;
+    rdfs:label "Camping in Israel"@en .
+
+wd:Q63565848 a wd:Q9143 ;
+    rdfs:label "Reason"@en .
+
+wd:Q635863 a wd:Q1914636 ;
+    rdfs:label "Archival appraisal"@en .
+
+wd:Q6379087 a wd:Q1914636 ;
+    rdfs:label "Kavanah"@en .
+
+wd:Q6398316 a wd:Q9143 ;
+    rdfs:label "Keykit"@en .
+
+wd:Q64041747 a wd:Q241317 ;
+    rdfs:label "Kitaboo"@en .
+
+wd:Q6410762 a wd:Q9143 ;
+    rdfs:label "Kinetic Rule Language"@en .
+
+wd:Q6420637 a wd:Q9143 ;
+    rdfs:label "Klerer-May System"@en .
+
+wd:Q642207 a wd:Q9143 ;
+    rdfs:label "CHILL"@en .
+
+wd:Q6423395 a wd:Q1914636 ;
+    rdfs:label "knowledge sharing"@en .
+
+wd:Q6426496 a wd:Q9143 ;
+    rdfs:label "Kojo"@en .
+
+wd:Q64280234 a wd:Q1914636 ;
+    rdfs:label "knowledge work"@en .
+
+wd:Q643190 a wd:Q1914636 ;
+    rdfs:label "subvertising"@en .
+
+wd:Q6439704 a wd:Q9143 ;
+    rdfs:label "Krypton"@en .
+
+wd:Q64493021 a wd:Q1914636 ;
+    rdfs:label "Q64493021"^^xsd:string .
+
+wd:Q6457572 a wd:Q9143 ;
+    rdfs:label "LEAP"@en .
+
+wd:Q6458803 a wd:Q9143 ;
+    rdfs:label "LISA"@en .
+
+wd:Q6458817 a wd:Q9143 ;
+    rdfs:label "LIS"@en .
+
+wd:Q6459541 a wd:Q9143 ;
+    rdfs:label "LOOM"@en .
+
+wd:Q6460406 a wd:Q9143 ;
+    rdfs:label "AMPLE"@en .
+
+wd:Q6460486 a wd:Q9143 ;
+    rdfs:label "LYaPAS"@en .
+
+wd:Q6460570 a wd:Q9143 ;
+    rdfs:label "L Sharp"@en .
+
+wd:Q6460608 a wd:Q9143 ;
+    rdfs:label "L"@en .
+
+wd:Q646446 a wd:Q9143 ;
+    rdfs:label "General Algebraic Modeling System"@en .
+
+wd:Q64683329 a wd:Q9143 ;
+    rdfs:label "Pyret"@en .
+
+wd:Q648124 a wd:Q9143 ;
+    rdfs:label "Gambas"@en .
+
+wd:Q64822003 a wd:Q241317 ;
+    rdfs:label "Q64822003"^^xsd:string .
+
+wd:Q64827257 a wd:Q9143 ;
+    rdfs:label "Myrddin"@en .
+
+wd:Q64840933 a wd:Q9143 ;
+    rdfs:label "Odin"@en .
+
+wd:Q64841038 a wd:Q241317 ;
+    rdfs:label "transport.data.gouv.fr"@en .
+
+wd:Q64848522 a wd:Q241317 ;
+    rdfs:label "Touchstone (Risk Management Software)"@en .
+
+wd:Q648619 a wd:Q12772052,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "FSharp"@en .
+
+wd:Q6487099 a wd:Q9143 ;
+    rdfs:label "Laning and Zierler system"@en .
+
+wd:Q6487542 a wd:Q121359 ;
+    rdfs:label "Lantau Link"@en .
+
+wd:Q648877 a wd:Q1914636 ;
+    rdfs:label "post-production"@en .
+
+wd:Q64931520 a wd:Q9143 ;
+    rdfs:label "GraphQL Editor"@en .
+
+wd:Q6500754 a wd:Q1914636 ;
+    rdfs:label "internship"@en .
+
+wd:Q6502171 a wd:Q9143 ;
+    rdfs:label "Lava"@en .
+
+wd:Q65038061 a wd:Q241317 ;
+    rdfs:label "EdgeX Foundry"@en .
+
+wd:Q65054666 a wd:Q9143 ;
+    rdfs:label "PWCT"@en .
+
+wd:Q65056974 a wd:Q9143 ;
+    rdfs:label "Edison"@en .
+
+wd:Q6506135 a wd:Q9143 ;
+    rdfs:label "Lazy ML"@en .
+
+wd:Q65062017 a wd:Q9143 ;
+    rdfs:label "TI-BASIC 83"@en .
+
+wd:Q65065977 a wd:Q9143 ;
+    rdfs:label "1C:Enterprise programming language"@en .
+
+wd:Q65079041 a wd:Q9143 ;
+    rdfs:label "Cirq"@en .
+
+wd:Q65082796 a wd:Q9143 ;
+    rdfs:label "PureScript"@en .
+
+wd:Q65117752 a wd:Q9143 ;
+    rdfs:label "Frame-based editor"@en .
+
+wd:Q65118809 a wd:Q9143 ;
+    rdfs:label "Zenith Parsing Engine"@en .
+
+wd:Q65122282 a wd:Q9143 ;
+    rdfs:label "JS++"@en .
+
+wd:Q65204315 a wd:Q121359 ;
+    rdfs:label "Q65204315"^^xsd:string .
+
+wd:Q652122 a wd:Q1914636 ;
+    rdfs:label "sewing"@en .
+
+wd:Q6549809 a wd:Q9143 ;
+    rdfs:label "Limnor"@en .
+
+wd:Q6554717 a wd:Q9143 ;
+    rdfs:label "Linoleum"@en .
+
+wd:Q6559085 a wd:Q9143 ;
+    rdfs:label "LispWorks"@en .
+
+wd:Q65647244 a wd:Q241317 ;
+    rdfs:label "distributed multimedia communications platform"@en .
+
+wd:Q65651592 a wd:Q121359 ;
+    rdfs:label "Infraestrutura do Ceará"@en .
+
+wd:Q65718426 a wd:Q1914636 ;
+    rdfs:label "archiving"@en .
+
+wd:Q657881 a wd:Q121359 ;
+    rdfs:label "Usenet newsgroup"@en .
+
+wd:Q65942042 a wd:Q1914636 ;
+    rdfs:label "advanced flight training"@en .
+
+wd:Q65945161 a wd:Q1914636 ;
+    rdfs:label "Q65945161"^^xsd:string .
+
+wd:Q66056359 a wd:Q241317 ;
+    rdfs:label "Q66056359"^^xsd:string .
+
+wd:Q661045 a wd:Q1914636 ;
+    rdfs:label "ventriloquism"@en .
+
+wd:Q66121105 a wd:Q9143 ;
+    rdfs:label "Alore"@en .
+
+wd:Q66124520 a wd:Q3839507 ;
+    rdfs:label "Alpaca"@en .
+
+wd:Q66124825 a wd:Q9143 ;
+    rdfs:label "C2"@en .
+
+wd:Q661979 a wd:Q9143 ;
+    rdfs:label "Atari Microsoft BASIC"@en .
+
+wd:Q663375 a wd:Q1914636 ;
+    rdfs:label "hatmaking"@en .
+
+wd:Q66370905 a wd:Q9143 ;
+    rdfs:label "Gleam"@en .
+
+wd:Q66380847 a wd:Q205961 ;
+    rdfs:label "bouncing"@en .
+
+wd:Q66437036 a wd:Q1914636 ;
+    rdfs:label "car washing"@en .
+
+wd:Q66442226 a wd:Q241317 ;
+    rdfs:label "Starly"@en .
+
+wd:Q6647840 a wd:Q9143 ;
+    rdfs:label "Lithe"@en .
+
+wd:Q664867 a wd:Q9143 ;
+    rdfs:label "Lingo"@en .
+
+wd:Q6652643 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Little b"@en .
+
+wd:Q667290 a wd:Q9143 ;
+    rdfs:label "HAL/S"@en .
+
+wd:Q66754576 a wd:Q9143 ;
+    rdfs:label "Q66754576"^^xsd:string .
+
+wd:Q667566 a wd:Q9143 ;
+    rdfs:label "Visual Basic for Applications"@en .
+
+wd:Q667812 a wd:Q9143 ;
+    rdfs:label "ATLAS Transformation Language"@en .
+
+wd:Q66901878 a wd:Q241317 ;
+    rdfs:label "MIPS architecture"@en .
+
+wd:Q66944420 a wd:Q9143 ;
+    rdfs:label "Orca"@en .
+
+wd:Q670180 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Unlambda"@en .
+
+wd:Q6709560 a wd:Q9143 ;
+    rdfs:label "Lynx"@en .
+
+wd:Q6713689 a wd:Q9143 ;
+    rdfs:label "M2001"@en .
+
+wd:Q6714477 a wd:Q9143 ;
+    rdfs:label "MARK IV"@en .
+
+wd:Q6715155 a wd:Q9143 ;
+    rdfs:label "MDL"@en .
+
+wd:Q6716041 a wd:Q9143 ;
+    rdfs:label "MIIS"@en .
+
+wd:Q6716125 a wd:Q9143 ;
+    rdfs:label "MIMIC"@en .
+
+wd:Q6716140 a wd:Q187432 ;
+    rdfs:label "MINC"@en .
+
+wd:Q6716698 a wd:Q9143 ;
+    rdfs:label "MLisp"@en .
+
+wd:Q6717087 a wd:Q9143 ;
+    rdfs:label "MOO"@en .
+
+wd:Q6717920 a wd:Q9143 ;
+    rdfs:label "MST Workshop"@en .
+
+wd:Q672307 a wd:Q9143 ;
+    rdfs:label "NetLogo"@en .
+
+wd:Q6725127 a wd:Q9143 ;
+    rdfs:label "MacroML"@en .
+
+wd:Q67551124 a wd:Q1914636 ;
+    rdfs:label "Extirpation of Idolatries"@en .
+
+wd:Q67580943 a wd:Q1914636 ;
+    rdfs:label "Drawing Group"@en .
+
+wd:Q67584473 a wd:Q241317 ;
+    rdfs:label "vw.os"@en .
+
+wd:Q677161 a wd:Q9143 ;
+    rdfs:label "GAP"@en .
+
+wd:Q6778754 a wd:Q9143 ;
+    rdfs:label "Mary"@en .
+
+wd:Q6789176 a wd:Q9143 ;
+    rdfs:label "Kabal"@en .
+
+wd:Q67903975 a wd:Q1914636 ;
+    rdfs:label "agent handling"@en .
+
+wd:Q6806625 a wd:Q1914636 ;
+    rdfs:label "medical writing"@en .
+
+wd:Q681360 a wd:Q9143 ;
+    rdfs:label "OpenCL"@en .
+
+wd:Q6819872 a wd:Q1914636 ;
+    rdfs:label "mermaiding"@en .
+
+wd:Q6822228 a wd:Q9143 ;
+    rdfs:label "Met English"@en .
+
+wd:Q6825695 a wd:Q9143 ;
+    rdfs:label "MexScript"@en .
+
+wd:Q68324344 a wd:Q1914636 ;
+    rdfs:label "swordsmanship"@en .
+
+wd:Q685820 a wd:Q1993334,
+        wd:Q9143 ;
+    rdfs:label "REXX"@en .
+
+wd:Q6864985 a wd:Q9143 ;
+    rdfs:label "MiniD"@en .
+
+wd:Q687889 a wd:Q1914636 ;
+    rdfs:label "ripping"@en .
+
+wd:Q6898824 a wd:Q9143 ;
+    rdfs:label "Mondrian"@en .
+
+wd:Q6927181 a wd:Q9143 ;
+    rdfs:label "Movitz"@en .
+
+wd:Q6931851 a wd:Q9143 ;
+    rdfs:label "Mudlle"@en .
+
+wd:Q69389030 a wd:Q1914636 ;
+    rdfs:label "Q69389030"^^xsd:string .
+
+wd:Q6941611 a wd:Q9143 ;
+    rdfs:label "Music Markup Language"@en .
+
+wd:Q69459844 a wd:Q241317 ;
+    rdfs:label "Open Subsurface Data Universe"@en .
+
+wd:Q69466762 a wd:Q1914636 ;
+    rdfs:label "loading"@en .
+
+wd:Q6953575 a wd:Q9143 ;
+    rdfs:label "NESL"@en .
+
+wd:Q6953629 a wd:Q9143 ;
+    rdfs:label "NEWP"@en .
+
+wd:Q6953955 a wd:Q9143 ;
+    rdfs:label "NGL"@en .
+
+wd:Q6954329 a wd:Q9143 ;
+    rdfs:label "NIL"@en .
+
+wd:Q6955040 a wd:Q9143 ;
+    rdfs:label "NPL"@en .
+
+wd:Q6955411 a wd:Q9143 ;
+    rdfs:label "NS Basic"@en .
+
+wd:Q6964898 a wd:Q9143 ;
+    rdfs:label "Napier88"@en .
+
+wd:Q6980172 a wd:Q9143 ;
+    rdfs:label "Nato.0+55+3d"@en .
+
+wd:Q6989196 a wd:Q1914636 ;
+    rdfs:label "conducting"@en .
+
+wd:Q69965725 a wd:Q1914636 ;
+    rdfs:label "sunbathing"@en .
+
+wd:Q6997801 a wd:Q629206 ;
+    rdfs:label "Nested Context Language"@en .
+
+wd:Q6998127 a wd:Q9143 ;
+    rdfs:label "Net.Data"@en .
+
+wd:Q6998311 a wd:Q9143 ;
+    rdfs:label "NetRexx"@en .
+
+wd:Q70192360 a wd:Q121359 ;
+    rdfs:label "Q70192360"^^xsd:string .
+
+wd:Q7019813 a wd:Q9143 ;
+    rdfs:label "Newspeak"@en .
+
+wd:Q7023815 a wd:Q9143 ;
+    rdfs:label "Nial"@en .
+
+wd:Q702635 a wd:Q1914636 ;
+    rdfs:label "Alternative civilian service"@en .
+
+wd:Q7028507 a wd:Q9143 ;
+    rdfs:label "Nickle"@en .
+
+wd:Q7050550 a wd:Q9143 ;
+    rdfs:label "Nord Programming Language"@en .
+
+wd:Q7067717 a wd:Q9143 ;
+    rdfs:label "Nu"@en .
+
+wd:Q7072276 a wd:Q9143 ;
+    rdfs:label "o:XML"@en .
+
+wd:Q7072318 a wd:Q9143 ;
+    rdfs:label "OBJ2"@en .
+
+wd:Q7072320 a wd:Q9143 ;
+    rdfs:label "OBJ3"@en .
+
+wd:Q7072323 a wd:Q9143 ;
+    rdfs:label "OBJ"@en .
+
+wd:Q7072853 a wd:Q9143 ;
+    rdfs:label "OPS5"@en .
+
+wd:Q7072910 a wd:Q9143 ;
+    rdfs:label "ORCA/Modula-2"@en .
+
+wd:Q7074171 a wd:Q9143 ;
+    rdfs:label "Oaklisp"@en .
+
+wd:Q7074990 a wd:Q9143 ;
+    rdfs:label "Obix"@en .
+
+wd:Q7074992 a wd:Q9143 ;
+    rdfs:label "ObjVlisp"@en .
+
+wd:Q7075026 a wd:Q9143 ;
+    rdfs:label "ObjectLOGO"@en .
+
+wd:Q7075040 a wd:Q9143 ;
+    rdfs:label "Object Oberon"@en .
+
+wd:Q7075121 a wd:Q9143 ;
+    rdfs:label "Objlog"@en .
+
+wd:Q7075164 a wd:Q9143 ;
+    rdfs:label "Obliq"@en .
+
+wd:Q7075672 a wd:Q9143 ;
+    rdfs:label "occam-π"@en .
+
+wd:Q7090311 a wd:Q9143 ;
+    rdfs:label "OmniMark"@en .
+
+wd:Q7094123 a wd:Q1914636 ;
+    rdfs:label "online search"@en .
+
+wd:Q7095186 a wd:Q9143 ;
+    rdfs:label "Onyx"@en .
+
+wd:Q7095834 a wd:Q9143 ;
+    rdfs:label "OpenMx"@en .
+
+wd:Q7096253 a wd:Q241317 ;
+    rdfs:label "Open Telecom Platform"@en .
+
+wd:Q7096284 a wd:Q241317 ;
+    rdfs:label "Web Platform"@en .
+
+wd:Q7100142 a wd:Q9143 ;
+    rdfs:label "Orc"@en .
+
+wd:Q7102251 a wd:Q1993334,
+        wd:Q9143 ;
+    rdfs:label "Oriel"@en .
+
+wd:Q7105278 a wd:Q9143 ;
+    rdfs:label "Orwell"@en .
+
+wd:Q7118053 a wd:Q9143 ;
+    rdfs:label "PACT"@en .
+
+wd:Q7118490 a wd:Q1993334,
+        wd:Q9143 ;
+    rdfs:label "PCASTL"@en .
+
+wd:Q7118891 a wd:Q1914636 ;
+    rdfs:label "PECE"@en .
+
+wd:Q7119391 a wd:Q1993334,
+        wd:Q9143 ;
+    rdfs:label "PIKT"@en .
+
+wd:Q7119550 a wd:Q9143 ;
+    rdfs:label "PL-11"@en .
+
+wd:Q7119554 a wd:Q9143 ;
+    rdfs:label "PL/C"@en .
+
+wd:Q7119556 a wd:Q9143 ;
+    rdfs:label "PL/P"@en .
+
+wd:Q7119559 a wd:Q9143 ;
+    rdfs:label "PL360"@en .
+
+wd:Q7119581 a wd:Q9143 ;
+    rdfs:label "PLANC"@en .
+
+wd:Q7119633 a wd:Q9143 ;
+    rdfs:label "PLEXIL"@en .
+
+wd:Q7119636 a wd:Q9143 ;
+    rdfs:label "PLEX"@en .
+
+wd:Q7120001 a wd:Q9143 ;
+    rdfs:label "POP-11"@en .
+
+wd:Q7120003 a wd:Q9143 ;
+    rdfs:label "POP-2"@en .
+
+wd:Q7120399 a wd:Q9143 ;
+    rdfs:label "PROMAL"@en .
+
+wd:Q7120559 a wd:Q9143 ;
+    rdfs:label "PS-algol"@en .
+
+wd:Q7121115 a wd:Q9143 ;
+    rdfs:label "PV-Wave"@en .
+
+wd:Q7129538 a wd:Q9143 ;
+    rdfs:label "Pan"@en .
+
+wd:Q7131637 a wd:Q9143 ;
+    rdfs:label "Pantalk"@en .
+
+wd:Q713197 a wd:Q1914636 ;
+    rdfs:label "Q713197"^^xsd:string .
+
+wd:Q7133637 a wd:Q9143 ;
+    rdfs:label "ParaSail"@en .
+
+wd:Q7139110 a wd:Q9143 ;
+    rdfs:label "Parlog"@en .
+
+wd:Q7140017 a wd:Q1914636 ;
+    rdfs:label "Parson-naturalist"@en .
+
+wd:Q71633630 a wd:Q241317 ;
+    rdfs:label "Picture Post"@en .
+
+wd:Q7165836 a wd:Q9143 ;
+    rdfs:label "PeopleCode"@en .
+
+wd:Q7179822 a wd:Q9143 ;
+    rdfs:label "Pforth"@en .
+
+wd:Q7187965 a wd:Q9143 ;
+    rdfs:label "Php4delphi"@en .
+
+wd:Q7190449 a wd:Q9143 ;
+    rdfs:label "Pic Micro Pascal"@en .
+
+wd:Q7191049 a wd:Q9143 ;
+    rdfs:label "PicoLisp"@en .
+
+wd:Q7191089 a wd:Q9143 ;
+    rdfs:label "Pict"@en .
+
+wd:Q7197271 a wd:Q9143 ;
+    rdfs:label "Pipeline Pilot"@en .
+
+wd:Q7197427 a wd:Q9143 ;
+    rdfs:label "Plus"@en .
+
+wd:Q722656 a wd:Q241317 ;
+    rdfs:label "Mono"@en .
+
+wd:Q7226597 a wd:Q9143 ;
+    rdfs:label "Polymorphic Programming Language"@en .
+
+wd:Q7226600 a wd:Q9143 ;
+    rdfs:label "Polymorphic recursion"@en .
+
+wd:Q722867 a wd:Q9143 ;
+    rdfs:label "Kawa"@en .
+
+wd:Q7229443 a wd:Q9143 ;
+    rdfs:label "Poplog"@en .
+
+wd:Q7231352 a wd:Q9143 ;
+    rdfs:label "Portable Standard Lisp"@en .
+
+wd:Q7234359 a wd:Q1914636 ;
+    rdfs:label "postmarketing surveillance"@en .
+
+wd:Q7236198 a wd:Q9143 ;
+    rdfs:label "PowerHouse"@en .
+
+wd:Q7246691 a wd:Q9143 ;
+    rdfs:label "ProSet"@en .
+
+wd:Q7248259 a wd:Q9143 ;
+    rdfs:label "Profile Scripting Language"@en .
+
+wd:Q7248393 a wd:Q9143 ;
+    rdfs:label "Program Composition Notation"@en .
+
+wd:Q7248448 a wd:Q9143 ;
+    rdfs:label "Programmable Macro Language"@en .
+
+wd:Q7248484 a wd:Q9143 ;
+    rdfs:label "Programming Computable Functions"@en .
+
+wd:Q7248516 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "Prograph"@en .
+
+wd:Q7251525 a wd:Q9143 ;
+    rdfs:label "Protel"@en .
+
+wd:Q7253904 a wd:Q9143 ;
+    rdfs:label "Psake"@en .
+
+wd:Q725401 a wd:Q9143 ;
+    rdfs:label "VisiCalc"@en .
+
+wd:Q725672 a wd:Q1914636 ;
+    rdfs:label "mystery shopping"@en .
+
+wd:Q7257107 a wd:Q9143 ;
+    rdfs:label "Ptolemy Project"@en .
+
+wd:Q7261054 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Pure"@en .
+
+wd:Q726218 a wd:Q9143 ;
+    rdfs:label "XML User Interface Language"@en .
+
+wd:Q7262800 a wd:Q9143 ;
+    rdfs:label "PyLinda"@en .
+
+wd:Q7262807 a wd:Q9143 ;
+    rdfs:label "PyUnit"@en .
+
+wd:Q7263936 a wd:Q9143 ;
+    rdfs:label "Python for S60"@en .
+
+wd:Q7265605 a wd:Q9143 ;
+    rdfs:label "QUIKTRAN"@en .
+
+wd:Q7265606 a wd:Q9143 ;
+    rdfs:label "QUILL"@en .
+
+wd:Q7265635 a wd:Q9143 ;
+    rdfs:label "Q"@en .
+
+wd:Q7265638 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Q"@en .
+
+wd:Q7265978 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Qalb"@en .
+
+wd:Q7268206 a wd:Q9143 ;
+    rdfs:label "Qu"@en .
+
+wd:Q7269167 a wd:Q9143 ;
+    rdfs:label "Quark Framework"@en .
+
+wd:Q7273242 a wd:Q9143 ;
+    rdfs:label "R++"@en .
+
+wd:Q7275797 a wd:Q9143 ;
+    rdfs:label "RAPID"@en .
+
+wd:Q7277404 a wd:Q9143 ;
+    rdfs:label "ROOP"@en .
+
+wd:Q7277848 a wd:Q9143 ;
+    rdfs:label "RTL/2"@en .
+
+wd:Q7277859 a wd:Q9143 ;
+    rdfs:label "RTML"@en .
+
+wd:Q7293199 a wd:Q9143 ;
+    rdfs:label "rank"@en .
+
+wd:Q7294734 a wd:Q9143 ;
+    rdfs:label "RascalMPL"@en .
+
+wd:Q7301377 a wd:Q9143 ;
+    rdfs:label "Realtime Programming Language"@en .
+
+wd:Q730272 a wd:Q9143 ;
+    rdfs:label "Lisp Machine Lisp"@en .
+
+wd:Q7309430 a wd:Q1914636 ;
+    rdfs:label "Registrar of Companies"@en .
+
+wd:Q732089 a wd:Q12772052,
+        wd:Q1993334,
+        wd:Q9143 ;
+    rdfs:label "Eiffel"@en .
+
+wd:Q733134 a wd:Q241317 ;
+    rdfs:label "Common Language Runtime"@en .
+
+wd:Q7335831 a wd:Q9143 ;
+    rdfs:label "RiscLua"@en .
+
+wd:Q7353396 a wd:Q9143 ;
+    rdfs:label "Robotc"@en .
+
+wd:Q735604 a wd:Q9143 ;
+    rdfs:label "AspectJ"@en .
+
+wd:Q7372499 a wd:Q9143 ;
+    rdfs:label "Roy"@en .
+
+wd:Q7375538 a wd:Q9143 ;
+    rdfs:label "Rpal"@en .
+
+wd:Q73772793 a wd:Q241317 ;
+    rdfs:label "FarmBeats"@en .
+
+wd:Q7379495 a wd:Q9143 ;
+    rdfs:label "Run BASIC"@en .
+
+wd:Q7387092 a wd:Q9143 ;
+    rdfs:label "S-algol"@en .
+
+wd:Q7388255 a wd:Q9143 ;
+    rdfs:label "S2"@en .
+
+wd:Q7388288 a wd:Q9143 ;
+    rdfs:label "S3"@en .
+
+wd:Q7388405 a wd:Q9143 ;
+    rdfs:label "SA-C"@en .
+
+wd:Q7388480 a wd:Q9143 ;
+    rdfs:label "SAC programming language"@en .
+
+wd:Q7388609 a wd:Q9143 ;
+    rdfs:label "SALSA"@en .
+
+wd:Q7388824 a wd:Q9143 ;
+    rdfs:label "SAS language"@en .
+
+wd:Q7389181 a wd:Q9143 ;
+    rdfs:label "SCM"@en .
+
+wd:Q7390335 a wd:Q9143 ;
+    rdfs:label "SIGNAL"@en .
+
+wd:Q7390483 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "SISAL"@en .
+
+wd:Q7390574 a wd:Q9143 ;
+    rdfs:label "SK8"@en .
+
+wd:Q7390955 a wd:Q9143 ;
+    rdfs:label "SLIP"@en .
+
+wd:Q7391044 a wd:Q9143 ;
+    rdfs:label "SMALL"@en .
+
+wd:Q7392398 a wd:Q9143 ;
+    rdfs:label "SP/k"@en .
+
+wd:Q7394817 a wd:Q9143 ;
+    rdfs:label "STRINGCOMP"@en .
+
+wd:Q7395256 a wd:Q9143 ;
+    rdfs:label "SYMPL"@en .
+
+wd:Q740158 a wd:Q9143 ;
+    rdfs:label "Jasmin"@en .
+
+wd:Q7418253 a wd:Q9143 ;
+    rdfs:label "Scientific Vector Language"@en .
+
+wd:Q7420937 a wd:Q9143 ;
+    rdfs:label "Sense"@en .
+
+wd:Q7421118 a wd:Q9143 ;
+    rdfs:label "Stagecast Creator"@en .
+
+wd:Q7423166 a wd:Q9143 ;
+    rdfs:label "Snostorm"@en .
+
+wd:Q7424035 a wd:Q9143 ;
+    rdfs:label "Stratego/XT"@en .
+
+wd:Q7424115 a wd:Q9143 ;
+    rdfs:label "Tom"@en .
+
+wd:Q7424380 a wd:Q9143 ;
+    rdfs:label "Secure Operations Language"@en .
+
+wd:Q7427136 a wd:Q9143 ;
+    rdfs:label "Cecil"@en .
+
+wd:Q7433714 a wd:Q1914636 ;
+    rdfs:label "science outreach"@en .
+
+wd:Q7450966 a wd:Q9143 ;
+    rdfs:label "SenseTalk"@en .
+
+wd:Q7452449 a wd:Q9143 ;
+    rdfs:label "SequenceL"@en .
+
+wd:Q746261 a wd:Q9143 ;
+    rdfs:label "LabVIEW"@en .
+
+wd:Q7474729 a wd:Q9143 ;
+    rdfs:label "FACT"@en .
+
+wd:Q7474757 a wd:Q9143 ;
+    rdfs:label "FLACC"@en .
+
+wd:Q7475278 a wd:Q9143 ;
+    rdfs:label "Text Executive Programming Language"@en .
+
+wd:Q7475291 a wd:Q9143 ;
+    rdfs:label "TNSDL"@en .
+
+wd:Q7475315 a wd:Q9143 ;
+    rdfs:label "WATFIV"@en .
+
+wd:Q7475348 a wd:Q9143 ;
+    rdfs:label "ZOPL"@en .
+
+wd:Q7475367 a wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "Zeno"@en .
+
+wd:Q7475378 a wd:Q9143 ;
+    rdfs:label "Yoix"@en .
+
+wd:Q7475390 a wd:Q9143 ;
+    rdfs:label "XPL0"@en .
+
+wd:Q7475416 a wd:Q9143 ;
+    rdfs:label "Speedcoding"@en .
+
+wd:Q7475431 a wd:Q9143 ;
+    rdfs:label "SuperPascal"@en .
+
+wd:Q7475887 a wd:Q9143 ;
+    rdfs:label "Subtext"@en .
+
+wd:Q7475904 a wd:Q9143 ;
+    rdfs:label "UNITY"@en .
+
+wd:Q74841026 a wd:Q1914636 ;
+    rdfs:label "shochet"@en .
+
+wd:Q7494104 a wd:Q9143 ;
+    rdfs:label "Shen"@en .
+
+wd:Q749649 a wd:Q1914636 ;
+    rdfs:label "carpool"@en .
+
+wd:Q7506328 a wd:Q241317 ;
+    rdfs:label "SiMotion"@en .
+
+wd:Q7506340 a wd:Q9143 ;
+    rdfs:label "SiMPLE"@en .
+
+wd:Q75242994 a wd:Q241317 ;
+    rdfs:label "Citsci.org"@en .
+
+wd:Q753581 a wd:Q9143 ;
+    rdfs:label "BASIC Programming"@en .
+
+wd:Q753604 a wd:Q9143 ;
+    rdfs:label "Atari BASIC"@en .
+
+wd:Q753868 a wd:Q9143 ;
+    rdfs:label "Visual FoxPro"@en .
+
+wd:Q7548444 a wd:Q9143 ;
+    rdfs:label "Snowball"@en .
+
+wd:Q75578288 a wd:Q79872,
+        wd:Q9143 ;
+    rdfs:label "wollok"@en .
+
+wd:Q756100 a wd:Q28920813 ;
+    rdfs:label "Node.js"@en .
+
+wd:Q756175 a wd:Q9143 ;
+    rdfs:label "Io"@en .
+
+wd:Q7563758 a wd:Q9143 ;
+    rdfs:label "Sort Merge Generator"@en .
+
+wd:Q75641881 a wd:Q241317 ;
+    rdfs:label "CultureBrew.Art"@en .
+
+wd:Q7574230 a wd:Q9143 ;
+    rdfs:label "Speakeasy"@en .
+
+wd:Q75755497 a wd:Q1914636 ;
+    rdfs:label "parachute"@en .
+
+wd:Q7578596 a wd:Q9143 ;
+    rdfs:label "Split-C"@en .
+
+wd:Q75800566 a wd:Q1914636 ;
+    rdfs:label "encounter"@en .
+
+wd:Q75801718 a wd:Q1914636 ;
+    rdfs:label "convene"@en .
+
+wd:Q7585520 a wd:Q9143 ;
+    rdfs:label "urbiscript"@en .
+
+wd:Q75902403 a wd:Q1914636 ;
+    rdfs:label "give birth"@en .
+
+wd:Q7590327 a wd:Q9143 ;
+    rdfs:label "Timber"@en .
+
+wd:Q7590386 a wd:Q9143 ;
+    rdfs:label "TXL"@en .
+
+wd:Q759725 a wd:Q1914636 ;
+    rdfs:label "Aufhauen"@en .
+
+wd:Q7607505 a wd:Q9143 ;
+    rdfs:label "Stencyl"@en .
+
+wd:Q76130167 a wd:Q121359 ;
+    rdfs:label "research structure"@en .
+
+wd:Q7621839 a wd:Q1914636 ;
+    rdfs:label "Strategic human resource planning"@en .
+
+wd:Q7622471 a wd:Q629206 ;
+    rdfs:label "Strawberry Prolog"@en .
+
+wd:Q762464 a wd:Q9143 ;
+    rdfs:label "Squeak"@en .
+
+wd:Q7629737 a wd:Q9143 ;
+    rdfs:label "Stylus"@en .
+
+wd:Q7630640 a wd:Q9143 ;
+    rdfs:label "SubL"@en .
+
+wd:Q7632064 a wd:Q1914636 ;
+    rdfs:label "substance abuse prevention"@en .
+
+wd:Q7665580 a wd:Q9143 ;
+    rdfs:label "Turing+"@en .
+
+wd:Q7665653 a wd:Q9143 ;
+    rdfs:label "XC"@en .
+
+wd:Q7665689 a wd:Q9143 ;
+    rdfs:label "XMTC"@en .
+
+wd:Q7666857 a wd:Q9143 ;
+    rdfs:label "Twelf"@en .
+
+wd:Q7669188 a wd:Q9143 ;
+    rdfs:label "TACPOL"@en .
+
+wd:Q7669982 a wd:Q9143 ;
+    rdfs:label "TELCOMP"@en .
+
+wd:Q7670151 a wd:Q121359 ;
+    rdfs:label "TGCC"@en .
+
+wd:Q767018 a wd:Q9143 ;
+    rdfs:label "Microsoft Small Basic"@en .
+
+wd:Q7670994 a wd:Q9143 ;
+    rdfs:label "TOMVIEW"@en .
+
+wd:Q7670997 a wd:Q9143 ;
+    rdfs:label "TOM"@en .
+
+wd:Q7671308 a wd:Q9143 ;
+    rdfs:label "TREE-META"@en .
+
+wd:Q7671956 a wd:Q9143 ;
+    rdfs:label "TTM"@en .
+
+wd:Q7672049 a wd:Q9143 ;
+    rdfs:label "TUTOR"@en .
+
+wd:Q7672623 a wd:Q9143 ;
+    rdfs:label "T"@en .
+
+wd:Q7679606 a wd:Q9143 ;
+    rdfs:label "BuddyScript"@en .
+
+wd:Q7687649 a wd:Q9143 ;
+    rdfs:label "PTQL"@en .
+
+wd:Q7688144 a wd:Q9143 ;
+    rdfs:label "Subset-equational language"@en .
+
+wd:Q7690695 a wd:Q9143 ;
+    rdfs:label "TclX"@en .
+
+wd:Q7697256 a wd:Q179310 ;
+    rdfs:label "Telidon"@en .
+
+wd:Q7708401 a wd:Q9143 ;
+    rdfs:label "Text Processing Utility"@en .
+
+wd:Q77184757 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Motoko"@en .
+
+wd:Q773521 a wd:Q1914636 ;
+    rdfs:label "user administration"@en .
+
+wd:Q775159 a wd:Q9143 ;
+    rdfs:label "CLU"@en .
+
+wd:Q776372 a wd:Q9143 ;
+    rdfs:label "Information Processing Language"@en .
+
+wd:Q777358 a wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "Modula-2"@en .
+
+wd:Q777671 a wd:Q1914636 ;
+    rdfs:label "sowing"@en .
+
+wd:Q77799695 a wd:Q9143 ;
+    rdfs:label "Zedra"@en .
+
+wd:Q77801077 a wd:Q9143 ;
+    rdfs:label "Q77801077"^^xsd:string .
+
+wd:Q7784246 a wd:Q9143 ;
+    rdfs:label "thinBasic"@en .
+
+wd:Q779317 a wd:Q9143 ;
+    rdfs:label "Asymptote"@en .
+
+wd:Q779819 a wd:Q9143 ;
+    rdfs:label "OpenGL Shading Language"@en .
+
+wd:Q780803 a wd:Q9143 ;
+    rdfs:label "Miranda"@en .
+
+wd:Q782397 a wd:Q9143 ;
+    rdfs:label "AutoLISP"@en .
+
+wd:Q7824141 a wd:Q9143 ;
+    rdfs:label "ToonTalk"@en .
+
+wd:Q7831974 a wd:Q9143 ;
+    rdfs:label "Trade Space Visualizer"@en .
+
+wd:Q78325175 a wd:Q241317 ;
+    rdfs:label "Q78325175"^^xsd:string .
+
+wd:Q7841167 a wd:Q205961 ;
+    rdfs:label "Trick roping"@en .
+
+wd:Q784816 a wd:Q187432 ;
+    rdfs:label "AutoHotkey"@en .
+
+wd:Q784845 a wd:Q187432 ;
+    rdfs:label "AutoIt"@en .
+
+wd:Q78493655 a wd:Q1914636 ;
+    rdfs:label "Q78493655"^^xsd:string .
+
+wd:Q7865218 a wd:Q9143 ;
+    rdfs:label "UNCOL"@en .
+
+wd:Q787227 a wd:Q9143 ;
+    rdfs:label "Automatically Programmed Tool"@en .
+
+wd:Q78748778 a wd:Q1914636 ;
+    rdfs:label "Heritage tour of Brisbane"@en .
+
+wd:Q788558 a wd:Q1914636 ;
+    rdfs:label "plant breeding"@en .
+
+wd:Q7906556 a wd:Q9143 ;
+    rdfs:label "VAX Macro"@en .
+
+wd:Q7907577 a wd:Q9143 ;
+    rdfs:label "VSXu"@en .
+
+wd:Q79260377 a wd:Q187432,
+        wd:Q1993334 ;
+    rdfs:label "Cub"@en .
+
+wd:Q79261110 a wd:Q9143 ;
+    rdfs:label "Lioness"@en .
+
+wd:Q7931258 a wd:Q9143 ;
+    rdfs:label "Vim script"@en .
+
+wd:Q794803 a wd:Q1914636 ;
+    rdfs:label "innovation management"@en .
+
+wd:Q795929 a wd:Q9143 ;
+    rdfs:label "Realbasic"@en .
+
+wd:Q79598 a wd:Q9143 ;
+    rdfs:label "Cyclone"@en .
+
+wd:Q797302 a wd:Q9143 ;
+    rdfs:label "B"@en .
+
+wd:Q798688 a wd:Q9143 ;
+    rdfs:label "DIV Games Studio"@en .
+
+wd:Q80120473 a wd:Q241317 ;
+    rdfs:label "Health Data Hub"@en .
+
+wd:Q80363767 a wd:Q121359 ;
+    rdfs:label "Q80363767"^^xsd:string .
+
+wd:Q8041728 a wd:Q9143 ;
+    rdfs:label "XCore XS1"@en .
+
+wd:Q8042469 a wd:Q9143 ;
+    rdfs:label "XSB"@en .
+
+wd:Q8050277 a wd:Q1914636 ;
+    rdfs:label "housework"@en .
+
+wd:Q805333 a wd:Q1914636 ;
+    rdfs:label "balloon modelling"@en .
+
+wd:Q805534 a wd:Q1914636 ;
+    rdfs:label "Balseros"@en .
+
+wd:Q8059135 a wd:Q1914636 ;
+    rdfs:label "Youth-led development"@en .
+
+wd:Q8059283 a wd:Q1914636 ;
+    rdfs:label "youth activism"@en .
+
+wd:Q8062893 a wd:Q241317 ;
+    rdfs:label "z/Architecture"@en .
+
+wd:Q8068507 a wd:Q241317 ;
+    rdfs:label "Zego"@en .
+
+wd:Q807986 a wd:Q1914636 ;
+    rdfs:label "Bardanas"@en .
+
+wd:Q809579 a wd:Q1914636 ;
+    rdfs:label "beard trimming"@en .
+
+wd:Q810009 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "BCPL"@en .
+
+wd:Q81294 a wd:Q1993334,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Mathematica"@en .
+
+wd:Q812964 a wd:Q9143 ;
+    rdfs:label "BeanShell"@en .
+
+wd:Q81348 a wd:Q9143 ;
+    rdfs:label "C--"@en .
+
+wd:Q814269 a wd:Q9143 ;
+    rdfs:label "Befunge"@en .
+
+wd:Q81571 a wd:Q1993334,
+        wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "Pascal"@en .
+
+wd:Q815962 a wd:Q1914636 ;
+    rdfs:label "colonization"@en .
+
+wd:Q816425 a wd:Q1914636 ;
+    rdfs:label "surveying"@en .
+
+wd:Q816826 a wd:Q1914636 ;
+    rdfs:label "information retrieval"@en .
+
+wd:Q81842547 a wd:Q241317 ;
+    rdfs:label "Q81842547"^^xsd:string .
+
+wd:Q820362 a wd:Q1914636 ;
+    rdfs:label "Bergung (salvage )"@en .
+
+wd:Q820978 a wd:Q9143 ;
+    rdfs:label "Script.NET"@en .
+
+wd:Q82535069 a wd:Q241317 ;
+    rdfs:label "Consent management platform"@en .
+
+wd:Q827233 a wd:Q9143 ;
+    rdfs:label "newLISP"@en .
+
+wd:Q827773 a wd:Q9143 ;
+    rdfs:label "Verilog"@en .
+
+wd:Q828742 a wd:Q9143 ;
+    rdfs:label "Scilab"@en .
+
+wd:Q829404 a wd:Q1914636 ;
+    rdfs:label "Besagung"@en .
+
+wd:Q830036 a wd:Q1914636 ;
+    rdfs:label "shopping"@en .
+
+wd:Q830393 a wd:Q1914636 ;
+    rdfs:label "preservation"@en .
+
+wd:Q830842 a wd:Q12772052,
+        wd:Q9143 ;
+    rdfs:label "BETA"@en .
+
+wd:Q83196494 a wd:Q9143 ;
+    rdfs:label "Mulan"@en .
+
+wd:Q83303 a wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "Fortran"@en .
+
+wd:Q834358 a wd:Q9143 ;
+    rdfs:label "Clipper"@en .
+
+wd:Q8348044 a wd:Q1914636 ;
+    rdfs:label "Glass coloring and color marking"@en .
+
+wd:Q835139 a wd:Q9143 ;
+    rdfs:label "2.PAK"@en .
+
+wd:Q836102 a wd:Q187432 ;
+    rdfs:label "SCUMM"@en .
+
+wd:Q836575 a wd:Q1914636 ;
+    rdfs:label "quality assurance"@en .
+
+wd:Q83790715 a wd:Q187432 ;
+    rdfs:label "SQF"@en .
+
+wd:Q83802976 a wd:Q241317 ;
+    rdfs:label "System-D"@en .
+
+wd:Q838062 a wd:Q9143 ;
+    rdfs:label "occam"@en .
+
+wd:Q840243 a wd:Q649732 ;
+    rdfs:label "Hilbert's axioms"@en .
+
+wd:Q840410 a wd:Q1993334 ;
+    rdfs:label "PowerShell"@en .
+
+wd:Q840543 a wd:Q9143 ;
+    rdfs:label "Report Program Generator"@en .
+
+wd:Q84072847 a wd:Q241317 ;
+    rdfs:label "CIÊNCIAVITAE"@en .
+
+wd:Q840761 a wd:Q9143 ;
+    rdfs:label "MPD"@en .
+
+wd:Q84104242 a wd:Q9143 ;
+    rdfs:label "Beef"@en .
+
+wd:Q841662 a wd:Q241317 ;
+    rdfs:label "Learning Content Management System"@en .
+
+wd:Q84345226 a wd:Q1914636 ;
+    rdfs:label "Stockholm history tour"@en .
+
+wd:Q844595 a wd:Q9143 ;
+    rdfs:label "Bourne shell"@en .
+
+wd:Q84474171 a wd:Q1914636 ;
+    rdfs:label "post card printing"@en .
+
+wd:Q848317 a wd:Q9143 ;
+    rdfs:label "Nullsoft Scriptable Install System"@en .
+
+wd:Q84836722 a wd:Q1914636 ;
+    rdfs:label "Q84836722"^^xsd:string .
+
+wd:Q848460 a wd:Q9143 ;
+    rdfs:label "Portlet"@en .
+
+wd:Q849146 a wd:Q12772052,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Common Lisp"@en .
+
+wd:Q849944 a wd:Q1914636 ;
+    rdfs:label "safari"@en .
+
+wd:Q850484 a wd:Q12772052 ;
+    rdfs:label "ChucK"@en .
+
+wd:Q850661 a wd:Q3839507 ;
+    rdfs:label "XQuery"@en .
+
+wd:Q850712 a wd:Q187432 ;
+    rdfs:label "Expression Language"@en .
+
+wd:Q851402 a wd:Q1993334,
+        wd:Q9143 ;
+    rdfs:label "Torque"@en .
+
+wd:Q852170 a wd:Q1914636 ;
+    rdfs:label "dredging"@en .
+
+wd:Q8563758 a wd:Q9143 ;
+    rdfs:label "Flex"@en .
+
+wd:Q85661503 a wd:Q121359 ;
+    rdfs:label "recreation structures"@en .
+
+wd:Q85666134 a wd:Q121359 ;
+    rdfs:label "health and welfare buildings"@en .
+
+wd:Q85667907 a wd:Q121359 ;
+    rdfs:label "industrial structures"@en .
+
+wd:Q85669078 a wd:Q121359 ;
+    rdfs:label "fortifications"@en .
+
+wd:Q85670334 a wd:Q121359 ;
+    rdfs:label "settlements and landscapes"@en .
+
+wd:Q85681726 a wd:Q121359 ;
+    rdfs:label "cluster housing"@en .
+
+wd:Q85748357 a wd:Q9143 ;
+    rdfs:label "Bosque"@en .
+
+wd:Q85760258 a wd:Q9143 ;
+    rdfs:label "FLOW"@en .
+
+wd:Q85762333 a wd:Q9143 ;
+    rdfs:label "Futhark"@en .
+
+wd:Q857780 a wd:Q1914636 ;
+    rdfs:label "technical illustration"@en .
+
+wd:Q85798397 a wd:Q9143 ;
+    rdfs:label "SNAP"@en .
+
+wd:Q85802202 a wd:Q9143 ;
+    rdfs:label "Source"@en .
+
+wd:Q858065 a wd:Q241317 ;
+    rdfs:label "DEC Alpha"@en .
+
+wd:Q85845866 a wd:Q9143 ;
+    rdfs:label "Eff"@en .
+
+wd:Q85847918 a wd:Q9143 ;
+    rdfs:label "V"@en .
+
+wd:Q85850916 a wd:Q9143 ;
+    rdfs:label "L2"@en .
+
+wd:Q860654 a wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "ML"@en .
+
+wd:Q863516 a wd:Q241317 ;
+    rdfs:label "Binary Runtime Environment for Wireless"@en .
+
+wd:Q864361 a wd:Q1914636 ;
+    rdfs:label "Q864361"^^xsd:string .
+
+wd:Q86497957 a wd:Q1914636 ;
+    rdfs:label "Q86497957"^^xsd:string .
+
+wd:Q866 a wd:Q241317 ;
+    rdfs:label "YouTube"@en .
+
+wd:Q86905768 a wd:Q1914636 ;
+    rdfs:label "unloading"@en .
+
+wd:Q873750 a wd:Q1914636 ;
+    rdfs:label "pickpocketing"@en .
+
+wd:Q876776 a wd:Q1914636 ;
+    rdfs:label "drinking"@en .
+
+wd:Q8880088 a wd:Q1914636 ;
+    rdfs:label "Category:Workers' sport"@en .
+
+wd:Q890976 a wd:Q9143 ;
+    rdfs:label "ABLE"@en .
+
+wd:Q892948 a wd:Q9143 ;
+    rdfs:label "Boo"@en .
+
+wd:Q892972 a wd:Q1914636 ;
+    rdfs:label "book packaging"@en .
+
+wd:Q897825 a wd:Q205961 ;
+    rdfs:label "firefighting"@en .
+
+wd:Q899277 a wd:Q1914636 ;
+    rdfs:label "recruitment"@en .
+
+wd:Q9026871 a wd:Q9143 ;
+    rdfs:label "Magik"@en .
+
+wd:Q907880 a wd:Q9143 ;
+    rdfs:label "Euler"@en .
+
+wd:Q910482 a wd:Q9143 ;
+    rdfs:label "Oxygene"@en .
+
+wd:Q912205 a wd:Q205961 ;
+    rdfs:label "Control of fire by early humans"@en .
+
+wd:Q913681 a wd:Q9143 ;
+    rdfs:label "Java Persistence Query Language"@en .
+
+wd:Q9161323 a wd:Q9143 ;
+    rdfs:label "Astek"@en .
+
+wd:Q916994 a wd:Q241317 ;
+    rdfs:label "IA-64"@en .
+
+wd:Q918306 a wd:Q1914636 ;
+    rdfs:label "thermal insulation"@en .
+
+wd:Q9184018 a wd:Q9143 ;
+    rdfs:label "CEMMA"@en .
+
+wd:Q924660 a wd:Q9143 ;
+    rdfs:label "WMLScript"@en .
+
+wd:Q924737 a wd:Q9143 ;
+    rdfs:label "Interpress"@en .
+
+wd:Q929932 a wd:Q9143 ;
+    rdfs:label "GNU Data Language"@en .
+
+wd:Q9326009 a wd:Q9143 ;
+    rdfs:label "SAKO"@en .
+
+wd:Q9332285 a wd:Q1914636 ;
+    rdfs:label "Supplier Quality Assurance"@en .
+
+wd:Q933949 a wd:Q1914636 ;
+    rdfs:label "milking"@en .
+
+wd:Q93482 a wd:Q12772052,
+        wd:Q21562092,
+        wd:Q3839507,
+        wd:Q9143 ;
+    rdfs:label "Ceylon"@en .
+
+wd:Q9353835 a wd:Q9143 ;
+    rdfs:label "TUZ-3"@en .
+
+wd:Q93935 a wd:Q1914636 ;
+    rdfs:label "tooth brushing"@en .
+
+wd:Q943176 a wd:Q9143 ;
+    rdfs:label "Sing#"@en .
+
+wd:Q947171 a wd:Q9143 ;
+    rdfs:label "ROOT"@en .
+
+wd:Q947428 a wd:Q241317 ;
+    rdfs:label "Microsoft PixelSense"@en .
+
+wd:Q949149 a wd:Q1914636 ;
+    rdfs:label "sanitation"@en .
+
+wd:Q953642 a wd:Q21562092,
+        wd:Q9143 ;
+    rdfs:label "GAUSS"@en .
+
+wd:Q9555609 a wd:Q9143 ;
+    rdfs:label "AdvPL"@en .
+
+wd:Q959549 a wd:Q187432,
+        wd:Q1993334 ;
+    rdfs:label "shell script"@en .
+
+wd:Q960361 a wd:Q9143 ;
+    rdfs:label "RPL"@en .
+
+wd:Q960616 a wd:Q241317 ;
+    rdfs:label "VAX"@en .
+
+wd:Q961543 a wd:Q9143 ;
+    rdfs:label "QML"@en .
+
+wd:Q9640723 a wd:Q1914636 ;
+    rdfs:label "commercial aviation"@en .
+
+wd:Q970424 a wd:Q9143 ;
+    rdfs:label "Sawzall"@en .
+
+wd:Q972868 a wd:Q9143 ;
+    rdfs:label "Accent"@en .
+
+wd:Q973097 a wd:Q9143 ;
+    rdfs:label "Visual J++"@en .
+
+wd:Q974083 a wd:Q9143 ;
+    rdfs:label "JOSS"@en .
+
+wd:Q978185 a wd:Q9143 ;
+    rdfs:label "TypeScript"@en .
+
+wd:Q978659 a wd:Q1914636 ;
+    rdfs:label "vehicle inspection"@en .
+
+wd:Q986427 a wd:Q9143 ;
+    rdfs:label "RGSS"@en .
+
+wd:Q994269 a wd:Q9143 ;
+    rdfs:label "P#"@en .
+
+wd:Q994443 a wd:Q1914636 ;
+    rdfs:label "breast ironing"@en .
+
+wd:Q998426 a wd:Q1914636 ;
+    rdfs:label "bookselling"@en .
+
+wd:Q999646 a wd:Q1914636 ;
+    rdfs:label "driving"@en .
+
+wd:Q223335 rdfs:label "structured programming"@en .
+
+wd:Q2465506 rdfs:label "separation of concerns"@en ;
+    rdfs:subClassOf wd:Q39487140 .
+
+wd:Q531152 rdfs:label "declarative programming"@en ;
+    rdfs:subClassOf wd:Q80006 .
+
+wd:Q1051282 rdfs:label "generic programming"@en ;
+    rdfs:subClassOf wd:Q80006 .
+
+wd:Q1135914 rdfs:label "event-driven programming"@en ;
+    rdfs:subClassOf wd:Q80006 .
+
+wd:Q15411548 rdfs:label "computing infrastructure"@en ;
+    rdfs:subClassOf wd:Q121359,
+        wd:Q179310 .
+
+wd:Q180868 rdfs:label "prototype-based programming"@en ;
+    rdfs:subClassOf wd:Q79872 .
+
+wd:Q275596 rdfs:label "imperative programming"@en ;
+    rdfs:subClassOf wd:Q80006 .
+
+wd:Q28920810 rdfs:label "prototype-based programming language"@en ;
+    rdfs:subClassOf wd:Q9143 .
+
+wd:Q30267 rdfs:label "aspect-oriented programming"@en ;
+    rdfs:subClassOf wd:Q2465506 .
+
+wd:Q193076 rdfs:label "functional programming"@en ;
+    rdfs:subClassOf wd:Q531152 .
+
+wd:Q28920813 rdfs:label "event-driven programming language"@en ;
+    rdfs:subClassOf wd:Q9143 .
+
+wd:Q39487140 rdfs:label "programming principle"@en .
+
+wd:Q649732 rdfs:label "formal system"@en .
+
+wd:Q79872 rdfs:label "object-oriented programming"@en ;
+    rdfs:subClassOf wd:Q223335 .
+
+wd:Q179310 rdfs:label "computing"@en .
+
+wd:Q80006 rdfs:label "computer programming"@en ;
+    rdfs:subClassOf wd:Q1914636,
+        wd:Q205961 .
+
+wd:Q629206 rdfs:label "computer language"@en .
+
+wd:Q205961 rdfs:label "skill"@en .
+
+wd:Q1993334 rdfs:label "interpreted language"@en ;
+    rdfs:subClassOf wd:Q9143 .
+
+wd:Q121359 rdfs:label "infrastructure"@en .
+
+wd:Q187432 rdfs:label "scripting language"@en ;
+    rdfs:subClassOf wd:Q9143 .
+
+wd:Q21562092 rdfs:label "imperative programming language"@en ;
+    rdfs:subClassOf wd:Q9143 .
+
+wd:Q3839507 rdfs:label "functional programming language"@en ;
+    rdfs:subClassOf wd:Q9143 .
+
+wd:Q12772052 rdfs:label "multi-paradigm programming language"@en ;
+    rdfs:subClassOf wd:Q9143 .
+
+wd:Q241317 rdfs:label "computing platform"@en ;
+    rdfs:subClassOf wd:Q15411548 .
+
+wd:Q1914636 rdfs:label "activity"@en .
+
+wd:Q9143 rdfs:label "programming language"@en ;
+    rdfs:subClassOf wd:Q629206,
+        wd:Q649732 .
+

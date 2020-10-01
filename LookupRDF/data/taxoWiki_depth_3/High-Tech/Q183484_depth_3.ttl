@@ -1,0 +1,710 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1028827 rdfs:label "RIVA TNT2"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q1029912 a wd:Q183484 ;
+    rdfs:label "RIVA 128"@en .
+
+wd:Q1045076 a wd:Q241317 ;
+    rdfs:label "Carrier Routing System"@en .
+
+wd:Q1050485 rdfs:label "Tesla"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q11197636 a wd:Q241317 ;
+    rdfs:label "ELTAX"@en .
+
+wd:Q1121699 rdfs:label "Mali-400 MP"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q11227669 a wd:Q241317 ;
+    rdfs:label "KCP"@en .
+
+wd:Q11228318 a wd:Q183484 ;
+    rdfs:label "KYRO"@en .
+
+wd:Q11252537 a wd:Q1466064 ;
+    rdfs:label "VDP"@en .
+
+wd:Q1132199 a wd:Q183484 ;
+    rdfs:label "S3 ViRGE"@en .
+
+wd:Q113585 a wd:Q241317 ;
+    rdfs:label "PA-RISC"@en .
+
+wd:Q11764840 a wd:Q1466064 ;
+    rdfs:label "MCY7880"@en .
+
+wd:Q1184917 a wd:Q183484 ;
+    rdfs:label "Evergreen"@en .
+
+wd:Q1192582 rdfs:label "ATI Xenos"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q1197839 a wd:Q241317 ;
+    rdfs:label "Novell Open Enterprise Server"@en .
+
+wd:Q12041504 rdfs:label "Nvidia Vanta"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q1205020 a wd:Q241317 ;
+    rdfs:label "SuperH"@en .
+
+wd:Q12058183 rdfs:label "TMS34010"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q137069 rdfs:label "GeForce 600 Series"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q14094 a wd:Q241317 ;
+    rdfs:label "iPod Touch"@en .
+
+wd:Q1430738 a wd:Q241317 ;
+    rdfs:label "GNAB"@en .
+
+wd:Q14898232 a wd:Q859595 ;
+    rdfs:label "Apple Motion Coprocessor"@en .
+
+wd:Q15015195 a wd:Q241317 ;
+    rdfs:label "Apple Pippin"@en .
+
+wd:Q15697821 rdfs:label "Adreno 330"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q15697844 rdfs:label "Imageon"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q158833 a wd:Q241317 ;
+    rdfs:label ".NET Micro Framework"@en .
+
+wd:Q15995436 a wd:Q241317 ;
+    rdfs:label "Roku"@en .
+
+wd:Q16258100 rdfs:label "Nvidia Tesla"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q1652510 a wd:Q1466064 ;
+    rdfs:label "Nehalem Xeon"@en .
+
+wd:Q1652983 a wd:Q183484 ;
+    rdfs:label "Q1652983"^^xsd:string .
+
+wd:Q1665558 rdfs:label "Intel 2700G"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q1665562 a wd:Q859595 ;
+    rdfs:label "Intel 8089"@en .
+
+wd:Q1665604 a wd:Q2713403 ;
+    rdfs:label "Intel HD Graphics"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q16682931 a wd:Q183484 ;
+    rdfs:label "Volta"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q16996928 a wd:Q183484 ;
+    rdfs:label "InfiniteReality"@en .
+
+wd:Q17018603 a wd:Q241317 ;
+    rdfs:label "Novena"@en .
+
+wd:Q17092228 a wd:Q241317 ;
+    rdfs:label "IBM cloud computing"@en .
+
+wd:Q178481 a wd:Q241317 ;
+    rdfs:label "X Window System"@en .
+
+wd:Q18084405 a wd:Q859595 ;
+    rdfs:label "Q18084405"^^xsd:string .
+
+wd:Q182933 a wd:Q241317 ;
+    rdfs:label "x86"@en .
+
+wd:Q18382475 a wd:Q183484 ;
+    rdfs:label "Rage Pro"@en .
+
+wd:Q191342 a wd:Q241317 ;
+    rdfs:label "LAMP"@en .
+
+wd:Q193321 a wd:Q241317 ;
+    rdfs:label "Java Virtual Machine"@en .
+
+wd:Q193828 a wd:Q241317 ;
+    rdfs:label "Java Platform, Micro Edition"@en .
+
+wd:Q19591713 a wd:Q1466064 ;
+    rdfs:label "Intel Core 2 Solo"@en .
+
+wd:Q19729219 a wd:Q241317 ;
+    rdfs:label "NodeMCU"@en .
+
+wd:Q20019998 a wd:Q183484 ;
+    rdfs:label "Northern Islands"@en .
+
+wd:Q20019999 a wd:Q183484 ;
+    rdfs:label "Southern Islands"@en .
+
+wd:Q20020000 a wd:Q183484 ;
+    rdfs:label "Sea Islands"@en .
+
+wd:Q20020001 a wd:Q183484 ;
+    rdfs:label "Volcanic Islands"@en .
+
+wd:Q20020002 a wd:Q183484 ;
+    rdfs:label "Pirate Islands"@en .
+
+wd:Q2005 a wd:Q241317 ;
+    rdfs:label "JavaScript"@en .
+
+wd:Q20670531 a wd:Q241317 ;
+    rdfs:label "iPod Touch 6"@en .
+
+wd:Q2067286 a wd:Q241317 ;
+    rdfs:label "Pegasos"@en .
+
+wd:Q2080312 rdfs:label "PICA200"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q2084386 a wd:Q241317 ;
+    rdfs:label "URBI"@en .
+
+wd:Q209860 a wd:Q241317 ;
+    rdfs:label "PowerPC"@en .
+
+wd:Q21041346 rdfs:label "PGPU"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q21041369 rdfs:label "VGPU"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q21050921 a wd:Q1466064 ;
+    rdfs:label "Haswell Xeon"@en .
+
+wd:Q21051154 a wd:Q1466064 ;
+    rdfs:label "Ivy Bridge Xeon"@en .
+
+wd:Q2141460 a wd:Q241317 ;
+    rdfs:label "IBM Z"@en .
+
+wd:Q216192 a wd:Q241317 ;
+    rdfs:label "Cygwin"@en .
+
+wd:Q21622213 a wd:Q241317 ;
+    rdfs:label ".NET Core"@en .
+
+wd:Q2267090 rdfs:label "Hollywood"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q2268379 a wd:Q1466064 ;
+    rdfs:label "Core 2 Quad"@en .
+
+wd:Q229402 a wd:Q183484 ;
+    rdfs:label "3DLabs P10"@en .
+
+wd:Q229404 a wd:Q183484 ;
+    rdfs:label "3DLabs P20"@en .
+
+wd:Q229405 rdfs:label "3DLabs P9"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q23308667 rdfs:label "Snapdragon 820"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q233847 a wd:Q183484 ;
+    rdfs:label "ATI Mach"@en .
+
+wd:Q2527989 a wd:Q1466064 ;
+    rdfs:label "Virtual Info 2-processor"@en .
+
+wd:Q25390342 a wd:Q1466064 ;
+    rdfs:label "POWER9"@en .
+
+wd:Q25393281 a wd:Q1466064 ;
+    rdfs:label "Broadwell Xeon"@en .
+
+wd:Q25393365 a wd:Q1466064 ;
+    rdfs:label "Skylake Xeon"@en .
+
+wd:Q25402184 a wd:Q241317 ;
+    rdfs:label "Yeeply"@en .
+
+wd:Q2584276 rdfs:label "Blitter"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q2598676 rdfs:label "RSX Reality Synthesizer"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q25991545 rdfs:label "Adreno 530"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q25991731 a wd:Q183484 ;
+    rdfs:label "Adreno 430"@en .
+
+wd:Q25992631 rdfs:label "Adreno 418"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q26122998 rdfs:label "Snapdragon 821"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q262238 a wd:Q241317 ;
+    rdfs:label "IA-32"@en .
+
+wd:Q270285 a wd:Q241317 ;
+    rdfs:label "Apple TV"@en .
+
+wd:Q2716936 a wd:Q859595 ;
+    rdfs:label "Q2716936"^^xsd:string .
+
+wd:Q272629 a wd:Q241317 ;
+    rdfs:label "x86-64"@en .
+
+wd:Q273190 a wd:Q241317 ;
+    rdfs:label "SPARC"@en .
+
+wd:Q27690161 a wd:Q241317 ;
+    rdfs:label "Sonos Controller"@en .
+
+wd:Q2837438 rdfs:label "Allwinner A20"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q284835 a wd:Q859595 ;
+    rdfs:label "Super FX"@en .
+
+wd:Q286100 a wd:Q1466064 ;
+    rdfs:label "Intel740"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q28684197 a wd:Q241317 ;
+    rdfs:label "Q28684197"^^xsd:string .
+
+wd:Q28849147 rdfs:label "Adreno 540"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q28850858 a wd:Q183484 ;
+    rdfs:label "Iris Pro Graphics 5200"@en .
+
+wd:Q29167044 a wd:Q183484 ;
+    rdfs:label "ARM Mali-T720 MP2"@en .
+
+wd:Q294956 a wd:Q2713403 ;
+    rdfs:label "AMD Accelerated Processing Unit"@en .
+
+wd:Q294958 rdfs:label "Adreno / Imageon"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q29758 a wd:Q241317 ;
+    rdfs:label "Pocket PC"@en .
+
+wd:Q298956 a wd:Q183484 ;
+    rdfs:label "ATI Rage"@en .
+
+wd:Q3359650 a wd:Q241317 ;
+    rdfs:label "PERQ"@en .
+
+wd:Q338702 a wd:Q2713403 ;
+    rdfs:label "accelerated processing unit"@en .
+
+wd:Q3391827 a wd:Q241317 ;
+    rdfs:label "Java Platform"@en .
+
+wd:Q3400893 a wd:Q183484 ;
+    rdfs:label "PowerVR2 DC"@en .
+
+wd:Q3557795 rdfs:label "VideoCore"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q360310 a wd:Q241317 ;
+    rdfs:label "Adobe AIR"@en .
+
+wd:Q3638306 a wd:Q241317 ;
+    rdfs:label "Bensley"@en .
+
+wd:Q36630876 a wd:Q241317 ;
+    rdfs:label "OpenStreetCam"@en .
+
+wd:Q3700175 a wd:Q241317 ;
+    rdfs:label "D+"@en .
+
+wd:Q3788770 a wd:Q241317 ;
+    rdfs:label "iPod Touch 5"@en .
+
+wd:Q3832623 a wd:Q241317 ;
+    rdfs:label "Lindenhurst"@en .
+
+wd:Q3853337 a wd:Q241317 ;
+    rdfs:label "McCaslin"@en .
+
+wd:Q3960366 rdfs:label "Signetics 2637"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q3991332 a wd:Q1466064 ;
+    rdfs:label "Q3991332"^^xsd:string .
+
+wd:Q400244 a wd:Q241317 ;
+    rdfs:label "Windows Runtime"@en .
+
+wd:Q4042344 a wd:Q241317 ;
+    rdfs:label "KreaTV"@en .
+
+wd:Q4050793 a wd:Q1466064 ;
+    rdfs:label "Nvidia Tegra 3"@en .
+
+wd:Q42118431 a wd:Q241317 ;
+    rdfs:label "Communecter"@en .
+
+wd:Q430823 rdfs:label "Intel GMA"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q43089335 a wd:Q241317 ;
+    rdfs:label "Flathub"@en .
+
+wd:Q45341562 a wd:Q241317 ;
+    rdfs:label "OpenWISP"@en .
+
+wd:Q456157 a wd:Q241317 ;
+    rdfs:label "Amazon Web Services"@en .
+
+wd:Q4654690 rdfs:label "ATI Hybrid Graphics"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q4654691 a wd:Q183484 ;
+    rdfs:label "ATI Wonder series"@en .
+
+wd:Q47009221 a wd:Q241317 ;
+    rdfs:label "Hypothèses"@en .
+
+wd:Q47088303 rdfs:label "Mali-T880"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q47354279 rdfs:label "PowerVR SGX530"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q489048 a wd:Q241317 ;
+    rdfs:label "Microsoft Silverlight"@en .
+
+wd:Q48955776 a wd:Q1466064 ;
+    rdfs:label "ARM Mali-T830"@en .
+
+wd:Q48960764 rdfs:label "Ardeno 430"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q48966727 rdfs:label "Ardeno 530"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q5009904 a wd:Q241317 ;
+    rdfs:label "CDC 1700"@en .
+
+wd:Q50308680 a wd:Q241317 ;
+    rdfs:label "Q50308680"^^xsd:string .
+
+wd:Q5154338 a wd:Q241317 ;
+    rdfs:label "VAX-11"@en .
+
+wd:Q527464 a wd:Q241317 ;
+    rdfs:label "MIPS"@en .
+
+wd:Q5289 a wd:Q241317 ;
+    rdfs:label ".NET Framework"@en .
+
+wd:Q54369131 a wd:Q241317 ;
+    rdfs:label "H2O"@en .
+
+wd:Q54370127 a wd:Q241317 ;
+    rdfs:label "Herdict"@en .
+
+wd:Q55696286 a wd:Q241317 ;
+    rdfs:label "Data Transfer Project"@en .
+
+wd:Q55806871 rdfs:label "Mali 450"@en ;
+    rdfs:subClassOf wd:Q2620412 .
+
+wd:Q55806925 rdfs:label "Mali T720"@en ;
+    rdfs:subClassOf wd:Q2620412 .
+
+wd:Q56347845 a wd:Q859595 ;
+    rdfs:label "Secure Enclave"@en .
+
+wd:Q56752466 rdfs:label "HiSilicon Kirin 980"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q57942280 a wd:Q241317 ;
+    rdfs:label "Mobincube"@en .
+
+wd:Q60522770 rdfs:label "Adreno 640"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q60523089 rdfs:label "Adreno 630"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q608089 rdfs:label "Intel 810"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q61016832 rdfs:label "Mali-G76"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q61606996 a wd:Q241317 ;
+    rdfs:label "Pathwar"@en .
+
+wd:Q61782186 a wd:Q183484 ;
+    rdfs:label "GTX 1070"@en .
+
+wd:Q62493681 a wd:Q241317 ;
+    rdfs:label "Agency for the Development of Creative Industries"@en .
+
+wd:Q63109194 rdfs:label "NES PPU"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q63109209 rdfs:label "SNES PPU"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q63109262 rdfs:label "ATI Flipper"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64003266 rdfs:label "MediaTek MT6750N"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64041747 a wd:Q241317 ;
+    rdfs:label "Kitaboo"@en .
+
+wd:Q64821798 rdfs:label "Qualcomm Snapdragon 660"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64821834 rdfs:label "Adreno 512"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64822003 a wd:Q241317 ;
+    rdfs:label "Q64822003"^^xsd:string .
+
+wd:Q64827079 rdfs:label "Qualcomm Snapdragon 630"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64827080 rdfs:label "Adreno 508"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64840813 rdfs:label "Qualcomm Snapdragon 625"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64840819 rdfs:label "Adreno 506"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64840821 rdfs:label "Qualcomm Snapdragon 425"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64840872 rdfs:label "Adreno 308"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64840888 rdfs:label "Qualcomm Snapdragon 435"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64840890 rdfs:label "Adreno 505"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64841038 a wd:Q241317 ;
+    rdfs:label "transport.data.gouv.fr"@en .
+
+wd:Q64842248 rdfs:label "Mali-T860"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64842806 rdfs:label "MediaTek MT6750"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64845943 rdfs:label "Qualcomm Snapdragon S1 MSM7225A"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64845955 rdfs:label "Adreno 200"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64848522 a wd:Q241317 ;
+    rdfs:label "Touchstone (Risk Management Software)"@en .
+
+wd:Q64852858 rdfs:label "MediaTek MT6739"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64852877 rdfs:label "PowerVR GE8100"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q64859524 rdfs:label "MediaTek MT6580"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q6497036 a wd:Q183484 ;
+    rdfs:label "Latte"@en .
+
+wd:Q65038061 a wd:Q241317 ;
+    rdfs:label "EdgeX Foundry"@en .
+
+wd:Q65093687 rdfs:label "Mali-T864"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q65647244 a wd:Q241317 ;
+    rdfs:label "distributed multimedia communications platform"@en .
+
+wd:Q65659341 rdfs:label "HiSilicon Kirin 710"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q65659343 rdfs:label "Mali-G51"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q66056359 a wd:Q241317 ;
+    rdfs:label "Q66056359"^^xsd:string .
+
+wd:Q66360625 a wd:Q183484 ;
+    rdfs:label "CRM"@en .
+
+wd:Q66442226 a wd:Q241317 ;
+    rdfs:label "Starly"@en .
+
+wd:Q66644543 a wd:Q1466064 ;
+    rdfs:label "Cerebras Wafer Scale Engine"@en .
+
+wd:Q66901878 a wd:Q241317 ;
+    rdfs:label "MIPS architecture"@en .
+
+wd:Q67221827 a wd:Q1466064,
+        wd:Q183484 ;
+    rdfs:label "Apple A13 Bionic"@en .
+
+wd:Q67387124 a wd:Q183484 ;
+    rdfs:label "SGX543MP4+"@en .
+
+wd:Q67584473 a wd:Q241317 ;
+    rdfs:label "vw.os"@en .
+
+wd:Q69459844 a wd:Q241317 ;
+    rdfs:label "Open Subsurface Data Universe"@en .
+
+wd:Q7096253 a wd:Q241317 ;
+    rdfs:label "Open Telecom Platform"@en .
+
+wd:Q7096284 a wd:Q241317 ;
+    rdfs:label "Web Platform"@en .
+
+wd:Q71633630 a wd:Q241317 ;
+    rdfs:label "Picture Post"@en .
+
+wd:Q7191175 rdfs:label "Picture Processing Unit"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q722656 a wd:Q241317 ;
+    rdfs:label "Mono"@en .
+
+wd:Q7276125 a wd:Q859595 ;
+    rdfs:label "RCP"@en .
+
+wd:Q733134 a wd:Q241317 ;
+    rdfs:label "Common Language Runtime"@en .
+
+wd:Q73772793 a wd:Q241317 ;
+    rdfs:label "FarmBeats"@en .
+
+wd:Q7390072 a wd:Q183484 ;
+    rdfs:label "SGI VPro"@en .
+
+wd:Q7506328 a wd:Q241317 ;
+    rdfs:label "SiMotion"@en .
+
+wd:Q7506338 rdfs:label "SiS 630/730"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q7506342 rdfs:label "SiS 300"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q7506349 a wd:Q183484 ;
+    rdfs:label "SiS 6326"@en .
+
+wd:Q75242994 a wd:Q241317 ;
+    rdfs:label "Citsci.org"@en .
+
+wd:Q75641881 a wd:Q241317 ;
+    rdfs:label "CultureBrew.Art"@en .
+
+wd:Q78325175 a wd:Q241317 ;
+    rdfs:label "Q78325175"^^xsd:string .
+
+wd:Q80120473 a wd:Q241317 ;
+    rdfs:label "Health Data Hub"@en .
+
+wd:Q8062893 a wd:Q241317 ;
+    rdfs:label "z/Architecture"@en .
+
+wd:Q8068507 a wd:Q241317 ;
+    rdfs:label "Zego"@en .
+
+wd:Q81842547 a wd:Q241317 ;
+    rdfs:label "Q81842547"^^xsd:string .
+
+wd:Q82535069 a wd:Q241317 ;
+    rdfs:label "Consent management platform"@en .
+
+wd:Q83802976 a wd:Q241317 ;
+    rdfs:label "System-D"@en .
+
+wd:Q84072847 a wd:Q241317 ;
+    rdfs:label "CIÊNCIAVITAE"@en .
+
+wd:Q84124535 rdfs:label "Signetics 2636"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q841662 a wd:Q241317 ;
+    rdfs:label "Learning Content Management System"@en .
+
+wd:Q844105 a wd:Q1466064 ;
+    rdfs:label "Q844105"^^xsd:string .
+
+wd:Q858065 a wd:Q241317 ;
+    rdfs:label "DEC Alpha"@en .
+
+wd:Q863516 a wd:Q241317 ;
+    rdfs:label "Binary Runtime Environment for Wireless"@en .
+
+wd:Q865381 rdfs:label "Matrox Parhelia"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q866 a wd:Q241317 ;
+    rdfs:label "YouTube"@en .
+
+wd:Q916994 a wd:Q241317 ;
+    rdfs:label "IA-64"@en .
+
+wd:Q9297146 a wd:Q183484 ;
+    rdfs:label "Rage 128"@en .
+
+wd:Q947428 a wd:Q241317 ;
+    rdfs:label "Microsoft PixelSense"@en .
+
+wd:Q957191 a wd:Q1466064 ;
+    rdfs:label "Mongoose-V"@en .
+
+wd:Q960616 a wd:Q241317 ;
+    rdfs:label "VAX"@en .
+
+wd:Q970024 rdfs:label "Larrabee"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q919509 rdfs:label "vector processor"@en ;
+    rdfs:subClassOf wd:Q1466064 .
+
+wd:Q2620412 rdfs:label "Mali"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q2713403 rdfs:label "integrated graphics processor"@en ;
+    rdfs:subClassOf wd:Q183484 .
+
+wd:Q859595 rdfs:label "coprocessor"@en ;
+    rdfs:subClassOf wd:Q1466064 .
+
+wd:Q1466064 rdfs:label "processor"@en ;
+    rdfs:subClassOf wd:Q241317,
+        wd:Q811486 .
+
+wd:Q241317 rdfs:label "computing platform"@en .
+
+wd:Q183484 rdfs:label "graphics processing unit"@en ;
+    rdfs:subClassOf wd:Q859595,
+        wd:Q919509 .
+

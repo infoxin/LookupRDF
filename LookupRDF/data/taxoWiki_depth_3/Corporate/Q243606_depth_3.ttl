@@ -1,0 +1,3905 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1013808 a wd:Q1914636 ;
+    rdfs:label "glass etching"@en .
+
+wd:Q1028852 a wd:Q1914636 ;
+    rdfs:label "Gureba"@en .
+
+wd:Q10289413 a wd:Q1914636 ;
+    rdfs:label "Ghost hunting"@en .
+
+wd:Q1029421 a wd:Q1914636 ;
+    rdfs:label "prostitution of children"@en .
+
+wd:Q10370559 a wd:Q1914636 ;
+    rdfs:label "sertanismo"@en .
+
+wd:Q10396556 a wd:Q4026292 ;
+    rdfs:label "Ôxê"@en .
+
+wd:Q1043197 a wd:Q1914636 ;
+    rdfs:label "divination"@en .
+
+wd:Q10467798 a wd:Q1914636 ;
+    rdfs:label "decoration painting"@en .
+
+wd:Q1051110 a wd:Q1914636 ;
+    rdfs:label "seal cutting"@en .
+
+wd:Q1064163 a wd:Q20937557 ;
+    rdfs:label "Coleco Telstar series"@en .
+
+wd:Q1064754 a wd:Q1914636 ;
+    rdfs:label "streaking"@en .
+
+wd:Q10706881 a wd:Q1914636 ;
+    rdfs:label "Zwangsmittel"@en .
+
+wd:Q1071927 a wd:Q82604 ;
+    rdfs:label "PEGASE"@en .
+
+wd:Q1073032 a wd:Q20937557 ;
+    rdfs:label "Color TV-Game series"@en .
+
+wd:Q10749002 a wd:Q1914636 ;
+    rdfs:label "Cle"@en .
+
+wd:Q10751894 a wd:Q1914636 ;
+    rdfs:label "lifesaving"@en .
+
+wd:Q107885 a wd:Q1914636 ;
+    rdfs:label "speculation"@en .
+
+wd:Q1094706 a wd:Q1914636 ;
+    rdfs:label "Grinding"@en .
+
+wd:Q10954043 a wd:Q1914636 ;
+    rdfs:label "peacekeeping"@en .
+
+wd:Q11034 a wd:Q1914636 ;
+    rdfs:label "printing"@en .
+
+wd:Q11188259 a wd:Q20937557 ;
+    rdfs:label "Q11188259"^^xsd:string .
+
+wd:Q11197837 a wd:Q20937557 ;
+    rdfs:label "ETV50"@en .
+
+wd:Q1122526 a wd:Q1914636 ;
+    rdfs:label "ice cross downhill"@en .
+
+wd:Q11242738 a wd:Q20937557 ;
+    rdfs:label "SDX"@en .
+
+wd:Q1128406 a wd:Q1914636 ;
+    rdfs:label "correspondence chess"@en .
+
+wd:Q1132884 a wd:Q4026292 ;
+    rdfs:label "Complete game"@en .
+
+wd:Q1144458 a wd:Q1914636 ;
+    rdfs:label "archaeological field survey"@en .
+
+wd:Q1147027 a wd:Q20937557 ;
+    rdfs:label "Sentinel-1"@en .
+
+wd:Q1151954 a wd:Q20937557 ;
+    rdfs:label "HY-2"@en .
+
+wd:Q11642 a wd:Q1914636 ;
+    rdfs:label "pottery"@en .
+
+wd:Q11649704 a wd:Q1914636 ;
+    rdfs:label "railway photography"@en .
+
+wd:Q11680564 a wd:Q1914636 ;
+    rdfs:label "Q11680564"^^xsd:string .
+
+wd:Q11815276 a wd:Q4026292 ;
+    rdfs:label "Q11815276"^^xsd:string .
+
+wd:Q11873320 a wd:Q20937557 ;
+    rdfs:label "Kultaranta"@en .
+
+wd:Q11880995 a wd:Q1914636 ;
+    rdfs:label "berry picking"@en .
+
+wd:Q11916953 a wd:Q1914636 ;
+    rdfs:label "archival description"@en .
+
+wd:Q1194492 a wd:Q1914636 ;
+    rdfs:label "angling"@en .
+
+wd:Q119770 a wd:Q1914636 ;
+    rdfs:label "nose-picking"@en .
+
+wd:Q12013292 a wd:Q1914636 ;
+    rdfs:label "Q12013292"^^xsd:string .
+
+wd:Q12051030 a wd:Q1914636 ;
+    rdfs:label "choral conducting"@en .
+
+wd:Q12062721 a wd:Q1914636 ;
+    rdfs:label "CSRP"@en .
+
+wd:Q12099208 a wd:Q1914636 ;
+    rdfs:label "Q12099208"^^xsd:string .
+
+wd:Q1224389 a wd:Q1914636 ;
+    rdfs:label "copy editing"@en .
+
+wd:Q1227658 a wd:Q1914636 ;
+    rdfs:label "Executive search"@en .
+
+wd:Q12283360 a wd:Q1914636 ;
+    rdfs:label "collective rights management"@en .
+
+wd:Q12312095 a wd:Q1914636 ;
+    rdfs:label "Q12312095"^^xsd:string .
+
+wd:Q1232760 a wd:Q1914636 ;
+    rdfs:label "Vorlehre"@en .
+
+wd:Q1237093 a wd:Q1914636 ;
+    rdfs:label "Wringen"@en .
+
+wd:Q1250718 a wd:Q4026292 ;
+    rdfs:label "relaunch"@en .
+
+wd:Q12546 a wd:Q20937557 ;
+    rdfs:label "Crusades"@en .
+
+wd:Q12554212 a wd:Q1914636 ;
+    rdfs:label "Q12554212"^^xsd:string .
+
+wd:Q127213 a wd:Q1914636 ;
+    rdfs:label "arboriculture"@en .
+
+wd:Q1274416 a wd:Q20937557 ;
+    rdfs:label "Q1274416"^^xsd:string .
+
+wd:Q1281188 a wd:Q1914636 ;
+    rdfs:label "cheesemaking"@en .
+
+wd:Q12822469 a wd:Q20937557 ;
+    rdfs:label "Girya"@en .
+
+wd:Q12891137 a wd:Q1914636 ;
+    rdfs:label "Q12891137"^^xsd:string .
+
+wd:Q12892521 a wd:Q1914636 ;
+    rdfs:label "Q12892521"^^xsd:string .
+
+wd:Q1297897 a wd:Q1914636 ;
+    rdfs:label "sex work"@en .
+
+wd:Q130044 a wd:Q1914636 ;
+    rdfs:label "swaddling"@en .
+
+wd:Q13023085 a wd:Q20937557 ;
+    rdfs:label "Q13023085"^^xsd:string .
+
+wd:Q1305571 a wd:Q1914636 ;
+    rdfs:label "Q1305571"^^xsd:string .
+
+wd:Q1309003 a wd:Q1914636 ;
+    rdfs:label "Einschwenken"@en .
+
+wd:Q13125334 a wd:Q20937557 ;
+    rdfs:label "Abri"@en .
+
+wd:Q13136630 a wd:Q1914636 ;
+    rdfs:label "bell ringing"@en .
+
+wd:Q13137278 a wd:Q1914636 ;
+    rdfs:label "Q13137278"^^xsd:string .
+
+wd:Q131508 a wd:Q1914636 ;
+    rdfs:label "enterprise resource planning"@en .
+
+wd:Q133080 a wd:Q1914636 ;
+    rdfs:label "public relations"@en .
+
+wd:Q1336161 a wd:Q15729598 ;
+    rdfs:label "Hardtop"@en .
+
+wd:Q1338888 a wd:Q20937557 ;
+    rdfs:label "NEC PC-8800 series"@en .
+
+wd:Q13425292 a wd:Q1914636 ;
+    rdfs:label "adventure"@en .
+
+wd:Q1343316 a wd:Q1914636 ;
+    rdfs:label "military command"@en .
+
+wd:Q13569852 a wd:Q20937557 ;
+    rdfs:label "Q13569852"^^xsd:string .
+
+wd:Q13586528 a wd:Q20937557 ;
+    rdfs:label "MicroVAX"@en .
+
+wd:Q13626277 a wd:Q1914636 ;
+    rdfs:label "Sexual Jihad"@en .
+
+wd:Q1363554 a wd:Q1914636 ;
+    rdfs:label "financial analysis"@en .
+
+wd:Q1366963 a wd:Q1914636 ;
+    rdfs:label "whale watching"@en .
+
+wd:Q1384205 a wd:Q20937557 ;
+    rdfs:label "Q1384205"^^xsd:string .
+
+wd:Q1404898 a wd:Q20937557 ;
+    rdfs:label "Q1404898"^^xsd:string .
+
+wd:Q1413596 a wd:Q1914636 ;
+    rdfs:label "Rub"@en .
+
+wd:Q1415247 a wd:Q1914636 ;
+    rdfs:label "film preservation"@en .
+
+wd:Q1415356 a wd:Q1914636 ;
+    rdfs:label "film distribution"@en .
+
+wd:Q1416052 a wd:Q1914636 ;
+    rdfs:label "computer-assisted legal research"@en .
+
+wd:Q1417815 a wd:Q1914636 ;
+    rdfs:label "reading education"@en .
+
+wd:Q1420117 a wd:Q1914636 ;
+    rdfs:label "reefing"@en .
+
+wd:Q1420413 a wd:Q1914636 ;
+    rdfs:label "health technology assessment"@en .
+
+wd:Q14222943 a wd:Q1914636 ;
+    rdfs:label "London South Bank Walk"@en .
+
+wd:Q1428108 a wd:Q1914636 ;
+    rdfs:label "room air distribution"@en .
+
+wd:Q1429051 a wd:Q1914636 ;
+    rdfs:label "shunting"@en .
+
+wd:Q14294128 a wd:Q20937557 ;
+    rdfs:label "Volvo S40/V40"@en .
+
+wd:Q1430184 a wd:Q1914636 ;
+    rdfs:label "performance appraisal"@en .
+
+wd:Q1430627 a wd:Q1914636 ;
+    rdfs:label "Snake charming"@en .
+
+wd:Q1430892 a wd:Q1914636 ;
+    rdfs:label "voluntary social year"@en .
+
+wd:Q14373 a wd:Q1914636 ;
+    rdfs:label "fishing"@en .
+
+wd:Q14378675 a wd:Q4026292 ;
+    rdfs:label "Q14378675"^^xsd:string .
+
+wd:Q1455737 a wd:Q1914636 ;
+    rdfs:label "ferreting"@en .
+
+wd:Q1460219 a wd:Q1914636 ;
+    rdfs:label "floral design"@en .
+
+wd:Q14614313 a wd:Q1914636 ;
+    rdfs:label "lustration"@en .
+
+wd:Q14631474 a wd:Q1914636 ;
+    rdfs:label "Q14631474"^^xsd:string .
+
+wd:Q1481938 a wd:Q1914636 ;
+    rdfs:label "militancy"@en .
+
+wd:Q1491128 a wd:Q1914636 ;
+    rdfs:label "gold prospecting"@en .
+
+wd:Q15008046 a wd:Q1914636 ;
+    rdfs:label "log driving"@en .
+
+wd:Q1518753 a wd:Q1914636 ;
+    rdfs:label "Gesenk"@en .
+
+wd:Q1535526 a wd:Q15729598 ;
+    rdfs:label "Targa top"@en .
+
+wd:Q15383191 a wd:Q1914636 ;
+    rdfs:label "Technology intelligence"@en .
+
+wd:Q154273 a wd:Q1914636 ;
+    rdfs:label "colportage"@en .
+
+wd:Q15449497 a wd:Q1914636 ;
+    rdfs:label "executive transport"@en .
+
+wd:Q1546695 a wd:Q1914636 ;
+    rdfs:label "cartomancy"@en .
+
+wd:Q15488100 a wd:Q1914636 ;
+    rdfs:label "film direction"@en .
+
+wd:Q1549314 a wd:Q15729598 ;
+    rdfs:label "torpedo"@en .
+
+wd:Q1550789 a wd:Q1914636 ;
+    rdfs:label "Pharmacovigilance"@en .
+
+wd:Q1552147 a wd:Q1914636 ;
+    rdfs:label "Q1552147"^^xsd:string .
+
+wd:Q1571805 a wd:Q1914636 ;
+    rdfs:label "Tech C"@en .
+
+wd:Q1571929 a wd:Q1914636 ;
+    rdfs:label "general aviation"@en .
+
+wd:Q1583429 a wd:Q4026292 ;
+    rdfs:label "Stand in the Schoolhouse Door"@en .
+
+wd:Q15846522 a wd:Q4026292 ;
+    rdfs:label "Q15846522"^^xsd:string .
+
+wd:Q15850009 a wd:Q1914636 ;
+    rdfs:label "Day-tripper"@en .
+
+wd:Q15877766 a wd:Q1914636 ;
+    rdfs:label "Q15877766"^^xsd:string .
+
+wd:Q15883587 a wd:Q4026292 ;
+    rdfs:label "claim"@en .
+
+wd:Q1598031 a wd:Q1914636 ;
+    rdfs:label "Illizit"@en .
+
+wd:Q1605510 a wd:Q82604 ;
+    rdfs:label "Henning Koppel"@en .
+
+wd:Q1612881 a wd:Q20937557 ;
+    rdfs:label "National Defense Authorization Act"@en .
+
+wd:Q16148095 a wd:Q20937557 ;
+    rdfs:label "Sessions"@en .
+
+wd:Q16153286 a wd:Q82604 ;
+    rdfs:label "Auschwitz Supermarket"@en .
+
+wd:Q16155080 a wd:Q20937557 ;
+    rdfs:label "Monuments and memorials to Horatio Nelson, 1st Viscount Nelson"@en .
+
+wd:Q1643184 a wd:Q1914636 ;
+    rdfs:label "help"@en .
+
+wd:Q1650350 a wd:Q1914636 ;
+    rdfs:label "prospecting"@en .
+
+wd:Q16510258 a wd:Q20937557 ;
+    rdfs:label "ChromeS20 Series"@en .
+
+wd:Q16526979 a wd:Q82604 ;
+    rdfs:label "Anghami"@en .
+
+wd:Q16635395 a wd:Q1914636 ;
+    rdfs:label "tarotology"@en .
+
+wd:Q166376 a wd:Q1914636 ;
+    rdfs:label "doping in sport"@en .
+
+wd:Q1671165 a wd:Q1914636 ;
+    rdfs:label "Seihen"@en .
+
+wd:Q1675033 a wd:Q1914636 ;
+    rdfs:label "Itako"@en .
+
+wd:Q1679069 a wd:Q20937557 ;
+    rdfs:label "Stoclet Frieze"@en .
+
+wd:Q16879932 a wd:Q1914636 ;
+    rdfs:label "musical instrument making"@en .
+
+wd:Q16920157 a wd:Q1914636 ;
+    rdfs:label "variation"@en .
+
+wd:Q16944853 a wd:Q1914636 ;
+    rdfs:label "Hydraulist"@en .
+
+wd:Q16962827 a wd:Q20937557 ;
+    rdfs:label "Paschal cycle"@en .
+
+wd:Q16996249 a wd:Q20937557 ;
+    rdfs:label "I Can Read!"@en .
+
+wd:Q17001427 a wd:Q1914636 ;
+    rdfs:label "Bitcoin network"@en .
+
+wd:Q17003225 a wd:Q1914636 ;
+    rdfs:label "biological illustration"@en .
+
+wd:Q17023317 a wd:Q1914636 ;
+    rdfs:label "Shoulder Pole Rice Eating"@en .
+
+wd:Q17024704 a wd:Q20937557 ;
+    rdfs:label "motorcycle racing series"@en .
+
+wd:Q17024773 a wd:Q1914636 ;
+    rdfs:label "television weathercast"@en .
+
+wd:Q17092352 a wd:Q1914636 ;
+    rdfs:label "patient selection"@en .
+
+wd:Q17096206 a wd:Q1914636 ;
+    rdfs:label "Target practice"@en .
+
+wd:Q171141 a wd:Q1914636 ;
+    rdfs:label "gastronomy"@en .
+
+wd:Q17143560 a wd:Q1914636 ;
+    rdfs:label "modelling"@en .
+
+wd:Q1718812 a wd:Q20937557 ;
+    rdfs:label "Q1718812"^^xsd:string .
+
+wd:Q1725430 a wd:Q1914636 ;
+    rdfs:label "lawmaking"@en .
+
+wd:Q17305180 a wd:Q1914636 ;
+    rdfs:label "urban development"@en .
+
+wd:Q17308314 a wd:Q1914636 ;
+    rdfs:label "Bellfounding"@en .
+
+wd:Q17318037 a wd:Q1914636 ;
+    rdfs:label "waste picking"@en .
+
+wd:Q17344835 a wd:Q1914636 ;
+    rdfs:label "songwriting"@en .
+
+wd:Q1744214 a wd:Q1914636 ;
+    rdfs:label "Q1744214"^^xsd:string .
+
+wd:Q1748655 a wd:Q1914636 ;
+    rdfs:label "Corporate foresight"@en .
+
+wd:Q175234 a wd:Q4026292 ;
+    rdfs:label "embouchure"@en .
+
+wd:Q17554390 a wd:Q1914636 ;
+    rdfs:label "resting"@en .
+
+wd:Q17572748 a wd:Q1914636 ;
+    rdfs:label "begging"@en .
+
+wd:Q1762591 a wd:Q1914636 ;
+    rdfs:label "diagnostic test"@en .
+
+wd:Q17634596 a wd:Q1914636 ;
+    rdfs:label "website maintenance"@en .
+
+wd:Q1764356 a wd:Q82604 ;
+    rdfs:label "Italian design"@en .
+
+wd:Q176485 a wd:Q15729598 ;
+    rdfs:label "Brougham"@en .
+
+wd:Q177719 a wd:Q1914636 ;
+    rdfs:label "medical diagnosis"@en .
+
+wd:Q1779003 a wd:Q15729598 ;
+    rdfs:label "Retractable hardtop"@en .
+
+wd:Q1783383 a wd:Q82604 ;
+    rdfs:label "French submarine Plongeur"@en .
+
+wd:Q1783428 a wd:Q15729598 ;
+    rdfs:label "Runabout"@en .
+
+wd:Q1788178 a wd:Q1914636 ;
+    rdfs:label "Finding of the True Cross"@en .
+
+wd:Q1790516 a wd:Q1914636 ;
+    rdfs:label "language culture"@en .
+
+wd:Q17911657 a wd:Q1914636 ;
+    rdfs:label "taphophilia"@en .
+
+wd:Q1798005 a wd:Q82604 ;
+    rdfs:label "LEDE"@en .
+
+wd:Q1802953 a wd:Q1914636 ;
+    rdfs:label "Präsenzdienst"@en .
+
+wd:Q1813455 a wd:Q1914636 ;
+    rdfs:label "Lehrgang"@en .
+
+wd:Q18204513 a wd:Q82604 ;
+    rdfs:label "ABV Reactor"@en .
+
+wd:Q18207130 a wd:Q1914636 ;
+    rdfs:label "flight-sharing"@en .
+
+wd:Q18219587 a wd:Q20937557 ;
+    rdfs:label "Passion"@en .
+
+wd:Q183505 a wd:Q20937557 ;
+    rdfs:label "NEC PC-9800 series"@en .
+
+wd:Q18382459 a wd:Q1914636 ;
+    rdfs:label "passenger airline service"@en .
+
+wd:Q18506524 a wd:Q1914636 ;
+    rdfs:label "Mazze"@en .
+
+wd:Q18523854 a wd:Q1914636 ;
+    rdfs:label "stage management"@en .
+
+wd:Q18543534 a wd:Q1914636 ;
+    rdfs:label "Q18543534"^^xsd:string .
+
+wd:Q185733 a wd:Q1914636 ;
+    rdfs:label "philanthropy"@en .
+
+wd:Q18608406 a wd:Q1914636 ;
+    rdfs:label "mushing"@en .
+
+wd:Q18612566 a wd:Q20937557 ;
+    rdfs:label "dog's bollocks"@en .
+
+wd:Q186171 a wd:Q20937557 ;
+    rdfs:label "Q186171"^^xsd:string .
+
+wd:Q18646422 a wd:Q1914636 ;
+    rdfs:label "confectionery"@en .
+
+wd:Q18697160 a wd:Q1914636 ;
+    rdfs:label "golf ball diver"@en .
+
+wd:Q187094 a wd:Q1914636 ;
+    rdfs:label "time comparison"@en .
+
+wd:Q18749628 a wd:Q1914636 ;
+    rdfs:label "regulatory affairs"@en .
+
+wd:Q188475 a wd:Q15729598 ;
+    rdfs:label "limousine"@en .
+
+wd:Q188494 a wd:Q1914636 ;
+    rdfs:label "witch hunt"@en .
+
+wd:Q188689 a wd:Q4026292 ;
+    rdfs:label "ultimatum"@en .
+
+wd:Q188844 a wd:Q1914636 ;
+    rdfs:label "volunteering"@en .
+
+wd:Q188886 a wd:Q15729598 ;
+    rdfs:label "station wagon"@en .
+
+wd:Q189439 a wd:Q1914636 ;
+    rdfs:label "version control"@en .
+
+wd:Q1899125 rdfs:label "clean room design"@en ;
+    rdfs:subClassOf wd:Q243606 .
+
+wd:Q190578 a wd:Q15729598 ;
+    rdfs:label "sedan"@en .
+
+wd:Q190902 a wd:Q1914636 ;
+    rdfs:label "Zentrierung"@en .
+
+wd:Q19153265 a wd:Q20937557 ;
+    rdfs:label "Q19153265"^^xsd:string .
+
+wd:Q192013 a wd:Q1914636 ;
+    rdfs:label "Zerscherbung"@en .
+
+wd:Q1920640 a wd:Q1914636 ;
+    rdfs:label "Utrecht Museum Night"@en .
+
+wd:Q1926748 a wd:Q1914636 ;
+    rdfs:label "Q1926748"^^xsd:string .
+
+wd:Q193181 a wd:Q1914636 ;
+    rdfs:label "observation"@en .
+
+wd:Q1932115 a wd:Q1914636 ;
+    rdfs:label "degustation"@en .
+
+wd:Q193468 a wd:Q15729598 ;
+    rdfs:label "van"@en .
+
+wd:Q19359146 a wd:Q1914636 ;
+    rdfs:label "Q19359146"^^xsd:string .
+
+wd:Q1938241 a wd:Q1914636 ;
+    rdfs:label "Q1938241"^^xsd:string .
+
+wd:Q194189 a wd:Q1914636 ;
+    rdfs:label "sales"@en .
+
+wd:Q1945759 a wd:Q20937557 ;
+    rdfs:label "World Series of Darts"@en .
+
+wd:Q1957816 a wd:Q1914636 ;
+    rdfs:label "design of furniture"@en .
+
+wd:Q1961801 a wd:Q1914636 ;
+    rdfs:label "microfilming"@en .
+
+wd:Q196720 a wd:Q1914636 ;
+    rdfs:label "Zerstäuben"@en .
+
+wd:Q19794820 a wd:Q1914636 ;
+    rdfs:label "stonemasonry"@en .
+
+wd:Q19834025 a wd:Q1914636 ;
+    rdfs:label "Q19834025"^^xsd:string .
+
+wd:Q19843694 a wd:Q1914636 ;
+    rdfs:label "Animal husbandry in France"@en .
+
+wd:Q1988924 a wd:Q4026292 ;
+    rdfs:label "LNG ship to ship transfer"@en .
+
+wd:Q198938 a wd:Q1914636 ;
+    rdfs:label "Zielansprache"@en .
+
+wd:Q199001 a wd:Q1914636 ;
+    rdfs:label "Target object search (dog sports)"@en .
+
+wd:Q1990502 a wd:Q1914636 ;
+    rdfs:label "LJ"@en .
+
+wd:Q1992891 a wd:Q1914636 ;
+    rdfs:label "Q1992891"^^xsd:string .
+
+wd:Q19944901 a wd:Q1914636 ;
+    rdfs:label "goldbeating"@en .
+
+wd:Q19991564 a wd:Q1914636 ;
+    rdfs:label "Q19991564"^^xsd:string .
+
+wd:Q20050633 a wd:Q20937557 ;
+    rdfs:label "The Harvest Gypsies"@en .
+
+wd:Q20058545 a wd:Q4026292 ;
+    rdfs:label "commit"@en .
+
+wd:Q20085854 a wd:Q1914636 ;
+    rdfs:label "vigilantism"@en .
+
+wd:Q20117614 a wd:Q82604 ;
+    rdfs:label "Design for a screen for the Bloedkapel in the Sint-Petruskerk in Boxtel"@en .
+
+wd:Q20160547 a wd:Q82604 ;
+    rdfs:label "Design for a screen for the Bloedkapel in the Sint-Petruskerk in Boxtel"@en .
+
+wd:Q20191854 a wd:Q1914636 ;
+    rdfs:label "Q20191854"^^xsd:string .
+
+wd:Q2040532 a wd:Q1914636 ;
+    rdfs:label "event planning"@en .
+
+wd:Q205801 a wd:Q20937557 ;
+    rdfs:label "Saffir–Simpson hurricane wind scale"@en .
+
+wd:Q20645609 a wd:Q82604 ;
+    rdfs:label "Q20645609"^^xsd:string .
+
+wd:Q20653410 a wd:Q82604 ;
+    rdfs:label "Drawing after one of the weepers from the tomb of Isabella of Bourbon by Pierre Cuypers"@en .
+
+wd:Q207137 a wd:Q20937557 ;
+    rdfs:label "curriculum"@en .
+
+wd:Q2074276 a wd:Q1914636 ;
+    rdfs:label "powered paragliding"@en .
+
+wd:Q20747921 a wd:Q4026292 ;
+    rdfs:label "Q20747921"^^xsd:string .
+
+wd:Q20826686 a wd:Q4026292 ;
+    rdfs:label "Q20826686"^^xsd:string .
+
+wd:Q2084518 a wd:Q1914636 ;
+    rdfs:label "Q2084518"^^xsd:string .
+
+wd:Q20892182 a wd:Q4026292 ;
+    rdfs:label "video-recording"@en .
+
+wd:Q209572 a wd:Q1914636 ;
+    rdfs:label "military service"@en .
+
+wd:Q20976736 a wd:Q1914636 ;
+    rdfs:label "scheduled international air service"@en .
+
+wd:Q20976813 a wd:Q1914636 ;
+    rdfs:label "international air service"@en .
+
+wd:Q20976913 a wd:Q1914636 ;
+    rdfs:label "commercial air service"@en .
+
+wd:Q20977792 a wd:Q1914636 ;
+    rdfs:label "domestic air service"@en .
+
+wd:Q20978155 a wd:Q1914636 ;
+    rdfs:label "scheduled domestic air service"@en .
+
+wd:Q21004260 a wd:Q1914636 ;
+    rdfs:label "inquiry"@en .
+
+wd:Q21009914 a wd:Q1914636 ;
+    rdfs:label "Q21009914"^^xsd:string .
+
+wd:Q2114846 a wd:Q1914636 ;
+    rdfs:label "zoological specimen"@en .
+
+wd:Q21152830 a wd:Q20937557 ;
+    rdfs:label "BSicon"@en .
+
+wd:Q211557 a wd:Q1914636 ;
+    rdfs:label "bequest"@en .
+
+wd:Q21228187 a wd:Q1914636 ;
+    rdfs:label "Q21228187"^^xsd:string .
+
+wd:Q213449 a wd:Q1914636 ;
+    rdfs:label "eating"@en .
+
+wd:Q213853 a wd:Q15729598 ;
+    rdfs:label "coupe"@en .
+
+wd:Q2139960 a wd:Q4026292 ;
+    rdfs:label "Q2139960"^^xsd:string .
+
+wd:Q214092 a wd:Q1914636 ;
+    rdfs:label "patronage"@en .
+
+wd:Q214912 a wd:Q1914636 ;
+    rdfs:label "hitchhiking"@en .
+
+wd:Q21550668 a wd:Q1914636 ;
+    rdfs:label "illustration"@en .
+
+wd:Q2155357 a wd:Q82604 ;
+    rdfs:label "LAWO I"@en .
+
+wd:Q215601 a wd:Q15729598 ;
+    rdfs:label "pickup truck"@en .
+
+wd:Q2162372 a wd:Q1914636 ;
+    rdfs:label "pipe fitting"@en .
+
+wd:Q216762 a wd:Q15729598 ;
+    rdfs:label "hatchback"@en .
+
+wd:Q2176651 a wd:Q20937557 ;
+    rdfs:label "Dashavatara"@en .
+
+wd:Q2179317 a wd:Q1914636 ;
+    rdfs:label "Q2179317"^^xsd:string .
+
+wd:Q2180984 a wd:Q20937557 ;
+    rdfs:label "Soccerseries"@en .
+
+wd:Q218537 a wd:Q1914636 ;
+    rdfs:label "customs clearance"@en .
+
+wd:Q218582 a wd:Q1914636 ;
+    rdfs:label "Zollbeschau"@en .
+
+wd:Q218719 a wd:Q1914636 ;
+    rdfs:label "border control"@en .
+
+wd:Q2188678 a wd:Q1914636 ;
+    rdfs:label "bus spotting"@en .
+
+wd:Q21963484 a wd:Q20937557 ;
+    rdfs:label "Games Done Quick"@en .
+
+wd:Q2200492 a wd:Q1914636 ;
+    rdfs:label "Q2200492"^^xsd:string .
+
+wd:Q220277 a wd:Q4026292 ;
+    rdfs:label "defenestration"@en .
+
+wd:Q22261015 a wd:Q1914636 ;
+    rdfs:label "Q22261015"^^xsd:string .
+
+wd:Q22261983 a wd:Q82604 ;
+    rdfs:label "Q22261983"^^xsd:string .
+
+wd:Q22284407 a wd:Q20937557 ;
+    rdfs:label "Australian federal election"@en .
+
+wd:Q223189 a wd:Q15729598 ;
+    rdfs:label "minivan"@en .
+
+wd:Q2251595 a wd:Q1914636 ;
+    rdfs:label "protection"@en .
+
+wd:Q2260076 a wd:Q82604 ;
+    rdfs:label "book cover design"@en .
+
+wd:Q22696274 a wd:Q20937557 ;
+    rdfs:label "Malaysian general election"@en .
+
+wd:Q228163 a wd:Q1914636 ;
+    rdfs:label "Zuerwerb"@en .
+
+wd:Q228438 a wd:Q1914636 ;
+    rdfs:label "Zuglenkung"@en .
+
+wd:Q2296657 a wd:Q82604 ;
+    rdfs:label "Social design"@en .
+
+wd:Q230106 a wd:Q1914636 ;
+    rdfs:label "Zungenstoß"@en .
+
+wd:Q2304418 a wd:Q1914636 ;
+    rdfs:label "locksmithing"@en .
+
+wd:Q2306047 a wd:Q1914636 ;
+    rdfs:label "pest control"@en .
+
+wd:Q2313213 a wd:Q1914636 ;
+    rdfs:label "language teaching"@en .
+
+wd:Q2314618 a wd:Q1914636 ;
+    rdfs:label "forensic identification"@en .
+
+wd:Q232903 a wd:Q1914636 ;
+    rdfs:label "dual combat"@en .
+
+wd:Q2332372 a wd:Q82604 ;
+    rdfs:label "Symbols of Tokyo"@en .
+
+wd:Q2334477 a wd:Q1914636 ;
+    rdfs:label "stowage"@en .
+
+wd:Q2340775 a wd:Q1914636 ;
+    rdfs:label "Maske Begrave"@en .
+
+wd:Q2341573 a wd:Q20937557 ;
+    rdfs:label "Super Series"@en .
+
+wd:Q2348670 a wd:Q1914636 ;
+    rdfs:label "millstone dressing"@en .
+
+wd:Q2350995 a wd:Q1914636 ;
+    rdfs:label "plastering"@en .
+
+wd:Q2354985 a wd:Q1914636 ;
+    rdfs:label "road maintenance"@en .
+
+wd:Q23581415 a wd:Q1914636 ;
+    rdfs:label "Lead abatement"@en .
+
+wd:Q23693434 a wd:Q20937557 ;
+    rdfs:label "Wood engravings for Thornton's 'Virgil'"@en .
+
+wd:Q238559 a wd:Q1914636 ;
+    rdfs:label "5-point check"@en .
+
+wd:Q2386093 a wd:Q1914636 ;
+    rdfs:label "Q2386093"^^xsd:string .
+
+wd:Q2391676 a wd:Q1914636 ;
+    rdfs:label "mushroom hunting"@en .
+
+wd:Q239383 a wd:Q82604 ;
+    rdfs:label "Windglider"@en .
+
+wd:Q2396581 a wd:Q1914636 ;
+    rdfs:label "cooperage"@en .
+
+wd:Q24083889 a wd:Q20937557 ;
+    rdfs:label "Q24083889"^^xsd:string .
+
+wd:Q24090648 a wd:Q1914636 ;
+    rdfs:label "Q24090648"^^xsd:string .
+
+wd:Q2409338 a wd:Q1914636 ;
+    rdfs:label "Q2409338"^^xsd:string .
+
+wd:Q2410234 a wd:Q1914636 ;
+    rdfs:label "transloading"@en .
+
+wd:Q24161734 a wd:Q1914636 ;
+    rdfs:label "Q24161734"^^xsd:string .
+
+wd:Q2418755 a wd:Q1914636 ;
+    rdfs:label "Q2418755"^^xsd:string .
+
+wd:Q2424501 a wd:Q82604 ;
+    rdfs:label "fusion rocket"@en .
+
+wd:Q2434422 a wd:Q1914636 ;
+    rdfs:label "Q2434422"^^xsd:string .
+
+wd:Q2440971 a wd:Q20937557 ;
+    rdfs:label "PC-6000 series"@en .
+
+wd:Q24636480 a wd:Q20937557 ;
+    rdfs:label "Set of five torques"@en .
+
+wd:Q2467824 a wd:Q1914636 ;
+    rdfs:label "driving"@en .
+
+wd:Q2474068 a wd:Q1914636 ;
+    rdfs:label "cosmetology"@en .
+
+wd:Q2478369 a wd:Q4026292 ;
+    rdfs:label "Q2478369"^^xsd:string .
+
+wd:Q24827889 a wd:Q20937557 ;
+    rdfs:label "Transactions of the Natural History Society of Northumberland, Durham, and Newcastle-upon-Tyne"@en .
+
+wd:Q2512021 a wd:Q1914636 ;
+    rdfs:label "lumières"@en .
+
+wd:Q2515887 a wd:Q4026292 ;
+    rdfs:label "pattern of behaviour"@en .
+
+wd:Q2516616 a wd:Q1914636 ;
+    rdfs:label "loading"@en .
+
+wd:Q252802 a wd:Q1914636 ;
+    rdfs:label "ostracism"@en .
+
+wd:Q25344555 a wd:Q1914636 ;
+    rdfs:label "professional organizing"@en .
+
+wd:Q2537625 a wd:Q20937557 ;
+    rdfs:label "Q2537625"^^xsd:string .
+
+wd:Q25379611 a wd:Q1914636 ;
+    rdfs:label "Q25379611"^^xsd:string .
+
+wd:Q2538907 a wd:Q1914636 ;
+    rdfs:label "arms trade"@en .
+
+wd:Q25401338 a wd:Q1914636 ;
+    rdfs:label "Q25401338"^^xsd:string .
+
+wd:Q2540428 a wd:Q1914636 ;
+    rdfs:label "Q2540428"^^xsd:string .
+
+wd:Q2542444 a wd:Q20937557 ;
+    rdfs:label "Welsh Triads"@en .
+
+wd:Q25479529 a wd:Q20937557 ;
+    rdfs:label "Q25479529"^^xsd:string .
+
+wd:Q256320 a wd:Q1914636 ;
+    rdfs:label "Equivalence Exchange"@en .
+
+wd:Q256879 a wd:Q1914636 ;
+    rdfs:label "Aestheticization"@en .
+
+wd:Q2585403 a wd:Q4026292 ;
+    rdfs:label "We've had abortions!"@en .
+
+wd:Q25931702 a wd:Q1914636 ;
+    rdfs:label "sleeping"@en .
+
+wd:Q2595403 a wd:Q4026292 ;
+    rdfs:label "partition"@en .
+
+wd:Q2598347 a wd:Q1914636 ;
+    rdfs:label "car spotting"@en .
+
+wd:Q2602017 a wd:Q1914636 ;
+    rdfs:label "human branding"@en .
+
+wd:Q2608165 a wd:Q4026292 ;
+    rdfs:label "combo"@en .
+
+wd:Q260906 a wd:Q1914636 ;
+    rdfs:label "camping"@en .
+
+wd:Q26208537 a wd:Q1914636 ;
+    rdfs:label "Q26208537"^^xsd:string .
+
+wd:Q2629837 a wd:Q1914636 ;
+    rdfs:label "Q2629837"^^xsd:string .
+
+wd:Q2666550 a wd:Q1914636 ;
+    rdfs:label "lampworking"@en .
+
+wd:Q2681171 a wd:Q1914636 ;
+    rdfs:label "Q2681171"^^xsd:string .
+
+wd:Q2686844 a wd:Q4026292 ;
+    rdfs:label "Alpe d'HuZes"@en .
+
+wd:Q2692551 a wd:Q1914636 ;
+    rdfs:label "dewatering"@en .
+
+wd:Q2699839 a wd:Q1914636 ;
+    rdfs:label "tracking"@en .
+
+wd:Q2707384 a wd:Q1914636 ;
+    rdfs:label "side project"@en .
+
+wd:Q272999 a wd:Q1914636 ;
+    rdfs:label "masonry"@en .
+
+wd:Q2736535 a wd:Q1914636 ;
+    rdfs:label "military communications"@en .
+
+wd:Q27659059 a wd:Q20937557 ;
+    rdfs:label "2016–2017 Central Italy earthquakes"@en .
+
+wd:Q2778015 a wd:Q1914636 ;
+    rdfs:label "video capture"@en .
+
+wd:Q2778440 a wd:Q1914636 ;
+    rdfs:label "Classical guitar making"@en .
+
+wd:Q2795122 a wd:Q1914636 ;
+    rdfs:label "going out"@en .
+
+wd:Q2795439 a wd:Q15729598 ;
+    rdfs:label "Q2795439"^^xsd:string .
+
+wd:Q280221 a wd:Q1914636 ;
+    rdfs:label "interpretation"@en .
+
+wd:Q28049494 a wd:Q20937557 ;
+    rdfs:label "Q28049494"^^xsd:string .
+
+wd:Q28111200 a wd:Q20937557 ;
+    rdfs:label "Récits d'une tante"@en .
+
+wd:Q28150258 a wd:Q4026292 ;
+    rdfs:label "Q28150258"^^xsd:string .
+
+wd:Q28343102 a wd:Q20937557 ;
+    rdfs:label "Q28343102"^^xsd:string .
+
+wd:Q283534 a wd:Q1914636 ;
+    rdfs:label "recreational fishing"@en .
+
+wd:Q283791 a wd:Q1914636 ;
+    rdfs:label "family reunification"@en .
+
+wd:Q28650069 a wd:Q1914636 ;
+    rdfs:label "2017 Taiwan Lantern Festival"@en .
+
+wd:Q2865620 a wd:Q1914636 ;
+    rdfs:label "Q2865620"^^xsd:string .
+
+wd:Q28732324 a wd:Q20937557 ;
+    rdfs:label "Q28732324"^^xsd:string .
+
+wd:Q28792482 a wd:Q1914636 ;
+    rdfs:label "astroengineering"@en .
+
+wd:Q28873643 a wd:Q1914636 ;
+    rdfs:label "tailoring"@en .
+
+wd:Q28873655 a wd:Q1914636 ;
+    rdfs:label "dressmaking"@en .
+
+wd:Q28917822 a wd:Q20937557 ;
+    rdfs:label "Q28917822"^^xsd:string .
+
+wd:Q2892564 a wd:Q1914636 ;
+    rdfs:label "Q2892564"^^xsd:string .
+
+wd:Q2904016 a wd:Q1914636 ;
+    rdfs:label "BioBlitz"@en .
+
+wd:Q2905488 a wd:Q1914636 ;
+    rdfs:label "beer pouring"@en .
+
+wd:Q29111757 a wd:Q20937557 ;
+    rdfs:label "Q29111757"^^xsd:string .
+
+wd:Q29113372 a wd:Q20937557 ;
+    rdfs:label "Q29113372"^^xsd:string .
+
+wd:Q2918628 a wd:Q20937557 ;
+    rdfs:label "Toophan"@en .
+
+wd:Q2920921 a wd:Q1914636 ;
+    rdfs:label "management"@en .
+
+wd:Q2930613 a wd:Q1914636 ;
+    rdfs:label "conscientious objection"@en .
+
+wd:Q29343719 a wd:Q20937557 ;
+    rdfs:label "Q29343719"^^xsd:string .
+
+wd:Q2934586 a wd:Q82604 ;
+    rdfs:label "Calypso II"@en .
+
+wd:Q29349255 a wd:Q1914636 ;
+    rdfs:label "candlemaking"@en .
+
+wd:Q29408533 a wd:Q20937557 ;
+    rdfs:label "Q29408533"^^xsd:string .
+
+wd:Q29428404 a wd:Q1914636 ;
+    rdfs:label "Anti-gay purges in Chechnya"@en .
+
+wd:Q2961375 a wd:Q1914636 ;
+    rdfs:label "Rabbiting"@en .
+
+wd:Q29641205 a wd:Q1914636 ;
+    rdfs:label "Q29641205"^^xsd:string .
+
+wd:Q29644979 a wd:Q82604 ;
+    rdfs:label "Q29644979"^^xsd:string .
+
+wd:Q2975883 a wd:Q1914636 ;
+    rdfs:label "violin making and maintenance"@en .
+
+wd:Q29785573 a wd:Q82604 ;
+    rdfs:label "Q29785573"^^xsd:string .
+
+wd:Q29814178 a wd:Q82604 ;
+    rdfs:label "Design for a kneeler"@en .
+
+wd:Q2982689 a wd:Q1914636 ;
+    rdfs:label "Decommunization"@en .
+
+wd:Q29848551 a wd:Q4026292 ;
+    rdfs:label "Q29848551"^^xsd:string .
+
+wd:Q29870227 a wd:Q82604 ;
+    rdfs:label "Q29870227"^^xsd:string .
+
+wd:Q29905377 a wd:Q82604 ;
+    rdfs:label "Q29905377"^^xsd:string .
+
+wd:Q2994466 a wd:Q1914636 ;
+    rdfs:label "traditional economy"@en .
+
+wd:Q29956130 a wd:Q82604 ;
+    rdfs:label "Design for a rood screen in the Sint-Barbarakerk in Breda"@en .
+
+wd:Q29974308 a wd:Q20937557 ;
+    rdfs:label "Sandaishū"@en .
+
+wd:Q29981667 a wd:Q82604 ;
+    rdfs:label "Design for a rood screen in the Sint-Barbarakerk in Breda"@en .
+
+wd:Q29995039 a wd:Q82604 ;
+    rdfs:label "Q29995039"^^xsd:string .
+
+wd:Q30118309 a wd:Q82604 ;
+    rdfs:label "Q30118309"^^xsd:string .
+
+wd:Q30139881 a wd:Q82604 ;
+    rdfs:label "Design for Willibrord Preaching to the Frisians"@en .
+
+wd:Q301895 a wd:Q20937557 ;
+    rdfs:label "Zanja de Alsina"@en .
+
+wd:Q3027256 a wd:Q20937557 ;
+    rdfs:label "Q3027256"^^xsd:string .
+
+wd:Q3030513 a wd:Q4026292 ;
+    rdfs:label "disappearance"@en .
+
+wd:Q3044530 a wd:Q1914636 ;
+    rdfs:label "snow removal"@en .
+
+wd:Q3050486 a wd:Q1914636 ;
+    rdfs:label "Q3050486"^^xsd:string .
+
+wd:Q3053394 a wd:Q1914636 ;
+    rdfs:label "Q3053394"^^xsd:string .
+
+wd:Q306093 a wd:Q1914636 ;
+    rdfs:label "dismantling"@en .
+
+wd:Q307329 a wd:Q1914636 ;
+    rdfs:label "Shanghaiing"@en .
+
+wd:Q308453 a wd:Q1914636 ;
+    rdfs:label "Abdrehen"@en .
+
+wd:Q3104964 a wd:Q1914636 ;
+    rdfs:label "ghost-riding"@en .
+
+wd:Q3118976 a wd:Q20937557 ;
+    rdfs:label "War on Poverty"@en .
+
+wd:Q3124855 a wd:Q20937557 ;
+    rdfs:label "HHX"@en .
+
+wd:Q3128486 a wd:Q1914636 ;
+    rdfs:label "French high civil service"@en .
+
+wd:Q3146852 a wd:Q82604 ;
+    rdfs:label "Q3146852"^^xsd:string .
+
+wd:Q31890014 a wd:Q1914636 ;
+    rdfs:label "Clothing care"@en .
+
+wd:Q320037 a wd:Q1914636 ;
+    rdfs:label "Abflammen"@en .
+
+wd:Q320446 a wd:Q1914636 ;
+    rdfs:label "Abgratung"@en .
+
+wd:Q321476 a wd:Q1914636 ;
+    rdfs:label "Wire stripping"@en .
+
+wd:Q3215756 a wd:Q1914636 ;
+    rdfs:label "typing"@en .
+
+wd:Q322118 a wd:Q1914636 ;
+    rdfs:label "Ablastung"@en .
+
+wd:Q322377 a wd:Q1914636 ;
+    rdfs:label "meter reading"@en .
+
+wd:Q3227726 a wd:Q20937557 ;
+    rdfs:label "Le Tour du monde"@en .
+
+wd:Q3239411 a wd:Q15729598 ;
+    rdfs:label "Notchback"@en .
+
+wd:Q3241434 a wd:Q1914636 ;
+    rdfs:label "hydrocarbon exploration"@en .
+
+wd:Q3241671 a wd:Q1914636 ;
+    rdfs:label "plumbing"@en .
+
+wd:Q328554 a wd:Q4026292 ;
+    rdfs:label "accounts receivable"@en .
+
+wd:Q329637 a wd:Q1914636 ;
+    rdfs:label "constructing"@en .
+
+wd:Q331796 a wd:Q1914636 ;
+    rdfs:label "Sales promotion"@en .
+
+wd:Q332097 a wd:Q1914636 ;
+    rdfs:label "Abschmecken"@en .
+
+wd:Q332163 a wd:Q1914636 ;
+    rdfs:label "Abschwenken"@en .
+
+wd:Q332171 a wd:Q1914636 ;
+    rdfs:label "Abschöpfung"@en .
+
+wd:Q332231 a wd:Q1914636 ;
+    rdfs:label "Abseiling"@en .
+
+wd:Q3327631 a wd:Q1914636 ;
+    rdfs:label "mulquinerie"@en .
+
+wd:Q3330249 a wd:Q20937557 ;
+    rdfs:label "Musée des familles"@en .
+
+wd:Q334401 a wd:Q1914636 ;
+    rdfs:label "surveillance"@en .
+
+wd:Q3346451 a wd:Q20937557 ;
+    rdfs:label "Nuo"@en .
+
+wd:Q336152 a wd:Q1914636 ;
+    rdfs:label "dishwashing"@en .
+
+wd:Q336267 a wd:Q1914636 ;
+    rdfs:label "Abwerbung"@en .
+
+wd:Q3367000 a wd:Q1914636 ;
+    rdfs:label "orchestration"@en .
+
+wd:Q336740 a wd:Q1914636 ;
+    rdfs:label "Trigger control"@en .
+
+wd:Q337907 a wd:Q1914636 ;
+    rdfs:label "woodcarving"@en .
+
+wd:Q3393318 a wd:Q1914636 ;
+    rdfs:label "Mascletà"@en .
+
+wd:Q3409055 a wd:Q1914636 ;
+    rdfs:label "physical preparedness"@en .
+
+wd:Q3429919 a wd:Q1914636 ;
+    rdfs:label "screenwriting"@en .
+
+wd:Q344202 a wd:Q1914636 ;
+    rdfs:label "Active Sourcing"@en .
+
+wd:Q3459203 a wd:Q1914636 ;
+    rdfs:label "SASPAS"@en .
+
+wd:Q3483759 a wd:Q20937557 ;
+    rdfs:label "Q3483759"^^xsd:string .
+
+wd:Q34918199 a wd:Q1914636 ;
+    rdfs:label "Q34918199"^^xsd:string .
+
+wd:Q3491920 a wd:Q1914636 ;
+    rdfs:label "Sourcing"@en .
+
+wd:Q3511275 a wd:Q20937557 ;
+    rdfs:label "Frontier Series"@en .
+
+wd:Q352842 a wd:Q1914636 ;
+    rdfs:label "teaching"@en .
+
+wd:Q3535655 a wd:Q1914636 ;
+    rdfs:label "cataloging"@en .
+
+wd:Q353578 a wd:Q1914636 ;
+    rdfs:label "chartering"@en .
+
+wd:Q3555239 a wd:Q1914636 ;
+    rdfs:label "Marketing intelligence"@en .
+
+wd:Q3567208 a wd:Q20937557 ;
+    rdfs:label "Wen"@en .
+
+wd:Q3569578 a wd:Q20937557 ;
+    rdfs:label "Q3569578"^^xsd:string .
+
+wd:Q3648625 a wd:Q20937557 ;
+    rdfs:label "CDC Cyber"@en .
+
+wd:Q36633 a wd:Q1914636 ;
+    rdfs:label "prostitution"@en .
+
+wd:Q36963 a wd:Q1914636 ;
+    rdfs:label "hunting"@en .
+
+wd:Q371022 a wd:Q787489 ;
+    rdfs:label "Hofmeister kink"@en .
+
+wd:Q373017 a wd:Q1914636 ;
+    rdfs:label "basketry"@en .
+
+wd:Q373069 a wd:Q1914636 ;
+    rdfs:label "evangelism"@en .
+
+wd:Q3754509 a wd:Q1914636 ;
+    rdfs:label "Q3754509"^^xsd:string .
+
+wd:Q3754526 a wd:Q1914636 ;
+    rdfs:label "administration"@en .
+
+wd:Q375471 a wd:Q1914636 ;
+    rdfs:label "student exchange program"@en .
+
+wd:Q3772297 a wd:Q1914636 ;
+    rdfs:label "information seeking"@en .
+
+wd:Q37974534 a wd:Q20937557 ;
+    rdfs:label "OSS Art Looting Investigation Unit Reports, 1945-46"@en .
+
+wd:Q380962 a wd:Q1914636 ;
+    rdfs:label "cooperation"@en .
+
+wd:Q381526 a wd:Q1914636 ;
+    rdfs:label "aeromagnetics"@en .
+
+wd:Q38438 a wd:Q1914636 ;
+    rdfs:label "dog walking"@en .
+
+wd:Q392752 a wd:Q1914636 ;
+    rdfs:label "agent provocateur"@en .
+
+wd:Q39471961 a wd:Q20937557 ;
+    rdfs:label "Myths"@en .
+
+wd:Q3954928 a wd:Q20937557 ;
+    rdfs:label "Selus"@en .
+
+wd:Q4003259 a wd:Q1914636 ;
+    rdfs:label "Ultracycling"@en .
+
+wd:Q4008379 a wd:Q1914636 ;
+    rdfs:label "valuation"@en .
+
+wd:Q4009255 a wd:Q1914636 ;
+    rdfs:label "Q4009255"^^xsd:string .
+
+wd:Q40308530 a wd:Q20937557 ;
+    rdfs:label "set of Roman-era dice"@en .
+
+wd:Q4044718 a wd:Q15729598 ;
+    rdfs:label "Landaulet"@en .
+
+wd:Q4062878 a wd:Q20937557 ;
+    rdfs:label "Northwest Staging Route"@en .
+
+wd:Q41357 a wd:Q20937557 ;
+    rdfs:label "Acorn Archimedes"@en .
+
+wd:Q4139206 a wd:Q1914636 ;
+    rdfs:label "Centralized computing"@en .
+
+wd:Q4156164 a wd:Q15729598 ;
+    rdfs:label "Q4156164"^^xsd:string .
+
+wd:Q4164783 a wd:Q1914636 ;
+    rdfs:label "Q4164783"^^xsd:string .
+
+wd:Q4180211 a wd:Q20937557 ;
+    rdfs:label "Q4180211"^^xsd:string .
+
+wd:Q41958819 a wd:Q20937557 ;
+    rdfs:label "Q41958819"^^xsd:string .
+
+wd:Q4233219 a wd:Q20937557 ;
+    rdfs:label "Kormchaia"@en .
+
+wd:Q43437 a wd:Q1914636 ;
+    rdfs:label "procuring"@en .
+
+wd:Q4352046 a wd:Q4026292 ;
+    rdfs:label "fold"@en .
+
+wd:Q4383239 a wd:Q20937557 ;
+    rdfs:label "Q4383239"^^xsd:string .
+
+wd:Q4403116 a wd:Q4026292 ;
+    rdfs:label "clipping"@en .
+
+wd:Q4405110 a wd:Q82604 ;
+    rdfs:label "Division II"@en .
+
+wd:Q4508598 rdfs:label "human-machine interface"@en ;
+    rdfs:subClassOf wd:Q243606 .
+
+wd:Q451987 a wd:Q1914636 ;
+    rdfs:label "military recruitment"@en .
+
+wd:Q45393 a wd:Q1914636 ;
+    rdfs:label "piracy"@en .
+
+wd:Q455550 a wd:Q1914636 ;
+    rdfs:label "camping"@en .
+
+wd:Q4624334 a wd:Q1914636 ;
+    rdfs:label "Q4624334"^^xsd:string .
+
+wd:Q4638907 a wd:Q20937557 ;
+    rdfs:label "4GV"@en .
+
+wd:Q46996694 a wd:Q20937557 ;
+    rdfs:label "poster series"@en .
+
+wd:Q47069765 a wd:Q1914636 ;
+    rdfs:label "Q47069765"^^xsd:string .
+
+wd:Q472328 a wd:Q1914636 ;
+    rdfs:label "science communication"@en .
+
+wd:Q47315624 a wd:Q1914636 ;
+    rdfs:label "artillery observation"@en .
+
+wd:Q47518092 a wd:Q1914636 ;
+    rdfs:label "Q47518092"^^xsd:string .
+
+wd:Q47519416 a wd:Q20937557 ;
+    rdfs:label "Acta Zoologica Academiae Scientiarum Hungaricae"@en .
+
+wd:Q47755560 a wd:Q1914636 ;
+    rdfs:label "Bilibili Macro Link"@en .
+
+wd:Q48242170 a wd:Q20937557 ;
+    rdfs:label "Mick Jagger series"@en .
+
+wd:Q4833674 a wd:Q20937557 ;
+    rdfs:label "B-LIVE"@en .
+
+wd:Q4835589 a wd:Q20937557 ;
+    rdfs:label "BHIE"@en .
+
+wd:Q48517 a wd:Q1914636 ;
+    rdfs:label "conservation and restoration of glass objects"@en .
+
+wd:Q4864624 a wd:Q20937557 ;
+    rdfs:label "CER Computer"@en .
+
+wd:Q48785284 a wd:Q1914636 ;
+    rdfs:label "cultural management"@en .
+
+wd:Q488598 a wd:Q1914636 ;
+    rdfs:label "forward air control"@en .
+
+wd:Q48975839 rdfs:label "firearms designer"@en ;
+    rdfs:subClassOf wd:Q243606 .
+
+wd:Q4929239 a wd:Q1914636 ;
+    rdfs:label "data collection"@en .
+
+wd:Q4930030 a wd:Q20937557 ;
+    rdfs:label "Blue Yodel"@en .
+
+wd:Q4930251 a wd:Q82604 ;
+    rdfs:label "Bluebird Mach 1.1"@en .
+
+wd:Q494563 a wd:Q82604 ;
+    rdfs:label "Q494563"^^xsd:string .
+
+wd:Q5008685 a wd:Q20937557 ;
+    rdfs:label "CAMX"@en .
+
+wd:Q5014008 a wd:Q20937557 ;
+    rdfs:label "CS-4"@en .
+
+wd:Q5028389 a wd:Q1914636 ;
+    rdfs:label "Camping in New Zealand"@en .
+
+wd:Q5061830 a wd:Q4026292 ;
+    rdfs:label "Q5061830"^^xsd:string .
+
+wd:Q50697929 a wd:Q20937557 ;
+    rdfs:label "DreamWorks Holiday Classics"@en .
+
+wd:Q50698687 a wd:Q20937557 ;
+    rdfs:label "DreamWorks Spooky Stories"@en .
+
+wd:Q50827191 a wd:Q20937557 ;
+    rdfs:label "Illustrations of medical botany"@en .
+
+wd:Q50862267 a wd:Q1914636 ;
+    rdfs:label "Flying duck race"@en .
+
+wd:Q5100450 a wd:Q82604 ;
+    rdfs:label "China Family Panel Studies"@en .
+
+wd:Q5113765 a wd:Q20937557 ;
+    rdfs:label "Chrome 500 series"@en .
+
+wd:Q51164236 a wd:Q1914636 ;
+    rdfs:label "counterfeiting"@en .
+
+wd:Q5118089 a wd:Q1914636 ;
+    rdfs:label "church planting"@en .
+
+wd:Q5153475 a wd:Q20937557 ;
+    rdfs:label "Common Sense"@en .
+
+wd:Q5160146 a wd:Q20937557 ;
+    rdfs:label "Confiscation Acts"@en .
+
+wd:Q5165041 a wd:Q4026292 ;
+    rdfs:label "Contempt of Congress"@en .
+
+wd:Q517656 a wd:Q1914636 ;
+    rdfs:label "records management"@en .
+
+wd:Q51919246 a wd:Q82604 ;
+    rdfs:label "Q51919246"^^xsd:string .
+
+wd:Q5204000 a wd:Q20937557 ;
+    rdfs:label "D1NZ"@en .
+
+wd:Q5205227 a wd:Q20937557 ;
+    rdfs:label "DJM"@en .
+
+wd:Q5209448 a wd:Q82604 ;
+    rdfs:label "Daimler V8 engines"@en .
+
+wd:Q5227670 a wd:Q1914636 ;
+    rdfs:label "Dating coach"@en .
+
+wd:Q524931 a wd:Q1914636 ;
+    rdfs:label "Coup de grâce"@en .
+
+wd:Q5254772 a wd:Q1914636 ;
+    rdfs:label "pharmaceutical marketing"@en .
+
+wd:Q5275973 a wd:Q1914636 ;
+    rdfs:label "digital researcher"@en .
+
+wd:Q5280559 a wd:Q1914636 ;
+    rdfs:label "Director of Public Prosecutions"@en .
+
+wd:Q52853744 a wd:Q20937557 ;
+    rdfs:label "series of twelve views by Giovanni Antonio Canal of the Grand Canal"@en .
+
+wd:Q5308661 a wd:Q1914636 ;
+    rdfs:label "droving"@en .
+
+wd:Q5320277 a wd:Q82604 ;
+    rdfs:label "Détecteur à Grande Acceptance pour la Physique Photonucléaire Expérimentale"@en .
+
+wd:Q5321372 a wd:Q20937557 ;
+    rdfs:label "E-61"@en .
+
+wd:Q5322890 a wd:Q20937557 ;
+    rdfs:label "EDXL"@en .
+
+wd:Q53677913 a wd:Q20937557 ;
+    rdfs:label "Q53677913"^^xsd:string .
+
+wd:Q53677930 a wd:Q20937557 ;
+    rdfs:label "Q53677930"^^xsd:string .
+
+wd:Q5371140 a wd:Q1914636 ;
+    rdfs:label "Q5371140"^^xsd:string .
+
+wd:Q537963 a wd:Q1914636 ;
+    rdfs:label "forgiveness"@en .
+
+wd:Q5381001 a wd:Q1914636 ;
+    rdfs:label "Environment, Health and Safety"@en .
+
+wd:Q5427205 a wd:Q20937557 ;
+    rdfs:label "FTOS"@en .
+
+wd:Q545981 a wd:Q1914636 ;
+    rdfs:label "image editing"@en .
+
+wd:Q5473510 a wd:Q1914636 ;
+    rdfs:label "fossil collecting"@en .
+
+wd:Q54802818 a wd:Q20937557 ;
+    rdfs:label "Q54802818"^^xsd:string .
+
+wd:Q54863010 a wd:Q1914636 ;
+    rdfs:label "Q54863010"^^xsd:string .
+
+wd:Q5501399 a wd:Q4026292 ;
+    rdfs:label "Freighthopping"@en .
+
+wd:Q5502559 a wd:Q20937557 ;
+    rdfs:label "French ship Pourquoi Pas?"@en .
+
+wd:Q5518614 a wd:Q82604 ;
+    rdfs:label "Galileo's escapement"@en .
+
+wd:Q55287035 a wd:Q82604 ;
+    rdfs:label "Q55287035"^^xsd:string .
+
+wd:Q55287187 a wd:Q82604 ;
+    rdfs:label "Design for an Angel"@en .
+
+wd:Q55293204 a wd:Q82604 ;
+    rdfs:label "Design for possibly a Saint Elizabeth"@en .
+
+wd:Q55293700 a wd:Q82604 ;
+    rdfs:label "Design for possibly a Statue of the Sacred Heart"@en .
+
+wd:Q5530840 a wd:Q20937557 ;
+    rdfs:label "Gen12"@en .
+
+wd:Q55399384 a wd:Q82604 ;
+    rdfs:label "Design for a Female Allegory"@en .
+
+wd:Q55439690 a wd:Q82604 ;
+    rdfs:label "Design for a Statue of Saint Hippolytus"@en .
+
+wd:Q55496608 a wd:Q82604 ;
+    rdfs:label "Design for a Statue of Saint Agatha"@en .
+
+wd:Q55518220 a wd:Q82604 ;
+    rdfs:label "Design for a Saint Catharine with a Speech Scroll"@en .
+
+wd:Q55590055 a wd:Q20937557 ;
+    rdfs:label "The Riverside Literature Series"@en .
+
+wd:Q55593495 a wd:Q82604 ;
+    rdfs:label "Design for a Saint John with a Speech Scroll"@en .
+
+wd:Q55670014 a wd:Q82604 ;
+    rdfs:label "Design for a Martyr, possibly Saint Leonard van Veghel"@en .
+
+wd:Q55693869 a wd:Q82604 ;
+    rdfs:label "Design for a Virgin Mary"@en .
+
+wd:Q55738638 a wd:Q82604 ;
+    rdfs:label "Design for a Female Saint and a Sacred Heart"@en .
+
+wd:Q55739791 a wd:Q20937557 ;
+    rdfs:label "The Autocrat of the Breakfast-Table"@en .
+
+wd:Q557450 a wd:Q1914636 ;
+    rdfs:label "docking and berthing of spacecraft"@en .
+
+wd:Q55789638 a wd:Q82604 ;
+    rdfs:label "Design for a Saint Dominic"@en .
+
+wd:Q55810447 a wd:Q243606 ;
+    rdfs:label "Cubo di Teo"@en .
+
+wd:Q55842038 a wd:Q1914636 ;
+    rdfs:label "Q55842038"^^xsd:string .
+
+wd:Q55928528 a wd:Q82604 ;
+    rdfs:label "Design for a Female Saint"@en .
+
+wd:Q55955676 a wd:Q82604 ;
+    rdfs:label "Design for a Saint Lawrence and a Papal Saint"@en .
+
+wd:Q5596608 a wd:Q1914636 ;
+    rdfs:label "grantwriting"@en .
+
+wd:Q55989 a wd:Q15729598 ;
+    rdfs:label "convertible"@en .
+
+wd:Q56006468 a wd:Q82604 ;
+    rdfs:label "Design for a female saint"@en .
+
+wd:Q56015383 a wd:Q20937557 ;
+    rdfs:label "Tales from Shakspere"@en .
+
+wd:Q56042129 a wd:Q82604 ;
+    rdfs:label "Design for a Virgin Mary"@en .
+
+wd:Q56051764 a wd:Q82604 ;
+    rdfs:label "Design for a Saint Peter"@en .
+
+wd:Q56147024 a wd:Q82604 ;
+    rdfs:label "Design for a Saint Catherine"@en .
+
+wd:Q56216465 a wd:Q82604 ;
+    rdfs:label "Design for a Female Saint"@en .
+
+wd:Q56242147 a wd:Q82604 ;
+    rdfs:label "Design for a Saint Donatus"@en .
+
+wd:Q56260328 a wd:Q1914636 ;
+    rdfs:label "Q56260328"^^xsd:string .
+
+wd:Q56319164 a wd:Q1914636 ;
+    rdfs:label "Q56319164"^^xsd:string .
+
+wd:Q56395344 a wd:Q82604 ;
+    rdfs:label "Design for a Priest Saint"@en .
+
+wd:Q56421798 a wd:Q82604 ;
+    rdfs:label "Design for a Priest Saint, possibly Francis Xavier"@en .
+
+wd:Q56441911 a wd:Q20937557 ;
+    rdfs:label "The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge"@en .
+
+wd:Q56451398 a wd:Q20937557 ;
+    rdfs:label "The domestic encyclopaedia: or, A dictionary of facts, and useful knowledge"@en .
+
+wd:Q56457869 a wd:Q82604 ;
+    rdfs:label "Design for a Saint"@en .
+
+wd:Q56508084 a wd:Q82604 ;
+    rdfs:label "Design for a Saint Margaret"@en .
+
+wd:Q56523952 a wd:Q82604 ;
+    rdfs:label "Design for a Saint Lawrence"@en .
+
+wd:Q56570571 a wd:Q82604 ;
+    rdfs:label "Design for a Knight"@en .
+
+wd:Q56611615 a wd:Q82604 ;
+    rdfs:label "Design for a Swordsman"@en .
+
+wd:Q56633969 a wd:Q20937557 ;
+    rdfs:label "Bulletin of the United States National Museum"@en .
+
+wd:Q56653585 a wd:Q82604 ;
+    rdfs:label "Design for a Crossbowman"@en .
+
+wd:Q56681873 a wd:Q82604 ;
+    rdfs:label "Design for a Nobleman"@en .
+
+wd:Q56695942 a wd:Q82604 ;
+    rdfs:label "Design for a Medieval Figure"@en .
+
+wd:Q5671453 a wd:Q1914636 ;
+    rdfs:label "knife sharpening"@en .
+
+wd:Q56751572 a wd:Q20937557 ;
+    rdfs:label "Q56751572"^^xsd:string .
+
+wd:Q56751575 a wd:Q20937557 ;
+    rdfs:label "Q56751575"^^xsd:string .
+
+wd:Q56751578 a wd:Q20937557 ;
+    rdfs:label "Q56751578"^^xsd:string .
+
+wd:Q56751583 a wd:Q20937557 ;
+    rdfs:label "Q56751583"^^xsd:string .
+
+wd:Q56751587 a wd:Q20937557 ;
+    rdfs:label "Q56751587"^^xsd:string .
+
+wd:Q56751592 a wd:Q20937557 ;
+    rdfs:label "Q56751592"^^xsd:string .
+
+wd:Q56759125 a wd:Q20937557 ;
+    rdfs:label "Trident Juncture"@en .
+
+wd:Q56787276 a wd:Q82604 ;
+    rdfs:label "Design for a Herald"@en .
+
+wd:Q56810784 a wd:Q82604 ;
+    rdfs:label "Design for a Man with a Dagger"@en .
+
+wd:Q568492 a wd:Q1914636 ;
+    rdfs:label "fitting (clothing)"@en .
+
+wd:Q56859410 a wd:Q82604 ;
+    rdfs:label "Design for a Man Writing and a Man Reading"@en .
+
+wd:Q56884579 a wd:Q82604 ;
+    rdfs:label "Design for a Female Writer"@en .
+
+wd:Q5701544 a wd:Q82604 ;
+    rdfs:label "Q5701544"^^xsd:string .
+
+wd:Q570365 a wd:Q20937557 ;
+    rdfs:label "Magion"@en .
+
+wd:Q57081993 a wd:Q20937557 ;
+    rdfs:label "Next Wave: New Directions in Women's Studies"@en .
+
+wd:Q57082156 a wd:Q20937557 ;
+    rdfs:label "ANIMA: Critical Race Studies Otherwise"@en .
+
+wd:Q57082475 a wd:Q20937557 ;
+    rdfs:label "Thought in the Act"@en .
+
+wd:Q57083143 a wd:Q20937557 ;
+    rdfs:label "Improvisation, Community, and Social Practice"@en .
+
+wd:Q57083716 a wd:Q20937557 ;
+    rdfs:label "Experimental Futures"@en .
+
+wd:Q57084087 a wd:Q20937557 ;
+    rdfs:label "Constitutional Conflicts"@en .
+
+wd:Q57084280 a wd:Q20937557 ;
+    rdfs:label "John Hope Franklin Center Book Series"@en .
+
+wd:Q57084413 a wd:Q20937557 ;
+    rdfs:label "American Encounters/Global Interactions"@en .
+
+wd:Q57189282 a wd:Q20937557 ;
+    rdfs:label "Perverse Modernities: A Series"@en .
+
+wd:Q57203111 a wd:Q20937557 ;
+    rdfs:label "Latin America Otherwise"@en .
+
+wd:Q5723497 a wd:Q1914636 ;
+    rdfs:label "Q5723497"^^xsd:string .
+
+wd:Q572824 a wd:Q1914636 ;
+    rdfs:label "cultural heritage management"@en .
+
+wd:Q57306177 a wd:Q20937557 ;
+    rdfs:label "Refiguring American Music"@en .
+
+wd:Q57306274 a wd:Q20937557 ;
+    rdfs:label "Console-ing Passions: Television and Cultural Power"@en .
+
+wd:Q57307117 a wd:Q20937557 ;
+    rdfs:label "Series Q"@en .
+
+wd:Q57310551 a wd:Q20937557 ;
+    rdfs:label "Post-Contemporary Interventions"@en .
+
+wd:Q57313752 a wd:Q20937557 ;
+    rdfs:label "Nevada Bureau of Mines and Geology Special Publication"@en .
+
+wd:Q5739064 a wd:Q1914636 ;
+    rdfs:label "heritage trail"@en .
+
+wd:Q57419085 a wd:Q20937557 ;
+    rdfs:label "Q57419085"^^xsd:string .
+
+wd:Q575439 a wd:Q1914636 ;
+    rdfs:label "clam digging"@en .
+
+wd:Q576481 a wd:Q20937557 ;
+    rdfs:label "Q576481"^^xsd:string .
+
+wd:Q584540 a wd:Q1914636 ;
+    rdfs:label "captain"@en .
+
+wd:Q58853262 a wd:Q20937557 ;
+    rdfs:label "PC-50X Family"@en .
+
+wd:Q58870763 a wd:Q82604 ;
+    rdfs:label "Louise Visiting Alexis in Prison"@en .
+
+wd:Q58870985 a wd:Q82604 ;
+    rdfs:label "Louise and her Father Johann Ludwig Visiting Alexis in Prison"@en .
+
+wd:Q58929 a wd:Q4026292 ;
+    rdfs:label "castration"@en .
+
+wd:Q59094149 a wd:Q82604 ;
+    rdfs:label "Design for a pulpit in Rococo style"@en .
+
+wd:Q59097053 a wd:Q82604 ;
+    rdfs:label "Design for a candlestick"@en .
+
+wd:Q59097056 a wd:Q82604 ;
+    rdfs:label "Design for a group of statues with sundial"@en .
+
+wd:Q59097062 a wd:Q82604 ;
+    rdfs:label "Design for a chalice"@en .
+
+wd:Q59097065 a wd:Q82604 ;
+    rdfs:label "Design for a statue of the Virgin"@en .
+
+wd:Q59097067 a wd:Q82604 ;
+    rdfs:label "Design for the wall of a room in neo-classical style"@en .
+
+wd:Q59097078 a wd:Q82604 ;
+    rdfs:label "Design for a confessional and a panel"@en .
+
+wd:Q59097081 a wd:Q82604 ;
+    rdfs:label "Design for ceiling with dome"@en .
+
+wd:Q59097095 a wd:Q82604 ;
+    rdfs:label "Design for small table with satyrs"@en .
+
+wd:Q59097098 a wd:Q82604 ;
+    rdfs:label "Design for the rim of a dish"@en .
+
+wd:Q59097099 a wd:Q82604 ;
+    rdfs:label "Design for a relief: seated woman with harp and two dancing children"@en .
+
+wd:Q59097102 a wd:Q82604 ;
+    rdfs:label "Design for a baldachin"@en .
+
+wd:Q59097103 a wd:Q82604 ;
+    rdfs:label "Design for a triumphal arch with a niche as the central motif and allegorical figures"@en .
+
+wd:Q59097104 a wd:Q82604 ;
+    rdfs:label "Design for a reliquary chest"@en .
+
+wd:Q59097106 a wd:Q82604 ;
+    rdfs:label "Design for a tabernacle with wings"@en .
+
+wd:Q59097111 a wd:Q82604 ;
+    rdfs:label "Design for a gravestone, circa 1705"@en .
+
+wd:Q59097112 a wd:Q82604 ;
+    rdfs:label "Design for a gravestone for Peter Verbruggen the Younger and Isabella Heck, 1692"@en .
+
+wd:Q59097115 a wd:Q82604 ;
+    rdfs:label "Design for a baldachin"@en .
+
+wd:Q59097116 a wd:Q82604 ;
+    rdfs:label "Design in perspective for the Cemetery of Our Lady (Groenkerkhof), 1691"@en .
+
+wd:Q59097121 a wd:Q82604 ;
+    rdfs:label "Alternative design for a gate to the Cemetery of Our Lady in Antwerp"@en .
+
+wd:Q59097124 a wd:Q82604 ;
+    rdfs:label "Variation on a design for a gate to the Cemetery of Our Lady"@en .
+
+wd:Q59097125 a wd:Q82604 ;
+    rdfs:label "Design for one of the wrought-iron gates of the Cemetery of Our Lady, 1692"@en .
+
+wd:Q59097127 a wd:Q82604 ;
+    rdfs:label "Design for the crucifix and the railings on the Palingbrug in Antwerp"@en .
+
+wd:Q59097139 a wd:Q82604 ;
+    rdfs:label "Design for a wall memorial stone with epitaph"@en .
+
+wd:Q59097141 a wd:Q82604 ;
+    rdfs:label "Design for a tomb"@en .
+
+wd:Q59097143 a wd:Q82604 ;
+    rdfs:label "Design for a pulpit"@en .
+
+wd:Q59097145 a wd:Q82604 ;
+    rdfs:label "Design for a tomb"@en .
+
+wd:Q59097146 a wd:Q82604 ;
+    rdfs:label "Design for a St. Augustine altar"@en .
+
+wd:Q59097148 a wd:Q82604 ;
+    rdfs:label "Design for a garden with statues of the Apostles Bartholomew and Andrew"@en .
+
+wd:Q59097150 a wd:Q82604 ;
+    rdfs:label "Design for an altar table"@en .
+
+wd:Q59097152 a wd:Q82604 ;
+    rdfs:label "Design for a baldachin"@en .
+
+wd:Q59097153 a wd:Q82604 ;
+    rdfs:label "Design for a seated cherub with burning heart"@en .
+
+wd:Q59097154 a wd:Q82604 ;
+    rdfs:label "Design for a fixed lectern"@en .
+
+wd:Q59097163 a wd:Q82604 ;
+    rdfs:label "Design for an altar table"@en .
+
+wd:Q59097166 a wd:Q82604 ;
+    rdfs:label "Design for the tomb of a knight and his consort"@en .
+
+wd:Q59097167 a wd:Q82604 ;
+    rdfs:label "Design for a monumental altar retable, depicting the Last Supper"@en .
+
+wd:Q59097169 a wd:Q82604 ;
+    rdfs:label "Design for a tomb with Mater Dolorosa"@en .
+
+wd:Q59097171 a wd:Q82604 ;
+    rdfs:label "Design for a monstrance"@en .
+
+wd:Q59097172 a wd:Q82604 ;
+    rdfs:label "Design for the high altar of the Jesuit Church in Antwerp"@en .
+
+wd:Q59097175 a wd:Q82604 ;
+    rdfs:label "Design for a tabernacle"@en .
+
+wd:Q59097176 a wd:Q82604 ;
+    rdfs:label "Design for a portico altar with side panels, probably for the former St. Walburga Church in Antwerp"@en .
+
+wd:Q59097177 a wd:Q82604 ;
+    rdfs:label "Design for an altar crown"@en .
+
+wd:Q59097180 a wd:Q82604 ;
+    rdfs:label "Design for an altar with the Adoration of the Magi"@en .
+
+wd:Q59097185 a wd:Q82604 ;
+    rdfs:label "Design for an altar of the Sweet Name of Jesus (?)"@en .
+
+wd:Q59097191 a wd:Q82604 ;
+    rdfs:label "Design for the stem of a tazza"@en .
+
+wd:Q59097193 a wd:Q82604 ;
+    rdfs:label "Design for a tazza (side view)"@en .
+
+wd:Q59097197 a wd:Q82604 ;
+    rdfs:label "Design for the golden lion of the Company of Ostend"@en .
+
+wd:Q59097205 a wd:Q82604 ;
+    rdfs:label "Design for a wall epitaph"@en .
+
+wd:Q59097210 a wd:Q82604 ;
+    rdfs:label "Design for a baldachin"@en .
+
+wd:Q59097212 a wd:Q82604 ;
+    rdfs:label "Design for a gravestone"@en .
+
+wd:Q59097213 a wd:Q82604 ;
+    rdfs:label "Design for an altar"@en .
+
+wd:Q59097214 a wd:Q82604 ;
+    rdfs:label "Design for the left-hand side of an altar"@en .
+
+wd:Q59097216 a wd:Q82604 ;
+    rdfs:label "Design for the gravestone of Jacobus Franciscus van Caverson in the former Dominican Church in Brussels"@en .
+
+wd:Q59097217 a wd:Q82604 ;
+    rdfs:label "Design for the gravestone of Albert de Coxie in the Church of the Dominicans in Brussels"@en .
+
+wd:Q59097219 a wd:Q82604 ;
+    rdfs:label "Design for a reliquary in the form of a tomb"@en .
+
+wd:Q59097222 a wd:Q82604 ;
+    rdfs:label "Design for a baldachin, also called an \"angels’ throne\""@en .
+
+wd:Q59097223 a wd:Q82604 ;
+    rdfs:label "Design for an altar"@en .
+
+wd:Q59097232 a wd:Q82604 ;
+    rdfs:label "Design for support for a statue of St. Paul"@en .
+
+wd:Q59097235 a wd:Q82604 ;
+    rdfs:label "Design for an antependium for the altar of the Sodality of the Birth of Our Lady in the Sodality Building of the Jesuits in Antwerp"@en .
+
+wd:Q59097236 a wd:Q82604 ;
+    rdfs:label "Design for a reliquary shrine with bust"@en .
+
+wd:Q59097237 a wd:Q82604 ;
+    rdfs:label "Design for a reliquary"@en .
+
+wd:Q59097241 a wd:Q82604 ;
+    rdfs:label "Design for an altar with large cross"@en .
+
+wd:Q59097242 a wd:Q82604 ;
+    rdfs:label "Design for an altar"@en .
+
+wd:Q59097244 a wd:Q82604 ;
+    rdfs:label "Design for an altar with the Ascension of the Virgin Mary"@en .
+
+wd:Q59097245 a wd:Q82604 ;
+    rdfs:label "Design for an altar"@en .
+
+wd:Q59097247 a wd:Q82604 ;
+    rdfs:label "Design for an oval platter with the river god Scaldis"@en .
+
+wd:Q59097248 a wd:Q82604 ;
+    rdfs:label "Design for a high relief with winged genius"@en .
+
+wd:Q59097249 a wd:Q82604 ;
+    rdfs:label "Designs for two intrados depicting allegorical figures"@en .
+
+wd:Q59097253 a wd:Q82604 ;
+    rdfs:label "Two tympan designs"@en .
+
+wd:Q59097256 a wd:Q82604 ;
+    rdfs:label "Design for an openwork transom of a door"@en .
+
+wd:Q59097257 a wd:Q82604 ;
+    rdfs:label "Design for a silver reliquary with cross"@en .
+
+wd:Q59097259 a wd:Q82604 ;
+    rdfs:label "Design for a console table in Louis XV style"@en .
+
+wd:Q59097262 a wd:Q82604 ;
+    rdfs:label "Design for a Rococo mirror frame"@en .
+
+wd:Q59097264 a wd:Q82604 ;
+    rdfs:label "Design for a Rococo mirror frame"@en .
+
+wd:Q59097269 a wd:Q82604 ;
+    rdfs:label "Two designs for a baldachin"@en .
+
+wd:Q59097279 a wd:Q82604 ;
+    rdfs:label "Design for a clock with cherubs"@en .
+
+wd:Q59097282 a wd:Q82604 ;
+    rdfs:label "Design for a clock with cherubs"@en .
+
+wd:Q59097283 a wd:Q82604 ;
+    rdfs:label "Design for a clock with cherubs"@en .
+
+wd:Q59097285 a wd:Q82604 ;
+    rdfs:label "Sketchy design for a clock"@en .
+
+wd:Q59097287 a wd:Q82604 ;
+    rdfs:label "Design for a clock with two cherubs"@en .
+
+wd:Q59097288 a wd:Q82604 ;
+    rdfs:label "Design for a clock with two cherubs"@en .
+
+wd:Q59097291 a wd:Q82604 ;
+    rdfs:label "Design for a clock with two cherubs"@en .
+
+wd:Q59097294 a wd:Q82604 ;
+    rdfs:label "Design for a relief with three cherubs, symbolising trade"@en .
+
+wd:Q59097295 a wd:Q82604 ;
+    rdfs:label "Design for a relief with four cherubs, symbolising shipping"@en .
+
+wd:Q59097298 a wd:Q82604 ;
+    rdfs:label "Design for a relief with six cherubs, symbolising geography (?) or the world (?)"@en .
+
+wd:Q59097299 a wd:Q82604 ;
+    rdfs:label "Design for a door and door frame"@en .
+
+wd:Q59097301 a wd:Q82604 ;
+    rdfs:label "Design for a relief with cherubs"@en .
+
+wd:Q59097302 a wd:Q82604 ;
+    rdfs:label "Design for a relief with cherubs"@en .
+
+wd:Q59097305 a wd:Q82604 ;
+    rdfs:label "Design for a relief with cherubs"@en .
+
+wd:Q59097307 a wd:Q82604 ;
+    rdfs:label "Design for a relief with cherubs round a brazier"@en .
+
+wd:Q59097314 a wd:Q82604 ;
+    rdfs:label "Design for a bas-relief with six music-making cherubs"@en .
+
+wd:Q59097317 a wd:Q82604 ;
+    rdfs:label "Three designs for the decoration of wall panels in Louis XVI style"@en .
+
+wd:Q59097318 a wd:Q82604 ;
+    rdfs:label "Design for two big candlesticks"@en .
+
+wd:Q59097319 a wd:Q82604 ;
+    rdfs:label "Design for a candlestick"@en .
+
+wd:Q59097321 a wd:Q82604 ;
+    rdfs:label "Design for a candlestick"@en .
+
+wd:Q59097323 a wd:Q82604 ;
+    rdfs:label "Design for two candlesticks"@en .
+
+wd:Q59097324 a wd:Q82604 ;
+    rdfs:label "Design for a decorative panel"@en .
+
+wd:Q59097325 a wd:Q82604 ;
+    rdfs:label "Design for a clock with lady and cherub"@en .
+
+wd:Q59097326 a wd:Q82604 ;
+    rdfs:label "Design for a mausoleum for a prince of the House of Orange"@en .
+
+wd:Q59097334 a wd:Q82604 ;
+    rdfs:label "Design for the high altar in the Cathedral of Our Lady in Antwerp"@en .
+
+wd:Q59097337 a wd:Q82604 ;
+    rdfs:label "Design for the bust of J.D. de Zuniga y Fonseca"@en .
+
+wd:Q59097346 a wd:Q82604 ;
+    rdfs:label "Design for an altar with reliquary of the Holy Cross"@en .
+
+wd:Q59097362 a wd:Q82604 ;
+    rdfs:label "Designs for an altar crown"@en .
+
+wd:Q59097364 a wd:Q82604 ;
+    rdfs:label "Design for the main altar of the Church of Our Lady of Finisterra in Brussels"@en .
+
+wd:Q59097368 a wd:Q82604 ;
+    rdfs:label "Design for an altar"@en .
+
+wd:Q59097369 a wd:Q82604 ;
+    rdfs:label "Design for an altar with the Ascension of the Virgin Mary"@en .
+
+wd:Q59097370 a wd:Q82604 ;
+    rdfs:label "Design for a baldachin"@en .
+
+wd:Q59097372 a wd:Q82604 ;
+    rdfs:label "Two designs for a candlestick"@en .
+
+wd:Q59097373 a wd:Q82604 ;
+    rdfs:label "Design for relief with a scene from the Passion of Christ: the Judas Kiss"@en .
+
+wd:Q59097374 a wd:Q82604 ;
+    rdfs:label "Design for a relief with a scene from the Passion of Christ: His arrest"@en .
+
+wd:Q59097378 a wd:Q82604 ;
+    rdfs:label "Design for a throne for a statue of the Madonna"@en .
+
+wd:Q59097380 a wd:Q82604 ;
+    rdfs:label "Design for the statue of Veritas on the pulpit in St. James’ Church in Antwerp"@en .
+
+wd:Q59097383 a wd:Q82604 ;
+    rdfs:label "Design (?) for a statue (?) of St. Catharine of Alexandria"@en .
+
+wd:Q59097384 a wd:Q82604 ;
+    rdfs:label "Design for a statue (?) of the risen Christ"@en .
+
+wd:Q59097386 a wd:Q82604 ;
+    rdfs:label "Design for the statue of a weeping angel with the lance of the Passion in St. Nicholas’ Church in Brussels"@en .
+
+wd:Q59097388 a wd:Q82604 ;
+    rdfs:label "Design for a throne of honour depicting the Duke of Monterey and a female allegorical figure"@en .
+
+wd:Q59097389 a wd:Q82604 ;
+    rdfs:label "Design for a bas-relief with St. Francis of Assisi preaching to the fish"@en .
+
+wd:Q59097393 a wd:Q82604 ;
+    rdfs:label "Design for a tabernacle"@en .
+
+wd:Q59097398 a wd:Q82604 ;
+    rdfs:label "Design for the front of a pulpit"@en .
+
+wd:Q59097399 a wd:Q82604 ;
+    rdfs:label "Design for a decorative frame"@en .
+
+wd:Q59097401 a wd:Q82604 ;
+    rdfs:label "Design for the left-hand half of a brotherhood catalogue or reliquary"@en .
+
+wd:Q59097405 a wd:Q82604 ;
+    rdfs:label "Design for a rood screen"@en .
+
+wd:Q59097407 a wd:Q82604 ;
+    rdfs:label "Design for a portal and choir entrance"@en .
+
+wd:Q59097410 a wd:Q82604 ;
+    rdfs:label "Design for the \"garden\" of a chapel"@en .
+
+wd:Q59097411 a wd:Q82604 ;
+    rdfs:label "Design for a vestibule with a view of the rood loft and organ"@en .
+
+wd:Q59097413 a wd:Q82604 ;
+    rdfs:label "Cross-sectional design for the main altar of St. Andrew’s Church in Antwerp, 1691"@en .
+
+wd:Q59097415 a wd:Q82604 ;
+    rdfs:label "Design for a statue of the Madonna"@en .
+
+wd:Q59097418 a wd:Q82604 ;
+    rdfs:label "Design for the main altar of the abbey church of Tongerlo, circa 1698"@en .
+
+wd:Q59097419 a wd:Q82604 ;
+    rdfs:label "Design for an altar of a female martyr"@en .
+
+wd:Q59097421 a wd:Q82604 ;
+    rdfs:label "Design for the left-hand part of a fireplace"@en .
+
+wd:Q59097423 a wd:Q82604 ;
+    rdfs:label "Design for an altar crown"@en .
+
+wd:Q59097424 a wd:Q82604 ;
+    rdfs:label "Preliminary sketch for a statue of St. Paul"@en .
+
+wd:Q59097426 a wd:Q82604 ;
+    rdfs:label "Preliminary sketch for a statue of St. Paul"@en .
+
+wd:Q59097428 a wd:Q82604 ;
+    rdfs:label "Design for a wall epitaph"@en .
+
+wd:Q59097429 a wd:Q82604 ;
+    rdfs:label "Sketchy design for Daedalus and Icarus, and a monogram"@en .
+
+wd:Q59097434 a wd:Q82604 ;
+    rdfs:label "Design for a portal"@en .
+
+wd:Q59097436 a wd:Q82604 ;
+    rdfs:label "Design for a tomb"@en .
+
+wd:Q59097438 a wd:Q82604 ;
+    rdfs:label "Design for a gravestone"@en .
+
+wd:Q59097439 a wd:Q82604 ;
+    rdfs:label "Design for the right-hand half of an antependium (?)"@en .
+
+wd:Q59097440 a wd:Q82604 ;
+    rdfs:label "Design for a tabernacle"@en .
+
+wd:Q59097443 a wd:Q82604 ;
+    rdfs:label "Design for the entrance to a church chapel and side altar"@en .
+
+wd:Q59097446 a wd:Q82604 ;
+    rdfs:label "Design for two large banderoles"@en .
+
+wd:Q59097447 a wd:Q82604 ;
+    rdfs:label "Design for an altar of the Holy Cross"@en .
+
+wd:Q59097450 a wd:Q82604 ;
+    rdfs:label "Design for a communion rail"@en .
+
+wd:Q59097452 a wd:Q82604 ;
+    rdfs:label "Design for a Salvator Mundi statue"@en .
+
+wd:Q59097455 a wd:Q82604 ;
+    rdfs:label "Design for a ceremonial staff with Christ the Saviour"@en .
+
+wd:Q59097459 a wd:Q82604 ;
+    rdfs:label "Design for the new altar of the chapel of the Holy Sacrament in the Cathedral of Our Lady in Antwerp"@en .
+
+wd:Q59097461 a wd:Q82604 ;
+    rdfs:label "Design for a medallion depicting St. Anne giving instruction to the Virgin Mary"@en .
+
+wd:Q59097462 a wd:Q82604 ;
+    rdfs:label "Design for the gate of a St. Eligius chapel"@en .
+
+wd:Q59097463 a wd:Q82604 ;
+    rdfs:label "Design for the left-hand half of a tomb"@en .
+
+wd:Q59097465 a wd:Q82604 ;
+    rdfs:label "Design for a confessional with panelling"@en .
+
+wd:Q59097466 a wd:Q82604 ;
+    rdfs:label "Two designs for statues of standing children"@en .
+
+wd:Q59097469 a wd:Q82604 ;
+    rdfs:label "Two designs for statues of standing children"@en .
+
+wd:Q59097471 a wd:Q82604 ;
+    rdfs:label "Design for a garden statue that also serves as a sundial"@en .
+
+wd:Q59097472 a wd:Q82604 ;
+    rdfs:label "Four designs for statues of standing children"@en .
+
+wd:Q59097475 a wd:Q82604 ;
+    rdfs:label "Design for a fountain with putti"@en .
+
+wd:Q59097478 a wd:Q82604 ;
+    rdfs:label "Design for a garden statue, comprising two seated children"@en .
+
+wd:Q59097488 a wd:Q82604 ;
+    rdfs:label "Two designs for statues of standing children"@en .
+
+wd:Q59097489 a wd:Q82604 ;
+    rdfs:label "Four designs for garden sculptures"@en .
+
+wd:Q59097490 a wd:Q82604 ;
+    rdfs:label "Design for an altar"@en .
+
+wd:Q59097492 a wd:Q82604 ;
+    rdfs:label "Preliminary sketch for a confessional with herm statues of Jesus and the Samaritan woman"@en .
+
+wd:Q59097494 a wd:Q82604 ;
+    rdfs:label "Design for a Christ for a crucifix"@en .
+
+wd:Q59097495 a wd:Q82604 ;
+    rdfs:label "Design for the left-hand half of a brotherhood catalogue or reliquary"@en .
+
+wd:Q59097502 a wd:Q82604 ;
+    rdfs:label "Design with variations for an altar"@en .
+
+wd:Q59097505 a wd:Q82604 ;
+    rdfs:label "Design for a chalice"@en .
+
+wd:Q59097507 a wd:Q82604 ;
+    rdfs:label "Design for a tabernacle"@en .
+
+wd:Q59097511 a wd:Q82604 ;
+    rdfs:label "Design for a tympanum"@en .
+
+wd:Q59097520 a wd:Q82604 ;
+    rdfs:label "Preliminary sketch: two angels"@en .
+
+wd:Q59097523 a wd:Q82604 ;
+    rdfs:label "Design for a decorative panel (mantelpiece?)"@en .
+
+wd:Q59097524 a wd:Q82604 ;
+    rdfs:label "Preliminary sketch of Bacchus with putti"@en .
+
+wd:Q59097528 a wd:Q82604 ;
+    rdfs:label "Design for a bas-relief depicting Shipping"@en .
+
+wd:Q59097530 a wd:Q82604 ;
+    rdfs:label "Design for a bas-relief depicting Trade"@en .
+
+wd:Q59097532 a wd:Q82604 ;
+    rdfs:label "Design for a bas-relief depicting Shipping"@en .
+
+wd:Q59097533 a wd:Q82604 ;
+    rdfs:label "Design for a grisaille with five putti"@en .
+
+wd:Q59097537 a wd:Q82604 ;
+    rdfs:label "Design for a grisaille of Winter"@en .
+
+wd:Q59097539 a wd:Q82604 ;
+    rdfs:label "Design for a door ornament with putti"@en .
+
+wd:Q59097540 a wd:Q82604 ;
+    rdfs:label "Design for a door ornament with putti"@en .
+
+wd:Q59097542 a wd:Q82604 ;
+    rdfs:label "Design for an allegorical depiction of Winter"@en .
+
+wd:Q59097545 a wd:Q82604 ;
+    rdfs:label "Design for a painting \"Children’s pastorale\""@en .
+
+wd:Q59097547 a wd:Q82604 ;
+    rdfs:label "Design for an allegory of Winter"@en .
+
+wd:Q59097548 a wd:Q82604 ;
+    rdfs:label "Design for an allegory of Winter"@en .
+
+wd:Q59097552 a wd:Q82604 ;
+    rdfs:label "Preliminary sketch of a door ornament (sopra porte) with Pallas Athene"@en .
+
+wd:Q59097557 a wd:Q82604 ;
+    rdfs:label "Design for garden statues"@en .
+
+wd:Q59097569 a wd:Q82604 ;
+    rdfs:label "Design for an altar with Louis XIV motifs"@en .
+
+wd:Q59097571 a wd:Q82604 ;
+    rdfs:label "Design for a Rococo altar with tabernacle"@en .
+
+wd:Q59097572 a wd:Q82604 ;
+    rdfs:label "Design for the wall of a chapel with two tombs"@en .
+
+wd:Q59097574 a wd:Q82604 ;
+    rdfs:label "Design for a door frame with round arch and fronton"@en .
+
+wd:Q59097576 a wd:Q82604 ;
+    rdfs:label "Design for a door frame with round arch"@en .
+
+wd:Q59097579 a wd:Q82604 ;
+    rdfs:label "Design for a decorated door frame"@en .
+
+wd:Q59097580 a wd:Q82604 ;
+    rdfs:label "Design for the left-hand half of a door frame"@en .
+
+wd:Q59097582 a wd:Q82604 ;
+    rdfs:label "Design for a door frame with round arch"@en .
+
+wd:Q59097587 a wd:Q82604 ;
+    rdfs:label "Design for a decorative motif"@en .
+
+wd:Q59097594 a wd:Q82604 ;
+    rdfs:label "Design for a statue of a woman with candlestick"@en .
+
+wd:Q59097595 a wd:Q82604 ;
+    rdfs:label "Four designs for garden vases"@en .
+
+wd:Q59097606 a wd:Q82604 ;
+    rdfs:label "Preliminary sketch of an altar of Our Lady"@en .
+
+wd:Q59097608 a wd:Q82604 ;
+    rdfs:label "Design for a sacristy display case in Rococo style"@en .
+
+wd:Q59097609 a wd:Q82604 ;
+    rdfs:label "Design for a sacristy display case in Rococo style"@en .
+
+wd:Q59097610 a wd:Q82604 ;
+    rdfs:label "Design for a wall tabernacle"@en .
+
+wd:Q59097612 a wd:Q82604 ;
+    rdfs:label "Design for a candlestick"@en .
+
+wd:Q59097616 a wd:Q82604 ;
+    rdfs:label "Design for the former choir pews of St Michael’s Church in Ghent"@en .
+
+wd:Q59097617 a wd:Q82604 ;
+    rdfs:label "Two designs for the statue of John the Evangelist on the calvary of St. Paul’s Church in Antwerp"@en .
+
+wd:Q59097621 a wd:Q82604 ;
+    rdfs:label "Design for the \"Engelenpoort\" (Angels’ Gate) of St. Augustine’s Church in Tienen"@en .
+
+wd:Q59097626 a wd:Q82604 ;
+    rdfs:label "Design for a carved frame of a doorway with religious motifs"@en .
+
+wd:Q59097648 a wd:Q82604 ;
+    rdfs:label "Design for two candlesticks in Louis XVI style"@en .
+
+wd:Q59097650 a wd:Q82604 ;
+    rdfs:label "Two designs for a candlestick"@en .
+
+wd:Q59097656 a wd:Q82604 ;
+    rdfs:label "Design for an antependium"@en .
+
+wd:Q59097657 a wd:Q82604 ;
+    rdfs:label "Design for an antependium"@en .
+
+wd:Q59097659 a wd:Q82604 ;
+    rdfs:label "Design for the top of a ceremonial staff"@en .
+
+wd:Q59097662 a wd:Q82604 ;
+    rdfs:label "Design for the left-hand half of a frame for a painting or a brotherhood catalogue or reliquary"@en .
+
+wd:Q59097663 a wd:Q82604 ;
+    rdfs:label "Design for a baldachin"@en .
+
+wd:Q59097665 a wd:Q82604 ;
+    rdfs:label "Design for the elevation of the wall of a room in Louis XVI style"@en .
+
+wd:Q59097666 a wd:Q82604 ;
+    rdfs:label "Design for a tabernacle"@en .
+
+wd:Q59097669 a wd:Q82604 ;
+    rdfs:label "Design for the door of a tabernacle"@en .
+
+wd:Q59097671 a wd:Q82604 ;
+    rdfs:label "Design for a Holy Cross altar"@en .
+
+wd:Q59097677 a wd:Q82604 ;
+    rdfs:label "Design for an altar (home altar?)"@en .
+
+wd:Q59097679 a wd:Q82604 ;
+    rdfs:label "Design for a wrought-iron rood fence"@en .
+
+wd:Q59097681 a wd:Q82604 ;
+    rdfs:label "Design for the wrought-ironwork of a terrace and steps"@en .
+
+wd:Q59097683 a wd:Q82604 ;
+    rdfs:label "Design for a Baroque altar"@en .
+
+wd:Q59097685 a wd:Q82604 ;
+    rdfs:label "Preliminary sketch for the high altar of St. Michael’s Church in Waarloos"@en .
+
+wd:Q59097688 a wd:Q82604 ;
+    rdfs:label "Design for an epitaph"@en .
+
+wd:Q59097690 a wd:Q82604 ;
+    rdfs:label "Design for a St. Peter altar"@en .
+
+wd:Q59097728 a wd:Q82604 ;
+    rdfs:label "Design for a torch shield with St. Francis of Assisi in ecstasy"@en .
+
+wd:Q59097730 a wd:Q82604 ;
+    rdfs:label "Design for a torch shield with St. Francis of Assisi"@en .
+
+wd:Q59097753 a wd:Q82604 ;
+    rdfs:label "Design for a sanctuary lamp"@en .
+
+wd:Q59097767 a wd:Q82604 ;
+    rdfs:label "Two designs for decorations"@en .
+
+wd:Q59097768 a wd:Q82604 ;
+    rdfs:label "Design for a niche with drapery"@en .
+
+wd:Q59097789 a wd:Q82604 ;
+    rdfs:label "Design for an altar of Our Lady"@en .
+
+wd:Q59097793 a wd:Q82604 ;
+    rdfs:label "Design for a baldachin"@en .
+
+wd:Q59097805 a wd:Q82604 ;
+    rdfs:label "Design for a door ornament"@en .
+
+wd:Q59097808 a wd:Q82604 ;
+    rdfs:label "Design for a decorative panel with medallion"@en .
+
+wd:Q59097815 a wd:Q82604 ;
+    rdfs:label "Preliminary sketch: three urns"@en .
+
+wd:Q59097817 a wd:Q82604 ;
+    rdfs:label "Design for a painted panel with putti"@en .
+
+wd:Q59097820 a wd:Q82604 ;
+    rdfs:label "Design for a pulpit"@en .
+
+wd:Q59097825 a wd:Q82604 ;
+    rdfs:label "Design for an altar with bishop"@en .
+
+wd:Q59097826 a wd:Q82604 ;
+    rdfs:label "Preliminary sketch for a jug and a dish"@en .
+
+wd:Q59097828 a wd:Q82604 ;
+    rdfs:label "Design for a pyx (?)"@en .
+
+wd:Q59097829 a wd:Q82604 ;
+    rdfs:label "Design for a pyx (?)"@en .
+
+wd:Q59097832 a wd:Q82604 ;
+    rdfs:label "Two designs for a pyx (?)"@en .
+
+wd:Q59097836 a wd:Q82604 ;
+    rdfs:label "Design for a lectern"@en .
+
+wd:Q59097840 a wd:Q82604 ;
+    rdfs:label "Design for an altar lectern"@en .
+
+wd:Q59097841 a wd:Q82604 ;
+    rdfs:label "Design for an incense boat"@en .
+
+wd:Q59097843 a wd:Q82604 ;
+    rdfs:label "Design for a group of statues of Christ and the centurion"@en .
+
+wd:Q59097845 a wd:Q82604 ;
+    rdfs:label "Design for a group of statues of Christ and the centurion"@en .
+
+wd:Q59097847 a wd:Q82604 ;
+    rdfs:label "Design for the crown of an altar"@en .
+
+wd:Q59097855 a wd:Q82604 ;
+    rdfs:label "Design for an altar"@en .
+
+wd:Q59097856 a wd:Q82604 ;
+    rdfs:label "Design for an altar of Our Lady"@en .
+
+wd:Q59097859 a wd:Q82604 ;
+    rdfs:label "Design for a St. Nicholas altar"@en .
+
+wd:Q59097863 a wd:Q82604 ;
+    rdfs:label "Design for the left-hand half of an altar"@en .
+
+wd:Q59097865 a wd:Q82604 ;
+    rdfs:label "Design for the main altar of St. Augustine’s Church in Antwerp, before 1701"@en .
+
+wd:Q59097866 a wd:Q82604 ;
+    rdfs:label "Design for the main altar of St. Augustine’s Church in Antwerp, before 1701"@en .
+
+wd:Q59097868 a wd:Q82604 ;
+    rdfs:label "Design for a St. Ignatius Loyola altar, 1697"@en .
+
+wd:Q59097870 a wd:Q82604 ;
+    rdfs:label "Design for an embossed baldachin"@en .
+
+wd:Q59097872 a wd:Q82604 ;
+    rdfs:label "Design for an altar with side niches"@en .
+
+wd:Q59097873 a wd:Q82604 ;
+    rdfs:label "Design for the crown of an altar and its side daises in the Jesuit Church in Utrecht"@en .
+
+wd:Q59097878 a wd:Q82604 ;
+    rdfs:label "Design for an altar"@en .
+
+wd:Q59097881 a wd:Q82604 ;
+    rdfs:label "Design for an altar"@en .
+
+wd:Q59097891 a wd:Q82604 ;
+    rdfs:label "Design for a rood loft and a portal"@en .
+
+wd:Q59097893 a wd:Q82604 ;
+    rdfs:label "Design for a rood loft and a portal"@en .
+
+wd:Q59097895 a wd:Q82604 ;
+    rdfs:label "Design for a choir pew in an unknown Cistercian abbey"@en .
+
+wd:Q59097896 a wd:Q82604 ;
+    rdfs:label "Design for a statue of St. Joseph with the Child"@en .
+
+wd:Q59097899 a wd:Q82604 ;
+    rdfs:label "Design for a pulpit with a Franciscan saint"@en .
+
+wd:Q59097901 a wd:Q82604 ;
+    rdfs:label "Design for an altar of St. Christopher"@en .
+
+wd:Q59097902 a wd:Q82604 ;
+    rdfs:label "Design for the lower part of an altar"@en .
+
+wd:Q59097903 a wd:Q82604 ;
+    rdfs:label "Design for the crown of an altar"@en .
+
+wd:Q59097905 a wd:Q82604 ;
+    rdfs:label "Design for an altar"@en .
+
+wd:Q59097907 a wd:Q82604 ;
+    rdfs:label "Design for an altar with large tabernacle"@en .
+
+wd:Q59097909 a wd:Q82604 ;
+    rdfs:label "Design for a rood loft and an organ"@en .
+
+wd:Q59097910 a wd:Q82604 ;
+    rdfs:label "Design for a door ornament with medallion"@en .
+
+wd:Q59097912 a wd:Q82604 ;
+    rdfs:label "Two designs for a decorative volute"@en .
+
+wd:Q59097914 a wd:Q82604 ;
+    rdfs:label "Design for a door frame"@en .
+
+wd:Q59097920 a wd:Q82604 ;
+    rdfs:label "Design for a tomb"@en .
+
+wd:Q59097921 a wd:Q82604 ;
+    rdfs:label "Design for the base of a candlestick"@en .
+
+wd:Q59097923 a wd:Q82604 ;
+    rdfs:label "Design for the ornamentation of a façade"@en .
+
+wd:Q59097925 a wd:Q82604 ;
+    rdfs:label "Design for a panel for a niche with vase"@en .
+
+wd:Q59097927 a wd:Q82604 ;
+    rdfs:label "Design for a canopy or bed of state"@en .
+
+wd:Q59097928 a wd:Q82604 ;
+    rdfs:label "Design for theatre scenery"@en .
+
+wd:Q59097929 a wd:Q82604 ;
+    rdfs:label "Design for theatre scenery"@en .
+
+wd:Q59097931 a wd:Q82604 ;
+    rdfs:label "Design for an altar"@en .
+
+wd:Q59097932 a wd:Q82604 ;
+    rdfs:label "Design for festive decorations"@en .
+
+wd:Q59097933 a wd:Q82604 ;
+    rdfs:label "Double design for the base of a candlestick"@en .
+
+wd:Q59097935 a wd:Q82604 ;
+    rdfs:label "Design for a console table in Louis XVI style"@en .
+
+wd:Q59097938 a wd:Q82604 ;
+    rdfs:label "Design for a console table in Louis XVI style"@en .
+
+wd:Q59097939 a wd:Q82604 ;
+    rdfs:label "Design for a door ornament"@en .
+
+wd:Q59097942 a wd:Q82604 ;
+    rdfs:label "Design for the crown of an altar or for a baldachin"@en .
+
+wd:Q59097943 a wd:Q82604 ;
+    rdfs:label "Two designs for a communion rail"@en .
+
+wd:Q59097945 a wd:Q82604 ;
+    rdfs:label "Design for the carved communion rail of the Venerable Chapel in the Cathedral of Our Lady in Antwerp"@en .
+
+wd:Q59097947 a wd:Q82604 ;
+    rdfs:label "Design for an altar in Louis XVI style"@en .
+
+wd:Q59097950 a wd:Q82604 ;
+    rdfs:label "Design for a decorative motif"@en .
+
+wd:Q59097953 a wd:Q82604 ;
+    rdfs:label "Design for a chair in Louis XVI style"@en .
+
+wd:Q59097959 a wd:Q82604 ;
+    rdfs:label "Design for the crown of a gate (?)"@en .
+
+wd:Q59097962 a wd:Q82604 ;
+    rdfs:label "Design for a title page (?)"@en .
+
+wd:Q59097963 a wd:Q82604 ;
+    rdfs:label "Design for the left-hand half of an altar of Our Lady"@en .
+
+wd:Q59097965 a wd:Q82604 ;
+    rdfs:label "Design for an epitaph"@en .
+
+wd:Q59097966 a wd:Q82604 ;
+    rdfs:label "Design for a carved frame"@en .
+
+wd:Q59097968 a wd:Q82604 ;
+    rdfs:label "Design for a reliquary (?)"@en .
+
+wd:Q59097969 a wd:Q82604 ;
+    rdfs:label "Design for a frieze"@en .
+
+wd:Q59097974 a wd:Q82604 ;
+    rdfs:label "Design for a confessional and panelling in Rococo style"@en .
+
+wd:Q59097976 a wd:Q82604 ;
+    rdfs:label "Design for a portal"@en .
+
+wd:Q59097981 a wd:Q82604 ;
+    rdfs:label "Architectural design"@en .
+
+wd:Q59097984 a wd:Q82604 ;
+    rdfs:label "Design for three balusters in Louis XVI style"@en .
+
+wd:Q59097986 a wd:Q82604 ;
+    rdfs:label "Design for baluster in Louis XVI style"@en .
+
+wd:Q59098001 a wd:Q82604 ;
+    rdfs:label "Design for a monumental portal"@en .
+
+wd:Q59098006 a wd:Q82604 ;
+    rdfs:label "Design for a fireplace with mirror in Empire style"@en .
+
+wd:Q59098009 a wd:Q82604 ;
+    rdfs:label "Design for the wall of an interior"@en .
+
+wd:Q59098015 a wd:Q82604 ;
+    rdfs:label "Designs for the decoration of a door frame (?)"@en .
+
+wd:Q59098016 a wd:Q82604 ;
+    rdfs:label "Design for a fireplace with Rococo ornamentation"@en .
+
+wd:Q59098020 a wd:Q82604 ;
+    rdfs:label "Design for a portal"@en .
+
+wd:Q59098039 a wd:Q82604 ;
+    rdfs:label "Design for the decoration of a gallery"@en .
+
+wd:Q59098042 a wd:Q82604 ;
+    rdfs:label "Design for a decorative detail of a ceiling"@en .
+
+wd:Q59098043 a wd:Q82604 ;
+    rdfs:label "Design for a decorative detail of a ceiling"@en .
+
+wd:Q59098046 a wd:Q82604 ;
+    rdfs:label "Design for a decorative detail of a ceiling"@en .
+
+wd:Q59098048 a wd:Q82604 ;
+    rdfs:label "Design for a decorative detail of a ceiling"@en .
+
+wd:Q59098050 a wd:Q82604 ;
+    rdfs:label "Design for a decorative detail of a ceiling"@en .
+
+wd:Q59098055 a wd:Q82604 ;
+    rdfs:label "Design for a decorative detail of a ceiling"@en .
+
+wd:Q59098056 a wd:Q82604 ;
+    rdfs:label "Design for decorative details of a ceiling"@en .
+
+wd:Q59098058 a wd:Q82604 ;
+    rdfs:label "Design for a decorative detail of a ceiling"@en .
+
+wd:Q59098060 a wd:Q82604 ;
+    rdfs:label "Design for a decorative detail of a ceiling in Neo-Classical style"@en .
+
+wd:Q59098063 a wd:Q82604 ;
+    rdfs:label "Design for a decorative detail of a ceiling in Neo-Classical style"@en .
+
+wd:Q59098064 a wd:Q82604 ;
+    rdfs:label "Design for a decorative detail of a ceiling in Neo-Classical style"@en .
+
+wd:Q59098065 a wd:Q82604 ;
+    rdfs:label "Design for a decorative detail of a ceiling in Neo-Classical style"@en .
+
+wd:Q59098067 a wd:Q82604 ;
+    rdfs:label "Design for a decorative detail of a ceiling in Neo-Classical style"@en .
+
+wd:Q59098072 a wd:Q82604 ;
+    rdfs:label "Design for a decorative detail of a ceiling in Neo-Classical style"@en .
+
+wd:Q59098074 a wd:Q82604 ;
+    rdfs:label "Design for a decorative detail of a ceiling in Neo-Classical style"@en .
+
+wd:Q59098075 a wd:Q82604 ;
+    rdfs:label "Design for a statue of Venus embracing Cupid"@en .
+
+wd:Q59098107 a wd:Q82604 ;
+    rdfs:label "Design for the right-hand half of a tabernacle"@en .
+
+wd:Q59098108 a wd:Q82604 ;
+    rdfs:label "Design for the base of a candlestick"@en .
+
+wd:Q59098110 a wd:Q82604 ;
+    rdfs:label "Design for the base of a candlestick"@en .
+
+wd:Q59098111 a wd:Q82604 ;
+    rdfs:label "Design for a gravestone"@en .
+
+wd:Q59098112 a wd:Q82604 ;
+    rdfs:label "Design for a monumental tomb"@en .
+
+wd:Q59098116 a wd:Q82604 ;
+    rdfs:label "Design for a pulpit"@en .
+
+wd:Q59098117 a wd:Q82604 ;
+    rdfs:label "Design for float II for the \"Praeltrein\" procession of St. Rumbold in Mechelen"@en .
+
+wd:Q59098118 a wd:Q82604 ;
+    rdfs:label "Preliminary sketch for the side of float II for the \"Praeltrein\" procession of St. Rumbold in Mechelen, 1775"@en .
+
+wd:Q59098119 a wd:Q82604 ;
+    rdfs:label "Variation design for the back of float II for the \"Praeltrein\" procession of St. Rumbold in Mechelen"@en .
+
+wd:Q59098121 a wd:Q82604 ;
+    rdfs:label "Design for the side of float III for the \"Praeltrein\" procession of St. Rumbold in Mechelen"@en .
+
+wd:Q59098122 a wd:Q82604 ;
+    rdfs:label "Design for the back of float III for the \"Praeltrein\" procession of St. Rumbold in Mechelen"@en .
+
+wd:Q59098123 a wd:Q82604 ;
+    rdfs:label "Design for the side of float III (?) for the \"Praeltrein\" procession of St. Rumbold in Mechelen"@en .
+
+wd:Q59098127 a wd:Q82604 ;
+    rdfs:label "Design for the back of float IV for the \"Praeltrein\" procession of St. Rumbold in Mechelen"@en .
+
+wd:Q59098128 a wd:Q82604 ;
+    rdfs:label "Design for a detail of the back of float IV for the \"Praeltrein\" procession of St. Rumbold in Mechelen"@en .
+
+wd:Q59098129 a wd:Q82604 ;
+    rdfs:label "Design for the side of float IV for the \"Praeltrein\" procession of St. Rumbold in Mechelen"@en .
+
+wd:Q59098131 a wd:Q82604 ;
+    rdfs:label "Variation on the design for the back of float IV for the \"Praeltrein\" procession of St. Rumbold in Mechelen"@en .
+
+wd:Q59098132 a wd:Q82604 ;
+    rdfs:label "Design for the side of a float for the \"Praeltrein\" procession of St. Rumbold in Mechelen that was not executed"@en .
+
+wd:Q59098133 a wd:Q82604 ;
+    rdfs:label "Design for the back of a float for the \"Praeltrein\" procession of St. Rumbold in Mechelen that was not executed"@en .
+
+wd:Q59098141 a wd:Q82604 ;
+    rdfs:label "Copy of a preliminary sketch by Hendrik-Frans Verbrugghen for a pulpit in the Church of St. Peter and St. Paul in Mechelen"@en .
+
+wd:Q59098145 a wd:Q82604 ;
+    rdfs:label "Design for the bay of a house with monumental entrance"@en .
+
+wd:Q59098147 a wd:Q82604 ;
+    rdfs:label "Design for an altar of the St. Lucas Guild in the Cathedral of Our Lady in Antwerp, 1689"@en .
+
+wd:Q59098149 a wd:Q82604 ;
+    rdfs:label "Design for the rim of a decorative plate depicting a children’s bacchanal"@en .
+
+wd:Q59098152 a wd:Q82604 ;
+    rdfs:label "Design for an altar of Our Lady with Mater Dolorosa"@en .
+
+wd:Q59098153 a wd:Q82604 ;
+    rdfs:label "Design for a applique depicting the Last Supper"@en .
+
+wd:Q59098155 a wd:Q82604 ;
+    rdfs:label "Design for an antependium (?)"@en .
+
+wd:Q59098157 a wd:Q82604 ;
+    rdfs:label "Design for a decorative motif"@en .
+
+wd:Q59098159 a wd:Q82604 ;
+    rdfs:label "Design for a decorative motif"@en .
+
+wd:Q59098161 a wd:Q82604 ;
+    rdfs:label "Design for a decorative motif"@en .
+
+wd:Q59098163 a wd:Q82604 ;
+    rdfs:label "Design for a decorative motif"@en .
+
+wd:Q59098165 a wd:Q82604 ;
+    rdfs:label "Design for a standard (?)"@en .
+
+wd:Q59098166 a wd:Q82604 ;
+    rdfs:label "Design for a basin (?)"@en .
+
+wd:Q59098167 a wd:Q82604 ;
+    rdfs:label "Design for two angels with incense holder"@en .
+
+wd:Q59098169 a wd:Q82604 ;
+    rdfs:label "Design for a decorative motif"@en .
+
+wd:Q59098170 a wd:Q82604 ;
+    rdfs:label "Design for an angel"@en .
+
+wd:Q59098174 a wd:Q82604 ;
+    rdfs:label "Design for two floating angels"@en .
+
+wd:Q59098180 a wd:Q82604 ;
+    rdfs:label "Design for Christ crucified"@en .
+
+wd:Q59098183 a wd:Q82604 ;
+    rdfs:label "Design for a religious piece in precious metal"@en .
+
+wd:Q59098185 a wd:Q82604 ;
+    rdfs:label "Design for a candlestick"@en .
+
+wd:Q59098186 a wd:Q82604 ;
+    rdfs:label "Design for a cross on a base"@en .
+
+wd:Q59098188 a wd:Q82604 ;
+    rdfs:label "Design for a monstrance"@en .
+
+wd:Q59098190 a wd:Q82604 ;
+    rdfs:label "Design for a chalice"@en .
+
+wd:Q59098191 a wd:Q82604 ;
+    rdfs:label "Design for an incense holder"@en .
+
+wd:Q59098193 a wd:Q82604 ;
+    rdfs:label "Design for a chalice"@en .
+
+wd:Q59098195 a wd:Q82604 ;
+    rdfs:label "Design for an incense holder"@en .
+
+wd:Q59098198 a wd:Q82604 ;
+    rdfs:label "Design for a chalice"@en .
+
+wd:Q59098199 a wd:Q82604 ;
+    rdfs:label "Design for a monstrance"@en .
+
+wd:Q59098201 a wd:Q82604 ;
+    rdfs:label "Design for a pedestal"@en .
+
+wd:Q59098203 a wd:Q82604 ;
+    rdfs:label "Design for a cartouche"@en .
+
+wd:Q59098206 a wd:Q82604 ;
+    rdfs:label "Design for a sanctuary lamp"@en .
+
+wd:Q59098208 a wd:Q82604 ;
+    rdfs:label "Design for a cross"@en .
+
+wd:Q59098212 a wd:Q82604 ;
+    rdfs:label "Design for a baldachin"@en .
+
+wd:Q59098216 a wd:Q82604 ;
+    rdfs:label "Design for an altar"@en .
+
+wd:Q59098217 a wd:Q82604 ;
+    rdfs:label "Design for an altar"@en .
+
+wd:Q59098220 a wd:Q82604 ;
+    rdfs:label "Sheet of designs"@en .
+
+wd:Q59098260 a wd:Q82604 ;
+    rdfs:label "Design for a vase"@en .
+
+wd:Q59098263 a wd:Q82604 ;
+    rdfs:label "Three designs for a bowl from a service"@en .
+
+wd:Q59098265 a wd:Q82604 ;
+    rdfs:label "Design for a pot for extreme unction and for a pyx"@en .
+
+wd:Q59098267 a wd:Q82604 ;
+    rdfs:label "Design for a frame"@en .
+
+wd:Q59098270 a wd:Q82604 ;
+    rdfs:label "Design for a silverware jug with female figures"@en .
+
+wd:Q59098271 a wd:Q82604 ;
+    rdfs:label "Design for a silver jug with an animal’s head as the spout"@en .
+
+wd:Q59098273 a wd:Q82604 ;
+    rdfs:label "Design for a sauce-boat"@en .
+
+wd:Q59098275 a wd:Q82604 ;
+    rdfs:label "Design for a silver coffeepot with animal motifs"@en .
+
+wd:Q59098277 a wd:Q82604 ;
+    rdfs:label "Design for a silver teapot"@en .
+
+wd:Q59098278 a wd:Q82604 ;
+    rdfs:label "Design for a silver teapot"@en .
+
+wd:Q59098280 a wd:Q82604 ;
+    rdfs:label "Design for a silver jug"@en .
+
+wd:Q59098281 a wd:Q82604 ;
+    rdfs:label "Design for a piece of silverware"@en .
+
+wd:Q59098282 a wd:Q82604 ;
+    rdfs:label "Design for a silver sauce-boat"@en .
+
+wd:Q59098284 a wd:Q82604 ;
+    rdfs:label "Design for a silver teapot with animal motifs"@en .
+
+wd:Q59098287 a wd:Q82604 ;
+    rdfs:label "Design for a silver jug"@en .
+
+wd:Q59098323 a wd:Q82604 ;
+    rdfs:label "Medallion design for the flat of a dish"@en .
+
+wd:Q59098325 a wd:Q82604 ;
+    rdfs:label "Ornamental design"@en .
+
+wd:Q59098327 a wd:Q82604 ;
+    rdfs:label "Ornamental design"@en .
+
+wd:Q59098328 a wd:Q82604 ;
+    rdfs:label "Ornamental design"@en .
+
+wd:Q59098330 a wd:Q82604 ;
+    rdfs:label "Ornamental design"@en .
+
+wd:Q59098331 a wd:Q82604 ;
+    rdfs:label "Ornamental design"@en .
+
+wd:Q59098333 a wd:Q82604 ;
+    rdfs:label "Ornamental design"@en .
+
+wd:Q59098335 a wd:Q82604 ;
+    rdfs:label "Ornamental design with cardinal’s hat"@en .
+
+wd:Q59098337 a wd:Q82604 ;
+    rdfs:label "Ornamental design with coat of arms"@en .
+
+wd:Q59098343 a wd:Q82604 ;
+    rdfs:label "Ornamental design"@en .
+
+wd:Q59098345 a wd:Q82604 ;
+    rdfs:label "Ornamental design"@en .
+
+wd:Q59098348 a wd:Q82604 ;
+    rdfs:label "Double design for a monumental ceiling in Louis XIV style"@en .
+
+wd:Q59098352 a wd:Q82604 ;
+    rdfs:label "Design for a basin (?) and two bottles"@en .
+
+wd:Q59098375 a wd:Q82604 ;
+    rdfs:label "Design for a chalice in Louis XVI style"@en .
+
+wd:Q59098394 a wd:Q82604 ;
+    rdfs:label "Design for a tabernacle"@en .
+
+wd:Q59098395 a wd:Q82604 ;
+    rdfs:label "Design with multiple ornamental motifs"@en .
+
+wd:Q59098396 a wd:Q82604 ;
+    rdfs:label "Design for the decoration of a large salon"@en .
+
+wd:Q59098399 a wd:Q82604 ;
+    rdfs:label "Design for the decoration of a large salon"@en .
+
+wd:Q59098401 a wd:Q82604 ;
+    rdfs:label "Design for the decoration of a large salon"@en .
+
+wd:Q59098403 a wd:Q82604 ;
+    rdfs:label "Design for a candlestick"@en .
+
+wd:Q59098405 a wd:Q82604 ;
+    rdfs:label "Design for a candlestick"@en .
+
+wd:Q59098407 a wd:Q82604 ;
+    rdfs:label "Design for a candlestick"@en .
+
+wd:Q59098408 a wd:Q82604 ;
+    rdfs:label "Design for candlestick"@en .
+
+wd:Q59098410 a wd:Q82604 ;
+    rdfs:label "Design for a candlestick"@en .
+
+wd:Q59098412 a wd:Q82604 ;
+    rdfs:label "Design for a candlestick"@en .
+
+wd:Q59098414 a wd:Q82604 ;
+    rdfs:label "Design for a candlestick"@en .
+
+wd:Q59098416 a wd:Q82604 ;
+    rdfs:label "Design for a baldachin"@en .
+
+wd:Q59134362 a wd:Q82604 ;
+    rdfs:label "Design for a tomb"@en .
+
+wd:Q59134371 a wd:Q82604 ;
+    rdfs:label "Preliminary sketch for a tomb in a niche"@en .
+
+wd:Q59134379 a wd:Q82604 ;
+    rdfs:label "Preliminary sketch for a gravestone with tomb"@en .
+
+wd:Q59134380 a wd:Q82604 ;
+    rdfs:label "Design for a wall epitaph"@en .
+
+wd:Q59134383 a wd:Q82604 ;
+    rdfs:label "Preliminary sketches for two tombs"@en .
+
+wd:Q59134389 a wd:Q82604 ;
+    rdfs:label "Preliminary sketch for a tomb"@en .
+
+wd:Q59134405 a wd:Q82604 ;
+    rdfs:label "Design for a crosier"@en .
+
+wd:Q59134428 a wd:Q82604 ;
+    rdfs:label "Design for the tomb of Bishop Aubertus van den Eede, 1679"@en .
+
+wd:Q59134478 a wd:Q82604 ;
+    rdfs:label "Design for a tomb with the Resurrection of Christ"@en .
+
+wd:Q59134484 a wd:Q82604 ;
+    rdfs:label "Design for half of a portal"@en .
+
+wd:Q59134613 a wd:Q82604 ;
+    rdfs:label "Design for a rood screen with tomb"@en .
+
+wd:Q59134694 a wd:Q82604 ;
+    rdfs:label "Design for a ciborium"@en .
+
+wd:Q59134736 a wd:Q82604 ;
+    rdfs:label "Design for a ciborium"@en .
+
+wd:Q59134745 a wd:Q82604 ;
+    rdfs:label "Design for a sanctuary lamp"@en .
+
+wd:Q59134791 a wd:Q82604 ;
+    rdfs:label "Design for a sanctuary lamp"@en .
+
+wd:Q59134827 a wd:Q82604 ;
+    rdfs:label "Design for a sanctuary lamp"@en .
+
+wd:Q59134874 a wd:Q82604 ;
+    rdfs:label "Design for a tabernacle"@en .
+
+wd:Q59134901 a wd:Q82604 ;
+    rdfs:label "Design for a monstrance depicting the Transfiguration of Christ"@en .
+
+wd:Q59134907 a wd:Q82604 ;
+    rdfs:label "Design for a tabernacle"@en .
+
+wd:Q59134932 a wd:Q82604 ;
+    rdfs:label "Design for a crucifix"@en .
+
+wd:Q59134938 a wd:Q82604 ;
+    rdfs:label "Design for a sun monstrance"@en .
+
+wd:Q59134944 a wd:Q82604 ;
+    rdfs:label "Design for a candlestick"@en .
+
+wd:Q59134969 a wd:Q82604 ;
+    rdfs:label "Design for a crucifix"@en .
+
+wd:Q59134980 a wd:Q82604 ;
+    rdfs:label "Design for two medallions with a female saint"@en .
+
+wd:Q59134992 a wd:Q82604 ;
+    rdfs:label "Design for a chalice with Rococo decorative motifs"@en .
+
+wd:Q59135003 a wd:Q82604 ;
+    rdfs:label "Design for a crucifix"@en .
+
+wd:Q59135041 a wd:Q82604 ;
+    rdfs:label "Design for a crucifix"@en .
+
+wd:Q59135050 a wd:Q82604 ;
+    rdfs:label "Design for two medallions"@en .
+
+wd:Q59135071 a wd:Q82604 ;
+    rdfs:label "Design for a chalice"@en .
+
+wd:Q59135097 a wd:Q82604 ;
+    rdfs:label "Design for a crucifix"@en .
+
+wd:Q59135115 a wd:Q82604 ;
+    rdfs:label "Two designs for a reliquary"@en .
+
+wd:Q59135136 a wd:Q82604 ;
+    rdfs:label "Design for a crucifix"@en .
+
+wd:Q59135150 a wd:Q82604 ;
+    rdfs:label "Design for a reliquary with bust"@en .
+
+wd:Q59135189 a wd:Q82604 ;
+    rdfs:label "Design for Christ crucified"@en .
+
+wd:Q59135193 a wd:Q82604 ;
+    rdfs:label "Design for a cross and the base of a crucifix"@en .
+
+wd:Q59135202 a wd:Q82604 ;
+    rdfs:label "Design for a base of a statue"@en .
+
+wd:Q59135205 a wd:Q82604 ;
+    rdfs:label "Design for the base of a crucifix"@en .
+
+wd:Q59135248 a wd:Q82604 ;
+    rdfs:label "Design for a cross"@en .
+
+wd:Q59135267 a wd:Q82604 ;
+    rdfs:label "Design for a candlestick"@en .
+
+wd:Q59135291 a wd:Q82604 ;
+    rdfs:label "Design for a candlestick"@en .
+
+wd:Q59135367 a wd:Q82604 ;
+    rdfs:label "Design for a silver pepper pot in Louis XVI style"@en .
+
+wd:Q59135373 a wd:Q82604 ;
+    rdfs:label "Design for a ciborium or reliquary (?)"@en .
+
+wd:Q59135400 a wd:Q82604 ;
+    rdfs:label "Design for a candlestick"@en .
+
+wd:Q59135441 a wd:Q82604 ;
+    rdfs:label "Design for a silverware dish"@en .
+
+wd:Q59135495 a wd:Q82604 ;
+    rdfs:label "Design for a ciborium"@en .
+
+wd:Q59135537 a wd:Q82604 ;
+    rdfs:label "Design for a candlestick"@en .
+
+wd:Q59135563 a wd:Q82604 ;
+    rdfs:label "Design for a silverware dish"@en .
+
+wd:Q59135596 a wd:Q82604 ;
+    rdfs:label "Design for a crown"@en .
+
+wd:Q59135625 a wd:Q82604 ;
+    rdfs:label "Design for a candlestick"@en .
+
+wd:Q59135669 a wd:Q82604 ;
+    rdfs:label "Design for a crown"@en .
+
+wd:Q59135819 a wd:Q82604 ;
+    rdfs:label "Design for the base of a candlestick"@en .
+
+wd:Q59135915 a wd:Q82604 ;
+    rdfs:label "Design for a frieze with leaf motif"@en .
+
+wd:Q59135985 a wd:Q82604 ;
+    rdfs:label "Design for a crucifix"@en .
+
+wd:Q59136030 a wd:Q82604 ;
+    rdfs:label "Design for a crucifix"@en .
+
+wd:Q59136060 a wd:Q82604 ;
+    rdfs:label "Design for a coffeepot"@en .
+
+wd:Q59136105 a wd:Q82604 ;
+    rdfs:label "Design for a coffeepot"@en .
+
+wd:Q59136134 a wd:Q82604 ;
+    rdfs:label "Design for a ciborium"@en .
+
+wd:Q59137642 a wd:Q82604 ;
+    rdfs:label "Design for a silverware jug and dish"@en .
+
+wd:Q59154534 a wd:Q1914636 ;
+    rdfs:label "database administration"@en .
+
+wd:Q59155052 a wd:Q1914636 ;
+    rdfs:label "scanning"@en .
+
+wd:Q59208240 a wd:Q82604 ;
+    rdfs:label "After Regaining Consciousness Louise Finds Herself in Prison"@en .
+
+wd:Q59208457 a wd:Q82604 ;
+    rdfs:label "Louise and Alexis Embracing Each other on a Square"@en .
+
+wd:Q59221654 a wd:Q20937557 ;
+    rdfs:label "Q59221654"^^xsd:string .
+
+wd:Q59555084 a wd:Q1914636 ;
+    rdfs:label "fact checking"@en .
+
+wd:Q59769820 a wd:Q20937557 ;
+    rdfs:label "Schriften der Forschungsstelle \"Entartete Kunst\""@en .
+
+wd:Q5983677 a wd:Q20937557 ;
+    rdfs:label "Ibanez Talman"@en .
+
+wd:Q59986256 a wd:Q20937557 ;
+    rdfs:label "Q59986256"^^xsd:string .
+
+wd:Q60042658 a wd:Q1914636 ;
+    rdfs:label "thaumaturgy"@en .
+
+wd:Q6008656 a wd:Q20937557 ;
+    rdfs:label "Medical Botany"@en .
+
+wd:Q60147807 a wd:Q20937557 ;
+    rdfs:label "automobile racing series"@en .
+
+wd:Q601641 a wd:Q1914636 ;
+    rdfs:label "aircraft spotting"@en .
+
+wd:Q6025269 a wd:Q4026292 ;
+    rdfs:label "individual action against climate change"@en .
+
+wd:Q60330747 a wd:Q82604 ;
+    rdfs:label "Design for a Stained-Glass Window with the Crucifixion"@en .
+
+wd:Q60396389 a wd:Q1914636 ;
+    rdfs:label "backing vocal"@en .
+
+wd:Q60484856 a wd:Q20937557 ;
+    rdfs:label "Notes and Queries - Series 1"@en .
+
+wd:Q60484926 a wd:Q20937557 ;
+    rdfs:label "Notes and Queries - Series 2"@en .
+
+wd:Q60484934 a wd:Q20937557 ;
+    rdfs:label "Notes and Queries - Series 3"@en .
+
+wd:Q60484939 a wd:Q20937557 ;
+    rdfs:label "Notes and Queries - Series 4"@en .
+
+wd:Q60484946 a wd:Q20937557 ;
+    rdfs:label "Notes and Queries - Series 5"@en .
+
+wd:Q6059598 a wd:Q1914636 ;
+    rdfs:label "Zenne"@en .
+
+wd:Q60617979 a wd:Q1914636 ;
+    rdfs:label "Laienprediger (in German)"@en .
+
+wd:Q607446 rdfs:label "Skeuomorph"@en ;
+    rdfs:subClassOf wd:Q243606 .
+
+wd:Q61002259 a wd:Q20937557 ;
+    rdfs:label "New Books"@en .
+
+wd:Q6105049 a wd:Q1914636 ;
+    rdfs:label "Changing of the Royal Guards at the Royal Palace of Madrid"@en .
+
+wd:Q61391 a wd:Q1914636 ;
+    rdfs:label "cheerleading"@en .
+
+wd:Q61483608 a wd:Q20937557 ;
+    rdfs:label "Sixty Illustrations of the True Story of Ah Q"@en .
+
+wd:Q61722984 a wd:Q82604 ;
+    rdfs:label "Q61722984"^^xsd:string .
+
+wd:Q61783220 a wd:Q1914636 ;
+    rdfs:label "handball executive"@en .
+
+wd:Q618164 a wd:Q20937557 ;
+    rdfs:label "cosmic distance ladder"@en .
+
+wd:Q61892423 a wd:Q1914636 ;
+    rdfs:label "radio pioneer"@en .
+
+wd:Q62086698 a wd:Q82604 ;
+    rdfs:label "Q62086698"^^xsd:string .
+
+wd:Q62589075 a wd:Q20937557 ;
+    rdfs:label "Q62589075"^^xsd:string .
+
+wd:Q62603595 a wd:Q82604 ;
+    rdfs:label "medical device design"@en .
+
+wd:Q627335 a wd:Q1914636 ;
+    rdfs:label "workflow"@en .
+
+wd:Q629329 a wd:Q1914636 ;
+    rdfs:label "work scheduling"@en .
+
+wd:Q630075 a wd:Q20937557 ;
+    rdfs:label "EMD F-unit"@en .
+
+wd:Q630089 a wd:Q20937557 ;
+    rdfs:label "EMD E-unit"@en .
+
+wd:Q63297074 a wd:Q20937557 ;
+    rdfs:label "Q63297074"^^xsd:string .
+
+wd:Q63363432 a wd:Q82604 ;
+    rdfs:label "Design for a Saint Lebuinus"@en .
+
+wd:Q63435011 a wd:Q20937557 ;
+    rdfs:label "Q63435011"^^xsd:string .
+
+wd:Q63453753 a wd:Q1914636 ;
+    rdfs:label "Camping in Israel"@en .
+
+wd:Q635863 a wd:Q1914636 ;
+    rdfs:label "Archival appraisal"@en .
+
+wd:Q637801 a wd:Q20937557 ;
+    rdfs:label "ATSC standards"@en .
+
+wd:Q6379087 a wd:Q1914636 ;
+    rdfs:label "Kavanah"@en .
+
+wd:Q6390435 a wd:Q20937557 ;
+    rdfs:label "Atari Home Pong series"@en .
+
+wd:Q6398413 a wd:Q4026292 ;
+    rdfs:label "keysigning"@en .
+
+wd:Q6423395 a wd:Q1914636 ;
+    rdfs:label "knowledge sharing"@en .
+
+wd:Q64235611 a wd:Q82604 ;
+    rdfs:label "Design for a Saint Michael and the Dragon"@en .
+
+wd:Q64280234 a wd:Q1914636 ;
+    rdfs:label "knowledge work"@en .
+
+wd:Q643190 a wd:Q1914636 ;
+    rdfs:label "subvertising"@en .
+
+wd:Q64493021 a wd:Q1914636 ;
+    rdfs:label "Q64493021"^^xsd:string .
+
+wd:Q64849080 a wd:Q20937557 ;
+    rdfs:label "2020 Democratic Party presidential debates and forums"@en .
+
+wd:Q648877 a wd:Q1914636 ;
+    rdfs:label "post-production"@en .
+
+wd:Q6500754 a wd:Q1914636 ;
+    rdfs:label "internship"@en .
+
+wd:Q65115136 a wd:Q4026292 ;
+    rdfs:label "urtication"@en .
+
+wd:Q652122 a wd:Q1914636 ;
+    rdfs:label "sewing"@en .
+
+wd:Q65508370 a wd:Q20937557 ;
+    rdfs:label "The Mole"@en .
+
+wd:Q65718426 a wd:Q1914636 ;
+    rdfs:label "archiving"@en .
+
+wd:Q65942042 a wd:Q1914636 ;
+    rdfs:label "advanced flight training"@en .
+
+wd:Q65945161 a wd:Q1914636 ;
+    rdfs:label "Q65945161"^^xsd:string .
+
+wd:Q661045 a wd:Q1914636 ;
+    rdfs:label "ventriloquism"@en .
+
+wd:Q66124389 a wd:Q20937557 ;
+    rdfs:label "Q66124389"^^xsd:string .
+
+wd:Q663375 a wd:Q1914636 ;
+    rdfs:label "hatmaking"@en .
+
+wd:Q66437036 a wd:Q1914636 ;
+    rdfs:label "car washing"@en .
+
+wd:Q66493851 a wd:Q20937557 ;
+    rdfs:label "councils of Carthage"@en .
+
+wd:Q665451 a wd:Q82604 ;
+    rdfs:label "Swiss railway clock"@en .
+
+wd:Q66717092 a wd:Q20937557 ;
+    rdfs:label "Chinese Physics"@en .
+
+wd:Q66903982 a wd:Q82604 ;
+    rdfs:label "TDKGM 01.139 Document from Ki Hajar Dewantara collection"@en .
+
+wd:Q6715134 a wd:Q20937557 ;
+    rdfs:label "MDDS"@en .
+
+wd:Q6715192 a wd:Q20937557 ;
+    rdfs:label "MDSP"@en .
+
+wd:Q67551124 a wd:Q1914636 ;
+    rdfs:label "Extirpation of Idolatries"@en .
+
+wd:Q67580943 a wd:Q1914636 ;
+    rdfs:label "Drawing Group"@en .
+
+wd:Q676515 a wd:Q15729598 ;
+    rdfs:label "Kammback"@en .
+
+wd:Q67903975 a wd:Q1914636 ;
+    rdfs:label "agent handling"@en .
+
+wd:Q6800328 a wd:Q20937557 ;
+    rdfs:label "McClelland's Single Malt"@en .
+
+wd:Q6806625 a wd:Q1914636 ;
+    rdfs:label "medical writing"@en .
+
+wd:Q6819872 a wd:Q1914636 ;
+    rdfs:label "mermaiding"@en .
+
+wd:Q68324344 a wd:Q1914636 ;
+    rdfs:label "swordsmanship"@en .
+
+wd:Q687889 a wd:Q1914636 ;
+    rdfs:label "ripping"@en .
+
+wd:Q6918260 rdfs:label "motorcycle design"@en ;
+    rdfs:subClassOf wd:Q243606 .
+
+wd:Q69389030 a wd:Q1914636 ;
+    rdfs:label "Q69389030"^^xsd:string .
+
+wd:Q69466762 a wd:Q1914636 ;
+    rdfs:label "loading"@en .
+
+wd:Q6989196 a wd:Q1914636 ;
+    rdfs:label "conducting"@en .
+
+wd:Q69965725 a wd:Q1914636 ;
+    rdfs:label "sunbathing"@en .
+
+wd:Q70022781 a wd:Q20937557 ;
+    rdfs:label "Health"@en .
+
+wd:Q702635 a wd:Q1914636 ;
+    rdfs:label "Alternative civilian service"@en .
+
+wd:Q70635750 a wd:Q4026292 ;
+    rdfs:label "Q70635750"^^xsd:string .
+
+wd:Q7094123 a wd:Q1914636 ;
+    rdfs:label "online search"@en .
+
+wd:Q7097171 a wd:Q20937557 ;
+    rdfs:label "Operation Irma"@en .
+
+wd:Q7118054 a wd:Q20937557 ;
+    rdfs:label "PACX"@en .
+
+wd:Q7118891 a wd:Q1914636 ;
+    rdfs:label "PECE"@en .
+
+wd:Q713197 a wd:Q1914636 ;
+    rdfs:label "Q713197"^^xsd:string .
+
+wd:Q7140017 a wd:Q1914636 ;
+    rdfs:label "Parson-naturalist"@en .
+
+wd:Q7234359 a wd:Q1914636 ;
+    rdfs:label "postmarketing surveillance"@en .
+
+wd:Q725672 a wd:Q1914636 ;
+    rdfs:label "mystery shopping"@en .
+
+wd:Q72621675 a wd:Q20937557 ;
+    rdfs:label "The Scientific Roll"@en .
+
+wd:Q7309430 a wd:Q1914636 ;
+    rdfs:label "Registrar of Companies"@en .
+
+wd:Q734773 a wd:Q20937557 ;
+    rdfs:label "Operation Hardtack I"@en .
+
+wd:Q7388291 a wd:Q20937557 ;
+    rdfs:label "S3 Graphics Chrome 400"@en .
+
+wd:Q7394711 a wd:Q20937557 ;
+    rdfs:label "STD 8"@en .
+
+wd:Q742407 a wd:Q4026292 ;
+    rdfs:label "assist"@en .
+
+wd:Q74256718 a wd:Q20937557 ;
+    rdfs:label "Excel Series"@en .
+
+wd:Q7433714 a wd:Q1914636 ;
+    rdfs:label "science outreach"@en .
+
+wd:Q74841026 a wd:Q1914636 ;
+    rdfs:label "shochet"@en .
+
+wd:Q749649 a wd:Q1914636 ;
+    rdfs:label "carpool"@en .
+
+wd:Q749976 a wd:Q20937557 ;
+    rdfs:label "BBC Micro"@en .
+
+wd:Q75755497 a wd:Q1914636 ;
+    rdfs:label "parachute"@en .
+
+wd:Q75798762 a wd:Q4026292 ;
+    rdfs:label "meeting"@en .
+
+wd:Q75800566 a wd:Q1914636 ;
+    rdfs:label "encounter"@en .
+
+wd:Q75801718 a wd:Q1914636 ;
+    rdfs:label "convene"@en .
+
+wd:Q75902403 a wd:Q1914636 ;
+    rdfs:label "give birth"@en .
+
+wd:Q759725 a wd:Q1914636 ;
+    rdfs:label "Aufhauen"@en .
+
+wd:Q7598871 a wd:Q15729598 ;
+    rdfs:label "Stanhope body"@en .
+
+wd:Q7621839 a wd:Q1914636 ;
+    rdfs:label "Strategic human resource planning"@en .
+
+wd:Q7632064 a wd:Q1914636 ;
+    rdfs:label "substance abuse prevention"@en .
+
+wd:Q7670309 a wd:Q20937557 ;
+    rdfs:label "TI-35"@en .
+
+wd:Q7672119 a wd:Q20937557 ;
+    rdfs:label "TV50"@en .
+
+wd:Q7695504 a wd:Q20937557 ;
+    rdfs:label "Tektronix 405x"@en .
+
+wd:Q773521 a wd:Q1914636 ;
+    rdfs:label "user administration"@en .
+
+wd:Q777671 a wd:Q1914636 ;
+    rdfs:label "sowing"@en .
+
+wd:Q7798194 a wd:Q20937557 ;
+    rdfs:label "ThrillerVideo"@en .
+
+wd:Q78493655 a wd:Q1914636 ;
+    rdfs:label "Q78493655"^^xsd:string .
+
+wd:Q78748778 a wd:Q1914636 ;
+    rdfs:label "Heritage tour of Brisbane"@en .
+
+wd:Q788558 a wd:Q1914636 ;
+    rdfs:label "plant breeding"@en .
+
+wd:Q7907680 a wd:Q20937557 ;
+    rdfs:label "VXL"@en .
+
+wd:Q79319912 a wd:Q20937557 ;
+    rdfs:label "Monographs on artists"@en .
+
+wd:Q794803 a wd:Q1914636 ;
+    rdfs:label "innovation management"@en .
+
+wd:Q8050277 a wd:Q1914636 ;
+    rdfs:label "housework"@en .
+
+wd:Q805333 a wd:Q1914636 ;
+    rdfs:label "balloon modelling"@en .
+
+wd:Q805534 a wd:Q1914636 ;
+    rdfs:label "Balseros"@en .
+
+wd:Q8059135 a wd:Q1914636 ;
+    rdfs:label "Youth-led development"@en .
+
+wd:Q8059283 a wd:Q1914636 ;
+    rdfs:label "youth activism"@en .
+
+wd:Q807986 a wd:Q1914636 ;
+    rdfs:label "Bardanas"@en .
+
+wd:Q809579 a wd:Q1914636 ;
+    rdfs:label "beard trimming"@en .
+
+wd:Q815962 a wd:Q1914636 ;
+    rdfs:label "colonization"@en .
+
+wd:Q816425 a wd:Q1914636 ;
+    rdfs:label "surveying"@en .
+
+wd:Q816826 a wd:Q1914636 ;
+    rdfs:label "information retrieval"@en .
+
+wd:Q820362 a wd:Q1914636 ;
+    rdfs:label "Bergung (salvage )"@en .
+
+wd:Q825762 a wd:Q20937557 ;
+    rdfs:label "GeForce"@en .
+
+wd:Q828170 a wd:Q15729598 ;
+    rdfs:label "roadster"@en .
+
+wd:Q829404 a wd:Q1914636 ;
+    rdfs:label "Besagung"@en .
+
+wd:Q830036 a wd:Q1914636 ;
+    rdfs:label "shopping"@en .
+
+wd:Q830393 a wd:Q1914636 ;
+    rdfs:label "preservation"@en .
+
+wd:Q8348044 a wd:Q1914636 ;
+    rdfs:label "Glass coloring and color marking"@en .
+
+wd:Q836575 a wd:Q1914636 ;
+    rdfs:label "quality assurance"@en .
+
+wd:Q83714359 a wd:Q20937557 ;
+    rdfs:label "Q83714359"^^xsd:string .
+
+wd:Q84345226 a wd:Q1914636 ;
+    rdfs:label "Stockholm history tour"@en .
+
+wd:Q84474171 a wd:Q1914636 ;
+    rdfs:label "post card printing"@en .
+
+wd:Q84705126 a wd:Q20937557 ;
+    rdfs:label "Q84705126"^^xsd:string .
+
+wd:Q84836722 a wd:Q1914636 ;
+    rdfs:label "Q84836722"^^xsd:string .
+
+wd:Q849944 a wd:Q1914636 ;
+    rdfs:label "safari"@en .
+
+wd:Q852170 a wd:Q1914636 ;
+    rdfs:label "dredging"@en .
+
+wd:Q857780 a wd:Q1914636 ;
+    rdfs:label "technical illustration"@en .
+
+wd:Q862376 a wd:Q15729598 ;
+    rdfs:label "Shooting-brake"@en .
+
+wd:Q864361 a wd:Q1914636 ;
+    rdfs:label "Q864361"^^xsd:string .
+
+wd:Q86497957 a wd:Q1914636 ;
+    rdfs:label "Q86497957"^^xsd:string .
+
+wd:Q86647781 a wd:Q4026292 ;
+    rdfs:label "to write"@en .
+
+wd:Q86905768 a wd:Q1914636 ;
+    rdfs:label "unloading"@en .
+
+wd:Q873750 a wd:Q1914636 ;
+    rdfs:label "pickpocketing"@en .
+
+wd:Q876776 a wd:Q1914636 ;
+    rdfs:label "drinking"@en .
+
+wd:Q8880088 a wd:Q1914636 ;
+    rdfs:label "Category:Workers' sport"@en .
+
+wd:Q892972 a wd:Q1914636 ;
+    rdfs:label "book packaging"@en .
+
+wd:Q899277 a wd:Q1914636 ;
+    rdfs:label "recruitment"@en .
+
+wd:Q918306 a wd:Q1914636 ;
+    rdfs:label "thermal insulation"@en .
+
+wd:Q9251812 a wd:Q4026292 ;
+    rdfs:label "Ejruw"@en .
+
+wd:Q9332285 a wd:Q1914636 ;
+    rdfs:label "Supplier Quality Assurance"@en .
+
+wd:Q933949 a wd:Q1914636 ;
+    rdfs:label "milking"@en .
+
+wd:Q93935 a wd:Q1914636 ;
+    rdfs:label "tooth brushing"@en .
+
+wd:Q946479 a wd:Q15729598 ;
+    rdfs:label "minibus"@en .
+
+wd:Q949149 a wd:Q1914636 ;
+    rdfs:label "sanitation"@en .
+
+wd:Q9640723 a wd:Q1914636 ;
+    rdfs:label "commercial aviation"@en .
+
+wd:Q978659 a wd:Q1914636 ;
+    rdfs:label "vehicle inspection"@en .
+
+wd:Q994443 a wd:Q1914636 ;
+    rdfs:label "breast ironing"@en .
+
+wd:Q998426 a wd:Q1914636 ;
+    rdfs:label "bookselling"@en .
+
+wd:Q999646 a wd:Q1914636 ;
+    rdfs:label "driving"@en .
+
+wd:Q787489 rdfs:label "automotive design"@en ;
+    rdfs:subClassOf wd:Q243606 .
+
+wd:Q243606 rdfs:label "industrial design"@en ;
+    rdfs:subClassOf wd:Q82604 .
+
+wd:Q15729598 rdfs:label "coachwork type"@en ;
+    rdfs:subClassOf wd:Q787489 .
+
+wd:Q4026292 rdfs:label "action"@en .
+
+wd:Q20937557 rdfs:label "series"@en .
+
+wd:Q1914636 rdfs:label "activity"@en ;
+    rdfs:subClassOf wd:Q20937557,
+        wd:Q4026292 .
+
+wd:Q82604 rdfs:label "design"@en ;
+    rdfs:subClassOf wd:Q1914636 .
+

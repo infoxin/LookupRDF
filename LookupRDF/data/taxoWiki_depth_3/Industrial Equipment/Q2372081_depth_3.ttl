@@ -1,0 +1,54 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1268460 rdfs:label "Q1268460"^^xsd:string ;
+    rdfs:subClassOf wd:Q1228460 .
+
+wd:Q12717387 a wd:Q2748405 ;
+    rdfs:label "Q12717387"^^xsd:string .
+
+wd:Q204795 a wd:Q3062593 ;
+    rdfs:label "Zinkhütte Harlingerode"@en .
+
+wd:Q204798 a wd:Q3062593 ;
+    rdfs:label "Q204798"^^xsd:string .
+
+wd:Q204800 a wd:Q3062593 ;
+    rdfs:label "Q204800"^^xsd:string .
+
+wd:Q204803 a wd:Q3062593 ;
+    rdfs:label "Q204803"^^xsd:string .
+
+wd:Q204870 a wd:Q3062593 ;
+    rdfs:label "Q204870"^^xsd:string .
+
+wd:Q2604362 a wd:Q3062593 ;
+    rdfs:label "Q2604362"^^xsd:string .
+
+wd:Q3090234 rdfs:label "aluminium smelting"@en ;
+    rdfs:subClassOf wd:Q2748405 .
+
+wd:Q52240347 a wd:Q2748405 ;
+    rdfs:label "Q52240347"^^xsd:string .
+
+wd:Q883632 a wd:Q883633 ;
+    rdfs:label "Q883632"^^xsd:string .
+
+wd:Q883640 a wd:Q883633 ;
+    rdfs:label "Q883640"^^xsd:string .
+
+wd:Q1228460 rdfs:label "roasting"@en ;
+    rdfs:subClassOf wd:Q2372081 .
+
+wd:Q883633 rdfs:label "lead smelting"@en ;
+    rdfs:subClassOf wd:Q2748405 .
+
+wd:Q2748405 rdfs:label "smelting"@en ;
+    rdfs:subClassOf wd:Q2372081 .
+
+wd:Q3062593 rdfs:label "zinc smelting"@en ;
+    rdfs:subClassOf wd:Q2748405 .
+

@@ -1,0 +1,4824 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1000326 a wd:Q15836568 ;
+    rdfs:label "Signal Stability-based Adaptive Routing Protocol"@en .
+
+wd:Q1016598 a wd:Q15836568 ;
+    rdfs:label "Burlap"@en .
+
+wd:Q1018708 a wd:Q15836568 ;
+    rdfs:label "Byteflight"@en .
+
+wd:Q102145 a wd:Q317623 ;
+    rdfs:label "standard temperature and pressure"@en .
+
+wd:Q1022811 a wd:Q15836568 ;
+    rdfs:label "CANopen"@en .
+
+wd:Q1023606 a wd:Q317623 ;
+    rdfs:label "CHAdeMO"@en .
+
+wd:Q1024318 a wd:Q317623 ;
+    rdfs:label "CS-Mount"@en .
+
+wd:Q1025027 a wd:Q317623 ;
+    rdfs:label "cache on a stick"@en .
+
+wd:Q1026115 a wd:Q15836568 ;
+    rdfs:label "CalDAV"@en .
+
+wd:Q1027095 a wd:Q317623 ;
+    rdfs:label "Call Level Interface"@en .
+
+wd:Q10279045 a wd:Q317623 ;
+    rdfs:label "FISPQ"@en .
+
+wd:Q10322548 a wd:Q15836568 ;
+    rdfs:label "MQTT"@en .
+
+wd:Q10342833 a wd:Q132364 ;
+    rdfs:label "P2PSL"@en .
+
+wd:Q1044630 a wd:Q317623 ;
+    rdfs:label "THX"@en .
+
+wd:Q104534 a wd:Q317623 ;
+    rdfs:label "digital subscriber line"@en .
+
+wd:Q10476907 a wd:Q15836568 ;
+    rdfs:label "Network Voice Protocol"@en .
+
+wd:Q1047966 a wd:Q15836568 ;
+    rdfs:label "UUCP"@en .
+
+wd:Q1049960 a wd:Q15836568 ;
+    rdfs:label "Datagram Congestion Control Protocol"@en .
+
+wd:Q1050853 a wd:Q15836568 ;
+    rdfs:label "Rcp"@en .
+
+wd:Q1057062 a wd:Q317623 ;
+    rdfs:label "Wireless USB"@en .
+
+wd:Q1057712 a wd:Q15836568 ;
+    rdfs:label "FTPS"@en .
+
+wd:Q1061918 a wd:Q15836568 ;
+    rdfs:label "SOCKS"@en .
+
+wd:Q1063060 a wd:Q317623 ;
+    rdfs:label "XLink"@en .
+
+wd:Q1063852 a wd:Q317623 ;
+    rdfs:label "K-mount"@en .
+
+wd:Q1063888 a wd:Q15836568 ;
+    rdfs:label "Micro Transport Protocol"@en .
+
+wd:Q1075292 a wd:Q15836568 ;
+    rdfs:label "NetBIOS Frames protocol"@en .
+
+wd:Q1089572 a wd:Q15836568 ;
+    rdfs:label "Simple Service Discovery Protocol"@en .
+
+wd:Q10908558 a wd:Q317623 ;
+    rdfs:label "Web Map Tile Service"@en .
+
+wd:Q1093194 a wd:Q132364 ;
+    rdfs:label "Cisco Discovery Protocol"@en .
+
+wd:Q1100880 a wd:Q317623 ;
+    rdfs:label "Q1100880"^^xsd:string .
+
+wd:Q1103955 a wd:Q15836568 ;
+    rdfs:label "Open Data Protocol"@en .
+
+wd:Q110701 a wd:Q6046311 ;
+    rdfs:label "overhead line"@en .
+
+wd:Q1109250 a wd:Q132364 ;
+    rdfs:label "ReWire"@en .
+
+wd:Q11103 a wd:Q15836568 ;
+    rdfs:label "Internet Protocol version 4"@en .
+
+wd:Q1111567 a wd:Q15836568 ;
+    rdfs:label "Kermit"@en .
+
+wd:Q1116124 a wd:Q317623 ;
+    rdfs:label "Common Criteria"@en .
+
+wd:Q1116193 a wd:Q15836568 ;
+    rdfs:label "Common Open Policy Service"@en .
+
+wd:Q11163 a wd:Q15836568 ;
+    rdfs:label "User Datagram Protocol"@en .
+
+wd:Q11166 a wd:Q15836568 ;
+    rdfs:label "Dynamic Host Configuration Protocol"@en .
+
+wd:Q11170 a wd:Q15836568 ;
+    rdfs:label "DHCPv6"@en .
+
+wd:Q11197586 a wd:Q6046311 ;
+    rdfs:label "EIA-574"@en .
+
+wd:Q11200101 a wd:Q317623 ;
+    rdfs:label "ffrr"@en .
+
+wd:Q11200104 a wd:Q317623 ;
+    rdfs:label "ffss"@en .
+
+wd:Q1121020 a wd:Q317623 ;
+    rdfs:label "Compact Disc Digital Audio"@en .
+
+wd:Q11222721 a wd:Q317623 ;
+    rdfs:label "HMEOC"@en .
+
+wd:Q11224235 a wd:Q15836568 ;
+    rdfs:label "IPTalk"@en .
+
+wd:Q11225837 a wd:Q317623 ;
+    rdfs:label "JIS X 4081"@en .
+
+wd:Q11226727 a wd:Q317623 ;
+    rdfs:label "JWL"@en .
+
+wd:Q11231762 a wd:Q132364 ;
+    rdfs:label "MLINK"@en .
+
+wd:Q11232199 a wd:Q317623 ;
+    rdfs:label "MSX 2+"@en .
+
+wd:Q11232203 a wd:Q317623 ;
+    rdfs:label "MSX 2"@en .
+
+wd:Q11232214 a wd:Q317623 ;
+    rdfs:label "MSX TurboR"@en .
+
+wd:Q11235749 a wd:Q15836568 ;
+    rdfs:label "Nishioka Miyuki Msg Protocol"@en .
+
+wd:Q11238484 a wd:Q15836568 ;
+    rdfs:label "Path Computation Element Communication Protocol"@en .
+
+wd:Q11241632 a wd:Q15836568 ;
+    rdfs:label "Real Time Media Flow Protocol"@en .
+
+wd:Q11245460 a wd:Q15836568 ;
+    rdfs:label "Sakura Script Transfer Protocol"@en .
+
+wd:Q11252726 a wd:Q132364 ;
+    rdfs:label "VLBus"@en .
+
+wd:Q1126254 a wd:Q132364 ;
+    rdfs:label "Connectionless-mode Network Service"@en .
+
+wd:Q1126823 a wd:Q15836568 ;
+    rdfs:label "SSH File Transfer Protocol"@en .
+
+wd:Q1127054 a wd:Q317623 ;
+    rdfs:label "game port"@en .
+
+wd:Q1128152 a wd:Q132364 ;
+    rdfs:label "GigE vision"@en .
+
+wd:Q1128278 a wd:Q15836568 ;
+    rdfs:label "Constrained Shortest Path First"@en .
+
+wd:Q1128641 a wd:Q15836568 ;
+    rdfs:label "Content Vectoring Protocol"@en .
+
+wd:Q1128649 a wd:Q132364 ;
+    rdfs:label "H.323"@en .
+
+wd:Q1135046 a wd:Q15836568 ;
+    rdfs:label "SCP"@en .
+
+wd:Q1135192 a wd:Q132364 ;
+    rdfs:label "IEEE-488"@en .
+
+wd:Q1135301 a wd:Q6046311 ;
+    rdfs:label "Serial Attached SCSI"@en .
+
+wd:Q1135322 a wd:Q132364 ;
+    rdfs:label "Modbus ethernet"@en .
+
+wd:Q11390387 a wd:Q15836568 ;
+    rdfs:label "Zengin-Procedure"@en .
+
+wd:Q1139465 a wd:Q317623 ;
+    rdfs:label "Signalling System No. 7"@en .
+
+wd:Q1141085 a wd:Q15836568 ;
+    rdfs:label "cross-origin resource sharing"@en .
+
+wd:Q1141640 a wd:Q15836568 ;
+    rdfs:label "Fieldbus"@en .
+
+wd:Q1142434 a wd:Q317623 ;
+    rdfs:label "TIA/EIA-568"@en .
+
+wd:Q1143243 a wd:Q15836568 ;
+    rdfs:label "Precision Time Protocol"@en .
+
+wd:Q1146165 a wd:Q132364 ;
+    rdfs:label "Extensible Authentication Protocol"@en .
+
+wd:Q1146276 a wd:Q317623 ;
+    rdfs:label "Customised Applications for Mobile networks Enhanced Logic"@en .
+
+wd:Q1147660 a wd:Q317623 ;
+    rdfs:label "computer display standard"@en .
+
+wd:Q1147785 a wd:Q15836568 ;
+    rdfs:label "Microsoft Media Server"@en .
+
+wd:Q1147796 a wd:Q317623 ;
+    rdfs:label "ReplayGain"@en .
+
+wd:Q1148274 a wd:Q15836568 ;
+    rdfs:label "Session Description Protocol"@en .
+
+wd:Q1148887 a wd:Q317623 ;
+    rdfs:label "computer form factor"@en .
+
+wd:Q1149640 a wd:Q317623 ;
+    rdfs:label "Nikon F-mount"@en .
+
+wd:Q1149879 a wd:Q317623 ;
+    rdfs:label "SAE steel grades"@en .
+
+wd:Q1151146 a wd:Q15836568 ;
+    rdfs:label "Wi-Fi Direct"@en .
+
+wd:Q1151329 a wd:Q132364 ;
+    rdfs:label "D-STAR"@en .
+
+wd:Q1151676 a wd:Q317623 ;
+    rdfs:label "DAISY Digital Talking Book"@en .
+
+wd:Q1153289 a wd:Q317623 ;
+    rdfs:label "Web standards"@en .
+
+wd:Q1154459 a wd:Q132364 ;
+    rdfs:label "Media Transfer Protocol"@en .
+
+wd:Q1154559 a wd:Q317623 ;
+    rdfs:label "Digital mobile radio"@en .
+
+wd:Q1155672 a wd:Q317623 ;
+    rdfs:label "Canon EF-S lens mount"@en .
+
+wd:Q1162607 a wd:Q317623 ;
+    rdfs:label "Linux Standard Base"@en .
+
+wd:Q1164443 a wd:Q15836568 ;
+    rdfs:label "JSON-RPC"@en .
+
+wd:Q1166919 a wd:Q317623 ;
+    rdfs:label "Darwin Information Typing Architecture"@en .
+
+wd:Q11695977 a wd:Q132364 ;
+    rdfs:label "End System-to-Intermediate System"@en .
+
+wd:Q11710431 a wd:Q15836568 ;
+    rdfs:label "Inter-Domain Routing Protocol"@en .
+
+wd:Q1172209 a wd:Q317623 ;
+    rdfs:label "Data Documentation Initiative"@en .
+
+wd:Q1172256 a wd:Q15836568 ;
+    rdfs:label "Datagram Delivery Protocol"@en .
+
+wd:Q1172260 a wd:Q15836568 ;
+    rdfs:label "Datagram Transport Layer Security"@en .
+
+wd:Q11762938 a wd:Q15836568 ;
+    rdfs:label "Lspan"@en .
+
+wd:Q1176792 a wd:Q15836568 ;
+    rdfs:label "Microcom Networking Protocol"@en .
+
+wd:Q1179179 a wd:Q15836568 ;
+    rdfs:label "Daytime Protocol"@en .
+
+wd:Q11832954 a wd:Q317623 ;
+    rdfs:label "R-GSM"@en .
+
+wd:Q11856453 a wd:Q317623 ;
+    rdfs:label "ECom"@en .
+
+wd:Q11860234 a wd:Q132364 ;
+    rdfs:label "GAP"@en .
+
+wd:Q11864977 a wd:Q132364 ;
+    rdfs:label "Q11864977"^^xsd:string .
+
+wd:Q1189682 a wd:Q317623 ;
+    rdfs:label "DDR4 SDRAM"@en .
+
+wd:Q1190563 a wd:Q317623 ;
+    rdfs:label "XHTML Friends Network"@en .
+
+wd:Q1192270 a wd:Q15836568 ;
+    rdfs:label "MIL-STD-1553"@en .
+
+wd:Q1193479 a wd:Q15836568 ;
+    rdfs:label "Secure Sockets Layer"@en .
+
+wd:Q1195242 a wd:Q317623 ;
+    rdfs:label "480i"@en .
+
+wd:Q1195931 a wd:Q132364 ;
+    rdfs:label "General MIDI"@en .
+
+wd:Q11989207 a wd:Q317623 ;
+    rdfs:label "Q11989207"^^xsd:string .
+
+wd:Q12021386 a wd:Q317623 ;
+    rdfs:label "IRPR"@en .
+
+wd:Q12050648 a wd:Q317623 ;
+    rdfs:label "Q12050648"^^xsd:string .
+
+wd:Q1206782 a wd:Q15836568 ;
+    rdfs:label "Devices Profile for Web Services"@en .
+
+wd:Q1207141 a wd:Q15836568 ;
+    rdfs:label "9P"@en .
+
+wd:Q1208648 a wd:Q15836568 ;
+    rdfs:label "Diameter"@en .
+
+wd:Q1224712 a wd:Q15836568 ;
+    rdfs:label "Digital Audio Access Protocol"@en .
+
+wd:Q1224749 a wd:Q317623 ;
+    rdfs:label "Digital Enhanced Cordless Telecommunications"@en .
+
+wd:Q1225190 a wd:Q6046311 ;
+    rdfs:label "Digital Interface for Video and Audio"@en .
+
+wd:Q122638 a wd:Q317623 ;
+    rdfs:label "Anglo-American Cataloguing Rules"@en .
+
+wd:Q12306819 a wd:Q317623 ;
+    rdfs:label "DB03"@en .
+
+wd:Q12306821 a wd:Q317623 ;
+    rdfs:label "DB07"@en .
+
+wd:Q12306867 a wd:Q317623 ;
+    rdfs:label "DKABM"@en .
+
+wd:Q12313381 a wd:Q317623 ;
+    rdfs:label "GEPJ"@en .
+
+wd:Q12329795 a wd:Q317623 ;
+    rdfs:label "OPMEF"@en .
+
+wd:Q1242008 a wd:Q317623 ;
+    rdfs:label "Inmarsat-A"@en .
+
+wd:Q1244243 a wd:Q15836568 ;
+    rdfs:label "Virtual Router Redundancy Protocol"@en .
+
+wd:Q12457 a wd:Q317623 ;
+    rdfs:label "International System of Units"@en .
+
+wd:Q1266340 a wd:Q132364 ;
+    rdfs:label "YMODEM"@en .
+
+wd:Q1268005 a wd:Q15836568 ;
+    rdfs:label "Post Office Protocol"@en .
+
+wd:Q1268903 a wd:Q15836568 ;
+    rdfs:label "Dynamic Source Routing"@en .
+
+wd:Q1274191 a wd:Q317623 ;
+    rdfs:label "Interlis"@en .
+
+wd:Q1276246 a wd:Q317623 ;
+    rdfs:label "EUI-64"@en .
+
+wd:Q127879 a wd:Q132364,
+        wd:Q317623 ;
+    rdfs:label "Message Passing Interface"@en .
+
+wd:Q1280407 a wd:Q317623 ;
+    rdfs:label "Tile Map Service"@en .
+
+wd:Q1288390 a wd:Q15836568 ;
+    rdfs:label "Label Distribution Protocol"@en .
+
+wd:Q1295411 a wd:Q15836568 ;
+    rdfs:label "Unified Display Interface"@en .
+
+wd:Q129735 a wd:Q15836568 ;
+    rdfs:label "Parallel Redundancy Protocol"@en .
+
+wd:Q13140677 a wd:Q317623 ;
+    rdfs:label "ISO 31-9"@en .
+
+wd:Q13162 a wd:Q15836568 ;
+    rdfs:label "Internet Control Message Protocol"@en .
+
+wd:Q13163 a wd:Q15836568 ;
+    rdfs:label "Internet Control Message Protocol for IPv6"@en .
+
+wd:Q1324054 a wd:Q317623 ;
+    rdfs:label "Open Firmware"@en .
+
+wd:Q1326423 a wd:Q15836568 ;
+    rdfs:label "Sneakernet"@en .
+
+wd:Q1327328 a wd:Q317623 ;
+    rdfs:label "Q1327328"^^xsd:string .
+
+wd:Q1332285 a wd:Q317623 ;
+    rdfs:label "Q1332285"^^xsd:string .
+
+wd:Q133454 a wd:Q317623 ;
+    rdfs:label "high-definition television"@en .
+
+wd:Q1336339 a wd:Q317623 ;
+    rdfs:label "RadioVIS"@en .
+
+wd:Q133862 a wd:Q15836568 ;
+    rdfs:label "BitTorrent"@en .
+
+wd:Q1340066 a wd:Q317623 ;
+    rdfs:label "Encoded Archival Guide"@en .
+
+wd:Q1340109 a wd:Q15836568 ;
+    rdfs:label "Encryption Control Protocol"@en .
+
+wd:Q1342337 a wd:Q15836568 ;
+    rdfs:label "Serial Line Internet Protocol"@en .
+
+wd:Q135035 a wd:Q317623 ;
+    rdfs:label "Data Encryption Standard"@en .
+
+wd:Q1351784 a wd:Q15836568 ;
+    rdfs:label "TR-069"@en .
+
+wd:Q1352654 a wd:Q15836568 ;
+    rdfs:label "Multimedia Internet KEYing"@en .
+
+wd:Q1357469 a wd:Q6046311 ;
+    rdfs:label "Qi"@en .
+
+wd:Q135847 a wd:Q15836568 ;
+    rdfs:label "Z39.50"@en .
+
+wd:Q135961 a wd:Q132364 ;
+    rdfs:label "ZConnect"@en .
+
+wd:Q1360327 a wd:Q15836568 ;
+    rdfs:label "Sensor Media Access Control"@en .
+
+wd:Q1361042 a wd:Q317623 ;
+    rdfs:label "Link Access Procedures, D channel"@en .
+
+wd:Q136294 a wd:Q132364 ;
+    rdfs:label "ZMODEM"@en .
+
+wd:Q13635384 a wd:Q317623 ;
+    rdfs:label "Q13635384"^^xsd:string .
+
+wd:Q13637298 a wd:Q317623 ;
+    rdfs:label "ISO 31-10"@en .
+
+wd:Q1363979 a wd:Q317623 ;
+    rdfs:label "VESA BIOS Extensions"@en .
+
+wd:Q1364836 a wd:Q132364 ;
+    rdfs:label "FLEX"@en .
+
+wd:Q1366307 a wd:Q15836568 ;
+    rdfs:label "Secure Internet Live Conferencing protocol"@en .
+
+wd:Q1370273 a wd:Q317623 ;
+    rdfs:label "Intel High Definition Audio"@en .
+
+wd:Q1371214 a wd:Q15836568 ;
+    rdfs:label "Ethernet in the first mile"@en .
+
+wd:Q1384947 a wd:Q132364 ;
+    rdfs:label "Extended Window Manager Hints"@en .
+
+wd:Q1386538 a wd:Q317623 ;
+    rdfs:label "FAS 60"@en .
+
+wd:Q1386542 a wd:Q317623 ;
+    rdfs:label "FAS 97"@en .
+
+wd:Q1388733 a wd:Q132364 ;
+    rdfs:label "Financial Information eXchange"@en .
+
+wd:Q1389149 a wd:Q317623 ;
+    rdfs:label "Canon FL"@en .
+
+wd:Q1397631 a wd:Q132364 ;
+    rdfs:label "FastCGI"@en .
+
+wd:Q1407095 a wd:Q15836568 ;
+    rdfs:label "Intra-Site Automatic Tunnel Addressing Protocol"@en .
+
+wd:Q1408377 a wd:Q317623 ;
+    rdfs:label "Olympus OM system"@en .
+
+wd:Q1410364 a wd:Q132364 ;
+    rdfs:label "TOSLINK"@en .
+
+wd:Q1410762 a wd:Q15836568 ;
+    rdfs:label "Fibre Channel over Ethernet"@en .
+
+wd:Q1410764 a wd:Q15836568 ;
+    rdfs:label "Fibre Channel over IP"@en .
+
+wd:Q1412087 a wd:Q132364 ;
+    rdfs:label "POCSAG"@en .
+
+wd:Q1412392 a wd:Q132364 ;
+    rdfs:label "Line Printer Daemon protocol"@en .
+
+wd:Q1412608 a wd:Q15836568 ;
+    rdfs:label "File Service Protocol"@en .
+
+wd:Q1412618 a wd:Q132364 ;
+    rdfs:label "FTAM"@en .
+
+wd:Q14149 a wd:Q15836568 ;
+    rdfs:label "Internet Group Management Protocol"@en .
+
+wd:Q1421020 a wd:Q15836568 ;
+    rdfs:label "Rapid Spanning Tree Protocol"@en .
+
+wd:Q1424967 a wd:Q15836568 ;
+    rdfs:label "Session Announcement Protocol"@en .
+
+wd:Q1425501 a wd:Q15836568 ;
+    rdfs:label "syslog"@en .
+
+wd:Q1426576 a wd:Q15836568 ;
+    rdfs:label "Microsoft Point-to-Point Encryption"@en .
+
+wd:Q142864 a wd:Q132364 ;
+    rdfs:label "VARAN"@en .
+
+wd:Q1430389 a wd:Q132364 ;
+    rdfs:label "twinaxial cabling"@en .
+
+wd:Q1431187 a wd:Q15836568 ;
+    rdfs:label "Server-Based Certificate Validation Protocol"@en .
+
+wd:Q1432429 a wd:Q132364 ;
+    rdfs:label "Keyword Protocol 2000"@en .
+
+wd:Q1434513 a wd:Q317623 ;
+    rdfs:label "Eurocode"@en .
+
+wd:Q1439275 a wd:Q15836568 ;
+    rdfs:label "Forward-confirmed reverse DNS"@en .
+
+wd:Q1445143 a wd:Q15836568 ;
+    rdfs:label "Skinny Client Control Protocol"@en .
+
+wd:Q14517961 a wd:Q317623 ;
+    rdfs:label "Q14517961"^^xsd:string .
+
+wd:Q1459157 a wd:Q132364 ;
+    rdfs:label "RFB protocol"@en .
+
+wd:Q1463160 a wd:Q15836568 ;
+    rdfs:label "Maintenance Operations Protocol"@en .
+
+wd:Q14670 a wd:Q317623 ;
+    rdfs:label "Filesystem Hierarchy Standard"@en .
+
+wd:Q1477018 a wd:Q317623 ;
+    rdfs:label "SAE J1939"@en .
+
+wd:Q1478071 a wd:Q317623 ;
+    rdfs:label "technology readiness level"@en .
+
+wd:Q1483431 a wd:Q15836568 ;
+    rdfs:label "Media Gateway Control Protocol"@en .
+
+wd:Q1485580 a wd:Q132364 ;
+    rdfs:label "Q1485580"^^xsd:string .
+
+wd:Q1486488 a wd:Q15836568 ;
+    rdfs:label "GPRS Tunnelling Protocol"@en .
+
+wd:Q1486768 a wd:Q317623 ;
+    rdfs:label "Q1486768"^^xsd:string .
+
+wd:Q1499756 a wd:Q317623 ;
+    rdfs:label "SECCOS"@en .
+
+wd:Q1502053 a wd:Q317623 ;
+    rdfs:label "Generic access profile"@en .
+
+wd:Q1502935 a wd:Q317623 ;
+    rdfs:label "OLE for Process Control"@en .
+
+wd:Q1503045 a wd:Q15836568 ;
+    rdfs:label "Fast Local Internet Protocol"@en .
+
+wd:Q1505049 a wd:Q15836568 ;
+    rdfs:label "S/MIME"@en .
+
+wd:Q1509823 a wd:Q15836568 ;
+    rdfs:label "H.248"@en .
+
+wd:Q15103594 a wd:Q132364 ;
+    rdfs:label "Protocol 41"@en .
+
+wd:Q15171 a wd:Q15836568 ;
+    rdfs:label "Address Resolution Protocol"@en .
+
+wd:Q1519318 a wd:Q317623 ;
+    rdfs:label "Resource Description and Access"@en .
+
+wd:Q1529243 a wd:Q15836568 ;
+    rdfs:label "Secure Real-time Transport Protocol"@en .
+
+wd:Q1534956 a wd:Q15836568 ;
+    rdfs:label "Q1534956"^^xsd:string .
+
+wd:Q1538532 a wd:Q132364 ;
+    rdfs:label "Simple Common Gateway Interface"@en .
+
+wd:Q1540326 a wd:Q15836568 ;
+    rdfs:label "Simple File Transfer Protocol"@en .
+
+wd:Q1541964 a wd:Q15836568 ;
+    rdfs:label "Host Identity Protocol"@en .
+
+wd:Q1547947 a wd:Q15836568 ;
+    rdfs:label "Neighbor Discovery Protocol"@en .
+
+wd:Q1548597 a wd:Q132364 ;
+    rdfs:label "IO-Link"@en .
+
+wd:Q1557101 a wd:Q15836568 ;
+    rdfs:label "Simple Protocol for Independent Computing Environments"@en .
+
+wd:Q1564708 a wd:Q317623 ;
+    rdfs:label "Classification of objects of the administrative-territorial system of Ukraine"@en .
+
+wd:Q1568763 a wd:Q15836568 ;
+    rdfs:label "Zero configuration networking"@en .
+
+wd:Q1569935 a wd:Q132364 ;
+    rdfs:label "Unstructured Supplementary Service Data"@en .
+
+wd:Q1572356 a wd:Q317623 ;
+    rdfs:label "High-bit-rate digital subscriber line"@en .
+
+wd:Q1575907 a wd:Q15836568 ;
+    rdfs:label "Media Redundancy Protocol"@en .
+
+wd:Q1584581 a wd:Q317623 ;
+    rdfs:label "XMPP Extension Protocol"@en .
+
+wd:Q15850965 a wd:Q15836568 ;
+    rdfs:label "Time-Sensitive Networking"@en .
+
+wd:Q15851049 a wd:Q15836568 ;
+    rdfs:label "TN3270"@en .
+
+wd:Q16001547 a wd:Q15836568 ;
+    rdfs:label "Access stratum"@en .
+
+wd:Q160453 a wd:Q15836568 ;
+    rdfs:label "Simple Mail Transfer Protocol"@en .
+
+wd:Q160470 a wd:Q15836568 ;
+    rdfs:label "Telnet"@en .
+
+wd:Q16082754 a wd:Q317623 ;
+    rdfs:label "MSX 1"@en .
+
+wd:Q1616638 a wd:Q132364 ;
+    rdfs:label "HP-IL"@en .
+
+wd:Q161688 a wd:Q132364 ;
+    rdfs:label "1-Wire"@en .
+
+wd:Q16255004 a wd:Q132364 ;
+    rdfs:label "S-Bus"@en .
+
+wd:Q1630757 a wd:Q132364 ;
+    rdfs:label "Hot Standby Router Protocol"@en .
+
+wd:Q163393 a wd:Q132364 ;
+    rdfs:label "Post Office Protocol 3"@en .
+
+wd:Q1633963 a wd:Q15836568 ;
+    rdfs:label "PROFINET"@en .
+
+wd:Q1643521 a wd:Q317623 ;
+    rdfs:label "Q1643521"^^xsd:string .
+
+wd:Q1646888 a wd:Q132364 ;
+    rdfs:label "RC-5"@en .
+
+wd:Q16532784 a wd:Q15836568 ;
+    rdfs:label "Binary Floor Control Protocol"@en .
+
+wd:Q1653596 a wd:Q15836568 ;
+    rdfs:label "Internet Gateway Device Protocols"@en .
+
+wd:Q1653906 a wd:Q132364 ;
+    rdfs:label "Q1653906"^^xsd:string .
+
+wd:Q1653960 a wd:Q317623 ;
+    rdfs:label "EN 62262"@en .
+
+wd:Q1654455 a wd:Q317623 ;
+    rdfs:label "IRIS"@en .
+
+wd:Q1654544 a wd:Q317623 ;
+    rdfs:label "ISAD(G)"@en .
+
+wd:Q16578670 a wd:Q6046311 ;
+    rdfs:label "Mini-USB"@en .
+
+wd:Q166074 a wd:Q317623 ;
+    rdfs:label "Extensible HyperText Markup Language"@en .
+
+wd:Q166160 a wd:Q15836568 ;
+    rdfs:label "HyperSCSI"@en .
+
+wd:Q16624989 a wd:Q15836568 ;
+    rdfs:label "Resource-Based Location and Distribution Protocol"@en .
+
+wd:Q1663839 a wd:Q317623 ;
+    rdfs:label "Inmarsat B"@en .
+
+wd:Q1664674 a wd:Q132364 ;
+    rdfs:label "Instant Messaging and Presence Service"@en .
+
+wd:Q1665638 a wd:Q15836568 ;
+    rdfs:label "WiDi"@en .
+
+wd:Q1665666 a wd:Q6046311 ;
+    rdfs:label "Intelligent Platform Management Interface"@en .
+
+wd:Q1665777 a wd:Q15836568 ;
+    rdfs:label "Cisco Inter-Switch Link"@en .
+
+wd:Q1667982 a wd:Q15836568 ;
+    rdfs:label "Internet Printing Protocol"@en .
+
+wd:Q1667988 a wd:Q15836568 ;
+    rdfs:label "Internet Protocol Control Protocol"@en .
+
+wd:Q1667990 a wd:Q15836568 ;
+    rdfs:label "IPFC"@en .
+
+wd:Q1667995 a wd:Q15836568 ;
+    rdfs:label "Internet Security Association and Key Management Protocol"@en .
+
+wd:Q1668000 a wd:Q15836568 ;
+    rdfs:label "Internet Storage Name Service"@en .
+
+wd:Q1668041 a wd:Q15836568 ;
+    rdfs:label "Internet Datagram Protocol"@en .
+
+wd:Q16688265 a wd:Q15836568 ;
+    rdfs:label "Access Node Control Protocol"@en .
+
+wd:Q166936 a wd:Q15836568 ;
+    rdfs:label "Internet Message Access Protocol"@en .
+
+wd:Q1670801 a wd:Q15836568 ;
+    rdfs:label "SERCOS III"@en .
+
+wd:Q1678488 a wd:Q15836568 ;
+    rdfs:label "TACACS"@en .
+
+wd:Q16834750 a wd:Q132364 ;
+    rdfs:label "Association Control Service Element"@en .
+
+wd:Q16845229 a wd:Q15836568 ;
+    rdfs:label "Bounded Retransmission Protocol"@en .
+
+wd:Q16858528 a wd:Q15836568 ;
+    rdfs:label "CCSDS File Delivery Protocol"@en .
+
+wd:Q168614 a wd:Q317623 ;
+    rdfs:label "1080i"@en .
+
+wd:Q16888402 a wd:Q317623 ;
+    rdfs:label "Kodak S-mount"@en .
+
+wd:Q169033 a wd:Q317623 ;
+    rdfs:label "10BASE2"@en .
+
+wd:Q169041 a wd:Q317623 ;
+    rdfs:label "10BROAD36"@en .
+
+wd:Q169045 a wd:Q317623 ;
+    rdfs:label "10BASE5"@en .
+
+wd:Q16908503 a wd:Q15836568 ;
+    rdfs:label "Overlay transport virtualization"@en .
+
+wd:Q16909537 a wd:Q317623 ;
+    rdfs:label "Public Key Cryptography Standard 8"@en .
+
+wd:Q16920659 a wd:Q15836568 ;
+    rdfs:label "Distributed Data Protocol"@en .
+
+wd:Q16920845 a wd:Q132364 ;
+    rdfs:label "High speed serial link"@en .
+
+wd:Q169409 a wd:Q15836568 ;
+    rdfs:label "Zebra Media Access Control"@en .
+
+wd:Q16961981 a wd:Q317623 ;
+    rdfs:label "SHARP"@en .
+
+wd:Q16965420 a wd:Q15836568 ;
+    rdfs:label "Home Network Administration Protocol"@en .
+
+wd:Q16971679 a wd:Q15836568 ;
+    rdfs:label "Digital Media Access Protocol"@en .
+
+wd:Q16977289 a wd:Q317623 ;
+    rdfs:label "Standard Interchange Language"@en .
+
+wd:Q16979345 a wd:Q15836568 ;
+    rdfs:label "Neural network synchronization protocol"@en .
+
+wd:Q17019746 a wd:Q132364 ;
+    rdfs:label "BLAST"@en .
+
+wd:Q17021694 a wd:Q317623 ;
+    rdfs:label "International labor standards"@en .
+
+wd:Q17029503 a wd:Q317623 ;
+    rdfs:label "High Fidelity Pure Audio"@en .
+
+wd:Q17037566 a wd:Q15836568 ;
+    rdfs:label "Multiwavelength optical networking"@en .
+
+wd:Q170397 a wd:Q317623 ;
+    rdfs:label "Integrated Services Digital Network"@en .
+
+wd:Q17042768 a wd:Q6046311 ;
+    rdfs:label "SATA Express"@en .
+
+wd:Q170460 a wd:Q15836568 ;
+    rdfs:label "Secure Shell"@en .
+
+wd:Q17048739 a wd:Q15836568 ;
+    rdfs:label "Windows Rally"@en .
+
+wd:Q17055733 a wd:Q15836568 ;
+    rdfs:label "Ident protocol"@en .
+
+wd:Q17072316 a wd:Q317623 ;
+    rdfs:label "Topology and Orchestration Specification for Cloud Applications"@en .
+
+wd:Q17082661 a wd:Q15836568 ;
+    rdfs:label "Multiplexed Transport Layer Security"@en .
+
+wd:Q17087764 a wd:Q317623 ;
+    rdfs:label "scientific pitch"@en .
+
+wd:Q17088427 a wd:Q15836568 ;
+    rdfs:label "Distributed Overlay Virtual Ethernet"@en .
+
+wd:Q17091762 a wd:Q15836568 ;
+    rdfs:label "Next Steps in Signaling"@en .
+
+wd:Q17092256 a wd:Q15836568 ;
+    rdfs:label "Identifier/Locator Network Protocol"@en .
+
+wd:Q17092547 a wd:Q132364 ;
+    rdfs:label "International Blinking Pattern Interpretation"@en .
+
+wd:Q17092934 a wd:Q132364 ;
+    rdfs:label "JPEG 2000 Interactive Protocol"@en .
+
+wd:Q17096582 a wd:Q15836568 ;
+    rdfs:label "LEDBAT"@en .
+
+wd:Q17104026 a wd:Q15836568 ;
+    rdfs:label "Mobile Location Protocol"@en .
+
+wd:Q17105208 a wd:Q15836568 ;
+    rdfs:label "Path protection"@en .
+
+wd:Q17107778 a wd:Q132364 ;
+    rdfs:label "Open Graph Protocol"@en .
+
+wd:Q171278 a wd:Q317623 ;
+    rdfs:label "Mecca Time"@en .
+
+wd:Q17138035 a wd:Q317623 ;
+    rdfs:label "International Property Measurement Standards"@en .
+
+wd:Q17141857 a wd:Q15836568 ;
+    rdfs:label "Mail-11"@en .
+
+wd:Q17143627 a wd:Q15836568 ;
+    rdfs:label "triangular routing"@en .
+
+wd:Q17145567 a wd:Q15836568 ;
+    rdfs:label "Water Industry Telemetry Standard"@en .
+
+wd:Q17147621 a wd:Q15836568 ;
+    rdfs:label "TZSP"@en .
+
+wd:Q17148362 a wd:Q132364 ;
+    rdfs:label "MAVLink"@en .
+
+wd:Q17149405 a wd:Q15836568 ;
+    rdfs:label "Multicast DNS"@en .
+
+wd:Q17154852 a wd:Q15836568 ;
+    rdfs:label "synchronous transmit-receive"@en .
+
+wd:Q17155529 a wd:Q15836568 ;
+    rdfs:label "Open Control Architecture"@en .
+
+wd:Q17156884 a wd:Q15836568 ;
+    rdfs:label "Port Control Protocol"@en .
+
+wd:Q1718678 a wd:Q15836568 ;
+    rdfs:label "On-Demand Mail Relay"@en .
+
+wd:Q17211 a wd:Q317623 ;
+    rdfs:label "1080p"@en .
+
+wd:Q17239567 a wd:Q317623 ;
+    rdfs:label "SDXC card"@en .
+
+wd:Q173509 a wd:Q317623 ;
+    rdfs:label "gold standard"@en .
+
+wd:Q1741989 a wd:Q15836568 ;
+    rdfs:label "Kinetics Internet Protocol"@en .
+
+wd:Q1747573 a wd:Q15836568 ;
+    rdfs:label "Web Proxy Autodiscovery Protocol"@en .
+
+wd:Q17539828 a wd:Q317623 ;
+    rdfs:label "Q17539828"^^xsd:string .
+
+wd:Q1757138 a wd:Q15836568 ;
+    rdfs:label "XDMCP"@en .
+
+wd:Q1758048 a wd:Q317623 ;
+    rdfs:label "Security Assertion Markup Language"@en .
+
+wd:Q1759063 a wd:Q132364 ;
+    rdfs:label "SIMPLE"@en .
+
+wd:Q17624049 a wd:Q317623 ;
+    rdfs:label "Linked Data Platform"@en .
+
+wd:Q176831 a wd:Q317623 ;
+    rdfs:label "International Financial Reporting Standards"@en .
+
+wd:Q1772684 a wd:Q132364 ;
+    rdfs:label "Universal Chess Interface"@en .
+
+wd:Q1773100 a wd:Q15836568 ;
+    rdfs:label "Open Sound Control"@en .
+
+wd:Q1774184 a wd:Q15836568 ;
+    rdfs:label "LonWorks"@en .
+
+wd:Q177524 a wd:Q132364 ;
+    rdfs:label "ARPANET"@en .
+
+wd:Q177827 a wd:Q15836568 ;
+    rdfs:label "Internet Content Adaptation Protocol"@en .
+
+wd:Q1780096 a wd:Q317623 ;
+    rdfs:label "Schematron"@en .
+
+wd:Q1790042 a wd:Q317623 ;
+    rdfs:label "National pipe thread"@en .
+
+wd:Q180703 a wd:Q132364 ;
+    rdfs:label "Virtual Studio Technology"@en .
+
+wd:Q1809393 a wd:Q15836568 ;
+    rdfs:label "Layer 2 Forwarding Protocol"@en .
+
+wd:Q1811918 a wd:Q317623 ;
+    rdfs:label "Q1811918"^^xsd:string .
+
+wd:Q18127259 a wd:Q15836568 ;
+    rdfs:label "Link-ZA"@en .
+
+wd:Q181382 a wd:Q15836568 ;
+    rdfs:label "Fiber Distributed Data Interface"@en .
+
+wd:Q1813921 a wd:Q15836568 ;
+    rdfs:label "Network Control Protocol"@en .
+
+wd:Q181693 a wd:Q317623,
+        wd:Q6046311 ;
+    rdfs:label "IEEE 1394"@en .
+
+wd:Q18195621 a wd:Q15836568 ;
+    rdfs:label "Active Users"@en .
+
+wd:Q18204722 a wd:Q15836568 ;
+    rdfs:label "decentralized autonomous organization"@en .
+
+wd:Q1826782 a wd:Q15836568 ;
+    rdfs:label "Link-Local Multicast Name Resolution"@en .
+
+wd:Q1826817 a wd:Q15836568 ;
+    rdfs:label "Link Control Protocol"@en .
+
+wd:Q1826825 a wd:Q15836568 ;
+    rdfs:label "LAPB"@en .
+
+wd:Q18352767 a wd:Q132364 ;
+    rdfs:label "JSON Streaming"@en .
+
+wd:Q18382753 a wd:Q132364 ;
+    rdfs:label "Shadowsocks"@en .
+
+wd:Q18394272 a wd:Q132364 ;
+    rdfs:label "Thread"@en .
+
+wd:Q184230 a wd:Q15836568 ;
+    rdfs:label "Simple Network Management Protocol"@en .
+
+wd:Q184292 a wd:Q132364,
+        wd:Q6046311 ;
+    rdfs:label "HDMI"@en .
+
+wd:Q18558947 a wd:Q15836568 ;
+    rdfs:label "MTProto"@en .
+
+wd:Q1857202 a wd:Q317623 ;
+    rdfs:label "Rule Interchange Format"@en .
+
+wd:Q186224 a wd:Q317623 ;
+    rdfs:label "Wireless Application Protocol"@en .
+
+wd:Q1866238 a wd:Q15836568 ;
+    rdfs:label "HTTPMU"@en .
+
+wd:Q1867147 a wd:Q15836568 ;
+    rdfs:label "Local Area Transport"@en .
+
+wd:Q1867168 a wd:Q132364 ;
+    rdfs:label "Local Interconnect Network"@en .
+
+wd:Q1867169 a wd:Q15836568 ;
+    rdfs:label "Local Mail Transfer Protocol"@en .
+
+wd:Q1881350 a wd:Q317623 ;
+    rdfs:label "MERKIS"@en .
+
+wd:Q1881711 a wd:Q132364 ;
+    rdfs:label "MOST Bus"@en .
+
+wd:Q1881910 a wd:Q317623 ;
+    rdfs:label "MT940"@en .
+
+wd:Q188639 a wd:Q6046311 ;
+    rdfs:label "Serial ATA"@en .
+
+wd:Q1886728 a wd:Q15836568 ;
+    rdfs:label "Short Message Peer-to-Peer"@en .
+
+wd:Q188816 a wd:Q15836568 ;
+    rdfs:label "Lightweight Directory Access Protocol"@en .
+
+wd:Q188951 a wd:Q15836568 ;
+    rdfs:label "XMPP"@en .
+
+wd:Q18915336 a wd:Q317623 ;
+    rdfs:label "Q18915336"^^xsd:string .
+
+wd:Q1896121 a wd:Q317623 ;
+    rdfs:label "Zero-energy building"@en .
+
+wd:Q189620 a wd:Q15836568 ;
+    rdfs:label "SOAP"@en .
+
+wd:Q190746 a wd:Q317623 ;
+    rdfs:label "Advanced Encryption Standard"@en .
+
+wd:Q191018 a wd:Q15836568 ;
+    rdfs:label "Session Initiation Protocol"@en .
+
+wd:Q191370 a wd:Q15836568 ;
+    rdfs:label "Zephyr"@en .
+
+wd:Q1916177 a wd:Q15836568 ;
+    rdfs:label "Media Resource Control Protocol"@en .
+
+wd:Q191682 a wd:Q317623 ;
+    rdfs:label "decomposition"@en .
+
+wd:Q191895 a wd:Q6046311 ;
+    rdfs:label "RS-232"@en .
+
+wd:Q1922471 a wd:Q317623 ;
+    rdfs:label "Military Grid Reference System"@en .
+
+wd:Q1929514 a wd:Q132364 ;
+    rdfs:label "AES3"@en .
+
+wd:Q1929940 a wd:Q132364 ;
+    rdfs:label "OBject EXchange"@en .
+
+wd:Q1930323 a wd:Q15836568 ;
+    rdfs:label "NetWare Core Protocol"@en .
+
+wd:Q1931429 a wd:Q6046311 ;
+    rdfs:label "Micro-USB"@en .
+
+wd:Q19361967 a wd:Q15836568 ;
+    rdfs:label "Velneo Application Transfer Protocol"@en .
+
+wd:Q1937864 a wd:Q132364 ;
+    rdfs:label "Xgrid"@en .
+
+wd:Q1938838 a wd:Q132364 ;
+    rdfs:label "RS-423"@en .
+
+wd:Q1939382 a wd:Q15836568 ;
+    rdfs:label "NetBIOS over TCP/IP"@en .
+
+wd:Q195073 a wd:Q317623 ;
+    rdfs:label "Worldwide harmonized Light vehicles Test Procedures"@en .
+
+wd:Q195925 a wd:Q317623 ;
+    rdfs:label "New European Driving Cycle"@en .
+
+wd:Q19599791 a wd:Q132364 ;
+    rdfs:label "System for Cross-domain Identity Management"@en .
+
+wd:Q19601725 a wd:Q317623 ;
+    rdfs:label "Q19601725"^^xsd:string .
+
+wd:Q19605491 a wd:Q15836568 ;
+    rdfs:label "Foundry Discovery Protocol"@en .
+
+wd:Q19659978 a wd:Q15836568 ;
+    rdfs:label "Remote Job Entry Protocol"@en .
+
+wd:Q1966483 a wd:Q317623 ;
+    rdfs:label "Q1966483"^^xsd:string .
+
+wd:Q1971137 a wd:Q317623 ;
+    rdfs:label "Aircraft Incident Management Procedure"@en .
+
+wd:Q1971926 a wd:Q15836568 ;
+    rdfs:label "SIMPLE"@en .
+
+wd:Q1978565 a wd:Q15836568 ;
+    rdfs:label "NetWare Link Services Protocol"@en .
+
+wd:Q197876 a wd:Q15836568 ;
+    rdfs:label "Extensible Provisioning Protocol"@en .
+
+wd:Q19862448 a wd:Q15836568 ;
+    rdfs:label "Web Application Messaging Protocol"@en .
+
+wd:Q1991067 a wd:Q132364 ;
+    rdfs:label "Q1991067"^^xsd:string .
+
+wd:Q2000194 a wd:Q317623 ;
+    rdfs:label "Web Coverage Service"@en .
+
+wd:Q2008089 a wd:Q15836568 ;
+    rdfs:label "OSCAR protocol"@en .
+
+wd:Q2014487 a wd:Q15836568 ;
+    rdfs:label "Odette File Transfer Protocol"@en .
+
+wd:Q2025765 a wd:Q15836568 ;
+    rdfs:label "Open Smart Grid Protocol"@en .
+
+wd:Q2027079 a wd:Q15836568 ;
+    rdfs:label "ICMP Router Discovery Protocol"@en .
+
+wd:Q20293166 a wd:Q317623 ;
+    rdfs:label "Rijndael"@en .
+
+wd:Q203087 a wd:Q15836568 ;
+    rdfs:label "Signaling protocol"@en .
+
+wd:Q2043644 a wd:Q317623 ;
+    rdfs:label "Pentacon Six mount"@en .
+
+wd:Q2044459 a wd:Q15836568 ;
+    rdfs:label "Post Office Protocol 3 over TLS/SSL"@en .
+
+wd:Q2044675 a wd:Q15836568 ;
+    rdfs:label "Peripheral Sensor Interface 5"@en .
+
+wd:Q205936 a wd:Q15836568 ;
+    rdfs:label "Mobile IP"@en .
+
+wd:Q2062081 a wd:Q15836568 ;
+    rdfs:label "TDMoIP"@en .
+
+wd:Q2065387 a wd:Q317623 ;
+    rdfs:label "Payment Card Industry Data Security Standard"@en .
+
+wd:Q2067119 a wd:Q15836568 ;
+    rdfs:label "Peer Name Resolution Protocol"@en .
+
+wd:Q2067513 a wd:Q15836568 ;
+    rdfs:label "Traversal Using Relays around NAT"@en .
+
+wd:Q20679511 a wd:Q15836568 ;
+    rdfs:label "UETS"@en .
+
+wd:Q2068348 a wd:Q317623 ;
+    rdfs:label "videotex"@en .
+
+wd:Q2069955 a wd:Q15836568 ;
+    rdfs:label "RDM"@en .
+
+wd:Q20707549 a wd:Q15836568 ;
+    rdfs:label "Identity Registration Protocol"@en .
+
+wd:Q207971 a wd:Q15836568 ;
+    rdfs:label "token ring"@en .
+
+wd:Q2082377 a wd:Q15836568 ;
+    rdfs:label "Yahoo! Messenger Protocol"@en .
+
+wd:Q2091662 a wd:Q132364 ;
+    rdfs:label "C-TAP"@en .
+
+wd:Q209536 a wd:Q317623 ;
+    rdfs:label "Sony E-mount"@en .
+
+wd:Q209592 a wd:Q317623 ;
+    rdfs:label "BNCR mount"@en .
+
+wd:Q209607 a wd:Q317623 ;
+    rdfs:label "C mount"@en .
+
+wd:Q209633 a wd:Q317623 ;
+    rdfs:label "Canon EF lens mount"@en .
+
+wd:Q209659 a wd:Q317623 ;
+    rdfs:label "Canon FD lens mount"@en .
+
+wd:Q209695 a wd:Q317623 ;
+    rdfs:label "Canon EF-M lens mount"@en .
+
+wd:Q209708 a wd:Q317623 ;
+    rdfs:label "Fujifilm X-mount"@en .
+
+wd:Q209743 a wd:Q317623 ;
+    rdfs:label "Samsung NX-mount"@en .
+
+wd:Q210214 a wd:Q15836568 ;
+    rdfs:label "IPsec"@en .
+
+wd:Q2107523 a wd:Q15836568 ;
+    rdfs:label "Pragmatic General Multicast"@en .
+
+wd:Q21085982 a wd:Q317623 ;
+    rdfs:label "Reference Model for an Open Archival Information System"@en .
+
+wd:Q21422344 a wd:Q15836568 ;
+    rdfs:label "InterPlanetary File System"@en .
+
+wd:Q2144250 a wd:Q317623 ;
+    rdfs:label "KNX"@en .
+
+wd:Q214738 a wd:Q6046311 ;
+    rdfs:label "S/PDIF"@en .
+
+wd:Q215179 a wd:Q15836568 ;
+    rdfs:label "Point-to-point protocol"@en .
+
+wd:Q2153050 a wd:Q317623 ;
+    rdfs:label "CT2"@en .
+
+wd:Q21570171 a wd:Q15836568 ;
+    rdfs:label "UDP-based Data Transfer Protocol"@en .
+
+wd:Q2170609 a wd:Q132364 ;
+    rdfs:label "Routing Table Maintenance Protocol"@en .
+
+wd:Q217491 a wd:Q15836568 ;
+    rdfs:label "Network Time Protocol"@en .
+
+wd:Q219363 a wd:Q132364 ;
+    rdfs:label "NetFlow"@en .
+
+wd:Q21941992 a wd:Q15836568 ;
+    rdfs:label "Wrapped Encapsulating Security Payload"@en .
+
+wd:Q21943619 a wd:Q15836568 ;
+    rdfs:label "GMTP"@en .
+
+wd:Q219730 a wd:Q15836568 ;
+    rdfs:label "Network News Transfer Protocol"@en .
+
+wd:Q21994740 a wd:Q15836568 ;
+    rdfs:label "NBMA Address Resolution Protocol"@en .
+
+wd:Q220169 a wd:Q15836568 ;
+    rdfs:label "Open Shortest Path First"@en .
+
+wd:Q2205791 a wd:Q132364 ;
+    rdfs:label "Single Edge Nibble Transmission"@en .
+
+wd:Q22095337 a wd:Q15836568 ;
+    rdfs:label "Berknet"@en .
+
+wd:Q22284678 a wd:Q317623 ;
+    rdfs:label "JSON Web Token"@en .
+
+wd:Q2228757 a wd:Q317623 ;
+    rdfs:label "Scalable Coherent Interface"@en .
+
+wd:Q223074 a wd:Q15836568 ;
+    rdfs:label "3-D Secure"@en .
+
+wd:Q2238433 a wd:Q317623 ;
+    rdfs:label "Q2238433"^^xsd:string .
+
+wd:Q2242640 a wd:Q317623 ;
+    rdfs:label "Q2242640"^^xsd:string .
+
+wd:Q2255457 a wd:Q317623 ;
+    rdfs:label "Q2255457"^^xsd:string .
+
+wd:Q22569635 a wd:Q15836568 ;
+    rdfs:label "DNSCrypt"@en .
+
+wd:Q22681957 a wd:Q132364 ;
+    rdfs:label "OMA LwM2M"@en .
+
+wd:Q2273977 a wd:Q317623 ;
+    rdfs:label "Oxford spelling"@en .
+
+wd:Q2274117 a wd:Q15836568 ;
+    rdfs:label "Inter-server"@en .
+
+wd:Q2288316 a wd:Q15836568 ;
+    rdfs:label "Simple Mail Access Protocol"@en .
+
+wd:Q2289239 a wd:Q317623 ;
+    rdfs:label "Single Connector Attachment"@en .
+
+wd:Q22906785 a wd:Q15836568 ;
+    rdfs:label "Matrix"@en .
+
+wd:Q22907311 a wd:Q317623 ;
+    rdfs:label "Cloud Infrastructure Management Interface"@en .
+
+wd:Q22908033 a wd:Q317623 ;
+    rdfs:label "ECMA-407"@en .
+
+wd:Q22908624 a wd:Q317623 ;
+    rdfs:label "GeoPackage"@en .
+
+wd:Q22908639 a wd:Q317623 ;
+    rdfs:label "SensorThings API"@en .
+
+wd:Q2293706 a wd:Q317623 ;
+    rdfs:label "triple-square screw drive"@en .
+
+wd:Q2296308 a wd:Q317623 ;
+    rdfs:label "Web Feature Service"@en .
+
+wd:Q2302333 a wd:Q317623 ;
+    rdfs:label "SMPTE 259M"@en .
+
+wd:Q2306123 a wd:Q317623 ;
+    rdfs:label "Q2306123"^^xsd:string .
+
+wd:Q2308063 a wd:Q317623 ;
+    rdfs:label "Spatial Data Transfer Standard"@en .
+
+wd:Q23090827 a wd:Q15836568 ;
+    rdfs:label "Train Real Time Data Protocol"@en .
+
+wd:Q2314635 a wd:Q132364 ;
+    rdfs:label "Protected Extensible Authentication Protocol"@en .
+
+wd:Q23582095 a wd:Q317623 ;
+    rdfs:label "Natural Forest Standard"@en .
+
+wd:Q2373100 a wd:Q317623 ;
+    rdfs:label "Q2373100"^^xsd:string .
+
+wd:Q238322 a wd:Q15836568 ;
+    rdfs:label "4in6"@en .
+
+wd:Q2383430 a wd:Q317623 ;
+    rdfs:label "Q2383430"^^xsd:string .
+
+wd:Q2383433 a wd:Q317623 ;
+    rdfs:label "T-mount"@en .
+
+wd:Q2383527 a wd:Q317623 ;
+    rdfs:label "Q2383527"^^xsd:string .
+
+wd:Q2384370 a wd:Q15836568 ;
+    rdfs:label "TIPC"@en .
+
+wd:Q2384655 a wd:Q132364 ;
+    rdfs:label "TOC protocol"@en .
+
+wd:Q2385453 a wd:Q15836568 ;
+    rdfs:label "Open Network Computing Remote Procedure Call"@en .
+
+wd:Q2387128 a wd:Q15836568 ;
+    rdfs:label "Reliable User Datagram Protocol"@en .
+
+wd:Q239087 a wd:Q15836568 ;
+    rdfs:label "Protected Streaming"@en .
+
+wd:Q2413147 a wd:Q132364 ;
+    rdfs:label "Chess Engine Communication Protocol"@en .
+
+wd:Q2415512 a wd:Q15836568 ;
+    rdfs:label "TACACS+"@en .
+
+wd:Q242506 a wd:Q15836568 ;
+    rdfs:label "Frame Relay"@en .
+
+wd:Q2433101 a wd:Q132364 ;
+    rdfs:label "Q2433101"^^xsd:string .
+
+wd:Q243314 a wd:Q317623 ;
+    rdfs:label "standard-definition television"@en .
+
+wd:Q2434518 a wd:Q132364 ;
+    rdfs:label "Time-Triggered Protocol"@en .
+
+wd:Q244371 a wd:Q317623 ;
+    rdfs:label "OpenID"@en .
+
+wd:Q244581 a wd:Q317623 ;
+    rdfs:label "576i"@en .
+
+wd:Q2452602 a wd:Q15836568 ;
+    rdfs:label "Internet Stream Protocol"@en .
+
+wd:Q24534540 a wd:Q317623 ;
+    rdfs:label "Open Contracting Data Standard"@en .
+
+wd:Q2455266 a wd:Q132364 ;
+    rdfs:label "Internet Key Exchange"@en .
+
+wd:Q2455758 a wd:Q317623 ;
+    rdfs:label "ISO 639-5"@en .
+
+wd:Q2466900 a wd:Q132364 ;
+    rdfs:label "Q2466900"^^xsd:string .
+
+wd:Q24841005 a wd:Q6046311 ;
+    rdfs:label "USB 3.1"@en .
+
+wd:Q24875054 a wd:Q317623 ;
+    rdfs:label "JSON Schema"@en .
+
+wd:Q2494282 a wd:Q15836568 ;
+    rdfs:label "Unified Diagnostic Services"@en .
+
+wd:Q24949969 a wd:Q317623 ;
+    rdfs:label "Unified Payments Interface"@en .
+
+wd:Q2495522 a wd:Q15836568 ;
+    rdfs:label "XCP (Protocol)"@en .
+
+wd:Q2495531 a wd:Q15836568 ;
+    rdfs:label "EMI"@en .
+
+wd:Q24960527 a wd:Q317623 ;
+    rdfs:label "NOM-010-STPS-2014"@en .
+
+wd:Q2496688 a wd:Q317623 ;
+    rdfs:label "M39 lens mount"@en .
+
+wd:Q2501212 a wd:Q132364 ;
+    rdfs:label "Push-IMAP"@en .
+
+wd:Q2504541 a wd:Q15836568 ;
+    rdfs:label "UDP Lite"@en .
+
+wd:Q25099349 a wd:Q15836568 ;
+    rdfs:label "Registration Data Access Protocol"@en .
+
+wd:Q25109728 a wd:Q15836568 ;
+    rdfs:label "Versatile Message Transaction Protocol"@en .
+
+wd:Q25110609 a wd:Q15836568 ;
+    rdfs:label "Direct End to End Secure Chat Protocol"@en .
+
+wd:Q25111876 a wd:Q15836568 ;
+    rdfs:label "Techniques for Verification of Broadcast Information in Vehicular Ad hoc Networks"@en .
+
+wd:Q25210845 a wd:Q317623 ;
+    rdfs:label "Renewable portfolio standard"@en .
+
+wd:Q25212947 a wd:Q132364 ;
+    rdfs:label "Advanced Mobile Location"@en .
+
+wd:Q25303786 a wd:Q317623 ;
+    rdfs:label "Flow Cytometry Standard"@en .
+
+wd:Q25305369 a wd:Q317623 ;
+    rdfs:label "Networked Help Desk"@en .
+
+wd:Q25345944 a wd:Q132364 ;
+    rdfs:label "subunit"@en .
+
+wd:Q25348258 a wd:Q15836568 ;
+    rdfs:label "Internet Protocol over Ethernet"@en .
+
+wd:Q25388709 a wd:Q15836568 ;
+    rdfs:label "Q25388709"^^xsd:string .
+
+wd:Q25416454 a wd:Q132364 ;
+    rdfs:label "Q25416454"^^xsd:string .
+
+wd:Q2551624 a wd:Q15836568 ;
+    rdfs:label "IPv6"@en .
+
+wd:Q2553751 a wd:Q15836568 ;
+    rdfs:label "X Window System core protocol"@en .
+
+wd:Q25538294 a wd:Q6046311 ;
+    rdfs:label "USB 2.0"@en .
+
+wd:Q2554449 a wd:Q317623 ;
+    rdfs:label "Q2554449"^^xsd:string .
+
+wd:Q2567662 a wd:Q132364 ;
+    rdfs:label "Bus SCS"@en .
+
+wd:Q25706818 a wd:Q15836568 ;
+    rdfs:label "Distributed Services Architecture"@en .
+
+wd:Q2582058 a wd:Q132364 ;
+    rdfs:label "Remote Operations Service Element protocol"@en .
+
+wd:Q2585577 a wd:Q15836568 ;
+    rdfs:label "Wireless Session Protocol"@en .
+
+wd:Q2594355 a wd:Q15836568 ;
+    rdfs:label "HTTPU"@en .
+
+wd:Q2610210 a wd:Q317623 ;
+    rdfs:label "A440"@en .
+
+wd:Q26119883 a wd:Q317623 ;
+    rdfs:label "Ecma standard"@en .
+
+wd:Q26235914 a wd:Q317623 ;
+    rdfs:label "Intelligence Community Abstract Data Definition, version 2"@en .
+
+wd:Q26235928 a wd:Q317623 ;
+    rdfs:label "Intelligence Community Abstract Data Definition, version 1"@en .
+
+wd:Q26238120 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Access Rights and Handling, version 3"@en .
+
+wd:Q26238171 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Access Rights and Handling, version 2"@en .
+
+wd:Q26238179 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Access Rights and Handling, version 1"@en .
+
+wd:Q26239852 a wd:Q317623 ;
+    rdfs:label "XML CVE Encoding Specification for Authority Categories, version 1"@en .
+
+wd:Q26240076 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Community Shared Resources Technical Specification Profiles, version 1"@en .
+
+wd:Q26250392 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Document and Media Exploitation, version 2"@en .
+
+wd:Q26250397 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Document and Media Exploitation, version 1"@en .
+
+wd:Q26250405 a wd:Q317623 ;
+    rdfs:label "Data Encoding Specification for IC Full Service Directory Schema, version 2"@en .
+
+wd:Q26250440 a wd:Q317623 ;
+    rdfs:label "Data Encoding Specification for IC Full Service Directory Schema, version 1"@en .
+
+wd:Q26254092 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Enterprise Audit Exchange, version 4"@en .
+
+wd:Q26254097 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Enterprise Audit Exchange, version 3"@en .
+
+wd:Q26254098 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Enterprise Audit Exchange, version 2"@en .
+
+wd:Q26254099 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Enterprise Audit Exchange, version 1"@en .
+
+wd:Q26254101 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Enterprise Data Header, version 4"@en .
+
+wd:Q26254102 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Enterprise Data Header, version 3"@en .
+
+wd:Q26254105 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Enterprise Data Header, version 2"@en .
+
+wd:Q26254106 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Enterprise Data Header, version 1"@en .
+
+wd:Q2626647 a wd:Q132364 ;
+    rdfs:label "Common Management Information Protocol"@en .
+
+wd:Q26270895 a wd:Q317623 ;
+    rdfs:label "XML CVE Encoding Specification for Fine Access Control, version 1"@en .
+
+wd:Q26270927 a wd:Q317623 ;
+    rdfs:label "XML CVE Encoding Specification for Geopolitical Entities, Names, and Codes, version 1"@en .
+
+wd:Q26270992 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Resource Metadata, version 12"@en .
+
+wd:Q26271002 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Resource Metadata, version 11"@en .
+
+wd:Q26271005 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Resource Metadata, version 10"@en .
+
+wd:Q26271015 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Resource Metadata, version 9"@en .
+
+wd:Q26271021 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Resource Metadata, version 8"@en .
+
+wd:Q26271031 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Resource Metadata, version 7"@en .
+
+wd:Q26271038 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Resource Metadata, version 6"@en .
+
+wd:Q26271047 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Resource Metadata, version 5"@en .
+
+wd:Q26271056 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Resource Metadata, version 4"@en .
+
+wd:Q26271066 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Resource Metadata, version 3"@en .
+
+wd:Q26271076 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Resource Metadata, version 2"@en .
+
+wd:Q26271083 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Resource Metadata, version 1"@en .
+
+wd:Q26295636 a wd:Q317623 ;
+    rdfs:label "JPEG File Interchange Format, version 1.02"@en .
+
+wd:Q26295893 a wd:Q317623 ;
+    rdfs:label "ECMA TR/98 JPEG File Interchange Format (JFIF), 1st edition"@en .
+
+wd:Q263015 a wd:Q132364 ;
+    rdfs:label "Radio Data System"@en .
+
+wd:Q26329502 a wd:Q317623 ;
+    rdfs:label "JPEG File Interchange Format, version 1.01"@en .
+
+wd:Q26329663 a wd:Q317623 ;
+    rdfs:label "JPEG File Interchange Format, version 1.0"@en .
+
+wd:Q26380957 a wd:Q317623 ;
+    rdfs:label "CIPA DC-008-2016: Exchangeable image file format for digital still cameras: Exif Version 2.31"@en .
+
+wd:Q26381279 a wd:Q317623 ;
+    rdfs:label "JEITA CP-3451D: Exchangeable image file format for digital still cameras: Exif Version 2.31"@en .
+
+wd:Q26381818 a wd:Q317623 ;
+    rdfs:label "CIPA DC-008-Translation-2016: Exchangeable image file format for digital still cameras: Exif Version 2.31"@en .
+
+wd:Q2645808 a wd:Q317623 ;
+    rdfs:label "Q2645808"^^xsd:string .
+
+wd:Q26474437 a wd:Q317623 ;
+    rdfs:label "CIPA DC-008-Translation-2012: Exchangeable image file format for digital still cameras: Exif Version 2.3"@en .
+
+wd:Q26478165 a wd:Q317623 ;
+    rdfs:label "CIPA DC-008-2012: Exchangeable image file format for digital still cameras: Exif Version 2.3"@en .
+
+wd:Q2647823 a wd:Q317623 ;
+    rdfs:label "ASTERIX"@en .
+
+wd:Q26478887 a wd:Q317623 ;
+    rdfs:label "Digital Still Camera Image File Format Standard, version 2.1"@en .
+
+wd:Q26479090 a wd:Q317623 ;
+    rdfs:label "JEITA CP-3451: Exchangeable image file format for digital still cameras: Exif Version 2.2"@en .
+
+wd:Q265096 a wd:Q15836568 ;
+    rdfs:label "Simple Key-Management for Internet Protocol"@en .
+
+wd:Q26552652 a wd:Q317623 ;
+    rdfs:label "Access Control Encoding Specification for Information Security Markings, version 2"@en .
+
+wd:Q26553380 a wd:Q317623 ;
+    rdfs:label "Access Control Encoding Specification for Information Security Markings, version 1"@en .
+
+wd:Q26564486 a wd:Q317623 ;
+    rdfs:label "XML CVE Encoding Specification for ISM Country Codes and Tetragraphs, version 2"@en .
+
+wd:Q26564920 a wd:Q317623 ;
+    rdfs:label "XML CVE Encoding Specification for ISM Country Codes and Tetragraphs, version 1"@en .
+
+wd:Q26566041 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Security Markings, version 13"@en .
+
+wd:Q26566745 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Security Markings, version 12"@en .
+
+wd:Q26567096 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Security Markings, version 11"@en .
+
+wd:Q26567398 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Security Markings, version 10"@en .
+
+wd:Q26570527 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Security Markings, version 9"@en .
+
+wd:Q26570792 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Security Markings, version 8"@en .
+
+wd:Q26571060 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Security Markings, version 7"@en .
+
+wd:Q26583679 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Security Markings, version 6"@en .
+
+wd:Q26584006 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Security Markings, version 5"@en .
+
+wd:Q26584305 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Security Markings, version 4"@en .
+
+wd:Q26584565 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Security Markings, version 3"@en .
+
+wd:Q26584914 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Security Markings, version 2"@en .
+
+wd:Q26585175 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Security Markings, version 1"@en .
+
+wd:Q26589187 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Transport Service Messaging Service, version 1"@en .
+
+wd:Q26593308 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Transport Service Organizational Messaging, version 2"@en .
+
+wd:Q26608367 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Transport Service Organizational Messaging, version 1"@en .
+
+wd:Q26620244 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Information Transport Service Organizational Messaging, version 3"@en .
+
+wd:Q26689708 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Intelligence Publications, version 12"@en .
+
+wd:Q26689709 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Intelligence Publications, version 11"@en .
+
+wd:Q26689710 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Intelligence Publications, version 10"@en .
+
+wd:Q26689711 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Intelligence Publications, version 9"@en .
+
+wd:Q26689720 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Intelligence Publications, version 8"@en .
+
+wd:Q26689721 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Intelligence Publications, version 7"@en .
+
+wd:Q26689722 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Intelligence Publications, version 6"@en .
+
+wd:Q26689723 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Intelligence Publications, version 5"@en .
+
+wd:Q26689724 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Intelligence Publications, version 4"@en .
+
+wd:Q26689725 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Intelligence Publications, version 3"@en .
+
+wd:Q26689726 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Intelligence Publications, version 2"@en .
+
+wd:Q26689727 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Intelligence Publications, version 1"@en .
+
+wd:Q26689743 a wd:Q317623 ;
+    rdfs:label "Access Control Encoding Specification for Intelligence Community Only, version 1"@en .
+
+wd:Q26689744 a wd:Q317623 ;
+    rdfs:label "Text and XML Data Encoding Specifications for Intelligence Community Identifier, version 1"@en .
+
+wd:Q26689745 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Intelligence Community Only Need-To-Know Profile, version 1"@en .
+
+wd:Q26689922 a wd:Q317623 ;
+    rdfs:label "Access Control Encoding Specification for ORCON Need-To-Know, version 1"@en .
+
+wd:Q26689923 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Need-To-Know Metadata, version 10"@en .
+
+wd:Q26689924 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Need-To-Know Metadata, version 9"@en .
+
+wd:Q26689925 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Need-To-Know Metadata, version 8"@en .
+
+wd:Q26689926 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Need-To-Know Metadata, version 7"@en .
+
+wd:Q26689927 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Need-To-Know Metadata, version 6"@en .
+
+wd:Q26689928 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Need-To-Know Metadata, version 5"@en .
+
+wd:Q26689929 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Need-To-Know Metadata, version 4"@en .
+
+wd:Q26689930 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Need-To-Know Metadata, version 3"@en .
+
+wd:Q26689931 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Need-To-Know Metadata, version 2"@en .
+
+wd:Q26689932 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Need-To-Know Metadata, version 1"@en .
+
+wd:Q26689933 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Multi Audience Tearline, version 7"@en .
+
+wd:Q26689934 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Multi Audience Tearline, version 6"@en .
+
+wd:Q26689935 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Multi Audience Tearline, version 5"@en .
+
+wd:Q26689937 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Multi Audience Tearline, version 4"@en .
+
+wd:Q26689938 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Multi Audience Tearline, version 3"@en .
+
+wd:Q26689939 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Multi Audience Tearline, version 2"@en .
+
+wd:Q26689940 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Multi Audience Tearline, version 1"@en .
+
+wd:Q26695627 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Multi Audience Collection, version 1"@en .
+
+wd:Q26695628 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Revision Recall, version 1"@en .
+
+wd:Q26695629 a wd:Q317623 ;
+    rdfs:label "XML CVE Encoding Specification for US Agency Acronyms, version 1"@en .
+
+wd:Q26695630 a wd:Q317623 ;
+    rdfs:label "XML CVE Encoding Specification for US Government Agency Acronyms, version 1"@en .
+
+wd:Q26695632 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Virtual Coverage, version 1"@en .
+
+wd:Q26701420 a wd:Q317623 ;
+    rdfs:label "Intelligence Community Standard 500-27, Collection and Sharing of Audit Data for Intelligence Community (IC) Information Resources by IC Elements"@en .
+
+wd:Q26701431 a wd:Q317623 ;
+    rdfs:label "Intelligence Community Markings System Register and Manual Annex A Tetragraphs"@en .
+
+wd:Q26701433 a wd:Q317623 ;
+    rdfs:label "Intelligence Community Markings System Register and Manual Annex B Tetragraphs"@en .
+
+wd:Q26701449 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Proprietary Information Need-To-Know, version 1"@en .
+
+wd:Q26701541 a wd:Q317623 ;
+    rdfs:label "Intelligence Community Information Transport Service Organizational Messaging Interface Control Document: Appendix A IC Messaging Service (ICMS) XML Schema, version 1.9"@en .
+
+wd:Q26701544 a wd:Q317623 ;
+    rdfs:label "Intelligence Community Information Transport Service Organizational Messaging Interface Control Document: Appendix B IC Organizational Messaging (ICOM) XML Schema, version 1.4"@en .
+
+wd:Q26701931 a wd:Q317623 ;
+    rdfs:label "XML Data Encoding Specification for Originator Control Need-To-Know Profile, version 1"@en .
+
+wd:Q26732203 a wd:Q317623 ;
+    rdfs:label "NGA.STND.0036: Department of Defense World Geodetic System 1984, version 1.0.0"@en .
+
+wd:Q26732204 a wd:Q317623 ;
+    rdfs:label "NIMA TR8350.2: Department of Defense World Geodetic System 1984, 3rd edition"@en .
+
+wd:Q26732205 a wd:Q317623 ;
+    rdfs:label "DMA TR 8350.2: Department of Defense World Geodetic System 1984, 2nd edition"@en .
+
+wd:Q26732770 a wd:Q317623 ;
+    rdfs:label "N-0106-97: Bandwidth Compression Standards and Guidelines Document"@en .
+
+wd:Q26733890 a wd:Q317623 ;
+    rdfs:label "FED-STD-1037B: Telecommunications: Glossary of Telecommunication Terms"@en .
+
+wd:Q26827838 a wd:Q317623 ;
+    rdfs:label "ANSI X3.4-1986: Coded Character Sets—7-Bit American National Standard Code for Information Interchange (7-Bit ASCII)"@en .
+
+wd:Q2694703 a wd:Q317623 ;
+    rdfs:label "Q2694703"^^xsd:string .
+
+wd:Q2702258 a wd:Q317623 ;
+    rdfs:label "Q2702258"^^xsd:string .
+
+wd:Q2709427 a wd:Q317623 ;
+    rdfs:label "Q2709427"^^xsd:string .
+
+wd:Q27114292 a wd:Q132364 ;
+    rdfs:label "Posting style"@en .
+
+wd:Q2712883 a wd:Q132364 ;
+    rdfs:label "CEC (Consumer Electronics Control) over HDMI"@en .
+
+wd:Q27214874 a wd:Q317623 ;
+    rdfs:label "Federal Standard 1037C"@en .
+
+wd:Q273353 a wd:Q317623 ;
+    rdfs:label "near field communication"@en .
+
+wd:Q273673 a wd:Q132364 ;
+    rdfs:label "Wired Equivalent Privacy"@en .
+
+wd:Q2742627 a wd:Q317623 ;
+    rdfs:label "Gastronorm sizes"@en .
+
+wd:Q2755217 a wd:Q317623 ;
+    rdfs:label "UNIMARC"@en .
+
+wd:Q277919 a wd:Q15836568 ;
+    rdfs:label "Secure Hypertext Transfer Protocol"@en .
+
+wd:Q2782018 a wd:Q317623 ;
+    rdfs:label "Harmonised System of Survey and Certification"@en .
+
+wd:Q27861416 a wd:Q317623 ;
+    rdfs:label "CIPA DC-007-2009 Multi-Picture Format"@en .
+
+wd:Q27861464 a wd:Q317623 ;
+    rdfs:label "eCH-0165 SIARD Format Specification, version 1.0"@en .
+
+wd:Q27861472 a wd:Q317623 ;
+    rdfs:label "eCH-0165 SIARD Format Specification, version 2.0"@en .
+
+wd:Q2790323 a wd:Q317623 ;
+    rdfs:label "Illuminant D65"@en .
+
+wd:Q279793 a wd:Q132364 ;
+    rdfs:label "DiSEqC"@en .
+
+wd:Q280946 a wd:Q15836568 ;
+    rdfs:label "Packet over SONET/SDH"@en .
+
+wd:Q28130019 a wd:Q317623 ;
+    rdfs:label "CT1"@en .
+
+wd:Q2818241 a wd:Q317623 ;
+    rdfs:label "720i"@en .
+
+wd:Q2819148 a wd:Q317623 ;
+    rdfs:label "AFB120"@en .
+
+wd:Q2819150 a wd:Q317623 ;
+    rdfs:label "AFB320"@en .
+
+wd:Q2819363 a wd:Q317623 ;
+    rdfs:label "ARINC 661"@en .
+
+wd:Q28234914 a wd:Q15836568 ;
+    rdfs:label "Route Access Protocol"@en .
+
+wd:Q28234920 a wd:Q15836568 ;
+    rdfs:label "Resource Location Protocol"@en .
+
+wd:Q28234931 a wd:Q15836568 ;
+    rdfs:label "Remote Mail Checking Protocol"@en .
+
+wd:Q28234939 a wd:Q15836568 ;
+    rdfs:label "Xerox Network Systems Time Protocol"@en .
+
+wd:Q28234947 a wd:Q15836568 ;
+    rdfs:label "Xerox Network Systems clearinghouse"@en .
+
+wd:Q28234955 a wd:Q15836568 ;
+    rdfs:label "Xerox Network Systems authentication"@en .
+
+wd:Q28234965 a wd:Q15836568 ;
+    rdfs:label "Xerox Network Systems mail"@en .
+
+wd:Q28235008 a wd:Q15836568 ;
+    rdfs:label "NETRJS"@en .
+
+wd:Q282558 a wd:Q132364 ;
+    rdfs:label "HTTP ETag"@en .
+
+wd:Q283774 a wd:Q15836568 ;
+    rdfs:label "rsync"@en .
+
+wd:Q284140 a wd:Q317623 ;
+    rdfs:label "sRGB"@en .
+
+wd:Q284247 a wd:Q317623 ;
+    rdfs:label "Advanced Access Content System"@en .
+
+wd:Q28444653 a wd:Q317623 ;
+    rdfs:label "DDR5 SDRAM"@en .
+
+wd:Q28481335 a wd:Q15836568 ;
+    rdfs:label "GARP VLAN Registration Protocol"@en .
+
+wd:Q284935 a wd:Q15836568 ;
+    rdfs:label "Universal Plug and Play"@en .
+
+wd:Q28554380 a wd:Q317623 ;
+    rdfs:label "Twitter Cards"@en .
+
+wd:Q2855821 a wd:Q317623 ;
+    rdfs:label "computer case screw"@en .
+
+wd:Q2857888 a wd:Q15836568 ;
+    rdfs:label "Anything In Anything"@en .
+
+wd:Q2864504 a wd:Q15836568 ;
+    rdfs:label "Art-Net"@en .
+
+wd:Q28686657 a wd:Q317623 ;
+    rdfs:label "Manual on the WMO Integrated Global Observing System"@en .
+
+wd:Q2869559 a wd:Q15836568 ;
+    rdfs:label "Atom Publishing Protocol"@en .
+
+wd:Q287228 a wd:Q317623 ;
+    rdfs:label "ebXML"@en .
+
+wd:Q28756704 a wd:Q132364 ;
+    rdfs:label "Freenet node protocol"@en .
+
+wd:Q28816864 a wd:Q15836568 ;
+    rdfs:label "IPv6 Hop-by-Hop Option"@en .
+
+wd:Q28816888 a wd:Q15836568 ;
+    rdfs:label "BBN RCC Monitoring"@en .
+
+wd:Q28816933 a wd:Q15836568 ;
+    rdfs:label "Emission Control Protocol"@en .
+
+wd:Q28817045 a wd:Q15836568 ;
+    rdfs:label "Cross Net Debugger"@en .
+
+wd:Q28817142 a wd:Q15836568 ;
+    rdfs:label "DCN Measurement Subsystems"@en .
+
+wd:Q28817177 a wd:Q15836568 ;
+    rdfs:label "Packet Radio Measurement"@en .
+
+wd:Q28817230 a wd:Q15836568 ;
+    rdfs:label "Trunk-1"@en .
+
+wd:Q28817244 a wd:Q15836568 ;
+    rdfs:label "Trunk-2"@en .
+
+wd:Q28817261 a wd:Q15836568 ;
+    rdfs:label "Leaf-1"@en .
+
+wd:Q28817271 a wd:Q15836568 ;
+    rdfs:label "Leaf-2"@en .
+
+wd:Q28817296 a wd:Q15836568 ;
+    rdfs:label "Internet Reliable Transaction Protocol"@en .
+
+wd:Q28817329 a wd:Q15836568 ;
+    rdfs:label "ISO Transport Protocol Class 4"@en .
+
+wd:Q28817354 a wd:Q15836568 ;
+    rdfs:label "Bulk Data Transfer Protocol"@en .
+
+wd:Q28817382 a wd:Q15836568 ;
+    rdfs:label "MFE Network Services Protocol"@en .
+
+wd:Q28817427 a wd:Q15836568 ;
+    rdfs:label "MERIT Internodal Protocol"@en .
+
+wd:Q28817725 a wd:Q15836568 ;
+    rdfs:label "Third Party Connect Protocol"@en .
+
+wd:Q28818781 a wd:Q15836568 ;
+    rdfs:label "Mapping of Airline Traffic over Internet Protocol Type B"@en .
+
+wd:Q28818843 a wd:Q15836568 ;
+    rdfs:label "Network News Transfer Protocol over TLS/SSL"@en .
+
+wd:Q28818860 a wd:Q15836568 ;
+    rdfs:label "Lightweight Directory Access Protocol over TLS/SSL"@en .
+
+wd:Q28823648 a wd:Q15836568 ;
+    rdfs:label "Internet Stream Protocol Datagram Mode"@en .
+
+wd:Q28918873 a wd:Q15836568 ;
+    rdfs:label "Inter-Domain Policy Routing Protocol"@en .
+
+wd:Q28918911 a wd:Q15836568 ;
+    rdfs:label "IDPR Control Message Transport Protocol"@en .
+
+wd:Q28918913 a wd:Q15836568 ;
+    rdfs:label "TP+Tran"@en .
+
+wd:Q28918914 a wd:Q15836568 ;
+    rdfs:label "IPv6 encapsulation"@en .
+
+wd:Q28918915 a wd:Q15836568 ;
+    rdfs:label "Source Demand Routing Protocol"@en .
+
+wd:Q28918916 a wd:Q15836568 ;
+    rdfs:label "Routing Header for IPv6"@en .
+
+wd:Q28918917 a wd:Q15836568 ;
+    rdfs:label "Fragment Header for IPv6"@en .
+
+wd:Q28918919 a wd:Q15836568 ;
+    rdfs:label "Burroughs Network Architecture"@en .
+
+wd:Q28918921 a wd:Q15836568 ;
+    rdfs:label "Authentication Header"@en .
+
+wd:Q28918923 a wd:Q15836568 ;
+    rdfs:label "Integrated Net Layer Security Protocol"@en .
+
+wd:Q28918925 a wd:Q15836568 ;
+    rdfs:label "Transport Layer Security Protocol using Kryptonet key management"@en .
+
+wd:Q28918926 a wd:Q15836568 ;
+    rdfs:label "No Next Header for IPv6"@en .
+
+wd:Q28918927 a wd:Q15836568 ;
+    rdfs:label "Destination Options for IPv6"@en .
+
+wd:Q28918929 a wd:Q15836568 ;
+    rdfs:label "CFTP"@en .
+
+wd:Q28918931 a wd:Q15836568 ;
+    rdfs:label "SATNET and Backroom EXPAK"@en .
+
+wd:Q28918933 a wd:Q15836568 ;
+    rdfs:label "Kryptolan"@en .
+
+wd:Q28918935 a wd:Q15836568 ;
+    rdfs:label "Remote Virtual Disk Protocol"@en .
+
+wd:Q28918936 a wd:Q15836568 ;
+    rdfs:label "Internet Pluribus Packet Core"@en .
+
+wd:Q28918938 a wd:Q15836568 ;
+    rdfs:label "SATNET Monitoring"@en .
+
+wd:Q28918939 a wd:Q15836568 ;
+    rdfs:label "VISA Protocol"@en .
+
+wd:Q28918941 a wd:Q15836568 ;
+    rdfs:label "Internet Packet Core Utility"@en .
+
+wd:Q28918943 a wd:Q15836568 ;
+    rdfs:label "Computer Protocol Network Executive"@en .
+
+wd:Q28918945 a wd:Q15836568 ;
+    rdfs:label "Computer Protocol Heart Beat"@en .
+
+wd:Q28918946 a wd:Q15836568 ;
+    rdfs:label "Wang Span Network"@en .
+
+wd:Q28918949 a wd:Q15836568 ;
+    rdfs:label "Packet Video Protocol"@en .
+
+wd:Q28918951 a wd:Q15836568 ;
+    rdfs:label "Backroom SATNET Monitoring"@en .
+
+wd:Q28918952 a wd:Q15836568 ;
+    rdfs:label "Sun ND Protocol"@en .
+
+wd:Q28918953 a wd:Q15836568 ;
+    rdfs:label "WIDEBAND Monitoring"@en .
+
+wd:Q28918954 a wd:Q15836568 ;
+    rdfs:label "WIDEBAND EXPAK"@en .
+
+wd:Q28918956 a wd:Q15836568 ;
+    rdfs:label "International Organization for Standardization Internet Protocol"@en .
+
+wd:Q28918958 a wd:Q15836568 ;
+    rdfs:label "Secure Versatile Message Transaction Protocol"@en .
+
+wd:Q28918959 a wd:Q15836568 ;
+    rdfs:label "VINES"@en .
+
+wd:Q28918964 a wd:Q15836568 ;
+    rdfs:label "Transaction Transport Protocol"@en .
+
+wd:Q28918994 a wd:Q15836568 ;
+    rdfs:label "Internet Protocol Traffic Manager"@en .
+
+wd:Q28918996 a wd:Q15836568 ;
+    rdfs:label "NSFNET-IGP"@en .
+
+wd:Q28918997 a wd:Q15836568 ;
+    rdfs:label "Dissimilar Gateway Protocol"@en .
+
+wd:Q28918998 a wd:Q15836568 ;
+    rdfs:label "TCF"@en .
+
+wd:Q28918999 a wd:Q15836568 ;
+    rdfs:label "Sprite RPC Protocol"@en .
+
+wd:Q28919001 a wd:Q15836568 ;
+    rdfs:label "Locus Address Resolution Protocol"@en .
+
+wd:Q28919003 a wd:Q15836568 ;
+    rdfs:label "Multicast Transport Protocol"@en .
+
+wd:Q28919009 a wd:Q15836568 ;
+    rdfs:label "IP-within-IP Encapsulation Protocol"@en .
+
+wd:Q28919010 a wd:Q15836568 ;
+    rdfs:label "Mobile Internetworking Control Protocol"@en .
+
+wd:Q28919012 a wd:Q15836568 ;
+    rdfs:label "Semaphore Communications Sec. Protocol"@en .
+
+wd:Q28919014 a wd:Q15836568 ;
+    rdfs:label "Ethernet-within-IP Encapsulation"@en .
+
+wd:Q28919015 a wd:Q15836568 ;
+    rdfs:label "Encapsulation Header"@en .
+
+wd:Q289334 a wd:Q132364 ;
+    rdfs:label "mLAN"@en .
+
+wd:Q2894698 a wd:Q317623 ;
+    rdfs:label "Humans.txt"@en .
+
+wd:Q289839 a wd:Q317623 ;
+    rdfs:label "AC'97"@en .
+
+wd:Q29000462 a wd:Q6046311 ;
+    rdfs:label "USB 1.0"@en .
+
+wd:Q29000466 a wd:Q6046311 ;
+    rdfs:label "USB 1.1"@en .
+
+wd:Q290711 a wd:Q15836568 ;
+    rdfs:label "pfsync"@en .
+
+wd:Q29168365 a wd:Q317623 ;
+    rdfs:label "Generally Accepted Accounting Principles - US - 2017"@en .
+
+wd:Q29168379 a wd:Q317623 ;
+    rdfs:label "Generally Accepted Accounting Principles - US - 2016"@en .
+
+wd:Q29168397 a wd:Q317623 ;
+    rdfs:label "IFRS 2016"@en .
+
+wd:Q29377821 a wd:Q317623 ;
+    rdfs:label "SHACL"@en .
+
+wd:Q29377880 a wd:Q317623 ;
+    rdfs:label "ShEx"@en .
+
+wd:Q2939541 a wd:Q317623 ;
+    rdfs:label "KMEHR"@en .
+
+wd:Q294502 a wd:Q132364 ;
+    rdfs:label "ALOHAnet"@en .
+
+wd:Q29510888 a wd:Q132364 ;
+    rdfs:label "Q29510888"^^xsd:string .
+
+wd:Q29578650 a wd:Q15836568 ;
+    rdfs:label "Aggregate Route IP Switching Protocol"@en .
+
+wd:Q29578653 a wd:Q15836568 ;
+    rdfs:label "SCPS-TP"@en .
+
+wd:Q29578655 a wd:Q15836568 ;
+    rdfs:label "QNX"@en .
+
+wd:Q29578658 a wd:Q15836568 ;
+    rdfs:label "Active Networks"@en .
+
+wd:Q29578666 a wd:Q15836568 ;
+    rdfs:label "Sitara Networks Protocol"@en .
+
+wd:Q29578676 a wd:Q15836568 ;
+    rdfs:label "Compaq Peer Protocol"@en .
+
+wd:Q29578681 a wd:Q15836568 ;
+    rdfs:label "IPX in IP"@en .
+
+wd:Q29578684 a wd:Q15836568 ;
+    rdfs:label "D-II Data Exchange"@en .
+
+wd:Q29578686 a wd:Q15836568 ;
+    rdfs:label "Interactive Agent Transfer Protocol"@en .
+
+wd:Q29578688 a wd:Q15836568 ;
+    rdfs:label "Schedule Transfer Protocol"@en .
+
+wd:Q29578689 a wd:Q15836568 ;
+    rdfs:label "SpectraLink Radio Protocol"@en .
+
+wd:Q29578690 a wd:Q15836568 ;
+    rdfs:label "Universal Transport Interface Protocol"@en .
+
+wd:Q29578691 a wd:Q15836568 ;
+    rdfs:label "Simple Message Protocol"@en .
+
+wd:Q29578693 a wd:Q15836568 ;
+    rdfs:label "Simple Multicast Protocol"@en .
+
+wd:Q29578696 a wd:Q15836568 ;
+    rdfs:label "Performance Transparency Protocol"@en .
+
+wd:Q29578699 a wd:Q15836568 ;
+    rdfs:label "Flexible Intra-AS Routing Environment"@en .
+
+wd:Q29578700 a wd:Q15836568 ;
+    rdfs:label "Combat Radio Transport Protocol"@en .
+
+wd:Q29578702 a wd:Q15836568 ;
+    rdfs:label "Combat Radio User Datagram"@en .
+
+wd:Q29578704 a wd:Q15836568 ;
+    rdfs:label "Service-Specific Connection-Oriented Protocol in a Multilink and Connectionless Environment"@en .
+
+wd:Q29578705 a wd:Q15836568 ;
+    rdfs:label "IPLT"@en .
+
+wd:Q29578706 a wd:Q15836568 ;
+    rdfs:label "Secure Packet Shield"@en .
+
+wd:Q29578709 a wd:Q15836568 ;
+    rdfs:label "Private IP Encapsulation within IP"@en .
+
+wd:Q29578833 a wd:Q15836568 ;
+    rdfs:label "Fibre Channel protocol"@en .
+
+wd:Q29578840 a wd:Q15836568 ;
+    rdfs:label "Reservation Protocol End-to-End Ignore"@en .
+
+wd:Q29578845 a wd:Q15836568 ;
+    rdfs:label "Mobility Extension Header for IPv6"@en .
+
+wd:Q29578848 a wd:Q15836568 ;
+    rdfs:label "Multiprotocol Label Switching Encapsulated in IP"@en .
+
+wd:Q29578850 a wd:Q15836568 ;
+    rdfs:label "MANET Protocols"@en .
+
+wd:Q295802 a wd:Q15836568 ;
+    rdfs:label "ANT (network)"@en .
+
+wd:Q296213 a wd:Q15836568 ;
+    rdfs:label "Authenticated Post Office Protocol"@en .
+
+wd:Q29657391 a wd:Q15836568 ;
+    rdfs:label "D-Bus Message Protocol"@en .
+
+wd:Q296665 a wd:Q132364 ;
+    rdfs:label "ARINC 429"@en .
+
+wd:Q297130 a wd:Q132364 ;
+    rdfs:label "AS-Interface"@en .
+
+wd:Q2986818 a wd:Q317623 ;
+    rdfs:label "Common European Research Information Format"@en .
+
+wd:Q298739 a wd:Q317623 ;
+    rdfs:label "ATA iSpec 2200"@en .
+
+wd:Q298746 a wd:Q15836568 ;
+    rdfs:label "ATA over Ethernet"@en .
+
+wd:Q29933870 a wd:Q317623 ;
+    rdfs:label "JSON Web Encryption"@en .
+
+wd:Q29980869 a wd:Q317623 ;
+    rdfs:label "Australian Statistical Geography Standard 2011"@en .
+
+wd:Q300080 a wd:Q317623 ;
+    rdfs:label "ATX"@en .
+
+wd:Q300250 a wd:Q15836568 ;
+    rdfs:label "Amateur X.25"@en .
+
+wd:Q300851 a wd:Q132364 ;
+    rdfs:label "X.400"@en .
+
+wd:Q30100666 a wd:Q317623 ;
+    rdfs:label "International Standards Organisation Viscosity Grade"@en .
+
+wd:Q3011398 a wd:Q317623 ;
+    rdfs:label "DO-160"@en .
+
+wd:Q3011402 a wd:Q317623 ;
+    rdfs:label "DO-254"@en .
+
+wd:Q30150385 a wd:Q317623 ;
+    rdfs:label "Q30150385"^^xsd:string .
+
+wd:Q30216914 a wd:Q317623 ;
+    rdfs:label "Records in Contexts"@en .
+
+wd:Q30242162 a wd:Q317623 ;
+    rdfs:label "L-Mount"@en .
+
+wd:Q3024965 a wd:Q15836568 ;
+    rdfs:label "FTP over SSH"@en .
+
+wd:Q30251139 a wd:Q132364 ;
+    rdfs:label "Language Server Protocol"@en .
+
+wd:Q3030662 a wd:Q15836568 ;
+    rdfs:label "Distance-bounding protocol"@en .
+
+wd:Q30324108 a wd:Q132364 ;
+    rdfs:label "CAN FD"@en .
+
+wd:Q30325114 a wd:Q132364 ;
+    rdfs:label "Lightning Network"@en .
+
+wd:Q30335890 a wd:Q15836568 ;
+    rdfs:label "Session Initiation Protocol over TLS/SSL"@en .
+
+wd:Q30335894 a wd:Q15836568 ;
+    rdfs:label "Media Gateway Control Protocol Call Agent"@en .
+
+wd:Q30335905 a wd:Q15836568 ;
+    rdfs:label "Diameter over TLS/TCP"@en .
+
+wd:Q30335906 a wd:Q15836568 ;
+    rdfs:label "Diameter over DTLS/SCTP"@en .
+
+wd:Q30335968 a wd:Q15836568 ;
+    rdfs:label "Remote Source-Route Bridging high priority"@en .
+
+wd:Q30335973 a wd:Q15836568 ;
+    rdfs:label "Remote Source-Route Bridging medium priority"@en .
+
+wd:Q30335974 a wd:Q15836568 ;
+    rdfs:label "Remote Source-Route Bridging normal priority"@en .
+
+wd:Q30335975 a wd:Q15836568 ;
+    rdfs:label "Remote Source-Route Bridging low priority"@en .
+
+wd:Q30433205 a wd:Q317623 ;
+    rdfs:label "Australian Standard Geographic Classification 2006"@en .
+
+wd:Q30437955 a wd:Q317623 ;
+    rdfs:label "Access to Biological Collection Data"@en .
+
+wd:Q30439449 a wd:Q317623 ;
+    rdfs:label "Australian Statistical Geography Standard 2016"@en .
+
+wd:Q3045869 a wd:Q317623 ;
+    rdfs:label "EDIGEO"@en .
+
+wd:Q3045871 a wd:Q132364 ;
+    rdfs:label "EDIINT"@en .
+
+wd:Q3049899 a wd:Q317623 ;
+    rdfs:label "Q3049899"^^xsd:string .
+
+wd:Q30500573 a wd:Q15836568 ;
+    rdfs:label "HTTP/1.1"@en .
+
+wd:Q30500637 a wd:Q317623 ;
+    rdfs:label "Versioning Extensions to WebDAV"@en .
+
+wd:Q30500650 a wd:Q15836568 ;
+    rdfs:label "WebDAV Ordered Collections Protocol"@en .
+
+wd:Q30500661 a wd:Q15836568 ;
+    rdfs:label "WebDAV Access Control Protocol"@en .
+
+wd:Q3053864 a wd:Q15836568 ;
+    rdfs:label "Encrypted Real Time Messaging Protocol"@en .
+
+wd:Q30588032 a wd:Q317623 ;
+    rdfs:label "ARIB STD B24"@en .
+
+wd:Q30592714 a wd:Q317623 ;
+    rdfs:label "CFexpress"@en .
+
+wd:Q306152 a wd:Q15836568 ;
+    rdfs:label "iSCSI"@en .
+
+wd:Q3064235 a wd:Q317623 ;
+    rdfs:label "Factory Instrumentation Protocol"@en .
+
+wd:Q306432 a wd:Q317623 ;
+    rdfs:label "h-event"@en .
+
+wd:Q30671705 a wd:Q317623 ;
+    rdfs:label "IEC 60068"@en .
+
+wd:Q30672835 a wd:Q317623 ;
+    rdfs:label "NEMA stepper motor"@en .
+
+wd:Q30675019 a wd:Q317623 ;
+    rdfs:label "Open Rack"@en .
+
+wd:Q3099269 a wd:Q15836568 ;
+    rdfs:label "Gateway Load Balancing Protocol"@en .
+
+wd:Q31073266 a wd:Q317623 ;
+    rdfs:label "IEC 61000-4-2"@en .
+
+wd:Q31206964 a wd:Q15836568 ;
+    rdfs:label "SPARQL 1.1 Protocol"@en .
+
+wd:Q31207264 a wd:Q15836568 ;
+    rdfs:label "HTTP/1.0"@en .
+
+wd:Q31207825 a wd:Q15836568 ;
+    rdfs:label "SPARQL Protocol for RDF"@en .
+
+wd:Q3124712 a wd:Q132364 ;
+    rdfs:label "Q3124712"^^xsd:string .
+
+wd:Q3125141 a wd:Q132364 ;
+    rdfs:label "HNZ"@en .
+
+wd:Q313909 a wd:Q317623 ;
+    rdfs:label "Leica M mount"@en .
+
+wd:Q3141335 a wd:Q317623 ;
+    rdfs:label "1000BASE-T"@en .
+
+wd:Q3146524 a wd:Q317623 ;
+    rdfs:label "International Standard for Describing Functions"@en .
+
+wd:Q3146525 a wd:Q317623 ;
+    rdfs:label "International Standard for Describing Institutions with Archival Holdings"@en .
+
+wd:Q3153148 a wd:Q132364 ;
+    rdfs:label "Q3153148"^^xsd:string .
+
+wd:Q3156856 a wd:Q317623 ;
+    rdfs:label "JAMMA Video Standard"@en .
+
+wd:Q3156935 a wd:Q15836568 ;
+    rdfs:label "Java Network Launching Protocol"@en .
+
+wd:Q3163384 a wd:Q15836568 ;
+    rdfs:label "JBus"@en .
+
+wd:Q31884422 a wd:Q317623 ;
+    rdfs:label "Q31884422"^^xsd:string .
+
+wd:Q321213 a wd:Q15836568 ;
+    rdfs:label "Real-time Transport Protocol"@en .
+
+wd:Q3219967 a wd:Q15836568 ;
+    rdfs:label "Layer 2 Tunneling Protocol version 3"@en .
+
+wd:Q322654 a wd:Q15836568 ;
+    rdfs:label "Gopher"@en .
+
+wd:Q323678 a wd:Q317623 ;
+    rdfs:label "Regelbau"@en .
+
+wd:Q3273142 a wd:Q317623 ;
+    rdfs:label "Q3273142"^^xsd:string .
+
+wd:Q3273227 a wd:Q317623 ;
+    rdfs:label "Q3273227"^^xsd:string .
+
+wd:Q327718 a wd:Q317623 ;
+    rdfs:label "Health Level 7"@en .
+
+wd:Q3286523 a wd:Q15836568 ;
+    rdfs:label "Extended Simple Mail Transfer Protocol"@en .
+
+wd:Q329003 a wd:Q6046311 ;
+    rdfs:label "Thunderbolt"@en .
+
+wd:Q3293705 a wd:Q15836568 ;
+    rdfs:label "Quote Of The Day"@en .
+
+wd:Q3301850 a wd:Q15836568 ;
+    rdfs:label "FINS"@en .
+
+wd:Q33026736 a wd:Q132364 ;
+    rdfs:label "Q33026736"^^xsd:string .
+
+wd:Q3304290 a wd:Q15836568 ;
+    rdfs:label "alternating bit protocol"@en .
+
+wd:Q3318099 a wd:Q317623 ;
+    rdfs:label "CALS Table Model"@en .
+
+wd:Q3327665 a wd:Q15836568 ;
+    rdfs:label "Multicast Listener Discovery"@en .
+
+wd:Q3334371 a wd:Q317623 ;
+    rdfs:label "NF EN 10219"@en .
+
+wd:Q333914 a wd:Q317623 ;
+    rdfs:label "DDR SDRAM"@en .
+
+wd:Q33428037 a wd:Q6046311 ;
+    rdfs:label "USB 3.2"@en .
+
+wd:Q3347508 a wd:Q15836568 ;
+    rdfs:label "OCARI"@en .
+
+wd:Q3347532 a wd:Q132364 ;
+    rdfs:label "ODMRP"@en .
+
+wd:Q3347598 a wd:Q132364 ;
+    rdfs:label "OMA Device Management"@en .
+
+wd:Q337765 a wd:Q6046311 ;
+    rdfs:label "Digital Visual Interface"@en .
+
+wd:Q339953 a wd:Q6046311 ;
+    rdfs:label "Infrared Data Association"@en .
+
+wd:Q340199 a wd:Q15836568 ;
+    rdfs:label "Service Advertising Protocol"@en .
+
+wd:Q3407575 a wd:Q15836568 ;
+    rdfs:label "Propriety Access Protocol Interface"@en .
+
+wd:Q3408063 a wd:Q132364 ;
+    rdfs:label "UPnP protocol"@en .
+
+wd:Q3416527 a wd:Q317623 ;
+    rdfs:label "RadioDNS"@en .
+
+wd:Q3423626 a wd:Q132364 ;
+    rdfs:label "Registration, Admission and Status"@en .
+
+wd:Q3424324 a wd:Q132364 ;
+    rdfs:label "Reliable Asynchronous Transfer Protocol"@en .
+
+wd:Q3424326 a wd:Q15836568 ;
+    rdfs:label "Reliable Event Logging Protocol"@en .
+
+wd:Q3439129 a wd:Q317623 ;
+    rdfs:label "IT Grade"@en .
+
+wd:Q3454937 a wd:Q317623 ;
+    rdfs:label "Q3454937"^^xsd:string .
+
+wd:Q3456890 a wd:Q15836568 ;
+    rdfs:label "Optical mesh network"@en .
+
+wd:Q3459275 a wd:Q317623 ;
+    rdfs:label "Q3459275"^^xsd:string .
+
+wd:Q3459645 a wd:Q132364 ;
+    rdfs:label "Q3459645"^^xsd:string .
+
+wd:Q3475322 a wd:Q317623 ;
+    rdfs:label "Schema.org"@en .
+
+wd:Q3477573 a wd:Q15836568 ;
+    rdfs:label "Secure Neighbor Discovery Protocol"@en .
+
+wd:Q3484689 a wd:Q15836568 ;
+    rdfs:label "Simple Certificate Enrollment Protocol"@en .
+
+wd:Q3500209 a wd:Q132364 ;
+    rdfs:label "Streaming Text Oriented Messaging Protocol"@en .
+
+wd:Q3510991 a wd:Q317623 ;
+    rdfs:label "ISO 31-11"@en .
+
+wd:Q3511884 a wd:Q15836568 ;
+    rdfs:label "T-MPLS"@en .
+
+wd:Q3542129 a wd:Q15836568 ;
+    rdfs:label "Tunnel Setup Protocol"@en .
+
+wd:Q354639 a wd:Q317623 ;
+    rdfs:label "Minolta SR-mount"@en .
+
+wd:Q3547335 a wd:Q132364 ;
+    rdfs:label "USB Attached SCSI"@en .
+
+wd:Q3551269 a wd:Q132364 ;
+    rdfs:label "Universal Alcatel"@en .
+
+wd:Q3556164 a wd:Q15836568 ;
+    rdfs:label "Verse protocol"@en .
+
+wd:Q3560846 a wd:Q132364 ;
+    rdfs:label "Virtual Instrument Software Architecture"@en .
+
+wd:Q3564791 a wd:Q317623 ;
+    rdfs:label "WS-Management"@en .
+
+wd:Q3565214 a wd:Q132364 ;
+    rdfs:label "Q3565214"^^xsd:string .
+
+wd:Q3570320 a wd:Q132364 ;
+    rdfs:label "XOT"@en .
+
+wd:Q3570429 a wd:Q132364 ;
+    rdfs:label "xPL"@en .
+
+wd:Q3601107 a wd:Q15836568 ;
+    rdfs:label "Application Exchange"@en .
+
+wd:Q363918 a wd:Q132364 ;
+    rdfs:label "IBM Advanced Peer-to-Peer Networking"@en .
+
+wd:Q368491 a wd:Q132364 ;
+    rdfs:label "Yamaha XG"@en .
+
+wd:Q370344 a wd:Q317623 ;
+    rdfs:label "Open Publication Distribution System Catalog"@en .
+
+wd:Q3708936 a wd:Q132364 ;
+    rdfs:label "Direct Anonymous Attestation"@en .
+
+wd:Q3710219 a wd:Q317623 ;
+    rdfs:label "DisplayID"@en .
+
+wd:Q3715386 a wd:Q317623 ;
+    rdfs:label "drive bay"@en .
+
+wd:Q3717351 a wd:Q132364 ;
+    rdfs:label "European Home Systems Protocol"@en .
+
+wd:Q3717424 a wd:Q317623 ;
+    rdfs:label "Q3717424"^^xsd:string .
+
+wd:Q3735943 a wd:Q6046311 ;
+    rdfs:label "USB 3.0"@en .
+
+wd:Q3756209 a wd:Q15836568 ;
+    rdfs:label "GNUnet protocol"@en .
+
+wd:Q376827 a wd:Q15836568 ;
+    rdfs:label "Fibre Channel"@en .
+
+wd:Q378400 a wd:Q15836568 ;
+    rdfs:label "Q378400"^^xsd:string .
+
+wd:Q3791520 a wd:Q317623 ;
+    rdfs:label "Ias 40"@en .
+
+wd:Q379598 a wd:Q317623 ;
+    rdfs:label "Advanced Host Controller Interface"@en .
+
+wd:Q379626 a wd:Q15836568 ;
+    rdfs:label "Advanced Message Queuing Protocol"@en .
+
+wd:Q379630 a wd:Q317623 ;
+    rdfs:label "Advanced Microcontroller Bus Architecture"@en .
+
+wd:Q379698 a wd:Q132364 ;
+    rdfs:label "IBM Advanced Program-to-Program Communication"@en .
+
+wd:Q380248 a wd:Q317623 ;
+    rdfs:label "FREMO"@en .
+
+wd:Q3823050 a wd:Q15836568 ;
+    rdfs:label "XCAST"@en .
+
+wd:Q386433 a wd:Q132364 ;
+    rdfs:label "Standard Commands for Programmable Instruments"@en .
+
+wd:Q3877327 a wd:Q15836568 ;
+    rdfs:label "NIS+"@en .
+
+wd:Q388514 a wd:Q132364 ;
+    rdfs:label "SERCOS interface"@en .
+
+wd:Q3887849 a wd:Q132364 ;
+    rdfs:label "P-Bus"@en .
+
+wd:Q3888133 a wd:Q15836568 ;
+    rdfs:label "Private Network-to-Network Interface"@en .
+
+wd:Q388976 a wd:Q317623 ;
+    rdfs:label "Desktop Management Interface"@en .
+
+wd:Q3912026 a wd:Q317623 ;
+    rdfs:label "CODA"@en .
+
+wd:Q392501 a wd:Q15836568 ;
+    rdfs:label "AppleShare"@en .
+
+wd:Q392682 a wd:Q15836568 ;
+    rdfs:label "Agent Extensibility Protocol"@en .
+
+wd:Q3932317 a wd:Q15836568 ;
+    rdfs:label "Reliable Datagram Sockets"@en .
+
+wd:Q39748823 a wd:Q132364 ;
+    rdfs:label "pserver"@en .
+
+wd:Q4033037 a wd:Q317623 ;
+    rdfs:label "ANSI T1.413 Issue 2"@en .
+
+wd:Q4033419 a wd:Q15836568 ;
+    rdfs:label "Advanced Direct Connect"@en .
+
+wd:Q4034229 a wd:Q15836568 ;
+    rdfs:label "Application Configuration Access Protocol"@en .
+
+wd:Q4035118 a wd:Q15836568 ;
+    rdfs:label "binkp"@en .
+
+wd:Q4035618 a wd:Q15836568 ;
+    rdfs:label "Character Generator Protocol"@en .
+
+wd:Q4036853 a wd:Q132364 ;
+    rdfs:label "DCAP"@en .
+
+wd:Q4037349 a wd:Q317623 ;
+    rdfs:label "DSS"@en .
+
+wd:Q4037821 a wd:Q15836568 ;
+    rdfs:label "Ethernet Ring Protection Switching"@en .
+
+wd:Q4041022 a wd:Q15836568 ;
+    rdfs:label "Ipsilon Flow Management Protocol"@en .
+
+wd:Q4041065 a wd:Q15836568 ;
+    rdfs:label "Internet Link"@en .
+
+wd:Q4041086 a wd:Q15836568 ;
+    rdfs:label "IP Payload Compression Protocol"@en .
+
+wd:Q4041110 a wd:Q317623 ;
+    rdfs:label "ISO 20121"@en .
+
+wd:Q4043384 a wd:Q15836568 ;
+    rdfs:label "Multicast Address Resolution Server"@en .
+
+wd:Q4044635 a wd:Q15836568 ;
+    rdfs:label "Multicast File Transfer Protocol"@en .
+
+wd:Q4044647 a wd:Q15836568 ;
+    rdfs:label "Multisource File Transfer Protocol"@en .
+
+wd:Q4044950 a wd:Q317623 ;
+    rdfs:label "National Information Exchange Model"@en .
+
+wd:Q4045009 a wd:Q15836568 ;
+    rdfs:label "NWLink"@en .
+
+wd:Q4045250 a wd:Q15836568 ;
+    rdfs:label "Netgear NSDP"@en .
+
+wd:Q4045918 a wd:Q15836568 ;
+    rdfs:label "OpenFlow"@en .
+
+wd:Q4046206 a wd:Q317623 ;
+    rdfs:label "Public Key Cryptography Standard 11"@en .
+
+wd:Q40463886 a wd:Q15836568 ;
+    rdfs:label "ActivityPub"@en .
+
+wd:Q4048160 a wd:Q132364 ;
+    rdfs:label "Relational Interface System"@en .
+
+wd:Q4048801 a wd:Q317623 ;
+    rdfs:label "System Management BIOS"@en .
+
+wd:Q4048817 a wd:Q15836568 ;
+    rdfs:label "Simple Network Time Protocol"@en .
+
+wd:Q4048869 a wd:Q132364 ;
+    rdfs:label "SPX"@en .
+
+wd:Q4052727 a wd:Q15836568 ;
+    rdfs:label "Virtual Leased Line"@en .
+
+wd:Q4052911 a wd:Q132364 ;
+    rdfs:label "Wireless transaction protocol"@en .
+
+wd:Q4053295 a wd:Q317623 ;
+    rdfs:label "XHTML 2.0"@en .
+
+wd:Q40550813 a wd:Q317623 ;
+    rdfs:label "Distributed Relational Database Architecture"@en .
+
+wd:Q406668 a wd:Q15836568 ;
+    rdfs:label "AirPlay"@en .
+
+wd:Q4075657 a wd:Q317623 ;
+    rdfs:label "Sigma SA mount"@en .
+
+wd:Q4223096 a wd:Q317623 ;
+    rdfs:label "Water pollution classification (former Soviet Union)"@en .
+
+wd:Q42253 a wd:Q317623 ;
+    rdfs:label "Uniform Resource Locator"@en .
+
+wd:Q42283 a wd:Q15836568 ;
+    rdfs:label "File Transfer Protocol"@en .
+
+wd:Q42378 a wd:Q6046311 ;
+    rdfs:label "Universal Serial Bus"@en .
+
+wd:Q4246892 a wd:Q317623 ;
+    rdfs:label "ISO 31-4"@en .
+
+wd:Q4260622 a wd:Q15836568 ;
+    rdfs:label "VoFR"@en .
+
+wd:Q428822 a wd:Q317623 ;
+    rdfs:label "Unified numbering system"@en .
+
+wd:Q428933 a wd:Q15836568 ;
+    rdfs:label "STUN"@en .
+
+wd:Q4299356 a wd:Q317623 ;
+    rdfs:label "SA-482 seismic impact model"@en .
+
+wd:Q4302084 a wd:Q317623 ;
+    rdfs:label "Broadcast Exchange Format"@en .
+
+wd:Q43024 a wd:Q317623 ;
+    rdfs:label "Short Message Service"@en .
+
+wd:Q4340276 a wd:Q317623 ;
+    rdfs:label "Q4340276"^^xsd:string .
+
+wd:Q4356555 a wd:Q15836568 ;
+    rdfs:label "Chaosnet"@en .
+
+wd:Q440470 a wd:Q15836568 ;
+    rdfs:label "Echo Protocol"@en .
+
+wd:Q44299010 a wd:Q317623 ;
+    rdfs:label "DTS"@en .
+
+wd:Q44484 a wd:Q15836568 ;
+    rdfs:label "HTTPS"@en .
+
+wd:Q446400 a wd:Q15836568 ;
+    rdfs:label "Binary Synchronous Communications"@en .
+
+wd:Q455017 a wd:Q317623 ;
+    rdfs:label "IBM Common User Access"@en .
+
+wd:Q455726 a wd:Q317623 ;
+    rdfs:label "Web-Based Enterprise Management"@en .
+
+wd:Q458152 a wd:Q132364 ;
+    rdfs:label "Consumer Electronics Bus"@en .
+
+wd:Q462571 a wd:Q15836568 ;
+    rdfs:label "Sockets Direct Protocol"@en .
+
+wd:Q4634039 a wd:Q15836568 ;
+    rdfs:label "3+Share"@en .
+
+wd:Q46346792 a wd:Q132364 ;
+    rdfs:label "SmartWire-DT"@en .
+
+wd:Q4650340 a wd:Q317623 ;
+    rdfs:label "ABNT NBR 15603"@en .
+
+wd:Q4650341 a wd:Q317623 ;
+    rdfs:label "ABNT NBR 15604"@en .
+
+wd:Q4650343 a wd:Q317623 ;
+    rdfs:label "ABNT NBR 15605"@en .
+
+wd:Q4650344 a wd:Q317623 ;
+    rdfs:label "ABNT NBR 15606"@en .
+
+wd:Q4650345 a wd:Q317623 ;
+    rdfs:label "ABNT NBR 15607"@en .
+
+wd:Q4650346 a wd:Q317623 ;
+    rdfs:label "ABNT NBR 15608"@en .
+
+wd:Q4651354 a wd:Q317623 ;
+    rdfs:label "AES51"@en .
+
+wd:Q4651355 a wd:Q317623 ;
+    rdfs:label "AES47"@en .
+
+wd:Q4651356 a wd:Q317623 ;
+    rdfs:label "AES53"@en .
+
+wd:Q4651357 a wd:Q317623 ;
+    rdfs:label "AES52"@en .
+
+wd:Q465141 a wd:Q15836568 ;
+    rdfs:label "Path MTU Discovery"@en .
+
+wd:Q4652255 a wd:Q132364 ;
+    rdfs:label "ALCAP"@en .
+
+wd:Q4652752 a wd:Q15836568 ;
+    rdfs:label "AMX192"@en .
+
+wd:Q4653886 a wd:Q317623 ;
+    rdfs:label "ARP4761"@en .
+
+wd:Q4653887 a wd:Q15836568 ;
+    rdfs:label "ARPA Host Name Server Protocol"@en .
+
+wd:Q4654022 a wd:Q317623 ;
+    rdfs:label "AS9000"@en .
+
+wd:Q4655183 a wd:Q317623 ;
+    rdfs:label "AXIe"@en .
+
+wd:Q4662794 a wd:Q317623 ;
+    rdfs:label "Aaton universal"@en .
+
+wd:Q4678065 a wd:Q317623 ;
+    rdfs:label "Ad-ID"@en .
+
+wd:Q4716225 a wd:Q317623 ;
+    rdfs:label "Alert Standard Format"@en .
+
+wd:Q474356 a wd:Q317623 ;
+    rdfs:label "QVT"@en .
+
+wd:Q47468094 a wd:Q132364 ;
+    rdfs:label "Janus"@en .
+
+wd:Q4787089 a wd:Q15836568 ;
+    rdfs:label "Architecture for Control Networks"@en .
+
+wd:Q4795957 a wd:Q317623 ;
+    rdfs:label "Arri standard"@en .
+
+wd:Q4795959 a wd:Q317623 ;
+    rdfs:label "Arri bayonet"@en .
+
+wd:Q4811677 a wd:Q317623 ;
+    rdfs:label "Astronomy Visualization Metadata"@en .
+
+wd:Q4812193 a wd:Q132364 ;
+    rdfs:label "Asynchronous Connection-Less"@en .
+
+wd:Q4812196 a wd:Q15836568 ;
+    rdfs:label "Asynchronous Layered Coding"@en .
+
+wd:Q4822477 a wd:Q132364 ;
+    rdfs:label "Aurora"@en .
+
+wd:Q4824213 a wd:Q317623 ;
+    rdfs:label "Australian Government Locator Service"@en .
+
+wd:Q4826616 a wd:Q15836568 ;
+    rdfs:label "automatically switched optical network"@en .
+
+wd:Q4827433 a wd:Q15836568 ;
+    rdfs:label "Available Bit Rate"@en .
+
+wd:Q4832972 a wd:Q15836568 ;
+    rdfs:label "Cell relay"@en .
+
+wd:Q4835714 a wd:Q15836568 ;
+    rdfs:label "BIP-8"@en .
+
+wd:Q4836627 a wd:Q132364 ;
+    rdfs:label "BSSGP"@en .
+
+wd:Q4836650 a wd:Q317623 ;
+    rdfs:label "BS 857"@en .
+
+wd:Q4836998 a wd:Q15836568 ;
+    rdfs:label "B protocol"@en .
+
+wd:Q4854765 a wd:Q15836568 ;
+    rdfs:label "Bandwidth allocation protocol"@en .
+
+wd:Q485544 a wd:Q317623 ;
+    rdfs:label "CinemaScope"@en .
+
+wd:Q48728987 a wd:Q317623 ;
+    rdfs:label "BharatQR"@en .
+
+wd:Q48739515 a wd:Q317623 ;
+    rdfs:label "U.2"@en .
+
+wd:Q48739717 a wd:Q15836568 ;
+    rdfs:label "Reliable Data Protocol"@en .
+
+wd:Q48940 a wd:Q317623 ;
+    rdfs:label "RDF/XML"@en .
+
+wd:Q49001355 a wd:Q317623 ;
+    rdfs:label "Brain Imaging Data Structure"@en .
+
+wd:Q490239 a wd:Q317623 ;
+    rdfs:label "Storage Management Initiative – Specification"@en .
+
+wd:Q4913907 a wd:Q15836568 ;
+    rdfs:label "Binary protocol"@en .
+
+wd:Q49150 a wd:Q15836568 ;
+    rdfs:label "Remote Desktop Protocol"@en .
+
+wd:Q4942109 a wd:Q15836568 ;
+    rdfs:label "Bonjour Sleep Proxy"@en .
+
+wd:Q494240 a wd:Q317623 ;
+    rdfs:label "International Standard Archival Authority Record"@en .
+
+wd:Q4944567 a wd:Q15836568 ;
+    rdfs:label "Border Gateway Multicast Protocol"@en .
+
+wd:Q495284 a wd:Q317623 ;
+    rdfs:label "Compound Document Format"@en .
+
+wd:Q496579 a wd:Q317623 ;
+    rdfs:label "OpenMP"@en .
+
+wd:Q49667 a wd:Q132364 ;
+    rdfs:label "Gnutella"@en .
+
+wd:Q497452 a wd:Q15836568 ;
+    rdfs:label "NAT Port Mapping Protocol"@en .
+
+wd:Q5001960 a wd:Q317623 ;
+    rdfs:label "Business valuation standard"@en .
+
+wd:Q5005867 a wd:Q15836568 ;
+    rdfs:label "C-Bus"@en .
+
+wd:Q5008769 a wd:Q15836568 ;
+    rdfs:label "CAPWAP"@en .
+
+wd:Q5009671 a wd:Q317623 ;
+    rdfs:label "CCOW"@en .
+
+wd:Q5009712 a wd:Q317623 ;
+    rdfs:label "CCSDS 122.0-B-1"@en .
+
+wd:Q5009717 a wd:Q15836568 ;
+    rdfs:label "Computing and Communications Services Office Nameserver protocol"@en .
+
+wd:Q5009917 a wd:Q317623 ;
+    rdfs:label "CDDLM"@en .
+
+wd:Q5011746 a wd:Q132364 ;
+    rdfs:label "CIMD"@en .
+
+wd:Q5013841 a wd:Q15836568 ;
+    rdfs:label "CRC-based framing"@en .
+
+wd:Q5014137 a wd:Q132364 ;
+    rdfs:label "CSIv2"@en .
+
+wd:Q5014189 a wd:Q317623 ;
+    rdfs:label "CSN.1"@en .
+
+wd:Q5015956 a wd:Q15836568 ;
+    rdfs:label "Cache Discovery Protocol"@en .
+
+wd:Q50322163 a wd:Q317623 ;
+    rdfs:label "RDF/JSON"@en .
+
+wd:Q5038182 a wd:Q15836568 ;
+    rdfs:label "CardDAV"@en .
+
+wd:Q5042307 a wd:Q15836568 ;
+    rdfs:label "Message Session Relay Protocol"@en .
+
+wd:Q506053 a wd:Q15836568 ;
+    rdfs:label "Kerberos"@en .
+
+wd:Q507673 a wd:Q317623 ;
+    rdfs:label "RDFa"@en .
+
+wd:Q50817950 a wd:Q317623 ;
+    rdfs:label "Q50817950"^^xsd:string .
+
+wd:Q50826096 a wd:Q15836568 ;
+    rdfs:label "DNS over HTTPS"@en .
+
+wd:Q5099795 a wd:Q317623 ;
+    rdfs:label "China Multimedia Mobile Broadcasting"@en .
+
+wd:Q51052 a wd:Q15836568 ;
+    rdfs:label "HTTP Speed+Mobility"@en .
+
+wd:Q51139288 a wd:Q317623 ;
+    rdfs:label "NFPA 704: Standard System for the Identification of the Hazards of Materials for Emergency Response"@en .
+
+wd:Q5135661 a wd:Q317623 ;
+    rdfs:label "Cloud Data Management Interface"@en .
+
+wd:Q5141353 a wd:Q15836568 ;
+    rdfs:label "Coherent File Distribution Protocol"@en .
+
+wd:Q5149224 a wd:Q15836568 ;
+    rdfs:label "Coloured Book protocols"@en .
+
+wd:Q51495611 a wd:Q317623 ;
+    rdfs:label "The International Transfer Format (ITF) for botanic garden plant records. Version 01.00"@en .
+
+wd:Q5153395 a wd:Q15836568 ;
+    rdfs:label "Common Indexing Protocol"@en .
+
+wd:Q5153399 a wd:Q15836568 ;
+    rdfs:label "Common Industrial Protocol"@en .
+
+wd:Q5153429 a wd:Q317623 ;
+    rdfs:label "Common Manageability Programming Interface"@en .
+
+wd:Q5162129 a wd:Q317623 ;
+    rdfs:label "Conodont Alteration Index"@en .
+
+wd:Q5164354 a wd:Q15836568 ;
+    rdfs:label "Constrained Application Protocol"@en .
+
+wd:Q5164363 a wd:Q15836568 ;
+    rdfs:label "Constraint-based Routing Label Distribution Protocol"@en .
+
+wd:Q5165063 a wd:Q317623 ;
+    rdfs:label "Content Assembly Mechanism"@en .
+
+wd:Q5170131 a wd:Q15836568 ;
+    rdfs:label "Core-based trees"@en .
+
+wd:Q51731363 a wd:Q15836568 ;
+    rdfs:label "Point-to-Point Protocol over AAL2"@en .
+
+wd:Q51817 a wd:Q15836568 ;
+    rdfs:label "Synchronous Digital Hierarchy"@en .
+
+wd:Q51823 a wd:Q15836568,
+        wd:Q317623 ;
+    rdfs:label "synchronous optical networking"@en .
+
+wd:Q51831600 a wd:Q317623 ;
+    rdfs:label "Q51831600"^^xsd:string .
+
+wd:Q51883861 a wd:Q317623 ;
+    rdfs:label "Audubon Core"@en .
+
+wd:Q51883899 a wd:Q317623 ;
+    rdfs:label "Globally Unique Identifiers Applicability Statement"@en .
+
+wd:Q51883957 a wd:Q317623 ;
+    rdfs:label "Life Sciences Identifier Applicability Statement"@en .
+
+wd:Q51883967 a wd:Q317623 ;
+    rdfs:label "TDWG Access Protocol for Information Retrieval"@en .
+
+wd:Q5204145 a wd:Q15836568 ;
+    rdfs:label "D54"@en .
+
+wd:Q5204327 a wd:Q132364 ;
+    rdfs:label "DASS2"@en .
+
+wd:Q5205115 a wd:Q132364 ;
+    rdfs:label "DIIOP"@en .
+
+wd:Q5205171 a wd:Q132364 ;
+    rdfs:label "DIXIE"@en .
+
+wd:Q5205827 a wd:Q317623 ;
+    rdfs:label "DO-178C"@en .
+
+wd:Q5205829 a wd:Q317623 ;
+    rdfs:label "DO-232"@en .
+
+wd:Q5205830 a wd:Q317623 ;
+    rdfs:label "DO-242A"@en .
+
+wd:Q5205832 a wd:Q317623 ;
+    rdfs:label "DO-248B"@en .
+
+wd:Q5205851 a wd:Q317623 ;
+    rdfs:label "DOD-STD-2167A"@en .
+
+wd:Q5206043 a wd:Q15836568 ;
+    rdfs:label "DREAM"@en .
+
+wd:Q52061056 a wd:Q15836568 ;
+    rdfs:label "DNS over TLS"@en .
+
+wd:Q5207124 a wd:Q317623 ;
+    rdfs:label "D mount"@en .
+
+wd:Q521568 a wd:Q317623 ;
+    rdfs:label "Global Trade Item Number"@en .
+
+wd:Q522 a wd:Q15836568 ;
+    rdfs:label "Hyper Text Coffee Pot Control Protocol"@en .
+
+wd:Q52233158 a wd:Q15836568 ;
+    rdfs:label "WebTorrent"@en .
+
+wd:Q5225953 a wd:Q317623 ;
+    rdfs:label "Darwin Core"@en .
+
+wd:Q5227221 a wd:Q15836568 ;
+    rdfs:label "Data Stream Interface"@en .
+
+wd:Q5227439 a wd:Q15836568 ;
+    rdfs:label "Datakit"@en .
+
+wd:Q52415 a wd:Q132364 ;
+    rdfs:label "Link Capacity Adjustment Scheme"@en .
+
+wd:Q52417 a wd:Q15836568 ;
+    rdfs:label "MPLS-TP"@en .
+
+wd:Q525892 a wd:Q15836568 ;
+    rdfs:label "Network Information Service"@en .
+
+wd:Q5263780 a wd:Q317623 ;
+    rdfs:label "Describing Archives: A Content Standard"@en .
+
+wd:Q5264258 a wd:Q317623 ;
+    rdfs:label "Design Criteria Standard for Electronic Records Management Software Applications"@en .
+
+wd:Q5264573 a wd:Q317623 ;
+    rdfs:label "Desktop and mobile Architecture for System Hardware"@en .
+
+wd:Q5275867 a wd:Q317623 ;
+    rdfs:label "Digital Geographic Exchange Standard"@en .
+
+wd:Q5275961 a wd:Q15836568 ;
+    rdfs:label "Digital Private Network Signalling System"@en .
+
+wd:Q5275988 a wd:Q132364 ;
+    rdfs:label "Digital Signal Interface"@en .
+
+wd:Q5275991 a wd:Q317623 ;
+    rdfs:label "Digital Signature Services"@en .
+
+wd:Q5277963 a wd:Q317623 ;
+    rdfs:label "Q5277963"^^xsd:string .
+
+wd:Q5281417 a wd:Q15836568 ;
+    rdfs:label "Discard Protocol"@en .
+
+wd:Q5282628 a wd:Q132364 ;
+    rdfs:label "DisplayML"@en .
+
+wd:Q5283144 a wd:Q15836568 ;
+    rdfs:label "Distributed data flow"@en .
+
+wd:Q5321402 a wd:Q317623 ;
+    rdfs:label "e-GMS"@en .
+
+wd:Q5322503 a wd:Q132364 ;
+    rdfs:label "EAIF"@en .
+
+wd:Q5322822 a wd:Q132364 ;
+    rdfs:label "Enhanced Digital Access Communication System"@en .
+
+wd:Q5323007 a wd:Q15836568 ;
+    rdfs:label "EFTP"@en .
+
+wd:Q5323762 a wd:Q317623 ;
+    rdfs:label "EN 206+A1"@en .
+
+wd:Q5323764 a wd:Q317623 ;
+    rdfs:label "EN 3"@en .
+
+wd:Q5324045 a wd:Q15836568 ;
+    rdfs:label "ERIPAX"@en .
+
+wd:Q5324052 a wd:Q132364 ;
+    rdfs:label "ERMES"@en .
+
+wd:Q533123 a wd:Q132364 ;
+    rdfs:label "Profibus"@en .
+
+wd:Q535307 a wd:Q317623 ;
+    rdfs:label "Java Portlet Specification"@en .
+
+wd:Q536775 a wd:Q317623 ;
+    rdfs:label "NMEA 0183"@en .
+
+wd:Q53755957 a wd:Q15836568 ;
+    rdfs:label "Git Wire Protocol"@en .
+
+wd:Q53755989 a wd:Q132364 ;
+    rdfs:label "Git Wire Protocol, version 1"@en .
+
+wd:Q53756006 a wd:Q132364 ;
+    rdfs:label "Git Wire Protocol, version 2"@en .
+
+wd:Q5376584 a wd:Q15836568 ;
+    rdfs:label "Endpoint Handlespace Redundancy Protocol"@en .
+
+wd:Q5403349 a wd:Q15836568 ;
+    rdfs:label "Ethernet Automatic Protection Switching"@en .
+
+wd:Q5409763 a wd:Q317623 ;
+    rdfs:label "Q5409763"^^xsd:string .
+
+wd:Q5413516 a wd:Q317623 ;
+    rdfs:label "European grid"@en .
+
+wd:Q5424691 a wd:Q317623 ;
+    rdfs:label "FBus"@en .
+
+wd:Q5426921 a wd:Q132364 ;
+    rdfs:label "Fido Opus SEAdog Standard Interface Layer"@en .
+
+wd:Q5426987 a wd:Q317623 ;
+    rdfs:label "FPD-Link"@en .
+
+wd:Q5427102 a wd:Q317623 ;
+    rdfs:label "FS-1015"@en .
+
+wd:Q5427103 a wd:Q317623 ;
+    rdfs:label "FS-1016"@en .
+
+wd:Q5427265 a wd:Q15836568 ;
+    rdfs:label "FUDI"@en .
+
+wd:Q5440438 a wd:Q317623 ;
+    rdfs:label "Federal Standard 1037C"@en .
+
+wd:Q545306 a wd:Q317623 ;
+    rdfs:label "Joint Test Action Group"@en .
+
+wd:Q54889034 a wd:Q317623 ;
+    rdfs:label "Labelling of Workplace Hazardous Chemicals. Code of Practice"@en .
+
+wd:Q54930433 a wd:Q317623 ;
+    rdfs:label "INCITS country code"@en .
+
+wd:Q5502646 a wd:Q317623 ;
+    rdfs:label "French standard size for oil paintings"@en .
+
+wd:Q5507381 a wd:Q317623 ;
+    rdfs:label "Fujica X-mount"@en .
+
+wd:Q55078019 a wd:Q317623 ;
+    rdfs:label "PostScript core fonts"@en .
+
+wd:Q5513773 a wd:Q132364 ;
+    rdfs:label "GMLAN"@en .
+
+wd:Q5514016 a wd:Q15836568 ;
+    rdfs:label "Genealogy Network Transfer Protocol"@en .
+
+wd:Q5514308 a wd:Q132364 ;
+    rdfs:label "GPRP"@en .
+
+wd:Q55183258 a wd:Q317623 ;
+    rdfs:label "ECMA-262"@en .
+
+wd:Q55185513 a wd:Q317623 ;
+    rdfs:label "ECMA-262 8th edition"@en .
+
+wd:Q5527193 a wd:Q15836568 ;
+    rdfs:label "Gateway-to-Gateway Protocol"@en .
+
+wd:Q55317662 a wd:Q317623 ;
+    rdfs:label "Terminology of Man-made Fibres"@en .
+
+wd:Q55320 a wd:Q132364 ;
+    rdfs:label "delay-tolerant networking"@en .
+
+wd:Q5532450 a wd:Q15836568 ;
+    rdfs:label "Generalized Multi-Protocol Label Switching"@en .
+
+wd:Q55408718 a wd:Q317623 ;
+    rdfs:label "Solid"@en .
+
+wd:Q55590381 a wd:Q317623 ;
+    rdfs:label "Act nº 263/2001 of Anatel"@en .
+
+wd:Q55603253 a wd:Q15836568 ;
+    rdfs:label "ads.txt protocol"@en .
+
+wd:Q55611178 a wd:Q317623 ;
+    rdfs:label "Eurorack"@en .
+
+wd:Q55621562 a wd:Q317623 ;
+    rdfs:label "I3C"@en .
+
+wd:Q556402 a wd:Q15836568 ;
+    rdfs:label "Subnetwork Access Protocol"@en .
+
+wd:Q55715515 a wd:Q317623 ;
+    rdfs:label "EN 10088"@en .
+
+wd:Q55786330 a wd:Q317623 ;
+    rdfs:label "Product Licence Number"@en .
+
+wd:Q5583898 a wd:Q15836568 ;
+    rdfs:label "Google Wave Federation Protocol"@en .
+
+wd:Q55872320 a wd:Q317623 ;
+    rdfs:label "Act nº 86/1998 of Anatel"@en .
+
+wd:Q5608569 a wd:Q15836568 ;
+    rdfs:label "GridFTP"@en .
+
+wd:Q56120131 a wd:Q317623 ;
+    rdfs:label "USB Power Delivery"@en .
+
+wd:Q56240413 a wd:Q317623 ;
+    rdfs:label "Nikon Z-mount"@en .
+
+wd:Q56246717 a wd:Q132364 ;
+    rdfs:label "Q56246717"^^xsd:string .
+
+wd:Q56255286 a wd:Q6046311 ;
+    rdfs:label "VirtualLink"@en .
+
+wd:Q5629402 a wd:Q317623 ;
+    rdfs:label "HDcctv"@en .
+
+wd:Q5629524 a wd:Q15836568 ;
+    rdfs:label "HFTP"@en .
+
+wd:Q56297159 a wd:Q132364 ;
+    rdfs:label "Q56297159"^^xsd:string .
+
+wd:Q56351951 a wd:Q15836568 ;
+    rdfs:label "RESTCONF"@en .
+
+wd:Q5635299 a wd:Q132364 ;
+    rdfs:label "HNBAP"@en .
+
+wd:Q5636141 a wd:Q15836568 ;
+    rdfs:label "HTTPsec"@en .
+
+wd:Q5636179 a wd:Q132364 ;
+    rdfs:label "Human User Interface Protocol"@en .
+
+wd:Q5636226 a wd:Q317623 ;
+    rdfs:label "HVLAN"@en .
+
+wd:Q564329 a wd:Q15836568 ;
+    rdfs:label "WebDAV"@en .
+
+wd:Q56487870 a wd:Q317623 ;
+    rdfs:label "Canon RF mount"@en .
+
+wd:Q56598136 a wd:Q317623 ;
+    rdfs:label "Unicode Standard 6.0"@en .
+
+wd:Q56683162 a wd:Q317623 ;
+    rdfs:label "Q56683162"^^xsd:string .
+
+wd:Q5674013 a wd:Q317623 ;
+    rdfs:label "Hart's Rules"@en .
+
+wd:Q5683617 a wd:Q317623 ;
+    rdfs:label "Q5683617"^^xsd:string .
+
+wd:Q56860833 a wd:Q317623 ;
+    rdfs:label "Q56860833"^^xsd:string .
+
+wd:Q5692631 a wd:Q15836568 ;
+    rdfs:label "Heartbeat message"@en .
+
+wd:Q570315 a wd:Q15836568 ;
+    rdfs:label "Generic Routing Encapsulation"@en .
+
+wd:Q5715745 a wd:Q15836568 ;
+    rdfs:label "Bluetooth Networking Encapsulation Protocol"@en .
+
+wd:Q571846 a wd:Q15836568 ;
+    rdfs:label "FlexRay"@en .
+
+wd:Q5728074 a wd:Q317623 ;
+    rdfs:label "Q5728074"^^xsd:string .
+
+wd:Q57320613 a wd:Q317623 ;
+    rdfs:label "Q57320613"^^xsd:string .
+
+wd:Q57414995 a wd:Q317623 ;
+    rdfs:label "DO-138"@en .
+
+wd:Q5757509 a wd:Q317623 ;
+    rdfs:label "High bit rate digital subscriber line 2"@en .
+
+wd:Q5760100 a wd:Q15836568 ;
+    rdfs:label "Higig"@en .
+
+wd:Q57629619 a wd:Q317623 ;
+    rdfs:label "Extended Date/Time Format Specification"@en .
+
+wd:Q57629708 a wd:Q317623 ;
+    rdfs:label "Extended Date/Time Format 1.0"@en .
+
+wd:Q576997 a wd:Q15836568 ;
+    rdfs:label "Stream Control Transmission Protocol"@en .
+
+wd:Q58242899 a wd:Q317623 ;
+    rdfs:label "EN 10027 - Designation systems for steels"@en .
+
+wd:Q58462071 a wd:Q317623 ;
+    rdfs:label "ISO 8295"@en .
+
+wd:Q58462405 a wd:Q317623 ;
+    rdfs:label "ISO 604"@en .
+
+wd:Q58462678 a wd:Q317623 ;
+    rdfs:label "ISO 12107"@en .
+
+wd:Q5868034 a wd:Q317623 ;
+    rdfs:label "Q5868034"^^xsd:string .
+
+wd:Q58797190 a wd:Q15836568 ;
+    rdfs:label "HTTP/3"@en .
+
+wd:Q589352 a wd:Q15836568 ;
+    rdfs:label "DNP3"@en .
+
+wd:Q5898881 a wd:Q15836568 ;
+    rdfs:label "Hop-by-hop transport"@en .
+
+wd:Q5909221 a wd:Q15836568 ;
+    rdfs:label "Host Monitoring Protocol"@en .
+
+wd:Q590967 a wd:Q15836568 ;
+    rdfs:label "Whois"@en .
+
+wd:Q59208242 a wd:Q317623 ;
+    rdfs:label "Recommendations for rights information in metadata"@en .
+
+wd:Q59225931 a wd:Q317623 ;
+    rdfs:label "AAPG geologic provinces map"@en .
+
+wd:Q59260388 a wd:Q15836568 ;
+    rdfs:label "TN5250"@en .
+
+wd:Q5926686 a wd:Q317623 ;
+    rdfs:label "Q5926686"^^xsd:string .
+
+wd:Q5953152 a wd:Q15836568 ;
+    rdfs:label "Hybrid Wireless Mesh Protocol"@en .
+
+wd:Q595447 a wd:Q317623 ;
+    rdfs:label "Flat Display Mounting Interface"@en .
+
+wd:Q5968875 a wd:Q132364 ;
+    rdfs:label "IBM LU6.2"@en .
+
+wd:Q5970609 a wd:Q15836568 ;
+    rdfs:label "IF-MAP"@en .
+
+wd:Q5972101 a wd:Q132364 ;
+    rdfs:label "IMSP"@en .
+
+wd:Q5972216 a wd:Q15836568 ;
+    rdfs:label "IND$FILE"@en .
+
+wd:Q5973695 a wd:Q317623 ;
+    rdfs:label "IS-641"@en .
+
+wd:Q5973709 a wd:Q132364 ;
+    rdfs:label "ISA100.11a"@en .
+
+wd:Q5973899 a wd:Q317623 ;
+    rdfs:label "ISIRI 13138"@en .
+
+wd:Q5974188 a wd:Q317623 ;
+    rdfs:label "ISO 12620"@en .
+
+wd:Q5974315 a wd:Q317623 ;
+    rdfs:label "ISO 2788"@en .
+
+wd:Q5974320 a wd:Q317623 ;
+    rdfs:label "ISO 31-12"@en .
+
+wd:Q5974322 a wd:Q317623 ;
+    rdfs:label "ISO 31-13"@en .
+
+wd:Q5974329 a wd:Q317623 ;
+    rdfs:label "ISO 31-5"@en .
+
+wd:Q5974331 a wd:Q317623 ;
+    rdfs:label "ISO 31-6"@en .
+
+wd:Q5974333 a wd:Q317623 ;
+    rdfs:label "ISO 31-7"@en .
+
+wd:Q5974335 a wd:Q317623 ;
+    rdfs:label "ISO 31-8"@en .
+
+wd:Q5974495 a wd:Q317623 ;
+    rdfs:label "ISSOW"@en .
+
+wd:Q5975019 a wd:Q317623 ;
+    rdfs:label "ITU V.23"@en .
+
+wd:Q5975571 a wd:Q15836568 ;
+    rdfs:label "iWARP"@en .
+
+wd:Q59965890 a wd:Q317623 ;
+    rdfs:label "ECMA-262 9th edition"@en .
+
+wd:Q5999424 a wd:Q132364 ;
+    rdfs:label "XRT"@en .
+
+wd:Q6005615 a wd:Q317623 ;
+    rdfs:label "Peripheral Equipment Interface"@en .
+
+wd:Q6030978 a wd:Q132364 ;
+    rdfs:label "Information and Content Exchange"@en .
+
+wd:Q60330963 a wd:Q132364 ;
+    rdfs:label "Password Generator Protocol"@en .
+
+wd:Q603970 a wd:Q132364 ;
+    rdfs:label "Online Certificate Status Protocol"@en .
+
+wd:Q6044961 a wd:Q15836568 ;
+    rdfs:label "InterPlaNet"@en .
+
+wd:Q605045 a wd:Q317623 ;
+    rdfs:label "Ethernet over twisted pair"@en .
+
+wd:Q6055503 a wd:Q15836568 ;
+    rdfs:label "Internet Fibre Channel Protocol"@en .
+
+wd:Q6055568 a wd:Q15836568 ;
+    rdfs:label "Internet Listing Display"@en .
+
+wd:Q6055605 a wd:Q15836568 ;
+    rdfs:label "Internet Open Trading Protocol"@en .
+
+wd:Q6055620 a wd:Q15836568 ;
+    rdfs:label "Internet Protocol Device Control"@en .
+
+wd:Q6088589 a wd:Q15836568 ;
+    rdfs:label "Roland Ethernet Audio Communication"@en .
+
+wd:Q6108830 a wd:Q132364 ;
+    rdfs:label "JREAP"@en .
+
+wd:Q6108944 a wd:Q15836568 ;
+    rdfs:label "JSON-WSP"@en .
+
+wd:Q6116127 a wd:Q317623 ;
+    rdfs:label "SDR SDRAM"@en .
+
+wd:Q612640 a wd:Q15836568 ;
+    rdfs:label "Trivial File Transfer Protocol"@en .
+
+wd:Q613270 a wd:Q132364 ;
+    rdfs:label "Knowledge Query and Manipulation Language"@en .
+
+wd:Q6133840 a wd:Q15836568 ;
+    rdfs:label "Realm-Specific IP"@en .
+
+wd:Q6147132 a wd:Q15836568 ;
+    rdfs:label "Tinc"@en .
+
+wd:Q6165014 a wd:Q15836568 ;
+    rdfs:label "Java Remote Method Protocol"@en .
+
+wd:Q61651003 a wd:Q317623 ;
+    rdfs:label "Q61651003"^^xsd:string .
+
+wd:Q616778 a wd:Q15836568 ;
+    rdfs:label "ISO 15765-2"@en .
+
+wd:Q6168018 a wd:Q15836568 ;
+    rdfs:label "Wireless Datagram Protocol"@en .
+
+wd:Q616890 a wd:Q15836568 ;
+    rdfs:label "Apache JServ Protocol"@en .
+
+wd:Q61732429 a wd:Q317623 ;
+    rdfs:label "EN 15907"@en .
+
+wd:Q61745167 a wd:Q132364 ;
+    rdfs:label "JSON Meta Application Protocol"@en .
+
+wd:Q61771739 a wd:Q317623 ;
+    rdfs:label "American standard practice for inch-millimeter conversion for industrial use"@en .
+
+wd:Q617804 a wd:Q15836568 ;
+    rdfs:label "Point-to-Point Protocol over AAL5"@en .
+
+wd:Q620736 a wd:Q317623 ;
+    rdfs:label "ABNT NBR 15601"@en .
+
+wd:Q621185 a wd:Q15836568 ;
+    rdfs:label "AppleTalk Address Resolution Protocol"@en .
+
+wd:Q621187 a wd:Q15836568 ;
+    rdfs:label "AppleTalk Data Stream Protocol"@en .
+
+wd:Q621188 a wd:Q15836568 ;
+    rdfs:label "AppleTalk Echo Protocol"@en .
+
+wd:Q621189 a wd:Q15836568 ;
+    rdfs:label "AppleTalk Session Protocol"@en .
+
+wd:Q621190 a wd:Q15836568 ;
+    rdfs:label "AppleTalk Transaction Protocol"@en .
+
+wd:Q621240 a wd:Q15836568 ;
+    rdfs:label "Apple Filing Protocol"@en .
+
+wd:Q621530 a wd:Q15836568 ;
+    rdfs:label "SPDY"@en .
+
+wd:Q621595 a wd:Q317623 ;
+    rdfs:label "Application Response Measurement"@en .
+
+wd:Q623244 a wd:Q15836568 ;
+    rdfs:label "OPC Unified Architecture"@en .
+
+wd:Q62414839 a wd:Q132364 ;
+    rdfs:label "ShadowsocksR"@en .
+
+wd:Q625382 a wd:Q317623 ;
+    rdfs:label "Department of Defense Architecture Framework"@en .
+
+wd:Q629271 a wd:Q15836568 ;
+    rdfs:label "Direct Connect"@en .
+
+wd:Q630380 a wd:Q132364,
+        wd:Q317623 ;
+    rdfs:label "Wake-on-LAN"@en .
+
+wd:Q630697 a wd:Q317623 ;
+    rdfs:label "ABNT NBR 15602"@en .
+
+wd:Q63084966 a wd:Q15836568 ;
+    rdfs:label "Git Dumb HTTP"@en .
+
+wd:Q63085165 a wd:Q15836568 ;
+    rdfs:label "Git Smart HTTP"@en .
+
+wd:Q63085261 a wd:Q15836568 ;
+    rdfs:label "Git Smart HTTP over TLS"@en .
+
+wd:Q63085353 a wd:Q15836568 ;
+    rdfs:label "Git Dumb HTTP over TLS"@en .
+
+wd:Q63217017 a wd:Q317623 ;
+    rdfs:label "Linked Open Data"@en .
+
+wd:Q63379345 a wd:Q317623 ;
+    rdfs:label "GJB 5860-2006"@en .
+
+wd:Q63552561 a wd:Q317623 ;
+    rdfs:label "North American Stratigraphic Code"@en .
+
+wd:Q63683546 a wd:Q15836568 ;
+    rdfs:label "Mumble"@en .
+
+wd:Q63969949 a wd:Q317623 ;
+    rdfs:label "Descriptive Cataloging of Rare Materials"@en .
+
+wd:Q63993215 a wd:Q317623 ;
+    rdfs:label "Recommendation on Artificial Intelligence"@en .
+
+wd:Q640435 a wd:Q15836568 ;
+    rdfs:label "Resource Reservation Protocol"@en .
+
+wd:Q641121 a wd:Q132364 ;
+    rdfs:label "Audio Stream Input/Output"@en .
+
+wd:Q6423198 a wd:Q132364 ;
+    rdfs:label "Knowbot Information Service"@en .
+
+wd:Q642362 a wd:Q15836568 ;
+    rdfs:label "FISH protocol"@en .
+
+wd:Q6429318 a wd:Q317623 ;
+    rdfs:label "Konica AR-mount"@en .
+
+wd:Q643146 a wd:Q15836568 ;
+    rdfs:label "Hypertext caching protocol"@en .
+
+wd:Q6438378 a wd:Q15836568 ;
+    rdfs:label "Link Aggregation Control Protocol"@en .
+
+wd:Q6442872 a wd:Q317623 ;
+    rdfs:label "All-Russian Classifier of Currencies"@en .
+
+wd:Q645044 a wd:Q15836568 ;
+    rdfs:label "Highway Addressable Remote Transducer Protocol"@en .
+
+wd:Q6457027 a wd:Q132364 ;
+    rdfs:label "LANC"@en .
+
+wd:Q64729207 a wd:Q317623 ;
+    rdfs:label "Redfish"@en .
+
+wd:Q648564 a wd:Q317623 ;
+    rdfs:label "Arri PL"@en .
+
+wd:Q64866707 a wd:Q15836568 ;
+    rdfs:label "Internet Message Access Protocol over TLS/SSL"@en .
+
+wd:Q649654 a wd:Q132364 ;
+    rdfs:label "Jingle"@en .
+
+wd:Q65057155 a wd:Q15836568 ;
+    rdfs:label "Security.txt"@en .
+
+wd:Q65118489 a wd:Q132364 ;
+    rdfs:label "Client to Authenticator Protocol"@en .
+
+wd:Q65259839 a wd:Q6046311 ;
+    rdfs:label "USB 4.0"@en .
+
+wd:Q6543508 a wd:Q15836568 ;
+    rdfs:label "Licklider Transmission Protocol"@en .
+
+wd:Q6546597 a wd:Q15836568 ;
+    rdfs:label "Lightweight Access Point Protocol"@en .
+
+wd:Q6546620 a wd:Q15836568 ;
+    rdfs:label "Lightweight protocol"@en .
+
+wd:Q65487149 a wd:Q15836568 ;
+    rdfs:label "Secure Scuttlebutt"@en .
+
+wd:Q66023128 a wd:Q15836568 ;
+    rdfs:label "Zab"@en .
+
+wd:Q66314582 a wd:Q15836568 ;
+    rdfs:label "Secure Real-time Transport Control Protocol"@en .
+
+wd:Q6657131 a wd:Q15836568 ;
+    rdfs:label "Live distributed object"@en .
+
+wd:Q66613952 a wd:Q15836568 ;
+    rdfs:label "Apple Wireless Direct Link"@en .
+
+wd:Q6661985 a wd:Q317623 ;
+    rdfs:label "computer data processing"@en .
+
+wd:Q6663935 a wd:Q15836568 ;
+    rdfs:label "LocalTalk-to-Ethernet bridge"@en .
+
+wd:Q666515 a wd:Q15836568 ;
+    rdfs:label "Secure Socket Tunneling Protocol"@en .
+
+wd:Q6665853 a wd:Q15836568 ;
+    rdfs:label "Lockstep protocol"@en .
+
+wd:Q6675974 a wd:Q15836568 ;
+    rdfs:label "Loose Source Routing"@en .
+
+wd:Q6692725 a wd:Q317623 ;
+    rdfs:label "Low-carbon fuel standard"@en .
+
+wd:Q67146934 a wd:Q132364 ;
+    rdfs:label "Audio Streaming for Hearing Aids"@en .
+
+wd:Q6716734 a wd:Q132364 ;
+    rdfs:label "MMARP"@en .
+
+wd:Q6717704 a wd:Q15836568 ;
+    rdfs:label "Media Server Control Markup Language"@en .
+
+wd:Q6735703 a wd:Q132364 ;
+    rdfs:label "Mail Transfer Protocol"@en .
+
+wd:Q674312 a wd:Q132364 ;
+    rdfs:label "Platform for Privacy Preferences Project"@en .
+
+wd:Q6754182 a wd:Q15836568 ;
+    rdfs:label "Mapping of Airline Traffic over Internet Protocol"@en .
+
+wd:Q677818 a wd:Q132364 ;
+    rdfs:label "I²S"@en .
+
+wd:Q678409 a wd:Q132364 ;
+    rdfs:label "DeviceNet"@en .
+
+wd:Q679003 a wd:Q132364 ;
+    rdfs:label "Distributed Computing Environment"@en .
+
+wd:Q6801587 a wd:Q15836568 ;
+    rdfs:label "McIDAS"@en .
+
+wd:Q6805480 a wd:Q15836568 ;
+    rdfs:label "Media Dispatch Protocol"@en .
+
+wd:Q681263 a wd:Q317623 ;
+    rdfs:label "open standard"@en .
+
+wd:Q6815204 a wd:Q132364 ;
+    rdfs:label "Memento Project"@en .
+
+wd:Q6821798 a wd:Q15836568 ;
+    rdfs:label "Message Send Protocol"@en .
+
+wd:Q682598 a wd:Q15836568 ;
+    rdfs:label "Real Time Streaming Protocol"@en .
+
+wd:Q6840198 a wd:Q15836568 ;
+    rdfs:label "Microsoft RPC"@en .
+
+wd:Q6865456 a wd:Q317623 ;
+    rdfs:label "Minimum energy performance standard"@en .
+
+wd:Q691593 a wd:Q317623 ;
+    rdfs:label "Common Object Request Broker Architecture"@en .
+
+wd:Q692210 a wd:Q317623 ;
+    rdfs:label "ISO 3103"@en .
+
+wd:Q6934774 a wd:Q15836568 ;
+    rdfs:label "Multimedia Exchange Network over Satellite"@en .
+
+wd:Q6935048 a wd:Q15836568 ;
+    rdfs:label "Multipurpose Transaction Protocol"@en .
+
+wd:Q69420777 a wd:Q317623 ;
+    rdfs:label "RESQML"@en .
+
+wd:Q69459844 a wd:Q317623 ;
+    rdfs:label "Open Subsurface Data Universe"@en .
+
+wd:Q69469260 a wd:Q132364,
+        wd:Q317623 ;
+    rdfs:label "Energistics Transfer Protocol"@en .
+
+wd:Q6948176 a wd:Q15836568 ;
+    rdfs:label "MyriaNed"@en .
+
+wd:Q6952125 a wd:Q132364 ;
+    rdfs:label "NABTS"@en .
+
+wd:Q6952889 a wd:Q317623 ;
+    rdfs:label "NC-SI"@en .
+
+wd:Q6953801 a wd:Q317623 ;
+    rdfs:label "NFPA 921"@en .
+
+wd:Q6955284 a wd:Q317623 ;
+    rdfs:label "NSDG"@en .
+
+wd:Q6955996 a wd:Q132364 ;
+    rdfs:label "NXDN"@en .
+
+wd:Q6973538 a wd:Q15836568 ;
+    rdfs:label "National Information Standards Organization Circulation Interchange Protocol"@en .
+
+wd:Q697356 a wd:Q317623 ;
+    rdfs:label "UL 94"@en .
+
+wd:Q699076 a wd:Q317623 ;
+    rdfs:label "ISO 9241"@en .
+
+wd:Q7000807 a wd:Q15836568 ;
+    rdfs:label "Network Device Control Protocol"@en .
+
+wd:Q7011585 a wd:Q317623 ;
+    rdfs:label "New Source Performance Standard"@en .
+
+wd:Q7036544 a wd:Q317623 ;
+    rdfs:label "Nikon S-mount"@en .
+
+wd:Q7048858 a wd:Q15836568 ;
+    rdfs:label "Non-broadcast multiple-access network"@en .
+
+wd:Q7053511 a wd:Q15836568 ;
+    rdfs:label "Nortel Discovery Protocol"@en .
+
+wd:Q7072303 a wd:Q317623 ;
+    rdfs:label "OAXAL"@en .
+
+wd:Q7072716 a wd:Q317623 ;
+    rdfs:label "OMG standard"@en .
+
+wd:Q7072878 a wd:Q132364 ;
+    rdfs:label "OPeNDAP"@en .
+
+wd:Q7095036 a wd:Q317623 ;
+    rdfs:label "OntoUML"@en .
+
+wd:Q7095732 a wd:Q317623 ;
+    rdfs:label "OpenAir"@en .
+
+wd:Q709588 a wd:Q15836568 ;
+    rdfs:label "Finger protocol"@en .
+
+wd:Q7095908 a wd:Q15836568 ;
+    rdfs:label "OpenWire"@en .
+
+wd:Q7095977 a wd:Q317623 ;
+    rdfs:label "Open Cloud Computing Interface"@en .
+
+wd:Q7098837 a wd:Q15836568 ;
+    rdfs:label "Optical burst switching"@en .
+
+wd:Q7116929 a wd:Q15836568 ;
+    rdfs:label "p-cycle protection"@en .
+
+wd:Q7118200 a wd:Q132364 ;
+    rdfs:label "PARC Universal Packet"@en .
+
+wd:Q7118220 a wd:Q15836568 ;
+    rdfs:label "PAROLI"@en .
+
+wd:Q7119499 a wd:Q317623 ;
+    rdfs:label "Public Key Cryptography Standard 1"@en .
+
+wd:Q7119552 a wd:Q15836568 ;
+    rdfs:label "PL-3"@en .
+
+wd:Q7119553 a wd:Q15836568 ;
+    rdfs:label "PL-4"@en .
+
+wd:Q7119734 a wd:Q15836568 ;
+    rdfs:label "PME Aggregation Function"@en .
+
+wd:Q7119955 a wd:Q317623 ;
+    rdfs:label "POLQA"@en .
+
+wd:Q7121138 a wd:Q317623 ;
+    rdfs:label "PVRTC"@en .
+
+wd:Q7121149 a wd:Q317623 ;
+    rdfs:label "PV mount"@en .
+
+wd:Q7123001 a wd:Q15836568 ;
+    rdfs:label "Packet Layer Protocol"@en .
+
+wd:Q7123015 a wd:Q15836568 ;
+    rdfs:label "Packetized Ensemble Protocol"@en .
+
+wd:Q7134959 a wd:Q15836568 ;
+    rdfs:label "Parallel Line Internet Protocol"@en .
+
+wd:Q7134973 a wd:Q6046311 ;
+    rdfs:label "Parallel SCSI"@en .
+
+wd:Q71370 a wd:Q132364 ;
+    rdfs:label "Pichat"@en .
+
+wd:Q7160368 a wd:Q15836568 ;
+    rdfs:label "Peer Distributed Transfer Protocol"@en .
+
+wd:Q7187952 a wd:Q15836568 ;
+    rdfs:label "Photuris"@en .
+
+wd:Q720376 a wd:Q132364,
+        wd:Q317623 ;
+    rdfs:label "OStatus"@en .
+
+wd:Q721869 a wd:Q15836568 ;
+    rdfs:label "Reverse Address Resolution Protocol"@en .
+
+wd:Q7236685 a wd:Q6046311 ;
+    rdfs:label "Powered USB"@en .
+
+wd:Q7246101 a wd:Q15836568 ;
+    rdfs:label "Private IP"@en .
+
+wd:Q7248490 a wd:Q15836568 ;
+    rdfs:label "Programming Metadata Communication Protocol"@en .
+
+wd:Q7251937 a wd:Q15836568 ;
+    rdfs:label "Protocol implementation conformance statement"@en .
+
+wd:Q7251944 a wd:Q15836568 ;
+    rdfs:label "Protocol pipelining"@en .
+
+wd:Q7251945 a wd:Q15836568 ;
+    rdfs:label "Protocol versioning"@en .
+
+wd:Q7252860 a wd:Q15836568 ;
+    rdfs:label "Proximity-1 Space Link Protocol"@en .
+
+wd:Q726446 a wd:Q132364 ;
+    rdfs:label "High-Speed Uplink Packet Access"@en .
+
+wd:Q7265601 a wd:Q15836568 ;
+    rdfs:label "Quick UDP Internet Connections"@en .
+
+wd:Q7271665 a wd:Q15836568 ;
+    rdfs:label "QuickFIX"@en .
+
+wd:Q7271699 a wd:Q15836568 ;
+    rdfs:label "Quick Mail Queuing Protocol"@en .
+
+wd:Q7271707 a wd:Q15836568 ;
+    rdfs:label "Quick Mail Transfer Protocol"@en .
+
+wd:Q7275766 a wd:Q15836568 ;
+    rdfs:label "RANAP"@en .
+
+wd:Q7275799 a wd:Q15836568 ;
+    rdfs:label "RAPIEnet"@en .
+
+wd:Q727694 a wd:Q317623 ;
+    rdfs:label "Standard Chinese"@en .
+
+wd:Q7277201 a wd:Q132364 ;
+    rdfs:label "RNDIS"@en .
+
+wd:Q7277274 a wd:Q15836568 ;
+    rdfs:label "RNSAP"@en .
+
+wd:Q7277432 a wd:Q15836568 ;
+    rdfs:label "RP-570"@en .
+
+wd:Q7278000 a wd:Q132364 ;
+    rdfs:label "RV-C"@en .
+
+wd:Q7280888 a wd:Q15836568 ;
+    rdfs:label "Radio Link Protocol"@en .
+
+wd:Q728183 a wd:Q132364 ;
+    rdfs:label "CAN bus"@en .
+
+wd:Q73 a wd:Q15836568 ;
+    rdfs:label "Internet Relay Chat"@en .
+
+wd:Q7300769 a wd:Q132364 ;
+    rdfs:label "Real-Time Publish-Subscribe (RTPS) Protocol"@en .
+
+wd:Q7301368 a wd:Q132364 ;
+    rdfs:label "Realtek Remote Control Protocol"@en .
+
+wd:Q7308040 a wd:Q15836568 ;
+    rdfs:label "Regenerative Satellite Mesh – A"@en .
+
+wd:Q7310888 a wd:Q15836568 ;
+    rdfs:label "RelayNet"@en .
+
+wd:Q731128 a wd:Q132364 ;
+    rdfs:label "X.500"@en .
+
+wd:Q7312085 a wd:Q15836568 ;
+    rdfs:label "Remote Audio Output Protocol"@en .
+
+wd:Q7312118 a wd:Q15836568 ;
+    rdfs:label "rexec"@en .
+
+wd:Q7316902 a wd:Q132364 ;
+    rdfs:label "retransmission"@en .
+
+wd:Q7318273 a wd:Q132364 ;
+    rdfs:label "Reverse telnet"@en .
+
+wd:Q7318883 a wd:Q317623 ;
+    rdfs:label "Revolutionary War Drill Manual"@en .
+
+wd:Q7334778 a wd:Q15836568 ;
+    rdfs:label "Ring latency"@en .
+
+wd:Q73486278 a wd:Q317623 ;
+    rdfs:label "JEITA ET-5102"@en .
+
+wd:Q7371591 a wd:Q15836568 ;
+    rdfs:label "Route reestablishment notification"@en .
+
+wd:Q7371600 a wd:Q15836568 ;
+    rdfs:label "Router alert label"@en .
+
+wd:Q7371622 a wd:Q15836568 ;
+    rdfs:label "Routing in delay-tolerant networking"@en .
+
+wd:Q7375592 a wd:Q15836568 ;
+    rdfs:label "Remote Telnet Services"@en .
+
+wd:Q7375602 a wd:Q132364 ;
+    rdfs:label "RuBee"@en .
+
+wd:Q7387119 a wd:Q317623 ;
+    rdfs:label "S-mount"@en .
+
+wd:Q7389212 a wd:Q317623 ;
+    rdfs:label "SCOMO"@en .
+
+wd:Q7389491 a wd:Q317623 ;
+    rdfs:label "SDTM"@en .
+
+wd:Q7390096 a wd:Q317623 ;
+    rdfs:label "SGSM"@en .
+
+wd:Q739120 a wd:Q15836568 ;
+    rdfs:label "HTTP/2"@en .
+
+wd:Q7391273 a wd:Q317623 ;
+    rdfs:label "SMP2"@en .
+
+wd:Q7391782 a wd:Q132364 ;
+    rdfs:label "Systems Network Architecture Distribution Services"@en .
+
+wd:Q7391828 a wd:Q15836568 ;
+    rdfs:label "SNDCP"@en .
+
+wd:Q7391864 a wd:Q15836568 ;
+    rdfs:label "SNMP multiplexing"@en .
+
+wd:Q7391976 a wd:Q317623 ;
+    rdfs:label "SOAP-over-UDP"@en .
+
+wd:Q7391979 a wd:Q15836568 ;
+    rdfs:label "SOAPjr"@en .
+
+wd:Q7392552 a wd:Q15836568 ;
+    rdfs:label "SPI-3"@en .
+
+wd:Q7392553 a wd:Q15836568 ;
+    rdfs:label "SPI-4.2"@en .
+
+wd:Q7394772 a wd:Q317623 ;
+    rdfs:label "STM-4"@en .
+
+wd:Q7395200 a wd:Q317623 ;
+    rdfs:label "Simple Web-service Offering Repository Deposit"@en .
+
+wd:Q7405485 a wd:Q132364 ;
+    rdfs:label "Salmon"@en .
+
+wd:Q741866 a wd:Q15836568 ;
+    rdfs:label "Inter-Asterisk eXchange"@en .
+
+wd:Q742003 a wd:Q15836568 ;
+    rdfs:label "Link Layer Discovery Protocol"@en .
+
+wd:Q7429669 a wd:Q15836568 ;
+    rdfs:label "Scalable TCP"@en .
+
+wd:Q7444837 a wd:Q132364 ;
+    rdfs:label "Secure Communications Interoperability Protocol"@en .
+
+wd:Q7444877 a wd:Q15836568 ;
+    rdfs:label "Secure multicast"@en .
+
+wd:Q7445066 a wd:Q15836568 ;
+    rdfs:label "Security service"@en .
+
+wd:Q7446280 a wd:Q15836568 ;
+    rdfs:label "Segmentation and Reassembly"@en .
+
+wd:Q7454655 a wd:Q132364 ;
+    rdfs:label "Serial Bus Protocol 2"@en .
+
+wd:Q747272 a wd:Q15836568 ;
+    rdfs:label "Microsoft Host Integration Server"@en .
+
+wd:Q747499 a wd:Q15836568 ;
+    rdfs:label "RADIUS"@en .
+
+wd:Q749940 a wd:Q15836568 ;
+    rdfs:label "Real-time Transport Control Protocol"@en .
+
+wd:Q750317 a wd:Q317623 ;
+    rdfs:label "Astra Digital Radio"@en .
+
+wd:Q7520672 a wd:Q15836568 ;
+    rdfs:label "Simple Gateway Monitoring Protocol"@en .
+
+wd:Q7520727 a wd:Q15836568 ;
+    rdfs:label "Simple Network Paging Protocol"@en .
+
+wd:Q7520741 a wd:Q15836568 ;
+    rdfs:label "Simple Sensor Interface protocol"@en .
+
+wd:Q7520771 a wd:Q15836568 ;
+    rdfs:label "Simple Symmetric Transport Protocol"@en .
+
+wd:Q7520782 a wd:Q15836568 ;
+    rdfs:label "Simple Update Protocol"@en .
+
+wd:Q7521313 a wd:Q317623 ;
+    rdfs:label "Simulation Model Portability"@en .
+
+wd:Q7522391 a wd:Q15836568 ;
+    rdfs:label "Sinec H1"@en .
+
+wd:Q7524279 a wd:Q15836568 ;
+    rdfs:label "Singulation"@en .
+
+wd:Q753452 a wd:Q6046311 ;
+    rdfs:label "DisplayPort"@en .
+
+wd:Q753479 a wd:Q15836568 ;
+    rdfs:label "Boots"@en .
+
+wd:Q7537963 a wd:Q15836568 ;
+    rdfs:label "Skypix"@en .
+
+wd:Q7544035 a wd:Q132364 ;
+    rdfs:label "Smart contract"@en .
+
+wd:Q7554235 a wd:Q15836568 ;
+    rdfs:label "Software Upgrade Protocol"@en .
+
+wd:Q7563355 a wd:Q15836568 ;
+    rdfs:label "Sorcerer's Apprentice Syndrome"@en .
+
+wd:Q7565105 a wd:Q15836568 ;
+    rdfs:label "Source-specific multicast"@en .
+
+wd:Q7598254 a wd:Q15836568 ;
+    rdfs:label "Standard Interchange Protocol"@en .
+
+wd:Q7617381 a wd:Q132364 ;
+    rdfs:label "Stimulus protocol"@en .
+
+wd:Q7625185 a wd:Q15836568 ;
+    rdfs:label "Structured Stream Transport"@en .
+
+wd:Q763118 a wd:Q15836568 ;
+    rdfs:label "Internet Cache Protocol"@en .
+
+wd:Q7652842 a wd:Q15836568 ;
+    rdfs:label "swIPe IP Security Protocol"@en .
+
+wd:Q7659043 a wd:Q15836568 ;
+    rdfs:label "Switch56"@en .
+
+wd:Q7662206 a wd:Q15836568 ;
+    rdfs:label "Synchronous Ethernet"@en .
+
+wd:Q7663668 a wd:Q15836568 ;
+    rdfs:label "System Packet Interface"@en .
+
+wd:Q7663843 a wd:Q317623 ;
+    rdfs:label "Systems Management Architecture for Server Hardware"@en .
+
+wd:Q7669751 a wd:Q15836568 ;
+    rdfs:label "TCP port service multiplexer"@en .
+
+wd:Q7670107 a wd:Q317623 ;
+    rdfs:label "TFI-5"@en .
+
+wd:Q7671599 a wd:Q132364 ;
+    rdfs:label "TSMP"@en .
+
+wd:Q7672372 a wd:Q15836568 ;
+    rdfs:label "TV Network Protocol"@en .
+
+wd:Q7672573 a wd:Q317623 ;
+    rdfs:label "TXGA"@en .
+
+wd:Q7695725 a wd:Q15836568 ;
+    rdfs:label "TeleFinder"@en .
+
+wd:Q7696316 a wd:Q15836568 ;
+    rdfs:label "Telelocator Alphanumeric Protocol"@en .
+
+wd:Q7702665 a wd:Q15836568 ;
+    rdfs:label "Terminal Identifier – Address Resolution Protocol"@en .
+
+wd:Q7784911 a wd:Q15836568 ;
+    rdfs:label "Third Party Control Protocol"@en .
+
+wd:Q7796976 a wd:Q15836568 ;
+    rdfs:label "ThoughtTreasure"@en .
+
+wd:Q7805004 a wd:Q132364 ;
+    rdfs:label "Time Independent Escape Sequence"@en .
+
+wd:Q782752 a wd:Q15836568 ;
+    rdfs:label "Protocol Independent Multicast"@en .
+
+wd:Q7834895 a wd:Q132364 ;
+    rdfs:label "Transport Sample Protocol"@en .
+
+wd:Q7848233 a wd:Q317623 ;
+    rdfs:label "Trustworthy Repositories Audit & Certification"@en .
+
+wd:Q7850165 a wd:Q15836568 ;
+    rdfs:label "Tsunami UDP Protocol"@en .
+
+wd:Q7864595 a wd:Q15836568 ;
+    rdfs:label "UFTP"@en .
+
+wd:Q7865364 a wd:Q317623 ;
+    rdfs:label "UNMAI"@en .
+
+wd:Q787012 a wd:Q15836568 ;
+    rdfs:label "Real Time Messaging Protocol"@en .
+
+wd:Q7884844 a wd:Q15836568 ;
+    rdfs:label "Unidirectional Lightweight Encapsulation"@en .
+
+wd:Q7884845 a wd:Q15836568 ;
+    rdfs:label "Unidirectional Link Detection"@en .
+
+wd:Q7887068 a wd:Q15836568 ;
+    rdfs:label "Encapsulating Security Payload"@en .
+
+wd:Q7893921 a wd:Q15836568 ;
+    rdfs:label "Universal Communication Format"@en .
+
+wd:Q7901828 a wd:Q15836568 ;
+    rdfs:label "User Location Service"@en .
+
+wd:Q7907072 a wd:Q132364 ;
+    rdfs:label "VISCA Protocol"@en .
+
+wd:Q7907598 a wd:Q15836568 ;
+    rdfs:label "VT1.5"@en .
+
+wd:Q7907683 a wd:Q317623 ;
+    rdfs:label "VXS"@en .
+
+wd:Q79106566 a wd:Q132364 ;
+    rdfs:label "Connected Home over IP"@en .
+
+wd:Q79136391 a wd:Q15836568 ;
+    rdfs:label "Ethernet VPN"@en .
+
+wd:Q7917813 a wd:Q317623 ;
+    rdfs:label "Vector Product Format"@en .
+
+wd:Q7920441 a wd:Q132364 ;
+    rdfs:label "Venturi Transport Protocol"@en .
+
+wd:Q7934984 a wd:Q15836568 ;
+    rdfs:label "Virtual Interface Adapter"@en .
+
+wd:Q7934993 a wd:Q15836568 ;
+    rdfs:label "Virtual Line Trunking"@en .
+
+wd:Q7939134 a wd:Q15836568 ;
+    rdfs:label "VoATM"@en .
+
+wd:Q79457899 a wd:Q15836568 ;
+    rdfs:label "sellers.json protocol"@en .
+
+wd:Q79458024 a wd:Q15836568 ;
+    rdfs:label "app-ads.txt protocol"@en .
+
+wd:Q7950858 a wd:Q317623 ;
+    rdfs:label "WIPO ST.3"@en .
+
+wd:Q7950870 a wd:Q15836568 ;
+    rdfs:label "Work-in-progress message protocol"@en .
+
+wd:Q795383 a wd:Q15836568 ;
+    rdfs:label "BACnet"@en .
+
+wd:Q7956121 a wd:Q132364 ;
+    rdfs:label "WTCP"@en .
+
+wd:Q797028 a wd:Q317623 ;
+    rdfs:label "BS 15000"@en .
+
+wd:Q797044 a wd:Q317623 ;
+    rdfs:label "BS 7799"@en .
+
+wd:Q7973284 a wd:Q317623 ;
+    rdfs:label "Water Data Transfer Format"@en .
+
+wd:Q7978465 a wd:Q15836568 ;
+    rdfs:label "WebNFS"@en .
+
+wd:Q7978539 a wd:Q15836568 ;
+    rdfs:label "Web Services for Devices"@en .
+
+wd:Q7978777 a wd:Q132364 ;
+    rdfs:label "WebFinger"@en .
+
+wd:Q798424 a wd:Q15836568 ;
+    rdfs:label "Background File Transfer Program"@en .
+
+wd:Q800352 a wd:Q317623 ;
+    rdfs:label "Manual on Uniform Traffic Control Devices"@en .
+
+wd:Q8026813 a wd:Q132364 ;
+    rdfs:label "WirelessHART"@en .
+
+wd:Q80335493 a wd:Q15836568 ;
+    rdfs:label "LitePub"@en .
+
+wd:Q8036574 a wd:Q15836568 ;
+    rdfs:label "WHOIS++"@en .
+
+wd:Q8041612 a wd:Q15836568 ;
+    rdfs:label "X.PC"@en .
+
+wd:Q8041708 a wd:Q317623 ;
+    rdfs:label "XCES"@en .
+
+wd:Q8044969 a wd:Q317623 ;
+    rdfs:label "Xpeak"@en .
+
+wd:Q8044996 a wd:Q15836568 ;
+    rdfs:label "Xpress Transport Protocol"@en .
+
+wd:Q8069709 a wd:Q15836568 ;
+    rdfs:label "Zeta Instrument Processor Interface"@en .
+
+wd:Q80776 a wd:Q15836568 ;
+    rdfs:label "Robots exclusion standard"@en .
+
+wd:Q81095 a wd:Q132364 ;
+    rdfs:label "DICOM"@en .
+
+wd:Q813024 a wd:Q15836568 ;
+    rdfs:label "Bearer-Independent Call Control"@en .
+
+wd:Q8182107 a wd:Q317623 ;
+    rdfs:label "Q8182107"^^xsd:string .
+
+wd:Q82235 a wd:Q132364 ;
+    rdfs:label "CLOVER2000"@en .
+
+wd:Q82415 a wd:Q132364 ;
+    rdfs:label "Olivia MFSK"@en .
+
+wd:Q8254068 a wd:Q317623 ;
+    rdfs:label "Q8254068"^^xsd:string .
+
+wd:Q826138 a wd:Q317623 ;
+    rdfs:label "Universal Flash Storage"@en .
+
+wd:Q826835 a wd:Q15836568 ;
+    rdfs:label "Dynamic Trunking Protocol"@en .
+
+wd:Q827811 a wd:Q317623 ;
+    rdfs:label "SCORM"@en .
+
+wd:Q83159982 a wd:Q317623 ;
+    rdfs:label "The Tree Ring Data Standard"@en .
+
+wd:Q841825 a wd:Q15836568 ;
+    rdfs:label "Compressed SLIP"@en .
+
+wd:Q843295 a wd:Q317623 ;
+    rdfs:label "DVD-VR"@en .
+
+wd:Q844088 a wd:Q15836568 ;
+    rdfs:label "ISO 11783"@en .
+
+wd:Q846556 a wd:Q15836568 ;
+    rdfs:label "Robust Header Compression"@en .
+
+wd:Q847146 a wd:Q317623 ;
+    rdfs:label "DDR2 SDRAM"@en .
+
+wd:Q847207 a wd:Q317623 ;
+    rdfs:label "DDR3 SDRAM"@en .
+
+wd:Q852555 a wd:Q132364 ;
+    rdfs:label "Spanning Tree Protocol"@en .
+
+wd:Q85327 a wd:Q317623 ;
+    rdfs:label "h-card"@en .
+
+wd:Q855158 a wd:Q15836568 ;
+    rdfs:label "IPX"@en .
+
+wd:Q8564981 a wd:Q317623 ;
+    rdfs:label "Foundation Fieldbus H1"@en .
+
+wd:Q857655 a wd:Q15836568 ;
+    rdfs:label "Server Message Block"@en .
+
+wd:Q857815 a wd:Q317623 ;
+    rdfs:label "Plug and play"@en .
+
+wd:Q859938 a wd:Q15836568 ;
+    rdfs:label "WebSocket"@en .
+
+wd:Q866392 a wd:Q15836568 ;
+    rdfs:label "Point-to-point protocol over Ethernet"@en .
+
+wd:Q868562 a wd:Q15836568 ;
+    rdfs:label "Common Address Redundancy Protocol"@en .
+
+wd:Q868571 a wd:Q317623 ;
+    rdfs:label "Common Information Model"@en .
+
+wd:Q87184111 a wd:Q317623 ;
+    rdfs:label "ANSI X9.62-2005: Public Key Cryptography for the Financial Services Industry: the Elliptic Curve Digital Signature Algorithm (ECDSA)"@en .
+
+wd:Q87185095 a wd:Q317623 ;
+    rdfs:label "ANSI X9.62-1998: Public Key Cryptography for the Financial Services Industry: the Elliptic Curve Digital Signature Algorithm (ECDSA)"@en .
+
+wd:Q8767 a wd:Q15836568 ;
+    rdfs:label "Domain Name System"@en .
+
+wd:Q8777 a wd:Q15836568 ;
+    rdfs:label "Hypertext Transfer Protocol"@en .
+
+wd:Q8803 a wd:Q15836568 ;
+    rdfs:label "Transmission Control Protocol"@en .
+
+wd:Q8819 a wd:Q317623 ;
+    rdfs:label "Unicode"@en .
+
+wd:Q884769 a wd:Q15836568 ;
+    rdfs:label "BEEP"@en .
+
+wd:Q897701 a wd:Q15836568 ;
+    rdfs:label "Service Location Protocol"@en .
+
+wd:Q905324 a wd:Q15836568 ;
+    rdfs:label "Windows Internet Name Service"@en .
+
+wd:Q906182 a wd:Q317623 ;
+    rdfs:label "DO-178B"@en .
+
+wd:Q907146 a wd:Q15836568 ;
+    rdfs:label "Locator/Identifier Separation Protocol"@en .
+
+wd:Q907212 a wd:Q132364 ;
+    rdfs:label "IP over Avian Carriers"@en .
+
+wd:Q9137452 a wd:Q132364 ;
+    rdfs:label "ATA Packet Interface"@en .
+
+wd:Q923115 a wd:Q317623 ;
+    rdfs:label "RIAA equalization"@en .
+
+wd:Q931783 a wd:Q317623 ;
+    rdfs:label "JPEG 2000"@en .
+
+wd:Q932327 a wd:Q15836568 ;
+    rdfs:label "Independent Computing Architecture"@en .
+
+wd:Q932442 a wd:Q317623 ;
+    rdfs:label "European emission standards"@en .
+
+wd:Q932506 a wd:Q6046311 ;
+    rdfs:label "PC Card"@en .
+
+wd:Q9353659 a wd:Q317623 ;
+    rdfs:label "T4 t6"@en .
+
+wd:Q9358789 a wd:Q132364 ;
+    rdfs:label "Tiny Transport Protocol"@en .
+
+wd:Q9384601 a wd:Q317623 ;
+    rdfs:label "Code of Household Registration and Conscription Information System"@en .
+
+wd:Q944595 a wd:Q15836568 ;
+    rdfs:label "DOCSIS"@en .
+
+wd:Q944633 a wd:Q132364 ;
+    rdfs:label "Carrier sense multiple access with collision avoidance"@en .
+
+wd:Q949493 a wd:Q15836568 ;
+    rdfs:label "SMTPS"@en .
+
+wd:Q965064 a wd:Q15836568 ;
+    rdfs:label "Picture Transfer Protocol"@en .
+
+wd:Q974922 a wd:Q317623 ;
+    rdfs:label "Web Map Service"@en .
+
+wd:Q977872 a wd:Q15836568 ;
+    rdfs:label "DICT"@en .
+
+wd:Q987746 a wd:Q15836568 ;
+    rdfs:label "Time Protocol"@en .
+
+wd:Q6046311 rdfs:label "interface standard"@en .
+
+wd:Q132364 rdfs:label "communications protocol"@en ;
+    rdfs:subClassOf wd:Q317623,
+        wd:Q6046311 .
+
+wd:Q317623 rdfs:label "technical standard"@en .
+
+wd:Q15836568 rdfs:label "computer network protocol"@en ;
+    rdfs:subClassOf wd:Q132364 .
+

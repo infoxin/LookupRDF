@@ -1,0 +1,3915 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1013808 a wd:Q1914636 ;
+    rdfs:label "glass etching"@en .
+
+wd:Q10269116 a wd:Q1207505 ;
+    rdfs:label "durability"@en .
+
+wd:Q1028852 a wd:Q1914636 ;
+    rdfs:label "Gureba"@en .
+
+wd:Q10289243 a wd:Q1207505 ;
+    rdfs:label "hypogeal germination"@en .
+
+wd:Q10289413 a wd:Q1914636 ;
+    rdfs:label "Ghost hunting"@en .
+
+wd:Q1029421 a wd:Q1914636 ;
+    rdfs:label "prostitution of children"@en .
+
+wd:Q10302044 a wd:Q8148 ;
+    rdfs:label "coffee industry"@en .
+
+wd:Q10302058 a wd:Q8148 ;
+    rdfs:label "phonographic industry"@en .
+
+wd:Q10322293 a wd:Q8148 ;
+    rdfs:label "M. Dias Branco"@en .
+
+wd:Q10370559 a wd:Q1914636 ;
+    rdfs:label "sertanismo"@en .
+
+wd:Q10394785 a wd:Q937228 ;
+    rdfs:label "Yusei"@en .
+
+wd:Q10396556 a wd:Q4026292 ;
+    rdfs:label "Ôxê"@en .
+
+wd:Q1042979 a wd:Q937228 ;
+    rdfs:label "range"@en .
+
+wd:Q10431000 a wd:Q937228 ;
+    rdfs:label "Blask"@en .
+
+wd:Q1043197 a wd:Q1914636 ;
+    rdfs:label "divination"@en .
+
+wd:Q10467798 a wd:Q1914636 ;
+    rdfs:label "decoration painting"@en .
+
+wd:Q1047129 a wd:Q1207505 ;
+    rdfs:label "relativity"@en .
+
+wd:Q1051110 a wd:Q1914636 ;
+    rdfs:label "seal cutting"@en .
+
+wd:Q1054836 a wd:Q937228 ;
+    rdfs:label "homoscedasticity"@en .
+
+wd:Q1056396 a wd:Q8148 ;
+    rdfs:label "human resource management"@en .
+
+wd:Q1062803 a wd:Q937228 ;
+    rdfs:label "omnipresence"@en .
+
+wd:Q1063540 a wd:Q937228 ;
+    rdfs:label "heteroscedasticity"@en .
+
+wd:Q1064163 a wd:Q20937557 ;
+    rdfs:label "Coleco Telstar series"@en .
+
+wd:Q1064405 a wd:Q937228 ;
+    rdfs:label "parity of a permutation"@en .
+
+wd:Q1064754 a wd:Q1914636 ;
+    rdfs:label "streaking"@en .
+
+wd:Q1067601 a wd:Q8148 ;
+    rdfs:label "computer industry"@en .
+
+wd:Q10706881 a wd:Q1914636 ;
+    rdfs:label "Zwangsmittel"@en .
+
+wd:Q1071239 a wd:Q937228 ;
+    rdfs:label "stochastic"@en .
+
+wd:Q1073032 a wd:Q20937557 ;
+    rdfs:label "Color TV-Game series"@en .
+
+wd:Q1074648 a wd:Q1207505 ;
+    rdfs:label "relevance"@en .
+
+wd:Q10749002 a wd:Q1914636 ;
+    rdfs:label "Cle"@en .
+
+wd:Q10751894 a wd:Q1914636 ;
+    rdfs:label "lifesaving"@en .
+
+wd:Q107775 a wd:Q937228 ;
+    rdfs:label "streak"@en .
+
+wd:Q107885 a wd:Q1914636 ;
+    rdfs:label "speculation"@en .
+
+wd:Q1079090 a wd:Q1207505 ;
+    rdfs:label "neurotypical"@en .
+
+wd:Q1094706 a wd:Q1914636 ;
+    rdfs:label "Grinding"@en .
+
+wd:Q10954043 a wd:Q1914636 ;
+    rdfs:label "peacekeeping"@en .
+
+wd:Q109856 a wd:Q1207505 ;
+    rdfs:label "crystal twinning"@en .
+
+wd:Q11030 a wd:Q8148 ;
+    rdfs:label "journalism"@en .
+
+wd:Q11034 a wd:Q1914636 ;
+    rdfs:label "printing"@en .
+
+wd:Q11065257 a wd:Q8148 ;
+    rdfs:label "TTL Taipei Brewery"@en .
+
+wd:Q11188259 a wd:Q20937557 ;
+    rdfs:label "Q11188259"^^xsd:string .
+
+wd:Q11197837 a wd:Q20937557 ;
+    rdfs:label "ETV50"@en .
+
+wd:Q1122526 a wd:Q1914636 ;
+    rdfs:label "ice cross downhill"@en .
+
+wd:Q11242738 a wd:Q20937557 ;
+    rdfs:label "SDX"@en .
+
+wd:Q1124626 a wd:Q1207505 ;
+    rdfs:label "hygrophanous"@en .
+
+wd:Q1128406 a wd:Q1914636 ;
+    rdfs:label "correspondence chess"@en .
+
+wd:Q1131316 a wd:Q1207505 ;
+    rdfs:label "deciduous plant"@en .
+
+wd:Q1132884 a wd:Q4026292 ;
+    rdfs:label "Complete game"@en .
+
+wd:Q1136351 a wd:Q8148 ;
+    rdfs:label "information industry"@en .
+
+wd:Q1139352 rdfs:label "Creative Cities Network"@en ;
+    rdfs:subClassOf wd:Q131201 .
+
+wd:Q11412018 a wd:Q8148 ;
+    rdfs:label "Q11412018"^^xsd:string .
+
+wd:Q1144458 a wd:Q1914636 ;
+    rdfs:label "archaeological field survey"@en .
+
+wd:Q1147027 a wd:Q20937557 ;
+    rdfs:label "Sentinel-1"@en .
+
+wd:Q11471 a wd:Q35120 ;
+    rdfs:label "time"@en .
+
+wd:Q114725 a wd:Q937228 ;
+    rdfs:label "OH acidity"@en .
+
+wd:Q114817 a wd:Q937228 ;
+    rdfs:label "surface roughness"@en .
+
+wd:Q1151954 a wd:Q20937557 ;
+    rdfs:label "HY-2"@en .
+
+wd:Q1153767 a wd:Q8148 ;
+    rdfs:label "platform as a service"@en .
+
+wd:Q11630521 a wd:Q8148 ;
+    rdfs:label "tourism industry"@en .
+
+wd:Q11642 a wd:Q1914636 ;
+    rdfs:label "pottery"@en .
+
+wd:Q11649704 a wd:Q1914636 ;
+    rdfs:label "railway photography"@en .
+
+wd:Q11650 a wd:Q8148 ;
+    rdfs:label "electronics"@en .
+
+wd:Q11661 a wd:Q8148 ;
+    rdfs:label "information technology"@en .
+
+wd:Q11680564 a wd:Q1914636 ;
+    rdfs:label "Q11680564"^^xsd:string .
+
+wd:Q1168665 a wd:Q8148 ;
+    rdfs:label "copper mining"@en .
+
+wd:Q11815276 a wd:Q4026292 ;
+    rdfs:label "Q11815276"^^xsd:string .
+
+wd:Q11823964 a wd:Q937228 ;
+    rdfs:label "language correctness"@en .
+
+wd:Q1187300 a wd:Q937228 ;
+    rdfs:label "grammaticality"@en .
+
+wd:Q11873320 a wd:Q20937557 ;
+    rdfs:label "Kultaranta"@en .
+
+wd:Q11880995 a wd:Q1914636 ;
+    rdfs:label "berry picking"@en .
+
+wd:Q11916953 a wd:Q1914636 ;
+    rdfs:label "archival description"@en .
+
+wd:Q11944180 a wd:Q937228 ;
+    rdfs:label "quantification"@en .
+
+wd:Q1194492 a wd:Q1914636 ;
+    rdfs:label "angling"@en .
+
+wd:Q119770 a wd:Q1914636 ;
+    rdfs:label "nose-picking"@en .
+
+wd:Q11990434 a wd:Q8148 ;
+    rdfs:label "furniture industry"@en .
+
+wd:Q11999895 a wd:Q1207505 ;
+    rdfs:label "eponymously titled"@en .
+
+wd:Q12013292 a wd:Q1914636 ;
+    rdfs:label "Q12013292"^^xsd:string .
+
+wd:Q12044542 a wd:Q8148 ;
+    rdfs:label "Q12044542"^^xsd:string .
+
+wd:Q12051030 a wd:Q1914636 ;
+    rdfs:label "choral conducting"@en .
+
+wd:Q12062721 a wd:Q1914636 ;
+    rdfs:label "CSRP"@en .
+
+wd:Q1208486 a wd:Q8148 ;
+    rdfs:label "dialogue marketing"@en .
+
+wd:Q12099208 a wd:Q1914636 ;
+    rdfs:label "Q12099208"^^xsd:string .
+
+wd:Q12144907 a wd:Q8148 ;
+    rdfs:label "Q12144907"^^xsd:string .
+
+wd:Q1224389 a wd:Q1914636 ;
+    rdfs:label "copy editing"@en .
+
+wd:Q1224922 a wd:Q131201 ;
+    rdfs:label "digital sustainability"@en .
+
+wd:Q12271 a wd:Q8148 ;
+    rdfs:label "architecture"@en .
+
+wd:Q1227658 a wd:Q1914636 ;
+    rdfs:label "Executive search"@en .
+
+wd:Q12283360 a wd:Q1914636,
+        wd:Q8148 ;
+    rdfs:label "collective rights management"@en .
+
+wd:Q12312095 a wd:Q1914636 ;
+    rdfs:label "Q12312095"^^xsd:string .
+
+wd:Q1232760 a wd:Q1914636 ;
+    rdfs:label "Vorlehre"@en .
+
+wd:Q1237093 a wd:Q1914636 ;
+    rdfs:label "Wringen"@en .
+
+wd:Q1248453 a wd:Q937228 ;
+    rdfs:label "Physis"@en .
+
+wd:Q1250718 a wd:Q4026292 ;
+    rdfs:label "relaunch"@en .
+
+wd:Q12546 a wd:Q20937557 ;
+    rdfs:label "Crusades"@en .
+
+wd:Q12554212 a wd:Q1914636 ;
+    rdfs:label "Q12554212"^^xsd:string .
+
+wd:Q127213 a wd:Q1914636 ;
+    rdfs:label "arboriculture"@en .
+
+wd:Q1274416 a wd:Q20937557 ;
+    rdfs:label "Q1274416"^^xsd:string .
+
+wd:Q12752882 a wd:Q8148 ;
+    rdfs:label "cosmetic industry"@en .
+
+wd:Q12761888 a wd:Q937228 ;
+    rdfs:label "additivity"@en .
+
+wd:Q1281188 a wd:Q1914636 ;
+    rdfs:label "cheesemaking"@en .
+
+wd:Q12822469 a wd:Q20937557 ;
+    rdfs:label "Girya"@en .
+
+wd:Q12841051 a wd:Q937228 ;
+    rdfs:label "Kosa"@en .
+
+wd:Q12864775 a wd:Q937228 ;
+    rdfs:label "Zonal vegetation"@en .
+
+wd:Q12891137 a wd:Q1914636 ;
+    rdfs:label "Q12891137"^^xsd:string .
+
+wd:Q12892521 a wd:Q1914636 ;
+    rdfs:label "Q12892521"^^xsd:string .
+
+wd:Q12894644 a wd:Q937228 ;
+    rdfs:label "wetness"@en .
+
+wd:Q1297897 a wd:Q1914636 ;
+    rdfs:label "sex work"@en .
+
+wd:Q130044 a wd:Q1914636 ;
+    rdfs:label "swaddling"@en .
+
+wd:Q13023085 a wd:Q20937557 ;
+    rdfs:label "Q13023085"^^xsd:string .
+
+wd:Q13031886 a wd:Q8148 ;
+    rdfs:label "Belarusian energy industry"@en .
+
+wd:Q1305571 a wd:Q1914636 ;
+    rdfs:label "Q1305571"^^xsd:string .
+
+wd:Q1309003 a wd:Q1914636 ;
+    rdfs:label "Einschwenken"@en .
+
+wd:Q13125334 a wd:Q20937557 ;
+    rdfs:label "Abri"@en .
+
+wd:Q13136630 a wd:Q1914636 ;
+    rdfs:label "bell ringing"@en .
+
+wd:Q13137278 a wd:Q1914636 ;
+    rdfs:label "Q13137278"^^xsd:string .
+
+wd:Q131508 a wd:Q1914636 ;
+    rdfs:label "enterprise resource planning"@en .
+
+wd:Q1326365 a wd:Q1207505 ;
+    rdfs:label "elect"@en .
+
+wd:Q133080 a wd:Q1914636,
+        wd:Q8148 ;
+    rdfs:label "public relations"@en .
+
+wd:Q1338888 a wd:Q20937557 ;
+    rdfs:label "NEC PC-8800 series"@en .
+
+wd:Q13402218 a wd:Q937228 ;
+    rdfs:label "explicitness"@en .
+
+wd:Q13405640 a wd:Q8148 ;
+    rdfs:label "construction industry"@en .
+
+wd:Q1341477 a wd:Q8148 ;
+    rdfs:label "energy supply"@en .
+
+wd:Q13425292 a wd:Q1914636 ;
+    rdfs:label "adventure"@en .
+
+wd:Q1343316 a wd:Q1914636 ;
+    rdfs:label "military command"@en .
+
+wd:Q13569852 a wd:Q20937557 ;
+    rdfs:label "Q13569852"^^xsd:string .
+
+wd:Q13586528 a wd:Q20937557 ;
+    rdfs:label "MicroVAX"@en .
+
+wd:Q1362596 a wd:Q937228 ;
+    rdfs:label "sorting stability"@en .
+
+wd:Q13626277 a wd:Q1914636 ;
+    rdfs:label "Sexual Jihad"@en .
+
+wd:Q1363554 a wd:Q1914636 ;
+    rdfs:label "financial analysis"@en .
+
+wd:Q1366963 a wd:Q1914636 ;
+    rdfs:label "whale watching"@en .
+
+wd:Q1384205 a wd:Q20937557 ;
+    rdfs:label "Q1384205"^^xsd:string .
+
+wd:Q1396482 a wd:Q937228 ;
+    rdfs:label "tristimulus value"@en .
+
+wd:Q1399774 a wd:Q1207505 ;
+    rdfs:label "tautonym"@en .
+
+wd:Q1403517 a wd:Q937228 ;
+    rdfs:label "measurement uncertainty"@en .
+
+wd:Q1404898 a wd:Q20937557 ;
+    rdfs:label "Q1404898"^^xsd:string .
+
+wd:Q1407228 a wd:Q8148 ;
+    rdfs:label "television production"@en .
+
+wd:Q140846 a wd:Q937228 ;
+    rdfs:label "payment behaviour"@en .
+
+wd:Q1413596 a wd:Q1914636 ;
+    rdfs:label "Rub"@en .
+
+wd:Q1414548 a wd:Q937228 ;
+    rdfs:label "concurrency"@en .
+
+wd:Q1415247 a wd:Q1914636 ;
+    rdfs:label "film preservation"@en .
+
+wd:Q1415356 a wd:Q1914636,
+        wd:Q8148 ;
+    rdfs:label "film distribution"@en .
+
+wd:Q1416052 a wd:Q1914636 ;
+    rdfs:label "computer-assisted legal research"@en .
+
+wd:Q1417815 a wd:Q1914636 ;
+    rdfs:label "reading education"@en .
+
+wd:Q1420117 a wd:Q1914636 ;
+    rdfs:label "reefing"@en .
+
+wd:Q1420413 a wd:Q1914636 ;
+    rdfs:label "health technology assessment"@en .
+
+wd:Q14222943 a wd:Q1914636 ;
+    rdfs:label "London South Bank Walk"@en .
+
+wd:Q1428108 a wd:Q1914636 ;
+    rdfs:label "room air distribution"@en .
+
+wd:Q1429034 a wd:Q937228 ;
+    rdfs:label "float"@en .
+
+wd:Q1429051 a wd:Q1914636 ;
+    rdfs:label "shunting"@en .
+
+wd:Q14294128 a wd:Q20937557 ;
+    rdfs:label "Volvo S40/V40"@en .
+
+wd:Q1430184 a wd:Q1914636 ;
+    rdfs:label "performance appraisal"@en .
+
+wd:Q1430627 a wd:Q1914636 ;
+    rdfs:label "Snake charming"@en .
+
+wd:Q1430892 a wd:Q1914636 ;
+    rdfs:label "voluntary social year"@en .
+
+wd:Q1434104 a wd:Q8148 ;
+    rdfs:label "Internet economy"@en .
+
+wd:Q143579 a wd:Q937228 ;
+    rdfs:label "tooth color"@en .
+
+wd:Q14373 a wd:Q1914636 ;
+    rdfs:label "fishing"@en .
+
+wd:Q14378675 a wd:Q4026292 ;
+    rdfs:label "Q14378675"^^xsd:string .
+
+wd:Q1439151 a wd:Q937228 ;
+    rdfs:label "major and minor"@en .
+
+wd:Q14395867 a wd:Q8148 ;
+    rdfs:label "UEBE Medical"@en .
+
+wd:Q1439700 a wd:Q8148 ;
+    rdfs:label "photo industry"@en .
+
+wd:Q1445627 a wd:Q8148 ;
+    rdfs:label "ice cream manufacturer"@en .
+
+wd:Q1455737 a wd:Q1914636 ;
+    rdfs:label "ferreting"@en .
+
+wd:Q1460219 a wd:Q1914636 ;
+    rdfs:label "floral design"@en .
+
+wd:Q14614313 a wd:Q1914636 ;
+    rdfs:label "lustration"@en .
+
+wd:Q14631474 a wd:Q1914636 ;
+    rdfs:label "Q14631474"^^xsd:string .
+
+wd:Q1469792 a wd:Q1207505 ;
+    rdfs:label "salience"@en .
+
+wd:Q1474273 a wd:Q937228 ;
+    rdfs:label "fungibility"@en .
+
+wd:Q1478550 a wd:Q8148 ;
+    rdfs:label "Slate industry in Wales"@en .
+
+wd:Q1481938 a wd:Q1914636 ;
+    rdfs:label "militancy"@en .
+
+wd:Q14849087 a wd:Q1207505 ;
+    rdfs:label "anthophore"@en .
+
+wd:Q14853032 a wd:Q1207505 ;
+    rdfs:label "androphore"@en .
+
+wd:Q1491128 a wd:Q1914636 ;
+    rdfs:label "gold prospecting"@en .
+
+wd:Q1493282 a wd:Q8148 ;
+    rdfs:label "Special Metals Corporation"@en .
+
+wd:Q15008046 a wd:Q1914636 ;
+    rdfs:label "log driving"@en .
+
+wd:Q15067276 a wd:Q8148 ;
+    rdfs:label "health care industry"@en .
+
+wd:Q1513116 a wd:Q937228 ;
+    rdfs:label "dryness"@en .
+
+wd:Q1518753 a wd:Q1914636 ;
+    rdfs:label "Gesenk"@en .
+
+wd:Q1519259 a wd:Q35120 ;
+    rdfs:label "Q1519259"^^xsd:string .
+
+wd:Q1530061 a wd:Q937228 ;
+    rdfs:label "credibility"@en .
+
+wd:Q15303501 a wd:Q1207505 ;
+    rdfs:label "secularity"@en .
+
+wd:Q15383191 a wd:Q1914636 ;
+    rdfs:label "Technology intelligence"@en .
+
+wd:Q154273 a wd:Q1914636 ;
+    rdfs:label "colportage"@en .
+
+wd:Q15449497 a wd:Q1914636 ;
+    rdfs:label "executive transport"@en .
+
+wd:Q1546695 a wd:Q1914636 ;
+    rdfs:label "cartomancy"@en .
+
+wd:Q15488100 a wd:Q1914636 ;
+    rdfs:label "film direction"@en .
+
+wd:Q1550789 a wd:Q1914636 ;
+    rdfs:label "Pharmacovigilance"@en .
+
+wd:Q1552147 a wd:Q1914636 ;
+    rdfs:label "Q1552147"^^xsd:string .
+
+wd:Q1558457 a wd:Q1207505 ;
+    rdfs:label "gynophore"@en .
+
+wd:Q15678577 a wd:Q8148 ;
+    rdfs:label "Meerut publishing industry"@en .
+
+wd:Q1569795 a wd:Q937228 ;
+    rdfs:label "sea state"@en .
+
+wd:Q1571795 a wd:Q1207505 ;
+    rdfs:label "precocial"@en .
+
+wd:Q1571805 a wd:Q1914636 ;
+    rdfs:label "Tech C"@en .
+
+wd:Q1571929 a wd:Q1914636 ;
+    rdfs:label "general aviation"@en .
+
+wd:Q1583429 a wd:Q4026292 ;
+    rdfs:label "Stand in the Schoolhouse Door"@en .
+
+wd:Q15846522 a wd:Q4026292 ;
+    rdfs:label "Q15846522"^^xsd:string .
+
+wd:Q15850009 a wd:Q1914636 ;
+    rdfs:label "Day-tripper"@en .
+
+wd:Q15877559 rdfs:label "Q15877559"^^xsd:string ;
+    rdfs:subClassOf wd:Q2751054 .
+
+wd:Q15877766 a wd:Q1914636 ;
+    rdfs:label "Q15877766"^^xsd:string .
+
+wd:Q15883587 a wd:Q4026292 ;
+    rdfs:label "claim"@en .
+
+wd:Q1594739 a wd:Q937228 ;
+    rdfs:label "Q1594739"^^xsd:string .
+
+wd:Q1597503 a wd:Q937228 ;
+    rdfs:label "Q1597503"^^xsd:string .
+
+wd:Q1598031 a wd:Q1914636,
+        wd:Q937228 ;
+    rdfs:label "Illizit"@en .
+
+wd:Q16023725 a wd:Q8148 ;
+    rdfs:label "publishing industry"@en .
+
+wd:Q1609891 a wd:Q8148 ;
+    rdfs:label "wood processing"@en .
+
+wd:Q1612881 a wd:Q20937557 ;
+    rdfs:label "National Defense Authorization Act"@en .
+
+wd:Q16148095 a wd:Q20937557 ;
+    rdfs:label "Sessions"@en .
+
+wd:Q16155080 a wd:Q20937557 ;
+    rdfs:label "Monuments and memorials to Horatio Nelson, 1st Viscount Nelson"@en .
+
+wd:Q1618728 a wd:Q8148 ;
+    rdfs:label "property management"@en .
+
+wd:Q1621650 a wd:Q937228 ;
+    rdfs:label "Hochaltrigkeit"@en .
+
+wd:Q16252379 a wd:Q8148 ;
+    rdfs:label "Human resource consulting"@en .
+
+wd:Q1643184 a wd:Q1914636 ;
+    rdfs:label "help"@en .
+
+wd:Q164359 a wd:Q1207505 ;
+    rdfs:label "experience"@en .
+
+wd:Q1648040 a wd:Q937228 ;
+    rdfs:label "correctness"@en .
+
+wd:Q1650350 a wd:Q1914636 ;
+    rdfs:label "prospecting"@en .
+
+wd:Q16510258 a wd:Q20937557 ;
+    rdfs:label "ChromeS20 Series"@en .
+
+wd:Q16511142 a wd:Q8148 ;
+    rdfs:label "rail industry"@en .
+
+wd:Q16546687 a wd:Q937228 ;
+    rdfs:label "novelty"@en .
+
+wd:Q165474 a wd:Q937228 ;
+    rdfs:label "commutative property"@en .
+
+wd:Q1660327 a wd:Q1207505 ;
+    rdfs:label "impertinence"@en .
+
+wd:Q16635395 a wd:Q1914636 ;
+    rdfs:label "tarotology"@en .
+
+wd:Q166376 a wd:Q1914636 ;
+    rdfs:label "doping in sport"@en .
+
+wd:Q1670965 a wd:Q1207505 ;
+    rdfs:label "toe"@en .
+
+wd:Q1671165 a wd:Q1914636 ;
+    rdfs:label "Seihen"@en .
+
+wd:Q16712637 a wd:Q937228 ;
+    rdfs:label "Q16712637"^^xsd:string .
+
+wd:Q16722198 a wd:Q1207505 ;
+    rdfs:label "Q16722198"^^xsd:string .
+
+wd:Q1675033 a wd:Q1914636 ;
+    rdfs:label "Itako"@en .
+
+wd:Q1679069 a wd:Q20937557 ;
+    rdfs:label "Stoclet Frieze"@en .
+
+wd:Q1681936 a wd:Q1207505 ;
+    rdfs:label "washfastness"@en .
+
+wd:Q16879932 a wd:Q1914636,
+        wd:Q8148 ;
+    rdfs:label "musical instrument making"@en .
+
+wd:Q16920157 a wd:Q1914636 ;
+    rdfs:label "variation"@en .
+
+wd:Q16944853 a wd:Q1914636 ;
+    rdfs:label "Hydraulist"@en .
+
+wd:Q1696253 a wd:Q937228 ;
+    rdfs:label "Palatability"@en .
+
+wd:Q16962827 a wd:Q20937557 ;
+    rdfs:label "Paschal cycle"@en .
+
+wd:Q16996249 a wd:Q20937557 ;
+    rdfs:label "I Can Read!"@en .
+
+wd:Q17001427 a wd:Q1914636 ;
+    rdfs:label "Bitcoin network"@en .
+
+wd:Q17003225 a wd:Q1914636 ;
+    rdfs:label "biological illustration"@en .
+
+wd:Q17018236 a wd:Q8148 ;
+    rdfs:label "bicycle industry"@en .
+
+wd:Q17022385 rdfs:label "Sustainability in Dubai"@en ;
+    rdfs:subClassOf wd:Q219416 .
+
+wd:Q17023317 a wd:Q1914636 ;
+    rdfs:label "Shoulder Pole Rice Eating"@en .
+
+wd:Q17024704 a wd:Q20937557 ;
+    rdfs:label "motorcycle racing series"@en .
+
+wd:Q17024773 a wd:Q1914636 ;
+    rdfs:label "television weathercast"@en .
+
+wd:Q17074184 rdfs:label "ecological farming"@en ;
+    rdfs:subClassOf wd:Q2751054 .
+
+wd:Q17082653 a wd:Q8148 ;
+    rdfs:label "candy making"@en .
+
+wd:Q17092352 a wd:Q1914636 ;
+    rdfs:label "patient selection"@en .
+
+wd:Q17096206 a wd:Q1914636 ;
+    rdfs:label "Target practice"@en .
+
+wd:Q170978 a wd:Q8148 ;
+    rdfs:label "robotics"@en .
+
+wd:Q171141 a wd:Q1914636 ;
+    rdfs:label "gastronomy"@en .
+
+wd:Q17143560 a wd:Q1914636 ;
+    rdfs:label "modelling"@en .
+
+wd:Q1718812 a wd:Q20937557 ;
+    rdfs:label "Q1718812"^^xsd:string .
+
+wd:Q1725430 a wd:Q1914636 ;
+    rdfs:label "lawmaking"@en .
+
+wd:Q1726864 a wd:Q1207505 ;
+    rdfs:label "sentimentality"@en .
+
+wd:Q1729295 a wd:Q937228 ;
+    rdfs:label "variety"@en .
+
+wd:Q17305180 a wd:Q1914636 ;
+    rdfs:label "urban development"@en .
+
+wd:Q17308314 a wd:Q1914636 ;
+    rdfs:label "Bellfounding"@en .
+
+wd:Q17318037 a wd:Q1914636 ;
+    rdfs:label "waste picking"@en .
+
+wd:Q17321238 a wd:Q937228 ;
+    rdfs:label "neoplastic malignancy"@en .
+
+wd:Q17344835 a wd:Q1914636 ;
+    rdfs:label "songwriting"@en .
+
+wd:Q1736449 a wd:Q1207505 ;
+    rdfs:label "Q1736449"^^xsd:string .
+
+wd:Q1744214 a wd:Q1914636 ;
+    rdfs:label "Q1744214"^^xsd:string .
+
+wd:Q1748655 a wd:Q1914636 ;
+    rdfs:label "Corporate foresight"@en .
+
+wd:Q175234 a wd:Q4026292 ;
+    rdfs:label "embouchure"@en .
+
+wd:Q1754278 a wd:Q1207505 ;
+    rdfs:label "referential transparency"@en .
+
+wd:Q17554390 a wd:Q1914636 ;
+    rdfs:label "resting"@en .
+
+wd:Q17572748 a wd:Q1914636 ;
+    rdfs:label "begging"@en .
+
+wd:Q1759595 a wd:Q8148 ;
+    rdfs:label "Automated storage and retrieval system"@en .
+
+wd:Q1762591 a wd:Q1914636 ;
+    rdfs:label "diagnostic test"@en .
+
+wd:Q17634591 a wd:Q8148 ;
+    rdfs:label "Q17634591"^^xsd:string .
+
+wd:Q17634596 a wd:Q1914636 ;
+    rdfs:label "website maintenance"@en .
+
+wd:Q177251 a wd:Q937228 ;
+    rdfs:label "Asocitive"@en .
+
+wd:Q177719 a wd:Q1914636 ;
+    rdfs:label "medical diagnosis"@en .
+
+wd:Q17776248 a wd:Q8148 ;
+    rdfs:label "Q17776248"^^xsd:string .
+
+wd:Q177777 a wd:Q8148 ;
+    rdfs:label "logistics"@en .
+
+wd:Q1788178 a wd:Q1914636 ;
+    rdfs:label "Finding of the True Cross"@en .
+
+wd:Q1789144 a wd:Q1207505 ;
+    rdfs:label "crystalline"@en .
+
+wd:Q1790516 a wd:Q1914636 ;
+    rdfs:label "language culture"@en .
+
+wd:Q17911657 a wd:Q1914636 ;
+    rdfs:label "taphophilia"@en .
+
+wd:Q179551 a wd:Q937228 ;
+    rdfs:label "HTML element"@en .
+
+wd:Q1802953 a wd:Q1914636 ;
+    rdfs:label "Präsenzdienst"@en .
+
+wd:Q18030315 a wd:Q937228 ;
+    rdfs:label "compactness"@en .
+
+wd:Q180388 a wd:Q8148 ;
+    rdfs:label "waste management"@en .
+
+wd:Q1810799 a wd:Q1207505 ;
+    rdfs:label "Q1810799"^^xsd:string .
+
+wd:Q1813455 a wd:Q1914636 ;
+    rdfs:label "Lehrgang"@en .
+
+wd:Q18207130 a wd:Q1914636 ;
+    rdfs:label "flight-sharing"@en .
+
+wd:Q18208100 a wd:Q1207505 ;
+    rdfs:label "instrumental convergence"@en .
+
+wd:Q18212316 a wd:Q937228 ;
+    rdfs:label "Q18212316"^^xsd:string .
+
+wd:Q18219587 a wd:Q20937557 ;
+    rdfs:label "Passion"@en .
+
+wd:Q1825273 a wd:Q1207505 ;
+    rdfs:label "leptosome"@en .
+
+wd:Q1825499 a wd:Q937228 ;
+    rdfs:label "liminality"@en .
+
+wd:Q183505 a wd:Q20937557 ;
+    rdfs:label "NEC PC-9800 series"@en .
+
+wd:Q18382459 a wd:Q1914636 ;
+    rdfs:label "passenger airline service"@en .
+
+wd:Q184207 a wd:Q937228 ;
+    rdfs:label "ferromagnetism"@en .
+
+wd:Q18435276 a wd:Q1207505 ;
+    rdfs:label "Q18435276"^^xsd:string .
+
+wd:Q18484110 a wd:Q8148 ;
+    rdfs:label "Q18484110"^^xsd:string .
+
+wd:Q18506524 a wd:Q1914636 ;
+    rdfs:label "Mazze"@en .
+
+wd:Q18523854 a wd:Q1914636 ;
+    rdfs:label "stage management"@en .
+
+wd:Q18543534 a wd:Q1914636 ;
+    rdfs:label "Q18543534"^^xsd:string .
+
+wd:Q185733 a wd:Q1914636 ;
+    rdfs:label "philanthropy"@en .
+
+wd:Q18608406 a wd:Q1914636 ;
+    rdfs:label "mushing"@en .
+
+wd:Q18612566 a wd:Q20937557 ;
+    rdfs:label "dog's bollocks"@en .
+
+wd:Q186171 a wd:Q20937557 ;
+    rdfs:label "Q186171"^^xsd:string .
+
+wd:Q18646422 a wd:Q1914636 ;
+    rdfs:label "confectionery"@en .
+
+wd:Q18697160 a wd:Q1914636 ;
+    rdfs:label "golf ball diver"@en .
+
+wd:Q187094 a wd:Q1914636 ;
+    rdfs:label "time comparison"@en .
+
+wd:Q18749628 a wd:Q1914636 ;
+    rdfs:label "regulatory affairs"@en .
+
+wd:Q18757 a wd:Q1207505 ;
+    rdfs:label "validity"@en .
+
+wd:Q187939 a wd:Q8148 ;
+    rdfs:label "manufacturing"@en .
+
+wd:Q188494 a wd:Q1914636 ;
+    rdfs:label "witch hunt"@en .
+
+wd:Q188689 a wd:Q4026292 ;
+    rdfs:label "ultimatum"@en .
+
+wd:Q188844 a wd:Q1914636 ;
+    rdfs:label "volunteering"@en .
+
+wd:Q189439 a wd:Q1914636 ;
+    rdfs:label "version control"@en .
+
+wd:Q190489 a wd:Q1207505 ;
+    rdfs:label "evergreen plant"@en .
+
+wd:Q190637 a wd:Q8148 ;
+    rdfs:label "web design"@en .
+
+wd:Q1907514 a wd:Q1207505 ;
+    rdfs:label "area density"@en .
+
+wd:Q190902 a wd:Q1914636 ;
+    rdfs:label "Zentrierung"@en .
+
+wd:Q19153265 a wd:Q20937557 ;
+    rdfs:label "Q19153265"^^xsd:string .
+
+wd:Q191903 a wd:Q1207505 ;
+    rdfs:label "autocephaly"@en .
+
+wd:Q192013 a wd:Q1914636 ;
+    rdfs:label "Zerscherbung"@en .
+
+wd:Q1920640 a wd:Q1914636 ;
+    rdfs:label "Utrecht Museum Night"@en .
+
+wd:Q1924906 a wd:Q8148 ;
+    rdfs:label "metal industry"@en .
+
+wd:Q1926748 a wd:Q1914636 ;
+    rdfs:label "Q1926748"^^xsd:string .
+
+wd:Q193181 a wd:Q1914636 ;
+    rdfs:label "observation"@en .
+
+wd:Q1932115 a wd:Q1914636 ;
+    rdfs:label "degustation"@en .
+
+wd:Q1934099 a wd:Q937228 ;
+    rdfs:label "subadditivity"@en .
+
+wd:Q1934745 a wd:Q1207505 ;
+    rdfs:label "keyboard expression"@en .
+
+wd:Q193526 a wd:Q937228 ;
+    rdfs:label "conscience"@en .
+
+wd:Q19359146 a wd:Q1914636 ;
+    rdfs:label "Q19359146"^^xsd:string .
+
+wd:Q1938241 a wd:Q1914636 ;
+    rdfs:label "Q1938241"^^xsd:string .
+
+wd:Q194189 a wd:Q1914636 ;
+    rdfs:label "sales"@en .
+
+wd:Q1945600 a wd:Q8148 ;
+    rdfs:label "mining industry"@en .
+
+wd:Q1945759 a wd:Q20937557 ;
+    rdfs:label "World Series of Darts"@en .
+
+wd:Q1957816 a wd:Q1914636 ;
+    rdfs:label "design of furniture"@en .
+
+wd:Q1961801 a wd:Q1914636 ;
+    rdfs:label "microfilming"@en .
+
+wd:Q196372 a wd:Q937228 ;
+    rdfs:label "observational error"@en .
+
+wd:Q196720 a wd:Q1914636 ;
+    rdfs:label "Zerstäuben"@en .
+
+wd:Q1975498 a wd:Q1207505 ;
+    rdfs:label "Q1975498"^^xsd:string .
+
+wd:Q19794820 a wd:Q1914636 ;
+    rdfs:label "stonemasonry"@en .
+
+wd:Q19810245 a wd:Q8148 ;
+    rdfs:label "Marathi-language television"@en .
+
+wd:Q19834025 a wd:Q1914636 ;
+    rdfs:label "Q19834025"^^xsd:string .
+
+wd:Q19843694 a wd:Q1914636 ;
+    rdfs:label "Animal husbandry in France"@en .
+
+wd:Q198582 a wd:Q937228 ;
+    rdfs:label "Ziegeldurchschuss"@en .
+
+wd:Q1988924 a wd:Q4026292 ;
+    rdfs:label "LNG ship to ship transfer"@en .
+
+wd:Q198938 a wd:Q1914636 ;
+    rdfs:label "Zielansprache"@en .
+
+wd:Q198969 a wd:Q937228 ;
+    rdfs:label "Targeting accuracy"@en .
+
+wd:Q199001 a wd:Q1914636 ;
+    rdfs:label "Target object search (dog sports)"@en .
+
+wd:Q1990502 a wd:Q1914636 ;
+    rdfs:label "LJ"@en .
+
+wd:Q1992891 a wd:Q1914636 ;
+    rdfs:label "Q1992891"^^xsd:string .
+
+wd:Q19944901 a wd:Q1914636 ;
+    rdfs:label "goldbeating"@en .
+
+wd:Q1995666 a wd:Q8148 ;
+    rdfs:label "Business travel"@en .
+
+wd:Q19991564 a wd:Q1914636 ;
+    rdfs:label "Q19991564"^^xsd:string .
+
+wd:Q1999273 a wd:Q1207505 ;
+    rdfs:label "value-fixed"@en .
+
+wd:Q20021528 a wd:Q8148 ;
+    rdfs:label "Polígono de Managua"@en .
+
+wd:Q2002626 a wd:Q8148 ;
+    rdfs:label "Notz Metall"@en .
+
+wd:Q20050633 a wd:Q20937557 ;
+    rdfs:label "The Harvest Gypsies"@en .
+
+wd:Q20058545 a wd:Q4026292 ;
+    rdfs:label "commit"@en .
+
+wd:Q20081142 a wd:Q8148 ;
+    rdfs:label "art commerce"@en .
+
+wd:Q20085854 a wd:Q1914636 ;
+    rdfs:label "vigilantism"@en .
+
+wd:Q20191854 a wd:Q1914636 ;
+    rdfs:label "Q20191854"^^xsd:string .
+
+wd:Q202833 a wd:Q8148 ;
+    rdfs:label "social media"@en .
+
+wd:Q2040532 a wd:Q1914636,
+        wd:Q8148 ;
+    rdfs:label "event planning"@en .
+
+wd:Q205801 a wd:Q20937557 ;
+    rdfs:label "Saffir–Simpson hurricane wind scale"@en .
+
+wd:Q20581067 a wd:Q8148 ;
+    rdfs:label "Q20581067"^^xsd:string .
+
+wd:Q206305 a wd:Q937228 ;
+    rdfs:label "citability"@en .
+
+wd:Q207137 a wd:Q20937557 ;
+    rdfs:label "curriculum"@en .
+
+wd:Q20742557 a wd:Q1207505 ;
+    rdfs:label "permanence"@en .
+
+wd:Q2074276 a wd:Q1914636 ;
+    rdfs:label "powered paragliding"@en .
+
+wd:Q20747921 a wd:Q4026292 ;
+    rdfs:label "Q20747921"^^xsd:string .
+
+wd:Q20819990 a wd:Q35120 ;
+    rdfs:label "organism"@en .
+
+wd:Q20826686 a wd:Q4026292 ;
+    rdfs:label "Q20826686"^^xsd:string .
+
+wd:Q2084518 a wd:Q1914636 ;
+    rdfs:label "Q2084518"^^xsd:string .
+
+wd:Q20892182 a wd:Q4026292 ;
+    rdfs:label "video-recording"@en .
+
+wd:Q2091629 a wd:Q937228 ;
+    rdfs:label "magnitude"@en .
+
+wd:Q209572 a wd:Q1914636 ;
+    rdfs:label "military service"@en .
+
+wd:Q20976736 a wd:Q1914636 ;
+    rdfs:label "scheduled international air service"@en .
+
+wd:Q20976813 a wd:Q1914636 ;
+    rdfs:label "international air service"@en .
+
+wd:Q20976913 a wd:Q1914636 ;
+    rdfs:label "commercial air service"@en .
+
+wd:Q20977792 a wd:Q1914636 ;
+    rdfs:label "domestic air service"@en .
+
+wd:Q20978155 a wd:Q1914636 ;
+    rdfs:label "scheduled domestic air service"@en .
+
+wd:Q21004260 a wd:Q1914636 ;
+    rdfs:label "inquiry"@en .
+
+wd:Q21009914 a wd:Q1914636 ;
+    rdfs:label "Q21009914"^^xsd:string .
+
+wd:Q21012180 a wd:Q1207505 ;
+    rdfs:label "quality of life"@en .
+
+wd:Q210521 a wd:Q937228 ;
+    rdfs:label "image resolution"@en .
+
+wd:Q2111823 a wd:Q35120 ;
+    rdfs:label "Software product line"@en .
+
+wd:Q2114846 a wd:Q1914636 ;
+    rdfs:label "zoological specimen"@en .
+
+wd:Q21152830 a wd:Q20937557 ;
+    rdfs:label "BSicon"@en .
+
+wd:Q211557 a wd:Q1914636 ;
+    rdfs:label "bequest"@en .
+
+wd:Q21157865 a wd:Q8148 ;
+    rdfs:label "technology industry"@en .
+
+wd:Q21159976 a wd:Q1207505 ;
+    rdfs:label "practicality"@en .
+
+wd:Q21198548 a wd:Q8148 ;
+    rdfs:label "audiovisual production"@en .
+
+wd:Q21228187 a wd:Q1914636 ;
+    rdfs:label "Q21228187"^^xsd:string .
+
+wd:Q213376 a wd:Q8148 ;
+    rdfs:label "winemaking"@en .
+
+wd:Q213449 a wd:Q1914636 ;
+    rdfs:label "eating"@en .
+
+wd:Q2136251 a wd:Q1207505 ;
+    rdfs:label "Q2136251"^^xsd:string .
+
+wd:Q2139960 a wd:Q4026292 ;
+    rdfs:label "Q2139960"^^xsd:string .
+
+wd:Q214092 a wd:Q1914636 ;
+    rdfs:label "patronage"@en .
+
+wd:Q214912 a wd:Q1914636 ;
+    rdfs:label "hitchhiking"@en .
+
+wd:Q215067 a wd:Q1207505 ;
+    rdfs:label "orthogonality"@en .
+
+wd:Q21550668 a wd:Q1914636 ;
+    rdfs:label "illustration"@en .
+
+wd:Q216053 a wd:Q8148 ;
+    rdfs:label "haute couture"@en .
+
+wd:Q2162372 a wd:Q1914636 ;
+    rdfs:label "pipe fitting"@en .
+
+wd:Q21701659 a wd:Q937228 ;
+    rdfs:label "homonymy"@en .
+
+wd:Q217121 a wd:Q937228 ;
+    rdfs:label "ferrimagnetism"@en .
+
+wd:Q2175596 a wd:Q1207505 ;
+    rdfs:label "compatibility"@en .
+
+wd:Q2176651 a wd:Q20937557 ;
+    rdfs:label "Dashavatara"@en .
+
+wd:Q2179317 a wd:Q1914636 ;
+    rdfs:label "Q2179317"^^xsd:string .
+
+wd:Q2180984 a wd:Q20937557 ;
+    rdfs:label "Soccerseries"@en .
+
+wd:Q218537 a wd:Q1914636 ;
+    rdfs:label "customs clearance"@en .
+
+wd:Q218582 a wd:Q1914636 ;
+    rdfs:label "Zollbeschau"@en .
+
+wd:Q218719 a wd:Q1914636 ;
+    rdfs:label "border control"@en .
+
+wd:Q2188678 a wd:Q1914636 ;
+    rdfs:label "bus spotting"@en .
+
+wd:Q21963484 a wd:Q20937557 ;
+    rdfs:label "Games Done Quick"@en .
+
+wd:Q2200492 a wd:Q1914636 ;
+    rdfs:label "Q2200492"^^xsd:string .
+
+wd:Q220277 a wd:Q4026292 ;
+    rdfs:label "defenestration"@en .
+
+wd:Q2221906 a wd:Q937228 ;
+    rdfs:label "geographic location"@en .
+
+wd:Q22261015 a wd:Q1914636 ;
+    rdfs:label "Q22261015"^^xsd:string .
+
+wd:Q22284407 a wd:Q20937557 ;
+    rdfs:label "Australian federal election"@en .
+
+wd:Q2234184 a wd:Q937228 ;
+    rdfs:label "bedding"@en .
+
+wd:Q2251595 a wd:Q1914636 ;
+    rdfs:label "protection"@en .
+
+wd:Q2260362 a wd:Q937228 ;
+    rdfs:label "Q2260362"^^xsd:string .
+
+wd:Q22666 a wd:Q8148 ;
+    rdfs:label "file sharing"@en .
+
+wd:Q22696274 a wd:Q20937557 ;
+    rdfs:label "Malaysian general election"@en .
+
+wd:Q22712311 rdfs:label "Green cloud computing"@en ;
+    rdfs:subClassOf wd:Q1064746 .
+
+wd:Q227680 a wd:Q937228 ;
+    rdfs:label "breeding progress"@en .
+
+wd:Q227870 a wd:Q8148 ;
+    rdfs:label "sugar industry"@en .
+
+wd:Q228163 a wd:Q1914636 ;
+    rdfs:label "Zuerwerb"@en .
+
+wd:Q2283886 a wd:Q8148 ;
+    rdfs:label "pulp and paper industry"@en .
+
+wd:Q228438 a wd:Q1914636 ;
+    rdfs:label "Zuglenkung"@en .
+
+wd:Q22920017 a wd:Q8148 ;
+    rdfs:label "voice acting"@en .
+
+wd:Q230106 a wd:Q1914636 ;
+    rdfs:label "Zungenstoß"@en .
+
+wd:Q2301186 a wd:Q1207505 ;
+    rdfs:label "necessity"@en .
+
+wd:Q2304418 a wd:Q1914636 ;
+    rdfs:label "locksmithing"@en .
+
+wd:Q2304620 a wd:Q1207505 ;
+    rdfs:label "bistability"@en .
+
+wd:Q2306047 a wd:Q1914636 ;
+    rdfs:label "pest control"@en .
+
+wd:Q2307054 a wd:Q937228 ;
+    rdfs:label "legality"@en .
+
+wd:Q230855 a wd:Q937228 ;
+    rdfs:label "physical state"@en .
+
+wd:Q2311352 a wd:Q937228 ;
+    rdfs:label "Q2311352"^^xsd:string .
+
+wd:Q2313213 a wd:Q1914636 ;
+    rdfs:label "language teaching"@en .
+
+wd:Q2314618 a wd:Q1914636 ;
+    rdfs:label "forensic identification"@en .
+
+wd:Q2316331 a wd:Q8148 ;
+    rdfs:label "electric power industry"@en .
+
+wd:Q231643 a wd:Q937228 ;
+    rdfs:label "inevitability"@en .
+
+wd:Q232836 a wd:Q937228 ;
+    rdfs:label "duality"@en .
+
+wd:Q232903 a wd:Q1914636 ;
+    rdfs:label "dual combat"@en .
+
+wd:Q2334477 a wd:Q1914636 ;
+    rdfs:label "stowage"@en .
+
+wd:Q2340775 a wd:Q1914636 ;
+    rdfs:label "Maske Begrave"@en .
+
+wd:Q2341573 a wd:Q20937557 ;
+    rdfs:label "Super Series"@en .
+
+wd:Q2348670 a wd:Q1914636 ;
+    rdfs:label "millstone dressing"@en .
+
+wd:Q2348801 a wd:Q937228 ;
+    rdfs:label "functional completeness"@en .
+
+wd:Q2350995 a wd:Q1914636 ;
+    rdfs:label "plastering"@en .
+
+wd:Q2354985 a wd:Q1914636 ;
+    rdfs:label "road maintenance"@en .
+
+wd:Q23581415 a wd:Q1914636 ;
+    rdfs:label "Lead abatement"@en .
+
+wd:Q2360634 a wd:Q1207505 ;
+    rdfs:label "immunity"@en .
+
+wd:Q23611288 a wd:Q937228 ;
+    rdfs:label "never changes"@en .
+
+wd:Q23670522 a wd:Q1207505 ;
+    rdfs:label "recency"@en .
+
+wd:Q2367078 a wd:Q1207505 ;
+    rdfs:label "Q2367078"^^xsd:string .
+
+wd:Q23693434 a wd:Q20937557 ;
+    rdfs:label "Wood engravings for Thornton's 'Virgil'"@en .
+
+wd:Q23699878 a wd:Q8148 ;
+    rdfs:label "management consulting industry"@en .
+
+wd:Q2370229 a wd:Q937228 ;
+    rdfs:label "invariant"@en .
+
+wd:Q2383811 a wd:Q8148 ;
+    rdfs:label "office supply"@en .
+
+wd:Q238559 a wd:Q1914636 ;
+    rdfs:label "5-point check"@en .
+
+wd:Q2386093 a wd:Q1914636 ;
+    rdfs:label "Q2386093"^^xsd:string .
+
+wd:Q2391676 a wd:Q1914636 ;
+    rdfs:label "mushroom hunting"@en .
+
+wd:Q2396581 a wd:Q1914636 ;
+    rdfs:label "cooperage"@en .
+
+wd:Q24055197 a wd:Q1207505 ;
+    rdfs:label "sufficiency"@en .
+
+wd:Q24083889 a wd:Q20937557 ;
+    rdfs:label "Q24083889"^^xsd:string .
+
+wd:Q24090648 a wd:Q1914636 ;
+    rdfs:label "Q24090648"^^xsd:string .
+
+wd:Q2409338 a wd:Q1914636 ;
+    rdfs:label "Q2409338"^^xsd:string .
+
+wd:Q2410234 a wd:Q1914636 ;
+    rdfs:label "transloading"@en .
+
+wd:Q24161734 a wd:Q1914636 ;
+    rdfs:label "Q24161734"^^xsd:string .
+
+wd:Q2418755 a wd:Q1914636 ;
+    rdfs:label "Q2418755"^^xsd:string .
+
+wd:Q24249439 a wd:Q1207505 ;
+    rdfs:label "slowness"@en .
+
+wd:Q2431134 a wd:Q937228 ;
+    rdfs:label "symmetry"@en .
+
+wd:Q2434422 a wd:Q1914636 ;
+    rdfs:label "Q2434422"^^xsd:string .
+
+wd:Q2440971 a wd:Q20937557 ;
+    rdfs:label "PC-6000 series"@en .
+
+wd:Q24636480 a wd:Q20937557 ;
+    rdfs:label "Set of five torques"@en .
+
+wd:Q2463803 a wd:Q937228 ;
+    rdfs:label "Q2463803"^^xsd:string .
+
+wd:Q2464310 a wd:Q1207505 ;
+    rdfs:label "pycnique"@en .
+
+wd:Q2467824 a wd:Q1914636 ;
+    rdfs:label "driving"@en .
+
+wd:Q247122 a wd:Q937228 ;
+    rdfs:label "Q247122"^^xsd:string .
+
+wd:Q2474068 a wd:Q1914636 ;
+    rdfs:label "cosmetology"@en .
+
+wd:Q2476929 a wd:Q1207505 ;
+    rdfs:label "confidentiality"@en .
+
+wd:Q247792 a wd:Q937228 ;
+    rdfs:label "progress"@en .
+
+wd:Q2478369 a wd:Q4026292 ;
+    rdfs:label "Q2478369"^^xsd:string .
+
+wd:Q24827889 a wd:Q20937557 ;
+    rdfs:label "Transactions of the Natural History Society of Northumberland, Durham, and Newcastle-upon-Tyne"@en .
+
+wd:Q248376 a wd:Q937228 ;
+    rdfs:label "ignition willingness"@en .
+
+wd:Q250692 a wd:Q1207505 ;
+    rdfs:label "cauliflory"@en .
+
+wd:Q25112199 a wd:Q8148 ;
+    rdfs:label "Online survey service"@en .
+
+wd:Q2512021 a wd:Q1914636 ;
+    rdfs:label "lumières"@en .
+
+wd:Q2515622 a wd:Q1207505 ;
+    rdfs:label "constitutionality"@en .
+
+wd:Q2515887 a wd:Q4026292 ;
+    rdfs:label "pattern of behaviour"@en .
+
+wd:Q2516616 a wd:Q1914636 ;
+    rdfs:label "loading"@en .
+
+wd:Q2524240 a wd:Q937228 ;
+    rdfs:label "robustness"@en .
+
+wd:Q2526778 a wd:Q1207505 ;
+    rdfs:label "Q2526778"^^xsd:string .
+
+wd:Q252802 a wd:Q1914636 ;
+    rdfs:label "ostracism"@en .
+
+wd:Q2534066 a wd:Q1207505 ;
+    rdfs:label "predictability"@en .
+
+wd:Q25344555 a wd:Q1914636,
+        wd:Q8148 ;
+    rdfs:label "professional organizing"@en .
+
+wd:Q2537625 a wd:Q20937557 ;
+    rdfs:label "Q2537625"^^xsd:string .
+
+wd:Q25379611 a wd:Q1914636 ;
+    rdfs:label "Q25379611"^^xsd:string .
+
+wd:Q25379866 a wd:Q937228 ;
+    rdfs:label "ethnic group"@en .
+
+wd:Q2538907 a wd:Q1914636 ;
+    rdfs:label "arms trade"@en .
+
+wd:Q25401338 a wd:Q1914636 ;
+    rdfs:label "Q25401338"^^xsd:string .
+
+wd:Q2540428 a wd:Q1914636 ;
+    rdfs:label "Q2540428"^^xsd:string .
+
+wd:Q2542444 a wd:Q20937557 ;
+    rdfs:label "Welsh Triads"@en .
+
+wd:Q25479529 a wd:Q20937557 ;
+    rdfs:label "Q25479529"^^xsd:string .
+
+wd:Q2549104 a wd:Q1207505 ;
+    rdfs:label "basilical"@en .
+
+wd:Q25535713 a wd:Q937228 ;
+    rdfs:label "Geology of Greece"@en .
+
+wd:Q25600766 a wd:Q937228 ;
+    rdfs:label "Q25600766"^^xsd:string .
+
+wd:Q25616551 a wd:Q8148 ;
+    rdfs:label "silversmithing"@en .
+
+wd:Q256320 a wd:Q1914636 ;
+    rdfs:label "Equivalence Exchange"@en .
+
+wd:Q25643901 a wd:Q8148 ;
+    rdfs:label "Konark Television"@en .
+
+wd:Q256879 a wd:Q1914636 ;
+    rdfs:label "Aestheticization"@en .
+
+wd:Q2585403 a wd:Q4026292 ;
+    rdfs:label "We've had abortions!"@en .
+
+wd:Q25931702 a wd:Q1914636 ;
+    rdfs:label "sleeping"@en .
+
+wd:Q25931851 a wd:Q1207505 ;
+    rdfs:label "software freedom"@en .
+
+wd:Q2595403 a wd:Q4026292 ;
+    rdfs:label "partition"@en .
+
+wd:Q2598347 a wd:Q1914636 ;
+    rdfs:label "car spotting"@en .
+
+wd:Q2602017 a wd:Q1914636 ;
+    rdfs:label "human branding"@en .
+
+wd:Q2608165 a wd:Q4026292 ;
+    rdfs:label "combo"@en .
+
+wd:Q260906 a wd:Q1914636 ;
+    rdfs:label "camping"@en .
+
+wd:Q2609982 a wd:Q937228 ;
+    rdfs:label "Q2609982"^^xsd:string .
+
+wd:Q2615093 a wd:Q1207505 ;
+    rdfs:label "multi dimensional"@en .
+
+wd:Q26208537 a wd:Q1914636 ;
+    rdfs:label "Q26208537"^^xsd:string .
+
+wd:Q2629837 a wd:Q1914636 ;
+    rdfs:label "Q2629837"^^xsd:string .
+
+wd:Q2634569 a wd:Q1207505 ;
+    rdfs:label "Q2634569"^^xsd:string .
+
+wd:Q26406888 a wd:Q937228 ;
+    rdfs:label "permanently situated"@en .
+
+wd:Q2644277 a wd:Q1207505 ;
+    rdfs:label "complementarity"@en .
+
+wd:Q2645905 a wd:Q1207505 ;
+    rdfs:label "Q2645905"^^xsd:string .
+
+wd:Q2657215 a wd:Q1207505 ;
+    rdfs:label "offscreen"@en .
+
+wd:Q2666550 a wd:Q1914636 ;
+    rdfs:label "lampworking"@en .
+
+wd:Q2681171 a wd:Q1914636 ;
+    rdfs:label "Q2681171"^^xsd:string .
+
+wd:Q2686844 a wd:Q4026292 ;
+    rdfs:label "Alpe d'HuZes"@en .
+
+wd:Q26897133 a wd:Q8148 ;
+    rdfs:label "printing industry"@en .
+
+wd:Q2692551 a wd:Q1914636 ;
+    rdfs:label "dewatering"@en .
+
+wd:Q26989041 a wd:Q8148 ;
+    rdfs:label "oil and gas extraction"@en .
+
+wd:Q2699839 a wd:Q1914636 ;
+    rdfs:label "tracking"@en .
+
+wd:Q2707384 a wd:Q1914636 ;
+    rdfs:label "side project"@en .
+
+wd:Q2729047 a wd:Q8148 ;
+    rdfs:label "space industry"@en .
+
+wd:Q272999 a wd:Q1914636 ;
+    rdfs:label "masonry"@en .
+
+wd:Q2736535 a wd:Q1914636 ;
+    rdfs:label "military communications"@en .
+
+wd:Q27659059 a wd:Q20937557 ;
+    rdfs:label "2016–2017 Central Italy earthquakes"@en .
+
+wd:Q27768121 a wd:Q1207505 ;
+    rdfs:label "bilaterally"@en .
+
+wd:Q2778015 a wd:Q1914636 ;
+    rdfs:label "video capture"@en .
+
+wd:Q2778440 a wd:Q1914636 ;
+    rdfs:label "Classical guitar making"@en .
+
+wd:Q2795122 a wd:Q1914636 ;
+    rdfs:label "going out"@en .
+
+wd:Q280221 a wd:Q1914636 ;
+    rdfs:label "interpretation"@en .
+
+wd:Q28049494 a wd:Q20937557 ;
+    rdfs:label "Q28049494"^^xsd:string .
+
+wd:Q28111200 a wd:Q20937557 ;
+    rdfs:label "Récits d'une tante"@en .
+
+wd:Q28150258 a wd:Q4026292 ;
+    rdfs:label "Q28150258"^^xsd:string .
+
+wd:Q2822691 a wd:Q1207505 ;
+    rdfs:label "walkability"@en .
+
+wd:Q28343102 a wd:Q20937557 ;
+    rdfs:label "Q28343102"^^xsd:string .
+
+wd:Q283534 a wd:Q1914636 ;
+    rdfs:label "recreational fishing"@en .
+
+wd:Q2836940 a wd:Q8148 ;
+    rdfs:label "food manufacturing"@en .
+
+wd:Q283791 a wd:Q1914636 ;
+    rdfs:label "family reunification"@en .
+
+wd:Q28650069 a wd:Q1914636 ;
+    rdfs:label "2017 Taiwan Lantern Festival"@en .
+
+wd:Q2865620 a wd:Q1914636 ;
+    rdfs:label "Q2865620"^^xsd:string .
+
+wd:Q28732324 a wd:Q20937557 ;
+    rdfs:label "Q28732324"^^xsd:string .
+
+wd:Q2876213 a wd:Q8148 ;
+    rdfs:label "aerospace"@en .
+
+wd:Q2876670 a wd:Q937228 ;
+    rdfs:label "impenetrability"@en .
+
+wd:Q28792482 a wd:Q1914636 ;
+    rdfs:label "astroengineering"@en .
+
+wd:Q288435 a wd:Q937228 ;
+    rdfs:label "ACID"@en .
+
+wd:Q28873643 a wd:Q1914636 ;
+    rdfs:label "tailoring"@en .
+
+wd:Q28873655 a wd:Q1914636 ;
+    rdfs:label "dressmaking"@en .
+
+wd:Q28917822 a wd:Q20937557 ;
+    rdfs:label "Q28917822"^^xsd:string .
+
+wd:Q2891954 a wd:Q8148 ;
+    rdfs:label "drilling and blasting"@en .
+
+wd:Q2892564 a wd:Q1914636 ;
+    rdfs:label "Q2892564"^^xsd:string .
+
+wd:Q2904016 a wd:Q1914636 ;
+    rdfs:label "BioBlitz"@en .
+
+wd:Q2905488 a wd:Q1914636 ;
+    rdfs:label "beer pouring"@en .
+
+wd:Q29111757 a wd:Q20937557 ;
+    rdfs:label "Q29111757"^^xsd:string .
+
+wd:Q29113372 a wd:Q20937557 ;
+    rdfs:label "Q29113372"^^xsd:string .
+
+wd:Q29167534 a wd:Q8148 ;
+    rdfs:label "tapestry weaving"@en .
+
+wd:Q2918628 a wd:Q20937557 ;
+    rdfs:label "Toophan"@en .
+
+wd:Q2920921 a wd:Q1914636 ;
+    rdfs:label "management"@en .
+
+wd:Q2930613 a wd:Q1914636 ;
+    rdfs:label "conscientious objection"@en .
+
+wd:Q29343719 a wd:Q20937557 ;
+    rdfs:label "Q29343719"^^xsd:string .
+
+wd:Q29349255 a wd:Q1914636 ;
+    rdfs:label "candlemaking"@en .
+
+wd:Q29408533 a wd:Q20937557 ;
+    rdfs:label "Q29408533"^^xsd:string .
+
+wd:Q29428404 a wd:Q1914636 ;
+    rdfs:label "Anti-gay purges in Chechnya"@en .
+
+wd:Q29584413 a wd:Q8148 ;
+    rdfs:label "extraction of natural gas"@en .
+
+wd:Q2961375 a wd:Q1914636 ;
+    rdfs:label "Rabbiting"@en .
+
+wd:Q29641205 a wd:Q1914636 ;
+    rdfs:label "Q29641205"^^xsd:string .
+
+wd:Q2975883 a wd:Q1914636 ;
+    rdfs:label "violin making and maintenance"@en .
+
+wd:Q2982689 a wd:Q1914636 ;
+    rdfs:label "Decommunization"@en .
+
+wd:Q29848551 a wd:Q4026292 ;
+    rdfs:label "Q29848551"^^xsd:string .
+
+wd:Q2994466 a wd:Q1914636 ;
+    rdfs:label "traditional economy"@en .
+
+wd:Q2995667 a wd:Q937228 ;
+    rdfs:label "Economic stability"@en .
+
+wd:Q29974308 a wd:Q20937557 ;
+    rdfs:label "Sandaishū"@en .
+
+wd:Q3 a wd:Q937228 ;
+    rdfs:label "life"@en .
+
+wd:Q301895 a wd:Q20937557 ;
+    rdfs:label "Zanja de Alsina"@en .
+
+wd:Q3027256 a wd:Q20937557 ;
+    rdfs:label "Q3027256"^^xsd:string .
+
+wd:Q3030513 a wd:Q4026292 ;
+    rdfs:label "disappearance"@en .
+
+wd:Q3044530 a wd:Q1914636 ;
+    rdfs:label "snow removal"@en .
+
+wd:Q3050486 a wd:Q1914636 ;
+    rdfs:label "Q3050486"^^xsd:string .
+
+wd:Q3053394 a wd:Q1914636 ;
+    rdfs:label "Q3053394"^^xsd:string .
+
+wd:Q306093 a wd:Q1914636 ;
+    rdfs:label "dismantling"@en .
+
+wd:Q307329 a wd:Q1914636 ;
+    rdfs:label "Shanghaiing"@en .
+
+wd:Q3080428 a wd:Q1207505 ;
+    rdfs:label "Software portability"@en .
+
+wd:Q308453 a wd:Q1914636 ;
+    rdfs:label "Abdrehen"@en .
+
+wd:Q3087403 a wd:Q937228 ;
+    rdfs:label "Magnum cartridge"@en .
+
+wd:Q309017 a wd:Q937228 ;
+    rdfs:label "electrical conductance"@en .
+
+wd:Q30947508 a wd:Q8148 ;
+    rdfs:label "Q30947508"^^xsd:string .
+
+wd:Q3104964 a wd:Q1914636 ;
+    rdfs:label "ghost-riding"@en .
+
+wd:Q3113318 a wd:Q1207505 ;
+    rdfs:label "valence"@en .
+
+wd:Q3115582 a wd:Q937228 ;
+    rdfs:label "Q3115582"^^xsd:string .
+
+wd:Q3118976 a wd:Q20937557 ;
+    rdfs:label "War on Poverty"@en .
+
+wd:Q3124855 a wd:Q20937557 ;
+    rdfs:label "HHX"@en .
+
+wd:Q3128486 a wd:Q1914636 ;
+    rdfs:label "French high civil service"@en .
+
+wd:Q3181883 a wd:Q937228 ;
+    rdfs:label "Historicity"@en .
+
+wd:Q31890014 a wd:Q1914636 ;
+    rdfs:label "Clothing care"@en .
+
+wd:Q320037 a wd:Q1914636 ;
+    rdfs:label "Abflammen"@en .
+
+wd:Q320446 a wd:Q1914636 ;
+    rdfs:label "Abgratung"@en .
+
+wd:Q321476 a wd:Q1914636 ;
+    rdfs:label "Wire stripping"@en .
+
+wd:Q3215756 a wd:Q1914636 ;
+    rdfs:label "typing"@en .
+
+wd:Q322118 a wd:Q1914636 ;
+    rdfs:label "Ablastung"@en .
+
+wd:Q322377 a wd:Q1914636 ;
+    rdfs:label "meter reading"@en .
+
+wd:Q3227726 a wd:Q20937557 ;
+    rdfs:label "Le Tour du monde"@en .
+
+wd:Q3241434 a wd:Q1914636 ;
+    rdfs:label "hydrocarbon exploration"@en .
+
+wd:Q3241671 a wd:Q1914636,
+        wd:Q8148 ;
+    rdfs:label "plumbing"@en .
+
+wd:Q3246828 a wd:Q1207505 ;
+    rdfs:label "Trustworthiness"@en .
+
+wd:Q328554 a wd:Q4026292 ;
+    rdfs:label "accounts receivable"@en .
+
+wd:Q329637 a wd:Q1914636 ;
+    rdfs:label "constructing"@en .
+
+wd:Q331796 a wd:Q1914636 ;
+    rdfs:label "Sales promotion"@en .
+
+wd:Q332097 a wd:Q1914636 ;
+    rdfs:label "Abschmecken"@en .
+
+wd:Q332163 a wd:Q1914636 ;
+    rdfs:label "Abschwenken"@en .
+
+wd:Q332171 a wd:Q1914636 ;
+    rdfs:label "Abschöpfung"@en .
+
+wd:Q332231 a wd:Q1914636 ;
+    rdfs:label "Abseiling"@en .
+
+wd:Q332465 a wd:Q937228 ;
+    rdfs:label "absolute convergence"@en .
+
+wd:Q332553 a wd:Q937228 ;
+    rdfs:label "overcapacity"@en .
+
+wd:Q3326349 a wd:Q1207505 ;
+    rdfs:label "lyricism"@en .
+
+wd:Q3327631 a wd:Q1914636 ;
+    rdfs:label "mulquinerie"@en .
+
+wd:Q3330249 a wd:Q20937557 ;
+    rdfs:label "Musée des familles"@en .
+
+wd:Q333059 a wd:Q937228 ;
+    rdfs:label "Überpunktierung"@en .
+
+wd:Q333712 a wd:Q1207505 ;
+    rdfs:label "statically indeterminate"@en .
+
+wd:Q334401 a wd:Q1914636 ;
+    rdfs:label "surveillance"@en .
+
+wd:Q3346451 a wd:Q20937557 ;
+    rdfs:label "Nuo"@en .
+
+wd:Q33546345 a wd:Q8148 ;
+    rdfs:label "Cameroon Film Industry"@en .
+
+wd:Q336152 a wd:Q1914636 ;
+    rdfs:label "dishwashing"@en .
+
+wd:Q336267 a wd:Q1914636 ;
+    rdfs:label "Abwerbung"@en .
+
+wd:Q3367000 a wd:Q1914636 ;
+    rdfs:label "orchestration"@en .
+
+wd:Q336733 a wd:Q937228 ;
+    rdfs:label "Q336733"^^xsd:string .
+
+wd:Q336740 a wd:Q1914636 ;
+    rdfs:label "Trigger control"@en .
+
+wd:Q337907 a wd:Q1914636 ;
+    rdfs:label "woodcarving"@en .
+
+wd:Q3384500 a wd:Q1207505 ;
+    rdfs:label "Q3384500"^^xsd:string .
+
+wd:Q3389010 a wd:Q937228 ;
+    rdfs:label "Q3389010"^^xsd:string .
+
+wd:Q3393318 a wd:Q1914636 ;
+    rdfs:label "Mascletà"@en .
+
+wd:Q3394043 a wd:Q937228 ;
+    rdfs:label "adequacy"@en .
+
+wd:Q340015 a wd:Q1207505 ;
+    rdfs:label "deixis"@en .
+
+wd:Q3409055 a wd:Q1914636 ;
+    rdfs:label "physical preparedness"@en .
+
+wd:Q340951 a wd:Q937228 ;
+    rdfs:label "Achterliche See"@en .
+
+wd:Q3420077 a wd:Q937228 ;
+    rdfs:label "display aspect ratio"@en .
+
+wd:Q3429919 a wd:Q1914636 ;
+    rdfs:label "screenwriting"@en .
+
+wd:Q3435731 a wd:Q8148 ;
+    rdfs:label "banking"@en .
+
+wd:Q344202 a wd:Q1914636 ;
+    rdfs:label "Active Sourcing"@en .
+
+wd:Q345367 a wd:Q1207505 ;
+    rdfs:label "social"@en .
+
+wd:Q3459203 a wd:Q1914636 ;
+    rdfs:label "SASPAS"@en .
+
+wd:Q3483759 a wd:Q20937557 ;
+    rdfs:label "Q3483759"^^xsd:string .
+
+wd:Q34918199 a wd:Q1914636 ;
+    rdfs:label "Q34918199"^^xsd:string .
+
+wd:Q3491920 a wd:Q1914636 ;
+    rdfs:label "Sourcing"@en .
+
+wd:Q3509975 a wd:Q1207505 ;
+    rdfs:label "in memoriam"@en .
+
+wd:Q3510521 a wd:Q8148 ;
+    rdfs:label "computer security"@en .
+
+wd:Q3511275 a wd:Q20937557 ;
+    rdfs:label "Frontier Series"@en .
+
+wd:Q3513646 a wd:Q937228 ;
+    rdfs:label "Q3513646"^^xsd:string .
+
+wd:Q352842 a wd:Q1914636 ;
+    rdfs:label "teaching"@en .
+
+wd:Q3535655 a wd:Q1914636 ;
+    rdfs:label "cataloging"@en .
+
+wd:Q353578 a wd:Q1914636 ;
+    rdfs:label "chartering"@en .
+
+wd:Q354869 a wd:Q8148 ;
+    rdfs:label "image sharing"@en .
+
+wd:Q3555239 a wd:Q1914636 ;
+    rdfs:label "Marketing intelligence"@en .
+
+wd:Q3567208 a wd:Q20937557 ;
+    rdfs:label "Wen"@en .
+
+wd:Q3569578 a wd:Q20937557 ;
+    rdfs:label "Q3569578"^^xsd:string .
+
+wd:Q3648625 a wd:Q20937557 ;
+    rdfs:label "CDC Cyber"@en .
+
+wd:Q3656481 a wd:Q937228 ;
+    rdfs:label "Q3656481"^^xsd:string .
+
+wd:Q36633 a wd:Q1914636 ;
+    rdfs:label "prostitution"@en .
+
+wd:Q36963 a wd:Q1914636 ;
+    rdfs:label "hunting"@en .
+
+wd:Q370947 a wd:Q937228 ;
+    rdfs:label "market value"@en .
+
+wd:Q371730 a wd:Q937228 ;
+    rdfs:label "well-defined"@en .
+
+wd:Q373017 a wd:Q1914636 ;
+    rdfs:label "basketry"@en .
+
+wd:Q373069 a wd:Q1914636 ;
+    rdfs:label "evangelism"@en .
+
+wd:Q3734365 a wd:Q937228 ;
+    rdfs:label "chirality"@en .
+
+wd:Q373805 a wd:Q1207505 ;
+    rdfs:label "in-system programming"@en .
+
+wd:Q3738765 a wd:Q937228 ;
+    rdfs:label "sensitivity"@en .
+
+wd:Q3754509 a wd:Q1914636 ;
+    rdfs:label "Q3754509"^^xsd:string .
+
+wd:Q3754526 a wd:Q1914636 ;
+    rdfs:label "administration"@en .
+
+wd:Q375471 a wd:Q1914636 ;
+    rdfs:label "student exchange program"@en .
+
+wd:Q3772297 a wd:Q1914636 ;
+    rdfs:label "information seeking"@en .
+
+wd:Q378701 a wd:Q937228 ;
+    rdfs:label "perfection"@en .
+
+wd:Q37974534 a wd:Q20937557 ;
+    rdfs:label "OSS Art Looting Investigation Unit Reports, 1945-46"@en .
+
+wd:Q380962 a wd:Q1914636 ;
+    rdfs:label "cooperation"@en .
+
+wd:Q381437 a wd:Q1207505 ;
+    rdfs:label "aerodynamic diameter"@en .
+
+wd:Q381526 a wd:Q1914636 ;
+    rdfs:label "aeromagnetics"@en .
+
+wd:Q38198189 a wd:Q1207505 ;
+    rdfs:label "creepiness"@en .
+
+wd:Q38438 a wd:Q1914636 ;
+    rdfs:label "dog walking"@en .
+
+wd:Q384871 a wd:Q1207505 ;
+    rdfs:label "availability"@en .
+
+wd:Q39086064 a wd:Q1207505,
+        wd:Q937228 ;
+    rdfs:label "breakup song"@en .
+
+wd:Q39086255 a wd:Q937228 ;
+    rdfs:label "quantum supremacy"@en .
+
+wd:Q39139652 a wd:Q8148 ;
+    rdfs:label "Central San Vicente"@en .
+
+wd:Q392752 a wd:Q1914636 ;
+    rdfs:label "agent provocateur"@en .
+
+wd:Q392933 a wd:Q8148 ;
+    rdfs:label "Arms industry"@en .
+
+wd:Q3937033 a wd:Q1207505 ;
+    rdfs:label "measurement resolution"@en .
+
+wd:Q39471961 a wd:Q20937557 ;
+    rdfs:label "Myths"@en .
+
+wd:Q3954928 a wd:Q20937557 ;
+    rdfs:label "Selus"@en .
+
+wd:Q396568 a wd:Q937228 ;
+    rdfs:label "deference"@en .
+
+wd:Q3990562 a wd:Q8148 ;
+    rdfs:label "Thomas-Morse Aircraft"@en .
+
+wd:Q3997169 a wd:Q937228 ;
+    rdfs:label "tradability"@en .
+
+wd:Q4003259 a wd:Q1914636 ;
+    rdfs:label "Ultracycling"@en .
+
+wd:Q4008379 a wd:Q1914636 ;
+    rdfs:label "valuation"@en .
+
+wd:Q4009255 a wd:Q1914636 ;
+    rdfs:label "Q4009255"^^xsd:string .
+
+wd:Q40308530 a wd:Q20937557 ;
+    rdfs:label "set of Roman-era dice"@en .
+
+wd:Q4062878 a wd:Q20937557 ;
+    rdfs:label "Northwest Staging Route"@en .
+
+wd:Q4072210 a wd:Q8148 ;
+    rdfs:label "nuclear industry"@en .
+
+wd:Q41222493 a wd:Q8148 ;
+    rdfs:label "taxi service"@en .
+
+wd:Q41357 a wd:Q20937557 ;
+    rdfs:label "Acorn Archimedes"@en .
+
+wd:Q4139206 a wd:Q1914636 ;
+    rdfs:label "Centralized computing"@en .
+
+wd:Q4164783 a wd:Q1914636 ;
+    rdfs:label "Q4164783"^^xsd:string .
+
+wd:Q41767 a wd:Q8148 ;
+    rdfs:label "horology"@en .
+
+wd:Q4179086 a wd:Q8148 ;
+    rdfs:label "Q4179086"^^xsd:string .
+
+wd:Q4180211 a wd:Q20937557 ;
+    rdfs:label "Q4180211"^^xsd:string .
+
+wd:Q41958819 a wd:Q20937557 ;
+    rdfs:label "Q41958819"^^xsd:string .
+
+wd:Q42295772 a wd:Q1207505 ;
+    rdfs:label "adaption"@en .
+
+wd:Q4233219 a wd:Q20937557 ;
+    rdfs:label "Kormchaia"@en .
+
+wd:Q423495 a wd:Q1207505 ;
+    rdfs:label "actuality"@en .
+
+wd:Q424095 a wd:Q937228 ;
+    rdfs:label "Acoustic Cloud"@en .
+
+wd:Q424518 a wd:Q937228 ;
+    rdfs:label "acceptability"@en .
+
+wd:Q427249 a wd:Q2751054 ;
+    rdfs:label "Community-supported agriculture"@en .
+
+wd:Q4298922 a wd:Q937228 ;
+    rdfs:label "mixed-use development"@en .
+
+wd:Q43437 a wd:Q1914636 ;
+    rdfs:label "procuring"@en .
+
+wd:Q4352046 a wd:Q4026292 ;
+    rdfs:label "fold"@en .
+
+wd:Q4354683 a wd:Q8148 ;
+    rdfs:label "land transport"@en .
+
+wd:Q4383239 a wd:Q20937557 ;
+    rdfs:label "Q4383239"^^xsd:string .
+
+wd:Q4403116 a wd:Q4026292 ;
+    rdfs:label "clipping"@en .
+
+wd:Q4438117 a wd:Q8148 ;
+    rdfs:label "Sport industry"@en .
+
+wd:Q4459228 a wd:Q8148 ;
+    rdfs:label "commodity production"@en .
+
+wd:Q4478284 a wd:Q937228 ;
+    rdfs:label "Q4478284"^^xsd:string .
+
+wd:Q4489420 a wd:Q8148 ;
+    rdfs:label "industrial engineering"@en .
+
+wd:Q45171911 a wd:Q1207505 ;
+    rdfs:label "passes the Bechdel Test"@en .
+
+wd:Q45172088 a wd:Q1207505 ;
+    rdfs:label "fails the Bechdel Test"@en .
+
+wd:Q451987 a wd:Q1914636 ;
+    rdfs:label "military recruitment"@en .
+
+wd:Q45393 a wd:Q1914636 ;
+    rdfs:label "piracy"@en .
+
+wd:Q455550 a wd:Q1914636 ;
+    rdfs:label "camping"@en .
+
+wd:Q456115 a wd:Q937228 ;
+    rdfs:label "criminal defence"@en .
+
+wd:Q4583211 a wd:Q8148 ;
+    rdfs:label "Den norske Eterfabrikk"@en .
+
+wd:Q460001 a wd:Q937228 ;
+    rdfs:label "Ambulant"@en .
+
+wd:Q461671 a wd:Q1207505 ;
+    rdfs:label "data integrity"@en .
+
+wd:Q4624334 a wd:Q1914636 ;
+    rdfs:label "Q4624334"^^xsd:string .
+
+wd:Q4638907 a wd:Q20937557 ;
+    rdfs:label "4GV"@en .
+
+wd:Q4668956 a wd:Q937228 ;
+    rdfs:label "malleability"@en .
+
+wd:Q4669873 a wd:Q1207505 ;
+    rdfs:label "absoluteness"@en .
+
+wd:Q46996694 a wd:Q20937557 ;
+    rdfs:label "poster series"@en .
+
+wd:Q47001369 a wd:Q1207505 ;
+    rdfs:label "impermanence"@en .
+
+wd:Q47069765 a wd:Q1914636 ;
+    rdfs:label "Q47069765"^^xsd:string .
+
+wd:Q472328 a wd:Q1914636 ;
+    rdfs:label "science communication"@en .
+
+wd:Q47315624 a wd:Q1914636 ;
+    rdfs:label "artillery observation"@en .
+
+wd:Q474200 a wd:Q8148 ;
+    rdfs:label "shipbuilding"@en .
+
+wd:Q47455763 a wd:Q1207505 ;
+    rdfs:label "pleasantness"@en .
+
+wd:Q47455774 a wd:Q1207505 ;
+    rdfs:label "unpleasantness"@en .
+
+wd:Q47455943 a wd:Q1207505 ;
+    rdfs:label "qualitativeness"@en .
+
+wd:Q47455945 a wd:Q1207505 ;
+    rdfs:label "quantitativeness"@en .
+
+wd:Q47518092 a wd:Q1914636 ;
+    rdfs:label "Q47518092"^^xsd:string .
+
+wd:Q47519416 a wd:Q20937557 ;
+    rdfs:label "Acta Zoologica Academiae Scientiarum Hungaricae"@en .
+
+wd:Q4770819 a wd:Q1207505 ;
+    rdfs:label "answer song"@en .
+
+wd:Q47755560 a wd:Q1914636 ;
+    rdfs:label "Bilibili Macro Link"@en .
+
+wd:Q4810714 a wd:Q1207505 ;
+    rdfs:label "Q4810714"^^xsd:string .
+
+wd:Q4818701 a wd:Q937228 ;
+    rdfs:label "attractiveness"@en .
+
+wd:Q48242170 a wd:Q20937557 ;
+    rdfs:label "Mick Jagger series"@en .
+
+wd:Q4833674 a wd:Q20937557 ;
+    rdfs:label "B-LIVE"@en .
+
+wd:Q4835589 a wd:Q20937557 ;
+    rdfs:label "BHIE"@en .
+
+wd:Q48517 a wd:Q1914636 ;
+    rdfs:label "conservation and restoration of glass objects"@en .
+
+wd:Q485440 a wd:Q937228 ;
+    rdfs:label "Anamerie"@en .
+
+wd:Q4864624 a wd:Q20937557 ;
+    rdfs:label "CER Computer"@en .
+
+wd:Q487623 a wd:Q937228 ;
+    rdfs:label "transparency"@en .
+
+wd:Q48785284 a wd:Q1914636 ;
+    rdfs:label "cultural management"@en .
+
+wd:Q488598 a wd:Q1914636 ;
+    rdfs:label "forward air control"@en .
+
+wd:Q4897751 a wd:Q8148 ;
+    rdfs:label "furriery"@en .
+
+wd:Q4899370 a wd:Q8148 ;
+    rdfs:label "beverage industry"@en .
+
+wd:Q49000954 a wd:Q8148 ;
+    rdfs:label "education management organization"@en .
+
+wd:Q49104148 a wd:Q8148 ;
+    rdfs:label "Q49104148"^^xsd:string .
+
+wd:Q4929239 a wd:Q1914636 ;
+    rdfs:label "data collection"@en .
+
+wd:Q4930030 a wd:Q20937557 ;
+    rdfs:label "Blue Yodel"@en .
+
+wd:Q4956578 a wd:Q8148 ;
+    rdfs:label "brand licensing"@en .
+
+wd:Q49621368 a wd:Q8148 ;
+    rdfs:label "Q49621368"^^xsd:string .
+
+wd:Q4993710 a wd:Q1207505 ;
+    rdfs:label "notability"@en .
+
+wd:Q49958 a wd:Q8148 ;
+    rdfs:label "opinion poll"@en .
+
+wd:Q5008685 a wd:Q20937557 ;
+    rdfs:label "CAMX"@en .
+
+wd:Q5014008 a wd:Q20937557 ;
+    rdfs:label "CS-4"@en .
+
+wd:Q5028389 a wd:Q1914636 ;
+    rdfs:label "Camping in New Zealand"@en .
+
+wd:Q50315879 a wd:Q1207505 ;
+    rdfs:label "diademed head"@en .
+
+wd:Q5061830 a wd:Q4026292 ;
+    rdfs:label "Q5061830"^^xsd:string .
+
+wd:Q5062194 a wd:Q937228 ;
+    rdfs:label "centrality"@en .
+
+wd:Q50697929 a wd:Q20937557 ;
+    rdfs:label "DreamWorks Holiday Classics"@en .
+
+wd:Q50698687 a wd:Q20937557 ;
+    rdfs:label "DreamWorks Spooky Stories"@en .
+
+wd:Q50827191 a wd:Q20937557 ;
+    rdfs:label "Illustrations of medical botany"@en .
+
+wd:Q50862267 a wd:Q1914636 ;
+    rdfs:label "Flying duck race"@en .
+
+wd:Q5101838 a wd:Q937228 ;
+    rdfs:label "chirality"@en .
+
+wd:Q5113765 a wd:Q20937557 ;
+    rdfs:label "Chrome 500 series"@en .
+
+wd:Q51164236 a wd:Q1914636 ;
+    rdfs:label "counterfeiting"@en .
+
+wd:Q5118089 a wd:Q1914636 ;
+    rdfs:label "church planting"@en .
+
+wd:Q512136 a wd:Q1207505 ;
+    rdfs:label "linear phase"@en .
+
+wd:Q512392 a wd:Q1207505 ;
+    rdfs:label "androgynophore"@en .
+
+wd:Q51379 a wd:Q1207505 ;
+    rdfs:label "proportionality"@en .
+
+wd:Q513932 a wd:Q937228 ;
+    rdfs:label "linearizability"@en .
+
+wd:Q5153475 a wd:Q20937557 ;
+    rdfs:label "Common Sense"@en .
+
+wd:Q5156150 a wd:Q1207505 ;
+    rdfs:label "compatibility"@en .
+
+wd:Q5156153 a wd:Q1207505 ;
+    rdfs:label "compatibility"@en .
+
+wd:Q5156288 a wd:Q937228 ;
+    rdfs:label "competence"@en .
+
+wd:Q5159081 a wd:Q937228 ;
+    rdfs:label "concreteness"@en .
+
+wd:Q5160146 a wd:Q20937557 ;
+    rdfs:label "Confiscation Acts"@en .
+
+wd:Q516266 a wd:Q937228 ;
+    rdfs:label "recessive trait"@en .
+
+wd:Q5165041 a wd:Q4026292 ;
+    rdfs:label "Contempt of Congress"@en .
+
+wd:Q517656 a wd:Q1914636 ;
+    rdfs:label "records management"@en .
+
+wd:Q5176983 a wd:Q937228 ;
+    rdfs:label "counterintuitiveness"@en .
+
+wd:Q5204000 a wd:Q20937557 ;
+    rdfs:label "D1NZ"@en .
+
+wd:Q5205227 a wd:Q20937557 ;
+    rdfs:label "DJM"@en .
+
+wd:Q5227670 a wd:Q1914636 ;
+    rdfs:label "Dating coach"@en .
+
+wd:Q524931 a wd:Q1914636 ;
+    rdfs:label "Coup de grâce"@en .
+
+wd:Q5254772 a wd:Q1914636 ;
+    rdfs:label "pharmaceutical marketing"@en .
+
+wd:Q5275973 a wd:Q1914636 ;
+    rdfs:label "digital researcher"@en .
+
+wd:Q5280559 a wd:Q1914636 ;
+    rdfs:label "Director of Public Prosecutions"@en .
+
+wd:Q52853744 a wd:Q20937557 ;
+    rdfs:label "series of twelve views by Giovanni Antonio Canal of the Grand Canal"@en .
+
+wd:Q5295523 a wd:Q8148 ;
+    rdfs:label "Doncaster Works"@en .
+
+wd:Q5308661 a wd:Q1914636 ;
+    rdfs:label "droving"@en .
+
+wd:Q5321372 a wd:Q20937557 ;
+    rdfs:label "E-61"@en .
+
+wd:Q5322890 a wd:Q20937557 ;
+    rdfs:label "EDXL"@en .
+
+wd:Q5333090 rdfs:label "Eco-economic decoupling"@en ;
+    rdfs:subClassOf wd:Q131201 .
+
+wd:Q5333257 a wd:Q937228 ;
+    rdfs:label "Ecological stability"@en .
+
+wd:Q5358497 a wd:Q8148 ;
+    rdfs:label "electronics industry"@en .
+
+wd:Q5358499 a wd:Q8148 ;
+    rdfs:label "electronics manufacturing"@en .
+
+wd:Q53677913 a wd:Q20937557 ;
+    rdfs:label "Q53677913"^^xsd:string .
+
+wd:Q53677930 a wd:Q20937557 ;
+    rdfs:label "Q53677930"^^xsd:string .
+
+wd:Q5371140 a wd:Q1914636 ;
+    rdfs:label "Q5371140"^^xsd:string .
+
+wd:Q5377037 rdfs:label "energy descent"@en ;
+    rdfs:subClassOf wd:Q219416 .
+
+wd:Q537963 a wd:Q1914636 ;
+    rdfs:label "forgiveness"@en .
+
+wd:Q5381001 a wd:Q1914636 ;
+    rdfs:label "Environment, Health and Safety"@en .
+
+wd:Q5384447 a wd:Q937228 ;
+    rdfs:label "equidimensionality"@en .
+
+wd:Q5426803 a wd:Q937228 ;
+    rdfs:label "Ergodicity"@en .
+
+wd:Q5427205 a wd:Q20937557 ;
+    rdfs:label "FTOS"@en .
+
+wd:Q54315216 a wd:Q937228 ;
+    rdfs:label "printer resolution"@en .
+
+wd:Q54555759 a wd:Q937228 ;
+    rdfs:label "order of a group element"@en .
+
+wd:Q545981 a wd:Q1914636 ;
+    rdfs:label "image editing"@en .
+
+wd:Q5460483 a wd:Q8148 ;
+    rdfs:label "Floral industry"@en .
+
+wd:Q5465458 a wd:Q8148 ;
+    rdfs:label "food distribution"@en .
+
+wd:Q5473510 a wd:Q1914636 ;
+    rdfs:label "fossil collecting"@en .
+
+wd:Q54802818 a wd:Q20937557 ;
+    rdfs:label "Q54802818"^^xsd:string .
+
+wd:Q54862613 a wd:Q937228 ;
+    rdfs:label "Opacity"@en .
+
+wd:Q54863010 a wd:Q1914636 ;
+    rdfs:label "Q54863010"^^xsd:string .
+
+wd:Q54933487 a wd:Q8148 ;
+    rdfs:label "payment security industry"@en .
+
+wd:Q5501399 a wd:Q4026292 ;
+    rdfs:label "Freighthopping"@en .
+
+wd:Q5502559 a wd:Q20937557 ;
+    rdfs:label "French ship Pourquoi Pas?"@en .
+
+wd:Q55111805 a wd:Q937228 ;
+    rdfs:label "mutability"@en .
+
+wd:Q55111809 a wd:Q937228 ;
+    rdfs:label "immutability"@en .
+
+wd:Q55111891 a wd:Q937228 ;
+    rdfs:label "mutability"@en .
+
+wd:Q5530840 a wd:Q20937557 ;
+    rdfs:label "Gen12"@en .
+
+wd:Q55433472 a wd:Q1207505 ;
+    rdfs:label "sharpness"@en .
+
+wd:Q55590055 a wd:Q20937557 ;
+    rdfs:label "The Riverside Literature Series"@en .
+
+wd:Q55739791 a wd:Q20937557 ;
+    rdfs:label "The Autocrat of the Breakfast-Table"@en .
+
+wd:Q557450 a wd:Q1914636 ;
+    rdfs:label "docking and berthing of spacecraft"@en .
+
+wd:Q55842038 a wd:Q1914636 ;
+    rdfs:label "Q55842038"^^xsd:string .
+
+wd:Q5593509 a wd:Q8148 ;
+    rdfs:label "grain trade"@en .
+
+wd:Q5596608 a wd:Q1914636 ;
+    rdfs:label "grantwriting"@en .
+
+wd:Q56008451 a wd:Q8148 ;
+    rdfs:label "Altemp alloys"@en .
+
+wd:Q56015383 a wd:Q20937557 ;
+    rdfs:label "Tales from Shakspere"@en .
+
+wd:Q56254772 a wd:Q8148 ;
+    rdfs:label "confectionery industry"@en .
+
+wd:Q56259944 a wd:Q8148 ;
+    rdfs:label "Maple Syrup Industry"@en .
+
+wd:Q56260328 a wd:Q1914636 ;
+    rdfs:label "Q56260328"^^xsd:string .
+
+wd:Q56319164 a wd:Q1914636 ;
+    rdfs:label "Q56319164"^^xsd:string .
+
+wd:Q56404686 a wd:Q937228 ;
+    rdfs:label "elongation"@en .
+
+wd:Q56405645 a wd:Q937228 ;
+    rdfs:label "flatness"@en .
+
+wd:Q56441911 a wd:Q20937557 ;
+    rdfs:label "The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge"@en .
+
+wd:Q56451398 a wd:Q20937557 ;
+    rdfs:label "The domestic encyclopaedia: or, A dictionary of facts, and useful knowledge"@en .
+
+wd:Q5645805 a wd:Q937228 ;
+    rdfs:label "Hamming weight"@en .
+
+wd:Q5658243 a wd:Q1207505 ;
+    rdfs:label "Roman adoption"@en .
+
+wd:Q56598105 a wd:Q8148 ;
+    rdfs:label "wattle stripping"@en .
+
+wd:Q56598409 a wd:Q8148 ;
+    rdfs:label "packaging machinery industry"@en .
+
+wd:Q56604459 a wd:Q8148 ;
+    rdfs:label "paint industry"@en .
+
+wd:Q56604579 a wd:Q8148 ;
+    rdfs:label "construction materials industry"@en .
+
+wd:Q56604673 a wd:Q8148 ;
+    rdfs:label "yarn industry"@en .
+
+wd:Q56633969 a wd:Q20937557 ;
+    rdfs:label "Bulletin of the United States National Museum"@en .
+
+wd:Q56681713 a wd:Q35120 ;
+    rdfs:label "Q56681713"^^xsd:string .
+
+wd:Q5671453 a wd:Q1914636 ;
+    rdfs:label "knife sharpening"@en .
+
+wd:Q5674297 a wd:Q1207505 ;
+    rdfs:label "adaptability"@en .
+
+wd:Q56751572 a wd:Q20937557 ;
+    rdfs:label "Q56751572"^^xsd:string .
+
+wd:Q56751575 a wd:Q20937557 ;
+    rdfs:label "Q56751575"^^xsd:string .
+
+wd:Q56751578 a wd:Q20937557 ;
+    rdfs:label "Q56751578"^^xsd:string .
+
+wd:Q56751583 a wd:Q20937557 ;
+    rdfs:label "Q56751583"^^xsd:string .
+
+wd:Q56751587 a wd:Q20937557 ;
+    rdfs:label "Q56751587"^^xsd:string .
+
+wd:Q56751592 a wd:Q20937557 ;
+    rdfs:label "Q56751592"^^xsd:string .
+
+wd:Q56759125 a wd:Q20937557 ;
+    rdfs:label "Trident Juncture"@en .
+
+wd:Q568492 a wd:Q1914636 ;
+    rdfs:label "fitting (clothing)"@en .
+
+wd:Q56857694 a wd:Q937228 ;
+    rdfs:label "sequentiality"@en .
+
+wd:Q570365 a wd:Q20937557 ;
+    rdfs:label "Magion"@en .
+
+wd:Q57081993 a wd:Q20937557 ;
+    rdfs:label "Next Wave: New Directions in Women's Studies"@en .
+
+wd:Q57082156 a wd:Q20937557 ;
+    rdfs:label "ANIMA: Critical Race Studies Otherwise"@en .
+
+wd:Q57082475 a wd:Q20937557 ;
+    rdfs:label "Thought in the Act"@en .
+
+wd:Q57083143 a wd:Q20937557 ;
+    rdfs:label "Improvisation, Community, and Social Practice"@en .
+
+wd:Q57083716 a wd:Q20937557 ;
+    rdfs:label "Experimental Futures"@en .
+
+wd:Q57084087 a wd:Q20937557 ;
+    rdfs:label "Constitutional Conflicts"@en .
+
+wd:Q57084280 a wd:Q20937557 ;
+    rdfs:label "John Hope Franklin Center Book Series"@en .
+
+wd:Q57084413 a wd:Q20937557 ;
+    rdfs:label "American Encounters/Global Interactions"@en .
+
+wd:Q57173735 a wd:Q1207505 ;
+    rdfs:label "education"@en .
+
+wd:Q57174308 a wd:Q937228 ;
+    rdfs:label "breeding system"@en .
+
+wd:Q57189282 a wd:Q20937557 ;
+    rdfs:label "Perverse Modernities: A Series"@en .
+
+wd:Q57203111 a wd:Q20937557 ;
+    rdfs:label "Latin America Otherwise"@en .
+
+wd:Q5723497 a wd:Q1914636 ;
+    rdfs:label "Q5723497"^^xsd:string .
+
+wd:Q572824 a wd:Q1914636 ;
+    rdfs:label "cultural heritage management"@en .
+
+wd:Q57306177 a wd:Q20937557 ;
+    rdfs:label "Refiguring American Music"@en .
+
+wd:Q57306274 a wd:Q20937557 ;
+    rdfs:label "Console-ing Passions: Television and Cultural Power"@en .
+
+wd:Q57307117 a wd:Q20937557 ;
+    rdfs:label "Series Q"@en .
+
+wd:Q57310551 a wd:Q20937557 ;
+    rdfs:label "Post-Contemporary Interventions"@en .
+
+wd:Q57313752 a wd:Q20937557 ;
+    rdfs:label "Nevada Bureau of Mines and Geology Special Publication"@en .
+
+wd:Q5739064 a wd:Q1914636 ;
+    rdfs:label "heritage trail"@en .
+
+wd:Q57419085 a wd:Q20937557 ;
+    rdfs:label "Q57419085"^^xsd:string .
+
+wd:Q574291 a wd:Q1207505 ;
+    rdfs:label "backlight"@en .
+
+wd:Q575439 a wd:Q1914636 ;
+    rdfs:label "clam digging"@en .
+
+wd:Q576481 a wd:Q20937557 ;
+    rdfs:label "Q576481"^^xsd:string .
+
+wd:Q5780469 a wd:Q8148 ;
+    rdfs:label "satellite communication"@en .
+
+wd:Q581105 a wd:Q8148 ;
+    rdfs:label "consumer electronics"@en .
+
+wd:Q58209506 a wd:Q1207505 ;
+    rdfs:label "comic"@en .
+
+wd:Q584540 a wd:Q1914636 ;
+    rdfs:label "captain"@en .
+
+wd:Q58483041 a wd:Q1207505 ;
+    rdfs:label "fails the reverse Bechdel test"@en .
+
+wd:Q58483045 a wd:Q1207505 ;
+    rdfs:label "passes the reverse Bechdel Test"@en .
+
+wd:Q58795659 a wd:Q937228 ;
+    rdfs:label "major"@en .
+
+wd:Q58795728 a wd:Q937228 ;
+    rdfs:label "minor"@en .
+
+wd:Q58853262 a wd:Q20937557 ;
+    rdfs:label "PC-50X Family"@en .
+
+wd:Q58929 a wd:Q4026292 ;
+    rdfs:label "castration"@en .
+
+wd:Q59154534 a wd:Q1914636 ;
+    rdfs:label "database administration"@en .
+
+wd:Q59155052 a wd:Q1914636 ;
+    rdfs:label "scanning"@en .
+
+wd:Q59205294 a wd:Q8148 ;
+    rdfs:label "Q59205294"^^xsd:string .
+
+wd:Q59221654 a wd:Q20937557 ;
+    rdfs:label "Q59221654"^^xsd:string .
+
+wd:Q59284452 a wd:Q35120 ;
+    rdfs:label "Q59284452"^^xsd:string .
+
+wd:Q59308842 a wd:Q8148 ;
+    rdfs:label "leisure industries"@en .
+
+wd:Q59344393 a wd:Q1207505 ;
+    rdfs:label "neurodivergent"@en .
+
+wd:Q59362935 a wd:Q8148 ;
+    rdfs:label "online education"@en .
+
+wd:Q59386908 a wd:Q35120 ;
+    rdfs:label "Q59386908"^^xsd:string .
+
+wd:Q59555084 a wd:Q1914636 ;
+    rdfs:label "fact checking"@en .
+
+wd:Q59677346 a wd:Q8148 ;
+    rdfs:label "sports industry"@en .
+
+wd:Q59769820 a wd:Q20937557 ;
+    rdfs:label "Schriften der Forschungsstelle \"Entartete Kunst\""@en .
+
+wd:Q5983677 a wd:Q20937557 ;
+    rdfs:label "Ibanez Talman"@en .
+
+wd:Q59986256 a wd:Q20937557 ;
+    rdfs:label "Q59986256"^^xsd:string .
+
+wd:Q60042658 a wd:Q1914636 ;
+    rdfs:label "thaumaturgy"@en .
+
+wd:Q6008656 a wd:Q20937557 ;
+    rdfs:label "Medical Botany"@en .
+
+wd:Q60147807 a wd:Q20937557 ;
+    rdfs:label "automobile racing series"@en .
+
+wd:Q601641 a wd:Q1914636 ;
+    rdfs:label "aircraft spotting"@en .
+
+wd:Q6025269 a wd:Q4026292 ;
+    rdfs:label "individual action against climate change"@en .
+
+wd:Q60396389 a wd:Q1914636 ;
+    rdfs:label "backing vocal"@en .
+
+wd:Q60458881 a wd:Q35120 ;
+    rdfs:label "Q60458881"^^xsd:string .
+
+wd:Q60484856 a wd:Q20937557 ;
+    rdfs:label "Notes and Queries - Series 1"@en .
+
+wd:Q60484926 a wd:Q20937557 ;
+    rdfs:label "Notes and Queries - Series 2"@en .
+
+wd:Q60484934 a wd:Q20937557 ;
+    rdfs:label "Notes and Queries - Series 3"@en .
+
+wd:Q60484939 a wd:Q20937557 ;
+    rdfs:label "Notes and Queries - Series 4"@en .
+
+wd:Q60484946 a wd:Q20937557 ;
+    rdfs:label "Notes and Queries - Series 5"@en .
+
+wd:Q60528728 a wd:Q1207505 ;
+    rdfs:label "undesirability"@en .
+
+wd:Q6059504 a wd:Q937228 ;
+    rdfs:label "Invariant basis number"@en .
+
+wd:Q6059598 a wd:Q1914636 ;
+    rdfs:label "Zenne"@en .
+
+wd:Q60617645 a wd:Q1207505 ;
+    rdfs:label "desirability"@en .
+
+wd:Q60617979 a wd:Q1914636 ;
+    rdfs:label "Laienprediger (in German)"@en .
+
+wd:Q60642587 a wd:Q1207505 ;
+    rdfs:label "Monolithity"@en .
+
+wd:Q60644734 a wd:Q937228 ;
+    rdfs:label "openness"@en .
+
+wd:Q60644809 a wd:Q937228 ;
+    rdfs:label "boundedness"@en .
+
+wd:Q60809954 a wd:Q1207505 ;
+    rdfs:label "single edit"@en .
+
+wd:Q60844538 a wd:Q1207505 ;
+    rdfs:label "membership"@en .
+
+wd:Q60992442 a wd:Q8148 ;
+    rdfs:label "Q60992442"^^xsd:string .
+
+wd:Q61002259 a wd:Q20937557 ;
+    rdfs:label "New Books"@en .
+
+wd:Q6105049 a wd:Q1914636 ;
+    rdfs:label "Changing of the Royal Guards at the Royal Palace of Madrid"@en .
+
+wd:Q61054412 a wd:Q8148 ;
+    rdfs:label "gambling industry"@en .
+
+wd:Q61391 a wd:Q1914636 ;
+    rdfs:label "cheerleading"@en .
+
+wd:Q61483608 a wd:Q20937557 ;
+    rdfs:label "Sixty Illustrations of the True Story of Ah Q"@en .
+
+wd:Q61746293 a wd:Q8148 ;
+    rdfs:label "Belarusian oil industry"@en .
+
+wd:Q61754716 a wd:Q8148 ;
+    rdfs:label "Belarusian peat industry"@en .
+
+wd:Q61783220 a wd:Q1914636 ;
+    rdfs:label "handball executive"@en .
+
+wd:Q61790564 a wd:Q8148 ;
+    rdfs:label "Sports Display Cases"@en .
+
+wd:Q618164 a wd:Q20937557 ;
+    rdfs:label "cosmic distance ladder"@en .
+
+wd:Q61889540 a wd:Q8148 ;
+    rdfs:label "Belarusian gas industry"@en .
+
+wd:Q61892423 a wd:Q1914636 ;
+    rdfs:label "radio pioneer"@en .
+
+wd:Q61982693 a wd:Q8148 ;
+    rdfs:label "Belarusian wood chemical industry"@en .
+
+wd:Q62027517 a wd:Q35120 ;
+    rdfs:label "Q62027517"^^xsd:string .
+
+wd:Q62169775 a wd:Q8148 ;
+    rdfs:label "Chocolates Atienza"@en .
+
+wd:Q62520743 a wd:Q8148 ;
+    rdfs:label "gold industry"@en .
+
+wd:Q62530453 a wd:Q35120 ;
+    rdfs:label "ourData Map data model element"@en .
+
+wd:Q62570709 a wd:Q35120 ;
+    rdfs:label "Q62570709"^^xsd:string .
+
+wd:Q62589075 a wd:Q20937557 ;
+    rdfs:label "Q62589075"^^xsd:string .
+
+wd:Q62692343 a wd:Q1207505 ;
+    rdfs:label "Aqua"@en .
+
+wd:Q62692345 a wd:Q1207505 ;
+    rdfs:label "Beast"@en .
+
+wd:Q62692347 a wd:Q1207505 ;
+    rdfs:label "Beast-Warrior"@en .
+
+wd:Q62692348 a wd:Q1207505 ;
+    rdfs:label "Charisma"@en .
+
+wd:Q62692350 a wd:Q1207505 ;
+    rdfs:label "Creator God"@en .
+
+wd:Q62692351 a wd:Q1207505 ;
+    rdfs:label "Cyberse"@en .
+
+wd:Q62692353 a wd:Q1207505 ;
+    rdfs:label "Dinosaur"@en .
+
+wd:Q62692355 a wd:Q1207505 ;
+    rdfs:label "Divine-Beast"@en .
+
+wd:Q62692357 a wd:Q1207505 ;
+    rdfs:label "Dragon"@en .
+
+wd:Q62692359 a wd:Q1207505 ;
+    rdfs:label "Fairy"@en .
+
+wd:Q62692361 a wd:Q1207505 ;
+    rdfs:label "Fiend"@en .
+
+wd:Q62692362 a wd:Q1207505 ;
+    rdfs:label "Fish"@en .
+
+wd:Q62692364 a wd:Q1207505 ;
+    rdfs:label "Insect"@en .
+
+wd:Q62692366 a wd:Q1207505 ;
+    rdfs:label "Machine"@en .
+
+wd:Q62692367 a wd:Q1207505 ;
+    rdfs:label "Plant"@en .
+
+wd:Q62692369 a wd:Q1207505 ;
+    rdfs:label "Psychic"@en .
+
+wd:Q62692370 a wd:Q1207505 ;
+    rdfs:label "Pyro"@en .
+
+wd:Q62692372 a wd:Q1207505 ;
+    rdfs:label "Reptile"@en .
+
+wd:Q62692374 a wd:Q1207505 ;
+    rdfs:label "Rock"@en .
+
+wd:Q62692376 a wd:Q1207505 ;
+    rdfs:label "Sea Serpent"@en .
+
+wd:Q62692377 a wd:Q1207505 ;
+    rdfs:label "Spellcaster"@en .
+
+wd:Q62692379 a wd:Q1207505 ;
+    rdfs:label "Thunder"@en .
+
+wd:Q62692380 a wd:Q1207505 ;
+    rdfs:label "Warrior"@en .
+
+wd:Q62692382 a wd:Q1207505 ;
+    rdfs:label "Winged Beast"@en .
+
+wd:Q62692384 a wd:Q1207505 ;
+    rdfs:label "Wyrm"@en .
+
+wd:Q62692387 a wd:Q1207505 ;
+    rdfs:label "Zombie"@en .
+
+wd:Q62692389 a wd:Q1207505 ;
+    rdfs:label "Black Magic"@en .
+
+wd:Q62692390 a wd:Q1207505 ;
+    rdfs:label "Dragon Magic"@en .
+
+wd:Q62692393 a wd:Q1207505 ;
+    rdfs:label "Human"@en .
+
+wd:Q62692394 a wd:Q1207505 ;
+    rdfs:label "Illusion Magic"@en .
+
+wd:Q62692396 a wd:Q1207505 ;
+    rdfs:label "Immortal"@en .
+
+wd:Q62692398 a wd:Q1207505 ;
+    rdfs:label "Sea Beast"@en .
+
+wd:Q62692400 a wd:Q1207505 ;
+    rdfs:label "White Magic"@en .
+
+wd:Q62692402 a wd:Q1207505 ;
+    rdfs:label "Yokai"@en .
+
+wd:Q62692799 a wd:Q937228 ;
+    rdfs:label "DARK"@en .
+
+wd:Q62692800 a wd:Q937228 ;
+    rdfs:label "DIVINE"@en .
+
+wd:Q62692802 a wd:Q937228 ;
+    rdfs:label "EARTH"@en .
+
+wd:Q62692804 a wd:Q937228 ;
+    rdfs:label "FIRE"@en .
+
+wd:Q62692806 a wd:Q937228 ;
+    rdfs:label "LAUGH"@en .
+
+wd:Q62692808 a wd:Q937228 ;
+    rdfs:label "LIGHT"@en .
+
+wd:Q62692810 a wd:Q937228 ;
+    rdfs:label "WATER"@en .
+
+wd:Q62692811 a wd:Q937228 ;
+    rdfs:label "WIND"@en .
+
+wd:Q627335 a wd:Q1914636 ;
+    rdfs:label "workflow"@en .
+
+wd:Q629329 a wd:Q1914636 ;
+    rdfs:label "work scheduling"@en .
+
+wd:Q630075 a wd:Q20937557 ;
+    rdfs:label "EMD F-unit"@en .
+
+wd:Q630089 a wd:Q20937557 ;
+    rdfs:label "EMD E-unit"@en .
+
+wd:Q6314146 a wd:Q8148 ;
+    rdfs:label "engineering management"@en .
+
+wd:Q63297074 a wd:Q20937557 ;
+    rdfs:label "Q63297074"^^xsd:string .
+
+wd:Q63435011 a wd:Q20937557 ;
+    rdfs:label "Q63435011"^^xsd:string .
+
+wd:Q63435238 a wd:Q1207505 ;
+    rdfs:label "Lenovo Battery Safeguard"@en .
+
+wd:Q63441625 a wd:Q1207505 ;
+    rdfs:label "giantness"@en .
+
+wd:Q63441638 a wd:Q1207505 ;
+    rdfs:label "dwarfness"@en .
+
+wd:Q63453753 a wd:Q1914636 ;
+    rdfs:label "Camping in Israel"@en .
+
+wd:Q635863 a wd:Q1914636 ;
+    rdfs:label "Archival appraisal"@en .
+
+wd:Q637125 a wd:Q8148 ;
+    rdfs:label "floristry"@en .
+
+wd:Q637801 a wd:Q20937557 ;
+    rdfs:label "ATSC standards"@en .
+
+wd:Q6379087 a wd:Q1914636 ;
+    rdfs:label "Kavanah"@en .
+
+wd:Q63882121 a wd:Q937228 ;
+    rdfs:label "difficultness"@en .
+
+wd:Q6390435 a wd:Q20937557 ;
+    rdfs:label "Atari Home Pong series"@en .
+
+wd:Q639219 a wd:Q1207505 ;
+    rdfs:label "Theory of mind"@en .
+
+wd:Q63940493 a wd:Q8148 ;
+    rdfs:label "Q63940493"^^xsd:string .
+
+wd:Q639608 a wd:Q937228 ;
+    rdfs:label "anticommutativity"@en .
+
+wd:Q6398413 a wd:Q4026292 ;
+    rdfs:label "keysigning"@en .
+
+wd:Q63985060 a wd:Q35120 ;
+    rdfs:label "Church of the Heart of Jesus Christ Crimea"@en .
+
+wd:Q641118 a wd:Q937228 ;
+    rdfs:label "personality"@en .
+
+wd:Q64144036 a wd:Q1207505 ;
+    rdfs:label "hypertonicity"@en .
+
+wd:Q64214393 a wd:Q1207505 ;
+    rdfs:label "crewed"@en .
+
+wd:Q64214395 a wd:Q1207505 ;
+    rdfs:label "uncrewed"@en .
+
+wd:Q6423395 a wd:Q1914636 ;
+    rdfs:label "knowledge sharing"@en .
+
+wd:Q64280234 a wd:Q1914636 ;
+    rdfs:label "knowledge work"@en .
+
+wd:Q643190 a wd:Q1914636 ;
+    rdfs:label "subvertising"@en .
+
+wd:Q64490617 a wd:Q937228 ;
+    rdfs:label "spectral type"@en .
+
+wd:Q64493021 a wd:Q1914636 ;
+    rdfs:label "Q64493021"^^xsd:string .
+
+wd:Q64506298 a wd:Q937228 ;
+    rdfs:label "arbitrariness of linguistic sign"@en .
+
+wd:Q64849080 a wd:Q20937557 ;
+    rdfs:label "2020 Democratic Party presidential debates and forums"@en .
+
+wd:Q648877 a wd:Q1914636 ;
+    rdfs:label "post-production"@en .
+
+wd:Q64920589 a wd:Q937228 ;
+    rdfs:label "abstractness"@en .
+
+wd:Q6500754 a wd:Q1914636 ;
+    rdfs:label "internship"@en .
+
+wd:Q65015417 a wd:Q1207505 ;
+    rdfs:label "onscreen"@en .
+
+wd:Q65115136 a wd:Q4026292 ;
+    rdfs:label "urtication"@en .
+
+wd:Q6520325 a wd:Q8148 ;
+    rdfs:label "leisure industry"@en .
+
+wd:Q652122 a wd:Q1914636 ;
+    rdfs:label "sewing"@en .
+
+wd:Q65311416 a wd:Q937228 ;
+    rdfs:label "Q65311416"^^xsd:string .
+
+wd:Q653247 a wd:Q937228 ;
+    rdfs:label "Arheisch"@en .
+
+wd:Q65408843 a wd:Q8148 ;
+    rdfs:label "Orissa Textile Mills"@en .
+
+wd:Q65508370 a wd:Q20937557 ;
+    rdfs:label "The Mole"@en .
+
+wd:Q65555649 a wd:Q1207505 ;
+    rdfs:label "Q65555649"^^xsd:string .
+
+wd:Q65581480 a wd:Q937228 ;
+    rdfs:label "difficulty"@en .
+
+wd:Q65706125 a wd:Q8148 ;
+    rdfs:label "Q65706125"^^xsd:string .
+
+wd:Q65706199 a wd:Q8148 ;
+    rdfs:label "Q65706199"^^xsd:string .
+
+wd:Q65706203 a wd:Q8148 ;
+    rdfs:label "Q65706203"^^xsd:string .
+
+wd:Q65718426 a wd:Q1914636 ;
+    rdfs:label "archiving"@en .
+
+wd:Q65921492 a wd:Q937228 ;
+    rdfs:label "flexibility"@en .
+
+wd:Q65924966 a wd:Q1207505 ;
+    rdfs:label "bishop-elect"@en .
+
+wd:Q65942042 a wd:Q1914636 ;
+    rdfs:label "advanced flight training"@en .
+
+wd:Q65945161 a wd:Q1914636 ;
+    rdfs:label "Q65945161"^^xsd:string .
+
+wd:Q65965582 a wd:Q1207505 ;
+    rdfs:label "reusability"@en .
+
+wd:Q65965618 a wd:Q1207505 ;
+    rdfs:label "disposability"@en .
+
+wd:Q661045 a wd:Q1914636 ;
+    rdfs:label "ventriloquism"@en .
+
+wd:Q66124389 a wd:Q20937557 ;
+    rdfs:label "Q66124389"^^xsd:string .
+
+wd:Q66217004 a wd:Q8148 ;
+    rdfs:label "Q66217004"^^xsd:string .
+
+wd:Q663375 a wd:Q1914636 ;
+    rdfs:label "hatmaking"@en .
+
+wd:Q66437036 a wd:Q1914636 ;
+    rdfs:label "car washing"@en .
+
+wd:Q66458973 a wd:Q1207505 ;
+    rdfs:label "absoluteness"@en .
+
+wd:Q66493851 a wd:Q20937557 ;
+    rdfs:label "councils of Carthage"@en .
+
+wd:Q66717092 a wd:Q20937557 ;
+    rdfs:label "Chinese Physics"@en .
+
+wd:Q66999058 a wd:Q1207505 ;
+    rdfs:label "fugitive"@en .
+
+wd:Q670036 a wd:Q937228 ;
+    rdfs:label "arc length"@en .
+
+wd:Q67085833 a wd:Q1207505 ;
+    rdfs:label "colored vinyl"@en .
+
+wd:Q67147288 a wd:Q8148 ;
+    rdfs:label "TerniEnergia S.p.a."@en .
+
+wd:Q6715134 a wd:Q20937557 ;
+    rdfs:label "MDDS"@en .
+
+wd:Q67151813 a wd:Q937228 ;
+    rdfs:label "implicitness"@en .
+
+wd:Q6715192 a wd:Q20937557 ;
+    rdfs:label "MDSP"@en .
+
+wd:Q67175826 a wd:Q1207505 ;
+    rdfs:label "extended mix / long version"@en .
+
+wd:Q67203587 a wd:Q1207505 ;
+    rdfs:label "unidirectionality"@en .
+
+wd:Q67203605 a wd:Q1207505 ;
+    rdfs:label "bidrectionality"@en .
+
+wd:Q67551124 a wd:Q1914636 ;
+    rdfs:label "Extirpation of Idolatries"@en .
+
+wd:Q67580943 a wd:Q1914636 ;
+    rdfs:label "Drawing Group"@en .
+
+wd:Q67903975 a wd:Q1914636 ;
+    rdfs:label "agent handling"@en .
+
+wd:Q6800328 a wd:Q20937557 ;
+    rdfs:label "McClelland's Single Malt"@en .
+
+wd:Q68015325 a wd:Q1207505 ;
+    rdfs:label "portability"@en .
+
+wd:Q6806625 a wd:Q1914636 ;
+    rdfs:label "medical writing"@en .
+
+wd:Q6819872 a wd:Q1914636 ;
+    rdfs:label "mermaiding"@en .
+
+wd:Q68324344 a wd:Q1914636 ;
+    rdfs:label "swordsmanship"@en .
+
+wd:Q687889 a wd:Q1914636 ;
+    rdfs:label "ripping"@en .
+
+wd:Q688615 a wd:Q1207505 ;
+    rdfs:label "world record"@en .
+
+wd:Q693083 a wd:Q937228 ;
+    rdfs:label "soundness"@en .
+
+wd:Q6931581 a wd:Q937228 ;
+    rdfs:label "Mudcrack"@en .
+
+wd:Q69349638 a wd:Q1207505 ;
+    rdfs:label "dissected"@en .
+
+wd:Q69389030 a wd:Q1914636 ;
+    rdfs:label "Q69389030"^^xsd:string .
+
+wd:Q69466762 a wd:Q1914636 ;
+    rdfs:label "loading"@en .
+
+wd:Q695829 a wd:Q8148 ;
+    rdfs:label "real estate development"@en .
+
+wd:Q69883 a wd:Q8148 ;
+    rdfs:label "urban planning"@en .
+
+wd:Q6989196 a wd:Q1914636 ;
+    rdfs:label "conducting"@en .
+
+wd:Q69965725 a wd:Q1914636 ;
+    rdfs:label "sunbathing"@en .
+
+wd:Q70022781 a wd:Q20937557 ;
+    rdfs:label "Health"@en .
+
+wd:Q702635 a wd:Q1914636 ;
+    rdfs:label "Alternative civilian service"@en .
+
+wd:Q70326764 a wd:Q1207505 ;
+    rdfs:label "unsentimentality"@en .
+
+wd:Q70635750 a wd:Q4026292 ;
+    rdfs:label "Q70635750"^^xsd:string .
+
+wd:Q70761814 a wd:Q1207505 ;
+    rdfs:label "argumentativeness"@en .
+
+wd:Q7079691 a wd:Q8148 ;
+    rdfs:label "offshore drilling"@en .
+
+wd:Q7094123 a wd:Q1914636 ;
+    rdfs:label "online search"@en .
+
+wd:Q7097171 a wd:Q20937557 ;
+    rdfs:label "Operation Irma"@en .
+
+wd:Q7113626 rdfs:label "overdrafting"@en ;
+    rdfs:subClassOf wd:Q219416 .
+
+wd:Q7118054 a wd:Q20937557 ;
+    rdfs:label "PACX"@en .
+
+wd:Q7118891 a wd:Q1914636 ;
+    rdfs:label "PECE"@en .
+
+wd:Q71190832 a wd:Q35120 ;
+    rdfs:label "Rescue basket"@en .
+
+wd:Q713197 a wd:Q1914636 ;
+    rdfs:label "Q713197"^^xsd:string .
+
+wd:Q7140017 a wd:Q1914636 ;
+    rdfs:label "Parson-naturalist"@en .
+
+wd:Q7150 a wd:Q8148 ;
+    rdfs:label "ecology"@en .
+
+wd:Q7170675 a wd:Q937228 ;
+    rdfs:label "personhood"@en .
+
+wd:Q721830 a wd:Q8148 ;
+    rdfs:label "pay television"@en .
+
+wd:Q72221057 a wd:Q1207505,
+        wd:Q937228 ;
+    rdfs:label "discreteness"@en .
+
+wd:Q7231329 a wd:Q1207505 ;
+    rdfs:label "portability"@en .
+
+wd:Q7234359 a wd:Q1914636 ;
+    rdfs:label "postmarketing surveillance"@en .
+
+wd:Q72402173 a wd:Q1207505 ;
+    rdfs:label "white background"@en .
+
+wd:Q725672 a wd:Q1914636 ;
+    rdfs:label "mystery shopping"@en .
+
+wd:Q725744 a wd:Q1207505 ;
+    rdfs:label "keyboard layout"@en .
+
+wd:Q72610653 a wd:Q1207505 ;
+    rdfs:label "usefullness"@en .
+
+wd:Q72621675 a wd:Q20937557 ;
+    rdfs:label "The Scientific Roll"@en .
+
+wd:Q727490 a wd:Q1207505 ;
+    rdfs:label "scalability"@en .
+
+wd:Q7281175 a wd:Q8148 ;
+    rdfs:label "radio industry"@en .
+
+wd:Q7309430 a wd:Q1914636 ;
+    rdfs:label "Registrar of Companies"@en .
+
+wd:Q7316334 a wd:Q1207505 ;
+    rdfs:label "restrictiveness"@en .
+
+wd:Q73165306 a wd:Q35120 ;
+    rdfs:label "World Center for Women's Archives"@en .
+
+wd:Q73204959 a wd:Q1207505 ;
+    rdfs:label "instrumentality"@en .
+
+wd:Q73290548 a wd:Q35120 ;
+    rdfs:label "Gerritsen Collection"@en .
+
+wd:Q73368 a wd:Q937228 ;
+    rdfs:label "online"@en .
+
+wd:Q734773 a wd:Q20937557 ;
+    rdfs:label "Operation Hardtack I"@en .
+
+wd:Q7388291 a wd:Q20937557 ;
+    rdfs:label "S3 Graphics Chrome 400"@en .
+
+wd:Q7394711 a wd:Q20937557 ;
+    rdfs:label "STD 8"@en .
+
+wd:Q74007739 a wd:Q8148 ;
+    rdfs:label "rug and carpet industry"@en .
+
+wd:Q742407 a wd:Q4026292 ;
+    rdfs:label "assist"@en .
+
+wd:Q74256718 a wd:Q20937557 ;
+    rdfs:label "Excel Series"@en .
+
+wd:Q7433714 a wd:Q1914636 ;
+    rdfs:label "science outreach"@en .
+
+wd:Q7451068 a wd:Q937228 ;
+    rdfs:label "sensitivity"@en .
+
+wd:Q7451189 a wd:Q1207505 ;
+    rdfs:label "sentence arrangement"@en .
+
+wd:Q74532980 a wd:Q8148 ;
+    rdfs:label "special events industry"@en .
+
+wd:Q74550585 a wd:Q1207505 ;
+    rdfs:label "non-album track"@en .
+
+wd:Q74551327 a wd:Q1207505 ;
+    rdfs:label "album version"@en .
+
+wd:Q74594652 a wd:Q35120 ;
+    rdfs:label "Ariadne (archive)"@en .
+
+wd:Q74841026 a wd:Q1914636 ;
+    rdfs:label "shochet"@en .
+
+wd:Q749647 a wd:Q937228 ;
+    rdfs:label "interoperability"@en .
+
+wd:Q749649 a wd:Q1914636 ;
+    rdfs:label "carpool"@en .
+
+wd:Q749976 a wd:Q20937557 ;
+    rdfs:label "BBC Micro"@en .
+
+wd:Q75755497 a wd:Q1914636 ;
+    rdfs:label "parachute"@en .
+
+wd:Q757567 a wd:Q937228 ;
+    rdfs:label "atomic"@en .
+
+wd:Q75798762 a wd:Q4026292 ;
+    rdfs:label "meeting"@en .
+
+wd:Q75800566 a wd:Q1914636 ;
+    rdfs:label "encounter"@en .
+
+wd:Q75801718 a wd:Q1914636 ;
+    rdfs:label "convene"@en .
+
+wd:Q75837435 a wd:Q937228 ;
+    rdfs:label "closedness"@en .
+
+wd:Q75902403 a wd:Q1914636 ;
+    rdfs:label "give birth"@en .
+
+wd:Q7595718 a wd:Q937228 ;
+    rdfs:label "algorithmic stability"@en .
+
+wd:Q759725 a wd:Q1914636 ;
+    rdfs:label "Aufhauen"@en .
+
+wd:Q7621839 a wd:Q1914636 ;
+    rdfs:label "Strategic human resource planning"@en .
+
+wd:Q7632064 a wd:Q1914636 ;
+    rdfs:label "substance abuse prevention"@en .
+
+wd:Q76356148 rdfs:label "Q76356148"^^xsd:string ;
+    rdfs:subClassOf wd:Q15473274 .
+
+wd:Q7670309 a wd:Q20937557 ;
+    rdfs:label "TI-35"@en .
+
+wd:Q7672119 a wd:Q20937557 ;
+    rdfs:label "TV50"@en .
+
+wd:Q76737728 a wd:Q35120 ;
+    rdfs:label "Women's suffrage in India"@en .
+
+wd:Q7683507 a wd:Q8148 ;
+    rdfs:label "tank services"@en .
+
+wd:Q7695504 a wd:Q20937557 ;
+    rdfs:label "Tektronix 405x"@en .
+
+wd:Q7696811 a wd:Q1207505 ;
+    rdfs:label "telescoping"@en .
+
+wd:Q773521 a wd:Q1914636 ;
+    rdfs:label "user administration"@en .
+
+wd:Q777671 a wd:Q1914636 ;
+    rdfs:label "sowing"@en .
+
+wd:Q77877443 a wd:Q937228 ;
+    rdfs:label "degree of homogeneity"@en .
+
+wd:Q7798194 a wd:Q20937557 ;
+    rdfs:label "ThrillerVideo"@en .
+
+wd:Q7834769 a wd:Q937228 ;
+    rdfs:label "transparency"@en .
+
+wd:Q784239 a wd:Q937228 ;
+    rdfs:label "Auswuchs"@en .
+
+wd:Q78493655 a wd:Q1914636 ;
+    rdfs:label "Q78493655"^^xsd:string .
+
+wd:Q78748778 a wd:Q1914636 ;
+    rdfs:label "Heritage tour of Brisbane"@en .
+
+wd:Q788558 a wd:Q1914636,
+        wd:Q8148 ;
+    rdfs:label "plant breeding"@en .
+
+wd:Q7907680 a wd:Q20937557 ;
+    rdfs:label "VXL"@en .
+
+wd:Q79077665 a wd:Q35120 ;
+    rdfs:label "Teaching skills"@en .
+
+wd:Q79319912 a wd:Q20937557 ;
+    rdfs:label "Monographs on artists"@en .
+
+wd:Q794803 a wd:Q1914636 ;
+    rdfs:label "innovation management"@en .
+
+wd:Q803931 a wd:Q937228 ;
+    rdfs:label "Property of Baire"@en .
+
+wd:Q8050277 a wd:Q1914636 ;
+    rdfs:label "housework"@en .
+
+wd:Q805333 a wd:Q1914636 ;
+    rdfs:label "balloon modelling"@en .
+
+wd:Q805534 a wd:Q1914636 ;
+    rdfs:label "Balseros"@en .
+
+wd:Q8059135 a wd:Q1914636 ;
+    rdfs:label "Youth-led development"@en .
+
+wd:Q8059283 a wd:Q1914636 ;
+    rdfs:label "youth activism"@en .
+
+wd:Q807986 a wd:Q1914636 ;
+    rdfs:label "Bardanas"@en .
+
+wd:Q809579 a wd:Q1914636 ;
+    rdfs:label "beard trimming"@en .
+
+wd:Q811965 a wd:Q8148 ;
+    rdfs:label "Bauxite mining in Australia"@en .
+
+wd:Q815962 a wd:Q1914636 ;
+    rdfs:label "colonization"@en .
+
+wd:Q81614 a wd:Q1207505 ;
+    rdfs:label "hypergolic propellant"@en .
+
+wd:Q816425 a wd:Q1914636 ;
+    rdfs:label "surveying"@en .
+
+wd:Q816826 a wd:Q1914636 ;
+    rdfs:label "information retrieval"@en .
+
+wd:Q81799 a wd:Q8148 ;
+    rdfs:label "fast food"@en .
+
+wd:Q81945865 a wd:Q1207505 ;
+    rdfs:label "multi-disc album format"@en .
+
+wd:Q820362 a wd:Q1914636 ;
+    rdfs:label "Bergung (salvage )"@en .
+
+wd:Q822917 a wd:Q8148 ;
+    rdfs:label "Raab-Katzenstein"@en .
+
+wd:Q82324209 a wd:Q8148 ;
+    rdfs:label "Dominion Salt"@en .
+
+wd:Q82460623 a wd:Q35120 ;
+    rdfs:label "Q82460623"^^xsd:string .
+
+wd:Q825762 a wd:Q20937557 ;
+    rdfs:label "GeForce"@en .
+
+wd:Q82785806 a wd:Q1207505 ;
+    rdfs:label "propensity"@en .
+
+wd:Q829404 a wd:Q1914636 ;
+    rdfs:label "Besagung"@en .
+
+wd:Q830036 a wd:Q1914636,
+        wd:Q8148 ;
+    rdfs:label "shopping"@en .
+
+wd:Q830393 a wd:Q1914636 ;
+    rdfs:label "preservation"@en .
+
+wd:Q83283234 a wd:Q8148 ;
+    rdfs:label "waste management industry"@en .
+
+wd:Q8348044 a wd:Q1914636 ;
+    rdfs:label "Glass coloring and color marking"@en .
+
+wd:Q83500 a wd:Q937228 ;
+    rdfs:label "intelligence"@en .
+
+wd:Q836575 a wd:Q1914636 ;
+    rdfs:label "quality assurance"@en .
+
+wd:Q83698112 a wd:Q8148 ;
+    rdfs:label "trucking industry"@en .
+
+wd:Q83714359 a wd:Q20937557 ;
+    rdfs:label "Q83714359"^^xsd:string .
+
+wd:Q837322 a wd:Q8148 ;
+    rdfs:label "sex industry"@en .
+
+wd:Q83781188 a wd:Q1207505 ;
+    rdfs:label "Q83781188"^^xsd:string .
+
+wd:Q83879447 a wd:Q35120 ;
+    rdfs:label "Q83879447"^^xsd:string .
+
+wd:Q84345226 a wd:Q1914636 ;
+    rdfs:label "Stockholm history tour"@en .
+
+wd:Q84426668 a wd:Q1207505 ;
+    rdfs:label "harmfulness"@en .
+
+wd:Q84427501 a wd:Q1207505 ;
+    rdfs:label "harmlessness"@en .
+
+wd:Q84474171 a wd:Q1914636 ;
+    rdfs:label "post card printing"@en .
+
+wd:Q84705126 a wd:Q20937557 ;
+    rdfs:label "Q84705126"^^xsd:string .
+
+wd:Q84836722 a wd:Q1914636 ;
+    rdfs:label "Q84836722"^^xsd:string .
+
+wd:Q848436 a wd:Q8148 ;
+    rdfs:label "home automation"@en .
+
+wd:Q84944905 a wd:Q1207505 ;
+    rdfs:label "NSFW Steam game"@en .
+
+wd:Q849944 a wd:Q1914636 ;
+    rdfs:label "safari"@en .
+
+wd:Q852170 a wd:Q1914636 ;
+    rdfs:label "dredging"@en .
+
+wd:Q852973 a wd:Q937228 ;
+    rdfs:label "Euler characteristic"@en .
+
+wd:Q855868 a wd:Q937228 ;
+    rdfs:label "Biatomic"@en .
+
+wd:Q857780 a wd:Q1914636 ;
+    rdfs:label "technical illustration"@en .
+
+wd:Q85940254 a wd:Q1207505 ;
+    rdfs:label "Unclaimed"@en .
+
+wd:Q85940461 a wd:Q1207505 ;
+    rdfs:label "Asking for reviews"@en .
+
+wd:Q85940818 a wd:Q1207505 ;
+    rdfs:label "Claimed"@en .
+
+wd:Q86057020 a wd:Q8148 ;
+    rdfs:label "Q86057020"^^xsd:string .
+
+wd:Q860974 a wd:Q937228 ;
+    rdfs:label "Bildpaar"@en .
+
+wd:Q86211636 a wd:Q937228 ;
+    rdfs:label "attached (attribute)"@en .
+
+wd:Q86215124 a wd:Q35120 ;
+    rdfs:label "Q86215124"^^xsd:string .
+
+wd:Q864361 a wd:Q1914636 ;
+    rdfs:label "Q864361"^^xsd:string .
+
+wd:Q864491 a wd:Q937228 ;
+    rdfs:label "biological activity"@en .
+
+wd:Q864949 a wd:Q937228 ;
+    rdfs:label "Bipotenz"@en .
+
+wd:Q86497957 a wd:Q1914636 ;
+    rdfs:label "Q86497957"^^xsd:string .
+
+wd:Q86647781 a wd:Q4026292 ;
+    rdfs:label "to write"@en .
+
+wd:Q86905768 a wd:Q1914636 ;
+    rdfs:label "unloading"@en .
+
+wd:Q869095 a wd:Q8148 ;
+    rdfs:label "brewing"@en .
+
+wd:Q87067914 a wd:Q1207505 ;
+    rdfs:label "Famous Memorial"@en .
+
+wd:Q873750 a wd:Q1914636 ;
+    rdfs:label "pickpocketing"@en .
+
+wd:Q875696 a wd:Q8148 ;
+    rdfs:label "stationery"@en .
+
+wd:Q876776 a wd:Q1914636 ;
+    rdfs:label "drinking"@en .
+
+wd:Q877945 a wd:Q1207505 ;
+    rdfs:label "recursive set"@en .
+
+wd:Q880371 a wd:Q8148 ;
+    rdfs:label "software industry"@en .
+
+wd:Q881545 a wd:Q937228 ;
+    rdfs:label "Blankeis"@en .
+
+wd:Q8880088 a wd:Q1914636 ;
+    rdfs:label "Category:Workers' sport"@en .
+
+wd:Q889774 a wd:Q937228 ;
+    rdfs:label "Bodenvag"@en .
+
+wd:Q892972 a wd:Q1914636 ;
+    rdfs:label "book packaging"@en .
+
+wd:Q893164 a wd:Q8148 ;
+    rdfs:label "boat building"@en .
+
+wd:Q899092 a wd:Q937228 ;
+    rdfs:label "brisance"@en .
+
+wd:Q899277 a wd:Q1914636 ;
+    rdfs:label "recruitment"@en .
+
+wd:Q9086319 a wd:Q1207505 ;
+    rdfs:label "Terribilità"@en .
+
+wd:Q909369 a wd:Q1207505 ;
+    rdfs:label "lightfastness"@en .
+
+wd:Q911138 a wd:Q1207505 ;
+    rdfs:label "thickener"@en .
+
+wd:Q912009 a wd:Q1207505 ;
+    rdfs:label "modularity"@en .
+
+wd:Q914359 a wd:Q8148 ;
+    rdfs:label "cloud storage"@en .
+
+wd:Q918306 a wd:Q1914636 ;
+    rdfs:label "thermal insulation"@en .
+
+wd:Q9251812 a wd:Q4026292 ;
+    rdfs:label "Ejruw"@en .
+
+wd:Q9261468 a wd:Q35120 ;
+    rdfs:label "organizational subdivision"@en .
+
+wd:Q932586 a wd:Q8148 ;
+    rdfs:label "filmmaking"@en .
+
+wd:Q9332285 a wd:Q1914636 ;
+    rdfs:label "Supplier Quality Assurance"@en .
+
+wd:Q933949 a wd:Q1914636 ;
+    rdfs:label "milking"@en .
+
+wd:Q935662 a wd:Q937228 ;
+    rdfs:label "perfect forward secrecy"@en .
+
+wd:Q9370629 a wd:Q937228 ;
+    rdfs:label "chromaticity"@en .
+
+wd:Q93935 a wd:Q1914636 ;
+    rdfs:label "tooth brushing"@en .
+
+wd:Q949149 a wd:Q1914636 ;
+    rdfs:label "sanitation"@en .
+
+wd:Q955072 a wd:Q937228 ;
+    rdfs:label "semi-continuity"@en .
+
+wd:Q962365 a wd:Q1207505 ;
+    rdfs:label "precision"@en .
+
+wd:Q9640723 a wd:Q1914636 ;
+    rdfs:label "commercial aviation"@en .
+
+wd:Q971246 a wd:Q1207505 ;
+    rdfs:label "Synteny"@en .
+
+wd:Q978659 a wd:Q1914636 ;
+    rdfs:label "vehicle inspection"@en .
+
+wd:Q994443 a wd:Q1914636 ;
+    rdfs:label "breast ironing"@en .
+
+wd:Q998426 a wd:Q1914636 ;
+    rdfs:label "bookselling"@en .
+
+wd:Q999646 a wd:Q1914636 ;
+    rdfs:label "driving"@en .
+
+wd:Q1064746 rdfs:label "Green computing"@en ;
+    rdfs:subClassOf wd:Q131201 .
+
+wd:Q15473274 rdfs:label "environmental planning"@en ;
+    rdfs:subClassOf wd:Q131201 .
+
+wd:Q2751054 rdfs:label "sustainable agriculture"@en ;
+    rdfs:subClassOf wd:Q131201 .
+
+wd:Q219416 a wd:Q1207505,
+        wd:Q8148 ;
+    rdfs:label "sustainability"@en .
+
+wd:Q131201 rdfs:label "sustainable development"@en ;
+    rdfs:subClassOf wd:Q219416 .
+
+wd:Q4026292 rdfs:label "action"@en .
+
+wd:Q8148 rdfs:label "industry"@en ;
+    rdfs:subClassOf wd:Q1914636 .
+
+wd:Q20937557 rdfs:label "series"@en .
+
+wd:Q937228 rdfs:label "property"@en ;
+    rdfs:subClassOf wd:Q35120 .
+
+wd:Q1207505 rdfs:label "quality"@en ;
+    rdfs:subClassOf wd:Q937228 .
+
+wd:Q1914636 rdfs:label "activity"@en ;
+    rdfs:subClassOf wd:Q20937557,
+        wd:Q4026292 .
+

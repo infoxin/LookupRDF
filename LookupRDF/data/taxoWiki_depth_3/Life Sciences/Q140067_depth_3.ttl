@@ -1,0 +1,1077 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1002151 a wd:Q3505845 ;
+    rdfs:label "Buffer underrun"@en .
+
+wd:Q101065 a wd:Q7189713 ;
+    rdfs:label "puberty"@en .
+
+wd:Q104021 a wd:Q3505845 ;
+    rdfs:label "fauna"@en .
+
+wd:Q1047245 a wd:Q2057971 ;
+    rdfs:label "raccoon eyes"@en .
+
+wd:Q1054718 a wd:Q2057971 ;
+    rdfs:label "kidney disease"@en .
+
+wd:Q1066143 a wd:Q2057971 ;
+    rdfs:label "Uhthoff's phenomenon"@en .
+
+wd:Q1066311 a wd:Q2057971,
+        wd:Q7189713 ;
+    rdfs:label "complex regional pain syndrome"@en .
+
+wd:Q1067532 a wd:Q3505845 ;
+    rdfs:label "G-LOC"@en .
+
+wd:Q1088113 a wd:Q7189713 ;
+    rdfs:label "chronic pain"@en .
+
+wd:Q1104126 a wd:Q2057971 ;
+    rdfs:label "Kanner's Syndrome"@en .
+
+wd:Q1114789 a wd:Q2057971 ;
+    rdfs:label "Perioral dermatitis"@en .
+
+wd:Q1134609 a wd:Q2057971 ;
+    rdfs:label "tear of meniscus"@en .
+
+wd:Q1179623 a wd:Q2057971 ;
+    rdfs:label "physical disability"@en .
+
+wd:Q1188698 a wd:Q2057971 ;
+    rdfs:label "thought disorder"@en .
+
+wd:Q11995 a wd:Q7189713 ;
+    rdfs:label "human pregnancy"@en .
+
+wd:Q1258984 a wd:Q2057971 ;
+    rdfs:label "herpes simplex virus keratitis"@en .
+
+wd:Q1269235 a wd:Q2057971 ;
+    rdfs:label "dyschezia"@en .
+
+wd:Q1322382 a wd:Q2057971 ;
+    rdfs:label "ecchymosis"@en .
+
+wd:Q1323709 a wd:Q2057971 ;
+    rdfs:label "Ectasia"@en .
+
+wd:Q13421691 a wd:Q2057971 ;
+    rdfs:label "Erythrism"@en .
+
+wd:Q13433907 a wd:Q2057971 ;
+    rdfs:label "Baker's asthma"@en .
+
+wd:Q1346149 a wd:Q2057971 ;
+    rdfs:label "complication"@en .
+
+wd:Q13643669 a wd:Q2057971 ;
+    rdfs:label "Linear and whorled nevoid hypermelanosis"@en .
+
+wd:Q1364801 a wd:Q7189713 ;
+    rdfs:label "sleep deprivation"@en .
+
+wd:Q1386088 a wd:Q2057971 ;
+    rdfs:label "hexadactyly"@en .
+
+wd:Q140067 a wd:Q2057971 ;
+    rdfs:label "sclerosis"@en .
+
+wd:Q1424956 a wd:Q2057971 ;
+    rdfs:label "neuroleptic malignant syndrome"@en .
+
+wd:Q1428362 a wd:Q2057971 ;
+    rdfs:label "metabolic alkalosis"@en .
+
+wd:Q14338275 a wd:Q2057971 ;
+    rdfs:label "sigmatism"@en .
+
+wd:Q1447854 a wd:Q3505845 ;
+    rdfs:label "Throbber"@en .
+
+wd:Q145790 a wd:Q2057971 ;
+    rdfs:label "iridocyclitis"@en .
+
+wd:Q1464121 a wd:Q2057971 ;
+    rdfs:label "lichenification"@en .
+
+wd:Q1478636 a wd:Q2057971 ;
+    rdfs:label "Q1478636"^^xsd:string .
+
+wd:Q1493220 a wd:Q2057971 ;
+    rdfs:label "gammacism"@en .
+
+wd:Q1505689 a wd:Q2057971 ;
+    rdfs:label "tenosynovitis"@en .
+
+wd:Q15116714 a wd:Q2057971 ;
+    rdfs:label "Traveller's thrombosis"@en .
+
+wd:Q15131435 a wd:Q3505845 ;
+    rdfs:label "gezelligheid"@en .
+
+wd:Q152234 a wd:Q2057971 ;
+    rdfs:label "oedema"@en .
+
+wd:Q1531490 a wd:Q2057971 ;
+    rdfs:label "Gliosis"@en .
+
+wd:Q1549382 a wd:Q2057971 ;
+    rdfs:label "asymptomatic carrier"@en .
+
+wd:Q1567174 a wd:Q2057971 ;
+    rdfs:label "talipes calcaneus"@en .
+
+wd:Q15872754 a wd:Q2057971 ;
+    rdfs:label "Q15872754"^^xsd:string .
+
+wd:Q15874438 a wd:Q3505845 ;
+    rdfs:label "divisible"@en .
+
+wd:Q15875134 a wd:Q2057971 ;
+    rdfs:label "Facet joint arthrosis"@en .
+
+wd:Q15876609 a wd:Q2057971 ;
+    rdfs:label "IgG4-associated cholangitis"@en .
+
+wd:Q1588395 a wd:Q2057971 ;
+    rdfs:label "baldness"@en .
+
+wd:Q1588755 a wd:Q2057971 ;
+    rdfs:label "thrombus"@en .
+
+wd:Q16002436 a wd:Q2057971 ;
+    rdfs:label "Alektorophobia"@en .
+
+wd:Q16035842 a wd:Q2057971 ;
+    rdfs:label "hearing impairment"@en .
+
+wd:Q16069884 a wd:Q3505845 ;
+    rdfs:label "Q16069884"^^xsd:string .
+
+wd:Q16070439 a wd:Q3505845 ;
+    rdfs:label "Q16070439"^^xsd:string .
+
+wd:Q16070735 a wd:Q2057971 ;
+    rdfs:label "arterial pulmonary hypertension"@en .
+
+wd:Q161790 a wd:Q3505845 ;
+    rdfs:label "Asperger syndrome"@en .
+
+wd:Q16254820 a wd:Q2057971 ;
+    rdfs:label "Post-intensive care syndrome"@en .
+
+wd:Q1640929 a wd:Q2057971 ;
+    rdfs:label "Hypergonadism"@en .
+
+wd:Q16509717 a wd:Q1149305 ;
+    rdfs:label "benevolence"@en .
+
+wd:Q16606544 a wd:Q2057971 ;
+    rdfs:label "nickel allergic contact dermatitis"@en .
+
+wd:Q1662323 a wd:Q2057971 ;
+    rdfs:label "Infantilism"@en .
+
+wd:Q166626 a wd:Q2057971 ;
+    rdfs:label "gastric perforation"@en .
+
+wd:Q16681739 a wd:Q7189713 ;
+    rdfs:label "Q16681739"^^xsd:string .
+
+wd:Q17119253 a wd:Q2057971 ;
+    rdfs:label "Field cancerization"@en .
+
+wd:Q17141282 a wd:Q7189713 ;
+    rdfs:label "ventricular-brain ratio"@en .
+
+wd:Q1728691 a wd:Q2057971 ;
+    rdfs:label "kappacism"@en .
+
+wd:Q17461968 a wd:Q2057971 ;
+    rdfs:label "gummy smile"@en .
+
+wd:Q1760011 a wd:Q3505845 ;
+    rdfs:label "prosperity"@en .
+
+wd:Q17710290 a wd:Q3505845 ;
+    rdfs:label "Dormant organization"@en .
+
+wd:Q1791388 a wd:Q7189713 ;
+    rdfs:label "sobriety"@en .
+
+wd:Q179294 a wd:Q7189713 ;
+    rdfs:label "eunuch"@en .
+
+wd:Q18011764 a wd:Q2057971 ;
+    rdfs:label "body milk"@en .
+
+wd:Q18066311 a wd:Q3505845 ;
+    rdfs:label "Q18066311"^^xsd:string .
+
+wd:Q18088334 a wd:Q2057971 ;
+    rdfs:label "pathological lying"@en .
+
+wd:Q1811723 a wd:Q2057971 ;
+    rdfs:label "splay-foot"@en .
+
+wd:Q1812702 a wd:Q2057971 ;
+    rdfs:label "food hypersensitivity"@en .
+
+wd:Q1815366 a wd:Q2057971 ;
+    rdfs:label "behavioral disorder"@en .
+
+wd:Q181600 a wd:Q3505845 ;
+    rdfs:label "patient"@en .
+
+wd:Q1820442 a wd:Q2057971 ;
+    rdfs:label "substance-induced anxiety disorder"@en .
+
+wd:Q1827062 a wd:Q3505845 ;
+    rdfs:label "Q1827062"^^xsd:string .
+
+wd:Q18396999 a wd:Q3505845 ;
+    rdfs:label "Q18396999"^^xsd:string .
+
+wd:Q1841519 a wd:Q2057971 ;
+    rdfs:label "face presentation"@en .
+
+wd:Q18434653 a wd:Q2057971 ;
+    rdfs:label "viral croup"@en .
+
+wd:Q18479879 a wd:Q2057971 ;
+    rdfs:label "brain congestion"@en .
+
+wd:Q1854599 a wd:Q2057971 ;
+    rdfs:label "irritant-induced asthma"@en .
+
+wd:Q1858000 a wd:Q2057971 ;
+    rdfs:label "undifferentiated somatoform disorder"@en .
+
+wd:Q1862115 a wd:Q2057971 ;
+    rdfs:label "milker's fever"@en .
+
+wd:Q1872670 a wd:Q2057971 ;
+    rdfs:label "internal hordeolum"@en .
+
+wd:Q1876797 a wd:Q2057971 ;
+    rdfs:label "Pseudodysphagia"@en .
+
+wd:Q1883959 a wd:Q2057971 ;
+    rdfs:label "tylotic eczema"@en .
+
+wd:Q1883970 a wd:Q2057971 ;
+    rdfs:label "upper gastrointestinal bleeding"@en .
+
+wd:Q1891441 a wd:Q3505845 ;
+    rdfs:label "convalescence"@en .
+
+wd:Q1910771 a wd:Q2057971 ;
+    rdfs:label "Femoral acetabular impingement"@en .
+
+wd:Q191355 a wd:Q3505845 ;
+    rdfs:label "hunger strike"@en .
+
+wd:Q192309 a wd:Q2057971 ;
+    rdfs:label "tinnitus"@en .
+
+wd:Q19363197 a wd:Q2057971 ;
+    rdfs:label "New oral anticoagulant"@en .
+
+wd:Q19365224 a wd:Q2057971 ;
+    rdfs:label "serious mental illness"@en .
+
+wd:Q1939887 a wd:Q2057971 ;
+    rdfs:label "avulsion fracture"@en .
+
+wd:Q194290 a wd:Q2057971 ;
+    rdfs:label "dehydration"@en .
+
+wd:Q1945135 a wd:Q3505845 ;
+    rdfs:label "Q1945135"^^xsd:string .
+
+wd:Q1951525 a wd:Q2057971 ;
+    rdfs:label "progressive illness"@en .
+
+wd:Q1952206 a wd:Q2057971 ;
+    rdfs:label "2009 flu pandemic in North America"@en .
+
+wd:Q1958249 a wd:Q2057971 ;
+    rdfs:label "Chronic Thromboembolic Pulmonary Hypertension"@en .
+
+wd:Q19765925 a wd:Q2057971 ;
+    rdfs:label "abdominal cutaneous nerve entrapment syndrome"@en .
+
+wd:Q1980528 a wd:Q2057971 ;
+    rdfs:label "acute generalized exanthematous pustulosis"@en .
+
+wd:Q19921782 a wd:Q3505845 ;
+    rdfs:label "bilingualism of government"@en .
+
+wd:Q1998365 a wd:Q2057971 ;
+    rdfs:label "ureteral stricture"@en .
+
+wd:Q19987054 a wd:Q2057971 ;
+    rdfs:label "Chronic idiopathic axonal polyneuropathy"@en .
+
+wd:Q2000367 a wd:Q2057971 ;
+    rdfs:label "march hemoglobinuria"@en .
+
+wd:Q2003840 a wd:Q2057971 ;
+    rdfs:label "DES daughter"@en .
+
+wd:Q2012297 a wd:Q2057971 ;
+    rdfs:label "acholuria"@en .
+
+wd:Q202217 a wd:Q7189713 ;
+    rdfs:label "transverse myelitis"@en .
+
+wd:Q2046037 a wd:Q2057971 ;
+    rdfs:label "complaints of arm, neck and shoulder"@en .
+
+wd:Q2061676 a wd:Q2057971 ;
+    rdfs:label "imperative hallucination"@en .
+
+wd:Q2065620 a wd:Q2057971 ;
+    rdfs:label "Imperforate hymen"@en .
+
+wd:Q2090807 a wd:Q2057971 ;
+    rdfs:label "equinus foot deformity"@en .
+
+wd:Q21013818 a wd:Q2057971 ;
+    rdfs:label "Q21013818"^^xsd:string .
+
+wd:Q2111732 a wd:Q2057971 ;
+    rdfs:label "Occupational asthma due to chromium"@en .
+
+wd:Q21120294 a wd:Q2057971 ;
+    rdfs:label "hematopoietic depression"@en .
+
+wd:Q2112335 a wd:Q2057971 ;
+    rdfs:label "wound infection"@en .
+
+wd:Q2123838 a wd:Q2057971 ;
+    rdfs:label "organ torsion"@en .
+
+wd:Q2140354 a wd:Q2057971 ;
+    rdfs:label "pied bot valgus"@en .
+
+wd:Q2159432 a wd:Q2057971 ;
+    rdfs:label "tennis leg"@en .
+
+wd:Q2162524 a wd:Q2057971 ;
+    rdfs:label "gastric irritation"@en .
+
+wd:Q2179162 a wd:Q2057971 ;
+    rdfs:label "Miliaria crystallina"@en .
+
+wd:Q2182344 a wd:Q2057971 ;
+    rdfs:label "Delusional disorder, somatic type"@en .
+
+wd:Q2186829 a wd:Q2057971 ;
+    rdfs:label "cyanotic heart defect"@en .
+
+wd:Q2188844 a wd:Q2057971 ;
+    rdfs:label "thoracic endometriosis syndrome"@en .
+
+wd:Q2199494 a wd:Q2057971 ;
+    rdfs:label "tympanosclerosis"@en .
+
+wd:Q2215243 a wd:Q2057971 ;
+    rdfs:label "somatic mutation"@en .
+
+wd:Q2234498 a wd:Q3505845 ;
+    rdfs:label "Q2234498"^^xsd:string .
+
+wd:Q2286269 a wd:Q2057971 ;
+    rdfs:label "Malpresentation of fetus"@en .
+
+wd:Q2288116 a wd:Q2057971 ;
+    rdfs:label "mouse arm"@en .
+
+wd:Q2289642 a wd:Q2057971 ;
+    rdfs:label "vertebra compression fracture"@en .
+
+wd:Q2296279 a wd:Q2057971 ;
+    rdfs:label "Umbilical granuloma"@en .
+
+wd:Q229985 a wd:Q2057971 ;
+    rdfs:label "tongue coating"@en .
+
+wd:Q2303020 a wd:Q2057971 ;
+    rdfs:label "second-degree burn"@en .
+
+wd:Q2311402 a wd:Q2057971 ;
+    rdfs:label "vaginal irritation"@en .
+
+wd:Q2325757 a wd:Q2057971 ;
+    rdfs:label "contusion"@en .
+
+wd:Q2326546 a wd:Q2057971 ;
+    rdfs:label "latent infection"@en .
+
+wd:Q2346266 a wd:Q2057971 ;
+    rdfs:label "dental trauma"@en .
+
+wd:Q2347611 a wd:Q2057971 ;
+    rdfs:label "extra-articular disease"@en .
+
+wd:Q2354953 a wd:Q2057971 ;
+    rdfs:label "blood squirt"@en .
+
+wd:Q2356302 a wd:Q2057971 ;
+    rdfs:label "Atypical fibroxanthoma"@en .
+
+wd:Q2357172 a wd:Q2057971 ;
+    rdfs:label "chronic compartment syndrome"@en .
+
+wd:Q2361887 a wd:Q2057971 ;
+    rdfs:label "internal bleeding"@en .
+
+wd:Q2370583 a wd:Q2057971 ;
+    rdfs:label "functional dyspepsia"@en .
+
+wd:Q2374705 a wd:Q2057971 ;
+    rdfs:label "Cheilitis granulomatosa"@en .
+
+wd:Q2379153 a wd:Q3505845 ;
+    rdfs:label "congenic organisms"@en .
+
+wd:Q2388252 a wd:Q3505845 ;
+    rdfs:label "Q2388252"^^xsd:string .
+
+wd:Q2390477 a wd:Q2057971 ;
+    rdfs:label "forearm fracture"@en .
+
+wd:Q2391080 a wd:Q3505845 ;
+    rdfs:label "Q2391080"^^xsd:string .
+
+wd:Q2409965 a wd:Q3505845 ;
+    rdfs:label "metastability in electronics"@en .
+
+wd:Q2411109 a wd:Q2057971 ;
+    rdfs:label "Xerotic eczema"@en .
+
+wd:Q2411489 a wd:Q2057971 ;
+    rdfs:label "Coprographia"@en .
+
+wd:Q2424791 a wd:Q2057971 ;
+    rdfs:label "pseudocyst"@en .
+
+wd:Q2443966 a wd:Q3505845 ;
+    rdfs:label "Bedridden"@en .
+
+wd:Q2444886 a wd:Q2057971 ;
+    rdfs:label "retinal vascular occlusion"@en .
+
+wd:Q2458539 a wd:Q2057971 ;
+    rdfs:label "skin infection"@en .
+
+wd:Q2484400 a wd:Q2057971 ;
+    rdfs:label "fourth-degree burn"@en .
+
+wd:Q2487710 a wd:Q2057971 ;
+    rdfs:label "Focal infection of oral origin"@en .
+
+wd:Q2491657 a wd:Q2057971 ;
+    rdfs:label "Q2491657"^^xsd:string .
+
+wd:Q2495736 a wd:Q2057971 ;
+    rdfs:label "chronic headache"@en .
+
+wd:Q2503223 a wd:Q2057971 ;
+    rdfs:label "barotitis"@en .
+
+wd:Q25091321 a wd:Q2057971 ;
+    rdfs:label "Vaginal evisceration"@en .
+
+wd:Q2516844 a wd:Q3505845 ;
+    rdfs:label "Q2516844"^^xsd:string .
+
+wd:Q2533455 a wd:Q2057971 ;
+    rdfs:label "nociceptive pain"@en .
+
+wd:Q2556837 a wd:Q2057971 ;
+    rdfs:label "Advanced glycation end-product"@en .
+
+wd:Q2558350 a wd:Q2057971 ;
+    rdfs:label "Cracked nipple"@en .
+
+wd:Q2562064 a wd:Q2057971 ;
+    rdfs:label "cervical spine dislocation"@en .
+
+wd:Q2578556 a wd:Q2057971 ;
+    rdfs:label "phlebolith"@en .
+
+wd:Q2578777 a wd:Q2057971 ;
+    rdfs:label "radial head fracture"@en .
+
+wd:Q2591489 a wd:Q7189713 ;
+    rdfs:label "stoned"@en .
+
+wd:Q2612403 a wd:Q2057971 ;
+    rdfs:label "Postoperative wounds infection"@en .
+
+wd:Q2614315 a wd:Q3505845 ;
+    rdfs:label "Q2614315"^^xsd:string .
+
+wd:Q2620365 a wd:Q2057971 ;
+    rdfs:label "keratocyst"@en .
+
+wd:Q2634782 a wd:Q2057971 ;
+    rdfs:label "low vision"@en .
+
+wd:Q2635499 a wd:Q2057971 ;
+    rdfs:label "Projectile vomiting"@en .
+
+wd:Q2649996 a wd:Q2057971 ;
+    rdfs:label "1q21.1 copy number variations"@en .
+
+wd:Q2651722 a wd:Q2057971 ;
+    rdfs:label "temporomandibular joint pathology"@en .
+
+wd:Q2659768 a wd:Q2057971 ;
+    rdfs:label "Dyshidrosis lamellosa sicca"@en .
+
+wd:Q2660152 a wd:Q2057971 ;
+    rdfs:label "first-degree burn"@en .
+
+wd:Q266332 a wd:Q2057971 ;
+    rdfs:label "compulsive behavior"@en .
+
+wd:Q2667685 a wd:Q2057971 ;
+    rdfs:label "chronic tic disorder"@en .
+
+wd:Q2679225 a wd:Q3505845 ;
+    rdfs:label "Q2679225"^^xsd:string .
+
+wd:Q2680381 a wd:Q2057971 ;
+    rdfs:label "Godot's syndrome"@en .
+
+wd:Q2687604 a wd:Q3505845 ;
+    rdfs:label "Q2687604"^^xsd:string .
+
+wd:Q2695170 a wd:Q2057971 ;
+    rdfs:label "Developmental odontogenic cyst"@en .
+
+wd:Q2721459 a wd:Q2057971 ;
+    rdfs:label "highway  phobia"@en .
+
+wd:Q2727106 a wd:Q2057971 ;
+    rdfs:label "Biliary colic"@en .
+
+wd:Q2735920 a wd:Q2057971 ;
+    rdfs:label "Q2735920"^^xsd:string .
+
+wd:Q2739156 a wd:Q2057971 ;
+    rdfs:label "route of entry of the pathogen"@en .
+
+wd:Q2739856 a wd:Q3505845 ;
+    rdfs:label "Q2739856"^^xsd:string .
+
+wd:Q2743369 a wd:Q2057971 ;
+    rdfs:label "choroidal melanoma"@en .
+
+wd:Q27502769 a wd:Q3505845 ;
+    rdfs:label "Q27502769"^^xsd:string .
+
+wd:Q2755530 a wd:Q2057971 ;
+    rdfs:label "hepatobiliary disease"@en .
+
+wd:Q2779302 a wd:Q2057971 ;
+    rdfs:label "Fibromyositis"@en .
+
+wd:Q2783393 a wd:Q2057971 ;
+    rdfs:label "Q2783393"^^xsd:string .
+
+wd:Q278515 a wd:Q2057971 ;
+    rdfs:label "galactorrhea"@en .
+
+wd:Q2787727 a wd:Q2057971 ;
+    rdfs:label "brief psychotic disorder"@en .
+
+wd:Q2789443 a wd:Q2057971 ;
+    rdfs:label "Acute streptococcal gingivitis"@en .
+
+wd:Q2791560 a wd:Q2057971 ;
+    rdfs:label "Type D personality"@en .
+
+wd:Q27968830 a wd:Q3505845 ;
+    rdfs:label "cashless society"@en .
+
+wd:Q2797384 a wd:Q2057971 ;
+    rdfs:label "Q2797384"^^xsd:string .
+
+wd:Q2798704 a wd:Q2057971 ;
+    rdfs:label "neuropathic pain"@en .
+
+wd:Q2799279 a wd:Q2057971 ;
+    rdfs:label "Q2799279"^^xsd:string .
+
+wd:Q2846904 a wd:Q2057971 ;
+    rdfs:label "Nail dystrophy"@en .
+
+wd:Q2855853 a wd:Q2057971 ;
+    rdfs:label "Pseudohypertrophy"@en .
+
+wd:Q2856379 a wd:Q2057971 ;
+    rdfs:label "kyphoscoliosis"@en .
+
+wd:Q2860302 a wd:Q2057971 ;
+    rdfs:label "kidney cortex necrosis"@en .
+
+wd:Q2870714 a wd:Q2057971 ;
+    rdfs:label "organic anxiety disorder"@en .
+
+wd:Q2880638 a wd:Q2057971 ;
+    rdfs:label "Hemihypertrophy"@en .
+
+wd:Q2903417 a wd:Q2057971 ;
+    rdfs:label "schizophrenia spectrum disorder"@en .
+
+wd:Q2912317 a wd:Q2057971 ;
+    rdfs:label "mal-illumination"@en .
+
+wd:Q2913956 a wd:Q2057971 ;
+    rdfs:label "postoperative pain"@en .
+
+wd:Q29415466 a wd:Q3505845 ;
+    rdfs:label "active"@en .
+
+wd:Q29415492 a wd:Q3505845 ;
+    rdfs:label "inactive"@en .
+
+wd:Q2944360 a wd:Q3505845 ;
+    rdfs:label "centenarian"@en .
+
+wd:Q2970970 a wd:Q2057971 ;
+    rdfs:label "intestinal infectious disease"@en .
+
+wd:Q2971524 a wd:Q2057971 ;
+    rdfs:label "eye inflammation"@en .
+
+wd:Q29954897 a wd:Q3505845 ;
+    rdfs:label "reduced intensity"@en .
+
+wd:Q3073687 a wd:Q2057971 ;
+    rdfs:label "Q3073687"^^xsd:string .
+
+wd:Q309406 a wd:Q2057971 ;
+    rdfs:label "apathy"@en .
+
+wd:Q315971 a wd:Q3505845 ;
+    rdfs:label "total loss"@en .
+
+wd:Q3160831 a wd:Q2057971 ;
+    rdfs:label "Heavy legs"@en .
+
+wd:Q3176479 a wd:Q2057971 ;
+    rdfs:label "high fever"@en .
+
+wd:Q3208830 a wd:Q2057971 ;
+    rdfs:label "residual schizophrenia"@en .
+
+wd:Q32099846 a wd:Q3505845 ;
+    rdfs:label "intensified"@en .
+
+wd:Q3232712 a wd:Q2057971 ;
+    rdfs:label "impairment of continence"@en .
+
+wd:Q3269272 a wd:Q2057971 ;
+    rdfs:label "food infection"@en .
+
+wd:Q3285462 a wd:Q2057971 ;
+    rdfs:label "Q3285462"^^xsd:string .
+
+wd:Q3321414 a wd:Q2057971 ;
+    rdfs:label "steroids allergy"@en .
+
+wd:Q334310 a wd:Q2057971 ;
+    rdfs:label "overtraining"@en .
+
+wd:Q3407854 a wd:Q7189713 ;
+    rdfs:label "Q3407854"^^xsd:string .
+
+wd:Q3410750 a wd:Q2057971 ;
+    rdfs:label "pulicosis"@en .
+
+wd:Q34397578 a wd:Q2057971 ;
+    rdfs:label "Digestive System Fistula"@en .
+
+wd:Q34398936 a wd:Q2057971 ;
+    rdfs:label "bilateral hearing loss"@en .
+
+wd:Q34399186 a wd:Q2057971 ;
+    rdfs:label "Tachycardia, Reciprocating"@en .
+
+wd:Q34399420 a wd:Q2057971 ;
+    rdfs:label "abnormal reflex"@en .
+
+wd:Q34399675 a wd:Q2057971 ;
+    rdfs:label "Retropneumoperitoneum"@en .
+
+wd:Q3449472 a wd:Q3505845 ;
+    rdfs:label "Q3449472"^^xsd:string .
+
+wd:Q3518877 a wd:Q3505845 ;
+    rdfs:label "Q3518877"^^xsd:string .
+
+wd:Q3519661 a wd:Q3505845 ;
+    rdfs:label "Q3519661"^^xsd:string .
+
+wd:Q3533657 a wd:Q3505845 ;
+    rdfs:label "Q3533657"^^xsd:string .
+
+wd:Q3540880 a wd:Q2057971 ;
+    rdfs:label "Depressive Disorder Not Otherwise Specified"@en .
+
+wd:Q358404 a wd:Q3505845 ;
+    rdfs:label "tumah and taharah"@en .
+
+wd:Q3614488 a wd:Q2057971 ;
+    rdfs:label "source amnesia"@en .
+
+wd:Q3644190 a wd:Q3505845 ;
+    rdfs:label "seropositive"@en .
+
+wd:Q3709266 a wd:Q2057971 ;
+    rdfs:label "dysbarism"@en .
+
+wd:Q388169 a wd:Q2057971 ;
+    rdfs:label "malar rash"@en .
+
+wd:Q39048004 a wd:Q2057971 ;
+    rdfs:label "Blocked milk duct"@en .
+
+wd:Q3912188 a wd:Q2057971 ;
+    rdfs:label "cast fetishism"@en .
+
+wd:Q3921252 a wd:Q3505845 ;
+    rdfs:label "Q3921252"^^xsd:string .
+
+wd:Q3948652 a wd:Q3505845 ;
+    rdfs:label "Q3948652"^^xsd:string .
+
+wd:Q40943411 a wd:Q2057971 ;
+    rdfs:label "putaminal hemorrhage"@en .
+
+wd:Q40943828 a wd:Q2057971 ;
+    rdfs:label "gastric diverticulum"@en .
+
+wd:Q40944019 a wd:Q2057971 ;
+    rdfs:label "respiratory tract granuloma"@en .
+
+wd:Q40944209 a wd:Q2057971 ;
+    rdfs:label "gingival hemorrhage"@en .
+
+wd:Q40944475 a wd:Q2057971 ;
+    rdfs:label "necrotic DNA degradation"@en .
+
+wd:Q4120632 a wd:Q3505845 ;
+    rdfs:label "hard frost"@en .
+
+wd:Q4166158 a wd:Q2057971 ;
+    rdfs:label "Deficits in attention, motor control and perception"@en .
+
+wd:Q41795609 a wd:Q2057971 ;
+    rdfs:label "Esophageal Fistula"@en .
+
+wd:Q42183538 a wd:Q2057971 ;
+    rdfs:label "signs and symptoms, respiratory"@en .
+
+wd:Q42247489 a wd:Q2057971 ;
+    rdfs:label "perceptual disorder"@en .
+
+wd:Q42261552 a wd:Q2057971 ;
+    rdfs:label "delayed graft function"@en .
+
+wd:Q42263577 a wd:Q2057971 ;
+    rdfs:label "Retrobulbar Hemorrhage"@en .
+
+wd:Q42265231 a wd:Q2057971 ;
+    rdfs:label "Allesthesia"@en .
+
+wd:Q42271278 a wd:Q2057971 ;
+    rdfs:label "ophthalmoplegic migraine"@en .
+
+wd:Q42293706 a wd:Q2057971 ;
+    rdfs:label "Retinal Neovascularization"@en .
+
+wd:Q42417183 a wd:Q2057971 ;
+    rdfs:label "developmental language disorder"@en .
+
+wd:Q42581703 a wd:Q2057971 ;
+    rdfs:label "delayed emergence from anesthesia"@en .
+
+wd:Q426955 a wd:Q2057971 ;
+    rdfs:label "chloracne"@en .
+
+wd:Q4429898 a wd:Q2057971 ;
+    rdfs:label "Q4429898"^^xsd:string .
+
+wd:Q4454468 a wd:Q2057971 ;
+    rdfs:label "epidermal nevus"@en .
+
+wd:Q4593337 a wd:Q2057971 ;
+    rdfs:label "voice disorder"@en .
+
+wd:Q4667164 a wd:Q2057971 ;
+    rdfs:label "Aberrant crypt foci"@en .
+
+wd:Q467056 a wd:Q7189713 ;
+    rdfs:label "hirsuties coronae glandis"@en .
+
+wd:Q4683189 a wd:Q3505845 ;
+    rdfs:label "Adjuncts"@en .
+
+wd:Q4684747 a wd:Q2057971 ;
+    rdfs:label "Adrenergic storm"@en .
+
+wd:Q4732121 a wd:Q2057971 ;
+    rdfs:label "allergic response"@en .
+
+wd:Q474959 a wd:Q7189713 ;
+    rdfs:label "myalgia"@en .
+
+wd:Q4797538 a wd:Q2057971 ;
+    rdfs:label "Arterial stiffness"@en .
+
+wd:Q4814027 a wd:Q2057971 ;
+    rdfs:label "radicular syndrome"@en .
+
+wd:Q4828565 a wd:Q2057971 ;
+    rdfs:label "avian reovirus infection"@en .
+
+wd:Q4973818 a wd:Q2057971 ;
+    rdfs:label "bronchial hyperresponsiveness"@en .
+
+wd:Q501829 a wd:Q2057971 ;
+    rdfs:label "gigantism"@en .
+
+wd:Q5023816 a wd:Q2057971 ;
+    rdfs:label "cobalt allergy"@en .
+
+wd:Q5029862 a wd:Q3505845 ;
+    rdfs:label "Q5029862"^^xsd:string .
+
+wd:Q5055164 a wd:Q2057971 ;
+    rdfs:label "Cavitation"@en .
+
+wd:Q52577085 a wd:Q2057971 ;
+    rdfs:label "Atrial Remodeling"@en .
+
+wd:Q5309801 a wd:Q2057971 ;
+    rdfs:label "Cheilognathopalatoschisis"@en .
+
+wd:Q538657 a wd:Q2057971 ;
+    rdfs:label "lambdacism"@en .
+
+wd:Q55105885 a wd:Q2057971 ;
+    rdfs:label "shoulder pain"@en .
+
+wd:Q557945 a wd:Q2057971 ;
+    rdfs:label "mental confusion"@en .
+
+wd:Q5643617 a wd:Q2057971 ;
+    rdfs:label "Haltlose personality disorder"@en .
+
+wd:Q567711 a wd:Q2057971 ;
+    rdfs:label "hypergymnasia"@en .
+
+wd:Q567852 a wd:Q7189713 ;
+    rdfs:label "Poliosis"@en .
+
+wd:Q573868 a wd:Q2057971 ;
+    rdfs:label "Münchausen by Internet"@en .
+
+wd:Q579508 a wd:Q2057971 ;
+    rdfs:label "2009 flu pandemic in Australia"@en .
+
+wd:Q58210565 a wd:Q3505845 ;
+    rdfs:label "Q58210565"^^xsd:string .
+
+wd:Q58490715 a wd:Q7189713 ;
+    rdfs:label "chronic primary pain"@en .
+
+wd:Q58490762 a wd:Q7189713 ;
+    rdfs:label "chronic cancer related pain"@en .
+
+wd:Q58490799 a wd:Q7189713 ;
+    rdfs:label "chronic postsurgical or post traumatic pain"@en .
+
+wd:Q58490835 a wd:Q7189713 ;
+    rdfs:label "chronic neuropathic pain"@en .
+
+wd:Q58490891 a wd:Q7189713 ;
+    rdfs:label "chronic secondary headache or orofacial pain"@en .
+
+wd:Q58490904 a wd:Q7189713 ;
+    rdfs:label "chronic secondary visceral pain"@en .
+
+wd:Q58490917 a wd:Q7189713 ;
+    rdfs:label "chronic secondary musculoskeletal pain"@en .
+
+wd:Q58491345 a wd:Q7189713 ;
+    rdfs:label "chronic primary visceral pain"@en .
+
+wd:Q58491385 a wd:Q7189713 ;
+    rdfs:label "chronic widespread pain"@en .
+
+wd:Q58491405 a wd:Q7189713 ;
+    rdfs:label "chronic primary musculoskeletal pain"@en .
+
+wd:Q58491426 a wd:Q7189713 ;
+    rdfs:label "chronic primary headache or orofacial pain"@en .
+
+wd:Q58864554 a wd:Q2057971 ;
+    rdfs:label "misokinesia"@en .
+
+wd:Q59202314 a wd:Q2057971 ;
+    rdfs:label "Q59202314"^^xsd:string .
+
+wd:Q5952606 a wd:Q2057971 ;
+    rdfs:label "Hyalophagia"@en .
+
+wd:Q599982 a wd:Q2057971 ;
+    rdfs:label "enanthem"@en .
+
+wd:Q6041218 a wd:Q2057971 ;
+    rdfs:label "institutional syndrome"@en .
+
+wd:Q6052272 a wd:Q2057971 ;
+    rdfs:label "Mozart ear"@en .
+
+wd:Q60712481 a wd:Q2057971 ;
+    rdfs:label "Q60712481"^^xsd:string .
+
+wd:Q6128348 a wd:Q2057971 ;
+    rdfs:label "malacia"@en .
+
+wd:Q61679550 a wd:Q3505845 ;
+    rdfs:label "Q61679550"^^xsd:string .
+
+wd:Q62101642 a wd:Q3505845 ;
+    rdfs:label "period poverty"@en .
+
+wd:Q622969 a wd:Q2057971 ;
+    rdfs:label "orbital cellulitis"@en .
+
+wd:Q624497 a wd:Q2057971 ;
+    rdfs:label "altitude sickness"@en .
+
+wd:Q63253182 a wd:Q2057971 ;
+    rdfs:label "Q63253182"^^xsd:string .
+
+wd:Q63780967 a wd:Q2057971 ;
+    rdfs:label "cryoglobulinemy"@en .
+
+wd:Q644364 a wd:Q2057971 ;
+    rdfs:label "median rhomboid glossitis"@en .
+
+wd:Q65116172 a wd:Q2057971 ;
+    rdfs:label "Q65116172"^^xsd:string .
+
+wd:Q6578238 a wd:Q3505845 ;
+    rdfs:label "helplessness"@en .
+
+wd:Q66660219 a wd:Q3505845 ;
+    rdfs:label "Q66660219"^^xsd:string .
+
+wd:Q66817562 a wd:Q7189713 ;
+    rdfs:label "Q66817562"^^xsd:string .
+
+wd:Q671776 a wd:Q2057971 ;
+    rdfs:label "mutism"@en .
+
+wd:Q6762748 a wd:Q2057971 ;
+    rdfs:label "Marie Antoinette syndrome"@en .
+
+wd:Q7095708 a wd:Q1149305 ;
+    rdfs:label "open-mindedness"@en .
+
+wd:Q7168310 a wd:Q2057971 ;
+    rdfs:label "perfume intolerance"@en .
+
+wd:Q745832 a wd:Q2057971 ;
+    rdfs:label "stillbirth"@en .
+
+wd:Q7502694 a wd:Q7189713 ;
+    rdfs:label "shoulder arthritis"@en .
+
+wd:Q7532187 a wd:Q7189713 ;
+    rdfs:label "situs solitus"@en .
+
+wd:Q754348 a wd:Q2057971 ;
+    rdfs:label "infant respiratory distress syndrome"@en .
+
+wd:Q754424 a wd:Q2057971 ;
+    rdfs:label "apnea"@en .
+
+wd:Q7578725 a wd:Q3505845 ;
+    rdfs:label "Split vote"@en .
+
+wd:Q7579064 a wd:Q2057971 ;
+    rdfs:label "Spontaneously hypertensive rat"@en .
+
+wd:Q7663375 a wd:Q2057971 ;
+    rdfs:label "syrinx"@en .
+
+wd:Q7704017 a wd:Q2057971 ;
+    rdfs:label "Terry's nails"@en .
+
+wd:Q81221282 a wd:Q3505845 ;
+    rdfs:label "not yet been digitized"@en .
+
+wd:Q81938 a wd:Q2057971 ;
+    rdfs:label "pain"@en .
+
+wd:Q821954 a wd:Q2057971 ;
+    rdfs:label "Berloque dermatitis"@en .
+
+wd:Q83705447 a wd:Q3505845 ;
+    rdfs:label "parenthood"@en .
+
+wd:Q8452 a wd:Q7189713 ;
+    rdfs:label "abortion"@en .
+
+wd:Q84822313 a wd:Q1149305 ;
+    rdfs:label "quick temper"@en .
+
+wd:Q86907020 a wd:Q3505845 ;
+    rdfs:label "leaning"@en .
+
+wd:Q884329 a wd:Q2057971 ;
+    rdfs:label "blindism"@en .
+
+wd:Q897134 a wd:Q2057971 ;
+    rdfs:label "Bradykinesia"@en .
+
+wd:Q904488 a wd:Q2057971 ;
+    rdfs:label "demineralization"@en .
+
+wd:Q9333794 a wd:Q2057971 ;
+    rdfs:label "nasal congestion in infants"@en .
+
+wd:Q935781 a wd:Q2057971 ;
+    rdfs:label "hyperhidrosis"@en .
+
+wd:Q992274 a wd:Q2057971 ;
+    rdfs:label "Brudziński's sign"@en .
+
+wd:Q1149305 rdfs:label "disposition"@en .
+
+wd:Q7189713 rdfs:label "physiological condition"@en ;
+    rdfs:subClassOf wd:Q1149305,
+        wd:Q3505845 .
+
+wd:Q3505845 rdfs:label "state"@en .
+
+wd:Q2057971 rdfs:label "health problem"@en ;
+    rdfs:subClassOf wd:Q7189713 .
+

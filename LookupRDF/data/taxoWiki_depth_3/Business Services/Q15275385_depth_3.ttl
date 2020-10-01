@@ -1,0 +1,462 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1007035 a wd:Q176165 ;
+    rdfs:label "GNOME-DB"@en .
+
+wd:Q1049812 a wd:Q176165 ;
+    rdfs:label "RRDtool"@en .
+
+wd:Q1050734 a wd:Q3932296 ;
+    rdfs:label "IBM Informix"@en .
+
+wd:Q10858568 a wd:Q176165 ;
+    rdfs:label "Couchbase Server"@en .
+
+wd:Q10858569 a wd:Q176165 ;
+    rdfs:label "MemcacheDB"@en .
+
+wd:Q1123786 a wd:Q176165 ;
+    rdfs:label "ConceptBase"@en .
+
+wd:Q1136882 a wd:Q176165 ;
+    rdfs:label "Apache CouchDB"@en .
+
+wd:Q11372689 a wd:Q3932296 ;
+    rdfs:label "Q11372689"^^xsd:string .
+
+wd:Q1150391 a wd:Q3932296 ;
+    rdfs:label "InterSystems Caché"@en .
+
+wd:Q11537152 a wd:Q176165 ;
+    rdfs:label "Q11537152"^^xsd:string .
+
+wd:Q1165204 a wd:Q176165 ;
+    rdfs:label "MongoDB"@en .
+
+wd:Q1251023 a wd:Q176165 ;
+    rdfs:label "Wakanda"@en .
+
+wd:Q12621393 a wd:Q3932296 ;
+    rdfs:label "Tibero"@en .
+
+wd:Q1470293 a wd:Q2429814 ;
+    rdfs:label "OpenStack"@en .
+
+wd:Q14773478 a wd:Q2429814 ;
+    rdfs:label "Business rules engine"@en .
+
+wd:Q1493683 a wd:Q3932296 ;
+    rdfs:label "MySQL Cluster"@en .
+
+wd:Q15275385 a wd:Q3932296 ;
+    rdfs:label "MemSQL"@en .
+
+wd:Q15303669 a wd:Q176165 ;
+    rdfs:label "CA IDMS"@en .
+
+wd:Q1537053 a wd:Q176165 ;
+    rdfs:label "Kexi"@en .
+
+wd:Q1562670 a wd:Q176165 ;
+    rdfs:label "H2"@en .
+
+wd:Q1571984 a wd:Q176165 ;
+    rdfs:label "IBM Information Management System"@en .
+
+wd:Q16688751 a wd:Q176165 ;
+    rdfs:label "Percona Server for MySQL"@en .
+
+wd:Q1671054 a wd:Q3932296 ;
+    rdfs:label "SESAM"@en .
+
+wd:Q16884758 a wd:Q3932296 ;
+    rdfs:label "IBM IS1"@en .
+
+wd:Q16927958 a wd:Q176165 ;
+    rdfs:label "IBM Business System 12"@en .
+
+wd:Q16927988 a wd:Q3932296 ;
+    rdfs:label "IBM BLU Acceleration"@en .
+
+wd:Q17012109 a wd:Q3932296 ;
+    rdfs:label "Amazon Redshift"@en .
+
+wd:Q17027613 a wd:Q176165 ;
+    rdfs:label "Unisys DMSII"@en .
+
+wd:Q17052272 a wd:Q176165 ;
+    rdfs:label "Druid"@en .
+
+wd:Q17087084 a wd:Q176165 ;
+    rdfs:label "TokuMX"@en .
+
+wd:Q17089542 a wd:Q176165 ;
+    rdfs:label "WebScaleSQL"@en .
+
+wd:Q1755829 a wd:Q176165 ;
+    rdfs:label "Toad"@en .
+
+wd:Q1779923 a wd:Q176165,
+        wd:Q3932296 ;
+    rdfs:label "Paradox"@en .
+
+wd:Q1814028 a wd:Q3932296 ;
+    rdfs:label "SQL Server Compact"@en .
+
+wd:Q18156745 a wd:Q176165 ;
+    rdfs:label "Trafodion"@en .
+
+wd:Q18377772 a wd:Q176165 ;
+    rdfs:label "Hyperdex"@en .
+
+wd:Q185524 a wd:Q3932296 ;
+    rdfs:label "Oracle Database"@en .
+
+wd:Q188104 a wd:Q176165 ;
+    rdfs:label "phpMyAdmin"@en .
+
+wd:Q1924669 a wd:Q176165 ;
+    rdfs:label "Metakit"@en .
+
+wd:Q192490 a wd:Q3932296 ;
+    rdfs:label "PostgreSQL"@en .
+
+wd:Q19646047 a wd:Q3932296 ;
+    rdfs:label "Apache Phoenix"@en .
+
+wd:Q20072115 a wd:Q176165 ;
+    rdfs:label "ArangoDB"@en .
+
+wd:Q20988755 a wd:Q3932296 ;
+    rdfs:label "SQream DB"@en .
+
+wd:Q2123920 a wd:Q3932296 ;
+    rdfs:label "R:Base"@en .
+
+wd:Q2143312 a wd:Q3932296 ;
+    rdfs:label "MaxDB"@en .
+
+wd:Q215819 a wd:Q3932296 ;
+    rdfs:label "Microsoft SQL Server"@en .
+
+wd:Q220399 a wd:Q176165 ;
+    rdfs:label "Zope Object Database"@en .
+
+wd:Q2247564 a wd:Q3932296 ;
+    rdfs:label "SQL Anywhere"@en .
+
+wd:Q2301321 a wd:Q176165 ;
+    rdfs:label "Sones GraphDB"@en .
+
+wd:Q2349604 a wd:Q2429814 ;
+    rdfs:label "Bloomberg Terminal"@en .
+
+wd:Q2357154 a wd:Q3932296 ;
+    rdfs:label "Strozzi NoSQL"@en .
+
+wd:Q238349 a wd:Q3932296 ;
+    rdfs:label "4th Dimension"@en .
+
+wd:Q2384775 a wd:Q2429814 ;
+    rdfs:label "TRACES"@en .
+
+wd:Q2507721 a wd:Q176165 ;
+    rdfs:label "FoxPro"@en .
+
+wd:Q2538066 a wd:Q176165 ;
+    rdfs:label "Apache HBase"@en .
+
+wd:Q25502542 a wd:Q176165 ;
+    rdfs:label "Q25502542"^^xsd:string .
+
+wd:Q2566342 a wd:Q176165 ;
+    rdfs:label "Drizzle"@en .
+
+wd:Q2571898 a wd:Q176165 ;
+    rdfs:label "Adminer"@en .
+
+wd:Q2576415 a wd:Q3932296 ;
+    rdfs:label "Adaptive Server Enterprise"@en .
+
+wd:Q261744 a wd:Q3932296 ;
+    rdfs:label "Firebird"@en .
+
+wd:Q27825826 a wd:Q176165 ;
+    rdfs:label "ClickHouse"@en .
+
+wd:Q28127110 a wd:Q176165 ;
+    rdfs:label "InfluxDB"@en .
+
+wd:Q2822898 a wd:Q176165 ;
+    rdfs:label "Apache Accumulo"@en .
+
+wd:Q285745 a wd:Q176165 ;
+    rdfs:label "db4o"@en .
+
+wd:Q28956992 a wd:Q176165 ;
+    rdfs:label "DBeaver"@en .
+
+wd:Q28957065 a wd:Q176165 ;
+    rdfs:label "Scylla"@en .
+
+wd:Q28975208 a wd:Q3932296 ;
+    rdfs:label "POSTGRES"@en .
+
+wd:Q300971 a wd:Q176165 ;
+    rdfs:label "dBase"@en .
+
+wd:Q30100408 a wd:Q3932296 ;
+    rdfs:label "Postgres-XL"@en .
+
+wd:Q30100559 a wd:Q3932296 ;
+    rdfs:label "Postgres-XC"@en .
+
+wd:Q311550 a wd:Q176165 ;
+    rdfs:label "eXist"@en .
+
+wd:Q3353125 a wd:Q176165 ;
+    rdfs:label "OpenQM"@en .
+
+wd:Q346434 a wd:Q176165 ;
+    rdfs:label "ADABAS"@en .
+
+wd:Q3508244 a wd:Q176165 ;
+    rdfs:label "Oracle Spatial"@en .
+
+wd:Q3799287 a wd:Q176165 ;
+    rdfs:label "Integrated Data Store"@en .
+
+wd:Q3813425 a wd:Q176165 ;
+    rdfs:label "TokuDB"@en .
+
+wd:Q3884002 a wd:Q176165 ;
+    rdfs:label "VoltDB"@en .
+
+wd:Q3954180 a wd:Q176165 ;
+    rdfs:label "Sedna"@en .
+
+wd:Q3991449 a wd:Q3932296 ;
+    rdfs:label "TimesTen"@en .
+
+wd:Q4035545 a wd:Q176165 ;
+    rdfs:label "C-Store"@en .
+
+wd:Q4043400 a wd:Q176165 ;
+    rdfs:label "MDB Tools"@en .
+
+wd:Q4043482 a wd:Q176165 ;
+    rdfs:label "Soul"@en .
+
+wd:Q4048047 a wd:Q3932296 ;
+    rdfs:label "Oracle Rdb"@en .
+
+wd:Q431195 a wd:Q3932296 ;
+    rdfs:label "IBM Db2"@en .
+
+wd:Q46049725 a wd:Q176165 ;
+    rdfs:label "Microsoft Office Access 2007"@en .
+
+wd:Q4652447 a wd:Q3932296 ;
+    rdfs:label "ALTIBASE HDB"@en .
+
+wd:Q4688459 a wd:Q176165 ;
+    rdfs:label "Aerospike database"@en .
+
+wd:Q4778914 a wd:Q3932296 ;
+    rdfs:label "Apache Hive"@en .
+
+wd:Q4784996 a wd:Q3932296 ;
+    rdfs:label "ArcSDE"@en .
+
+wd:Q484935 a wd:Q176165 ;
+    rdfs:label "CUBRID"@en .
+
+wd:Q5014224 a wd:Q3932296 ;
+    rdfs:label "CSQL"@en .
+
+wd:Q5055658 a wd:Q176165 ;
+    rdfs:label "cdb"@en .
+
+wd:Q5227383 a wd:Q176165 ;
+    rdfs:label "Database Deployment Manager"@en .
+
+wd:Q5227388 a wd:Q3932296 ;
+    rdfs:label "Database Management Library"@en .
+
+wd:Q5227421 a wd:Q3932296 ;
+    rdfs:label "Datablitz"@en .
+
+wd:Q53782888 a wd:Q176165 ;
+    rdfs:label "History of Geology and Mining"@en .
+
+wd:Q5459952 a wd:Q176165 ;
+    rdfs:label "FlockDB"@en .
+
+wd:Q5516340 a wd:Q176165 ;
+    rdfs:label "Gadfly"@en .
+
+wd:Q5565944 a wd:Q176165 ;
+    rdfs:label "Gizzard"@en .
+
+wd:Q55664219 a wd:Q176165 ;
+    rdfs:label "Q55664219"^^xsd:string .
+
+wd:Q5627844 a wd:Q3932296 ;
+    rdfs:label "H-Store"@en .
+
+wd:Q56375088 a wd:Q3932296 ;
+    rdfs:label "TiDB"@en .
+
+wd:Q5750594 a wd:Q176165 ;
+    rdfs:label "Hibari"@en .
+
+wd:Q593065 a wd:Q176165 ;
+    rdfs:label "BaseX"@en .
+
+wd:Q5958689 a wd:Q176165 ;
+    rdfs:label "Hypertable"@en .
+
+wd:Q5968814 a wd:Q3932296 ;
+    rdfs:label "IBM DB2 Express-C"@en .
+
+wd:Q5968936 a wd:Q3932296 ;
+    rdfs:label "IBM Peterlee Relational Test Vehicle"@en .
+
+wd:Q5969010 a wd:Q3932296 ;
+    rdfs:label "IBM SQL/DS"@en .
+
+wd:Q60463 a wd:Q3932296 ;
+    rdfs:label "Ingres"@en .
+
+wd:Q61085140 a wd:Q176165 ;
+    rdfs:label "Q61085140"^^xsd:string .
+
+wd:Q616706 a wd:Q176165 ;
+    rdfs:label "Apache Derby"@en .
+
+wd:Q65746013 a wd:Q3932296 ;
+    rdfs:label "Teradata Database"@en .
+
+wd:Q66686014 a wd:Q176165 ;
+    rdfs:label "Lotus Approach Release 9"@en .
+
+wd:Q667967 a wd:Q176165 ;
+    rdfs:label "Mnesia"@en .
+
+wd:Q669257 a wd:Q3932296 ;
+    rdfs:label "HSQLDB"@en .
+
+wd:Q6696903 a wd:Q176165 ;
+    rdfs:label "LucidDB"@en .
+
+wd:Q6862049 a wd:Q3932296 ;
+    rdfs:label "Mimer SQL"@en .
+
+wd:Q6888180 a wd:Q176165 ;
+    rdfs:label "Model 204"@en .
+
+wd:Q6898976 a wd:Q3932296 ;
+    rdfs:label "MonetDB"@en .
+
+wd:Q6927988 a wd:Q176165 ;
+    rdfs:label "Mozilla Raindrop"@en .
+
+wd:Q7075088 a wd:Q176165 ;
+    rdfs:label "Objectivity/DB"@en .
+
+wd:Q7170774 a wd:Q176165 ;
+    rdfs:label "Perst"@en .
+
+wd:Q7207911 a wd:Q3932296 ;
+    rdfs:label "PointBase"@en .
+
+wd:Q7276282 a wd:Q3932296 ;
+    rdfs:label "REAL Server"@en .
+
+wd:Q7294750 a wd:Q176165 ;
+    rdfs:label "rasdaman"@en .
+
+wd:Q7310670 a wd:Q176165 ;
+    rdfs:label "Rel"@en .
+
+wd:Q7355146 a wd:Q176165 ;
+    rdfs:label "Rocket U2"@en .
+
+wd:Q7392738 a wd:Q3932296 ;
+    rdfs:label "SQL Server Agent"@en .
+
+wd:Q7433385 a wd:Q176165 ;
+    rdfs:label "SciDB"@en .
+
+wd:Q7557804 a wd:Q3932296 ;
+    rdfs:label "solidDB"@en .
+
+wd:Q7685462 a wd:Q176165 ;
+    rdfs:label "Tarantool"@en .
+
+wd:Q783086 a wd:Q176165 ;
+    rdfs:label "Dataphor"@en .
+
+wd:Q7836597 a wd:Q176165 ;
+    rdfs:label "TreapDB"@en .
+
+wd:Q787177 a wd:Q3932296 ;
+    rdfs:label "MariaDB"@en .
+
+wd:Q7935239 a wd:Q3932296 ;
+    rdfs:label "Virtuoso Universal Server"@en .
+
+wd:Q7973201 a wd:Q3932296 ;
+    rdfs:label "Watcom SQL"@en .
+
+wd:Q8039438 a wd:Q3932296 ;
+    rdfs:label "wxSQLite3"@en .
+
+wd:Q80426 a wd:Q3932296 ;
+    rdfs:label "Vectorwise"@en .
+
+wd:Q8043897 a wd:Q3932296 ;
+    rdfs:label "Xeround"@en .
+
+wd:Q80689 a wd:Q3932296 ;
+    rdfs:label "Microsoft Access"@en .
+
+wd:Q808716 a wd:Q176165 ;
+    rdfs:label "OrientDB"@en .
+
+wd:Q832312 a wd:Q176165 ;
+    rdfs:label "FileMaker Pro"@en .
+
+wd:Q850 a wd:Q3932296 ;
+    rdfs:label "MySQL"@en .
+
+wd:Q86185317 a wd:Q176165 ;
+    rdfs:label "spatial data server"@en .
+
+wd:Q9026437 a wd:Q176165 ;
+    rdfs:label "Maatkit"@en .
+
+wd:Q9290964 a wd:Q176165 ;
+    rdfs:label "SmallSQL"@en .
+
+wd:Q948399 a wd:Q3932296 ;
+    rdfs:label "InterSystems"@en .
+
+wd:Q951374 a wd:Q3932296 ;
+    rdfs:label "SAP HANA"@en .
+
+wd:Q961733 a wd:Q176165 ;
+    rdfs:label "dbm"@en .
+
+wd:Q2429814 rdfs:label "software system"@en .
+
+wd:Q3932296 rdfs:label "relational database management system"@en ;
+    rdfs:subClassOf wd:Q176165 .
+
+wd:Q176165 rdfs:label "database management system"@en ;
+    rdfs:subClassOf wd:Q2429814 .
+

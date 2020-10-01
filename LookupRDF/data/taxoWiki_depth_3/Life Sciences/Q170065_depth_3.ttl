@@ -1,0 +1,576 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1002151 a wd:Q3505845 ;
+    rdfs:label "Buffer underrun"@en .
+
+wd:Q104021 a wd:Q3505845 ;
+    rdfs:label "fauna"@en .
+
+wd:Q1067532 a wd:Q3505845 ;
+    rdfs:label "G-LOC"@en .
+
+wd:Q127498 rdfs:label "parasitic plant"@en ;
+    rdfs:subClassOf wd:Q10253316 .
+
+wd:Q135277 a wd:Q804517 ;
+    rdfs:label "Q135277"^^xsd:string .
+
+wd:Q1366299 rdfs:label "hyperparasite"@en ;
+    rdfs:subClassOf wd:Q10253316 .
+
+wd:Q1378682 a wd:Q170065 ;
+    rdfs:label "Plasmodiophora brassicae"@en .
+
+wd:Q1447854 a wd:Q3505845 ;
+    rdfs:label "Throbber"@en .
+
+wd:Q15131435 a wd:Q3505845 ;
+    rdfs:label "gezelligheid"@en .
+
+wd:Q15787 a wd:Q808 ;
+    rdfs:label "HIV"@en .
+
+wd:Q15818975 a wd:Q7880449 ;
+    rdfs:label "Haemodipsis brachylagi"@en .
+
+wd:Q15874438 a wd:Q3505845 ;
+    rdfs:label "divisible"@en .
+
+wd:Q16000270 rdfs:label "Orphan virus"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q16069884 a wd:Q3505845 ;
+    rdfs:label "Q16069884"^^xsd:string .
+
+wd:Q16070439 a wd:Q3505845 ;
+    rdfs:label "Q16070439"^^xsd:string .
+
+wd:Q161790 a wd:Q3505845 ;
+    rdfs:label "Asperger syndrome"@en .
+
+wd:Q16243560 a wd:Q808 ;
+    rdfs:label "Bat-borne virus"@en .
+
+wd:Q1628722 rdfs:label "Nucleocytoplasmic large DNA virus"@en ;
+    rdfs:subClassOf wd:Q858790 .
+
+wd:Q1663724 a wd:Q808 ;
+    rdfs:label "Inkoo  virus"@en .
+
+wd:Q16992171 rdfs:label "Oncolytic herpes virus"@en ;
+    rdfs:subClassOf wd:Q1560099 .
+
+wd:Q1711744 rdfs:label "Merkel cell carcinoma"@en ;
+    rdfs:subClassOf wd:Q604261 .
+
+wd:Q1712327 rdfs:label "Prophage"@en ;
+    rdfs:subClassOf wd:Q165028 .
+
+wd:Q17149729 rdfs:label "human pathogen"@en ;
+    rdfs:subClassOf wd:Q170065 .
+
+wd:Q17424578 a wd:Q165028 ;
+    rdfs:label "crAssphage"@en .
+
+wd:Q1760011 a wd:Q3505845 ;
+    rdfs:label "prosperity"@en .
+
+wd:Q17710290 a wd:Q3505845 ;
+    rdfs:label "Dormant organization"@en .
+
+wd:Q18066311 a wd:Q3505845 ;
+    rdfs:label "Q18066311"^^xsd:string .
+
+wd:Q181600 a wd:Q3505845 ;
+    rdfs:label "patient"@en .
+
+wd:Q1827062 a wd:Q3505845 ;
+    rdfs:label "Q1827062"^^xsd:string .
+
+wd:Q18396999 a wd:Q3505845 ;
+    rdfs:label "Q18396999"^^xsd:string .
+
+wd:Q189052 rdfs:label "cell colony"@en ;
+    rdfs:subClassOf wd:Q101274 .
+
+wd:Q1891441 a wd:Q3505845 ;
+    rdfs:label "convalescence"@en .
+
+wd:Q18975234 rdfs:label "Human herpesvirus 8 infectious disease"@en ;
+    rdfs:subClassOf wd:Q604261 .
+
+wd:Q191355 a wd:Q3505845 ;
+    rdfs:label "hunger strike"@en .
+
+wd:Q191665 rdfs:label "cercaria"@en ;
+    rdfs:subClassOf wd:Q10253316 .
+
+wd:Q1945135 a wd:Q3505845 ;
+    rdfs:label "Q1945135"^^xsd:string .
+
+wd:Q1948859 rdfs:label "mosaic viruses"@en ;
+    rdfs:subClassOf wd:Q1495434 .
+
+wd:Q1956621 rdfs:label "Mycovirus"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q19921782 a wd:Q3505845 ;
+    rdfs:label "bilingualism of government"@en .
+
+wd:Q20739318 rdfs:label "hemiparasite"@en ;
+    rdfs:subClassOf wd:Q10253316 .
+
+wd:Q2165315 a wd:Q170065 ;
+    rdfs:label "Sclerotinia sclerotiorum"@en .
+
+wd:Q2234498 a wd:Q3505845 ;
+    rdfs:label "Q2234498"^^xsd:string .
+
+wd:Q2379153 a wd:Q3505845 ;
+    rdfs:label "congenic organisms"@en .
+
+wd:Q2388252 a wd:Q3505845 ;
+    rdfs:label "Q2388252"^^xsd:string .
+
+wd:Q2391080 a wd:Q3505845 ;
+    rdfs:label "Q2391080"^^xsd:string .
+
+wd:Q2409965 a wd:Q3505845 ;
+    rdfs:label "metastability in electronics"@en .
+
+wd:Q2443966 a wd:Q3505845 ;
+    rdfs:label "Bedridden"@en .
+
+wd:Q24716059 a wd:Q1132455 ;
+    rdfs:label "isoamyl iodide"@en .
+
+wd:Q24963776 rdfs:label "Bacillus phage"@en ;
+    rdfs:subClassOf wd:Q165028 .
+
+wd:Q2516844 a wd:Q3505845 ;
+    rdfs:label "Q2516844"^^xsd:string .
+
+wd:Q2532645 rdfs:label "Q2532645"^^xsd:string ;
+    rdfs:subClassOf wd:Q10253316 .
+
+wd:Q2614315 a wd:Q3505845 ;
+    rdfs:label "Q2614315"^^xsd:string .
+
+wd:Q267036 a wd:Q808 ;
+    rdfs:label "Schmallenberg virus"@en .
+
+wd:Q2679225 a wd:Q3505845 ;
+    rdfs:label "Q2679225"^^xsd:string .
+
+wd:Q2687604 a wd:Q3505845 ;
+    rdfs:label "Q2687604"^^xsd:string .
+
+wd:Q2739856 a wd:Q3505845 ;
+    rdfs:label "Q2739856"^^xsd:string .
+
+wd:Q2742406 rdfs:label "biological agent"@en ;
+    rdfs:subClassOf wd:Q170065 .
+
+wd:Q27502769 a wd:Q3505845 ;
+    rdfs:label "Q27502769"^^xsd:string .
+
+wd:Q2782106 rdfs:label "Q2782106"^^xsd:string ;
+    rdfs:subClassOf wd:Q10253316 .
+
+wd:Q27968830 a wd:Q3505845 ;
+    rdfs:label "cashless society"@en .
+
+wd:Q28167163 rdfs:label "Orsayvirus"@en ;
+    rdfs:subClassOf wd:Q751911 .
+
+wd:Q28311065 rdfs:label "Quahog Parasite Unknown"@en ;
+    rdfs:subClassOf wd:Q10253316 .
+
+wd:Q28532092 a wd:Q165028 ;
+    rdfs:label "Acinetobacter phage AP205"@en .
+
+wd:Q2878488 a wd:Q165028 ;
+    rdfs:label "Bacteriophage T5"@en .
+
+wd:Q2901600 rdfs:label "double-stranded DNA virus"@en ;
+    rdfs:subClassOf wd:Q858790 .
+
+wd:Q29415466 a wd:Q3505845 ;
+    rdfs:label "active"@en .
+
+wd:Q29415492 a wd:Q3505845 ;
+    rdfs:label "inactive"@en .
+
+wd:Q2944360 a wd:Q3505845 ;
+    rdfs:label "centenarian"@en .
+
+wd:Q29954897 a wd:Q3505845 ;
+    rdfs:label "reduced intensity"@en .
+
+wd:Q3080172 a wd:Q808 ;
+    rdfs:label "Q3080172"^^xsd:string .
+
+wd:Q30973344 a wd:Q808 ;
+    rdfs:label "Indivirus"@en .
+
+wd:Q30973349 a wd:Q808 ;
+    rdfs:label "Catovirus"@en .
+
+wd:Q311383 a wd:Q10253316 ;
+    rdfs:label "Plasmodium falciparum"@en .
+
+wd:Q315971 a wd:Q3505845 ;
+    rdfs:label "total loss"@en .
+
+wd:Q32099846 a wd:Q3505845 ;
+    rdfs:label "intensified"@en .
+
+wd:Q3307900 rdfs:label "double-stranded RNA virus"@en ;
+    rdfs:subClassOf wd:Q751911 .
+
+wd:Q3321098 rdfs:label "single-strand virus"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q3363664 rdfs:label "human parasite"@en ;
+    rdfs:subClassOf wd:Q10253316 .
+
+wd:Q3382075 a wd:Q170065 ;
+    rdfs:label "Phytophthora ramorum"@en .
+
+wd:Q3449472 a wd:Q3505845 ;
+    rdfs:label "Q3449472"^^xsd:string .
+
+wd:Q3518877 a wd:Q3505845 ;
+    rdfs:label "Q3518877"^^xsd:string .
+
+wd:Q3519661 a wd:Q3505845 ;
+    rdfs:label "Q3519661"^^xsd:string .
+
+wd:Q3533657 a wd:Q3505845 ;
+    rdfs:label "Q3533657"^^xsd:string .
+
+wd:Q3560879 a wd:Q808 ;
+    rdfs:label "Q3560879"^^xsd:string .
+
+wd:Q358404 a wd:Q3505845 ;
+    rdfs:label "tumah and taharah"@en .
+
+wd:Q3644190 a wd:Q3505845 ;
+    rdfs:label "seropositive"@en .
+
+wd:Q3754200 rdfs:label "double-stranded DNA reverse transcriptase virus"@en ;
+    rdfs:subClassOf wd:Q858790 .
+
+wd:Q38027136 a wd:Q10253316 ;
+    rdfs:label "Trypanosoma hippicum"@en .
+
+wd:Q3816624 a wd:Q808 ;
+    rdfs:label "JX-594"@en .
+
+wd:Q3916633 rdfs:label "Virophage"@en ;
+    rdfs:subClassOf wd:Q858790 .
+
+wd:Q3921252 a wd:Q3505845 ;
+    rdfs:label "Q3921252"^^xsd:string .
+
+wd:Q3933801 rdfs:label "single-stranded RNA reverse transcriptase virus"@en ;
+    rdfs:subClassOf wd:Q751911 .
+
+wd:Q3948652 a wd:Q3505845 ;
+    rdfs:label "Q3948652"^^xsd:string .
+
+wd:Q4120632 a wd:Q3505845 ;
+    rdfs:label "hard frost"@en .
+
+wd:Q44209519 rdfs:label "ssRNA(+/-)"@en ;
+    rdfs:subClassOf wd:Q751911 .
+
+wd:Q45181439 rdfs:label "Q45181439"^^xsd:string ;
+    rdfs:subClassOf wd:Q751911 .
+
+wd:Q4676985 a wd:Q165028 ;
+    rdfs:label "Actinophage"@en .
+
+wd:Q4683189 a wd:Q3505845 ;
+    rdfs:label "Adjuncts"@en .
+
+wd:Q4840017 a wd:Q165028 ;
+    rdfs:label "Bacteriophage PBC1"@en .
+
+wd:Q4840019 a wd:Q165028 ;
+    rdfs:label "Bacteriophage T12"@en .
+
+wd:Q5029862 a wd:Q3505845 ;
+    rdfs:label "Q5029862"^^xsd:string .
+
+wd:Q50376984 a wd:Q808 ;
+    rdfs:label "Samba virus"@en .
+
+wd:Q5251124 rdfs:label "Defective interfering particle"@en ;
+    rdfs:subClassOf wd:Q69388938 .
+
+wd:Q5509170 rdfs:label "Fungal prions"@en ;
+    rdfs:subClassOf wd:Q47051 .
+
+wd:Q5521364 a wd:Q808 ;
+    rdfs:label "Ganjam virus"@en .
+
+wd:Q5532942 rdfs:label "Genetically modified virus"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q5535279 rdfs:label "geohelminth"@en ;
+    rdfs:subClassOf wd:Q3129936 .
+
+wd:Q5561597 a wd:Q165028 ;
+    rdfs:label "Giles"@en .
+
+wd:Q55786996 rdfs:label "Epstein-Barr virus-related tumor"@en ;
+    rdfs:subClassOf wd:Q604261 .
+
+wd:Q55788227 rdfs:label "HIV-associated cancer"@en ;
+    rdfs:subClassOf wd:Q604261 .
+
+wd:Q55863613 a wd:Q808 ;
+    rdfs:label "PPMV1"@en .
+
+wd:Q5630028 a wd:Q604261 ;
+    rdfs:label "HL23V"@en .
+
+wd:Q5710212 rdfs:label "Helper dependent virus"@en ;
+    rdfs:subClassOf wd:Q69388938 .
+
+wd:Q581152 a wd:Q1132455 ;
+    rdfs:label "nitrogen narcosis"@en .
+
+wd:Q58210565 a wd:Q3505845 ;
+    rdfs:label "Q58210565"^^xsd:string .
+
+wd:Q58339313 rdfs:label "intestinal parasite"@en ;
+    rdfs:subClassOf wd:Q10253316 .
+
+wd:Q58676188 rdfs:label "reverse transcribing virus"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q59167523 rdfs:label "insect-specific viruses"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q6022077 rdfs:label "Q6022077"^^xsd:string ;
+    rdfs:subClassOf wd:Q10253316 .
+
+wd:Q6065209 rdfs:label "Q6065209"^^xsd:string ;
+    rdfs:subClassOf wd:Q10253316 .
+
+wd:Q6065212 rdfs:label "Q6065212"^^xsd:string ;
+    rdfs:subClassOf wd:Q10253316 .
+
+wd:Q608956 rdfs:label "virusoid"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q61679550 a wd:Q3505845 ;
+    rdfs:label "Q61679550"^^xsd:string .
+
+wd:Q62101642 a wd:Q3505845 ;
+    rdfs:label "period poverty"@en .
+
+wd:Q63500873 rdfs:label "enteropathogen"@en ;
+    rdfs:subClassOf wd:Q170065 .
+
+wd:Q65620006 a wd:Q808 ;
+    rdfs:label "Bodo saltans virus"@en .
+
+wd:Q6578238 a wd:Q3505845 ;
+    rdfs:label "helplessness"@en .
+
+wd:Q66134842 rdfs:label "human adenoviruses"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q66622169 a wd:Q808 ;
+    rdfs:label "Q66622169"^^xsd:string .
+
+wd:Q66660219 a wd:Q3505845 ;
+    rdfs:label "Q66660219"^^xsd:string .
+
+wd:Q6764275 a wd:Q165028 ;
+    rdfs:label "Marine bacteriophage"@en .
+
+wd:Q68300459 rdfs:label "encephalitis viruses"@en ;
+    rdfs:subClassOf wd:Q751911 .
+
+wd:Q68798014 rdfs:label "Insect Viruses"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q69300070 rdfs:label "Pseudomonas Phages"@en ;
+    rdfs:subClassOf wd:Q165028 .
+
+wd:Q69342217 rdfs:label "T-Phages"@en ;
+    rdfs:subClassOf wd:Q165028 .
+
+wd:Q69345848 rdfs:label "hepatitis viruses"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q693564 a wd:Q1132455 ;
+    rdfs:label "Kessler syndrome"@en .
+
+wd:Q69378284 rdfs:label "fungal viruses"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q69381845 rdfs:label "Salmonella Phages"@en ;
+    rdfs:subClassOf wd:Q165028 .
+
+wd:Q69388705 rdfs:label "Viruses, Unclassified"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q69388748 rdfs:label "SSPE virus"@en ;
+    rdfs:subClassOf wd:Q69388938 .
+
+wd:Q69389264 rdfs:label "Streptococcus Phages"@en ;
+    rdfs:subClassOf wd:Q165028 .
+
+wd:Q6946 rdfs:label "Cytomegalovirus"@en ;
+    rdfs:subClassOf wd:Q3560951 .
+
+wd:Q7075151 rdfs:label "obligate parasite"@en ;
+    rdfs:subClassOf wd:Q10253316 .
+
+wd:Q7302706 rdfs:label "Recombinant virus"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q7434201 a wd:Q170065 ;
+    rdfs:label "Sclerotinia minor"@en .
+
+wd:Q7578725 a wd:Q3505845 ;
+    rdfs:label "Split vote"@en .
+
+wd:Q7616504 a wd:Q6471530 ;
+    rdfs:label "stigmatomycosis"@en .
+
+wd:Q76635415 a wd:Q808 ;
+    rdfs:label "SIVmac251"@en .
+
+wd:Q76635641 a wd:Q808 ;
+    rdfs:label "SIVsmE660"@en .
+
+wd:Q7679524 a wd:Q808 ;
+    rdfs:label "Talimogene laherparepvec"@en .
+
+wd:Q7809984 a wd:Q808 ;
+    rdfs:label "Titi monkey adenovirus"@en .
+
+wd:Q81221282 a wd:Q3505845 ;
+    rdfs:label "not yet been digitized"@en .
+
+wd:Q83705447 a wd:Q3505845 ;
+    rdfs:label "parenthood"@en .
+
+wd:Q84497971 a wd:Q16000255 ;
+    rdfs:label "novel coronavirus"@en .
+
+wd:Q86907020 a wd:Q3505845 ;
+    rdfs:label "leaning"@en .
+
+wd:Q878402 a wd:Q1048833 ;
+    rdfs:label "Escherichia coli O157:H7"@en .
+
+wd:Q9056969 rdfs:label "viral pathogen"@en ;
+    rdfs:subClassOf wd:Q170065 .
+
+wd:Q9094469 rdfs:label "single-stranded DNA virus"@en ;
+    rdfs:subClassOf wd:Q858790 .
+
+wd:Q9094478 rdfs:label "positive-sense single-stranded RNA virus"@en ;
+    rdfs:subClassOf wd:Q751911 .
+
+wd:Q9285327 a wd:Q808 ;
+    rdfs:label "negative-sense single strand RNA virus"@en ;
+    rdfs:subClassOf wd:Q751911 .
+
+wd:Q9300235 rdfs:label "endoparasite"@en ;
+    rdfs:subClassOf wd:Q10253316 .
+
+wd:Q949817 rdfs:label "slime mold"@en ;
+    rdfs:subClassOf wd:Q101274 .
+
+wd:Q1048833 rdfs:label "enterohemorrhagic"@en ;
+    rdfs:subClassOf wd:Q170065 .
+
+wd:Q1495434 rdfs:label "plant virus"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q1560099 rdfs:label "oncolytic virus"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q16000255 rdfs:label "novel virus"@en ;
+    rdfs:subClassOf wd:Q5370768 .
+
+wd:Q18603648 rdfs:label "contributing factor"@en .
+
+wd:Q2826767 rdfs:label "disease causative agent"@en ;
+    rdfs:subClassOf wd:Q86923152 .
+
+wd:Q3129936 rdfs:label "helminth"@en ;
+    rdfs:subClassOf wd:Q10253316 .
+
+wd:Q3560951 rdfs:label "neurotropic virus"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q47051 rdfs:label "prion"@en ;
+    rdfs:subClassOf wd:Q170065 .
+
+wd:Q5370768 rdfs:label "emergent virus"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q5422048 rdfs:label "external risk"@en .
+
+wd:Q6471530 rdfs:label "pathogenic fungus"@en ;
+    rdfs:subClassOf wd:Q170065 .
+
+wd:Q7880449 rdfs:label "ectoparasite"@en ;
+    rdfs:subClassOf wd:Q10253316 .
+
+wd:Q804517 rdfs:label "pathogenic bacteria"@en ;
+    rdfs:subClassOf wd:Q170065 .
+
+wd:Q864360 rdfs:label "biological hazard"@en ;
+    rdfs:subClassOf wd:Q1132455 .
+
+wd:Q86923152 rdfs:label "risk source"@en ;
+    rdfs:subClassOf wd:Q18603648 .
+
+wd:Q101274 rdfs:label "Protozoa"@en ;
+    rdfs:subClassOf wd:Q170065 .
+
+wd:Q69388938 rdfs:label "defective viruses"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q1132455 rdfs:label "hazard"@en ;
+    rdfs:subClassOf wd:Q3505845,
+        wd:Q5422048 .
+
+wd:Q604261 rdfs:label "oncovirus"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q858790 rdfs:label "DNA virus"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q751911 rdfs:label "RNA virus"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q165028 rdfs:label "bacteriophage"@en ;
+    rdfs:subClassOf wd:Q808 .
+
+wd:Q170065 rdfs:label "pathogen"@en ;
+    rdfs:subClassOf wd:Q2826767,
+        wd:Q864360 .
+
+wd:Q10253316 rdfs:label "parasite"@en ;
+    rdfs:subClassOf wd:Q170065 .
+
+wd:Q808 rdfs:label "virus"@en ;
+    rdfs:subClassOf wd:Q170065 .
+
+wd:Q3505845 rdfs:label "state"@en .
+

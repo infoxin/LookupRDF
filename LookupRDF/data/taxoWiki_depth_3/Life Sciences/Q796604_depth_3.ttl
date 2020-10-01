@@ -1,0 +1,1104 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1001993 a wd:Q36534 ;
+    rdfs:label "Gattermann–Koch reaction"@en .
+
+wd:Q10491408 a wd:Q36534 ;
+    rdfs:label "Dehydration condensation"@en .
+
+wd:Q10491433 a wd:Q36534 ;
+    rdfs:label "Q10491433"^^xsd:string .
+
+wd:Q1049494 a wd:Q36534 ;
+    rdfs:label "name reaction"@en .
+
+wd:Q1054818 a wd:Q36534 ;
+    rdfs:label "Bingel reaction"@en .
+
+wd:Q1055532 a wd:Q36534 ;
+    rdfs:label "Q1055532"^^xsd:string .
+
+wd:Q1057895 a wd:Q36534 ;
+    rdfs:label "Aldol-Tishchenko reaction"@en .
+
+wd:Q1057963 a wd:Q36534 ;
+    rdfs:label "Danheiser annulation"@en .
+
+wd:Q1058038 a wd:Q36534 ;
+    rdfs:label "Blaise ketone synthesis"@en .
+
+wd:Q1058108 a wd:Q36534 ;
+    rdfs:label "Forster–Decker method"@en .
+
+wd:Q1058180 a wd:Q36534 ;
+    rdfs:label "Fukuyama reduction"@en .
+
+wd:Q1058382 a wd:Q36534 ;
+    rdfs:label "Adkins–Peterson reaction"@en .
+
+wd:Q1059547 a wd:Q36534 ;
+    rdfs:label "Volhard–Erdmann cyclization"@en .
+
+wd:Q1059623 a wd:Q36534 ;
+    rdfs:label "Riemschneider thiocarbamate synthesis"@en .
+
+wd:Q1059727 a wd:Q36534 ;
+    rdfs:label "Hinsberg oxindole synthesis"@en .
+
+wd:Q1059814 a wd:Q36534 ;
+    rdfs:label "Hemetsberger indole synthesis"@en .
+
+wd:Q1060303 a wd:Q36534 ;
+    rdfs:label "von Braun reaction"@en .
+
+wd:Q1075344 a wd:Q36534 ;
+    rdfs:label "Chlorination"@en .
+
+wd:Q10846557 a wd:Q36534 ;
+    rdfs:label "Baker-Ollis synthesis"@en .
+
+wd:Q10846586 a wd:Q36534 ;
+    rdfs:label "Q10846586"^^xsd:string .
+
+wd:Q10847338 a wd:Q36534 ;
+    rdfs:label "Q10847338"^^xsd:string .
+
+wd:Q10851599 a wd:Q36534 ;
+    rdfs:label "MacDonald-Fischer degradation"@en .
+
+wd:Q10851620 a wd:Q36534 ;
+    rdfs:label "Malaprade reaction"@en .
+
+wd:Q10851636 a wd:Q36534 ;
+    rdfs:label "Q10851636"^^xsd:string .
+
+wd:Q10851658 a wd:Q36534 ;
+    rdfs:label "Q10851658"^^xsd:string .
+
+wd:Q10851660 a wd:Q36534 ;
+    rdfs:label "Mentzer pyrone synthesis"@en .
+
+wd:Q10852361 a wd:Q36534 ;
+    rdfs:label "Q10852361"^^xsd:string .
+
+wd:Q10852487 a wd:Q36534 ;
+    rdfs:label "Q10852487"^^xsd:string .
+
+wd:Q10852488 a wd:Q36534 ;
+    rdfs:label "Q10852488"^^xsd:string .
+
+wd:Q10853079 a wd:Q36534 ;
+    rdfs:label "Truce-Smiles rearrangement"@en .
+
+wd:Q10853212 a wd:Q36534 ;
+    rdfs:label "Q10853212"^^xsd:string .
+
+wd:Q10853289 a wd:Q36534 ;
+    rdfs:label "Q10853289"^^xsd:string .
+
+wd:Q10853291 a wd:Q36534 ;
+    rdfs:label "Q10853291"^^xsd:string .
+
+wd:Q10853292 a wd:Q36534 ;
+    rdfs:label "Q10853292"^^xsd:string .
+
+wd:Q10853294 a wd:Q36534 ;
+    rdfs:label "Weygand-Löwenfeld degradation"@en .
+
+wd:Q10853315 a wd:Q36534 ;
+    rdfs:label "Wibaut-Arens synthesis"@en .
+
+wd:Q10853317 a wd:Q36534 ;
+    rdfs:label "Wideqvist cyclopropane synthesis"@en .
+
+wd:Q10900841 a wd:Q36534 ;
+    rdfs:label "Hydroacylation"@en .
+
+wd:Q10911803 a wd:Q36534 ;
+    rdfs:label "Elimination"@en .
+
+wd:Q10925138 a wd:Q36534 ;
+    rdfs:label "Q10925138"^^xsd:string .
+
+wd:Q1156802 a wd:Q2281940 ;
+    rdfs:label "deposition"@en .
+
+wd:Q1170273 a wd:Q36534 ;
+    rdfs:label "ether cleavage"@en .
+
+wd:Q1182193 a wd:Q36534 ;
+    rdfs:label "Q1182193"^^xsd:string .
+
+wd:Q11832882 a wd:Q36534 ;
+    rdfs:label "Evans–Tishchenko reaction"@en .
+
+wd:Q12780061 a wd:Q36534 ;
+    rdfs:label "Q12780061"^^xsd:string .
+
+wd:Q12888145 a wd:Q36534 ;
+    rdfs:label "Burning"@en .
+
+wd:Q1302806 a wd:Q2281940 ;
+    rdfs:label "Olin Raschig process"@en .
+
+wd:Q13422871 a wd:Q36534 ;
+    rdfs:label "Creighton process"@en .
+
+wd:Q13429035 a wd:Q36534 ;
+    rdfs:label "Q13429035"^^xsd:string .
+
+wd:Q14111160 a wd:Q36534 ;
+    rdfs:label "Vicarious nucleophilic substitution"@en .
+
+wd:Q14478793 a wd:Q36534 ;
+    rdfs:label "Van den Bergh reaction"@en .
+
+wd:Q146615 a wd:Q36534 ;
+    rdfs:label "2+2 Photocycloaddition"@en .
+
+wd:Q1466348 a wd:Q36534 ;
+    rdfs:label "Water gas shift reaction"@en .
+
+wd:Q1483184 a wd:Q2281940 ;
+    rdfs:label "leaching"@en .
+
+wd:Q15938011 a wd:Q36534 ;
+    rdfs:label "Q15938011"^^xsd:string .
+
+wd:Q1621258 a wd:Q2281940 ;
+    rdfs:label "heat shock response"@en .
+
+wd:Q1625544 a wd:Q2281940 ;
+    rdfs:label "Raschig process"@en .
+
+wd:Q1640192 a wd:Q36534 ;
+    rdfs:label "Hydroamination"@en .
+
+wd:Q16814 a wd:Q36534 ;
+    rdfs:label "photodissociation"@en .
+
+wd:Q16900433 a wd:Q36534 ;
+    rdfs:label "Kharasch–Sosnovsky reaction"@en .
+
+wd:Q16911559 a wd:Q36534 ;
+    rdfs:label "Saville reaction"@en .
+
+wd:Q16954701 a wd:Q36534 ;
+    rdfs:label "Davis–Beirut reaction"@en .
+
+wd:Q16956989 a wd:Q36534 ;
+    rdfs:label "Lumière–Barbier method"@en .
+
+wd:Q16965782 a wd:Q36534 ;
+    rdfs:label "Nitroprusside reaction"@en .
+
+wd:Q17051961 a wd:Q2281940 ;
+    rdfs:label "Dehydrogenation of amine-boranes"@en .
+
+wd:Q17083717 a wd:Q36534 ;
+    rdfs:label "sulfidation"@en .
+
+wd:Q17085416 a wd:Q36534 ;
+    rdfs:label "aza-Cope rearrangement"@en .
+
+wd:Q17093060 a wd:Q36534 ;
+    rdfs:label "Kirsanov reaction"@en .
+
+wd:Q17146784 a wd:Q36534 ;
+    rdfs:label "hydroboration–oxidation reaction"@en .
+
+wd:Q17155601 a wd:Q36534 ;
+    rdfs:label "Imine Diels–Alder reaction"@en .
+
+wd:Q17161492 a wd:Q36534 ;
+    rdfs:label "Q17161492"^^xsd:string .
+
+wd:Q1721543 a wd:Q36534 ;
+    rdfs:label "Q1721543"^^xsd:string .
+
+wd:Q17513491 a wd:Q36534 ;
+    rdfs:label "Asymmetric Keck allylation"@en .
+
+wd:Q176996 a wd:Q2281940 ;
+    rdfs:label "polymerase chain reaction"@en .
+
+wd:Q18383594 a wd:Q36534 ;
+    rdfs:label "Q18383594"^^xsd:string .
+
+wd:Q1846180 a wd:Q36534 ;
+    rdfs:label "Cook–Heilbron thiazole synthesis"@en .
+
+wd:Q18507663 a wd:Q36534 ;
+    rdfs:label "chlorosulfonation"@en .
+
+wd:Q18669371 a wd:Q36534 ;
+    rdfs:label "Q18669371"^^xsd:string .
+
+wd:Q18669385 a wd:Q36534 ;
+    rdfs:label "Q18669385"^^xsd:string .
+
+wd:Q18669467 a wd:Q36534 ;
+    rdfs:label "Q18669467"^^xsd:string .
+
+wd:Q187340 a wd:Q36534 ;
+    rdfs:label "Q187340"^^xsd:string .
+
+wd:Q1881037 a wd:Q36534 ;
+    rdfs:label "Q1881037"^^xsd:string .
+
+wd:Q188631 a wd:Q2281940 ;
+    rdfs:label "vulcanization"@en .
+
+wd:Q192036 a wd:Q36534 ;
+    rdfs:label "chemical decomposition"@en .
+
+wd:Q19366001 a wd:Q36534 ;
+    rdfs:label "Q19366001"^^xsd:string .
+
+wd:Q1945726 a wd:Q36534 ;
+    rdfs:label "Ireland–Claisen rearrangement"@en .
+
+wd:Q19903012 a wd:Q36534 ;
+    rdfs:label "Kroehnke Pyridine Synthesis"@en .
+
+wd:Q1992165 a wd:Q36534 ;
+    rdfs:label "Blaise reaction"@en .
+
+wd:Q2001317 a wd:Q36534 ;
+    rdfs:label "adiabatic expansion"@en .
+
+wd:Q2021083 a wd:Q36534 ;
+    rdfs:label "Fujimoto–Belleau reaction"@en .
+
+wd:Q2042393 a wd:Q36534 ;
+    rdfs:label "Aza-Diels–Alder reaction"@en .
+
+wd:Q20792093 a wd:Q2281940 ;
+    rdfs:label "Saline Assisted Liquid Liquid Extraction"@en .
+
+wd:Q2090515 a wd:Q36534 ;
+    rdfs:label "Allen–Millar–Trippett rearrangement"@en .
+
+wd:Q2094972 a wd:Q36534 ;
+    rdfs:label "Alkali–carbonate reaction"@en .
+
+wd:Q21290883 a wd:Q36534 ;
+    rdfs:label "Q21290883"^^xsd:string .
+
+wd:Q213669 a wd:Q2281940 ;
+    rdfs:label "Haber process"@en .
+
+wd:Q2137095 a wd:Q36534 ;
+    rdfs:label "Milas hydroxylation"@en .
+
+wd:Q2180410 a wd:Q36534 ;
+    rdfs:label "Chichibabin pyridine synthesis"@en .
+
+wd:Q2188410 a wd:Q36534 ;
+    rdfs:label "Q2188410"^^xsd:string .
+
+wd:Q22085466 a wd:Q36534 ;
+    rdfs:label "pseudo-gleyzation"@en .
+
+wd:Q22117434 a wd:Q36534 ;
+    rdfs:label "Side reaction"@en .
+
+wd:Q221425 a wd:Q2281940 ;
+    rdfs:label "industrial etching"@en .
+
+wd:Q2223372 a wd:Q36534 ;
+    rdfs:label "Heck–Matsuda reaction"@en .
+
+wd:Q22344354 a wd:Q36534 ;
+    rdfs:label "Collins oxidation"@en .
+
+wd:Q2245591 a wd:Q36534 ;
+    rdfs:label "Gabriel–Colman rearrangement"@en .
+
+wd:Q2265790 a wd:Q2281940 ;
+    rdfs:label "Q2265790"^^xsd:string .
+
+wd:Q2268835 a wd:Q2281940 ;
+    rdfs:label "devulcanization"@en .
+
+wd:Q2344507 a wd:Q36534 ;
+    rdfs:label "Bucherer carbazole synthesis"@en .
+
+wd:Q2349383 a wd:Q36534 ;
+    rdfs:label "photoisomerization"@en .
+
+wd:Q2371705 a wd:Q36534 ;
+    rdfs:label "Ullmann condensation"@en .
+
+wd:Q23850279 a wd:Q36534 ;
+    rdfs:label "Shiina macrolactonization"@en .
+
+wd:Q2390993 a wd:Q36534 ;
+    rdfs:label "Leimgruber–Batcho indole synthesis"@en .
+
+wd:Q2400424 a wd:Q2281940 ;
+    rdfs:label "wet oxidation"@en .
+
+wd:Q242736 a wd:Q36534 ;
+    rdfs:label "phosphorylation"@en .
+
+wd:Q2431716 a wd:Q36534 ;
+    rdfs:label "Fischer–Speier esterification"@en .
+
+wd:Q2445113 a wd:Q36534 ;
+    rdfs:label "Criegee rearrangement"@en .
+
+wd:Q2457603 a wd:Q36534 ;
+    rdfs:label "Q2457603"^^xsd:string .
+
+wd:Q24841466 a wd:Q36534 ;
+    rdfs:label "Q24841466"^^xsd:string .
+
+wd:Q248670 a wd:Q2281940 ;
+    rdfs:label "Bayer process"@en .
+
+wd:Q2492696 a wd:Q36534 ;
+    rdfs:label "Bodroux–Chichibabin aldehyde synthesis"@en .
+
+wd:Q24961127 a wd:Q36534 ;
+    rdfs:label "Q24961127"^^xsd:string .
+
+wd:Q24962758 a wd:Q36534 ;
+    rdfs:label "Bergmann azlactone peptide synthesis"@en .
+
+wd:Q24962936 a wd:Q36534 ;
+    rdfs:label "Hummers' Method"@en .
+
+wd:Q24963007 a wd:Q36534 ;
+    rdfs:label "Danheiser benzannulation"@en .
+
+wd:Q24963014 a wd:Q36534 ;
+    rdfs:label "Hexadehydro Diels-Alder reaction"@en .
+
+wd:Q24963093 a wd:Q36534 ;
+    rdfs:label "Grieco three-component condensation"@en .
+
+wd:Q24963117 a wd:Q36534 ;
+    rdfs:label "Darzens halogenation"@en .
+
+wd:Q24963482 a wd:Q36534 ;
+    rdfs:label "Doering–LaFlamme allene synthesis"@en .
+
+wd:Q24963687 a wd:Q36534 ;
+    rdfs:label "Boger pyridine synthesis"@en .
+
+wd:Q24963710 a wd:Q36534 ;
+    rdfs:label "Corey–Link reaction"@en .
+
+wd:Q25323683 a wd:Q36534 ;
+    rdfs:label "S-Nitrosylation"@en .
+
+wd:Q25326942 a wd:Q36534 ;
+    rdfs:label "Oxy-Cope rearrangement"@en .
+
+wd:Q2540312 a wd:Q36534 ;
+    rdfs:label "Q2540312"^^xsd:string .
+
+wd:Q25438486 a wd:Q36534 ;
+    rdfs:label "G. Meyer reaction"@en .
+
+wd:Q25521796 a wd:Q2281940 ;
+    rdfs:label "Q25521796"^^xsd:string .
+
+wd:Q25819 a wd:Q36534 ;
+    rdfs:label "racemization"@en .
+
+wd:Q259212 a wd:Q36534 ;
+    rdfs:label "Hydroboration"@en .
+
+wd:Q2598774 a wd:Q36534 ;
+    rdfs:label "Q2598774"^^xsd:string .
+
+wd:Q26469 a wd:Q36534 ;
+    rdfs:label "Ene reaction"@en .
+
+wd:Q26897884 a wd:Q36534 ;
+    rdfs:label "Photochlorination"@en .
+
+wd:Q2721213 a wd:Q36534 ;
+    rdfs:label "Wöhler synthesis"@en .
+
+wd:Q2730238 a wd:Q2281940 ;
+    rdfs:label "hybrid sulfur cycle"@en .
+
+wd:Q2745856 a wd:Q36534 ;
+    rdfs:label "Ruzicka large-ring synthesis"@en .
+
+wd:Q277298 a wd:Q36534 ;
+    rdfs:label "Aromatic sulfonation"@en .
+
+wd:Q2792554 a wd:Q36534 ;
+    rdfs:label "Diels Reese reaction"@en .
+
+wd:Q27949605 a wd:Q36534 ;
+    rdfs:label "industrial nitrogen fixation"@en .
+
+wd:Q2801863 a wd:Q36534 ;
+    rdfs:label "Bunsen reaction"@en .
+
+wd:Q28455131 a wd:Q36534 ;
+    rdfs:label "Dess–Martin oxidation"@en .
+
+wd:Q28455507 a wd:Q36534 ;
+    rdfs:label "Menke nitration"@en .
+
+wd:Q29582949 a wd:Q36534 ;
+    rdfs:label "Mukaiyama hydration"@en .
+
+wd:Q2991861 a wd:Q2281940 ;
+    rdfs:label "curing"@en .
+
+wd:Q3000859 a wd:Q36534 ;
+    rdfs:label "Hiyama coupling"@en .
+
+wd:Q3046910 a wd:Q36534 ;
+    rdfs:label "Fischer assay"@en .
+
+wd:Q30588314 a wd:Q36534 ;
+    rdfs:label "hydrophosphination"@en .
+
+wd:Q30672868 a wd:Q36534 ;
+    rdfs:label "Roskamp reaction"@en .
+
+wd:Q30688259 a wd:Q36534 ;
+    rdfs:label "Lasri condensation"@en .
+
+wd:Q30693026 a wd:Q36534 ;
+    rdfs:label "Criegee oxidation"@en .
+
+wd:Q30693032 a wd:Q36534 ;
+    rdfs:label "Tsuji-Wilkinson decarbonylation reaction"@en .
+
+wd:Q3087543 a wd:Q36534 ;
+    rdfs:label "Oxo-Diels–Alder reaction"@en .
+
+wd:Q3100277 a wd:Q36534 ;
+    rdfs:label "Bergmann degradation"@en .
+
+wd:Q3112963 a wd:Q36534 ;
+    rdfs:label "Baeyer–Drewson indigo synthesis"@en .
+
+wd:Q3115850 a wd:Q36534 ;
+    rdfs:label "Auwers synthesis"@en .
+
+wd:Q3118805 a wd:Q36534 ;
+    rdfs:label "Fukuyama indole synthesis"@en .
+
+wd:Q3119091 a wd:Q36534 ;
+    rdfs:label "Noyori asymmetric hydrogenation"@en .
+
+wd:Q3139848 a wd:Q36534 ;
+    rdfs:label "Kowalski ester homologation"@en .
+
+wd:Q3159940 a wd:Q36534 ;
+    rdfs:label "Baeyer–Emmerling indole synthesis"@en .
+
+wd:Q3180683 a wd:Q36534 ;
+    rdfs:label "Bamberger triazine synthesis"@en .
+
+wd:Q3240610 a wd:Q36534 ;
+    rdfs:label "Upjohn dihydroxylation"@en .
+
+wd:Q3268386 a wd:Q36534 ;
+    rdfs:label "Betti reaction"@en .
+
+wd:Q337120 a wd:Q36534 ;
+    rdfs:label "neutralization"@en .
+
+wd:Q337603 a wd:Q36534 ;
+    rdfs:label "Q cycle"@en .
+
+wd:Q3395663 a wd:Q36534 ;
+    rdfs:label "Coordination polymerization"@en .
+
+wd:Q3406592 a wd:Q2281940 ;
+    rdfs:label "Kubierschky Process"@en .
+
+wd:Q3406594 a wd:Q2281940 ;
+    rdfs:label "Shawinigan process"@en .
+
+wd:Q3454340 a wd:Q36534 ;
+    rdfs:label "Hill reaction"@en .
+
+wd:Q3454347 a wd:Q36534 ;
+    rdfs:label "Markó–Lam deoxygenation"@en .
+
+wd:Q3493761 a wd:Q36534 ;
+    rdfs:label "Achmatowicz reaction"@en .
+
+wd:Q3497379 a wd:Q36534 ;
+    rdfs:label "Sharpless oxyamination"@en .
+
+wd:Q3508929 a wd:Q36534 ;
+    rdfs:label "Bartoli indole synthesis"@en .
+
+wd:Q3519300 a wd:Q36534 ;
+    rdfs:label "Povarov reaction"@en .
+
+wd:Q352965 a wd:Q36534 ;
+    rdfs:label "Blue bottle experiment"@en .
+
+wd:Q3531242 a wd:Q36534 ;
+    rdfs:label "Staudinger synthesis"@en .
+
+wd:Q3533122 a wd:Q36534 ;
+    rdfs:label "Carbylamine reaction"@en .
+
+wd:Q3536586 a wd:Q36534 ;
+    rdfs:label "Baudisch reaction"@en .
+
+wd:Q3595231 a wd:Q2281940 ;
+    rdfs:label "Leaching"@en .
+
+wd:Q375669 a wd:Q36534 ;
+    rdfs:label "Diels–Alder reaction"@en .
+
+wd:Q3772250 a wd:Q36534 ;
+    rdfs:label "Doebner reaction"@en .
+
+wd:Q377408 a wd:Q2281940 ;
+    rdfs:label "electrosynthesis"@en .
+
+wd:Q383908 a wd:Q36534 ;
+    rdfs:label "Birkeland–Eyde process"@en .
+
+wd:Q38614569 a wd:Q36534 ;
+    rdfs:label "Bohn-Schmidt reaction"@en .
+
+wd:Q38677903 a wd:Q36534 ;
+    rdfs:label "Delayed Ettringite Formation"@en .
+
+wd:Q39198923 a wd:Q36534 ;
+    rdfs:label "Atherton–Todd reaction"@en .
+
+wd:Q3931191 a wd:Q36534 ;
+    rdfs:label "Schikorr reaction"@en .
+
+wd:Q39949195 a wd:Q36534 ;
+    rdfs:label "Albright-Goldman oxidation"@en .
+
+wd:Q40441500 a wd:Q36534 ;
+    rdfs:label "Bailey peptide synthesis"@en .
+
+wd:Q416211 a wd:Q36534 ;
+    rdfs:label "Formose reaction"@en .
+
+wd:Q4165350 a wd:Q36534 ;
+    rdfs:label "Diazoalkane 1,3-dipolar cycloaddition"@en .
+
+wd:Q42295658 a wd:Q36534 ;
+    rdfs:label "KIVCET process"@en .
+
+wd:Q4250538 a wd:Q36534 ;
+    rdfs:label "Ring-opening metathesis polymerisation"@en .
+
+wd:Q4371650 a wd:Q36534 ;
+    rdfs:label "Narasaka–Prasad reduction"@en .
+
+wd:Q4371749 a wd:Q36534 ;
+    rdfs:label "Evans–Saksena reduction"@en .
+
+wd:Q4386203 a wd:Q36534 ;
+    rdfs:label "Inverse electron-demand Diels–Alder reaction"@en .
+
+wd:Q4391474 a wd:Q36534 ;
+    rdfs:label "Zinin reaction"@en .
+
+wd:Q4391479 a wd:Q36534 ;
+    rdfs:label "Swarts fluorination"@en .
+
+wd:Q4391481 a wd:Q36534 ;
+    rdfs:label "Prato reaction"@en .
+
+wd:Q4428935 a wd:Q36534 ;
+    rdfs:label "Q4428935"^^xsd:string .
+
+wd:Q452196 a wd:Q36534 ;
+    rdfs:label "Amadori rearrangement"@en .
+
+wd:Q4596766 a wd:Q36534 ;
+    rdfs:label "[2,3]-Wittig rearrangement"@en .
+
+wd:Q4596771 a wd:Q36534 ;
+    rdfs:label "2,3-sigmatropic rearrangement"@en .
+
+wd:Q465781 a wd:Q36534 ;
+    rdfs:label "Benzidine rearrangement"@en .
+
+wd:Q4669402 a wd:Q36534 ;
+    rdfs:label "Abramov reaction"@en .
+
+wd:Q4673631 a wd:Q2281940 ;
+    rdfs:label "Acheson process"@en .
+
+wd:Q4680469 a wd:Q36534 ;
+    rdfs:label "Adams decarboxylation"@en .
+
+wd:Q4727741 a wd:Q36534 ;
+    rdfs:label "alkylimino-de-oxo-bisubstitution"@en .
+
+wd:Q473634 a wd:Q36534 ;
+    rdfs:label "Ammonolysis"@en .
+
+wd:Q473640 a wd:Q36534 ;
+    rdfs:label "Q473640"^^xsd:string .
+
+wd:Q47455781 a wd:Q2281940 ;
+    rdfs:label "GenX"@en .
+
+wd:Q4831993 a wd:Q36534 ;
+    rdfs:label "aza-Baylis–Hillman reaction"@en .
+
+wd:Q4854840 a wd:Q36534 ;
+    rdfs:label "Banert cascade"@en .
+
+wd:Q4878545 a wd:Q36534 ;
+    rdfs:label "Bechamp reaction"@en .
+
+wd:Q4889558 a wd:Q36534 ;
+    rdfs:label "Benkeser reaction"@en .
+
+wd:Q48995763 a wd:Q36534 ;
+    rdfs:label "Borsche–Drechsel cyclization"@en .
+
+wd:Q48996360 a wd:Q36534 ;
+    rdfs:label "Pudovik reaction"@en .
+
+wd:Q4950309 a wd:Q36534 ;
+    rdfs:label "Azide-alkyne Huisgen cycloaddition"@en .
+
+wd:Q4955124 a wd:Q36534 ;
+    rdfs:label "Bradsher cycloaddition"@en .
+
+wd:Q4968173 a wd:Q2281940 ;
+    rdfs:label "Brin process"@en .
+
+wd:Q4982728 a wd:Q36534 ;
+    rdfs:label "Buchner ring expansion"@en .
+
+wd:Q501620 a wd:Q61424 ;
+    rdfs:label "palmitoylation"@en .
+
+wd:Q503396 a wd:Q36534 ;
+    rdfs:label "substitution reaction"@en .
+
+wd:Q5038059 a wd:Q36534 ;
+    rdfs:label "carbonyl alpha-substitution reactions"@en .
+
+wd:Q51028771 a wd:Q36534 ;
+    rdfs:label "Barton Arylation"@en .
+
+wd:Q51032944 a wd:Q36534 ;
+    rdfs:label "Q51032944"^^xsd:string .
+
+wd:Q513794 a wd:Q36534 ;
+    rdfs:label "Q513794"^^xsd:string .
+
+wd:Q514582 a wd:Q2281940 ;
+    rdfs:label "Andrussow process"@en .
+
+wd:Q5297744 a wd:Q2281940 ;
+    rdfs:label "Q5297744"^^xsd:string .
+
+wd:Q5302672 a wd:Q36534 ;
+    rdfs:label "Dowd–Beckwith ring-expansion reaction"@en .
+
+wd:Q5303798 a wd:Q36534 ;
+    rdfs:label "Doyle–Kirmse reaction"@en .
+
+wd:Q533800 a wd:Q36534 ;
+    rdfs:label "Angeli–Rimini reaction"@en .
+
+wd:Q5445347 a wd:Q36534 ;
+    rdfs:label "Ferrier carbocyclization"@en .
+
+wd:Q5445348 a wd:Q36534 ;
+    rdfs:label "Ferrier rearrangement"@en .
+
+wd:Q5454437 a wd:Q36534 ;
+    rdfs:label "Fischer glycosidation"@en .
+
+wd:Q5507762 a wd:Q36534 ;
+    rdfs:label "Fukuyama coupling"@en .
+
+wd:Q5518845 a wd:Q36534 ;
+    rdfs:label "Gallagher–Hollander degradation"@en .
+
+wd:Q5526337 a wd:Q36534 ;
+    rdfs:label "Gas evolution reaction"@en .
+
+wd:Q5530619 a wd:Q36534 ;
+    rdfs:label "geminal halide hydrolysis"@en .
+
+wd:Q55643081 a wd:Q36534 ;
+    rdfs:label "Hirao coupling"@en .
+
+wd:Q556466 a wd:Q2281940 ;
+    rdfs:label "steam reforming"@en .
+
+wd:Q5572558 a wd:Q36534 ;
+    rdfs:label "glycerolysis"@en .
+
+wd:Q5609896 a wd:Q36534 ;
+    rdfs:label "Grob fragmentation"@en .
+
+wd:Q56291750 a wd:Q36534 ;
+    rdfs:label "Desulfonation reaction"@en .
+
+wd:Q56292490 a wd:Q36534 ;
+    rdfs:label "Kinnear–Perren reaction"@en .
+
+wd:Q56297066 a wd:Q36534 ;
+    rdfs:label "Grosheintz-Fischer-Reissert aldehyde synthesis"@en .
+
+wd:Q56759817 a wd:Q36534 ;
+    rdfs:label "Nef isocyanide reaction"@en .
+
+wd:Q578923 a wd:Q2281940 ;
+    rdfs:label "Wacker process"@en .
+
+wd:Q579304 a wd:Q2281940 ;
+    rdfs:label "Cativa process"@en .
+
+wd:Q5910884 a wd:Q2281940 ;
+    rdfs:label "Hot water extraction"@en .
+
+wd:Q591214 a wd:Q2281940 ;
+    rdfs:label "Ostwald process"@en .
+
+wd:Q5933297 a wd:Q36534 ;
+    rdfs:label "Oxidation of primary alcohols to carboxylic acids"@en .
+
+wd:Q60111361 a wd:Q36534 ;
+    rdfs:label "oxidative carbonylation"@en .
+
+wd:Q6058463 a wd:Q36534 ;
+    rdfs:label "Intramolecular Diels–Alder cycloaddition"@en .
+
+wd:Q6078353 a wd:Q2281940 ;
+    rdfs:label "gene amplification"@en .
+
+wd:Q6081822 a wd:Q36534 ;
+    rdfs:label "Anionic addition polymerization"@en .
+
+wd:Q60977817 a wd:Q36534 ;
+    rdfs:label "Addition polymerization"@en .
+
+wd:Q6119809 a wd:Q36534 ;
+    rdfs:label "Jacobsen rearrangement"@en .
+
+wd:Q6133324 a wd:Q36534 ;
+    rdfs:label "Rubottom oxidation"@en .
+
+wd:Q6137273 a wd:Q36534 ;
+    rdfs:label "Pechmann pyrazole synthesis"@en .
+
+wd:Q6159350 a wd:Q36534 ;
+    rdfs:label "Japp–Maitland condensation"@en .
+
+wd:Q61764258 a wd:Q36534 ;
+    rdfs:label "hydrophosphonylation"@en .
+
+wd:Q6310335 a wd:Q36534 ;
+    rdfs:label "Juliá–Colonna epoxidation"@en .
+
+wd:Q63977546 a wd:Q36534 ;
+    rdfs:label "Crabbé reaction"@en .
+
+wd:Q6400581 a wd:Q36534 ;
+    rdfs:label "Kharasch addition"@en .
+
+wd:Q641097 a wd:Q36534 ;
+    rdfs:label "nitrogen inversion"@en .
+
+wd:Q64138692 a wd:Q36534 ;
+    rdfs:label "Myers allene synthesis"@en .
+
+wd:Q64223768 a wd:Q36534 ;
+    rdfs:label "carbonyl olefin metathesis"@en .
+
+wd:Q6432408 a wd:Q36534 ;
+    rdfs:label "Kornblum–DeLaMare rearrangement"@en .
+
+wd:Q64403 a wd:Q36534 ;
+    rdfs:label "electrolysis"@en .
+
+wd:Q644413 a wd:Q2281940 ;
+    rdfs:label "Cumene process"@en .
+
+wd:Q65082336 a wd:Q36534 ;
+    rdfs:label "Q65082336"^^xsd:string .
+
+wd:Q6512404 a wd:Q36534 ;
+    rdfs:label "Lectka enantioselective beta-lactam synthesis"@en .
+
+wd:Q653239 a wd:Q36534 ;
+    rdfs:label "Nierenstein reaction"@en .
+
+wd:Q6534060 a wd:Q36534 ;
+    rdfs:label "Leuckart thiophenol reaction"@en .
+
+wd:Q6543886 a wd:Q36534 ;
+    rdfs:label "Liebeskind–Srogl coupling"@en .
+
+wd:Q654400 a wd:Q2281940 ;
+    rdfs:label "Fischer-Tropsch process"@en .
+
+wd:Q6552473 a wd:Q36534 ;
+    rdfs:label "Lindgren oxidation"@en .
+
+wd:Q65675674 a wd:Q36534 ;
+    rdfs:label "palmitoleoylation"@en .
+
+wd:Q6770635 a wd:Q36534 ;
+    rdfs:label "Marker degradation"@en .
+
+wd:Q6773222 a wd:Q36534 ;
+    rdfs:label "Marschalk reaction"@en .
+
+wd:Q6807712 a wd:Q36534 ;
+    rdfs:label "Meerwein arylation"@en .
+
+wd:Q68099798 a wd:Q36534 ;
+    rdfs:label "Q68099798"^^xsd:string .
+
+wd:Q682252 a wd:Q36534 ;
+    rdfs:label "PEGylation"@en .
+
+wd:Q6835645 a wd:Q36534 ;
+    rdfs:label "Michaelis–Becker reaction"@en .
+
+wd:Q6842304 a wd:Q36534 ;
+    rdfs:label "Midland Alpine borane reduction"@en .
+
+wd:Q68600041 a wd:Q36534 ;
+    rdfs:label "aminochlorination"@en .
+
+wd:Q68600169 a wd:Q36534 ;
+    rdfs:label "heterobimetallic catalysis"@en .
+
+wd:Q6928001 a wd:Q36534 ;
+    rdfs:label "Mozingo reduction"@en .
+
+wd:Q6954318 a wd:Q36534 ;
+    rdfs:label "NIH shift"@en .
+
+wd:Q695687 a wd:Q36534 ;
+    rdfs:label "Steglich esterification"@en .
+
+wd:Q698026 a wd:Q36534 ;
+    rdfs:label "aromatization"@en .
+
+wd:Q7016930 a wd:Q2281940 ;
+    rdfs:label "Newbery-Vautin chlorination process"@en .
+
+wd:Q70684716 a wd:Q36534 ;
+    rdfs:label "Dealkylation"@en .
+
+wd:Q7091637 a wd:Q36534 ;
+    rdfs:label "on water reaction"@en .
+
+wd:Q7127709 a wd:Q36534 ;
+    rdfs:label "Palladium-catalyzed coupling reactions"@en .
+
+wd:Q7162634 a wd:Q2281940 ;
+    rdfs:label "Penex"@en .
+
+wd:Q7178759 a wd:Q36534 ;
+    rdfs:label "Petrenko-Kritschenko piperidone synthesis"@en .
+
+wd:Q71824429 a wd:Q36534 ;
+    rdfs:label "Q71824429"^^xsd:string .
+
+wd:Q7196353 a wd:Q36534 ;
+    rdfs:label "Pinnick oxidation"@en .
+
+wd:Q723311 a wd:Q36534 ;
+    rdfs:label "Mumm rearrangement"@en .
+
+wd:Q725979 a wd:Q36534 ;
+    rdfs:label "elimination reaction"@en .
+
+wd:Q7296135 a wd:Q36534 ;
+    rdfs:label "Rauhut–Currier reaction"@en .
+
+wd:Q7306369 a wd:Q36534 ;
+    rdfs:label "Reduction of nitro compounds"@en .
+
+wd:Q7316958 a wd:Q36534 ;
+    rdfs:label "retro-Diels–Alder reaction"@en .
+
+wd:Q73185 a wd:Q36534 ;
+    rdfs:label "caramelization"@en .
+
+wd:Q7333066 a wd:Q36534 ;
+    rdfs:label "Rieche formylation"@en .
+
+wd:Q7390291 a wd:Q36534 ;
+    rdfs:label "SIDD"@en .
+
+wd:Q739614 a wd:Q36534 ;
+    rdfs:label "Stephen aldehyde synthesis"@en .
+
+wd:Q74825241 a wd:Q36534 ;
+    rdfs:label "Lucas test"@en .
+
+wd:Q7496755 a wd:Q36534 ;
+    rdfs:label "Shilov system"@en .
+
+wd:Q75107387 a wd:Q36534 ;
+    rdfs:label "mercury methylation"@en .
+
+wd:Q752651 a wd:Q36534 ;
+    rdfs:label "Sharpless asymmetric dihydroxylation"@en .
+
+wd:Q7546859 a wd:Q36534 ;
+    rdfs:label "Sn1CB mechanism"@en .
+
+wd:Q762043 a wd:Q36534 ;
+    rdfs:label "dimerization"@en .
+
+wd:Q7808971 a wd:Q36534 ;
+    rdfs:label "Tipson–Cohen reaction"@en .
+
+wd:Q796290 a wd:Q2281940 ;
+    rdfs:label "BMA process"@en .
+
+wd:Q796604 rdfs:label "acetylation"@en ;
+    rdfs:subClassOf wd:Q61424 .
+
+wd:Q7979807 a wd:Q36534 ;
+    rdfs:label "Weidel's reaction"@en .
+
+wd:Q7996523 a wd:Q36534 ;
+    rdfs:label "Whiting reaction"@en .
+
+wd:Q818514 a wd:Q36534 ;
+    rdfs:label "Benzoin addition"@en .
+
+wd:Q84226476 a wd:Q2281940 ;
+    rdfs:label "Q84226476"^^xsd:string .
+
+wd:Q843073 a wd:Q36534 ;
+    rdfs:label "Tollens' test"@en .
+
+wd:Q846602 a wd:Q36534 ;
+    rdfs:label "Q846602"^^xsd:string .
+
+wd:Q863767 a wd:Q2281940 ;
+    rdfs:label "Mannheim process"@en .
+
+wd:Q864996 a wd:Q36534 ;
+    rdfs:label "Birch reduction"@en .
+
+wd:Q866387 a wd:Q36534 ;
+    rdfs:label "Schöllkopf method"@en .
+
+wd:Q883646 a wd:Q2281940 ;
+    rdfs:label "lead chamber process"@en .
+
+wd:Q888529 a wd:Q36534 ;
+    rdfs:label "halogenation"@en .
+
+wd:Q893909 a wd:Q2281940 ;
+    rdfs:label "Born–Haber cycle"@en .
+
+wd:Q898447 a wd:Q36534 ;
+    rdfs:label "haloform reaction"@en .
+
+wd:Q898508 a wd:Q36534 ;
+    rdfs:label "Ozonolysis"@en .
+
+wd:Q898533 a wd:Q2281940 ;
+    rdfs:label "sorption"@en .
+
+wd:Q898597 a wd:Q36534 ;
+    rdfs:label "cross-link"@en .
+
+wd:Q898710 a wd:Q36534 ;
+    rdfs:label "Smiles rearrangement"@en .
+
+wd:Q898804 a wd:Q36534 ;
+    rdfs:label "Girdler sulfide process"@en .
+
+wd:Q898828 a wd:Q2281940 ;
+    rdfs:label "Raschig process"@en .
+
+wd:Q899612 a wd:Q2281940 ;
+    rdfs:label "Sabatier process"@en .
+
+wd:Q900243 a wd:Q36534 ;
+    rdfs:label "Schlenk equilibrium"@en .
+
+wd:Q900340 a wd:Q36534 ;
+    rdfs:label "Directed ortho metalation"@en .
+
+wd:Q900667 a wd:Q36534 ;
+    rdfs:label "Reed reaction"@en .
+
+wd:Q901246 a wd:Q2281940 ;
+    rdfs:label "Monsanto process"@en .
+
+wd:Q902034 a wd:Q36534 ;
+    rdfs:label "Ethoxylation"@en .
+
+wd:Q902209 a wd:Q36534 ;
+    rdfs:label "Pinacol rearrangement"@en .
+
+wd:Q902284 a wd:Q36534 ;
+    rdfs:label "Malonic ester synthesis"@en .
+
+wd:Q902770 a wd:Q2281940 ;
+    rdfs:label "sulfur–iodine cycle"@en .
+
+wd:Q902907 a wd:Q36534 ;
+    rdfs:label "1,3-dipolar cycloaddition"@en .
+
+wd:Q903420 a wd:Q36534 ;
+    rdfs:label "isomerization"@en .
+
+wd:Q904021 a wd:Q36534 ;
+    rdfs:label "Q904021"^^xsd:string .
+
+wd:Q904809 a wd:Q36534 ;
+    rdfs:label "Molisch's test"@en .
+
+wd:Q905071 a wd:Q2281940,
+        wd:Q36534 ;
+    rdfs:label "Methanation"@en .
+
+wd:Q905530 a wd:Q2281940 ;
+    rdfs:label "zinc–zinc oxide cycle"@en .
+
+wd:Q909607 a wd:Q36534 ;
+    rdfs:label "nitration"@en .
+
+wd:Q909785 a wd:Q36534 ;
+    rdfs:label "Cerium(IV) oxide–cerium(III) oxide cycle"@en .
+
+wd:Q9139164 a wd:Q36534 ;
+    rdfs:label "acidolysis"@en .
+
+wd:Q971796 a wd:Q2281940 ;
+    rdfs:label "ink corrosion"@en .
+
+wd:Q998032 a wd:Q36534 ;
+    rdfs:label "Shi epoxidation"@en .
+
+wd:Q61424 rdfs:label "acylation"@en ;
+    rdfs:subClassOf wd:Q36534 .
+
+wd:Q2281940 rdfs:label "chemical process"@en .
+
+wd:Q36534 rdfs:label "chemical reaction"@en ;
+    rdfs:subClassOf wd:Q2281940 .
+

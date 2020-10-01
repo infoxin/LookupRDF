@@ -1,0 +1,5413 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q10059436 a wd:Q30014735 ;
+    rdfs:label "Q10059436"^^xsd:string .
+
+wd:Q1017248 a wd:Q30014735 ;
+    rdfs:label "Retiro bus station"@en .
+
+wd:Q10175 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Lyon"@en .
+
+wd:Q1017828 a wd:Q30014735 ;
+    rdfs:label "Q1017828"^^xsd:string .
+
+wd:Q10271087 a wd:Q2516436 ;
+    rdfs:label "Q10271087"^^xsd:string .
+
+wd:Q10281694 a wd:Q2516436 ;
+    rdfs:label "Q10281694"^^xsd:string .
+
+wd:Q10303088 a wd:Q2516436 ;
+    rdfs:label "Intercamp"@en .
+
+wd:Q10329249 a wd:Q2516436 ;
+    rdfs:label "Q10329249"^^xsd:string .
+
+wd:Q10329287 a wd:Q2516436 ;
+    rdfs:label "Diesel light rail line"@en .
+
+wd:Q1035989 a wd:Q2516436 ;
+    rdfs:label "Q1035989"^^xsd:string .
+
+wd:Q10372074 a wd:Q2516436 ;
+    rdfs:label "Q10372074"^^xsd:string .
+
+wd:Q10376801 a wd:Q2516436 ;
+    rdfs:label "Q10376801"^^xsd:string .
+
+wd:Q10384259 a wd:Q2516436 ;
+    rdfs:label "Q10384259"^^xsd:string .
+
+wd:Q10384455 a wd:Q2516436 ;
+    rdfs:label "Q10384455"^^xsd:string .
+
+wd:Q10384481 a wd:Q2516436 ;
+    rdfs:label "Q10384481"^^xsd:string .
+
+wd:Q10388582 a wd:Q2516436 ;
+    rdfs:label "Sistema de Trens Urbanos de Natal"@en .
+
+wd:Q10543879 a wd:Q2516436 ;
+    rdfs:label "Q10543879"^^xsd:string .
+
+wd:Q1069314 a wd:Q2516436 ;
+    rdfs:label "Chemin de fer du Salève"@en .
+
+wd:Q11180705 a wd:Q2516436 ;
+    rdfs:label "Q11180705"^^xsd:string .
+
+wd:Q1129798 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Vilnius"@en .
+
+wd:Q11405869 a wd:Q30014735 ;
+    rdfs:label "Chiba Seaside Bus"@en .
+
+wd:Q1146301 a wd:Q18199879 ;
+    rdfs:label "Crimean Trolleybus"@en .
+
+wd:Q11687034 a wd:Q30014735 ;
+    rdfs:label "Q11687034"^^xsd:string .
+
+wd:Q117142 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Arnhem"@en .
+
+wd:Q11741066 a wd:Q2516436 ;
+    rdfs:label "Q11741066"^^xsd:string .
+
+wd:Q11741090 a wd:Q2516436 ;
+    rdfs:label "Q11741090"^^xsd:string .
+
+wd:Q11742131 a wd:Q2516436 ;
+    rdfs:label "Q11742131"^^xsd:string .
+
+wd:Q11742135 a wd:Q2516436 ;
+    rdfs:label "Q11742135"^^xsd:string .
+
+wd:Q11742136 a wd:Q2516436 ;
+    rdfs:label "Q11742136"^^xsd:string .
+
+wd:Q11742139 a wd:Q2516436 ;
+    rdfs:label "Q11742139"^^xsd:string .
+
+wd:Q11742140 a wd:Q2516436 ;
+    rdfs:label "Q11742140"^^xsd:string .
+
+wd:Q11742141 a wd:Q2516436 ;
+    rdfs:label "Q11742141"^^xsd:string .
+
+wd:Q11742143 a wd:Q2516436 ;
+    rdfs:label "Q11742143"^^xsd:string .
+
+wd:Q11742147 a wd:Q2516436 ;
+    rdfs:label "Q11742147"^^xsd:string .
+
+wd:Q11742149 a wd:Q2516436 ;
+    rdfs:label "Q11742149"^^xsd:string .
+
+wd:Q11742151 a wd:Q2516436 ;
+    rdfs:label "Q11742151"^^xsd:string .
+
+wd:Q11780247 a wd:Q2516436 ;
+    rdfs:label "Q11780247"^^xsd:string .
+
+wd:Q11798240 a wd:Q2516436 ;
+    rdfs:label "Q11798240"^^xsd:string .
+
+wd:Q11798700 a wd:Q2516436 ;
+    rdfs:label "Q11798700"^^xsd:string .
+
+wd:Q11826173 a wd:Q2516436 ;
+    rdfs:label "Q11826173"^^xsd:string .
+
+wd:Q11831984 a wd:Q2516436 ;
+    rdfs:label "Q11831984"^^xsd:string .
+
+wd:Q11837097 a wd:Q2516436 ;
+    rdfs:label "Q11837097"^^xsd:string .
+
+wd:Q11837101 a wd:Q2516436 ;
+    rdfs:label "Q11837101"^^xsd:string .
+
+wd:Q11837102 a wd:Q2516436 ;
+    rdfs:label "Q11837102"^^xsd:string .
+
+wd:Q11837103 a wd:Q2516436 ;
+    rdfs:label "Q11837103"^^xsd:string .
+
+wd:Q11837148 a wd:Q2516436 ;
+    rdfs:label "Q11837148"^^xsd:string .
+
+wd:Q11837149 a wd:Q2516436 ;
+    rdfs:label "Q11837149"^^xsd:string .
+
+wd:Q11837150 a wd:Q18199879 ;
+    rdfs:label "Q11837150"^^xsd:string .
+
+wd:Q11837152 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Poznań"@en .
+
+wd:Q11889451 a wd:Q2516436 ;
+    rdfs:label "Q11889451"^^xsd:string .
+
+wd:Q119221 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Neuchâtel"@en .
+
+wd:Q12036524 a wd:Q30014735 ;
+    rdfs:label "Q12036524"^^xsd:string .
+
+wd:Q12039344 a wd:Q30014735 ;
+    rdfs:label "Q12039344"^^xsd:string .
+
+wd:Q12039345 a wd:Q30014735 ;
+    rdfs:label "Q12039345"^^xsd:string .
+
+wd:Q12039347 a wd:Q30014735 ;
+    rdfs:label "Q12039347"^^xsd:string .
+
+wd:Q12039350 a wd:Q30014735 ;
+    rdfs:label "Q12039350"^^xsd:string .
+
+wd:Q12039351 a wd:Q30014735 ;
+    rdfs:label "Q12039351"^^xsd:string .
+
+wd:Q12039354 a wd:Q30014735 ;
+    rdfs:label "Q12039354"^^xsd:string .
+
+wd:Q12039355 a wd:Q30014735 ;
+    rdfs:label "Q12039355"^^xsd:string .
+
+wd:Q12039357 a wd:Q30014735 ;
+    rdfs:label "Q12039357"^^xsd:string .
+
+wd:Q12039358 a wd:Q30014735 ;
+    rdfs:label "Q12039358"^^xsd:string .
+
+wd:Q12039359 a wd:Q30014735 ;
+    rdfs:label "Q12039359"^^xsd:string .
+
+wd:Q12039360 a wd:Q30014735 ;
+    rdfs:label "Q12039360"^^xsd:string .
+
+wd:Q12039361 a wd:Q30014735 ;
+    rdfs:label "Q12039361"^^xsd:string .
+
+wd:Q12039363 a wd:Q30014735 ;
+    rdfs:label "Q12039363"^^xsd:string .
+
+wd:Q12039364 a wd:Q30014735 ;
+    rdfs:label "Q12039364"^^xsd:string .
+
+wd:Q12039365 a wd:Q30014735 ;
+    rdfs:label "Q12039365"^^xsd:string .
+
+wd:Q12039368 a wd:Q30014735 ;
+    rdfs:label "Q12039368"^^xsd:string .
+
+wd:Q12039370 a wd:Q30014735 ;
+    rdfs:label "Q12039370"^^xsd:string .
+
+wd:Q12039371 a wd:Q30014735 ;
+    rdfs:label "Q12039371"^^xsd:string .
+
+wd:Q12039373 a wd:Q30014735 ;
+    rdfs:label "Q12039373"^^xsd:string .
+
+wd:Q12039376 a wd:Q30014735 ;
+    rdfs:label "Q12039376"^^xsd:string .
+
+wd:Q12039377 a wd:Q30014735 ;
+    rdfs:label "Q12039377"^^xsd:string .
+
+wd:Q12039378 a wd:Q30014735 ;
+    rdfs:label "Q12039378"^^xsd:string .
+
+wd:Q12041084 a wd:Q2516436 ;
+    rdfs:label "Bratislava Metro"@en .
+
+wd:Q12053093 a wd:Q30014735 ;
+    rdfs:label "Bangkok BRT"@en .
+
+wd:Q12059733 a wd:Q18199879 ;
+    rdfs:label "Q12059733"^^xsd:string .
+
+wd:Q12059734 a wd:Q18199879 ;
+    rdfs:label "Q12059734"^^xsd:string .
+
+wd:Q12059736 a wd:Q18199879 ;
+    rdfs:label "Trolleybus transport in Děčín"@en .
+
+wd:Q12059737 a wd:Q18199879 ;
+    rdfs:label "Q12059737"^^xsd:string .
+
+wd:Q12059738 a wd:Q18199879 ;
+    rdfs:label "Q12059738"^^xsd:string .
+
+wd:Q12059740 a wd:Q18199879 ;
+    rdfs:label "Q12059740"^^xsd:string .
+
+wd:Q12059743 a wd:Q18199879 ;
+    rdfs:label "Q12059743"^^xsd:string .
+
+wd:Q12059744 a wd:Q18199879 ;
+    rdfs:label "Q12059744"^^xsd:string .
+
+wd:Q12059745 a wd:Q18199879 ;
+    rdfs:label "Q12059745"^^xsd:string .
+
+wd:Q12059749 a wd:Q18199879 ;
+    rdfs:label "Q12059749"^^xsd:string .
+
+wd:Q12059750 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Zlín and Otrokovice"@en .
+
+wd:Q12059753 a wd:Q18199879 ;
+    rdfs:label "Q12059753"^^xsd:string .
+
+wd:Q12073696 a wd:Q30014735 ;
+    rdfs:label "Q12073696"^^xsd:string .
+
+wd:Q12093366 a wd:Q30014735 ;
+    rdfs:label "Q12093366"^^xsd:string .
+
+wd:Q12096041 a wd:Q30014735 ;
+    rdfs:label "Q12096041"^^xsd:string .
+
+wd:Q12101409 a wd:Q30014735 ;
+    rdfs:label "Q12101409"^^xsd:string .
+
+wd:Q12102015 a wd:Q30014735 ;
+    rdfs:label "Q12102015"^^xsd:string .
+
+wd:Q12118599 a wd:Q30014735 ;
+    rdfs:label "Q12118599"^^xsd:string .
+
+wd:Q12119130 a wd:Q30014735 ;
+    rdfs:label "Q12119130"^^xsd:string .
+
+wd:Q12145641 a wd:Q30014735 ;
+    rdfs:label "Q12145641"^^xsd:string .
+
+wd:Q12158685 a wd:Q30014735 ;
+    rdfs:label "Q12158685"^^xsd:string .
+
+wd:Q12164531 a wd:Q30014735 ;
+    rdfs:label "Q12164531"^^xsd:string .
+
+wd:Q12169798 a wd:Q30014735 ;
+    rdfs:label "Q12169798"^^xsd:string .
+
+wd:Q12180820 a wd:Q2516436 ;
+    rdfs:label "Q12180820"^^xsd:string .
+
+wd:Q12204584 a wd:Q18199879 ;
+    rdfs:label "Drezden trolleybus"@en .
+
+wd:Q1228271 a wd:Q2516436 ;
+    rdfs:label "Cable cars of Algiers"@en .
+
+wd:Q12498311 a wd:Q2516436 ;
+    rdfs:label "MetroMini, Jakarta"@en .
+
+wd:Q12771417 a wd:Q30014735 ;
+    rdfs:label "Q12771417"^^xsd:string .
+
+wd:Q1289609 a wd:Q2516436 ;
+    rdfs:label "St. Gallen tramway"@en .
+
+wd:Q129625 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Rimini"@en .
+
+wd:Q13104165 a wd:Q2516436 ;
+    rdfs:label "Minettstram"@en .
+
+wd:Q1312883 a wd:Q2516436 ;
+    rdfs:label "Unireso"@en .
+
+wd:Q1320538 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in San Francisco"@en .
+
+wd:Q1321208 a wd:Q2516436 ;
+    rdfs:label "Transportation in New York City"@en .
+
+wd:Q1321552 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Pyongyang"@en .
+
+wd:Q1326480 a wd:Q18199879 ;
+    rdfs:label "Q1326480"^^xsd:string .
+
+wd:Q1326538 a wd:Q18199879 ;
+    rdfs:label "Q1326538"^^xsd:string .
+
+wd:Q1329522 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Tbilisi"@en .
+
+wd:Q1341360 a wd:Q18199879 ;
+    rdfs:label "Q1341360"^^xsd:string .
+
+wd:Q13424822 a wd:Q18199879 ;
+    rdfs:label "Q13424822"^^xsd:string .
+
+wd:Q13580401 a wd:Q2516436 ;
+    rdfs:label "Q13580401"^^xsd:string .
+
+wd:Q13634110 a wd:Q30014735 ;
+    rdfs:label "Q13634110"^^xsd:string .
+
+wd:Q13653756 a wd:Q2516436 ;
+    rdfs:label "Q13653756"^^xsd:string .
+
+wd:Q13750150 a wd:Q30014735 ;
+    rdfs:label "Q13750150"^^xsd:string .
+
+wd:Q1382393 a wd:Q2516436 ;
+    rdfs:label "Q1382393"^^xsd:string .
+
+wd:Q1388214 a wd:Q2516436 ;
+    rdfs:label "Line 3"@en .
+
+wd:Q13886797 a wd:Q30014735 ;
+    rdfs:label "Q13886797"^^xsd:string .
+
+wd:Q1407933 a wd:Q2516436 ;
+    rdfs:label "FC Granada a Sierra Nevada"@en .
+
+wd:Q14362101 a wd:Q2516436 ;
+    rdfs:label "Q14362101"^^xsd:string .
+
+wd:Q1446107 a wd:Q18199879 ;
+    rdfs:label "Trolleybus transport in Banská Bystrica"@en .
+
+wd:Q14509175 a wd:Q30014735 ;
+    rdfs:label "Q14509175"^^xsd:string .
+
+wd:Q1466071 a wd:Q2516436 ;
+    rdfs:label "Q1466071"^^xsd:string .
+
+wd:Q14751 a wd:Q18325841 ;
+    rdfs:label "MTR"@en .
+
+wd:Q1510729 a wd:Q2516436 ;
+    rdfs:label "Trieste city trams"@en .
+
+wd:Q1522993 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Bergen"@en .
+
+wd:Q1530542 a wd:Q18199879 ;
+    rdfs:label "Q1530542"^^xsd:string .
+
+wd:Q1530548 a wd:Q2516436 ;
+    rdfs:label "Q1530548"^^xsd:string .
+
+wd:Q1530554 a wd:Q18199879 ;
+    rdfs:label "Q1530554"^^xsd:string .
+
+wd:Q1530558 a wd:Q18199879 ;
+    rdfs:label "Q1530558"^^xsd:string .
+
+wd:Q15427559 a wd:Q30014735 ;
+    rdfs:label "Q15427559"^^xsd:string .
+
+wd:Q1545610 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Dushanbe"@en .
+
+wd:Q1550797 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Riga"@en .
+
+wd:Q15634808 a wd:Q2516436 ;
+    rdfs:label "Q15634808"^^xsd:string .
+
+wd:Q1574331 a wd:Q2516436 ;
+    rdfs:label "Q1574331"^^xsd:string .
+
+wd:Q15898092 a wd:Q18199879 ;
+    rdfs:label "Q15898092"^^xsd:string .
+
+wd:Q15965364 a wd:Q2516436 ;
+    rdfs:label "Q15965364"^^xsd:string .
+
+wd:Q15971937 a wd:Q2516436 ;
+    rdfs:label "Q15971937"^^xsd:string .
+
+wd:Q15974478 a wd:Q2516436 ;
+    rdfs:label "Q15974478"^^xsd:string .
+
+wd:Q16010237 a wd:Q2516436 ;
+    rdfs:label "Q16010237"^^xsd:string .
+
+wd:Q16039509 a wd:Q2516436 ;
+    rdfs:label "Q16039509"^^xsd:string .
+
+wd:Q16039558 a wd:Q2516436 ;
+    rdfs:label "Q16039558"^^xsd:string .
+
+wd:Q16039678 a wd:Q2516436 ;
+    rdfs:label "Q16039678"^^xsd:string .
+
+wd:Q16039713 a wd:Q2516436 ;
+    rdfs:label "Q16039713"^^xsd:string .
+
+wd:Q160747 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses of Hoyerswerda"@en .
+
+wd:Q1621392 a wd:Q18199879 ;
+    rdfs:label "Q1621392"^^xsd:string .
+
+wd:Q16271696 a wd:Q30014735 ;
+    rdfs:label "Q16271696"^^xsd:string .
+
+wd:Q16271698 a wd:Q30014735 ;
+    rdfs:label "Q16271698"^^xsd:string .
+
+wd:Q16271699 a wd:Q30014735 ;
+    rdfs:label "Q16271699"^^xsd:string .
+
+wd:Q16271701 a wd:Q30014735 ;
+    rdfs:label "Q16271701"^^xsd:string .
+
+wd:Q16271702 a wd:Q30014735 ;
+    rdfs:label "Q16271702"^^xsd:string .
+
+wd:Q16271703 a wd:Q30014735 ;
+    rdfs:label "Q16271703"^^xsd:string .
+
+wd:Q16472522 a wd:Q18325841 ;
+    rdfs:label "Mi Teleférico"@en .
+
+wd:Q16488515 a wd:Q30014735 ;
+    rdfs:label "Q16488515"^^xsd:string .
+
+wd:Q16488945 a wd:Q2516436 ;
+    rdfs:label "Q16488945"^^xsd:string .
+
+wd:Q16494650 a wd:Q2516436 ;
+    rdfs:label "Choquequirao cable car"@en .
+
+wd:Q16529642 a wd:Q2516436 ;
+    rdfs:label "Q16529642"^^xsd:string .
+
+wd:Q16529647 a wd:Q2516436 ;
+    rdfs:label "Q16529647"^^xsd:string .
+
+wd:Q16531269 a wd:Q2516436 ;
+    rdfs:label "T"@en .
+
+wd:Q16534528 a wd:Q2516436 ;
+    rdfs:label "Q16534528"^^xsd:string .
+
+wd:Q16538903 a wd:Q2516436 ;
+    rdfs:label "Q16538903"^^xsd:string .
+
+wd:Q16538919 a wd:Q2516436 ;
+    rdfs:label "Q16538919"^^xsd:string .
+
+wd:Q16556141 a wd:Q2516436 ;
+    rdfs:label "Turin–Chieri trolleybus"@en .
+
+wd:Q16556147 a wd:Q2516436 ;
+    rdfs:label "Q16556147"^^xsd:string .
+
+wd:Q16567302 a wd:Q2516436 ;
+    rdfs:label "Q16567302"^^xsd:string .
+
+wd:Q16567319 a wd:Q2516436 ;
+    rdfs:label "Q16567319"^^xsd:string .
+
+wd:Q16567327 a wd:Q2516436 ;
+    rdfs:label "Q16567327"^^xsd:string .
+
+wd:Q16595585 a wd:Q2516436 ;
+    rdfs:label "Q16595585"^^xsd:string .
+
+wd:Q16595639 a wd:Q2516436 ;
+    rdfs:label "Q16595639"^^xsd:string .
+
+wd:Q16595691 a wd:Q2516436 ;
+    rdfs:label "Q16595691"^^xsd:string .
+
+wd:Q16595720 a wd:Q2516436 ;
+    rdfs:label "Q16595720"^^xsd:string .
+
+wd:Q16595735 a wd:Q2516436 ;
+    rdfs:label "Q16595735"^^xsd:string .
+
+wd:Q16595777 a wd:Q2516436 ;
+    rdfs:label "Q16595777"^^xsd:string .
+
+wd:Q16595855 a wd:Q18199879 ;
+    rdfs:label "Q16595855"^^xsd:string .
+
+wd:Q16595863 a wd:Q18199879 ;
+    rdfs:label "Q16595863"^^xsd:string .
+
+wd:Q16595867 a wd:Q18199879 ;
+    rdfs:label "Florence trolleybus network"@en .
+
+wd:Q16595871 a wd:Q18199879 ;
+    rdfs:label "Q16595871"^^xsd:string .
+
+wd:Q16595876 a wd:Q18199879 ;
+    rdfs:label "Q16595876"^^xsd:string .
+
+wd:Q16595880 a wd:Q18199879 ;
+    rdfs:label "Q16595880"^^xsd:string .
+
+wd:Q16595885 a wd:Q18199879 ;
+    rdfs:label "Q16595885"^^xsd:string .
+
+wd:Q16595893 a wd:Q18199879 ;
+    rdfs:label "Q16595893"^^xsd:string .
+
+wd:Q16595897 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in Trieste"@en .
+
+wd:Q16595901 a wd:Q18199879 ;
+    rdfs:label "Q16595901"^^xsd:string .
+
+wd:Q16595906 a wd:Q18199879 ;
+    rdfs:label "Q16595906"^^xsd:string .
+
+wd:Q16595909 a wd:Q18199879 ;
+    rdfs:label "Q16595909"^^xsd:string .
+
+wd:Q16595913 a wd:Q18199879 ;
+    rdfs:label "Q16595913"^^xsd:string .
+
+wd:Q16595922 a wd:Q2516436 ;
+    rdfs:label "Q16595922"^^xsd:string .
+
+wd:Q16595926 a wd:Q2516436 ;
+    rdfs:label "Q16595926"^^xsd:string .
+
+wd:Q16595929 a wd:Q2516436 ;
+    rdfs:label "Q16595929"^^xsd:string .
+
+wd:Q16595938 a wd:Q2516436 ;
+    rdfs:label "Q16595938"^^xsd:string .
+
+wd:Q16595954 a wd:Q2516436 ;
+    rdfs:label "Q16595954"^^xsd:string .
+
+wd:Q16595970 a wd:Q2516436 ;
+    rdfs:label "Q16595970"^^xsd:string .
+
+wd:Q16595977 a wd:Q2516436 ;
+    rdfs:label "Q16595977"^^xsd:string .
+
+wd:Q16595982 a wd:Q2516436 ;
+    rdfs:label "Q16595982"^^xsd:string .
+
+wd:Q16611304 a wd:Q2516436 ;
+    rdfs:label "Q16611304"^^xsd:string .
+
+wd:Q16611306 a wd:Q2516436 ;
+    rdfs:label "Q16611306"^^xsd:string .
+
+wd:Q16617528 a wd:Q2516436 ;
+    rdfs:label "Q16617528"^^xsd:string .
+
+wd:Q16622611 a wd:Q2516436 ;
+    rdfs:label "Q16622611"^^xsd:string .
+
+wd:Q16635273 a wd:Q18199879 ;
+    rdfs:label "Gabrovo trolleybus"@en .
+
+wd:Q16642235 a wd:Q2516436 ;
+    rdfs:label "Q16642235"^^xsd:string .
+
+wd:Q16655833 a wd:Q2516436 ;
+    rdfs:label "Q16655833"^^xsd:string .
+
+wd:Q16657564 a wd:Q18199879 ;
+    rdfs:label "Q16657564"^^xsd:string .
+
+wd:Q16662706 a wd:Q2516436 ;
+    rdfs:label "Q16662706"^^xsd:string .
+
+wd:Q16665014 a wd:Q2516436 ;
+    rdfs:label "Q16665014"^^xsd:string .
+
+wd:Q16674399 a wd:Q2516436 ;
+    rdfs:label "Q16674399"^^xsd:string .
+
+wd:Q16674400 a wd:Q2516436 ;
+    rdfs:label "Q16674400"^^xsd:string .
+
+wd:Q16674413 a wd:Q2516436 ;
+    rdfs:label "Artis"@en .
+
+wd:Q16678565 a wd:Q18199879 ;
+    rdfs:label "Q16678565"^^xsd:string .
+
+wd:Q16680868 a wd:Q2516436 ;
+    rdfs:label "Q16680868"^^xsd:string .
+
+wd:Q16680926 a wd:Q2516436 ;
+    rdfs:label "Q16680926"^^xsd:string .
+
+wd:Q16681011 a wd:Q2516436 ;
+    rdfs:label "Q16681011"^^xsd:string .
+
+wd:Q16681015 a wd:Q2516436 ;
+    rdfs:label "Q16681015"^^xsd:string .
+
+wd:Q16681019 a wd:Q2516436 ;
+    rdfs:label "Q16681019"^^xsd:string .
+
+wd:Q16681021 a wd:Q2516436 ;
+    rdfs:label "Q16681021"^^xsd:string .
+
+wd:Q16681023 a wd:Q2516436 ;
+    rdfs:label "Q16681023"^^xsd:string .
+
+wd:Q16681025 a wd:Q2516436 ;
+    rdfs:label "Q16681025"^^xsd:string .
+
+wd:Q16681027 a wd:Q2516436 ;
+    rdfs:label "Q16681027"^^xsd:string .
+
+wd:Q16681029 a wd:Q2516436 ;
+    rdfs:label "Q16681029"^^xsd:string .
+
+wd:Q16682514 a wd:Q30014735 ;
+    rdfs:label "Q16682514"^^xsd:string .
+
+wd:Q16692928 a wd:Q30014735 ;
+    rdfs:label "Q16692928"^^xsd:string .
+
+wd:Q16693142 a wd:Q30014735 ;
+    rdfs:label "Q16693142"^^xsd:string .
+
+wd:Q1669666 a wd:Q18325841 ;
+    rdfs:label "public transport in Frankfurt am Main"@en .
+
+wd:Q16700867 a wd:Q30014735 ;
+    rdfs:label "Q16700867"^^xsd:string .
+
+wd:Q16701897 a wd:Q30014735 ;
+    rdfs:label "Q16701897"^^xsd:string .
+
+wd:Q16704373 a wd:Q30014735 ;
+    rdfs:label "Buses in Tallinn"@en .
+
+wd:Q16704671 a wd:Q30014735 ;
+    rdfs:label "Q16704671"^^xsd:string .
+
+wd:Q16709467 a wd:Q30014735 ;
+    rdfs:label "Q16709467"^^xsd:string .
+
+wd:Q16709666 a wd:Q30014735 ;
+    rdfs:label "Q16709666"^^xsd:string .
+
+wd:Q16721363 a wd:Q30014735 ;
+    rdfs:label "Q16721363"^^xsd:string .
+
+wd:Q16723878 a wd:Q30014735 ;
+    rdfs:label "Q16723878"^^xsd:string .
+
+wd:Q1675103 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses of Pirmasens"@en .
+
+wd:Q16764959 a wd:Q2516436 ;
+    rdfs:label "Vel'oh!"@en .
+
+wd:Q168531 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Wuhlehirsk"@en .
+
+wd:Q16913035 a wd:Q30014735 ;
+    rdfs:label "Q16913035"^^xsd:string .
+
+wd:Q16972011 a wd:Q30014735 ;
+    rdfs:label "Bus lines in Bordeaux"@en .
+
+wd:Q16972016 a wd:Q30014735 ;
+    rdfs:label "buses in Barcelona"@en .
+
+wd:Q16982210 a wd:Q2516436 ;
+    rdfs:label "Montreal bus rapid transit"@en .
+
+wd:Q16985108 a wd:Q2516436 ;
+    rdfs:label "Streetcars in Cincinnati"@en .
+
+wd:Q17036008 a wd:Q2516436 ;
+    rdfs:label "Trinidad Government Railway"@en .
+
+wd:Q17109173 a wd:Q2516436 ;
+    rdfs:label "K"@en .
+
+wd:Q17334004 a wd:Q2516436 ;
+    rdfs:label "Q17334004"^^xsd:string .
+
+wd:Q17370562 a wd:Q30014735 ;
+    rdfs:label "Taichung BRT Blue Line"@en .
+
+wd:Q17381380 a wd:Q30014735 ;
+    rdfs:label "Q17381380"^^xsd:string .
+
+wd:Q17381485 a wd:Q30014735 ;
+    rdfs:label "Q17381485"^^xsd:string .
+
+wd:Q17382798 a wd:Q2516436 ;
+    rdfs:label "TouGo"@en .
+
+wd:Q17422920 a wd:Q30014735 ;
+    rdfs:label "Q17422920"^^xsd:string .
+
+wd:Q1747691 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses of Thun - Beatenbucht"@en .
+
+wd:Q17519150 a wd:Q18325841 ;
+    rdfs:label "public transport in Nantes"@en .
+
+wd:Q1758928 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Landskrona"@en .
+
+wd:Q17622033 a wd:Q2516436 ;
+    rdfs:label "Q17622033"^^xsd:string .
+
+wd:Q17629046 a wd:Q2516436 ;
+    rdfs:label "Q17629046"^^xsd:string .
+
+wd:Q17631951 a wd:Q2516436 ;
+    rdfs:label "Q17631951"^^xsd:string .
+
+wd:Q17633436 a wd:Q2516436 ;
+    rdfs:label "Q17633436"^^xsd:string .
+
+wd:Q17640154 a wd:Q2516436 ;
+    rdfs:label "Q17640154"^^xsd:string .
+
+wd:Q17640155 a wd:Q2516436 ;
+    rdfs:label "Q17640155"^^xsd:string .
+
+wd:Q17640156 a wd:Q2516436 ;
+    rdfs:label "Q17640156"^^xsd:string .
+
+wd:Q17640157 a wd:Q2516436 ;
+    rdfs:label "Q17640157"^^xsd:string .
+
+wd:Q17640177 a wd:Q2516436 ;
+    rdfs:label "Q17640177"^^xsd:string .
+
+wd:Q17651415 a wd:Q2516436 ;
+    rdfs:label "Q17651415"^^xsd:string .
+
+wd:Q17651901 a wd:Q18199879 ;
+    rdfs:label "Q17651901"^^xsd:string .
+
+wd:Q17651903 a wd:Q18199879 ;
+    rdfs:label "Q17651903"^^xsd:string .
+
+wd:Q17651905 a wd:Q2516436 ;
+    rdfs:label "Q17651905"^^xsd:string .
+
+wd:Q17651908 a wd:Q2516436 ;
+    rdfs:label "Q17651908"^^xsd:string .
+
+wd:Q17651910 a wd:Q2516436 ;
+    rdfs:label "Q17651910"^^xsd:string .
+
+wd:Q17652355 a wd:Q2516436 ;
+    rdfs:label "Q17652355"^^xsd:string .
+
+wd:Q17652356 a wd:Q2516436 ;
+    rdfs:label "Q17652356"^^xsd:string .
+
+wd:Q1767293 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses of Moers"@en .
+
+wd:Q17839609 a wd:Q30014735 ;
+    rdfs:label "Q17839609"^^xsd:string .
+
+wd:Q18012297 a wd:Q30014735 ;
+    rdfs:label "Bus Express"@en .
+
+wd:Q18030464 a wd:Q30014735 ;
+    rdfs:label "Conforto"@en .
+
+wd:Q18057465 a wd:Q30014735 ;
+    rdfs:label "Q18057465"^^xsd:string .
+
+wd:Q18071646 a wd:Q30014735 ;
+    rdfs:label "Q18071646"^^xsd:string .
+
+wd:Q18071647 a wd:Q30014735 ;
+    rdfs:label "Q18071647"^^xsd:string .
+
+wd:Q18071648 a wd:Q30014735 ;
+    rdfs:label "Q18071648"^^xsd:string .
+
+wd:Q18071649 a wd:Q30014735 ;
+    rdfs:label "Q18071649"^^xsd:string .
+
+wd:Q18071650 a wd:Q30014735 ;
+    rdfs:label "Q18071650"^^xsd:string .
+
+wd:Q18071651 a wd:Q30014735 ;
+    rdfs:label "Q18071651"^^xsd:string .
+
+wd:Q18071652 a wd:Q30014735 ;
+    rdfs:label "Q18071652"^^xsd:string .
+
+wd:Q18071653 a wd:Q30014735 ;
+    rdfs:label "Q18071653"^^xsd:string .
+
+wd:Q18071654 a wd:Q30014735 ;
+    rdfs:label "Q18071654"^^xsd:string .
+
+wd:Q18071655 a wd:Q30014735 ;
+    rdfs:label "Q18071655"^^xsd:string .
+
+wd:Q18071656 a wd:Q30014735 ;
+    rdfs:label "Q18071656"^^xsd:string .
+
+wd:Q18155336 a wd:Q2516436 ;
+    rdfs:label "Oklahoma City Streetcar"@en .
+
+wd:Q18168034 a wd:Q18325841 ;
+    rdfs:label "Public transportation in Toronto"@en .
+
+wd:Q18195802 a wd:Q2516436 ;
+    rdfs:label "Q18195802"^^xsd:string .
+
+wd:Q1819821 a wd:Q30014735 ;
+    rdfs:label "Q1819821"^^xsd:string .
+
+wd:Q18202865 a wd:Q30014735 ;
+    rdfs:label "Q18202865"^^xsd:string .
+
+wd:Q18203357 a wd:Q2516436 ;
+    rdfs:label "Q18203357"^^xsd:string .
+
+wd:Q18286521 a wd:Q2516436 ;
+    rdfs:label "Q18286521"^^xsd:string .
+
+wd:Q18327035 a wd:Q2516436 ;
+    rdfs:label "Q18327035"^^xsd:string .
+
+wd:Q18327105 a wd:Q2516436 ;
+    rdfs:label "Q18327105"^^xsd:string .
+
+wd:Q18409540 a wd:Q30014735 ;
+    rdfs:label "Q18409540"^^xsd:string .
+
+wd:Q18414884 a wd:Q2516436 ;
+    rdfs:label "Ferries of Réseau Mistral"@en .
+
+wd:Q18415248 a wd:Q2516436 ;
+    rdfs:label "Q18415248"^^xsd:string .
+
+wd:Q18430389 a wd:Q2516436 ;
+    rdfs:label "Q18430389"^^xsd:string .
+
+wd:Q18430391 a wd:Q2516436 ;
+    rdfs:label "Q18430391"^^xsd:string .
+
+wd:Q18434649 a wd:Q30014735 ;
+    rdfs:label "Proxibus"@en .
+
+wd:Q18476394 a wd:Q2516436 ;
+    rdfs:label "Q18476394"^^xsd:string .
+
+wd:Q1855518 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Sukhumi"@en .
+
+wd:Q18578151 a wd:Q2516436 ;
+    rdfs:label "Q18578151"^^xsd:string .
+
+wd:Q18638829 a wd:Q2516436 ;
+    rdfs:label "Tavernes Blanques - Natzaret metro line"@en .
+
+wd:Q1868425 a wd:Q2516436 ;
+    rdfs:label "Traunseebahn"@en .
+
+wd:Q1897822 a wd:Q30014735 ;
+    rdfs:label "Q1897822"^^xsd:string .
+
+wd:Q1908107 a wd:Q2516436 ;
+    rdfs:label "Matatu"@en .
+
+wd:Q1925732 a wd:Q18199879,
+        wd:Q30014735 ;
+    rdfs:label "Trolleybuses in Nijmegen"@en .
+
+wd:Q1926002 a wd:Q2516436 ;
+    rdfs:label "Mettis"@en .
+
+wd:Q19365622 a wd:Q2516436 ;
+    rdfs:label "Q19365622"^^xsd:string .
+
+wd:Q195366 a wd:Q2516436 ;
+    rdfs:label "Lucerne S-Bahn"@en .
+
+wd:Q1963791 a wd:Q30014735 ;
+    rdfs:label "Q1963791"^^xsd:string .
+
+wd:Q1975583 a wd:Q18199879 ;
+    rdfs:label "Q1975583"^^xsd:string .
+
+wd:Q1989961 a wd:Q18199879 ;
+    rdfs:label "Q1989961"^^xsd:string .
+
+wd:Q19909459 a wd:Q30014735 ;
+    rdfs:label "Q19909459"^^xsd:string .
+
+wd:Q19910358 a wd:Q30014735 ;
+    rdfs:label "Q19910358"^^xsd:string .
+
+wd:Q1992381 a wd:Q18199879 ;
+    rdfs:label "Q1992381"^^xsd:string .
+
+wd:Q19945276 a wd:Q2516436 ;
+    rdfs:label "Q19945276"^^xsd:string .
+
+wd:Q19945278 a wd:Q2516436 ;
+    rdfs:label "Q19945278"^^xsd:string .
+
+wd:Q19947082 a wd:Q2516436 ;
+    rdfs:label "Q19947082"^^xsd:string .
+
+wd:Q19985898 a wd:Q2516436 ;
+    rdfs:label "Q19985898"^^xsd:string .
+
+wd:Q20015735 a wd:Q2516436 ;
+    rdfs:label "Q20015735"^^xsd:string .
+
+wd:Q20016114 a wd:Q2516436 ;
+    rdfs:label "S.U.T. de la Ciudad de La Plata"@en .
+
+wd:Q20024577 a wd:Q2516436 ;
+    rdfs:label "Q20024577"^^xsd:string .
+
+wd:Q20024578 a wd:Q2516436 ;
+    rdfs:label "Q20024578"^^xsd:string .
+
+wd:Q20024789 a wd:Q2516436 ;
+    rdfs:label "Q20024789"^^xsd:string .
+
+wd:Q20032159 a wd:Q2516436 ;
+    rdfs:label "Q20032159"^^xsd:string .
+
+wd:Q20032305 a wd:Q2516436 ;
+    rdfs:label "Q20032305"^^xsd:string .
+
+wd:Q20052795 a wd:Q2516436 ;
+    rdfs:label "Q20052795"^^xsd:string .
+
+wd:Q20052802 a wd:Q2516436 ;
+    rdfs:label "Q20052802"^^xsd:string .
+
+wd:Q20052843 a wd:Q2516436 ;
+    rdfs:label "Q20052843"^^xsd:string .
+
+wd:Q20053566 a wd:Q2516436 ;
+    rdfs:label "Q20053566"^^xsd:string .
+
+wd:Q20055475 a wd:Q2516436 ;
+    rdfs:label "Q20055475"^^xsd:string .
+
+wd:Q20089757 a wd:Q2516436 ;
+    rdfs:label "Q20089757"^^xsd:string .
+
+wd:Q2010108 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Aachen"@en .
+
+wd:Q2010113 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Bonn"@en .
+
+wd:Q2010124 a wd:Q2516436 ;
+    rdfs:label "Boston-area trackless trolleys"@en .
+
+wd:Q2010129 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Gera"@en .
+
+wd:Q2010137 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Idar-Oberstein"@en .
+
+wd:Q2010139 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Innsbruck"@en .
+
+wd:Q2010141 a wd:Q18199879 ;
+    rdfs:label "ILPAP"@en .
+
+wd:Q2010145 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Kaiserslautern"@en .
+
+wd:Q2010149 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Krefeld"@en .
+
+wd:Q2010152 a wd:Q18199879 ;
+    rdfs:label "Q2010152"^^xsd:string .
+
+wd:Q2010155 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses of Kabul"@en .
+
+wd:Q2010161 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Linz"@en .
+
+wd:Q2010162 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in Kathmandu"@en .
+
+wd:Q2010169 a wd:Q18199879 ;
+    rdfs:label "Q2010169"^^xsd:string .
+
+wd:Q2010177 a wd:Q18199879 ;
+    rdfs:label "Q2010177"^^xsd:string .
+
+wd:Q2010181 a wd:Q18199879 ;
+    rdfs:label "Q2010181"^^xsd:string .
+
+wd:Q2010188 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Suhl"@en .
+
+wd:Q2010198 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Sanremo"@en .
+
+wd:Q2010200 a wd:Q2516436 ;
+    rdfs:label "Q2010200"^^xsd:string .
+
+wd:Q2010204 a wd:Q18199879 ;
+    rdfs:label "Q2010204"^^xsd:string .
+
+wd:Q2010207 a wd:Q18199879 ;
+    rdfs:label "Cheboksary trolleybus"@en .
+
+wd:Q2010212 a wd:Q18199879 ;
+    rdfs:label "Q2010212"^^xsd:string .
+
+wd:Q2010215 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in Vancouver"@en .
+
+wd:Q2010217 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Ulan Bator"@en .
+
+wd:Q2010224 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses of Weimar"@en .
+
+wd:Q2010227 a wd:Q18199879 ;
+    rdfs:label "Oberleitungsbus Zwickau"@en .
+
+wd:Q2010231 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Wellington"@en .
+
+wd:Q2011405 a wd:Q18199879 ;
+    rdfs:label "Q2011405"^^xsd:string .
+
+wd:Q2024758 a wd:Q18199879 ;
+    rdfs:label "Q2024758"^^xsd:string .
+
+wd:Q2027945 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Baku"@en .
+
+wd:Q2043030 a wd:Q18199879 ;
+    rdfs:label "Q2043030"^^xsd:string .
+
+wd:Q20497553 a wd:Q18199879 ;
+    rdfs:label "Public transport in Veliko Tarnovo"@en .
+
+wd:Q206458 a wd:Q30014735 ;
+    rdfs:label "Munich Bus System"@en .
+
+wd:Q20723157 a wd:Q2516436 ;
+    rdfs:label "Q20723157"^^xsd:string .
+
+wd:Q20724322 a wd:Q2516436 ;
+    rdfs:label "Q20724322"^^xsd:string .
+
+wd:Q2084466 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Burgas"@en .
+
+wd:Q2089752 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Viciebsk"@en .
+
+wd:Q20900526 a wd:Q2516436 ;
+    rdfs:label "Q20900526"^^xsd:string .
+
+wd:Q20971856 a wd:Q2516436 ;
+    rdfs:label "Q20971856"^^xsd:string .
+
+wd:Q20971881 a wd:Q2516436 ;
+    rdfs:label "Optibus"@en .
+
+wd:Q20971902 a wd:Q2516436 ;
+    rdfs:label "Q20971902"^^xsd:string .
+
+wd:Q20983513 a wd:Q2516436 ;
+    rdfs:label "Q20983513"^^xsd:string .
+
+wd:Q20983556 a wd:Q2516436 ;
+    rdfs:label "Q20983556"^^xsd:string .
+
+wd:Q2098958 a wd:Q30014735 ;
+    rdfs:label "bus network of Amsterdam"@en .
+
+wd:Q21007635 a wd:Q2516436 ;
+    rdfs:label "Q21007635"^^xsd:string .
+
+wd:Q21027433 a wd:Q2516436 ;
+    rdfs:label "Q21027433"^^xsd:string .
+
+wd:Q21027434 a wd:Q2516436 ;
+    rdfs:label "Q21027434"^^xsd:string .
+
+wd:Q21027487 a wd:Q2516436 ;
+    rdfs:label "Q21027487"^^xsd:string .
+
+wd:Q21027488 a wd:Q2516436 ;
+    rdfs:label "Q21027488"^^xsd:string .
+
+wd:Q21050295 a wd:Q18199879 ;
+    rdfs:label "Q21050295"^^xsd:string .
+
+wd:Q21050876 a wd:Q18199879 ;
+    rdfs:label "Q21050876"^^xsd:string .
+
+wd:Q21051038 a wd:Q18199879 ;
+    rdfs:label "Q21051038"^^xsd:string .
+
+wd:Q21051329 a wd:Q18199879 ;
+    rdfs:label "Q21051329"^^xsd:string .
+
+wd:Q21051333 a wd:Q18199879 ;
+    rdfs:label "Q21051333"^^xsd:string .
+
+wd:Q21051419 a wd:Q18199879 ;
+    rdfs:label "Q21051419"^^xsd:string .
+
+wd:Q21083913 a wd:Q2516436 ;
+    rdfs:label "Q21083913"^^xsd:string .
+
+wd:Q2115514 a wd:Q30014735 ;
+    rdfs:label "Q2115514"^^xsd:string .
+
+wd:Q21235286 a wd:Q2516436 ;
+    rdfs:label "Q21235286"^^xsd:string .
+
+wd:Q21235764 a wd:Q2516436 ;
+    rdfs:label "Q21235764"^^xsd:string .
+
+wd:Q21236501 a wd:Q2516436 ;
+    rdfs:label "Q21236501"^^xsd:string .
+
+wd:Q2128866 a wd:Q30014735 ;
+    rdfs:label "Q2128866"^^xsd:string .
+
+wd:Q21427008 a wd:Q2516436 ;
+    rdfs:label "Q21427008"^^xsd:string .
+
+wd:Q21428066 a wd:Q2516436 ;
+    rdfs:label "Q21428066"^^xsd:string .
+
+wd:Q21428067 a wd:Q2516436 ;
+    rdfs:label "Q21428067"^^xsd:string .
+
+wd:Q21428068 a wd:Q2516436 ;
+    rdfs:label "Q21428068"^^xsd:string .
+
+wd:Q2154155 a wd:Q2516436 ;
+    rdfs:label "Ringzug"@en .
+
+wd:Q21643557 a wd:Q30014735 ;
+    rdfs:label "Q21643557"^^xsd:string .
+
+wd:Q21653558 a wd:Q18199879 ;
+    rdfs:label "Q21653558"^^xsd:string .
+
+wd:Q21658319 a wd:Q30014735 ;
+    rdfs:label "Q21658319"^^xsd:string .
+
+wd:Q21659461 a wd:Q18199879 ;
+    rdfs:label "Q21659461"^^xsd:string .
+
+wd:Q21705839 a wd:Q2516436 ;
+    rdfs:label "Q21705839"^^xsd:string .
+
+wd:Q2204412 a wd:Q2516436 ;
+    rdfs:label "Chur S-Bahn"@en .
+
+wd:Q22248680 a wd:Q2516436 ;
+    rdfs:label "Q22248680"^^xsd:string .
+
+wd:Q22248709 a wd:Q2516436 ;
+    rdfs:label "Q22248709"^^xsd:string .
+
+wd:Q22249176 a wd:Q2516436 ;
+    rdfs:label "Q22249176"^^xsd:string .
+
+wd:Q2251979 a wd:Q30014735 ;
+    rdfs:label "Q2251979"^^xsd:string .
+
+wd:Q2254672 a wd:Q18199879 ;
+    rdfs:label "Q2254672"^^xsd:string .
+
+wd:Q2254696 a wd:Q18199879 ;
+    rdfs:label "Trolleybus of Kostanay"@en .
+
+wd:Q2254745 a wd:Q18199879 ;
+    rdfs:label "Q2254745"^^xsd:string .
+
+wd:Q2263174 a wd:Q18199879 ;
+    rdfs:label "Trolleybus in Lublin"@en .
+
+wd:Q2274331 a wd:Q30014735 ;
+    rdfs:label "Q2274331"^^xsd:string .
+
+wd:Q2274335 a wd:Q2516436 ;
+    rdfs:label "Cagliari metropolitan railway service"@en .
+
+wd:Q22890925 a wd:Q2516436 ;
+    rdfs:label "Q22890925"^^xsd:string .
+
+wd:Q2352821 a wd:Q30014735 ;
+    rdfs:label "Q2352821"^^xsd:string .
+
+wd:Q2353461 a wd:Q30014735 ;
+    rdfs:label "Q2353461"^^xsd:string .
+
+wd:Q23582427 a wd:Q30014735 ;
+    rdfs:label "Phnom Penh City Bus"@en .
+
+wd:Q2372157 a wd:Q2516436 ;
+    rdfs:label "Q2372157"^^xsd:string .
+
+wd:Q2377731 a wd:Q2516436 ;
+    rdfs:label "Q2377731"^^xsd:string .
+
+wd:Q23807999 a wd:Q18325841 ;
+    rdfs:label "Transportation in Lagos"@en .
+
+wd:Q2387754 a wd:Q2516436 ;
+    rdfs:label "Q2387754"^^xsd:string .
+
+wd:Q2388501 a wd:Q18199879 ;
+    rdfs:label "Q2388501"^^xsd:string .
+
+wd:Q2390607 a wd:Q2516436 ;
+    rdfs:label "Dublin Metro"@en .
+
+wd:Q2394222 a wd:Q2516436 ;
+    rdfs:label "Q2394222"^^xsd:string .
+
+wd:Q23955689 a wd:Q2516436 ;
+    rdfs:label "Łódzki Rower Publiczny"@en .
+
+wd:Q2404021 a wd:Q30014735 ;
+    rdfs:label "Q2404021"^^xsd:string .
+
+wd:Q24087694 a wd:Q2516436 ;
+    rdfs:label "Q24087694"^^xsd:string .
+
+wd:Q241016 a wd:Q2516436 ;
+    rdfs:label "Q241016"^^xsd:string .
+
+wd:Q2440859 a wd:Q30014735 ;
+    rdfs:label "Q2440859"^^xsd:string .
+
+wd:Q2453526 a wd:Q18199879 ;
+    rdfs:label "Q2453526"^^xsd:string .
+
+wd:Q24588618 a wd:Q2516436 ;
+    rdfs:label "Q24588618"^^xsd:string .
+
+wd:Q2463170 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Gdynia"@en .
+
+wd:Q24637353 a wd:Q2516436 ;
+    rdfs:label "Q24637353"^^xsd:string .
+
+wd:Q2469425 a wd:Q2516436 ;
+    rdfs:label "Q2469425"^^xsd:string .
+
+wd:Q24933072 a wd:Q30014735 ;
+    rdfs:label "Q24933072"^^xsd:string .
+
+wd:Q24933590 a wd:Q2516436 ;
+    rdfs:label "Q24933590"^^xsd:string .
+
+wd:Q24934369 a wd:Q30014735 ;
+    rdfs:label "Q24934369"^^xsd:string .
+
+wd:Q24935024 a wd:Q2516436 ;
+    rdfs:label "Q24935024"^^xsd:string .
+
+wd:Q24935033 a wd:Q2516436 ;
+    rdfs:label "Q24935033"^^xsd:string .
+
+wd:Q24935035 a wd:Q2516436 ;
+    rdfs:label "Q24935035"^^xsd:string .
+
+wd:Q24936087 a wd:Q2516436 ;
+    rdfs:label "Q24936087"^^xsd:string .
+
+wd:Q24944379 a wd:Q2516436 ;
+    rdfs:label "Q24944379"^^xsd:string .
+
+wd:Q24945448 a wd:Q2516436 ;
+    rdfs:label "Q24945448"^^xsd:string .
+
+wd:Q24945662 a wd:Q2516436 ;
+    rdfs:label "Q24945662"^^xsd:string .
+
+wd:Q24946133 a wd:Q2516436 ;
+    rdfs:label "Q24946133"^^xsd:string .
+
+wd:Q24948577 a wd:Q2516436 ;
+    rdfs:label "Q24948577"^^xsd:string .
+
+wd:Q2523508 a wd:Q30014735 ;
+    rdfs:label "buses in The Hague"@en .
+
+wd:Q2528466 a wd:Q2516436 ;
+    rdfs:label "Transport in Tunisia"@en .
+
+wd:Q25383072 a wd:Q30014735 ;
+    rdfs:label "Q25383072"^^xsd:string .
+
+wd:Q25383886 a wd:Q2516436 ;
+    rdfs:label "Q25383886"^^xsd:string .
+
+wd:Q25386680 a wd:Q30014735 ;
+    rdfs:label "Q25386680"^^xsd:string .
+
+wd:Q25388099 a wd:Q18199879 ;
+    rdfs:label "Q25388099"^^xsd:string .
+
+wd:Q25397412 a wd:Q2516436 ;
+    rdfs:label "Q25397412"^^xsd:string .
+
+wd:Q25400430 a wd:Q2516436 ;
+    rdfs:label "Q25400430"^^xsd:string .
+
+wd:Q25400431 a wd:Q2516436 ;
+    rdfs:label "Q25400431"^^xsd:string .
+
+wd:Q25400432 a wd:Q2516436 ;
+    rdfs:label "Q25400432"^^xsd:string .
+
+wd:Q25401320 a wd:Q2516436 ;
+    rdfs:label "Q25401320"^^xsd:string .
+
+wd:Q25411554 a wd:Q2516436 ;
+    rdfs:label "Q25411554"^^xsd:string .
+
+wd:Q25411770 a wd:Q2516436 ;
+    rdfs:label "Q25411770"^^xsd:string .
+
+wd:Q25419812 a wd:Q2516436 ;
+    rdfs:label "Q25419812"^^xsd:string .
+
+wd:Q2561683 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Sofia"@en .
+
+wd:Q2562849 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Brest"@en .
+
+wd:Q2571458 a wd:Q2516436 ;
+    rdfs:label "Transilien Paris – Montparnasse"@en .
+
+wd:Q2571977 a wd:Q2516436 ;
+    rdfs:label "Transilien Paris – Lyon"@en .
+
+wd:Q2572054 a wd:Q2516436 ;
+    rdfs:label "Transilien Paris – Nord"@en .
+
+wd:Q2602394 a wd:Q2516436 ;
+    rdfs:label "Q2602394"^^xsd:string .
+
+wd:Q261815 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Gori"@en .
+
+wd:Q2632574 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Minsk"@en .
+
+wd:Q2650375 a wd:Q30014735 ;
+    rdfs:label "Q2650375"^^xsd:string .
+
+wd:Q2666797 a wd:Q30014735 ;
+    rdfs:label "Q2666797"^^xsd:string .
+
+wd:Q2681200 a wd:Q30014735 ;
+    rdfs:label "Q2681200"^^xsd:string .
+
+wd:Q2691834 a wd:Q30014735 ;
+    rdfs:label "Q2691834"^^xsd:string .
+
+wd:Q26928571 a wd:Q2516436 ;
+    rdfs:label "Trans O'Higgins"@en .
+
+wd:Q2753965 a wd:Q18199879 ;
+    rdfs:label "Q2753965"^^xsd:string .
+
+wd:Q2753968 a wd:Q18199879 ;
+    rdfs:label "Q2753968"^^xsd:string .
+
+wd:Q27992297 a wd:Q2516436 ;
+    rdfs:label "Q27992297"^^xsd:string .
+
+wd:Q28026216 a wd:Q2516436 ;
+    rdfs:label "Q28026216"^^xsd:string .
+
+wd:Q28045401 a wd:Q2516436 ;
+    rdfs:label "Mont'Bus"@en .
+
+wd:Q28057908 a wd:Q2516436 ;
+    rdfs:label "Q28057908"^^xsd:string .
+
+wd:Q28119339 a wd:Q2516436 ;
+    rdfs:label "Q28119339"^^xsd:string .
+
+wd:Q28218211 a wd:Q2516436 ;
+    rdfs:label "Plasencia-Astorga railway line"@en .
+
+wd:Q2826802 a wd:Q2516436 ;
+    rdfs:label "Q2826802"^^xsd:string .
+
+wd:Q2831873 a wd:Q2516436 ;
+    rdfs:label "Q2831873"^^xsd:string .
+
+wd:Q2834718 a wd:Q2516436 ;
+    rdfs:label "Q2834718"^^xsd:string .
+
+wd:Q2837986 a wd:Q2516436 ;
+    rdfs:label "Q2837986"^^xsd:string .
+
+wd:Q2838612 a wd:Q2516436 ;
+    rdfs:label "Red de Transporte de Pasajeros"@en .
+
+wd:Q2840428 a wd:Q2516436 ;
+    rdfs:label "Alternéo"@en .
+
+wd:Q28493264 a wd:Q2516436 ;
+    rdfs:label "Q28493264"^^xsd:string .
+
+wd:Q28493355 a wd:Q2516436 ;
+    rdfs:label "Q28493355"^^xsd:string .
+
+wd:Q28493682 a wd:Q2516436 ;
+    rdfs:label "Q28493682"^^xsd:string .
+
+wd:Q28494230 a wd:Q2516436 ;
+    rdfs:label "Q28494230"^^xsd:string .
+
+wd:Q28494360 a wd:Q2516436 ;
+    rdfs:label "Q28494360"^^xsd:string .
+
+wd:Q28494524 a wd:Q2516436 ;
+    rdfs:label "Q28494524"^^xsd:string .
+
+wd:Q28494562 a wd:Q2516436 ;
+    rdfs:label "Q28494562"^^xsd:string .
+
+wd:Q28494587 a wd:Q2516436 ;
+    rdfs:label "Q28494587"^^xsd:string .
+
+wd:Q28494617 a wd:Q2516436 ;
+    rdfs:label "Q28494617"^^xsd:string .
+
+wd:Q28495631 a wd:Q2516436 ;
+    rdfs:label "Q28495631"^^xsd:string .
+
+wd:Q28496231 a wd:Q2516436 ;
+    rdfs:label "Q28496231"^^xsd:string .
+
+wd:Q28496768 a wd:Q2516436 ;
+    rdfs:label "Q28496768"^^xsd:string .
+
+wd:Q28500058 a wd:Q2516436 ;
+    rdfs:label "Train Express Regional"@en .
+
+wd:Q28501303 a wd:Q2516436 ;
+    rdfs:label "Q28501303"^^xsd:string .
+
+wd:Q2850252 a wd:Q2516436 ;
+    rdfs:label "Q2850252"^^xsd:string .
+
+wd:Q28584246 a wd:Q30014735 ;
+    rdfs:label "Q28584246"^^xsd:string .
+
+wd:Q28610063 a wd:Q2516436 ;
+    rdfs:label "Buses in Lausanne"@en .
+
+wd:Q28666095 a wd:Q30014735 ;
+    rdfs:label "Q28666095"^^xsd:string .
+
+wd:Q28666258 a wd:Q30014735 ;
+    rdfs:label "Q28666258"^^xsd:string .
+
+wd:Q28666569 a wd:Q30014735 ;
+    rdfs:label "Q28666569"^^xsd:string .
+
+wd:Q28667642 a wd:Q30014735 ;
+    rdfs:label "Magistral"@en .
+
+wd:Q28672956 a wd:Q2516436 ;
+    rdfs:label "Q28672956"^^xsd:string .
+
+wd:Q28673057 a wd:Q2516436 ;
+    rdfs:label "Q28673057"^^xsd:string .
+
+wd:Q28673830 a wd:Q2516436 ;
+    rdfs:label "Q28673830"^^xsd:string .
+
+wd:Q28678394 a wd:Q2516436 ;
+    rdfs:label "Q28678394"^^xsd:string .
+
+wd:Q28679206 a wd:Q2516436 ;
+    rdfs:label "Q28679206"^^xsd:string .
+
+wd:Q28709691 a wd:Q30014735 ;
+    rdfs:label "Q28709691"^^xsd:string .
+
+wd:Q2872487 a wd:Q2516436 ;
+    rdfs:label "Q2872487"^^xsd:string .
+
+wd:Q2872519 a wd:Q30014735 ;
+    rdfs:label "Brussels buses"@en .
+
+wd:Q2872521 a wd:Q2516436 ;
+    rdfs:label "Transports de l'Agglomération Châtelleraudaise"@en .
+
+wd:Q2872523 a wd:Q2516436 ;
+    rdfs:label "Q2872523"^^xsd:string .
+
+wd:Q2872525 a wd:Q2516436 ;
+    rdfs:label "Q2872525"^^xsd:string .
+
+wd:Q2872528 a wd:Q2516436 ;
+    rdfs:label "Q2872528"^^xsd:string .
+
+wd:Q2872533 a wd:Q2516436 ;
+    rdfs:label "Q2872533"^^xsd:string .
+
+wd:Q2872582 a wd:Q2516436 ;
+    rdfs:label "Citiz LPA"@en .
+
+wd:Q28753849 a wd:Q30014735 ;
+    rdfs:label "Q28753849"^^xsd:string .
+
+wd:Q28761417 a wd:Q2516436 ;
+    rdfs:label "Q28761417"^^xsd:string .
+
+wd:Q28769803 a wd:Q2516436 ;
+    rdfs:label "Seattle Municipal Street Railway"@en .
+
+wd:Q2877043 a wd:Q2516436 ;
+    rdfs:label "Q2877043"^^xsd:string .
+
+wd:Q28802106 a wd:Q30014735 ;
+    rdfs:label "Q28802106"^^xsd:string .
+
+wd:Q2885471 a wd:Q2516436 ;
+    rdfs:label "Q2885471"^^xsd:string .
+
+wd:Q2894748 a wd:Q2516436 ;
+    rdfs:label "Q2894748"^^xsd:string .
+
+wd:Q2901590 a wd:Q18325841 ;
+    rdfs:label "Bibus"@en .
+
+wd:Q29034762 a wd:Q2516436 ;
+    rdfs:label "Synchro Vélostation"@en .
+
+wd:Q29034788 a wd:Q2516436 ;
+    rdfs:label "RTD Commuter Rail"@en .
+
+wd:Q2928670 a wd:Q2516436 ;
+    rdfs:label "Q2928670"^^xsd:string .
+
+wd:Q2928683 a wd:Q30014735 ;
+    rdfs:label "Buses in London"@en .
+
+wd:Q2929433 a wd:Q2516436 ;
+    rdfs:label "Interliner"@en .
+
+wd:Q2937743 a wd:Q2516436 ;
+    rdfs:label "Q2937743"^^xsd:string .
+
+wd:Q2937749 a wd:Q2516436 ;
+    rdfs:label "Q2937749"^^xsd:string .
+
+wd:Q2940676 a wd:Q2516436 ;
+    rdfs:label "La Métropole Mobilité"@en .
+
+wd:Q29608834 a wd:Q2516436 ;
+    rdfs:label "Duobus"@en .
+
+wd:Q2962356 a wd:Q2516436 ;
+    rdfs:label "Q2962356"^^xsd:string .
+
+wd:Q2962389 a wd:Q2516436 ;
+    rdfs:label "Chemin de fer du Beaujolais"@en .
+
+wd:Q2962483 a wd:Q2516436 ;
+    rdfs:label "Q2962483"^^xsd:string .
+
+wd:Q2962484 a wd:Q2516436 ;
+    rdfs:label "Q2962484"^^xsd:string .
+
+wd:Q2962486 a wd:Q2516436 ;
+    rdfs:label "Q2962486"^^xsd:string .
+
+wd:Q2962489 a wd:Q2516436 ;
+    rdfs:label "Chemins de fer départementaux de la Haute-Vienne"@en .
+
+wd:Q2962493 a wd:Q2516436 ;
+    rdfs:label "Q2962493"^^xsd:string .
+
+wd:Q2966827 a wd:Q2516436 ;
+    rdfs:label "Q2966827"^^xsd:string .
+
+wd:Q2974528 a wd:Q2516436 ;
+    rdfs:label "Transports urbains de Reims"@en .
+
+wd:Q2989891 a wd:Q2516436 ;
+    rdfs:label "Q2989891"^^xsd:string .
+
+wd:Q2990042 a wd:Q2516436 ;
+    rdfs:label "Q2990042"^^xsd:string .
+
+wd:Q2990053 a wd:Q2516436 ;
+    rdfs:label "Q2990053"^^xsd:string .
+
+wd:Q2997619 a wd:Q2516436 ;
+    rdfs:label "Corolis"@en .
+
+wd:Q30076761 a wd:Q2516436 ;
+    rdfs:label "Q30076761"^^xsd:string .
+
+wd:Q30130125 a wd:Q30014735 ;
+    rdfs:label "Q30130125"^^xsd:string .
+
+wd:Q30250603 a wd:Q2516436 ;
+    rdfs:label "Cap'bus"@en .
+
+wd:Q3031072 a wd:Q18199879 ;
+    rdfs:label "Q3031072"^^xsd:string .
+
+wd:Q3047515 a wd:Q2516436 ;
+    rdfs:label "Q3047515"^^xsd:string .
+
+wd:Q305436 a wd:Q2516436 ;
+    rdfs:label "Rodalies Barcelona"@en .
+
+wd:Q3054608 a wd:Q2516436 ;
+    rdfs:label "Transmac"@en .
+
+wd:Q3055422 a wd:Q2516436 ;
+    rdfs:label "Q3055422"^^xsd:string .
+
+wd:Q3071733 a wd:Q2516436 ;
+    rdfs:label "Q3071733"^^xsd:string .
+
+wd:Q3072280 a wd:Q2516436 ;
+    rdfs:label "Q3072280"^^xsd:string .
+
+wd:Q30739950 a wd:Q18325841 ;
+    rdfs:label "Q30739950"^^xsd:string .
+
+wd:Q30739958 a wd:Q2516436 ;
+    rdfs:label "Q30739958"^^xsd:string .
+
+wd:Q30740442 a wd:Q2516436 ;
+    rdfs:label "Q30740442"^^xsd:string .
+
+wd:Q30742536 a wd:Q2516436 ;
+    rdfs:label "Q30742536"^^xsd:string .
+
+wd:Q30744145 a wd:Q2516436 ;
+    rdfs:label "Q30744145"^^xsd:string .
+
+wd:Q30749067 a wd:Q2516436 ;
+    rdfs:label "Q30749067"^^xsd:string .
+
+wd:Q30749398 a wd:Q2516436 ;
+    rdfs:label "Q30749398"^^xsd:string .
+
+wd:Q30896201 a wd:Q2516436 ;
+    rdfs:label "Q30896201"^^xsd:string .
+
+wd:Q30903720 a wd:Q2516436 ;
+    rdfs:label "Q30903720"^^xsd:string .
+
+wd:Q30904361 a wd:Q2516436 ;
+    rdfs:label "Q30904361"^^xsd:string .
+
+wd:Q30905378 a wd:Q2516436 ;
+    rdfs:label "Q30905378"^^xsd:string .
+
+wd:Q30907250 a wd:Q2516436 ;
+    rdfs:label "Line 28"@en .
+
+wd:Q30907263 a wd:Q2516436 ;
+    rdfs:label "Q30907263"^^xsd:string .
+
+wd:Q30907265 a wd:Q2516436 ;
+    rdfs:label "Q30907265"^^xsd:string .
+
+wd:Q30907266 a wd:Q2516436 ;
+    rdfs:label "Q30907266"^^xsd:string .
+
+wd:Q30907274 a wd:Q2516436 ;
+    rdfs:label "Q30907274"^^xsd:string .
+
+wd:Q30907304 a wd:Q2516436 ;
+    rdfs:label "Q30907304"^^xsd:string .
+
+wd:Q30907306 a wd:Q2516436 ;
+    rdfs:label "Q30907306"^^xsd:string .
+
+wd:Q30907307 a wd:Q2516436 ;
+    rdfs:label "Q30907307"^^xsd:string .
+
+wd:Q30907308 a wd:Q2516436 ;
+    rdfs:label "Q30907308"^^xsd:string .
+
+wd:Q30907323 a wd:Q2516436 ;
+    rdfs:label "Q30907323"^^xsd:string .
+
+wd:Q30907325 a wd:Q2516436 ;
+    rdfs:label "Q30907325"^^xsd:string .
+
+wd:Q30907335 a wd:Q2516436 ;
+    rdfs:label "Q30907335"^^xsd:string .
+
+wd:Q30907343 a wd:Q2516436 ;
+    rdfs:label "Q30907343"^^xsd:string .
+
+wd:Q30907368 a wd:Q2516436 ;
+    rdfs:label "Q30907368"^^xsd:string .
+
+wd:Q30907386 a wd:Q2516436 ;
+    rdfs:label "Q30907386"^^xsd:string .
+
+wd:Q30907387 a wd:Q2516436 ;
+    rdfs:label "Q30907387"^^xsd:string .
+
+wd:Q30907392 a wd:Q2516436 ;
+    rdfs:label "Q30907392"^^xsd:string .
+
+wd:Q30909496 a wd:Q2516436 ;
+    rdfs:label "Q30909496"^^xsd:string .
+
+wd:Q30918024 a wd:Q2516436 ;
+    rdfs:label "Q30918024"^^xsd:string .
+
+wd:Q30932051 a wd:Q2516436 ;
+    rdfs:label "Q30932051"^^xsd:string .
+
+wd:Q3106780 a wd:Q2516436 ;
+    rdfs:label "Q3106780"^^xsd:string .
+
+wd:Q3146580 a wd:Q2516436 ;
+    rdfs:label "Q3146580"^^xsd:string .
+
+wd:Q3146581 a wd:Q2516436 ;
+    rdfs:label "Q3146581"^^xsd:string .
+
+wd:Q3147798 a wd:Q2516436 ;
+    rdfs:label "Q3147798"^^xsd:string .
+
+wd:Q3148706 a wd:Q2516436 ;
+    rdfs:label "Q3148706"^^xsd:string .
+
+wd:Q3148923 a wd:Q2516436 ;
+    rdfs:label "Q3148923"^^xsd:string .
+
+wd:Q3153107 a wd:Q2516436 ;
+    rdfs:label "Q3153107"^^xsd:string .
+
+wd:Q3153108 a wd:Q2516436 ;
+    rdfs:label "Q3153108"^^xsd:string .
+
+wd:Q3153109 a wd:Q2516436 ;
+    rdfs:label "Q3153109"^^xsd:string .
+
+wd:Q3153110 a wd:Q2516436 ;
+    rdfs:label "Q3153110"^^xsd:string .
+
+wd:Q3153111 a wd:Q2516436 ;
+    rdfs:label "Q3153111"^^xsd:string .
+
+wd:Q3153620 a wd:Q2516436 ;
+    rdfs:label "Q3153620"^^xsd:string .
+
+wd:Q3162795 a wd:Q18325841 ;
+    rdfs:label "Sydney Ferries"@en .
+
+wd:Q3211060 a wd:Q2516436 ;
+    rdfs:label "Q3211060"^^xsd:string .
+
+wd:Q32157703 a wd:Q30014735 ;
+    rdfs:label "Buses in Guangzhou"@en .
+
+wd:Q3228078 a wd:Q2516436 ;
+    rdfs:label "Q3228078"^^xsd:string .
+
+wd:Q3233177 a wd:Q2516436 ;
+    rdfs:label "Q3233177"^^xsd:string .
+
+wd:Q3237542 a wd:Q2516436 ;
+    rdfs:label "Q3237542"^^xsd:string .
+
+wd:Q3237670 a wd:Q2516436 ;
+    rdfs:label "Lianes de Lille Métropole"@en .
+
+wd:Q3237969 a wd:Q2516436 ;
+    rdfs:label "Q3237969"^^xsd:string .
+
+wd:Q3240172 a wd:Q2516436 ;
+    rdfs:label "Q3240172"^^xsd:string .
+
+wd:Q3240177 a wd:Q2516436 ;
+    rdfs:label "Q3240177"^^xsd:string .
+
+wd:Q3240179 a wd:Q2516436 ;
+    rdfs:label "Q3240179"^^xsd:string .
+
+wd:Q3240180 a wd:Q2516436 ;
+    rdfs:label "Q3240180"^^xsd:string .
+
+wd:Q3240182 a wd:Q2516436 ;
+    rdfs:label "Q3240182"^^xsd:string .
+
+wd:Q3240183 a wd:Q2516436 ;
+    rdfs:label "Q3240183"^^xsd:string .
+
+wd:Q3240184 a wd:Q2516436 ;
+    rdfs:label "Q3240184"^^xsd:string .
+
+wd:Q3240189 a wd:Q2516436 ;
+    rdfs:label "Q3240189"^^xsd:string .
+
+wd:Q3240190 a wd:Q2516436 ;
+    rdfs:label "Q3240190"^^xsd:string .
+
+wd:Q3240191 a wd:Q2516436 ;
+    rdfs:label "RATP bus special routes"@en .
+
+wd:Q3240192 a wd:Q2516436 ;
+    rdfs:label "Q3240192"^^xsd:string .
+
+wd:Q3240193 a wd:Q2516436 ;
+    rdfs:label "Q3240193"^^xsd:string .
+
+wd:Q3240194 a wd:Q2516436 ;
+    rdfs:label "Q3240194"^^xsd:string .
+
+wd:Q3240195 a wd:Q2516436 ;
+    rdfs:label "Q3240195"^^xsd:string .
+
+wd:Q3240196 a wd:Q2516436 ;
+    rdfs:label "Q3240196"^^xsd:string .
+
+wd:Q3240197 a wd:Q2516436 ;
+    rdfs:label "Q3240197"^^xsd:string .
+
+wd:Q3240198 a wd:Q2516436 ;
+    rdfs:label "Q3240198"^^xsd:string .
+
+wd:Q3240208 a wd:Q2516436 ;
+    rdfs:label "Q3240208"^^xsd:string .
+
+wd:Q3240211 a wd:Q2516436 ;
+    rdfs:label "Q3240211"^^xsd:string .
+
+wd:Q3240212 a wd:Q2516436 ;
+    rdfs:label "Q3240212"^^xsd:string .
+
+wd:Q3250959 a wd:Q30014735 ;
+    rdfs:label "bus transport in Marseille"@en .
+
+wd:Q3271384 a wd:Q2516436 ;
+    rdfs:label "Rapid KL"@en .
+
+wd:Q3276317 a wd:Q2516436 ;
+    rdfs:label "Q3276317"^^xsd:string .
+
+wd:Q3282043 a wd:Q2516436 ;
+    rdfs:label "Q3282043"^^xsd:string .
+
+wd:Q32843894 a wd:Q18325841 ;
+    rdfs:label "Yan'an Road Medium Capacity Bus Transit System"@en .
+
+wd:Q3290655 a wd:Q2516436 ;
+    rdfs:label "Q3290655"^^xsd:string .
+
+wd:Q3301939 a wd:Q2516436 ;
+    rdfs:label "TERGV"@en .
+
+wd:Q33026731 a wd:Q2516436 ;
+    rdfs:label "L'Urbanet"@en .
+
+wd:Q3315680 a wd:Q2516436 ;
+    rdfs:label "Q3315680"^^xsd:string .
+
+wd:Q3317654 a wd:Q2516436 ;
+    rdfs:label "Q3317654"^^xsd:string .
+
+wd:Q3317964 a wd:Q2516436 ;
+    rdfs:label "Q3317964"^^xsd:string .
+
+wd:Q3324716 a wd:Q2516436 ;
+    rdfs:label "Q3324716"^^xsd:string .
+
+wd:Q3337258 a wd:Q2516436 ;
+    rdfs:label "Navibus"@en .
+
+wd:Q3342593 a wd:Q2516436 ;
+    rdfs:label "Q3342593"^^xsd:string .
+
+wd:Q3342598 a wd:Q2516436 ;
+    rdfs:label "Q3342598"^^xsd:string .
+
+wd:Q336061 a wd:Q2516436 ;
+    rdfs:label "SATUOeiras"@en .
+
+wd:Q3377293 a wd:Q2516436 ;
+    rdfs:label "Petit train de banlieue"@en .
+
+wd:Q3399835 a wd:Q30014735 ;
+    rdfs:label "Q3399835"^^xsd:string .
+
+wd:Q3400178 a wd:Q18199879 ;
+    rdfs:label "Q3400178"^^xsd:string .
+
+wd:Q3411898 a wd:Q2516436 ;
+    rdfs:label "Q3411898"^^xsd:string .
+
+wd:Q3415146 a wd:Q2516436 ;
+    rdfs:label "RER Lille - Bassin minier"@en .
+
+wd:Q3419604 a wd:Q30014735 ;
+    rdfs:label "Q3419604"^^xsd:string .
+
+wd:Q3456518 a wd:Q2516436 ;
+    rdfs:label "Réseau interurbain du Bas-Rhin"@en .
+
+wd:Q3456576 a wd:Q2516436 ;
+    rdfs:label "Réseau Mistral"@en .
+
+wd:Q3456600 a wd:Q2516436 ;
+    rdfs:label "Q3456600"^^xsd:string .
+
+wd:Q3456751 a wd:Q2516436 ;
+    rdfs:label "Q3456751"^^xsd:string .
+
+wd:Q3456771 a wd:Q2516436 ;
+    rdfs:label "Q3456771"^^xsd:string .
+
+wd:Q3456841 a wd:Q2516436 ;
+    rdfs:label "Q3456841"^^xsd:string .
+
+wd:Q3456845 a wd:Q2516436 ;
+    rdfs:label "Réseau interurbain de Haute-Savoie"@en .
+
+wd:Q3456846 a wd:Q2516436 ;
+    rdfs:label "Q3456846"^^xsd:string .
+
+wd:Q3456848 a wd:Q2516436 ;
+    rdfs:label "Q3456848"^^xsd:string .
+
+wd:Q3456852 a wd:Q2516436 ;
+    rdfs:label "Q3456852"^^xsd:string .
+
+wd:Q3456854 a wd:Q2516436 ;
+    rdfs:label "Q3456854"^^xsd:string .
+
+wd:Q3456857 a wd:Q2516436 ;
+    rdfs:label "Q3456857"^^xsd:string .
+
+wd:Q3456858 a wd:Q2516436 ;
+    rdfs:label "Q3456858"^^xsd:string .
+
+wd:Q3456860 a wd:Q2516436 ;
+    rdfs:label "Q3456860"^^xsd:string .
+
+wd:Q3456863 a wd:Q2516436 ;
+    rdfs:label "Manéo"@en .
+
+wd:Q3456864 a wd:Q2516436 ;
+    rdfs:label "Q3456864"^^xsd:string .
+
+wd:Q3456869 a wd:Q2516436 ;
+    rdfs:label "Q3456869"^^xsd:string .
+
+wd:Q3456871 a wd:Q2516436 ;
+    rdfs:label "Q3456871"^^xsd:string .
+
+wd:Q3456881 a wd:Q2516436 ;
+    rdfs:label "Q3456881"^^xsd:string .
+
+wd:Q3456882 a wd:Q2516436 ;
+    rdfs:label "Q3456882"^^xsd:string .
+
+wd:Q3457061 a wd:Q2516436 ;
+    rdfs:label "Q3457061"^^xsd:string .
+
+wd:Q3457093 a wd:Q2516436 ;
+    rdfs:label "Baïa"@en .
+
+wd:Q3480395 a wd:Q2516436 ;
+    rdfs:label "Q3480395"^^xsd:string .
+
+wd:Q3480422 a wd:Q2516436 ;
+    rdfs:label "Q3480422"^^xsd:string .
+
+wd:Q3480441 a wd:Q2516436 ;
+    rdfs:label "Q3480441"^^xsd:string .
+
+wd:Q3488202 a wd:Q2516436 ;
+    rdfs:label "Q3488202"^^xsd:string .
+
+wd:Q3488233 a wd:Q2516436 ;
+    rdfs:label "Q3488233"^^xsd:string .
+
+wd:Q3499385 a wd:Q2516436 ;
+    rdfs:label "Q3499385"^^xsd:string .
+
+wd:Q3505218 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Warsaw"@en .
+
+wd:Q3506405 a wd:Q18199879 ;
+    rdfs:label "Q3506405"^^xsd:string .
+
+wd:Q3506734 a wd:Q18199879 ;
+    rdfs:label "Q3506734"^^xsd:string .
+
+wd:Q3506761 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Kutaisi"@en .
+
+wd:Q3506801 a wd:Q18199879 ;
+    rdfs:label "Q3506801"^^xsd:string .
+
+wd:Q3506976 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Tychy"@en .
+
+wd:Q3507534 a wd:Q18199879 ;
+    rdfs:label "Q3507534"^^xsd:string .
+
+wd:Q3507635 a wd:Q18199879 ;
+    rdfs:label "Q3507635"^^xsd:string .
+
+wd:Q3510266 a wd:Q18199879 ;
+    rdfs:label "Q3510266"^^xsd:string .
+
+wd:Q3510593 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Chelyabinsk"@en .
+
+wd:Q3510603 a wd:Q18199879 ;
+    rdfs:label "Trolleybus transport in Vinnytsia"@en .
+
+wd:Q3510635 a wd:Q18199879 ;
+    rdfs:label "Q3510635"^^xsd:string .
+
+wd:Q35108303 a wd:Q2516436 ;
+    rdfs:label "Vël'Ok"@en .
+
+wd:Q3511872 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Debrecen"@en .
+
+wd:Q3512075 a wd:Q30014735 ;
+    rdfs:label "TEC Hainaut"@en .
+
+wd:Q3512081 a wd:Q2516436 ;
+    rdfs:label "Q3512081"^^xsd:string .
+
+wd:Q3512114 a wd:Q2516436 ;
+    rdfs:label "Q3512114"^^xsd:string .
+
+wd:Q3512121 a wd:Q2516436 ;
+    rdfs:label "TER Vallée de la Marne"@en .
+
+wd:Q3512143 a wd:Q2516436 ;
+    rdfs:label "Q3512143"^^xsd:string .
+
+wd:Q3514545 a wd:Q2516436 ;
+    rdfs:label "Q3514545"^^xsd:string .
+
+wd:Q3514612 a wd:Q2516436 ;
+    rdfs:label "Q3514612"^^xsd:string .
+
+wd:Q3515754 a wd:Q2516436 ;
+    rdfs:label "Q3515754"^^xsd:string .
+
+wd:Q3525947 a wd:Q2516436 ;
+    rdfs:label "Q3525947"^^xsd:string .
+
+wd:Q3533895 a wd:Q2516436 ;
+    rdfs:label "Q3533895"^^xsd:string .
+
+wd:Q3537048 a wd:Q2516436 ;
+    rdfs:label "Q3537048"^^xsd:string .
+
+wd:Q3537076 a wd:Q2516436 ;
+    rdfs:label "Q3537076"^^xsd:string .
+
+wd:Q3537078 a wd:Q2516436 ;
+    rdfs:label "Q3537078"^^xsd:string .
+
+wd:Q3537088 a wd:Q2516436 ;
+    rdfs:label "Q3537088"^^xsd:string .
+
+wd:Q3537217 a wd:Q2516436 ;
+    rdfs:label "Tramway de Troyes"@en .
+
+wd:Q3537253 a wd:Q2516436 ;
+    rdfs:label "Tramways de Savoie"@en .
+
+wd:Q3537256 a wd:Q2516436 ;
+    rdfs:label "Q3537256"^^xsd:string .
+
+wd:Q3537266 a wd:Q2516436 ;
+    rdfs:label "Q3537266"^^xsd:string .
+
+wd:Q3537267 a wd:Q2516436 ;
+    rdfs:label "Q3537267"^^xsd:string .
+
+wd:Q3537276 a wd:Q2516436 ;
+    rdfs:label "Poix vicinal tram lines"@en .
+
+wd:Q3537277 a wd:Q2516436 ;
+    rdfs:label "Q3537277"^^xsd:string .
+
+wd:Q3537339 a wd:Q2516436 ;
+    rdfs:label "Q3537339"^^xsd:string .
+
+wd:Q3537389 a wd:Q2516436 ;
+    rdfs:label "Q3537389"^^xsd:string .
+
+wd:Q3537393 a wd:Q2516436 ;
+    rdfs:label "Q3537393"^^xsd:string .
+
+wd:Q3537812 a wd:Q2516436 ;
+    rdfs:label "Q3537812"^^xsd:string .
+
+wd:Q3537813 a wd:Q2516436 ;
+    rdfs:label "Q3537813"^^xsd:string .
+
+wd:Q3537839 a wd:Q2516436 ;
+    rdfs:label "Q3537839"^^xsd:string .
+
+wd:Q3537875 a wd:Q2516436 ;
+    rdfs:label "Q3537875"^^xsd:string .
+
+wd:Q3537898 a wd:Q2516436 ;
+    rdfs:label "Q3537898"^^xsd:string .
+
+wd:Q3537899 a wd:Q2516436 ;
+    rdfs:label "Q3537899"^^xsd:string .
+
+wd:Q3537904 a wd:Q2516436 ;
+    rdfs:label "Transports annemassiens collectifs"@en .
+
+wd:Q3537913 a wd:Q2516436 ;
+    rdfs:label "Q3537913"^^xsd:string .
+
+wd:Q3537917 a wd:Q2516436 ;
+    rdfs:label "Transports de l'agglomération de Charleville-Mézières"@en .
+
+wd:Q3537919 a wd:Q2516436 ;
+    rdfs:label "Q3537919"^^xsd:string .
+
+wd:Q3537921 a wd:Q2516436 ;
+    rdfs:label "Q3537921"^^xsd:string .
+
+wd:Q3537923 a wd:Q2516436 ;
+    rdfs:label "Q3537923"^^xsd:string .
+
+wd:Q3537926 a wd:Q2516436 ;
+    rdfs:label "Q3537926"^^xsd:string .
+
+wd:Q3537930 a wd:Q2516436 ;
+    rdfs:label "Q3537930"^^xsd:string .
+
+wd:Q3537931 a wd:Q2516436 ;
+    rdfs:label "Q3537931"^^xsd:string .
+
+wd:Q3537934 a wd:Q2516436 ;
+    rdfs:label "Q3537934"^^xsd:string .
+
+wd:Q3537935 a wd:Q2516436 ;
+    rdfs:label "Q3537935"^^xsd:string .
+
+wd:Q3537937 a wd:Q2516436 ;
+    rdfs:label "Q3537937"^^xsd:string .
+
+wd:Q3537939 a wd:Q2516436 ;
+    rdfs:label "Q3537939"^^xsd:string .
+
+wd:Q3537943 a wd:Q2516436 ;
+    rdfs:label "Q3537943"^^xsd:string .
+
+wd:Q3537945 a wd:Q2516436 ;
+    rdfs:label "Q3537945"^^xsd:string .
+
+wd:Q3537946 a wd:Q2516436 ;
+    rdfs:label "Q3537946"^^xsd:string .
+
+wd:Q3537947 a wd:Q2516436 ;
+    rdfs:label "Twisto"@en .
+
+wd:Q3537948 a wd:Q2516436 ;
+    rdfs:label "Q3537948"^^xsd:string .
+
+wd:Q3537952 a wd:Q2516436 ;
+    rdfs:label "Q3537952"^^xsd:string .
+
+wd:Q3537953 a wd:Q2516436 ;
+    rdfs:label "Q3537953"^^xsd:string .
+
+wd:Q3537954 a wd:Q2516436 ;
+    rdfs:label "Q3537954"^^xsd:string .
+
+wd:Q3537955 a wd:Q2516436 ;
+    rdfs:label "Q3537955"^^xsd:string .
+
+wd:Q3537956 a wd:Q2516436 ;
+    rdfs:label "Q3537956"^^xsd:string .
+
+wd:Q3537957 a wd:Q2516436 ;
+    rdfs:label "Q3537957"^^xsd:string .
+
+wd:Q3537958 a wd:Q2516436 ;
+    rdfs:label "Q3537958"^^xsd:string .
+
+wd:Q3537959 a wd:Q2516436 ;
+    rdfs:label "Q3537959"^^xsd:string .
+
+wd:Q3537960 a wd:Q2516436 ;
+    rdfs:label "Q3537960"^^xsd:string .
+
+wd:Q3537961 a wd:Q2516436 ;
+    rdfs:label "Q3537961"^^xsd:string .
+
+wd:Q3537963 a wd:Q2516436 ;
+    rdfs:label "Q3537963"^^xsd:string .
+
+wd:Q3537965 a wd:Q2516436 ;
+    rdfs:label "Q3537965"^^xsd:string .
+
+wd:Q3537975 a wd:Q2516436 ;
+    rdfs:label "Q3537975"^^xsd:string .
+
+wd:Q3537977 a wd:Q2516436 ;
+    rdfs:label "Q3537977"^^xsd:string .
+
+wd:Q3537981 a wd:Q2516436 ;
+    rdfs:label "Q3537981"^^xsd:string .
+
+wd:Q3537984 a wd:Q2516436 ;
+    rdfs:label "Q3537984"^^xsd:string .
+
+wd:Q3537985 a wd:Q2516436 ;
+    rdfs:label "Q3537985"^^xsd:string .
+
+wd:Q3540245 a wd:Q2516436 ;
+    rdfs:label "Q3540245"^^xsd:string .
+
+wd:Q3540246 a wd:Q18199879 ;
+    rdfs:label "Q3540246"^^xsd:string .
+
+wd:Q3540247 a wd:Q18199879 ;
+    rdfs:label "Trolleybus in Belfort"@en .
+
+wd:Q3540248 a wd:Q2516436 ;
+    rdfs:label "Q3540248"^^xsd:string .
+
+wd:Q3540249 a wd:Q2516436 ;
+    rdfs:label "Q3540249"^^xsd:string .
+
+wd:Q3540250 a wd:Q2516436 ;
+    rdfs:label "Q3540250"^^xsd:string .
+
+wd:Q3540251 a wd:Q2516436 ;
+    rdfs:label "Q3540251"^^xsd:string .
+
+wd:Q3540252 a wd:Q2516436 ;
+    rdfs:label "Forbach trolleybus"@en .
+
+wd:Q3540253 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses de Grenoble"@en .
+
+wd:Q3540254 a wd:Q2516436 ;
+    rdfs:label "Q3540254"^^xsd:string .
+
+wd:Q3540255 a wd:Q2516436 ;
+    rdfs:label "Q3540255"^^xsd:string .
+
+wd:Q3540257 a wd:Q2516436 ;
+    rdfs:label "Q3540257"^^xsd:string .
+
+wd:Q3540259 a wd:Q2516436 ;
+    rdfs:label "Q3540259"^^xsd:string .
+
+wd:Q3540261 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Mykolaiv"@en .
+
+wd:Q3540262 a wd:Q2516436 ;
+    rdfs:label "Q3540262"^^xsd:string .
+
+wd:Q3540263 a wd:Q2516436 ;
+    rdfs:label "Q3540263"^^xsd:string .
+
+wd:Q3540264 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Philadelphia"@en .
+
+wd:Q3540265 a wd:Q18199879 ;
+    rdfs:label "Trolleybus of Strasbourg"@en .
+
+wd:Q3540266 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in Saint-Étienne"@en .
+
+wd:Q3540267 a wd:Q2516436 ;
+    rdfs:label "Q3540267"^^xsd:string .
+
+wd:Q3540268 a wd:Q18199879 ;
+    rdfs:label "Q3540268"^^xsd:string .
+
+wd:Q3540269 a wd:Q2516436 ;
+    rdfs:label "Q3540269"^^xsd:string .
+
+wd:Q3546821 a wd:Q2516436 ;
+    rdfs:label "Q3546821"^^xsd:string .
+
+wd:Q3548120 a wd:Q2516436 ;
+    rdfs:label "Q3548120"^^xsd:string .
+
+wd:Q3552253 a wd:Q2516436 ;
+    rdfs:label "Q3552253"^^xsd:string .
+
+wd:Q3552895 a wd:Q2516436 ;
+    rdfs:label "Q3552895"^^xsd:string .
+
+wd:Q3554654 a wd:Q2516436 ;
+    rdfs:label "Vaporetto de Lyon"@en .
+
+wd:Q3554842 a wd:Q2516436 ;
+    rdfs:label "Q3554842"^^xsd:string .
+
+wd:Q3555294 a wd:Q2516436 ;
+    rdfs:label "Q3555294"^^xsd:string .
+
+wd:Q3555671 a wd:Q2516436 ;
+    rdfs:label "Q3555671"^^xsd:string .
+
+wd:Q3555675 a wd:Q2516436 ;
+    rdfs:label "Q3555675"^^xsd:string .
+
+wd:Q3555676 a wd:Q2516436 ;
+    rdfs:label "Q3555676"^^xsd:string .
+
+wd:Q3555679 a wd:Q2516436 ;
+    rdfs:label "Q3555679"^^xsd:string .
+
+wd:Q3555681 a wd:Q2516436 ;
+    rdfs:label "Établissement Transdev de Rambouillet"@en .
+
+wd:Q3561906 a wd:Q18199879 ;
+    rdfs:label "Trolleybus transport in Ostrava"@en .
+
+wd:Q3564030 a wd:Q2516436 ;
+    rdfs:label "Q3564030"^^xsd:string .
+
+wd:Q3570399 a wd:Q2516436 ;
+    rdfs:label "Q3570399"^^xsd:string .
+
+wd:Q3576504 a wd:Q2516436 ;
+    rdfs:label "Q3576504"^^xsd:string .
+
+wd:Q3700291 a wd:Q2516436 ;
+    rdfs:label "Q3700291"^^xsd:string .
+
+wd:Q37043990 a wd:Q2516436 ;
+    rdfs:label "Transports Région Arlysère"@en .
+
+wd:Q373725 a wd:Q2516436 ;
+    rdfs:label "Transilien Paris – Est"@en .
+
+wd:Q3752562 a wd:Q2516436 ;
+    rdfs:label "Q3752562"^^xsd:string .
+
+wd:Q3752582 a wd:Q2516436 ;
+    rdfs:label "Q3752582"^^xsd:string .
+
+wd:Q3752588 a wd:Q2516436 ;
+    rdfs:label "Q3752588"^^xsd:string .
+
+wd:Q3752590 a wd:Q2516436 ;
+    rdfs:label "Q3752590"^^xsd:string .
+
+wd:Q3759188 a wd:Q2516436 ;
+    rdfs:label "Q3759188"^^xsd:string .
+
+wd:Q377695 a wd:Q18325841 ;
+    rdfs:label "Transports Bordeaux Métropole"@en .
+
+wd:Q3832731 a wd:Q2516436 ;
+    rdfs:label "S20"@en .
+
+wd:Q3832740 a wd:Q2516436 ;
+    rdfs:label "Line S30"@en .
+
+wd:Q3836539 a wd:Q2516436 ;
+    rdfs:label "Q3836539"^^xsd:string .
+
+wd:Q384842 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in Limoges"@en .
+
+wd:Q3853911 a wd:Q30014735 ;
+    rdfs:label "Megabus"@en .
+
+wd:Q3878564 a wd:Q2516436 ;
+    rdfs:label "Q3878564"^^xsd:string .
+
+wd:Q390225 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in Montreux/Vevey"@en .
+
+wd:Q3905818 a wd:Q2516436 ;
+    rdfs:label "Q3905818"^^xsd:string .
+
+wd:Q39075236 a wd:Q2516436 ;
+    rdfs:label "Q39075236"^^xsd:string .
+
+wd:Q39075313 a wd:Q2516436 ;
+    rdfs:label "Q39075313"^^xsd:string .
+
+wd:Q39075503 a wd:Q2516436 ;
+    rdfs:label "Q39075503"^^xsd:string .
+
+wd:Q39075623 a wd:Q2516436 ;
+    rdfs:label "Q39075623"^^xsd:string .
+
+wd:Q39075753 a wd:Q2516436 ;
+    rdfs:label "Q39075753"^^xsd:string .
+
+wd:Q39081226 a wd:Q2516436 ;
+    rdfs:label "Q39081226"^^xsd:string .
+
+wd:Q39081987 a wd:Q2516436 ;
+    rdfs:label "Q39081987"^^xsd:string .
+
+wd:Q39081989 a wd:Q2516436 ;
+    rdfs:label "Q39081989"^^xsd:string .
+
+wd:Q39082001 a wd:Q2516436 ;
+    rdfs:label "Q39082001"^^xsd:string .
+
+wd:Q39082071 a wd:Q2516436 ;
+    rdfs:label "Q39082071"^^xsd:string .
+
+wd:Q39082077 a wd:Q2516436 ;
+    rdfs:label "Q39082077"^^xsd:string .
+
+wd:Q39082078 a wd:Q2516436 ;
+    rdfs:label "Q39082078"^^xsd:string .
+
+wd:Q39082114 a wd:Q2516436 ;
+    rdfs:label "Q39082114"^^xsd:string .
+
+wd:Q39082115 a wd:Q2516436 ;
+    rdfs:label "Q39082115"^^xsd:string .
+
+wd:Q39082116 a wd:Q2516436 ;
+    rdfs:label "Q39082116"^^xsd:string .
+
+wd:Q391211 a wd:Q2516436 ;
+    rdfs:label "Šargan Eight"@en .
+
+wd:Q3919327 a wd:Q30014735 ;
+    rdfs:label "Q3919327"^^xsd:string .
+
+wd:Q3933649 a wd:Q18199879 ;
+    rdfs:label "Q3933649"^^xsd:string .
+
+wd:Q3933651 a wd:Q18199879 ;
+    rdfs:label "Q3933651"^^xsd:string .
+
+wd:Q3933652 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in La Spezia"@en .
+
+wd:Q3933653 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Ancona"@en .
+
+wd:Q3933654 a wd:Q18199879 ;
+    rdfs:label "Q3933654"^^xsd:string .
+
+wd:Q3933655 a wd:Q18199879 ;
+    rdfs:label "Q3933655"^^xsd:string .
+
+wd:Q3933656 a wd:Q18199879 ;
+    rdfs:label "Q3933656"^^xsd:string .
+
+wd:Q3933657 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Bologna"@en .
+
+wd:Q3933659 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Cremona"@en .
+
+wd:Q3933661 a wd:Q2516436 ;
+    rdfs:label "trolleybuses in Cagliari"@en .
+
+wd:Q3933662 a wd:Q18199879 ;
+    rdfs:label "Q3933662"^^xsd:string .
+
+wd:Q3933663 a wd:Q18199879 ;
+    rdfs:label "Q3933663"^^xsd:string .
+
+wd:Q3933664 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in Lecce"@en .
+
+wd:Q3933666 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in Modena"@en .
+
+wd:Q3933667 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Parma"@en .
+
+wd:Q3933668 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Naples"@en .
+
+wd:Q3933672 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Rome"@en .
+
+wd:Q3933680 a wd:Q2516436 ;
+    rdfs:label "Rete tranviaria di Catania"@en .
+
+wd:Q3933682 a wd:Q2516436 ;
+    rdfs:label "Q3933682"^^xsd:string .
+
+wd:Q3945888 a wd:Q2516436 ;
+    rdfs:label "Trenhotel Salvador Dalí"@en .
+
+wd:Q3958081 a wd:Q2516436 ;
+    rdfs:label "Q3958081"^^xsd:string .
+
+wd:Q3997483 a wd:Q2516436 ;
+    rdfs:label "Q3997483"^^xsd:string .
+
+wd:Q3997636 a wd:Q2516436 ;
+    rdfs:label "Q3997636"^^xsd:string .
+
+wd:Q3998262 a wd:Q2516436 ;
+    rdfs:label "Q3998262"^^xsd:string .
+
+wd:Q3998275 a wd:Q2516436 ;
+    rdfs:label "Q3998275"^^xsd:string .
+
+wd:Q4047775 a wd:Q30014735 ;
+    rdfs:label "Quickline"@en .
+
+wd:Q4056174 a wd:Q30014735 ;
+    rdfs:label "Q4056174"^^xsd:string .
+
+wd:Q4062763 a wd:Q30014735 ;
+    rdfs:label "Q4062763"^^xsd:string .
+
+wd:Q4062773 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Almaty"@en .
+
+wd:Q4063225 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Alchevsk"@en .
+
+wd:Q4063512 a wd:Q18199879 ;
+    rdfs:label "Q4063512"^^xsd:string .
+
+wd:Q4064857 a wd:Q30014735 ;
+    rdfs:label "Q4064857"^^xsd:string .
+
+wd:Q4067595 a wd:Q18199879 ;
+    rdfs:label "Q4067595"^^xsd:string .
+
+wd:Q4069541 a wd:Q18199879 ;
+    rdfs:label "Q4069541"^^xsd:string .
+
+wd:Q4070458 a wd:Q18199879 ;
+    rdfs:label "Q4070458"^^xsd:string .
+
+wd:Q4070601 a wd:Q30014735 ;
+    rdfs:label "Q4070601"^^xsd:string .
+
+wd:Q4070625 a wd:Q18199879 ;
+    rdfs:label "Q4070625"^^xsd:string .
+
+wd:Q4071736 a wd:Q18199879 ;
+    rdfs:label "Q4071736"^^xsd:string .
+
+wd:Q4076327 a wd:Q18199879 ;
+    rdfs:label "Q4076327"^^xsd:string .
+
+wd:Q4077790 a wd:Q30014735 ;
+    rdfs:label "Q4077790"^^xsd:string .
+
+wd:Q4078392 a wd:Q30014735 ;
+    rdfs:label "Q4078392"^^xsd:string .
+
+wd:Q4078421 a wd:Q18199879 ;
+    rdfs:label "Q4078421"^^xsd:string .
+
+wd:Q4081719 a wd:Q30014735 ;
+    rdfs:label "Q4081719"^^xsd:string .
+
+wd:Q4081733 a wd:Q18199879 ;
+    rdfs:label "Q4081733"^^xsd:string .
+
+wd:Q4082937 a wd:Q18199879 ;
+    rdfs:label "тролейбус"@en .
+
+wd:Q4083356 a wd:Q18199879 ;
+    rdfs:label "Q4083356"^^xsd:string .
+
+wd:Q4083701 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Bender"@en .
+
+wd:Q4084510 a wd:Q18199879 ;
+    rdfs:label "Q4084510"^^xsd:string .
+
+wd:Q4086547 a wd:Q30014735 ;
+    rdfs:label "Q4086547"^^xsd:string .
+
+wd:Q4087650 a wd:Q18199879 ;
+    rdfs:label "Q4087650"^^xsd:string .
+
+wd:Q4087789 a wd:Q18199879 ;
+    rdfs:label "Q4087789"^^xsd:string .
+
+wd:Q4095966 a wd:Q18199879 ;
+    rdfs:label "Q4095966"^^xsd:string .
+
+wd:Q4096563 a wd:Q2516436 ;
+    rdfs:label "Trams in Brisbane"@en .
+
+wd:Q4097562 a wd:Q18199879 ;
+    rdfs:label "Q4097562"^^xsd:string .
+
+wd:Q4110660 a wd:Q18199879 ;
+    rdfs:label "Q4110660"^^xsd:string .
+
+wd:Q4112962 a wd:Q30014735 ;
+    rdfs:label "Q4112962"^^xsd:string .
+
+wd:Q4112970 a wd:Q18199879 ;
+    rdfs:label "Q4112970"^^xsd:string .
+
+wd:Q4112984 a wd:Q18199879 ;
+    rdfs:label "Q4112984"^^xsd:string .
+
+wd:Q4113275 a wd:Q30014735 ;
+    rdfs:label "Q4113275"^^xsd:string .
+
+wd:Q4113296 a wd:Q18199879 ;
+    rdfs:label "Q4113296"^^xsd:string .
+
+wd:Q4122963 a wd:Q30014735 ;
+    rdfs:label "Q4122963"^^xsd:string .
+
+wd:Q4122990 a wd:Q18199879 ;
+    rdfs:label "Q4122990"^^xsd:string .
+
+wd:Q4123005 a wd:Q30014735 ;
+    rdfs:label "Q4123005"^^xsd:string .
+
+wd:Q4123697 a wd:Q30014735 ;
+    rdfs:label "Q4123697"^^xsd:string .
+
+wd:Q4123712 a wd:Q18199879 ;
+    rdfs:label "Q4123712"^^xsd:string .
+
+wd:Q4123951 a wd:Q30014735 ;
+    rdfs:label "Q4123951"^^xsd:string .
+
+wd:Q4125406 a wd:Q30014735 ;
+    rdfs:label "Q4125406"^^xsd:string .
+
+wd:Q4125429 a wd:Q18199879 ;
+    rdfs:label "Q4125429"^^xsd:string .
+
+wd:Q4128546 a wd:Q30014735 ;
+    rdfs:label "Q4128546"^^xsd:string .
+
+wd:Q4142917 a wd:Q30014735 ;
+    rdfs:label "Q4142917"^^xsd:string .
+
+wd:Q4144468 a wd:Q18199879 ;
+    rdfs:label "Q4144468"^^xsd:string .
+
+wd:Q4144546 a wd:Q30014735 ;
+    rdfs:label "Q4144546"^^xsd:string .
+
+wd:Q4150088 a wd:Q18199879 ;
+    rdfs:label "Q4150088"^^xsd:string .
+
+wd:Q4153292 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Ganja, Azerbaijan"@en .
+
+wd:Q4155232 a wd:Q30014735 ;
+    rdfs:label "Bus transport in Daugavpils"@en .
+
+wd:Q4160808 a wd:Q30014735 ;
+    rdfs:label "Q4160808"^^xsd:string .
+
+wd:Q4160820 a wd:Q18199879 ;
+    rdfs:label "Q4160820"^^xsd:string .
+
+wd:Q4160824 a wd:Q18199879 ;
+    rdfs:label "Q4160824"^^xsd:string .
+
+wd:Q4163245 a wd:Q18199879 ;
+    rdfs:label "Trolleybus transport in Dnipro"@en .
+
+wd:Q4163761 a wd:Q18199879 ;
+    rdfs:label "Q4163761"^^xsd:string .
+
+wd:Q4166257 a wd:Q18199879 ;
+    rdfs:label "Q4166257"^^xsd:string .
+
+wd:Q4174307 a wd:Q30014735 ;
+    rdfs:label "Q4174307"^^xsd:string .
+
+wd:Q4174323 a wd:Q18199879 ;
+    rdfs:label "Q4174323"^^xsd:string .
+
+wd:Q4180736 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Zhytomyr"@en .
+
+wd:Q4186933 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Zaporizhzhya"@en .
+
+wd:Q4195894 a wd:Q18199879 ;
+    rdfs:label "Trolleybuse transport in Ivano-Frankivsk"@en .
+
+wd:Q4196656 a wd:Q30014735 ;
+    rdfs:label "Q4196656"^^xsd:string .
+
+wd:Q4196711 a wd:Q18199879 ;
+    rdfs:label "Q4196711"^^xsd:string .
+
+wd:Q4198181 a wd:Q30014735 ;
+    rdfs:label "Q4198181"^^xsd:string .
+
+wd:Q4198192 a wd:Q18199879 ;
+    rdfs:label "Q4198192"^^xsd:string .
+
+wd:Q4201368 a wd:Q18199879 ;
+    rdfs:label "Q4201368"^^xsd:string .
+
+wd:Q4203300 a wd:Q30014735 ;
+    rdfs:label "Q4203300"^^xsd:string .
+
+wd:Q4205584 a wd:Q30014735 ;
+    rdfs:label "Q4205584"^^xsd:string .
+
+wd:Q4206048 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Yoshkar-Ola"@en .
+
+wd:Q4207834 a wd:Q18199879 ;
+    rdfs:label "Q4207834"^^xsd:string .
+
+wd:Q4209546 a wd:Q30014735 ;
+    rdfs:label "Q4209546"^^xsd:string .
+
+wd:Q4209556 a wd:Q18199879 ;
+    rdfs:label "Q4209556"^^xsd:string .
+
+wd:Q4210426 a wd:Q18199879 ;
+    rdfs:label "Q4210426"^^xsd:string .
+
+wd:Q4213695 a wd:Q18199879 ;
+    rdfs:label "Q4213695"^^xsd:string .
+
+wd:Q4217999 a wd:Q18199879 ;
+    rdfs:label "Q4217999"^^xsd:string .
+
+wd:Q4219244 a wd:Q18199879 ;
+    rdfs:label "Q4219244"^^xsd:string .
+
+wd:Q4220268 a wd:Q30014735 ;
+    rdfs:label "Q4220268"^^xsd:string .
+
+wd:Q4221601 a wd:Q18199879 ;
+    rdfs:label "Q4221601"^^xsd:string .
+
+wd:Q4221638 a wd:Q30014735 ;
+    rdfs:label "Q4221638"^^xsd:string .
+
+wd:Q4221720 a wd:Q18199879 ;
+    rdfs:label "Q4221720"^^xsd:string .
+
+wd:Q4221724 a wd:Q2516436 ;
+    rdfs:label "Q4221724"^^xsd:string .
+
+wd:Q4222658 a wd:Q30014735 ;
+    rdfs:label "Q4222658"^^xsd:string .
+
+wd:Q4222667 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Chișinău"@en .
+
+wd:Q4224238 a wd:Q18199879 ;
+    rdfs:label "Q4224238"^^xsd:string .
+
+wd:Q4225853 a wd:Q18199879 ;
+    rdfs:label "Q4225853"^^xsd:string .
+
+wd:Q4235590 a wd:Q18199879 ;
+    rdfs:label "Q4235590"^^xsd:string .
+
+wd:Q4237550 a wd:Q18199879 ;
+    rdfs:label "Q4237550"^^xsd:string .
+
+wd:Q4238569 a wd:Q18199879 ;
+    rdfs:label "Q4238569"^^xsd:string .
+
+wd:Q4239240 a wd:Q30014735 ;
+    rdfs:label "Q4239240"^^xsd:string .
+
+wd:Q4239280 a wd:Q18199879 ;
+    rdfs:label "Q4239280"^^xsd:string .
+
+wd:Q4240129 a wd:Q18199879 ;
+    rdfs:label "Q4240129"^^xsd:string .
+
+wd:Q4240833 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Kryvyi Rih"@en .
+
+wd:Q4248063 a wd:Q30014735 ;
+    rdfs:label "Q4248063"^^xsd:string .
+
+wd:Q4248094 a wd:Q18199879 ;
+    rdfs:label "Q4248094"^^xsd:string .
+
+wd:Q4248846 a wd:Q30014735 ;
+    rdfs:label "Q4248846"^^xsd:string .
+
+wd:Q4248865 a wd:Q18199879 ;
+    rdfs:label "Q4248865"^^xsd:string .
+
+wd:Q4258259 a wd:Q18199879 ;
+    rdfs:label "Trolley of Leninsk-Kuznetsky"@en .
+
+wd:Q4260974 a wd:Q30014735 ;
+    rdfs:label "Q4260974"^^xsd:string .
+
+wd:Q4262480 a wd:Q30014735 ;
+    rdfs:label "Q4262480"^^xsd:string .
+
+wd:Q4262511 a wd:Q18199879 ;
+    rdfs:label "Q4262511"^^xsd:string .
+
+wd:Q4263177 a wd:Q18199879 ;
+    rdfs:label "Q4263177"^^xsd:string .
+
+wd:Q4267935 a wd:Q18199879 ;
+    rdfs:label "Q4267935"^^xsd:string .
+
+wd:Q4270066 a wd:Q18199879 ;
+    rdfs:label "Trolleybus transport in Lutsk"@en .
+
+wd:Q4275691 a wd:Q18199879 ;
+    rdfs:label "Q4275691"^^xsd:string .
+
+wd:Q4279480 a wd:Q30014735 ;
+    rdfs:label "Buses in Malta"@en .
+
+wd:Q4281575 a wd:Q30014735 ;
+    rdfs:label "Q4281575"^^xsd:string .
+
+wd:Q4281597 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Mariupol"@en .
+
+wd:Q4285679 a wd:Q30014735 ;
+    rdfs:label "Q4285679"^^xsd:string .
+
+wd:Q4285682 a wd:Q18199879 ;
+    rdfs:label "Q4285682"^^xsd:string .
+
+wd:Q4289524 a wd:Q30014735 ;
+    rdfs:label "Q4289524"^^xsd:string .
+
+wd:Q4289535 a wd:Q18199879 ;
+    rdfs:label "Q4289535"^^xsd:string .
+
+wd:Q4292681 a wd:Q18199879 ;
+    rdfs:label "Q4292681"^^xsd:string .
+
+wd:Q4294060 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Mingachevir"@en .
+
+wd:Q4304026 a wd:Q30014735 ;
+    rdfs:label "Q4304026"^^xsd:string .
+
+wd:Q4304313 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Moscow"@en .
+
+wd:Q4304394 a wd:Q30014735 ;
+    rdfs:label "Q4304394"^^xsd:string .
+
+wd:Q4308097 a wd:Q30014735 ;
+    rdfs:label "Q4308097"^^xsd:string .
+
+wd:Q4308177 a wd:Q30014735 ;
+    rdfs:label "Q4308177"^^xsd:string .
+
+wd:Q4309177 a wd:Q30014735 ;
+    rdfs:label "Q4309177"^^xsd:string .
+
+wd:Q4311175 a wd:Q30014735 ;
+    rdfs:label "Q4311175"^^xsd:string .
+
+wd:Q4312708 a wd:Q18199879 ;
+    rdfs:label "Q4312708"^^xsd:string .
+
+wd:Q4312740 a wd:Q18199879 ;
+    rdfs:label "Q4312740"^^xsd:string .
+
+wd:Q4314701 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Nakhchivan"@en .
+
+wd:Q4314733 a wd:Q30014735 ;
+    rdfs:label "Q4314733"^^xsd:string .
+
+wd:Q4318645 a wd:Q30014735 ;
+    rdfs:label "Q4318645"^^xsd:string .
+
+wd:Q4318674 a wd:Q18199879 ;
+    rdfs:label "Q4318674"^^xsd:string .
+
+wd:Q4322509 a wd:Q30014735 ;
+    rdfs:label "Q4322509"^^xsd:string .
+
+wd:Q4323125 a wd:Q18199879 ;
+    rdfs:label "Q4323125"^^xsd:string .
+
+wd:Q4324316 a wd:Q30014735 ;
+    rdfs:label "Buses in Novokuznetsk"@en .
+
+wd:Q4324326 a wd:Q18199879 ;
+    rdfs:label "Q4324326"^^xsd:string .
+
+wd:Q4324339 a wd:Q18199879 ;
+    rdfs:label "Q4324339"^^xsd:string .
+
+wd:Q4325177 a wd:Q18199879 ;
+    rdfs:label "Q4325177"^^xsd:string .
+
+wd:Q4325454 a wd:Q30014735 ;
+    rdfs:label "Q4325454"^^xsd:string .
+
+wd:Q4325484 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Novosibirsk"@en .
+
+wd:Q4326192 a wd:Q18199879 ;
+    rdfs:label "Q4326192"^^xsd:string .
+
+wd:Q4328361 a wd:Q2516436 ;
+    rdfs:label "Trams in Newcastle, New South Wales"@en .
+
+wd:Q4329429 a wd:Q30014735 ;
+    rdfs:label "Q4329429"^^xsd:string .
+
+wd:Q4334713 a wd:Q30014735 ;
+    rdfs:label "Q4334713"^^xsd:string .
+
+wd:Q4334741 a wd:Q18199879 ;
+    rdfs:label "Q4334741"^^xsd:string .
+
+wd:Q4336207 a wd:Q18199879 ;
+    rdfs:label "Q4336207"^^xsd:string .
+
+wd:Q4336877 a wd:Q30014735 ;
+    rdfs:label "Q4336877"^^xsd:string .
+
+wd:Q4336905 a wd:Q18199879 ;
+    rdfs:label "Q4336905"^^xsd:string .
+
+wd:Q43374963 a wd:Q2516436 ;
+    rdfs:label "Réseau de bus TAM"@en .
+
+wd:Q4347993 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Groningen"@en .
+
+wd:Q4348502 a wd:Q18199879 ;
+    rdfs:label "Q4348502"^^xsd:string .
+
+wd:Q4351555 a wd:Q18199879 ;
+    rdfs:label "Q4351555"^^xsd:string .
+
+wd:Q4361457 a wd:Q30014735 ;
+    rdfs:label "Q4361457"^^xsd:string .
+
+wd:Q43667887 a wd:Q2516436 ;
+    rdfs:label "Q43667887"^^xsd:string .
+
+wd:Q4368068 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Podolsk"@en .
+
+wd:Q4370840 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Poltava"@en .
+
+wd:Q4378586 a wd:Q30014735 ;
+    rdfs:label "Q4378586"^^xsd:string .
+
+wd:Q4383011 a wd:Q30014735 ;
+    rdfs:label "Q4383011"^^xsd:string .
+
+wd:Q4383987 a wd:Q2516436 ;
+    rdfs:label "KTM Komuter"@en .
+
+wd:Q43895040 a wd:Q2516436 ;
+    rdfs:label "Q43895040"^^xsd:string .
+
+wd:Q4394238 a wd:Q30014735 ;
+    rdfs:label "Q4394238"^^xsd:string .
+
+wd:Q4394546 a wd:Q30014735 ;
+    rdfs:label "Q4394546"^^xsd:string .
+
+wd:Q4395203 a wd:Q18199879 ;
+    rdfs:label "Q4395203"^^xsd:string .
+
+wd:Q4398485 a wd:Q30014735 ;
+    rdfs:label "Q4398485"^^xsd:string .
+
+wd:Q4398521 a wd:Q18199879 ;
+    rdfs:label "Q4398521"^^xsd:string .
+
+wd:Q4399202 a wd:Q18199879 ;
+    rdfs:label "Q4399202"^^xsd:string .
+
+wd:Q440062 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Solingen"@en .
+
+wd:Q4401553 a wd:Q30014735 ;
+    rdfs:label "Q4401553"^^xsd:string .
+
+wd:Q4401567 a wd:Q18199879 ;
+    rdfs:label "Q4401567"^^xsd:string .
+
+wd:Q4402672 a wd:Q18199879 ;
+    rdfs:label "Q4402672"^^xsd:string .
+
+wd:Q4405603 a wd:Q30014735 ;
+    rdfs:label "Q4405603"^^xsd:string .
+
+wd:Q4406397 a wd:Q30014735 ;
+    rdfs:label "Q4406397"^^xsd:string .
+
+wd:Q4406433 a wd:Q18199879 ;
+    rdfs:label "Q4406433"^^xsd:string .
+
+wd:Q4407764 a wd:Q30014735 ;
+    rdfs:label "Buses in Saint Petersburg"@en .
+
+wd:Q4407766 a wd:Q18199879 ;
+    rdfs:label "Q4407766"^^xsd:string .
+
+wd:Q4408478 a wd:Q18199879 ;
+    rdfs:label "Q4408478"^^xsd:string .
+
+wd:Q4409433 a wd:Q18199879 ;
+    rdfs:label "Tashkent trolley bus"@en .
+
+wd:Q4412572 a wd:Q30014735 ;
+    rdfs:label "Q4412572"^^xsd:string .
+
+wd:Q4412583 a wd:Q18199879 ;
+    rdfs:label "Q4412583"^^xsd:string .
+
+wd:Q4423097 a wd:Q18199879 ;
+    rdfs:label "Q4423097"^^xsd:string .
+
+wd:Q4424077 a wd:Q30014735 ;
+    rdfs:label "Q4424077"^^xsd:string .
+
+wd:Q4428445 a wd:Q18199879 ;
+    rdfs:label "Q4428445"^^xsd:string .
+
+wd:Q4430369 a wd:Q30014735 ;
+    rdfs:label "Q4430369"^^xsd:string .
+
+wd:Q4439025 a wd:Q30014735 ;
+    rdfs:label "Q4439025"^^xsd:string .
+
+wd:Q4439038 a wd:Q18199879 ;
+    rdfs:label "Q4439038"^^xsd:string .
+
+wd:Q4441346 a wd:Q18199879 ;
+    rdfs:label "Q4441346"^^xsd:string .
+
+wd:Q4442381 a wd:Q18199879 ;
+    rdfs:label "Q4442381"^^xsd:string .
+
+wd:Q4445969 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Sumqayit"@en .
+
+wd:Q4446051 a wd:Q18199879 ;
+    rdfs:label "Q4446051"^^xsd:string .
+
+wd:Q4447914 a wd:Q18199879 ;
+    rdfs:label "Q4447914"^^xsd:string .
+
+wd:Q4449560 a wd:Q30014735 ;
+    rdfs:label "Q4449560"^^xsd:string .
+
+wd:Q4450884 a wd:Q18199879 ;
+    rdfs:label "Q4450884"^^xsd:string .
+
+wd:Q4451487 a wd:Q18199879 ;
+    rdfs:label "Q4451487"^^xsd:string .
+
+wd:Q4452098 a wd:Q2516436 ;
+    rdfs:label "Q4452098"^^xsd:string .
+
+wd:Q4452981 a wd:Q30014735 ;
+    rdfs:label "Tashkent Bus"@en .
+
+wd:Q4453287 a wd:Q18199879 ;
+    rdfs:label "Q4453287"^^xsd:string .
+
+wd:Q4456101 a wd:Q18199879 ;
+    rdfs:label "Trolleybus transport in Ternopil"@en .
+
+wd:Q4458066 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Tiraspol"@en .
+
+wd:Q4459147 a wd:Q30014735 ;
+    rdfs:label "Q4459147"^^xsd:string .
+
+wd:Q4460103 a wd:Q18199879 ;
+    rdfs:label "Q4460103"^^xsd:string .
+
+wd:Q4460378 a wd:Q30014735 ;
+    rdfs:label "Q4460378"^^xsd:string .
+
+wd:Q4460399 a wd:Q18199879 ;
+    rdfs:label "Q4460399"^^xsd:string .
+
+wd:Q4461422 a wd:Q30014735 ;
+    rdfs:label "Buses in Tosno"@en .
+
+wd:Q4463697 a wd:Q18199879 ;
+    rdfs:label "Q4463697"^^xsd:string .
+
+wd:Q4463698 a wd:Q18199879 ;
+    rdfs:label "Q4463698"^^xsd:string .
+
+wd:Q4463699 a wd:Q18199879 ;
+    rdfs:label "Q4463699"^^xsd:string .
+
+wd:Q4463700 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Varna"@en .
+
+wd:Q4463704 a wd:Q18199879 ;
+    rdfs:label "Q4463704"^^xsd:string .
+
+wd:Q4463708 a wd:Q18199879 ;
+    rdfs:label "Q4463708"^^xsd:string .
+
+wd:Q4465232 a wd:Q30014735 ;
+    rdfs:label "Q4465232"^^xsd:string .
+
+wd:Q4465255 a wd:Q18199879 ;
+    rdfs:label "Q4465255"^^xsd:string .
+
+wd:Q44666246 a wd:Q18325841 ;
+    rdfs:label "Saint-Denis aerial tramway"@en .
+
+wd:Q4467495 a wd:Q30014735 ;
+    rdfs:label "Q4467495"^^xsd:string .
+
+wd:Q4467512 a wd:Q18199879 ;
+    rdfs:label "Q4467512"^^xsd:string .
+
+wd:Q4470841 a wd:Q30014735 ;
+    rdfs:label "Q4470841"^^xsd:string .
+
+wd:Q4475212 a wd:Q18199879 ;
+    rdfs:label "Q4475212"^^xsd:string .
+
+wd:Q4478602 a wd:Q30014735 ;
+    rdfs:label "Q4478602"^^xsd:string .
+
+wd:Q4479099 a wd:Q30014735 ;
+    rdfs:label "Q4479099"^^xsd:string .
+
+wd:Q4479128 a wd:Q18199879 ;
+    rdfs:label "Q4479128"^^xsd:string .
+
+wd:Q4494362 a wd:Q18199879 ;
+    rdfs:label "Q4494362"^^xsd:string .
+
+wd:Q4496357 a wd:Q18199879 ;
+    rdfs:label "Q4496357"^^xsd:string .
+
+wd:Q4497348 a wd:Q30014735 ;
+    rdfs:label "Q4497348"^^xsd:string .
+
+wd:Q4497364 a wd:Q18199879 ;
+    rdfs:label "Q4497364"^^xsd:string .
+
+wd:Q4497754 a wd:Q18199879 ;
+    rdfs:label "Q4497754"^^xsd:string .
+
+wd:Q4498480 a wd:Q18199879 ;
+    rdfs:label "Q4498480"^^xsd:string .
+
+wd:Q4499236 a wd:Q30014735 ;
+    rdfs:label "Q4499236"^^xsd:string .
+
+wd:Q4502089 a wd:Q18199879 ;
+    rdfs:label "Q4502089"^^xsd:string .
+
+wd:Q4512929 a wd:Q30014735 ;
+    rdfs:label "Q4512929"^^xsd:string .
+
+wd:Q4513124 a wd:Q18199879 ;
+    rdfs:label "Trolleybus transport in Cherkasy"@en .
+
+wd:Q4513173 a wd:Q18199879 ;
+    rdfs:label "Q4513173"^^xsd:string .
+
+wd:Q4513564 a wd:Q18199879 ;
+    rdfs:label "Q4513564"^^xsd:string .
+
+wd:Q4513859 a wd:Q18199879 ;
+    rdfs:label "Q4513859"^^xsd:string .
+
+wd:Q4516679 a wd:Q18199879 ;
+    rdfs:label "Q4516679"^^xsd:string .
+
+wd:Q4521430 a wd:Q18199879 ;
+    rdfs:label "Q4521430"^^xsd:string .
+
+wd:Q4531798 a wd:Q18199879 ;
+    rdfs:label "Q4531798"^^xsd:string .
+
+wd:Q4534005 a wd:Q30014735 ;
+    rdfs:label "Q4534005"^^xsd:string .
+
+wd:Q4538860 a wd:Q30014735 ;
+    rdfs:label "Q4538860"^^xsd:string .
+
+wd:Q4538911 a wd:Q18199879 ;
+    rdfs:label "Q4538911"^^xsd:string .
+
+wd:Q460645 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Salzburg"@en .
+
+wd:Q46712842 a wd:Q2516436 ;
+    rdfs:label "Wisconsin & Southern Railroad"@en .
+
+wd:Q4736225 a wd:Q2516436 ;
+    rdfs:label "Altdorf–Flüelen tramway"@en .
+
+wd:Q474674 a wd:Q30014735 ;
+    rdfs:label "Réseau de bus RATP"@en .
+
+wd:Q47494935 a wd:Q2516436 ;
+    rdfs:label "Q47494935"^^xsd:string .
+
+wd:Q47494936 a wd:Q2516436 ;
+    rdfs:label "Q47494936"^^xsd:string .
+
+wd:Q47494938 a wd:Q2516436 ;
+    rdfs:label "Q47494938"^^xsd:string .
+
+wd:Q47494939 a wd:Q2516436 ;
+    rdfs:label "Q47494939"^^xsd:string .
+
+wd:Q47494941 a wd:Q2516436 ;
+    rdfs:label "Q47494941"^^xsd:string .
+
+wd:Q474954 a wd:Q2516436 ;
+    rdfs:label "Dortmund Stadtbahn"@en .
+
+wd:Q47766692 a wd:Q30014735 ;
+    rdfs:label "Q47766692"^^xsd:string .
+
+wd:Q48750025 a wd:Q2516436 ;
+    rdfs:label "Q48750025"^^xsd:string .
+
+wd:Q48751971 a wd:Q2516436 ;
+    rdfs:label "Q48751971"^^xsd:string .
+
+wd:Q48753825 a wd:Q30014735 ;
+    rdfs:label "Q48753825"^^xsd:string .
+
+wd:Q48754225 a wd:Q2516436 ;
+    rdfs:label "Q48754225"^^xsd:string .
+
+wd:Q48757195 a wd:Q2516436 ;
+    rdfs:label "Q48757195"^^xsd:string .
+
+wd:Q48757487 a wd:Q2516436 ;
+    rdfs:label "Q48757487"^^xsd:string .
+
+wd:Q48758142 a wd:Q2516436 ;
+    rdfs:label "Q48758142"^^xsd:string .
+
+wd:Q48759385 a wd:Q2516436 ;
+    rdfs:label "Q48759385"^^xsd:string .
+
+wd:Q48760545 a wd:Q2516436 ;
+    rdfs:label "Q48760545"^^xsd:string .
+
+wd:Q48781618 a wd:Q2516436 ;
+    rdfs:label "Q48781618"^^xsd:string .
+
+wd:Q48781656 a wd:Q2516436 ;
+    rdfs:label "Q48781656"^^xsd:string .
+
+wd:Q48781657 a wd:Q2516436 ;
+    rdfs:label "Q48781657"^^xsd:string .
+
+wd:Q48781690 a wd:Q2516436 ;
+    rdfs:label "Q48781690"^^xsd:string .
+
+wd:Q48781691 a wd:Q2516436 ;
+    rdfs:label "Q48781691"^^xsd:string .
+
+wd:Q48782186 a wd:Q2516436 ;
+    rdfs:label "Q48782186"^^xsd:string .
+
+wd:Q48866919 a wd:Q2516436 ;
+    rdfs:label "Q48866919"^^xsd:string .
+
+wd:Q48877834 a wd:Q2516436 ;
+    rdfs:label "Q48877834"^^xsd:string .
+
+wd:Q4904682 a wd:Q2516436 ;
+    rdfs:label "Bieszczadzka Forest Railway"@en .
+
+wd:Q4975281 a wd:Q2516436 ;
+    rdfs:label "Broome Tramway"@en .
+
+wd:Q5001345 a wd:Q30014735 ;
+    rdfs:label "Buses in Sydney"@en .
+
+wd:Q501481 a wd:Q2516436 ;
+    rdfs:label "Casablanca metro"@en .
+
+wd:Q5025037 a wd:Q2516436 ;
+    rdfs:label "Camber Railway"@en .
+
+wd:Q50834 a wd:Q30014735 ;
+    rdfs:label "Gatchina bus"@en .
+
+wd:Q5091460 a wd:Q30014735 ;
+    rdfs:label "Chennai RBTW"@en .
+
+wd:Q509999 a wd:Q2516436 ;
+    rdfs:label "Urola railway"@en .
+
+wd:Q51077909 a wd:Q2516436 ;
+    rdfs:label "Q51077909"^^xsd:string .
+
+wd:Q52162067 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses de Tunis"@en .
+
+wd:Q5268740 a wd:Q2516436 ;
+    rdfs:label "Dhaka Metro"@en .
+
+wd:Q527629 a wd:Q2516436 ;
+    rdfs:label "Jakarta Monorail"@en .
+
+wd:Q5338176 a wd:Q2516436 ;
+    rdfs:label "Edinburgh Corporation Tramways"@en .
+
+wd:Q5445400 a wd:Q2516436 ;
+    rdfs:label "Ferrocarril Andino"@en .
+
+wd:Q5445412 a wd:Q2516436 ;
+    rdfs:label "Ferrocarril Provincial de Buenos Aires"@en .
+
+wd:Q5477273 a wd:Q2516436 ;
+    rdfs:label "Líneas lanzaderas (Urbanos de Zaragoza)"@en .
+
+wd:Q54849688 a wd:Q2516436 ;
+    rdfs:label "Q54849688"^^xsd:string .
+
+wd:Q54857163 a wd:Q2516436 ;
+    rdfs:label "Diffbus"@en .
+
+wd:Q5491419 a wd:Q2516436 ;
+    rdfs:label "Q5491419"^^xsd:string .
+
+wd:Q5547659 a wd:Q2516436 ;
+    rdfs:label "Q5547659"^^xsd:string .
+
+wd:Q5556147 a wd:Q2516436 ;
+    rdfs:label "Q5556147"^^xsd:string .
+
+wd:Q5558504 a wd:Q2516436 ;
+    rdfs:label "Rodalies del Camp de Tarragona"@en .
+
+wd:Q55595872 a wd:Q18325841 ;
+    rdfs:label "Q55595872"^^xsd:string .
+
+wd:Q55595897 a wd:Q2516436 ;
+    rdfs:label "Q55595897"^^xsd:string .
+
+wd:Q55597931 a wd:Q2516436 ;
+    rdfs:label "Q55597931"^^xsd:string .
+
+wd:Q55598283 a wd:Q2516436 ;
+    rdfs:label "Q55598283"^^xsd:string .
+
+wd:Q55600041 a wd:Q2516436 ;
+    rdfs:label "Q55600041"^^xsd:string .
+
+wd:Q557230 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Eberswalde"@en .
+
+wd:Q5614153 a wd:Q2516436 ;
+    rdfs:label "Guarenas / Guatire Metro"@en .
+
+wd:Q56299672 a wd:Q2516436 ;
+    rdfs:label "Q56299672"^^xsd:string .
+
+wd:Q56301256 a wd:Q2516436 ;
+    rdfs:label "Q56301256"^^xsd:string .
+
+wd:Q56301388 a wd:Q2516436 ;
+    rdfs:label "Q56301388"^^xsd:string .
+
+wd:Q56302207 a wd:Q2516436 ;
+    rdfs:label "Q56302207"^^xsd:string .
+
+wd:Q56302583 a wd:Q2516436 ;
+    rdfs:label "Q56302583"^^xsd:string .
+
+wd:Q56305779 a wd:Q18199879 ;
+    rdfs:label "Q56305779"^^xsd:string .
+
+wd:Q56307369 a wd:Q2516436 ;
+    rdfs:label "Q56307369"^^xsd:string .
+
+wd:Q56307416 a wd:Q2516436 ;
+    rdfs:label "Q56307416"^^xsd:string .
+
+wd:Q56309582 a wd:Q2516436 ;
+    rdfs:label "Q56309582"^^xsd:string .
+
+wd:Q56309911 a wd:Q2516436 ;
+    rdfs:label "Q56309911"^^xsd:string .
+
+wd:Q56309921 a wd:Q2516436 ;
+    rdfs:label "Q56309921"^^xsd:string .
+
+wd:Q56310007 a wd:Q2516436 ;
+    rdfs:label "Q56310007"^^xsd:string .
+
+wd:Q56310496 a wd:Q2516436 ;
+    rdfs:label "Q56310496"^^xsd:string .
+
+wd:Q56311536 a wd:Q2516436 ;
+    rdfs:label "Q56311536"^^xsd:string .
+
+wd:Q56312442 a wd:Q2516436 ;
+    rdfs:label "Q56312442"^^xsd:string .
+
+wd:Q56312551 a wd:Q2516436 ;
+    rdfs:label "Q56312551"^^xsd:string .
+
+wd:Q56316702 a wd:Q2516436 ;
+    rdfs:label "Q56316702"^^xsd:string .
+
+wd:Q56324784 a wd:Q2516436 ;
+    rdfs:label "Q56324784"^^xsd:string .
+
+wd:Q56324789 a wd:Q2516436 ;
+    rdfs:label "Q56324789"^^xsd:string .
+
+wd:Q56337592 a wd:Q2516436 ;
+    rdfs:label "Q56337592"^^xsd:string .
+
+wd:Q56338257 a wd:Q2516436 ;
+    rdfs:label "Q56338257"^^xsd:string .
+
+wd:Q56340525 a wd:Q2516436 ;
+    rdfs:label "Q56340525"^^xsd:string .
+
+wd:Q56346144 a wd:Q2516436 ;
+    rdfs:label "Q56346144"^^xsd:string .
+
+wd:Q56346322 a wd:Q2516436 ;
+    rdfs:label "Q56346322"^^xsd:string .
+
+wd:Q56347950 a wd:Q2516436 ;
+    rdfs:label "Q56347950"^^xsd:string .
+
+wd:Q56349990 a wd:Q2516436 ;
+    rdfs:label "Q56349990"^^xsd:string .
+
+wd:Q56396558 a wd:Q18199879 ;
+    rdfs:label "Q56396558"^^xsd:string .
+
+wd:Q5642932 a wd:Q2516436 ;
+    rdfs:label "Q5642932"^^xsd:string .
+
+wd:Q5646684 a wd:Q2516436 ;
+    rdfs:label "Q5646684"^^xsd:string .
+
+wd:Q5652562 a wd:Q2516436 ;
+    rdfs:label "Q5652562"^^xsd:string .
+
+wd:Q5662744 a wd:Q2516436 ;
+    rdfs:label "Q5662744"^^xsd:string .
+
+wd:Q567805 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Samarkand"@en .
+
+wd:Q569780 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Yerevan"@en .
+
+wd:Q5712409 a wd:Q2516436 ;
+    rdfs:label "Q5712409"^^xsd:string .
+
+wd:Q5712425 a wd:Q30014735 ;
+    rdfs:label "Q5712425"^^xsd:string .
+
+wd:Q5712439 a wd:Q30014735 ;
+    rdfs:label "Q5712439"^^xsd:string .
+
+wd:Q5728955 a wd:Q2516436 ;
+    rdfs:label "Biovías"@en .
+
+wd:Q5735918 a wd:Q2516436 ;
+    rdfs:label "Q5735918"^^xsd:string .
+
+wd:Q5735922 a wd:Q2516436 ;
+    rdfs:label "Q5735922"^^xsd:string .
+
+wd:Q5736007 a wd:Q2516436 ;
+    rdfs:label "Q5736007"^^xsd:string .
+
+wd:Q5769942 a wd:Q2516436 ;
+    rdfs:label "Q5769942"^^xsd:string .
+
+wd:Q5769953 a wd:Q2516436 ;
+    rdfs:label "Q5769953"^^xsd:string .
+
+wd:Q5769995 a wd:Q2516436 ;
+    rdfs:label "Q5769995"^^xsd:string .
+
+wd:Q5769999 a wd:Q2516436 ;
+    rdfs:label "Q5769999"^^xsd:string .
+
+wd:Q5784305 a wd:Q2516436 ;
+    rdfs:label "Q5784305"^^xsd:string .
+
+wd:Q5784307 a wd:Q2516436 ;
+    rdfs:label "Consorcio de Transporte Metropolitano del Campo de Gibraltar"@en .
+
+wd:Q5784309 a wd:Q2516436 ;
+    rdfs:label "Q5784309"^^xsd:string .
+
+wd:Q5784311 a wd:Q2516436 ;
+    rdfs:label "Q5784311"^^xsd:string .
+
+wd:Q5784314 a wd:Q2516436 ;
+    rdfs:label "Q5784314"^^xsd:string .
+
+wd:Q5784316 a wd:Q2516436 ;
+    rdfs:label "Q5784316"^^xsd:string .
+
+wd:Q5784319 a wd:Q2516436 ;
+    rdfs:label "Q5784319"^^xsd:string .
+
+wd:Q5784322 a wd:Q2516436 ;
+    rdfs:label "Q5784322"^^xsd:string .
+
+wd:Q5784325 a wd:Q2516436 ;
+    rdfs:label "Q5784325"^^xsd:string .
+
+wd:Q5789108 a wd:Q2516436 ;
+    rdfs:label "Q5789108"^^xsd:string .
+
+wd:Q5789111 a wd:Q2516436 ;
+    rdfs:label "Q5789111"^^xsd:string .
+
+wd:Q5789113 a wd:Q2516436 ;
+    rdfs:label "Q5789113"^^xsd:string .
+
+wd:Q5789116 a wd:Q2516436 ;
+    rdfs:label "Q5789116"^^xsd:string .
+
+wd:Q579025 a wd:Q18199879 ;
+    rdfs:label "Trolleybuss of Lviv"@en .
+
+wd:Q5792896 a wd:Q2516436 ;
+    rdfs:label "Q5792896"^^xsd:string .
+
+wd:Q5800617 a wd:Q2516436 ;
+    rdfs:label "New York New Jersey Rail, LLC"@en .
+
+wd:Q5809373 a wd:Q2516436 ;
+    rdfs:label "Rail transport in Honduras"@en .
+
+wd:Q5849741 a wd:Q2516436 ;
+    rdfs:label "Q5849741"^^xsd:string .
+
+wd:Q5860706 a wd:Q2516436 ;
+    rdfs:label "Puerto Deseado Railway"@en .
+
+wd:Q5860710 a wd:Q2516436 ;
+    rdfs:label "Q5860710"^^xsd:string .
+
+wd:Q5860715 a wd:Q2516436 ;
+    rdfs:label "Q5860715"^^xsd:string .
+
+wd:Q5860717 a wd:Q2516436 ;
+    rdfs:label "Q5860717"^^xsd:string .
+
+wd:Q5860720 a wd:Q2516436 ;
+    rdfs:label "Q5860720"^^xsd:string .
+
+wd:Q5860735 a wd:Q2516436 ;
+    rdfs:label "Q5860735"^^xsd:string .
+
+wd:Q5860745 a wd:Q2516436 ;
+    rdfs:label "Península Valdés Railway"@en .
+
+wd:Q58882407 a wd:Q2516436 ;
+    rdfs:label "Q58882407"^^xsd:string .
+
+wd:Q58882475 a wd:Q2516436 ;
+    rdfs:label "Q58882475"^^xsd:string .
+
+wd:Q58994855 a wd:Q2516436 ;
+    rdfs:label "Transports Urbains Mendois"@en .
+
+wd:Q5972821 a wd:Q30014735 ;
+    rdfs:label "Taipei Joint Bus System"@en .
+
+wd:Q5977732 a wd:Q2516436 ;
+    rdfs:label "Q5977732"^^xsd:string .
+
+wd:Q5985425 a wd:Q2516436 ;
+    rdfs:label "Q5985425"^^xsd:string .
+
+wd:Q5985431 a wd:Q2516436 ;
+    rdfs:label "Q5985431"^^xsd:string .
+
+wd:Q5985484 a wd:Q2516436 ;
+    rdfs:label "Q5985484"^^xsd:string .
+
+wd:Q5985489 a wd:Q2516436 ;
+    rdfs:label "Q5985489"^^xsd:string .
+
+wd:Q5985501 a wd:Q2516436 ;
+    rdfs:label "Q5985501"^^xsd:string .
+
+wd:Q5985540 a wd:Q2516436 ;
+    rdfs:label "Q5985540"^^xsd:string .
+
+wd:Q5985595 a wd:Q2516436 ;
+    rdfs:label "Q5985595"^^xsd:string .
+
+wd:Q5985599 a wd:Q2516436 ;
+    rdfs:label "Q5985599"^^xsd:string .
+
+wd:Q5985637 a wd:Q2516436 ;
+    rdfs:label "Q5985637"^^xsd:string .
+
+wd:Q5985695 a wd:Q2516436 ;
+    rdfs:label "Q5985695"^^xsd:string .
+
+wd:Q5985725 a wd:Q2516436 ;
+    rdfs:label "Q5985725"^^xsd:string .
+
+wd:Q5985747 a wd:Q2516436 ;
+    rdfs:label "Q5985747"^^xsd:string .
+
+wd:Q5985781 a wd:Q2516436 ;
+    rdfs:label "Q5985781"^^xsd:string .
+
+wd:Q5985902 a wd:Q2516436 ;
+    rdfs:label "Q5985902"^^xsd:string .
+
+wd:Q5985913 a wd:Q2516436 ;
+    rdfs:label "Q5985913"^^xsd:string .
+
+wd:Q5985931 a wd:Q2516436 ;
+    rdfs:label "Q5985931"^^xsd:string .
+
+wd:Q5985944 a wd:Q2516436 ;
+    rdfs:label "Q5985944"^^xsd:string .
+
+wd:Q5985977 a wd:Q2516436 ;
+    rdfs:label "Q5985977"^^xsd:string .
+
+wd:Q5986029 a wd:Q2516436 ;
+    rdfs:label "Q5986029"^^xsd:string .
+
+wd:Q5986054 a wd:Q2516436 ;
+    rdfs:label "Q5986054"^^xsd:string .
+
+wd:Q5986065 a wd:Q2516436 ;
+    rdfs:label "Q5986065"^^xsd:string .
+
+wd:Q5986096 a wd:Q2516436 ;
+    rdfs:label "Q5986096"^^xsd:string .
+
+wd:Q5986156 a wd:Q2516436 ;
+    rdfs:label "Q5986156"^^xsd:string .
+
+wd:Q5986170 a wd:Q2516436 ;
+    rdfs:label "Q5986170"^^xsd:string .
+
+wd:Q5986192 a wd:Q2516436 ;
+    rdfs:label "Q5986192"^^xsd:string .
+
+wd:Q5986217 a wd:Q2516436 ;
+    rdfs:label "Q5986217"^^xsd:string .
+
+wd:Q5986239 a wd:Q2516436 ;
+    rdfs:label "Q5986239"^^xsd:string .
+
+wd:Q5986257 a wd:Q2516436 ;
+    rdfs:label "Q5986257"^^xsd:string .
+
+wd:Q5986271 a wd:Q2516436 ;
+    rdfs:label "Q5986271"^^xsd:string .
+
+wd:Q5986285 a wd:Q2516436 ;
+    rdfs:label "Q5986285"^^xsd:string .
+
+wd:Q5986336 a wd:Q2516436 ;
+    rdfs:label "Q5986336"^^xsd:string .
+
+wd:Q5986471 a wd:Q2516436 ;
+    rdfs:label "Q5986471"^^xsd:string .
+
+wd:Q5986482 a wd:Q2516436 ;
+    rdfs:label "Q5986482"^^xsd:string .
+
+wd:Q5986645 a wd:Q2516436 ;
+    rdfs:label "Q5986645"^^xsd:string .
+
+wd:Q5986655 a wd:Q2516436 ;
+    rdfs:label "Q5986655"^^xsd:string .
+
+wd:Q5986777 a wd:Q2516436 ;
+    rdfs:label "Q5986777"^^xsd:string .
+
+wd:Q5986797 a wd:Q2516436 ;
+    rdfs:label "Q5986797"^^xsd:string .
+
+wd:Q5986874 a wd:Q2516436 ;
+    rdfs:label "Q5986874"^^xsd:string .
+
+wd:Q5986918 a wd:Q2516436 ;
+    rdfs:label "Q5986918"^^xsd:string .
+
+wd:Q5986927 a wd:Q2516436 ;
+    rdfs:label "Q5986927"^^xsd:string .
+
+wd:Q5986932 a wd:Q2516436 ;
+    rdfs:label "Q5986932"^^xsd:string .
+
+wd:Q5986968 a wd:Q2516436 ;
+    rdfs:label "Q5986968"^^xsd:string .
+
+wd:Q5987007 a wd:Q2516436 ;
+    rdfs:label "Q5987007"^^xsd:string .
+
+wd:Q5987018 a wd:Q2516436 ;
+    rdfs:label "Q5987018"^^xsd:string .
+
+wd:Q5987083 a wd:Q2516436 ;
+    rdfs:label "Q5987083"^^xsd:string .
+
+wd:Q5987120 a wd:Q2516436 ;
+    rdfs:label "Q5987120"^^xsd:string .
+
+wd:Q5987161 a wd:Q2516436 ;
+    rdfs:label "Q5987161"^^xsd:string .
+
+wd:Q5987237 a wd:Q2516436 ;
+    rdfs:label "Q5987237"^^xsd:string .
+
+wd:Q5987253 a wd:Q2516436 ;
+    rdfs:label "Q5987253"^^xsd:string .
+
+wd:Q5987272 a wd:Q2516436 ;
+    rdfs:label "Q5987272"^^xsd:string .
+
+wd:Q5987274 a wd:Q2516436 ;
+    rdfs:label "Q5987274"^^xsd:string .
+
+wd:Q5987282 a wd:Q2516436 ;
+    rdfs:label "Q5987282"^^xsd:string .
+
+wd:Q5987288 a wd:Q2516436 ;
+    rdfs:label "Q5987288"^^xsd:string .
+
+wd:Q5987291 a wd:Q2516436 ;
+    rdfs:label "Q5987291"^^xsd:string .
+
+wd:Q5987314 a wd:Q2516436 ;
+    rdfs:label "Q5987314"^^xsd:string .
+
+wd:Q5987365 a wd:Q2516436 ;
+    rdfs:label "Q5987365"^^xsd:string .
+
+wd:Q5987398 a wd:Q2516436 ;
+    rdfs:label "Q5987398"^^xsd:string .
+
+wd:Q5987420 a wd:Q2516436 ;
+    rdfs:label "Q5987420"^^xsd:string .
+
+wd:Q5987439 a wd:Q2516436 ;
+    rdfs:label "Q5987439"^^xsd:string .
+
+wd:Q5987446 a wd:Q2516436 ;
+    rdfs:label "Q5987446"^^xsd:string .
+
+wd:Q5987450 a wd:Q2516436 ;
+    rdfs:label "Q5987450"^^xsd:string .
+
+wd:Q5987467 a wd:Q2516436 ;
+    rdfs:label "Q5987467"^^xsd:string .
+
+wd:Q5987484 a wd:Q2516436 ;
+    rdfs:label "Q5987484"^^xsd:string .
+
+wd:Q5987580 a wd:Q2516436 ;
+    rdfs:label "Q5987580"^^xsd:string .
+
+wd:Q5987590 a wd:Q2516436 ;
+    rdfs:label "Q5987590"^^xsd:string .
+
+wd:Q5987948 a wd:Q2516436 ;
+    rdfs:label "Q5987948"^^xsd:string .
+
+wd:Q60026583 a wd:Q2516436 ;
+    rdfs:label "Ascensores de Txurdinaga-Basarrate"@en .
+
+wd:Q6009009 a wd:Q2516436 ;
+    rdfs:label "Q6009009"^^xsd:string .
+
+wd:Q6012042 a wd:Q2516436 ;
+    rdfs:label "Metrobus Panama"@en .
+
+wd:Q6012081 a wd:Q2516436 ;
+    rdfs:label "Metroplus"@en .
+
+wd:Q6013448 a wd:Q2516436 ;
+    rdfs:label "Santiago yellow buses system"@en .
+
+wd:Q60188 a wd:Q30014735 ;
+    rdfs:label "National Express Group"@en .
+
+wd:Q6027052 a wd:Q18325841 ;
+    rdfs:label "Phaetons in Istanbul"@en .
+
+wd:Q60753655 a wd:Q2516436 ;
+    rdfs:label "Tren de Gran Canaria"@en .
+
+wd:Q60826442 a wd:Q2516436 ;
+    rdfs:label "Q60826442"^^xsd:string .
+
+wd:Q60828293 a wd:Q2516436 ;
+    rdfs:label "Q60828293"^^xsd:string .
+
+wd:Q60831316 a wd:Q30014735 ;
+    rdfs:label "Q60831316"^^xsd:string .
+
+wd:Q60834460 a wd:Q2516436 ;
+    rdfs:label "Q60834460"^^xsd:string .
+
+wd:Q60840674 a wd:Q2516436 ;
+    rdfs:label "Q60840674"^^xsd:string .
+
+wd:Q60846034 a wd:Q2516436 ;
+    rdfs:label "Q60846034"^^xsd:string .
+
+wd:Q60846081 a wd:Q2516436 ;
+    rdfs:label "Q60846081"^^xsd:string .
+
+wd:Q60846092 a wd:Q2516436 ;
+    rdfs:label "Q60846092"^^xsd:string .
+
+wd:Q60846102 a wd:Q2516436 ;
+    rdfs:label "Q60846102"^^xsd:string .
+
+wd:Q60846118 a wd:Q2516436 ;
+    rdfs:label "Q60846118"^^xsd:string .
+
+wd:Q60846198 a wd:Q2516436 ;
+    rdfs:label "Q60846198"^^xsd:string .
+
+wd:Q60847170 a wd:Q2516436 ;
+    rdfs:label "Q60847170"^^xsd:string .
+
+wd:Q60848254 a wd:Q2516436 ;
+    rdfs:label "Q60848254"^^xsd:string .
+
+wd:Q60848384 a wd:Q2516436 ;
+    rdfs:label "Q60848384"^^xsd:string .
+
+wd:Q60850482 a wd:Q2516436 ;
+    rdfs:label "Q60850482"^^xsd:string .
+
+wd:Q60851262 a wd:Q2516436 ;
+    rdfs:label "Q60851262"^^xsd:string .
+
+wd:Q60851622 a wd:Q2516436 ;
+    rdfs:label "Q60851622"^^xsd:string .
+
+wd:Q60851796 a wd:Q2516436 ;
+    rdfs:label "Q60851796"^^xsd:string .
+
+wd:Q60853344 a wd:Q2516436 ;
+    rdfs:label "Q60853344"^^xsd:string .
+
+wd:Q60860205 a wd:Q2516436 ;
+    rdfs:label "Q60860205"^^xsd:string .
+
+wd:Q60963486 a wd:Q2516436 ;
+    rdfs:label "Q60963486"^^xsd:string .
+
+wd:Q60965636 a wd:Q2516436 ;
+    rdfs:label "Q60965636"^^xsd:string .
+
+wd:Q60967493 a wd:Q2516436 ;
+    rdfs:label "Q60967493"^^xsd:string .
+
+wd:Q60969111 a wd:Q2516436 ;
+    rdfs:label "Q60969111"^^xsd:string .
+
+wd:Q609749 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Quito"@en .
+
+wd:Q6098894 a wd:Q2516436 ;
+    rdfs:label "Q6098894"^^xsd:string .
+
+wd:Q61001312 a wd:Q2516436 ;
+    rdfs:label "Q61001312"^^xsd:string .
+
+wd:Q61116184 a wd:Q30014735 ;
+    rdfs:label "Q61116184"^^xsd:string .
+
+wd:Q611231 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Rustawi"@en .
+
+wd:Q6129624 a wd:Q2516436 ;
+    rdfs:label "Q6129624"^^xsd:string .
+
+wd:Q6140511 a wd:Q2516436 ;
+    rdfs:label "Q6140511"^^xsd:string .
+
+wd:Q6151683 a wd:Q2516436 ;
+    rdfs:label "Q6151683"^^xsd:string .
+
+wd:Q6151740 a wd:Q2516436 ;
+    rdfs:label "Transportation in Bogotá"@en .
+
+wd:Q61599933 a wd:Q2516436 ;
+    rdfs:label "Q61599933"^^xsd:string .
+
+wd:Q61708975 a wd:Q30014735 ;
+    rdfs:label "buses in Rome"@en .
+
+wd:Q61861395 a wd:Q2516436 ;
+    rdfs:label "Q61861395"^^xsd:string .
+
+wd:Q61895909 a wd:Q30014735 ;
+    rdfs:label "bus transport in Emmerich am Rhein"@en .
+
+wd:Q62018457 a wd:Q2516436 ;
+    rdfs:label "Q62018457"^^xsd:string .
+
+wd:Q62549903 a wd:Q2516436 ;
+    rdfs:label "Metro de Concepción"@en .
+
+wd:Q62835208 a wd:Q2516436 ;
+    rdfs:label "Q62835208"^^xsd:string .
+
+wd:Q628618 a wd:Q18199879 ;
+    rdfs:label "Trolleybus transport in Prešov"@en .
+
+wd:Q63071056 a wd:Q2516436 ;
+    rdfs:label "Teleférico de Santo Domingo"@en .
+
+wd:Q63226764 a wd:Q2516436 ;
+    rdfs:label "Q63226764"^^xsd:string .
+
+wd:Q63247817 a wd:Q2516436 ;
+    rdfs:label "Q63247817"^^xsd:string .
+
+wd:Q63522788 a wd:Q2516436 ;
+    rdfs:label "Q63522788"^^xsd:string .
+
+wd:Q6353896 a wd:Q30014735 ;
+    rdfs:label "Havana MetroBus"@en .
+
+wd:Q64158439 a wd:Q2516436 ;
+    rdfs:label "Red Concepción de Movilidad"@en .
+
+wd:Q6430922 a wd:Q2516436 ;
+    rdfs:label "Kopaja"@en .
+
+wd:Q64627720 a wd:Q2516436 ;
+    rdfs:label "Q64627720"^^xsd:string .
+
+wd:Q64707076 a wd:Q2516436 ;
+    rdfs:label "Sistema Integrado de Transporte de Lima y Callao"@en .
+
+wd:Q64850064 a wd:Q2516436 ;
+    rdfs:label "Q64850064"^^xsd:string .
+
+wd:Q6492655 a wd:Q30014735 ;
+    rdfs:label "Las Vegas Transit"@en .
+
+wd:Q64995174 a wd:Q2516436 ;
+    rdfs:label "Q64995174"^^xsd:string .
+
+wd:Q64996109 a wd:Q2516436 ;
+    rdfs:label "Q64996109"^^xsd:string .
+
+wd:Q65126657 a wd:Q2516436 ;
+    rdfs:label "Q65126657"^^xsd:string .
+
+wd:Q65127406 a wd:Q2516436 ;
+    rdfs:label "Q65127406"^^xsd:string .
+
+wd:Q65130458 a wd:Q2516436 ;
+    rdfs:label "Q65130458"^^xsd:string .
+
+wd:Q65149588 a wd:Q2516436 ;
+    rdfs:label "Q65149588"^^xsd:string .
+
+wd:Q65156294 a wd:Q2516436 ;
+    rdfs:label "Q65156294"^^xsd:string .
+
+wd:Q65156363 a wd:Q2516436 ;
+    rdfs:label "Q65156363"^^xsd:string .
+
+wd:Q65156365 a wd:Q2516436 ;
+    rdfs:label "Q65156365"^^xsd:string .
+
+wd:Q65161009 a wd:Q2516436 ;
+    rdfs:label "Q65161009"^^xsd:string .
+
+wd:Q65161013 a wd:Q2516436 ;
+    rdfs:label "Q65161013"^^xsd:string .
+
+wd:Q65162510 a wd:Q2516436 ;
+    rdfs:label "Q65162510"^^xsd:string .
+
+wd:Q65162514 a wd:Q2516436 ;
+    rdfs:label "Q65162514"^^xsd:string .
+
+wd:Q65162940 a wd:Q2516436 ;
+    rdfs:label "Q65162940"^^xsd:string .
+
+wd:Q65164079 a wd:Q2516436 ;
+    rdfs:label "Q65164079"^^xsd:string .
+
+wd:Q65164084 a wd:Q2516436 ;
+    rdfs:label "Q65164084"^^xsd:string .
+
+wd:Q65165254 a wd:Q2516436 ;
+    rdfs:label "Q65165254"^^xsd:string .
+
+wd:Q65166430 a wd:Q2516436 ;
+    rdfs:label "Q65166430"^^xsd:string .
+
+wd:Q65166549 a wd:Q2516436 ;
+    rdfs:label "Q65166549"^^xsd:string .
+
+wd:Q65166571 a wd:Q2516436 ;
+    rdfs:label "Q65166571"^^xsd:string .
+
+wd:Q65167225 a wd:Q2516436 ;
+    rdfs:label "Q65167225"^^xsd:string .
+
+wd:Q65174098 a wd:Q30014735 ;
+    rdfs:label "Q65174098"^^xsd:string .
+
+wd:Q65246199 a wd:Q2516436 ;
+    rdfs:label "Vantaa light rail"@en .
+
+wd:Q65560485 a wd:Q2516436 ;
+    rdfs:label "Q65560485"^^xsd:string .
+
+wd:Q65658561 a wd:Q2516436 ;
+    rdfs:label "Línea 749"@en .
+
+wd:Q662755 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Winterthur"@en .
+
+wd:Q663396 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Geneva"@en .
+
+wd:Q664729 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in Biel/Bienne"@en .
+
+wd:Q664784 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Bern"@en .
+
+wd:Q66486007 a wd:Q2516436 ;
+    rdfs:label "Q66486007"^^xsd:string .
+
+wd:Q665791 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Lausanne"@en .
+
+wd:Q666783 a wd:Q2516436 ;
+    rdfs:label "Erfurt S-Bahn"@en .
+
+wd:Q66741176 a wd:Q2516436 ;
+    rdfs:label "E1 line (Euskotren Trena)"@en .
+
+wd:Q66741680 a wd:Q2516436 ;
+    rdfs:label "E4 line (Euskotren Trena)"@en .
+
+wd:Q671130 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Urgench"@en .
+
+wd:Q67159087 a wd:Q2516436 ;
+    rdfs:label "Q67159087"^^xsd:string .
+
+wd:Q674212 a wd:Q2516436 ;
+    rdfs:label "Q674212"^^xsd:string .
+
+wd:Q67597310 a wd:Q2516436 ;
+    rdfs:label "Q67597310"^^xsd:string .
+
+wd:Q679337 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in Basel"@en .
+
+wd:Q679744 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in St. Gallen"@en .
+
+wd:Q680196 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in Lucerne"@en .
+
+wd:Q681207 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Lugano"@en .
+
+wd:Q681311 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Zürich"@en .
+
+wd:Q682187 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Schaffhausen"@en .
+
+wd:Q68222388 a wd:Q2516436 ;
+    rdfs:label "Q68222388"^^xsd:string .
+
+wd:Q6825376 a wd:Q30014735 ;
+    rdfs:label "Metroshuttle"@en .
+
+wd:Q683294 a wd:Q2516436 ;
+    rdfs:label "Q683294"^^xsd:string .
+
+wd:Q68809615 a wd:Q30014735 ;
+    rdfs:label "Buses in Florence"@en .
+
+wd:Q690825 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in Genoa"@en .
+
+wd:Q69120280 a wd:Q2516436 ;
+    rdfs:label "Q69120280"^^xsd:string .
+
+wd:Q6949617 a wd:Q2516436 ;
+    rdfs:label "Málaga Metropolitan Transport Consortium"@en .
+
+wd:Q695916 a wd:Q2516436 ;
+    rdfs:label "Ho Chi Minh trail"@en .
+
+wd:Q69691225 a wd:Q2516436 ;
+    rdfs:label "Q69691225"^^xsd:string .
+
+wd:Q70617610 a wd:Q2516436 ;
+    rdfs:label "Q70617610"^^xsd:string .
+
+wd:Q70921290 a wd:Q2516436 ;
+    rdfs:label "Q70921290"^^xsd:string .
+
+wd:Q7109225 a wd:Q30014735 ;
+    rdfs:label "Ottawa Rapid Transit"@en .
+
+wd:Q7158804 a wd:Q2516436 ;
+    rdfs:label "Pecos Valley Southern Railway"@en .
+
+wd:Q71602667 a wd:Q2516436 ;
+    rdfs:label "Q71602667"^^xsd:string .
+
+wd:Q717776 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Budapest"@en .
+
+wd:Q720449 a wd:Q18199879 ;
+    rdfs:label "Q720449"^^xsd:string .
+
+wd:Q72216337 a wd:Q2516436 ;
+    rdfs:label "Q72216337"^^xsd:string .
+
+wd:Q72567379 a wd:Q2516436 ;
+    rdfs:label "Q72567379"^^xsd:string .
+
+wd:Q72604915 a wd:Q2516436 ;
+    rdfs:label "Q72604915"^^xsd:string .
+
+wd:Q7261783 a wd:Q30014735 ;
+    rdfs:label "Q7261783"^^xsd:string .
+
+wd:Q7287187 a wd:Q2516436 ;
+    rdfs:label "Q7287187"^^xsd:string .
+
+wd:Q73077965 a wd:Q2516436 ;
+    rdfs:label "Línea Zafra-Huelva"@en .
+
+wd:Q730821 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Petrozavodsk"@en .
+
+wd:Q73132376 a wd:Q2516436 ;
+    rdfs:label "Línea Sevilla-Huelva"@en .
+
+wd:Q732778 a wd:Q2516436 ;
+    rdfs:label "Transilien Paris – Saint-Lazare"@en .
+
+wd:Q73678157 a wd:Q2516436 ;
+    rdfs:label "Línea Linares-Puente Genil"@en .
+
+wd:Q73917110 a wd:Q2516436 ;
+    rdfs:label "Ferrocarril de Buitrón a San Juan del Puerto"@en .
+
+wd:Q739187 a wd:Q18199879 ;
+    rdfs:label "Q739187"^^xsd:string .
+
+wd:Q7394941 a wd:Q2516436 ;
+    rdfs:label "SUBE card"@en .
+
+wd:Q74012460 a wd:Q2516436 ;
+    rdfs:label "Ferrocarril Tharsis-Río Odiel"@en .
+
+wd:Q74049210 a wd:Q2516436 ;
+    rdfs:label "Ferrocarril de Riotinto"@en .
+
+wd:Q74106965 a wd:Q2516436 ;
+    rdfs:label "Q74106965"^^xsd:string .
+
+wd:Q7419580 a wd:Q2516436 ;
+    rdfs:label "Santa Fe and Córdoba Great Southern Railway"@en .
+
+wd:Q742469 a wd:Q2516436 ;
+    rdfs:label "Line 4"@en .
+
+wd:Q744226 a wd:Q18199879 ;
+    rdfs:label "Q744226"^^xsd:string .
+
+wd:Q74433377 a wd:Q2516436 ;
+    rdfs:label "Línea Zaragoza-Sagunto"@en .
+
+wd:Q74445218 a wd:Q2516436 ;
+    rdfs:label "Q74445218"^^xsd:string .
+
+wd:Q7488407 a wd:Q30014735 ;
+    rdfs:label "Shanghai Bus"@en .
+
+wd:Q75012049 a wd:Q2516436 ;
+    rdfs:label "Línea Utrera-Fuente de Piedra"@en .
+
+wd:Q75013516 a wd:Q2516436 ;
+    rdfs:label "Línea Murcia-Caravaca"@en .
+
+wd:Q75026193 a wd:Q2516436 ;
+    rdfs:label "Línea Murcia-Alicante"@en .
+
+wd:Q75176920 a wd:Q2516436 ;
+    rdfs:label "Q75176920"^^xsd:string .
+
+wd:Q75215826 a wd:Q2516436 ;
+    rdfs:label "Línea Aranjuez-Valencia"@en .
+
+wd:Q75436 a wd:Q2516436 ;
+    rdfs:label "Metro Rapid"@en .
+
+wd:Q75634267 a wd:Q2516436 ;
+    rdfs:label "Mons tram network"@en .
+
+wd:Q75635885 a wd:Q2516436 ;
+    rdfs:label "Q75635885"^^xsd:string .
+
+wd:Q75718099 a wd:Q2516436 ;
+    rdfs:label "Línea Mérida-Los Rosales"@en .
+
+wd:Q76761336 a wd:Q2516436 ;
+    rdfs:label "Q76761336"^^xsd:string .
+
+wd:Q76761929 a wd:Q2516436 ;
+    rdfs:label "Q76761929"^^xsd:string .
+
+wd:Q76823662 a wd:Q2516436 ;
+    rdfs:label "Q76823662"^^xsd:string .
+
+wd:Q76845103 a wd:Q2516436 ;
+    rdfs:label "Q76845103"^^xsd:string .
+
+wd:Q76881944 a wd:Q2516436 ;
+    rdfs:label "Línea Vadollano-Linares"@en .
+
+wd:Q76990490 a wd:Q2516436 ;
+    rdfs:label "Línea Manzanares-Ciudad Real"@en .
+
+wd:Q77004701 a wd:Q2516436 ;
+    rdfs:label "Línea Espeluy-Jaén"@en .
+
+wd:Q77062562 a wd:Q2516436 ;
+    rdfs:label "Línea Málaga-Fuengirola"@en .
+
+wd:Q771936 a wd:Q2516436 ;
+    rdfs:label "Metro-2"@en .
+
+wd:Q773553 a wd:Q2516436 ;
+    rdfs:label "Q773553"^^xsd:string .
+
+wd:Q77538028 a wd:Q2516436 ;
+    rdfs:label "Q77538028"^^xsd:string .
+
+wd:Q77825257 a wd:Q2516436 ;
+    rdfs:label "Q77825257"^^xsd:string .
+
+wd:Q779673 a wd:Q2516436 ;
+    rdfs:label "Astana Metro"@en .
+
+wd:Q7833209 a wd:Q2516436 ;
+    rdfs:label "Trams in Adelaide"@en .
+
+wd:Q7833212 a wd:Q2516436 ;
+    rdfs:label "Trams in Ballarat"@en .
+
+wd:Q7833245 a wd:Q2516436 ;
+    rdfs:label "Trams in Sumqayit"@en .
+
+wd:Q7833610 a wd:Q2516436 ;
+    rdfs:label "TransCarioca"@en .
+
+wd:Q7834938 a wd:Q2516436 ;
+    rdfs:label "Transport in Barcelona"@en .
+
+wd:Q7845215 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Drammen"@en .
+
+wd:Q7845217 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in Dayton"@en .
+
+wd:Q7845219 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Córdoba"@en .
+
+wd:Q7845220 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in Edmonton"@en .
+
+wd:Q7845225 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Guadalajara"@en .
+
+wd:Q7845227 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Hastings"@en .
+
+wd:Q7845230 a wd:Q18199879,
+        wd:Q18325841 ;
+    rdfs:label "trolleybuses in Hobart"@en .
+
+wd:Q7845231 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Izmir"@en .
+
+wd:Q7845233 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Johannesburg"@en .
+
+wd:Q7845234 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Jinan"@en .
+
+wd:Q7845242 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Mendoza"@en .
+
+wd:Q7845243 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Mexico City"@en .
+
+wd:Q7845250 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Oslo"@en .
+
+wd:Q7845252 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in Plovdiv"@en .
+
+wd:Q7845258 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Ruse"@en .
+
+wd:Q7845261 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Shanghai"@en .
+
+wd:Q7845262 a wd:Q2516436 ;
+    rdfs:label "trolleybuses in Seattle"@en .
+
+wd:Q7845268 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Stavanger"@en .
+
+wd:Q7845271 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in São Paulo"@en .
+
+wd:Q7974095 a wd:Q2516436 ;
+    rdfs:label "Waterfront Streetcar"@en .
+
+wd:Q820756 a wd:Q18199879 ;
+    rdfs:label "Q820756"^^xsd:string .
+
+wd:Q8209629 a wd:Q2516436 ;
+    rdfs:label "Q8209629"^^xsd:string .
+
+wd:Q822561 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Esslingen am Neckar"@en .
+
+wd:Q8310608 a wd:Q18199879 ;
+    rdfs:label "Q8310608"^^xsd:string .
+
+wd:Q833148 a wd:Q18199879 ;
+    rdfs:label "Q833148"^^xsd:string .
+
+wd:Q8344094 a wd:Q2516436 ;
+    rdfs:label "Q8344094"^^xsd:string .
+
+wd:Q837659 a wd:Q30014735 ;
+    rdfs:label "MTR Bus"@en .
+
+wd:Q8406 a wd:Q18325841 ;
+    rdfs:label "vaporetto"@en .
+
+wd:Q867333 a wd:Q2516436 ;
+    rdfs:label "SeaBus"@en .
+
+wd:Q870006 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in La Chaux-de-Fonds"@en .
+
+wd:Q870307 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Fribourg"@en .
+
+wd:Q875870 a wd:Q2516436 ;
+    rdfs:label "Narrow gauge railways in Saxony"@en .
+
+wd:Q8847125 a wd:Q2516436 ;
+    rdfs:label "Q8847125"^^xsd:string .
+
+wd:Q9025897 a wd:Q2516436 ;
+    rdfs:label "Q9025897"^^xsd:string .
+
+wd:Q906844 a wd:Q2516436 ;
+    rdfs:label "Instituto de Ferrocarriles del Estado"@en .
+
+wd:Q9089701 a wd:Q2516436 ;
+    rdfs:label "Q9089701"^^xsd:string .
+
+wd:Q9103778 a wd:Q2516436 ;
+    rdfs:label "Q9103778"^^xsd:string .
+
+wd:Q911547 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Valparaíso"@en .
+
+wd:Q9135660 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Guangzhou"@en .
+
+wd:Q9162501 a wd:Q2516436 ;
+    rdfs:label "Buses in Białystok"@en .
+
+wd:Q9162503 a wd:Q30014735 ;
+    rdfs:label "Q9162503"^^xsd:string .
+
+wd:Q9162510 a wd:Q2516436 ;
+    rdfs:label "Q9162510"^^xsd:string .
+
+wd:Q9162512 a wd:Q2516436 ;
+    rdfs:label "Q9162512"^^xsd:string .
+
+wd:Q9162513 a wd:Q30014735 ;
+    rdfs:label "Bus transport in Warsaw"@en .
+
+wd:Q9162514 a wd:Q2516436 ;
+    rdfs:label "Q9162514"^^xsd:string .
+
+wd:Q9162516 a wd:Q2516436 ;
+    rdfs:label "Q9162516"^^xsd:string .
+
+wd:Q9162522 a wd:Q2516436 ;
+    rdfs:label "Q9162522"^^xsd:string .
+
+wd:Q9162523 a wd:Q2516436 ;
+    rdfs:label "Bus transport in Łódź"@en .
+
+wd:Q9169875 a wd:Q2516436 ;
+    rdfs:label "Q9169875"^^xsd:string .
+
+wd:Q926453 a wd:Q2516436 ;
+    rdfs:label "Q926453"^^xsd:string .
+
+wd:Q932844 a wd:Q18199879 ;
+    rdfs:label "Q932844"^^xsd:string .
+
+wd:Q9339458 a wd:Q2516436 ;
+    rdfs:label "Q9339458"^^xsd:string .
+
+wd:Q934339 a wd:Q2516436 ;
+    rdfs:label "Q934339"^^xsd:string .
+
+wd:Q9351004 a wd:Q2516436 ;
+    rdfs:label "Szczecin Fast Tram"@en .
+
+wd:Q9360804 a wd:Q2516436 ;
+    rdfs:label "Q9360804"^^xsd:string .
+
+wd:Q9360810 a wd:Q2516436 ;
+    rdfs:label "Q9360810"^^xsd:string .
+
+wd:Q9360812 a wd:Q2516436 ;
+    rdfs:label "Q9360812"^^xsd:string .
+
+wd:Q9360813 a wd:Q2516436 ;
+    rdfs:label "Q9360813"^^xsd:string .
+
+wd:Q9360814 a wd:Q2516436 ;
+    rdfs:label "Q9360814"^^xsd:string .
+
+wd:Q9360815 a wd:Q2516436 ;
+    rdfs:label "Q9360815"^^xsd:string .
+
+wd:Q9360817 a wd:Q2516436 ;
+    rdfs:label "Q9360817"^^xsd:string .
+
+wd:Q9360818 a wd:Q2516436 ;
+    rdfs:label "Q9360818"^^xsd:string .
+
+wd:Q9360819 a wd:Q2516436 ;
+    rdfs:label "Q9360819"^^xsd:string .
+
+wd:Q9360820 a wd:Q2516436 ;
+    rdfs:label "Q9360820"^^xsd:string .
+
+wd:Q9360821 a wd:Q2516436 ;
+    rdfs:label "Q9360821"^^xsd:string .
+
+wd:Q9360822 a wd:Q2516436 ;
+    rdfs:label "Q9360822"^^xsd:string .
+
+wd:Q9360823 a wd:Q2516436 ;
+    rdfs:label "Q9360823"^^xsd:string .
+
+wd:Q9360824 a wd:Q2516436 ;
+    rdfs:label "Q9360824"^^xsd:string .
+
+wd:Q9360825 a wd:Q2516436 ;
+    rdfs:label "Q9360825"^^xsd:string .
+
+wd:Q9360826 a wd:Q2516436 ;
+    rdfs:label "Q9360826"^^xsd:string .
+
+wd:Q9360828 a wd:Q2516436 ;
+    rdfs:label "Q9360828"^^xsd:string .
+
+wd:Q9360829 a wd:Q2516436 ;
+    rdfs:label "Q9360829"^^xsd:string .
+
+wd:Q9360830 a wd:Q2516436 ;
+    rdfs:label "Q9360830"^^xsd:string .
+
+wd:Q9360831 a wd:Q2516436 ;
+    rdfs:label "Q9360831"^^xsd:string .
+
+wd:Q9360832 a wd:Q2516436 ;
+    rdfs:label "Q9360832"^^xsd:string .
+
+wd:Q9360834 a wd:Q2516436 ;
+    rdfs:label "Q9360834"^^xsd:string .
+
+wd:Q9360835 a wd:Q2516436 ;
+    rdfs:label "Q9360835"^^xsd:string .
+
+wd:Q9360836 a wd:Q2516436 ;
+    rdfs:label "Q9360836"^^xsd:string .
+
+wd:Q9360837 a wd:Q2516436 ;
+    rdfs:label "Q9360837"^^xsd:string .
+
+wd:Q9360840 a wd:Q2516436 ;
+    rdfs:label "Q9360840"^^xsd:string .
+
+wd:Q9360843 a wd:Q2516436 ;
+    rdfs:label "Q9360843"^^xsd:string .
+
+wd:Q9360844 a wd:Q2516436 ;
+    rdfs:label "Q9360844"^^xsd:string .
+
+wd:Q9360845 a wd:Q2516436 ;
+    rdfs:label "Q9360845"^^xsd:string .
+
+wd:Q9360846 a wd:Q2516436 ;
+    rdfs:label "Q9360846"^^xsd:string .
+
+wd:Q9360848 a wd:Q2516436 ;
+    rdfs:label "Q9360848"^^xsd:string .
+
+wd:Q9360849 a wd:Q2516436 ;
+    rdfs:label "Q9360849"^^xsd:string .
+
+wd:Q9360850 a wd:Q2516436 ;
+    rdfs:label "Q9360850"^^xsd:string .
+
+wd:Q9360851 a wd:Q2516436 ;
+    rdfs:label "Q9360851"^^xsd:string .
+
+wd:Q9360852 a wd:Q2516436 ;
+    rdfs:label "Q9360852"^^xsd:string .
+
+wd:Q9360853 a wd:Q2516436 ;
+    rdfs:label "Q9360853"^^xsd:string .
+
+wd:Q9360854 a wd:Q2516436 ;
+    rdfs:label "Q9360854"^^xsd:string .
+
+wd:Q9360855 a wd:Q2516436 ;
+    rdfs:label "Q9360855"^^xsd:string .
+
+wd:Q9360856 a wd:Q2516436 ;
+    rdfs:label "Q9360856"^^xsd:string .
+
+wd:Q9360857 a wd:Q2516436 ;
+    rdfs:label "Q9360857"^^xsd:string .
+
+wd:Q9360858 a wd:Q2516436 ;
+    rdfs:label "Q9360858"^^xsd:string .
+
+wd:Q9360859 a wd:Q2516436 ;
+    rdfs:label "Q9360859"^^xsd:string .
+
+wd:Q9360860 a wd:Q2516436 ;
+    rdfs:label "Q9360860"^^xsd:string .
+
+wd:Q9360861 a wd:Q2516436 ;
+    rdfs:label "Q9360861"^^xsd:string .
+
+wd:Q9360862 a wd:Q2516436 ;
+    rdfs:label "Q9360862"^^xsd:string .
+
+wd:Q9360866 a wd:Q2516436 ;
+    rdfs:label "Q9360866"^^xsd:string .
+
+wd:Q9360869 a wd:Q2516436 ;
+    rdfs:label "Q9360869"^^xsd:string .
+
+wd:Q9360870 a wd:Q2516436 ;
+    rdfs:label "Q9360870"^^xsd:string .
+
+wd:Q9360871 a wd:Q2516436 ;
+    rdfs:label "Q9360871"^^xsd:string .
+
+wd:Q9360872 a wd:Q2516436 ;
+    rdfs:label "Q9360872"^^xsd:string .
+
+wd:Q9360873 a wd:Q2516436 ;
+    rdfs:label "Q9360873"^^xsd:string .
+
+wd:Q9360874 a wd:Q2516436 ;
+    rdfs:label "Q9360874"^^xsd:string .
+
+wd:Q9360875 a wd:Q2516436 ;
+    rdfs:label "Q9360875"^^xsd:string .
+
+wd:Q9360876 a wd:Q2516436 ;
+    rdfs:label "Q9360876"^^xsd:string .
+
+wd:Q9360878 a wd:Q2516436 ;
+    rdfs:label "Q9360878"^^xsd:string .
+
+wd:Q9360879 a wd:Q2516436 ;
+    rdfs:label "Q9360879"^^xsd:string .
+
+wd:Q9360880 a wd:Q2516436 ;
+    rdfs:label "Q9360880"^^xsd:string .
+
+wd:Q9360881 a wd:Q2516436 ;
+    rdfs:label "Q9360881"^^xsd:string .
+
+wd:Q9360882 a wd:Q2516436 ;
+    rdfs:label "Q9360882"^^xsd:string .
+
+wd:Q9360883 a wd:Q2516436 ;
+    rdfs:label "Q9360883"^^xsd:string .
+
+wd:Q9360884 a wd:Q2516436 ;
+    rdfs:label "Q9360884"^^xsd:string .
+
+wd:Q9360885 a wd:Q2516436 ;
+    rdfs:label "Q9360885"^^xsd:string .
+
+wd:Q9360888 a wd:Q2516436 ;
+    rdfs:label "Q9360888"^^xsd:string .
+
+wd:Q9360889 a wd:Q2516436 ;
+    rdfs:label "Q9360889"^^xsd:string .
+
+wd:Q9360891 a wd:Q2516436 ;
+    rdfs:label "Q9360891"^^xsd:string .
+
+wd:Q9360892 a wd:Q2516436 ;
+    rdfs:label "Q9360892"^^xsd:string .
+
+wd:Q9360893 a wd:Q2516436 ;
+    rdfs:label "Q9360893"^^xsd:string .
+
+wd:Q9360895 a wd:Q2516436 ;
+    rdfs:label "Q9360895"^^xsd:string .
+
+wd:Q9360896 a wd:Q2516436 ;
+    rdfs:label "Q9360896"^^xsd:string .
+
+wd:Q9360897 a wd:Q2516436 ;
+    rdfs:label "Q9360897"^^xsd:string .
+
+wd:Q9360898 a wd:Q2516436 ;
+    rdfs:label "Q9360898"^^xsd:string .
+
+wd:Q9360899 a wd:Q2516436 ;
+    rdfs:label "Q9360899"^^xsd:string .
+
+wd:Q9360900 a wd:Q2516436 ;
+    rdfs:label "Q9360900"^^xsd:string .
+
+wd:Q9360902 a wd:Q2516436 ;
+    rdfs:label "Q9360902"^^xsd:string .
+
+wd:Q9360904 a wd:Q2516436 ;
+    rdfs:label "Q9360904"^^xsd:string .
+
+wd:Q9360905 a wd:Q2516436 ;
+    rdfs:label "Q9360905"^^xsd:string .
+
+wd:Q9360907 a wd:Q2516436 ;
+    rdfs:label "Q9360907"^^xsd:string .
+
+wd:Q9360908 a wd:Q2516436 ;
+    rdfs:label "Q9360908"^^xsd:string .
+
+wd:Q9360909 a wd:Q2516436 ;
+    rdfs:label "Q9360909"^^xsd:string .
+
+wd:Q9360911 a wd:Q2516436 ;
+    rdfs:label "Q9360911"^^xsd:string .
+
+wd:Q9360912 a wd:Q2516436 ;
+    rdfs:label "Q9360912"^^xsd:string .
+
+wd:Q9360913 a wd:Q2516436 ;
+    rdfs:label "Q9360913"^^xsd:string .
+
+wd:Q9360914 a wd:Q2516436 ;
+    rdfs:label "Q9360914"^^xsd:string .
+
+wd:Q9360916 a wd:Q2516436 ;
+    rdfs:label "Q9360916"^^xsd:string .
+
+wd:Q9360917 a wd:Q2516436 ;
+    rdfs:label "Q9360917"^^xsd:string .
+
+wd:Q9360919 a wd:Q2516436 ;
+    rdfs:label "Q9360919"^^xsd:string .
+
+wd:Q9360921 a wd:Q2516436 ;
+    rdfs:label "Q9360921"^^xsd:string .
+
+wd:Q9360922 a wd:Q2516436 ;
+    rdfs:label "Q9360922"^^xsd:string .
+
+wd:Q9360923 a wd:Q2516436 ;
+    rdfs:label "Q9360923"^^xsd:string .
+
+wd:Q9360924 a wd:Q2516436 ;
+    rdfs:label "Q9360924"^^xsd:string .
+
+wd:Q9360929 a wd:Q2516436 ;
+    rdfs:label "Q9360929"^^xsd:string .
+
+wd:Q9360934 a wd:Q2516436 ;
+    rdfs:label "Q9360934"^^xsd:string .
+
+wd:Q9360937 a wd:Q2516436 ;
+    rdfs:label "Q9360937"^^xsd:string .
+
+wd:Q9360938 a wd:Q2516436 ;
+    rdfs:label "Q9360938"^^xsd:string .
+
+wd:Q9360939 a wd:Q2516436 ;
+    rdfs:label "Q9360939"^^xsd:string .
+
+wd:Q9360940 a wd:Q2516436 ;
+    rdfs:label "Q9360940"^^xsd:string .
+
+wd:Q9360941 a wd:Q2516436 ;
+    rdfs:label "Q9360941"^^xsd:string .
+
+wd:Q9360942 a wd:Q2516436 ;
+    rdfs:label "Q9360942"^^xsd:string .
+
+wd:Q9360943 a wd:Q2516436 ;
+    rdfs:label "Q9360943"^^xsd:string .
+
+wd:Q9360945 a wd:Q2516436 ;
+    rdfs:label "Q9360945"^^xsd:string .
+
+wd:Q9360946 a wd:Q2516436 ;
+    rdfs:label "Q9360946"^^xsd:string .
+
+wd:Q9360947 a wd:Q2516436 ;
+    rdfs:label "Q9360947"^^xsd:string .
+
+wd:Q9360949 a wd:Q2516436 ;
+    rdfs:label "Q9360949"^^xsd:string .
+
+wd:Q9360950 a wd:Q2516436 ;
+    rdfs:label "Q9360950"^^xsd:string .
+
+wd:Q9360951 a wd:Q2516436 ;
+    rdfs:label "Q9360951"^^xsd:string .
+
+wd:Q9360953 a wd:Q2516436 ;
+    rdfs:label "Q9360953"^^xsd:string .
+
+wd:Q9360954 a wd:Q2516436 ;
+    rdfs:label "Q9360954"^^xsd:string .
+
+wd:Q9360955 a wd:Q2516436 ;
+    rdfs:label "Q9360955"^^xsd:string .
+
+wd:Q9360957 a wd:Q2516436 ;
+    rdfs:label "Q9360957"^^xsd:string .
+
+wd:Q9360958 a wd:Q2516436 ;
+    rdfs:label "Q9360958"^^xsd:string .
+
+wd:Q9360959 a wd:Q2516436 ;
+    rdfs:label "Q9360959"^^xsd:string .
+
+wd:Q9360960 a wd:Q2516436 ;
+    rdfs:label "Q9360960"^^xsd:string .
+
+wd:Q9360962 a wd:Q2516436 ;
+    rdfs:label "Q9360962"^^xsd:string .
+
+wd:Q9360963 a wd:Q2516436 ;
+    rdfs:label "Q9360963"^^xsd:string .
+
+wd:Q9360965 a wd:Q2516436 ;
+    rdfs:label "Q9360965"^^xsd:string .
+
+wd:Q9360966 a wd:Q2516436 ;
+    rdfs:label "Q9360966"^^xsd:string .
+
+wd:Q9360967 a wd:Q2516436 ;
+    rdfs:label "Q9360967"^^xsd:string .
+
+wd:Q9360968 a wd:Q2516436 ;
+    rdfs:label "Q9360968"^^xsd:string .
+
+wd:Q9360969 a wd:Q2516436 ;
+    rdfs:label "Q9360969"^^xsd:string .
+
+wd:Q9360970 a wd:Q2516436 ;
+    rdfs:label "Q9360970"^^xsd:string .
+
+wd:Q9360972 a wd:Q2516436 ;
+    rdfs:label "Q9360972"^^xsd:string .
+
+wd:Q9360973 a wd:Q2516436 ;
+    rdfs:label "Q9360973"^^xsd:string .
+
+wd:Q9360974 a wd:Q2516436 ;
+    rdfs:label "Q9360974"^^xsd:string .
+
+wd:Q9360975 a wd:Q2516436 ;
+    rdfs:label "Q9360975"^^xsd:string .
+
+wd:Q9360976 a wd:Q2516436 ;
+    rdfs:label "Q9360976"^^xsd:string .
+
+wd:Q9360977 a wd:Q2516436 ;
+    rdfs:label "Q9360977"^^xsd:string .
+
+wd:Q9360978 a wd:Q2516436 ;
+    rdfs:label "Q9360978"^^xsd:string .
+
+wd:Q9360980 a wd:Q2516436 ;
+    rdfs:label "Q9360980"^^xsd:string .
+
+wd:Q9360982 a wd:Q2516436 ;
+    rdfs:label "Q9360982"^^xsd:string .
+
+wd:Q9360983 a wd:Q2516436 ;
+    rdfs:label "Q9360983"^^xsd:string .
+
+wd:Q9360985 a wd:Q2516436 ;
+    rdfs:label "Q9360985"^^xsd:string .
+
+wd:Q9360986 a wd:Q2516436 ;
+    rdfs:label "Q9360986"^^xsd:string .
+
+wd:Q9360989 a wd:Q2516436 ;
+    rdfs:label "Q9360989"^^xsd:string .
+
+wd:Q9360991 a wd:Q2516436 ;
+    rdfs:label "Q9360991"^^xsd:string .
+
+wd:Q9360993 a wd:Q2516436 ;
+    rdfs:label "Q9360993"^^xsd:string .
+
+wd:Q9360996 a wd:Q2516436 ;
+    rdfs:label "Q9360996"^^xsd:string .
+
+wd:Q9360997 a wd:Q2516436 ;
+    rdfs:label "Q9360997"^^xsd:string .
+
+wd:Q9360998 a wd:Q2516436 ;
+    rdfs:label "Q9360998"^^xsd:string .
+
+wd:Q9360999 a wd:Q2516436 ;
+    rdfs:label "Q9360999"^^xsd:string .
+
+wd:Q9361000 a wd:Q2516436 ;
+    rdfs:label "Q9361000"^^xsd:string .
+
+wd:Q9361001 a wd:Q2516436 ;
+    rdfs:label "Q9361001"^^xsd:string .
+
+wd:Q9361003 a wd:Q2516436 ;
+    rdfs:label "Tramways of Panama#Panama City"@en .
+
+wd:Q9361005 a wd:Q2516436 ;
+    rdfs:label "Q9361005"^^xsd:string .
+
+wd:Q9361006 a wd:Q2516436 ;
+    rdfs:label "Q9361006"^^xsd:string .
+
+wd:Q9361007 a wd:Q2516436 ;
+    rdfs:label "Q9361007"^^xsd:string .
+
+wd:Q9361008 a wd:Q2516436 ;
+    rdfs:label "Q9361008"^^xsd:string .
+
+wd:Q9361009 a wd:Q2516436 ;
+    rdfs:label "Q9361009"^^xsd:string .
+
+wd:Q9361010 a wd:Q2516436 ;
+    rdfs:label "Q9361010"^^xsd:string .
+
+wd:Q9361011 a wd:Q2516436 ;
+    rdfs:label "Q9361011"^^xsd:string .
+
+wd:Q9361012 a wd:Q2516436 ;
+    rdfs:label "Q9361012"^^xsd:string .
+
+wd:Q9361013 a wd:Q2516436 ;
+    rdfs:label "Q9361013"^^xsd:string .
+
+wd:Q9361018 a wd:Q2516436 ;
+    rdfs:label "Q9361018"^^xsd:string .
+
+wd:Q9361019 a wd:Q2516436 ;
+    rdfs:label "Q9361019"^^xsd:string .
+
+wd:Q9361020 a wd:Q2516436 ;
+    rdfs:label "Q9361020"^^xsd:string .
+
+wd:Q9361021 a wd:Q2516436 ;
+    rdfs:label "Q9361021"^^xsd:string .
+
+wd:Q9361023 a wd:Q2516436 ;
+    rdfs:label "Q9361023"^^xsd:string .
+
+wd:Q9361024 a wd:Q2516436 ;
+    rdfs:label "Q9361024"^^xsd:string .
+
+wd:Q9361025 a wd:Q2516436 ;
+    rdfs:label "Q9361025"^^xsd:string .
+
+wd:Q9361027 a wd:Q2516436 ;
+    rdfs:label "Q9361027"^^xsd:string .
+
+wd:Q9361028 a wd:Q2516436 ;
+    rdfs:label "Q9361028"^^xsd:string .
+
+wd:Q9361029 a wd:Q2516436 ;
+    rdfs:label "Q9361029"^^xsd:string .
+
+wd:Q9361030 a wd:Q2516436 ;
+    rdfs:label "Q9361030"^^xsd:string .
+
+wd:Q9361032 a wd:Q2516436 ;
+    rdfs:label "Q9361032"^^xsd:string .
+
+wd:Q9361033 a wd:Q2516436 ;
+    rdfs:label "Q9361033"^^xsd:string .
+
+wd:Q9361034 a wd:Q2516436 ;
+    rdfs:label "Q9361034"^^xsd:string .
+
+wd:Q9361035 a wd:Q2516436 ;
+    rdfs:label "Q9361035"^^xsd:string .
+
+wd:Q9361036 a wd:Q2516436 ;
+    rdfs:label "Q9361036"^^xsd:string .
+
+wd:Q9361037 a wd:Q2516436 ;
+    rdfs:label "Q9361037"^^xsd:string .
+
+wd:Q9361039 a wd:Q2516436 ;
+    rdfs:label "Q9361039"^^xsd:string .
+
+wd:Q9361040 a wd:Q2516436 ;
+    rdfs:label "Q9361040"^^xsd:string .
+
+wd:Q9361041 a wd:Q2516436 ;
+    rdfs:label "Q9361041"^^xsd:string .
+
+wd:Q9361044 a wd:Q2516436 ;
+    rdfs:label "Q9361044"^^xsd:string .
+
+wd:Q9361045 a wd:Q2516436 ;
+    rdfs:label "Q9361045"^^xsd:string .
+
+wd:Q9361046 a wd:Q2516436 ;
+    rdfs:label "Q9361046"^^xsd:string .
+
+wd:Q9361047 a wd:Q2516436 ;
+    rdfs:label "Q9361047"^^xsd:string .
+
+wd:Q9361048 a wd:Q2516436 ;
+    rdfs:label "Q9361048"^^xsd:string .
+
+wd:Q9361049 a wd:Q2516436 ;
+    rdfs:label "Q9361049"^^xsd:string .
+
+wd:Q9361051 a wd:Q2516436 ;
+    rdfs:label "Q9361051"^^xsd:string .
+
+wd:Q9361054 a wd:Q2516436 ;
+    rdfs:label "Q9361054"^^xsd:string .
+
+wd:Q9361056 a wd:Q2516436 ;
+    rdfs:label "Q9361056"^^xsd:string .
+
+wd:Q9361057 a wd:Q2516436 ;
+    rdfs:label "Q9361057"^^xsd:string .
+
+wd:Q9361058 a wd:Q2516436 ;
+    rdfs:label "Q9361058"^^xsd:string .
+
+wd:Q9361059 a wd:Q2516436 ;
+    rdfs:label "Q9361059"^^xsd:string .
+
+wd:Q9361064 a wd:Q2516436 ;
+    rdfs:label "Q9361064"^^xsd:string .
+
+wd:Q9361065 a wd:Q2516436 ;
+    rdfs:label "Q9361065"^^xsd:string .
+
+wd:Q9361068 a wd:Q2516436 ;
+    rdfs:label "Q9361068"^^xsd:string .
+
+wd:Q9361069 a wd:Q2516436 ;
+    rdfs:label "Q9361069"^^xsd:string .
+
+wd:Q9361070 a wd:Q2516436 ;
+    rdfs:label "Q9361070"^^xsd:string .
+
+wd:Q9361071 a wd:Q2516436 ;
+    rdfs:label "Q9361071"^^xsd:string .
+
+wd:Q9361072 a wd:Q2516436 ;
+    rdfs:label "Q9361072"^^xsd:string .
+
+wd:Q9361073 a wd:Q2516436 ;
+    rdfs:label "Q9361073"^^xsd:string .
+
+wd:Q9361074 a wd:Q2516436 ;
+    rdfs:label "Q9361074"^^xsd:string .
+
+wd:Q9361075 a wd:Q2516436 ;
+    rdfs:label "Q9361075"^^xsd:string .
+
+wd:Q9361076 a wd:Q2516436 ;
+    rdfs:label "Q9361076"^^xsd:string .
+
+wd:Q9361077 a wd:Q2516436 ;
+    rdfs:label "Q9361077"^^xsd:string .
+
+wd:Q9361079 a wd:Q2516436 ;
+    rdfs:label "Q9361079"^^xsd:string .
+
+wd:Q9361080 a wd:Q2516436 ;
+    rdfs:label "Q9361080"^^xsd:string .
+
+wd:Q9361081 a wd:Q2516436 ;
+    rdfs:label "Q9361081"^^xsd:string .
+
+wd:Q9361083 a wd:Q2516436 ;
+    rdfs:label "Q9361083"^^xsd:string .
+
+wd:Q9361084 a wd:Q2516436 ;
+    rdfs:label "Q9361084"^^xsd:string .
+
+wd:Q9361085 a wd:Q2516436 ;
+    rdfs:label "Q9361085"^^xsd:string .
+
+wd:Q9361087 a wd:Q2516436 ;
+    rdfs:label "Q9361087"^^xsd:string .
+
+wd:Q9361088 a wd:Q2516436 ;
+    rdfs:label "Q9361088"^^xsd:string .
+
+wd:Q9361089 a wd:Q2516436 ;
+    rdfs:label "Q9361089"^^xsd:string .
+
+wd:Q9361091 a wd:Q2516436 ;
+    rdfs:label "Q9361091"^^xsd:string .
+
+wd:Q9361092 a wd:Q2516436 ;
+    rdfs:label "Q9361092"^^xsd:string .
+
+wd:Q9361094 a wd:Q2516436 ;
+    rdfs:label "Trams in Vilnius"@en .
+
+wd:Q9361096 a wd:Q2516436 ;
+    rdfs:label "Q9361096"^^xsd:string .
+
+wd:Q9361729 a wd:Q2516436 ;
+    rdfs:label "Q9361729"^^xsd:string .
+
+wd:Q9361731 a wd:Q2516436 ;
+    rdfs:label "Q9361731"^^xsd:string .
+
+wd:Q9361733 a wd:Q2516436 ;
+    rdfs:label "Q9361733"^^xsd:string .
+
+wd:Q9361734 a wd:Q18199879 ;
+    rdfs:label "Q9361734"^^xsd:string .
+
+wd:Q9361735 a wd:Q18199879 ;
+    rdfs:label "Q9361735"^^xsd:string .
+
+wd:Q9361736 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Belgrade"@en .
+
+wd:Q9361739 a wd:Q18199879 ;
+    rdfs:label "Q9361739"^^xsd:string .
+
+wd:Q9361740 a wd:Q18199879 ;
+    rdfs:label "Q9361740"^^xsd:string .
+
+wd:Q9361741 a wd:Q2516436 ;
+    rdfs:label "Q9361741"^^xsd:string .
+
+wd:Q9361742 a wd:Q2516436 ;
+    rdfs:label "Q9361742"^^xsd:string .
+
+wd:Q9361743 a wd:Q18199879 ;
+    rdfs:label "Q9361743"^^xsd:string .
+
+wd:Q9361744 a wd:Q2516436 ;
+    rdfs:label "Q9361744"^^xsd:string .
+
+wd:Q9361745 a wd:Q18199879 ;
+    rdfs:label "Trolleybus transport in Teplice"@en .
+
+wd:Q9361746 a wd:Q2516436 ;
+    rdfs:label "Q9361746"^^xsd:string .
+
+wd:Q9361748 a wd:Q18199879 ;
+    rdfs:label "Q9361748"^^xsd:string .
+
+wd:Q9361749 a wd:Q2516436 ;
+    rdfs:label "Q9361749"^^xsd:string .
+
+wd:Q9361750 a wd:Q2516436 ;
+    rdfs:label "Q9361750"^^xsd:string .
+
+wd:Q9361751 a wd:Q2516436 ;
+    rdfs:label "Q9361751"^^xsd:string .
+
+wd:Q9361754 a wd:Q2516436 ;
+    rdfs:label "Q9361754"^^xsd:string .
+
+wd:Q9361755 a wd:Q18199879 ;
+    rdfs:label "Q9361755"^^xsd:string .
+
+wd:Q9361756 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Helsinki"@en .
+
+wd:Q9361757 a wd:Q18199879 ;
+    rdfs:label "Trolleybus transport in Hradec Králové"@en .
+
+wd:Q9361758 a wd:Q2516436 ;
+    rdfs:label "Q9361758"^^xsd:string .
+
+wd:Q9361759 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Jihlava"@en .
+
+wd:Q9361761 a wd:Q2516436 ;
+    rdfs:label "Q9361761"^^xsd:string .
+
+wd:Q9361762 a wd:Q2516436 ;
+    rdfs:label "Q9361762"^^xsd:string .
+
+wd:Q9361763 a wd:Q18199879 ;
+    rdfs:label "Q9361763"^^xsd:string .
+
+wd:Q9361765 a wd:Q2516436 ;
+    rdfs:label "trolleybuses in Medias"@en .
+
+wd:Q9361766 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Mariánské Lázně"@en .
+
+wd:Q9361767 a wd:Q2516436 ;
+    rdfs:label "Q9361767"^^xsd:string .
+
+wd:Q9361768 a wd:Q2516436 ;
+    rdfs:label "Q9361768"^^xsd:string .
+
+wd:Q9361769 a wd:Q18199879 ;
+    rdfs:label "Q9361769"^^xsd:string .
+
+wd:Q9361770 a wd:Q18199879 ;
+    rdfs:label "Q9361770"^^xsd:string .
+
+wd:Q9361772 a wd:Q18199879 ;
+    rdfs:label "Q9361772"^^xsd:string .
+
+wd:Q9361773 a wd:Q2516436 ;
+    rdfs:label "Q9361773"^^xsd:string .
+
+wd:Q9361774 a wd:Q2516436 ;
+    rdfs:label "Q9361774"^^xsd:string .
+
+wd:Q9361776 a wd:Q2516436 ;
+    rdfs:label "Q9361776"^^xsd:string .
+
+wd:Q9361777 a wd:Q2516436 ;
+    rdfs:label "Q9361777"^^xsd:string .
+
+wd:Q9361778 a wd:Q2516436 ;
+    rdfs:label "Q9361778"^^xsd:string .
+
+wd:Q9361779 a wd:Q2516436 ;
+    rdfs:label "Q9361779"^^xsd:string .
+
+wd:Q9361781 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Prague"@en .
+
+wd:Q9361782 a wd:Q2516436 ;
+    rdfs:label "Q9361782"^^xsd:string .
+
+wd:Q9361784 a wd:Q2516436 ;
+    rdfs:label "Q9361784"^^xsd:string .
+
+wd:Q9361785 a wd:Q2516436 ;
+    rdfs:label "Q9361785"^^xsd:string .
+
+wd:Q9361786 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in Stara Zagora"@en .
+
+wd:Q9361787 a wd:Q2516436 ;
+    rdfs:label "Q9361787"^^xsd:string .
+
+wd:Q9361788 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Suceava"@en .
+
+wd:Q9361789 a wd:Q2516436 ;
+    rdfs:label "trolleybuses in Sibiu"@en .
+
+wd:Q9361790 a wd:Q2516436 ;
+    rdfs:label "Q9361790"^^xsd:string .
+
+wd:Q9361791 a wd:Q2516436 ;
+    rdfs:label "Q9361791"^^xsd:string .
+
+wd:Q9361793 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Tampere"@en .
+
+wd:Q9361794 a wd:Q18199879 ;
+    rdfs:label "Q9361794"^^xsd:string .
+
+wd:Q9361796 a wd:Q2516436 ;
+    rdfs:label "Q9361796"^^xsd:string .
+
+wd:Q9361797 a wd:Q2516436 ;
+    rdfs:label "Q9361797"^^xsd:string .
+
+wd:Q9361798 a wd:Q2516436 ;
+    rdfs:label "Q9361798"^^xsd:string .
+
+wd:Q9361799 a wd:Q18199879 ;
+    rdfs:label "Trolleybus transport in Ústí nad Labem"@en .
+
+wd:Q9361800 a wd:Q2516436 ;
+    rdfs:label "Q9361800"^^xsd:string .
+
+wd:Q9361801 a wd:Q18199879 ;
+    rdfs:label "Q9361801"^^xsd:string .
+
+wd:Q9361802 a wd:Q2516436 ;
+    rdfs:label "Q9361802"^^xsd:string .
+
+wd:Q9361803 a wd:Q2516436 ;
+    rdfs:label "Q9361803"^^xsd:string .
+
+wd:Q9373901 a wd:Q2516436 ;
+    rdfs:label "Q9373901"^^xsd:string .
+
+wd:Q9380025 a wd:Q2516436 ;
+    rdfs:label "Bicycle sharing system in Kraków"@en .
+
+wd:Q9395021 a wd:Q2516436 ;
+    rdfs:label "Q9395021"^^xsd:string .
+
+wd:Q945244 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Ashgabat"@en .
+
+wd:Q947622 a wd:Q2516436 ;
+    rdfs:label "Q947622"^^xsd:string .
+
+wd:Q948342 a wd:Q18199879 ;
+    rdfs:label "Q948342"^^xsd:string .
+
+wd:Q949923 a wd:Q18199879 ;
+    rdfs:label "Kanden Tunnel Trolleybus"@en .
+
+wd:Q951988 a wd:Q18199879 ;
+    rdfs:label "Trolleybuses in Mérida"@en .
+
+wd:Q952353 a wd:Q18199879 ;
+    rdfs:label "trolleybuses in Milan"@en .
+
+wd:Q9609818 a wd:Q2516436 ;
+    rdfs:label "Q9609818"^^xsd:string .
+
+wd:Q972135 a wd:Q2516436 ;
+    rdfs:label "Q972135"^^xsd:string .
+
+wd:Q980138 a wd:Q18199879 ;
+    rdfs:label "Q980138"^^xsd:string .
+
+wd:Q983093 a wd:Q2516436 ;
+    rdfs:label "Trolleybuses in Sarajevo"@en .
+
+wd:Q99676 a wd:Q30014735 ;
+    rdfs:label "Bus transport in Berlin"@en .
+
+wd:Q18325841 rdfs:label "public transport network"@en .
+
+wd:Q30014735 rdfs:label "bus-based transport system"@en ;
+    rdfs:subClassOf wd:Q18325841,
+        wd:Q2516436 .
+
+wd:Q18199879 rdfs:label "trolleybus system"@en ;
+    rdfs:subClassOf wd:Q30014735 .
+
+wd:Q2516436 rdfs:label "traffic system"@en .
+

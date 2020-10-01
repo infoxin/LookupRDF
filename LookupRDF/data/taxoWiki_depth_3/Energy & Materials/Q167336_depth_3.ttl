@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q22079607 a wd:Q19829510 ;
+    rdfs:label "isolimonene"@en .
+
+wd:Q4468919 a wd:Q167336 ;
+    rdfs:label "carbon dioxide in Earth's atmosphere"@en .
+
+wd:Q55942755 a wd:Q28732711 ;
+    rdfs:label "poison gas"@en .
+
+wd:Q80190179 a wd:Q167336 ;
+    rdfs:label "Q80190179"^^xsd:string .
+
+wd:Q17154431 rdfs:label "mode of toxic action"@en .
+
+wd:Q50429805 rdfs:label "air pollutant"@en ;
+    rdfs:subClassOf wd:Q19829510 .
+
+wd:Q167336 rdfs:label "greenhouse gas"@en ;
+    rdfs:subClassOf wd:Q50429805 .
+
+wd:Q19829510 rdfs:label "pollutant"@en ;
+    rdfs:subClassOf wd:Q17154431,
+        wd:Q28732711 .
+
+wd:Q28732711 rdfs:label "physical substance"@en .
+

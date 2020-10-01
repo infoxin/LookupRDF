@@ -1,0 +1,5309 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1000230 a wd:Q2695280 ;
+    rdfs:label "Q1000230"^^xsd:string .
+
+wd:Q1000635 a wd:Q2695280 ;
+    rdfs:label "Angle-resolved photoemission spectroscopy"@en .
+
+wd:Q1004684 a wd:Q28816538 ;
+    rdfs:label "air brake"@en .
+
+wd:Q1013808 a wd:Q1914636 ;
+    rdfs:label "glass etching"@en .
+
+wd:Q10268447 a wd:Q2695280 ;
+    rdfs:label "Dosen"@en .
+
+wd:Q10268819 a wd:Q28816538 ;
+    rdfs:label "Droop"@en .
+
+wd:Q10271302 a wd:Q3249551 ;
+    rdfs:label "bids for the 1992 Summer Olympics"@en .
+
+wd:Q1028852 a wd:Q1914636 ;
+    rdfs:label "Gureba"@en .
+
+wd:Q10289413 a wd:Q1914636 ;
+    rdfs:label "Ghost hunting"@en .
+
+wd:Q1029421 a wd:Q1914636 ;
+    rdfs:label "prostitution of children"@en .
+
+wd:Q10354133 a wd:Q3249551 ;
+    rdfs:label "Q10354133"^^xsd:string .
+
+wd:Q10370559 a wd:Q1914636 ;
+    rdfs:label "sertanismo"@en .
+
+wd:Q10383824 a wd:Q2695280 ;
+    rdfs:label "Toss"@en .
+
+wd:Q10396556 a wd:Q4026292 ;
+    rdfs:label "Ôxê"@en .
+
+wd:Q10431634 a wd:Q2695280 ;
+    rdfs:label "Q10431634"^^xsd:string .
+
+wd:Q1043197 a wd:Q1914636 ;
+    rdfs:label "divination"@en .
+
+wd:Q10444891 rdfs:label "Central calculator 37"@en ;
+    rdfs:subClassOf wd:Q657919 .
+
+wd:Q10465512 a wd:Q811909 ;
+    rdfs:label "DZTL"@en .
+
+wd:Q10467798 a wd:Q1914636 ;
+    rdfs:label "decoration painting"@en .
+
+wd:Q1047163 a wd:Q2695280 ;
+    rdfs:label "Auto detailing"@en .
+
+wd:Q1047358 a wd:Q2695280 ;
+    rdfs:label "Plane Table Surveying"@en .
+
+wd:Q1051110 a wd:Q1914636 ;
+    rdfs:label "seal cutting"@en .
+
+wd:Q1054063 a wd:Q28816538 ;
+    rdfs:label "non-directional beacon"@en .
+
+wd:Q1055947 a wd:Q28816538 ;
+    rdfs:label "airstair"@en .
+
+wd:Q10603928 a wd:Q811909 ;
+    rdfs:label "Nozag"@en .
+
+wd:Q10605680 a wd:Q811909 ;
+    rdfs:label "ORFS"@en .
+
+wd:Q1062045 a wd:Q2695280 ;
+    rdfs:label "Bingwu"@en .
+
+wd:Q1063245 a wd:Q28816538 ;
+    rdfs:label "identification friend or foe"@en .
+
+wd:Q1063730 a wd:Q28816538 ;
+    rdfs:label "Air data computer"@en .
+
+wd:Q1064754 a wd:Q1914636 ;
+    rdfs:label "streaking"@en .
+
+wd:Q1067034 a wd:Q28816538 ;
+    rdfs:label "electronic flight instrument system"@en .
+
+wd:Q1067099 a wd:Q2695280 ;
+    rdfs:label "internetworking"@en .
+
+wd:Q10676124 a wd:Q3249551 ;
+    rdfs:label "Q10676124"^^xsd:string .
+
+wd:Q10690961 a wd:Q2695280 ;
+    rdfs:label "tapestry stitch"@en .
+
+wd:Q10706881 a wd:Q1914636 ;
+    rdfs:label "Zwangsmittel"@en .
+
+wd:Q1074780 a wd:Q2695280 ;
+    rdfs:label "Chirp spread spectrum"@en .
+
+wd:Q10749002 a wd:Q1914636 ;
+    rdfs:label "Cle"@en .
+
+wd:Q10751894 a wd:Q1914636 ;
+    rdfs:label "lifesaving"@en .
+
+wd:Q1077779 a wd:Q2695280 ;
+    rdfs:label "variable valve timing"@en .
+
+wd:Q107885 a wd:Q1914636 ;
+    rdfs:label "speculation"@en .
+
+wd:Q10854414 a wd:Q28816538 ;
+    rdfs:label "ARINC"@en .
+
+wd:Q1087682 a wd:Q3249551 ;
+    rdfs:label "background check"@en .
+
+wd:Q1088161 a wd:Q811909 ;
+    rdfs:label "magnetic core"@en .
+
+wd:Q1088655 a wd:Q28816538 ;
+    rdfs:label "tiltrotor"@en .
+
+wd:Q1094706 a wd:Q1914636 ;
+    rdfs:label "Grinding"@en .
+
+wd:Q1095278 a wd:Q28816538 ;
+    rdfs:label "Soloviev D-25"@en .
+
+wd:Q10954043 a wd:Q1914636 ;
+    rdfs:label "peacekeeping"@en .
+
+wd:Q1096168 a wd:Q28816538 ;
+    rdfs:label "tailplane"@en .
+
+wd:Q11034 a wd:Q1914636 ;
+    rdfs:label "printing"@en .
+
+wd:Q1103988 a wd:Q28816538 ;
+    rdfs:label "Target Acquisition and Designation Sights, Pilot Night Vision System"@en .
+
+wd:Q1104030 a wd:Q28816538 ;
+    rdfs:label "radar altimeter"@en .
+
+wd:Q1110579 a wd:Q28816538 ;
+    rdfs:label "fuselage"@en .
+
+wd:Q11189662 a wd:Q811909 ;
+    rdfs:label "ASSY"@en .
+
+wd:Q11200101 a wd:Q2695280 ;
+    rdfs:label "ffrr"@en .
+
+wd:Q11200104 a wd:Q2695280 ;
+    rdfs:label "ffss"@en .
+
+wd:Q1122526 a wd:Q1914636 ;
+    rdfs:label "ice cross downhill"@en .
+
+wd:Q11252653 a wd:Q811909 ;
+    rdfs:label "VIL"@en .
+
+wd:Q1125439 a wd:Q28816538 ;
+    rdfs:label "conformal fuel tank"@en .
+
+wd:Q1128406 a wd:Q1914636 ;
+    rdfs:label "correspondence chess"@en .
+
+wd:Q1128648 a wd:Q2695280 ;
+    rdfs:label "content-based image retrieval"@en .
+
+wd:Q11289149 a wd:Q2695280 ;
+    rdfs:label "uranium enrichment"@en .
+
+wd:Q1129471 a wd:Q28816538 ;
+    rdfs:label "T800"@en .
+
+wd:Q11295 a wd:Q2695280 ;
+    rdfs:label "Anamorphic widescreen"@en .
+
+wd:Q11319265 a wd:Q2695280 ;
+    rdfs:label "test double"@en .
+
+wd:Q1132884 a wd:Q4026292 ;
+    rdfs:label "Complete game"@en .
+
+wd:Q11351118 a wd:Q28816538 ;
+    rdfs:label "Rolls-Royce T406"@en .
+
+wd:Q1135122 a wd:Q28816538 ;
+    rdfs:label "Steam aircraft"@en .
+
+wd:Q1136013 a wd:Q2695280 ;
+    rdfs:label "Frequency-hopping spread spectrum"@en .
+
+wd:Q1137596 a wd:Q28816538 ;
+    rdfs:label "TERCOM"@en .
+
+wd:Q1138219 a wd:Q28816538 ;
+    rdfs:label "Cowling"@en .
+
+wd:Q1139832 a wd:Q28816538 ;
+    rdfs:label "Crew rest compartment"@en .
+
+wd:Q1144458 a wd:Q1914636 ;
+    rdfs:label "archaeological field survey"@en .
+
+wd:Q11487834 a wd:Q2695280 ;
+    rdfs:label "Q11487834"^^xsd:string .
+
+wd:Q11498149 a wd:Q2695280 ;
+    rdfs:label "Q11498149"^^xsd:string .
+
+wd:Q1151031 a wd:Q2695280 ;
+    rdfs:label "Debye model"@en .
+
+wd:Q1151285 a wd:Q811909 ;
+    rdfs:label "D-Glied"@en .
+
+wd:Q1154312 a wd:Q2695280 ;
+    rdfs:label "video editing"@en .
+
+wd:Q1154530 a wd:Q3249551 ;
+    rdfs:label "DMADV"@en .
+
+wd:Q11567648 a wd:Q2695280 ;
+    rdfs:label "Yakisugi"@en .
+
+wd:Q1161151 a wd:Q28816538 ;
+    rdfs:label "Unibody"@en .
+
+wd:Q1163026 a wd:Q28816538 ;
+    rdfs:label "engine cooling radiator"@en .
+
+wd:Q11633 a wd:Q2695280 ;
+    rdfs:label "photography"@en .
+
+wd:Q11642 a wd:Q1914636 ;
+    rdfs:label "pottery"@en .
+
+wd:Q11649704 a wd:Q1914636 ;
+    rdfs:label "railway photography"@en .
+
+wd:Q11680564 a wd:Q1914636 ;
+    rdfs:label "Q11680564"^^xsd:string .
+
+wd:Q11752256 a wd:Q2695280 ;
+    rdfs:label "LAIR"@en .
+
+wd:Q11815276 a wd:Q4026292 ;
+    rdfs:label "Q11815276"^^xsd:string .
+
+wd:Q11859981 a wd:Q2695280 ;
+    rdfs:label "Fransu"@en .
+
+wd:Q1186844 a wd:Q3249551 ;
+    rdfs:label "leather crafting"@en .
+
+wd:Q1187096 a wd:Q2695280 ;
+    rdfs:label "underline"@en .
+
+wd:Q11880995 a wd:Q1914636 ;
+    rdfs:label "berry picking"@en .
+
+wd:Q11894630 a wd:Q2695280 ;
+    rdfs:label "Suki"@en .
+
+wd:Q11907167 a wd:Q413 ;
+    rdfs:label "Q11907167"^^xsd:string .
+
+wd:Q11916953 a wd:Q1914636 ;
+    rdfs:label "archival description"@en .
+
+wd:Q1192270 a wd:Q28816538 ;
+    rdfs:label "MIL-STD-1553"@en .
+
+wd:Q11923095 a wd:Q413 ;
+    rdfs:label "Q11923095"^^xsd:string .
+
+wd:Q1194492 a wd:Q1914636 ;
+    rdfs:label "angling"@en .
+
+wd:Q119770 a wd:Q1914636 ;
+    rdfs:label "nose-picking"@en .
+
+wd:Q1200681 a wd:Q3249551 ;
+    rdfs:label "designation"@en .
+
+wd:Q12013292 a wd:Q1914636 ;
+    rdfs:label "Q12013292"^^xsd:string .
+
+wd:Q12051030 a wd:Q1914636 ;
+    rdfs:label "choral conducting"@en .
+
+wd:Q12061499 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.1"@en .
+
+wd:Q12062721 a wd:Q1914636 ;
+    rdfs:label "CSRP"@en .
+
+wd:Q12099208 a wd:Q1914636 ;
+    rdfs:label "Q12099208"^^xsd:string .
+
+wd:Q12200586 a wd:Q2695280 ;
+    rdfs:label "A porta gayola"@en .
+
+wd:Q1224389 a wd:Q1914636 ;
+    rdfs:label "copy editing"@en .
+
+wd:Q1227658 a wd:Q1914636 ;
+    rdfs:label "Executive search"@en .
+
+wd:Q1227672 a wd:Q2695280 ;
+    rdfs:label "No-till farming"@en .
+
+wd:Q12283360 a wd:Q1914636 ;
+    rdfs:label "collective rights management"@en .
+
+wd:Q1228537 a wd:Q2695280 ;
+    rdfs:label "spool knitting"@en .
+
+wd:Q12312095 a wd:Q1914636 ;
+    rdfs:label "Q12312095"^^xsd:string .
+
+wd:Q12323475 a wd:Q811909 ;
+    rdfs:label "L-3"@en .
+
+wd:Q1232760 a wd:Q1914636 ;
+    rdfs:label "Vorlehre"@en .
+
+wd:Q12333 a wd:Q2695280 ;
+    rdfs:label "IPv6 transition mechanisms"@en .
+
+wd:Q1235354 a wd:Q2695280 ;
+    rdfs:label "Dolby Pro Logic"@en .
+
+wd:Q1237093 a wd:Q1914636 ;
+    rdfs:label "Wringen"@en .
+
+wd:Q12371171 a wd:Q3249551 ;
+    rdfs:label "Q12371171"^^xsd:string .
+
+wd:Q1239480 a wd:Q28816538 ;
+    rdfs:label "in-flight entertainment"@en .
+
+wd:Q12404094 a wd:Q11650 ;
+    rdfs:label "Anti - Mehikon"@en .
+
+wd:Q1243255 a wd:Q28816538 ;
+    rdfs:label "Tandem rotors"@en .
+
+wd:Q124366 a wd:Q811909 ;
+    rdfs:label "brake shoe"@en .
+
+wd:Q1243833 a wd:Q28816538 ;
+    rdfs:label "airplane mode"@en .
+
+wd:Q12486107 a wd:Q2695280 ;
+    rdfs:label "I'lal"@en .
+
+wd:Q1250718 a wd:Q4026292 ;
+    rdfs:label "relaunch"@en .
+
+wd:Q12554212 a wd:Q1914636 ;
+    rdfs:label "Q12554212"^^xsd:string .
+
+wd:Q125587 a wd:Q3249551 ;
+    rdfs:label "interpretatio graeca"@en .
+
+wd:Q12578014 a wd:Q811909 ;
+    rdfs:label "Q12578014"^^xsd:string .
+
+wd:Q1261011 a wd:Q28816538 ;
+    rdfs:label "pressure-sensitive paint"@en .
+
+wd:Q1268194 a wd:Q28816538 ;
+    rdfs:label "Servo tab"@en .
+
+wd:Q1268345 a wd:Q2695280 ;
+    rdfs:label "Dvorak technique"@en .
+
+wd:Q12717869 a wd:Q811909 ;
+    rdfs:label "Rakke"@en .
+
+wd:Q127213 a wd:Q1914636 ;
+    rdfs:label "arboriculture"@en .
+
+wd:Q12721719 a wd:Q811909 ;
+    rdfs:label "Q12721719"^^xsd:string .
+
+wd:Q12738229 a wd:Q811909 ;
+    rdfs:label "Pneu"@en .
+
+wd:Q1281188 a wd:Q1914636 ;
+    rdfs:label "cheesemaking"@en .
+
+wd:Q1287468 a wd:Q28816538 ;
+    rdfs:label "Intermeshing rotors"@en .
+
+wd:Q12891137 a wd:Q1914636 ;
+    rdfs:label "Q12891137"^^xsd:string .
+
+wd:Q12892521 a wd:Q1914636 ;
+    rdfs:label "Q12892521"^^xsd:string .
+
+wd:Q129229 a wd:Q2695280 ;
+    rdfs:label "digital prototyping"@en .
+
+wd:Q1292474 a wd:Q28816538 ;
+    rdfs:label "Wire strike protection system"@en .
+
+wd:Q1295154 a wd:Q28816538 ;
+    rdfs:label "Environmental control system"@en .
+
+wd:Q12960632 a wd:Q2695280 ;
+    rdfs:label "rounding decimals"@en .
+
+wd:Q1297897 a wd:Q1914636 ;
+    rdfs:label "sex work"@en .
+
+wd:Q130044 a wd:Q1914636 ;
+    rdfs:label "swaddling"@en .
+
+wd:Q1303116 a wd:Q28816538 ;
+    rdfs:label "spar"@en .
+
+wd:Q1304791 a wd:Q3249551 ;
+    rdfs:label "goldwork"@en .
+
+wd:Q1305571 a wd:Q1914636 ;
+    rdfs:label "Q1305571"^^xsd:string .
+
+wd:Q1309003 a wd:Q1914636 ;
+    rdfs:label "Einschwenken"@en .
+
+wd:Q13136630 a wd:Q1914636 ;
+    rdfs:label "bell ringing"@en .
+
+wd:Q13137278 a wd:Q1914636 ;
+    rdfs:label "Q13137278"^^xsd:string .
+
+wd:Q131508 a wd:Q1914636 ;
+    rdfs:label "enterprise resource planning"@en .
+
+wd:Q1321267 a wd:Q3249551 ;
+    rdfs:label "egg tempera"@en .
+
+wd:Q1321971 a wd:Q221329 ;
+    rdfs:label "reaction control system"@en .
+
+wd:Q1325950 a wd:Q28816538 ;
+    rdfs:label "MTR MTR390"@en .
+
+wd:Q1326152 a wd:Q28816538 ;
+    rdfs:label "Electronic flight bag"@en .
+
+wd:Q133067 a wd:Q3249551 ;
+    rdfs:label "mosaic"@en .
+
+wd:Q133080 a wd:Q1914636 ;
+    rdfs:label "public relations"@en .
+
+wd:Q1332256 a wd:Q2695280 ;
+    rdfs:label "data striping"@en .
+
+wd:Q1332749 a wd:Q28816538 ;
+    rdfs:label "Tactical air navigation system"@en .
+
+wd:Q13405536 a wd:Q811909 ;
+    rdfs:label "quill drive"@en .
+
+wd:Q13407871 a wd:Q28816538 ;
+    rdfs:label "Variable pitch propeller"@en .
+
+wd:Q13425292 a wd:Q1914636 ;
+    rdfs:label "adventure"@en .
+
+wd:Q1343013 rdfs:label "Enhanced Ground Proximity Warning System"@en ;
+    rdfs:subClassOf wd:Q1138034 .
+
+wd:Q1343028 a wd:Q28816538 ;
+    rdfs:label "helicopter rotor"@en .
+
+wd:Q1343316 a wd:Q1914636 ;
+    rdfs:label "military command"@en .
+
+wd:Q13446430 a wd:Q2695280 ;
+    rdfs:label "Q13446430"^^xsd:string .
+
+wd:Q1345748 a wd:Q811909 ;
+    rdfs:label "drainage channel"@en .
+
+wd:Q135728 a wd:Q28816538 ;
+    rdfs:label "sterndrive"@en .
+
+wd:Q13574477 a wd:Q2695280 ;
+    rdfs:label "dry hopping"@en .
+
+wd:Q1361664 a wd:Q2695280 ;
+    rdfs:label "laser scanning"@en .
+
+wd:Q1362011 a wd:Q28816538 ;
+    rdfs:label "Aircraft rudders"@en .
+
+wd:Q1362274 a wd:Q3249551 ;
+    rdfs:label "hominization"@en .
+
+wd:Q13626277 a wd:Q1914636 ;
+    rdfs:label "Sexual Jihad"@en .
+
+wd:Q1363554 a wd:Q1914636 ;
+    rdfs:label "financial analysis"@en .
+
+wd:Q1366192 a wd:Q2695280 ;
+    rdfs:label "system identification"@en .
+
+wd:Q1366963 a wd:Q1914636 ;
+    rdfs:label "whale watching"@en .
+
+wd:Q1367488 a wd:Q28816538 ;
+    rdfs:label "radio direction finding"@en .
+
+wd:Q137193 a wd:Q2695280 ;
+    rdfs:label "Stem Christie"@en .
+
+wd:Q137273 a wd:Q2695280 ;
+    rdfs:label "snowplough turn"@en .
+
+wd:Q1388116 a wd:Q28816538 ;
+    rdfs:label "area navigation"@en .
+
+wd:Q138875 a wd:Q28816538 ;
+    rdfs:label "Apollo Guidance Computer"@en .
+
+wd:Q1390870 a wd:Q811909 ;
+    rdfs:label "Q1390870"^^xsd:string .
+
+wd:Q1391827 a wd:Q28816538 ;
+    rdfs:label "Yaw string"@en .
+
+wd:Q139188 a wd:Q28816538 ;
+    rdfs:label "elevon"@en .
+
+wd:Q1392605 a wd:Q2695280 ;
+    rdfs:label "Bicycle technology"@en .
+
+wd:Q1393607 a wd:Q2695280 ;
+    rdfs:label "Q1393607"^^xsd:string .
+
+wd:Q1396390 a wd:Q2695280,
+        wd:Q3249551 ;
+    rdfs:label "color grading"@en .
+
+wd:Q1399180 a wd:Q3249551 ;
+    rdfs:label "interpretatio romana"@en .
+
+wd:Q1400127 a wd:Q741490 ;
+    rdfs:label "Spirit of Berlin"@en .
+
+wd:Q1408288 a wd:Q2695280 ;
+    rdfs:label "manufacturing process"@en .
+
+wd:Q1412809 a wd:Q2695280 ;
+    rdfs:label "laminated object manufacturing"@en .
+
+wd:Q1413596 a wd:Q1914636 ;
+    rdfs:label "Rub"@en .
+
+wd:Q1414568 a wd:Q2695280 ;
+    rdfs:label "track stand"@en .
+
+wd:Q1415247 a wd:Q1914636 ;
+    rdfs:label "film preservation"@en .
+
+wd:Q1415356 a wd:Q1914636 ;
+    rdfs:label "film distribution"@en .
+
+wd:Q1416052 a wd:Q1914636 ;
+    rdfs:label "computer-assisted legal research"@en .
+
+wd:Q1417815 a wd:Q1914636 ;
+    rdfs:label "reading education"@en .
+
+wd:Q1420117 a wd:Q1914636 ;
+    rdfs:label "reefing"@en .
+
+wd:Q1420413 a wd:Q1914636 ;
+    rdfs:label "health technology assessment"@en .
+
+wd:Q1421651 a wd:Q2695280 ;
+    rdfs:label "Team software process"@en .
+
+wd:Q14222943 a wd:Q1914636 ;
+    rdfs:label "London South Bank Walk"@en .
+
+wd:Q1423755 a wd:Q2695280 ;
+    rdfs:label "repechage"@en .
+
+wd:Q1425343 a wd:Q2695280 ;
+    rdfs:label "radio electronics"@en .
+
+wd:Q1425781 a wd:Q28816538 ;
+    rdfs:label "Visual Docking Guidance System"@en .
+
+wd:Q1427231 a wd:Q2695280 ;
+    rdfs:label "Valsalva maneuver"@en .
+
+wd:Q1427277 a wd:Q28816538 ;
+    rdfs:label "Flat rated"@en .
+
+wd:Q1428038 a wd:Q28816538 ;
+    rdfs:label "Flensburg radar detector"@en .
+
+wd:Q1428108 a wd:Q1914636 ;
+    rdfs:label "room air distribution"@en .
+
+wd:Q1428192 a wd:Q28816538 ;
+    rdfs:label "Flettner rotor"@en .
+
+wd:Q1429051 a wd:Q1914636 ;
+    rdfs:label "shunting"@en .
+
+wd:Q1429439 a wd:Q2695280 ;
+    rdfs:label "logical volume management"@en .
+
+wd:Q1430184 a wd:Q1914636 ;
+    rdfs:label "performance appraisal"@en .
+
+wd:Q1430627 a wd:Q1914636 ;
+    rdfs:label "Snake charming"@en .
+
+wd:Q1430892 a wd:Q1914636 ;
+    rdfs:label "voluntary social year"@en .
+
+wd:Q1431175 a wd:Q741490 ;
+    rdfs:label "Stanley"@en .
+
+wd:Q1433666 a wd:Q28816538 ;
+    rdfs:label "yaw damper"@en .
+
+wd:Q14373 a wd:Q1914636 ;
+    rdfs:label "fishing"@en .
+
+wd:Q14378675 a wd:Q4026292 ;
+    rdfs:label "Q14378675"^^xsd:string .
+
+wd:Q143812 a wd:Q2695280 ;
+    rdfs:label "brushing technique"@en .
+
+wd:Q14415867 a wd:Q28816538 ;
+    rdfs:label "Q14415867"^^xsd:string .
+
+wd:Q1442839 a wd:Q4402369 ;
+    rdfs:label "Q1442839"^^xsd:string .
+
+wd:Q1443682 a wd:Q28816538 ;
+    rdfs:label "HAL/Turbomeca Shakti"@en .
+
+wd:Q1454475 a wd:Q2695280 ;
+    rdfs:label "dynamic line rating"@en .
+
+wd:Q1455737 a wd:Q1914636 ;
+    rdfs:label "ferreting"@en .
+
+wd:Q14592527 a wd:Q28816538 ;
+    rdfs:label "Intake ramp"@en .
+
+wd:Q1460219 a wd:Q1914636 ;
+    rdfs:label "floral design"@en .
+
+wd:Q14614313 a wd:Q1914636 ;
+    rdfs:label "lustration"@en .
+
+wd:Q14630573 a wd:Q811909 ;
+    rdfs:label "Q14630573"^^xsd:string .
+
+wd:Q14631474 a wd:Q1914636 ;
+    rdfs:label "Q14631474"^^xsd:string .
+
+wd:Q1463507 a wd:Q28816538 ;
+    rdfs:label "Wing root"@en .
+
+wd:Q14657787 a wd:Q28816538 ;
+    rdfs:label "Airborne Precision Spacing"@en .
+
+wd:Q1475300 a wd:Q2695280 ;
+    rdfs:label "fused deposition modeling"@en .
+
+wd:Q1476344 a wd:Q2695280 ;
+    rdfs:label "heating technology"@en .
+
+wd:Q1476975 a wd:Q28816538 ;
+    rdfs:label "Hush kit"@en .
+
+wd:Q1480721 a wd:Q28816538 ;
+    rdfs:label "Inlaid"@en .
+
+wd:Q1481938 a wd:Q1914636 ;
+    rdfs:label "militancy"@en .
+
+wd:Q14849424 a wd:Q2695280 ;
+    rdfs:label "barebow"@en .
+
+wd:Q1486507 rdfs:label "radar jamming and deception"@en ;
+    rdfs:subClassOf wd:Q849203 .
+
+wd:Q1491128 a wd:Q1914636 ;
+    rdfs:label "gold prospecting"@en .
+
+wd:Q14922836 a wd:Q811909 ;
+    rdfs:label "Q14922836"^^xsd:string .
+
+wd:Q1493279 a wd:Q2695280 ;
+    rdfs:label "Colombian necktie"@en .
+
+wd:Q1500322 a wd:Q28816538 ;
+    rdfs:label "Navigation light"@en .
+
+wd:Q15008046 a wd:Q1914636 ;
+    rdfs:label "log driving"@en .
+
+wd:Q1501099 a wd:Q28816538 ;
+    rdfs:label "Gemini Guidance Computer"@en .
+
+wd:Q1501576 a wd:Q28816538 ;
+    rdfs:label "T64"@en .
+
+wd:Q15050497 rdfs:label "RP-2 Torii"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q15056973 rdfs:label "Magnavox A-RPX-5"@en ;
+    rdfs:subClassOf wd:Q18822 .
+
+wd:Q15056975 rdfs:label "Kaiser Kroma"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q1506785 a wd:Q28816538 ;
+    rdfs:label "empennage"@en .
+
+wd:Q1509173 a wd:Q2695280 ;
+    rdfs:label "Q1509173"^^xsd:string .
+
+wd:Q15150284 a wd:Q28816538 ;
+    rdfs:label "Centre stick"@en .
+
+wd:Q1515744 a wd:Q28816538 ;
+    rdfs:label "Arrius"@en .
+
+wd:Q15177220 rdfs:label "cockpit voice recorder"@en ;
+    rdfs:subClassOf wd:Q998319 .
+
+wd:Q1518753 a wd:Q1914636 ;
+    rdfs:label "Gesenk"@en .
+
+wd:Q1520743 a wd:Q3249551 ;
+    rdfs:label "Canadian Confederation"@en .
+
+wd:Q1524556 a wd:Q28816538 ;
+    rdfs:label "Gillham code"@en .
+
+wd:Q1531090 a wd:Q2695280 ;
+    rdfs:label "Integrated Digital Enhanced Network"@en .
+
+wd:Q1531146 a wd:Q28816538 ;
+    rdfs:label "RAD750"@en .
+
+wd:Q1538257 a wd:Q2695280 ;
+    rdfs:label "Q1538257"^^xsd:string .
+
+wd:Q15383191 a wd:Q1914636 ;
+    rdfs:label "Technology intelligence"@en .
+
+wd:Q1540766 a wd:Q2695280 ;
+    rdfs:label "No-Dig sewer renovation"@en .
+
+wd:Q154273 a wd:Q1914636 ;
+    rdfs:label "colportage"@en .
+
+wd:Q15449497 a wd:Q1914636 ;
+    rdfs:label "executive transport"@en .
+
+wd:Q1545843 a wd:Q28816538 ;
+    rdfs:label "Wing fence"@en .
+
+wd:Q1546695 a wd:Q1914636 ;
+    rdfs:label "cartomancy"@en .
+
+wd:Q1547688 a wd:Q28816538 ;
+    rdfs:label "Local Area Augmentation System"@en .
+
+wd:Q15488100 a wd:Q1914636 ;
+    rdfs:label "film direction"@en .
+
+wd:Q1550561 a wd:Q2695280 ;
+    rdfs:label "Q1550561"^^xsd:string .
+
+wd:Q1550789 a wd:Q1914636 ;
+    rdfs:label "Pharmacovigilance"@en .
+
+wd:Q1552147 a wd:Q1914636 ;
+    rdfs:label "Q1552147"^^xsd:string .
+
+wd:Q1552913 a wd:Q2695280 ;
+    rdfs:label "multitrack recording"@en .
+
+wd:Q1553280 a wd:Q811909 ;
+    rdfs:label "plowshare"@en .
+
+wd:Q1560010 a wd:Q2695280 ;
+    rdfs:label "Q1560010"^^xsd:string .
+
+wd:Q1562653 a wd:Q741490 ;
+    rdfs:label "H1ghlander"@en .
+
+wd:Q1563454 a wd:Q2695280 ;
+    rdfs:label "HD Radio"@en .
+
+wd:Q1571805 a wd:Q1914636 ;
+    rdfs:label "Tech C"@en .
+
+wd:Q1571929 a wd:Q1914636 ;
+    rdfs:label "general aviation"@en .
+
+wd:Q15727520 a wd:Q28816538 ;
+    rdfs:label "Gust lock"@en .
+
+wd:Q15809069 a wd:Q2695280 ;
+    rdfs:label "Q15809069"^^xsd:string .
+
+wd:Q15832958 a wd:Q28816538 ;
+    rdfs:label "aircraft station"@en .
+
+wd:Q1583429 a wd:Q4026292 ;
+    rdfs:label "Stand in the Schoolhouse Door"@en .
+
+wd:Q15838876 a wd:Q221329 ;
+    rdfs:label "Pro Line 21"@en .
+
+wd:Q15846522 a wd:Q4026292 ;
+    rdfs:label "Q15846522"^^xsd:string .
+
+wd:Q15850009 a wd:Q1914636 ;
+    rdfs:label "Day-tripper"@en .
+
+wd:Q15877766 a wd:Q1914636 ;
+    rdfs:label "Q15877766"^^xsd:string .
+
+wd:Q15883587 a wd:Q4026292 ;
+    rdfs:label "claim"@en .
+
+wd:Q15911027 a wd:Q2695280 ;
+    rdfs:label "demographic balance"@en .
+
+wd:Q1597418 a wd:Q2695280 ;
+    rdfs:label "Visual cryptography"@en .
+
+wd:Q1598031 a wd:Q1914636 ;
+    rdfs:label "Illizit"@en .
+
+wd:Q15989165 rdfs:label "Blue Fox"@en ;
+    rdfs:subClassOf wd:Q17423303 .
+
+wd:Q15989169 rdfs:label "Blue Vixen"@en ;
+    rdfs:subClassOf wd:Q17423303 .
+
+wd:Q1625089 a wd:Q3249551 ;
+    rdfs:label "Holotropic Breathwork"@en .
+
+wd:Q16257096 a wd:Q28816538 ;
+    rdfs:label "Blind Landing Experimental Unit"@en .
+
+wd:Q1626884 a wd:Q28816538 ;
+    rdfs:label "Honeywell HTS900"@en .
+
+wd:Q1632276 a wd:Q28816538 ;
+    rdfs:label "Lycoming T53"@en .
+
+wd:Q1642790 a wd:Q2695280 ;
+    rdfs:label "circuit technology"@en .
+
+wd:Q1643184 a wd:Q1914636 ;
+    rdfs:label "help"@en .
+
+wd:Q1644403 a wd:Q11650 ;
+    rdfs:label "Q1644403"^^xsd:string .
+
+wd:Q1649442 a wd:Q2695280 ;
+    rdfs:label "Q1649442"^^xsd:string .
+
+wd:Q1650350 a wd:Q1914636 ;
+    rdfs:label "prospecting"@en .
+
+wd:Q1653128 a wd:Q28816538 ;
+    rdfs:label "IBM RAD6000"@en .
+
+wd:Q1662372 a wd:Q28816538 ;
+    rdfs:label "Longeron"@en .
+
+wd:Q16635395 a wd:Q1914636 ;
+    rdfs:label "tarotology"@en .
+
+wd:Q16636934 a wd:Q2695280 ;
+    rdfs:label "Francisation"@en .
+
+wd:Q166376 a wd:Q1914636 ;
+    rdfs:label "doping in sport"@en .
+
+wd:Q1665437 a wd:Q28816538 ;
+    rdfs:label "Integrated modular avionics"@en .
+
+wd:Q1668127 a wd:Q2695280 ;
+    rdfs:label "replayed sample"@en .
+
+wd:Q1668135 a wd:Q3249551 ;
+    rdfs:label "interpretatio celtica"@en .
+
+wd:Q1671165 a wd:Q1914636 ;
+    rdfs:label "Seihen"@en .
+
+wd:Q1675033 a wd:Q1914636 ;
+    rdfs:label "Itako"@en .
+
+wd:Q16763466 a wd:Q28816538 ;
+    rdfs:label "Transverse rotors"@en .
+
+wd:Q1676551 a wd:Q28816538 ;
+    rdfs:label "JATO"@en .
+
+wd:Q16774774 a wd:Q28816538 ;
+    rdfs:label "ground carriage"@en .
+
+wd:Q16825608 a wd:Q28816538 ;
+    rdfs:label "Advisory circular"@en .
+
+wd:Q16847193 a wd:Q2695280 ;
+    rdfs:label "Broken square"@en .
+
+wd:Q1687649 a wd:Q28816538 ;
+    rdfs:label "Jericho trumpet"@en .
+
+wd:Q16879713 a wd:Q28816538 ;
+    rdfs:label "RH1750"@en .
+
+wd:Q16879932 a wd:Q1914636 ;
+    rdfs:label "musical instrument making"@en .
+
+wd:Q16920157 a wd:Q1914636 ;
+    rdfs:label "variation"@en .
+
+wd:Q16931213 a wd:Q28816538 ;
+    rdfs:label "Loran-C"@en .
+
+wd:Q16943544 a wd:Q28816538 ;
+    rdfs:label "Leyland 2S/350 gas turbine"@en .
+
+wd:Q16944853 a wd:Q1914636 ;
+    rdfs:label "Hydraulist"@en .
+
+wd:Q16947683 a wd:Q28816538 ;
+    rdfs:label "ARINC 828"@en .
+
+wd:Q1695387 rdfs:label "AN/ALR-69"@en ;
+    rdfs:subClassOf wd:Q4402369 .
+
+wd:Q169545 a wd:Q811909 ;
+    rdfs:label "tire"@en .
+
+wd:Q16962391 a wd:Q28816538 ;
+    rdfs:label "Astronics Max-Viz"@en .
+
+wd:Q16962443 a wd:Q28816538 ;
+    rdfs:label "ATHENA computer"@en .
+
+wd:Q16964129 a wd:Q28816538 ;
+    rdfs:label "HRG gyrocompass"@en .
+
+wd:Q1696762 a wd:Q2695280 ;
+    rdfs:label "S-Lay"@en .
+
+wd:Q16974261 a wd:Q28816538 ;
+    rdfs:label "Cherokee"@en .
+
+wd:Q17001427 a wd:Q1914636 ;
+    rdfs:label "Bitcoin network"@en .
+
+wd:Q17002087 a wd:Q2695280 ;
+    rdfs:label "Feminist post-structuralist discourse analysis"@en .
+
+wd:Q17003225 a wd:Q1914636 ;
+    rdfs:label "biological illustration"@en .
+
+wd:Q17003226 a wd:Q28816538 ;
+    rdfs:label "AC 25.1309-1"@en .
+
+wd:Q17006511 a wd:Q2695280 ;
+    rdfs:label "chemical shift index"@en .
+
+wd:Q17020822 a wd:Q28816538 ;
+    rdfs:label "Squitter"@en .
+
+wd:Q17022341 a wd:Q28816538 ;
+    rdfs:label "Hemispherical resonator gyroscope"@en .
+
+wd:Q17023317 a wd:Q1914636 ;
+    rdfs:label "Shoulder Pole Rice Eating"@en .
+
+wd:Q17024773 a wd:Q1914636 ;
+    rdfs:label "television weathercast"@en .
+
+wd:Q17030691 a wd:Q28816538 ;
+    rdfs:label "Honeywell Primus"@en .
+
+wd:Q17039323 a wd:Q28816538 ;
+    rdfs:label "Klimov VK-800"@en .
+
+wd:Q17052290 a wd:Q28816538 ;
+    rdfs:label "Smart Intelligent Aircraft Structures"@en .
+
+wd:Q17052385 a wd:Q11650 ;
+    rdfs:label "Electronics industry in Bangladesh"@en .
+
+wd:Q17056435 a wd:Q2695280 ;
+    rdfs:label "Injection"@en .
+
+wd:Q17069186 a wd:Q28816538 ;
+    rdfs:label "Microwave Scanning Beam Landing System"@en .
+
+wd:Q17071301 a wd:Q28816538 ;
+    rdfs:label "Boeing T60"@en .
+
+wd:Q17073385 a wd:Q2695280 ;
+    rdfs:label "Organismic computing"@en .
+
+wd:Q17076623 a wd:Q2695280 ;
+    rdfs:label "Protein Chemical Shift Re-Referencing"@en .
+
+wd:Q17076670 a wd:Q28816538 ;
+    rdfs:label "General Electric GE38"@en .
+
+wd:Q17076943 a wd:Q28816538 ;
+    rdfs:label "PX4 autopilot"@en .
+
+wd:Q17081447 a wd:Q28816538 ;
+    rdfs:label "Slugs"@en .
+
+wd:Q17081974 a wd:Q2695280 ;
+    rdfs:label "Social problem-solving"@en .
+
+wd:Q17086007 a wd:Q3249551 ;
+    rdfs:label "tokenization"@en .
+
+wd:Q17092352 a wd:Q1914636 ;
+    rdfs:label "patient selection"@en .
+
+wd:Q1709489 a wd:Q2695280 ;
+    rdfs:label "ORTF stereo technique"@en .
+
+wd:Q17096206 a wd:Q1914636 ;
+    rdfs:label "Target practice"@en .
+
+wd:Q17099628 a wd:Q28816538 ;
+    rdfs:label "Power-egg"@en .
+
+wd:Q17104480 a wd:Q28816538 ;
+    rdfs:label "V-Prop"@en .
+
+wd:Q17105876 a wd:Q28816538 ;
+    rdfs:label "Smart Onboard Data Interface Module"@en .
+
+wd:Q171141 a wd:Q1914636 ;
+    rdfs:label "gastronomy"@en .
+
+wd:Q17125854 a wd:Q28816538 ;
+    rdfs:label "Localizer performance with vertical guidance"@en .
+
+wd:Q17126694 a wd:Q2695280 ;
+    rdfs:label "spiling"@en .
+
+wd:Q17140155 a wd:Q28816538 ;
+    rdfs:label "Towed pinger locator"@en .
+
+wd:Q17141444 a wd:Q3249551 ;
+    rdfs:label "mixed technique"@en .
+
+wd:Q17141634 a wd:Q3249551 ;
+    rdfs:label "codification"@en .
+
+wd:Q17143560 a wd:Q1914636 ;
+    rdfs:label "modelling"@en .
+
+wd:Q1718547 a wd:Q811909 ;
+    rdfs:label "bezel"@en .
+
+wd:Q1719554 a wd:Q2695280 ;
+    rdfs:label "posterior lumbar interbody fusion"@en .
+
+wd:Q17232201 a wd:Q3249551 ;
+    rdfs:label "folding"@en .
+
+wd:Q1723843 a wd:Q28816538 ;
+    rdfs:label "ram air turbine"@en .
+
+wd:Q1725430 a wd:Q1914636 ;
+    rdfs:label "lawmaking"@en .
+
+wd:Q1728534 a wd:Q28816538 ;
+    rdfs:label "Multi-function display"@en .
+
+wd:Q17305180 a wd:Q1914636 ;
+    rdfs:label "urban development"@en .
+
+wd:Q17308314 a wd:Q1914636 ;
+    rdfs:label "Bellfounding"@en .
+
+wd:Q17318037 a wd:Q1914636 ;
+    rdfs:label "waste picking"@en .
+
+wd:Q17344835 a wd:Q1914636 ;
+    rdfs:label "songwriting"@en .
+
+wd:Q17364098 rdfs:label "AN/AJB-7"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q17370265 rdfs:label "AN/ASQ-91"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q17370273 rdfs:label "AN/ALQ-109"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q17370305 rdfs:label "AN/ARN-92"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q17370313 rdfs:label "AN/AVQ-11 Pave Sword"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q17370536 rdfs:label "AN/AAD-14"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q17370614 rdfs:label "AN/APR-25"@en ;
+    rdfs:subClassOf wd:Q221329,
+        wd:Q4402369 .
+
+wd:Q17370667 rdfs:label "AN/ASW-25"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q17370744 rdfs:label "AN/ALQ-125"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q17371136 rdfs:label "AN/APR-38"@en ;
+    rdfs:subClassOf wd:Q4402369 .
+
+wd:Q17374532 rdfs:label "GOES-342"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q17412941 rdfs:label "dipping sonar"@en ;
+    rdfs:subClassOf wd:Q17423076 .
+
+wd:Q17423334 rdfs:label "airborne lightning detector"@en ;
+    rdfs:subClassOf wd:Q17423203,
+        wd:Q3050846 .
+
+wd:Q17423371 rdfs:label "airborne data link"@en ;
+    rdfs:subClassOf wd:Q17422887 .
+
+wd:Q17423542 rdfs:label "Oozel"@en ;
+    rdfs:subClassOf wd:Q17422887 .
+
+wd:Q17424195 rdfs:label "ARK-5 Amur"@en ;
+    rdfs:subClassOf wd:Q173904 .
+
+wd:Q17424251 a wd:Q17424250 ;
+    rdfs:label "RUP"@en .
+
+wd:Q17424253 rdfs:label "marker beacon receiver"@en ;
+    rdfs:subClassOf wd:Q17424250 .
+
+wd:Q17424259 rdfs:label "SRO-2 Khrom"@en ;
+    rdfs:subClassOf wd:Q1332920 .
+
+wd:Q17424261 rdfs:label "Seerena 2"@en ;
+    rdfs:subClassOf wd:Q4402369 .
+
+wd:Q17424284 rdfs:label "airborne radar rangefinder"@en ;
+    rdfs:subClassOf wd:Q17424281 .
+
+wd:Q17424288 rdfs:label "computing gunsight"@en ;
+    rdfs:subClassOf wd:Q17424281 .
+
+wd:Q17424309 rdfs:label "AKS-5"@en ;
+    rdfs:subClassOf wd:Q1785838 .
+
+wd:Q17424518 rdfs:label "SSh-45"@en ;
+    rdfs:subClassOf wd:Q1785838 .
+
+wd:Q17424524 rdfs:label "RSIU-4V"@en ;
+    rdfs:subClassOf wd:Q17423490 .
+
+wd:Q17424525 rdfs:label "Bariy-M"@en ;
+    rdfs:subClassOf wd:Q1332920 .
+
+wd:Q17426380 rdfs:label "SIV-52"@en ;
+    rdfs:subClassOf wd:Q682023 .
+
+wd:Q17426384 rdfs:label "ARK-54"@en ;
+    rdfs:subClassOf wd:Q173904 .
+
+wd:Q17426420 rdfs:label "SOD-57M Globus-2"@en ;
+    rdfs:subClassOf wd:Q1332920 .
+
+wd:Q17426606 rdfs:label "PUS-36D"@en ;
+    rdfs:subClassOf wd:Q17424281 .
+
+wd:Q17426608 rdfs:label "R-800"@en ;
+    rdfs:subClassOf wd:Q17422887 .
+
+wd:Q17426612 rdfs:label "KAP-2"@en ;
+    rdfs:subClassOf wd:Q220858 .
+
+wd:Q1744214 a wd:Q1914636 ;
+    rdfs:label "Q1744214"^^xsd:string .
+
+wd:Q1748655 a wd:Q1914636 ;
+    rdfs:label "Corporate foresight"@en .
+
+wd:Q1750771 a wd:Q2695280 ;
+    rdfs:label "repopulation"@en .
+
+wd:Q1751180 a wd:Q2695280 ;
+    rdfs:label "Q1751180"^^xsd:string .
+
+wd:Q175166 a wd:Q3249551 ;
+    rdfs:label "tempera"@en .
+
+wd:Q175234 a wd:Q4026292 ;
+    rdfs:label "embouchure"@en .
+
+wd:Q1752757 a wd:Q2695280 ;
+    rdfs:label "Longeing"@en .
+
+wd:Q17554390 a wd:Q1914636 ;
+    rdfs:label "resting"@en .
+
+wd:Q1755997 a wd:Q28816538 ;
+    rdfs:label "Ducted propeller"@en .
+
+wd:Q17572748 a wd:Q1914636 ;
+    rdfs:label "begging"@en .
+
+wd:Q175873 a wd:Q3249551 ;
+    rdfs:label "Dry sterilisation process"@en .
+
+wd:Q1759012 a wd:Q28816538 ;
+    rdfs:label "yoke"@en .
+
+wd:Q1760097 a wd:Q28816538 ;
+    rdfs:label "spoiler"@en .
+
+wd:Q1760480 a wd:Q2695280 ;
+    rdfs:label "Six's technique"@en .
+
+wd:Q1761108 a wd:Q2695280 ;
+    rdfs:label "impedance matching"@en .
+
+wd:Q1762591 a wd:Q1914636 ;
+    rdfs:label "diagnostic test"@en .
+
+wd:Q1762921 a wd:Q28816538 ;
+    rdfs:label "Takeoff/Go-around switch"@en .
+
+wd:Q17634596 a wd:Q1914636 ;
+    rdfs:label "website maintenance"@en .
+
+wd:Q176366 a wd:Q2695280 ;
+    rdfs:label "patch clamp"@en .
+
+wd:Q1775972 a wd:Q3249551 ;
+    rdfs:label "development of doctrine"@en .
+
+wd:Q177719 a wd:Q1914636 ;
+    rdfs:label "medical diagnosis"@en .
+
+wd:Q1777836 a wd:Q28816538 ;
+    rdfs:label "Contra-rotating propellers"@en .
+
+wd:Q1780801 a wd:Q28816538 ;
+    rdfs:label "Allison 250"@en .
+
+wd:Q1782613 a wd:Q28816538 ;
+    rdfs:label "Turbomeca Artouste"@en .
+
+wd:Q1783416 a wd:Q28816538 ;
+    rdfs:label "Leading-edge extension"@en .
+
+wd:Q1783939 a wd:Q2695280 ;
+    rdfs:label "header (association football)"@en .
+
+wd:Q1786253 a wd:Q2695280 ;
+    rdfs:label "power plant technology"@en .
+
+wd:Q178777 a wd:Q28816538 ;
+    rdfs:label "jet engine"@en .
+
+wd:Q17877729 a wd:Q2695280 ;
+    rdfs:label "Q17877729"^^xsd:string .
+
+wd:Q1788178 a wd:Q1914636 ;
+    rdfs:label "Finding of the True Cross"@en .
+
+wd:Q1790516 a wd:Q1914636 ;
+    rdfs:label "language culture"@en .
+
+wd:Q17911657 a wd:Q1914636 ;
+    rdfs:label "taphophilia"@en .
+
+wd:Q179415 a wd:Q2695280 ;
+    rdfs:label "massage"@en .
+
+wd:Q179435 a wd:Q28816538 ;
+    rdfs:label "satellite navigation system"@en .
+
+wd:Q1796965 a wd:Q28816538 ;
+    rdfs:label "Air cycle machine"@en .
+
+wd:Q18015704 rdfs:label "AN/APS-21"@en ;
+    rdfs:subClassOf wd:Q17423303 .
+
+wd:Q1802953 a wd:Q1914636 ;
+    rdfs:label "Präsenzdienst"@en .
+
+wd:Q18030381 a wd:Q2695280 ;
+    rdfs:label "Q18030381"^^xsd:string .
+
+wd:Q18030388 a wd:Q2695280 ;
+    rdfs:label "Condition/Decision Coverage"@en .
+
+wd:Q18046448 a wd:Q2695280 ;
+    rdfs:label "Q18046448"^^xsd:string .
+
+wd:Q18061675 a wd:Q221329 ;
+    rdfs:label "AQA-3"@en .
+
+wd:Q18068247 a wd:Q221329 ;
+    rdfs:label "Julie/Jezebel"@en .
+
+wd:Q18069194 rdfs:label "AN/AQA-7 DIFAR"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q18069284 rdfs:label "AN/ARR-75"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q18072292 a wd:Q17423303 ;
+    rdfs:label "AN/APS-82"@en .
+
+wd:Q1807652 a wd:Q28816538 ;
+    rdfs:label "Saturn Launch Vehicle Digital Computer"@en .
+
+wd:Q1813455 a wd:Q1914636 ;
+    rdfs:label "Lehrgang"@en .
+
+wd:Q1818640 a wd:Q2695280 ;
+    rdfs:label "Q1818640"^^xsd:string .
+
+wd:Q18205600 a wd:Q28816538 ;
+    rdfs:label "Boeing Honeywell Uninterruptible Autopilot"@en .
+
+wd:Q18207130 a wd:Q1914636 ;
+    rdfs:label "flight-sharing"@en .
+
+wd:Q1823502 a wd:Q2695280 ;
+    rdfs:label "Light sheet fluorescence microscopy"@en .
+
+wd:Q182393 a wd:Q2695280 ;
+    rdfs:label "Telecine"@en .
+
+wd:Q18355435 a wd:Q28816538 ;
+    rdfs:label "Satellite Data Unit"@en .
+
+wd:Q18361777 a wd:Q811909 ;
+    rdfs:label "clearomizer"@en .
+
+wd:Q18382459 a wd:Q1914636 ;
+    rdfs:label "passenger airline service"@en .
+
+wd:Q18387636 a wd:Q28816538 ;
+    rdfs:label "Tail warning radar"@en .
+
+wd:Q18387688 a wd:Q28816538 ;
+    rdfs:label "Take-off warning system"@en .
+
+wd:Q18394025 a wd:Q2695280 ;
+    rdfs:label "teach-back method"@en .
+
+wd:Q1839806 a wd:Q2695280 ;
+    rdfs:label "Maryland bridge"@en .
+
+wd:Q18407944 a wd:Q28816538 ;
+    rdfs:label "flap"@en .
+
+wd:Q184744 a wd:Q811909 ;
+    rdfs:label "Zeichenkopf"@en .
+
+wd:Q18506524 a wd:Q1914636 ;
+    rdfs:label "Mazze"@en .
+
+wd:Q18523854 a wd:Q1914636 ;
+    rdfs:label "stage management"@en .
+
+wd:Q18543534 a wd:Q1914636 ;
+    rdfs:label "Q18543534"^^xsd:string .
+
+wd:Q185525 a wd:Q28816538 ;
+    rdfs:label "turbocharger"@en .
+
+wd:Q185571 a wd:Q2695280 ;
+    rdfs:label "fluidics"@en .
+
+wd:Q185733 a wd:Q1914636 ;
+    rdfs:label "philanthropy"@en .
+
+wd:Q18608406 a wd:Q1914636 ;
+    rdfs:label "mushing"@en .
+
+wd:Q1861533 a wd:Q2695280 ;
+    rdfs:label "3D laser scanning"@en .
+
+wd:Q18646422 a wd:Q1914636 ;
+    rdfs:label "confectionery"@en .
+
+wd:Q18697160 a wd:Q1914636 ;
+    rdfs:label "golf ball diver"@en .
+
+wd:Q187094 a wd:Q1914636 ;
+    rdfs:label "time comparison"@en .
+
+wd:Q18715687 a wd:Q28816538 ;
+    rdfs:label "Grid compass"@en .
+
+wd:Q1874510 a wd:Q2695280 ;
+    rdfs:label "Q1874510"^^xsd:string .
+
+wd:Q18746110 a wd:Q811909 ;
+    rdfs:label "cryogenic transport refrigeration system"@en .
+
+wd:Q18749628 a wd:Q1914636 ;
+    rdfs:label "regulatory affairs"@en .
+
+wd:Q1879237 a wd:Q28816538 ;
+    rdfs:label "Trailing arm"@en .
+
+wd:Q18811567 rdfs:label "automotive head-up display"@en ;
+    rdfs:subClassOf wd:Q518461 .
+
+wd:Q188494 a wd:Q1914636 ;
+    rdfs:label "witch hunt"@en .
+
+wd:Q188669 a wd:Q811909 ;
+    rdfs:label "fireplace"@en .
+
+wd:Q188689 a wd:Q4026292 ;
+    rdfs:label "ultimatum"@en .
+
+wd:Q188844 a wd:Q1914636 ;
+    rdfs:label "volunteering"@en .
+
+wd:Q18914715 a wd:Q28816538 ;
+    rdfs:label "Adaptive Compliant Trailing Edge"@en .
+
+wd:Q189439 a wd:Q1914636 ;
+    rdfs:label "version control"@en .
+
+wd:Q1898737 a wd:Q2695280 ;
+    rdfs:label "Morphological analysis"@en .
+
+wd:Q1903235 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker"@en .
+
+wd:Q190902 a wd:Q1914636 ;
+    rdfs:label "Zentrierung"@en .
+
+wd:Q191183 a wd:Q2695280 ;
+    rdfs:label "brainstorming"@en .
+
+wd:Q191258 a wd:Q2695280 ;
+    rdfs:label "crop rotation"@en .
+
+wd:Q1915261 a wd:Q3249551 ;
+    rdfs:label "Q1915261"^^xsd:string .
+
+wd:Q191682 a wd:Q2695280 ;
+    rdfs:label "decomposition"@en .
+
+wd:Q191724 a wd:Q28816538 ;
+    rdfs:label "Earth inductor compass"@en .
+
+wd:Q192013 a wd:Q1914636 ;
+    rdfs:label "Zerscherbung"@en .
+
+wd:Q1920640 a wd:Q1914636 ;
+    rdfs:label "Utrecht Museum Night"@en .
+
+wd:Q1926748 a wd:Q1914636 ;
+    rdfs:label "Q1926748"^^xsd:string .
+
+wd:Q1928527 a wd:Q2695280 ;
+    rdfs:label "differential signaling"@en .
+
+wd:Q193181 a wd:Q1914636 ;
+    rdfs:label "observation"@en .
+
+wd:Q1932115 a wd:Q1914636 ;
+    rdfs:label "degustation"@en .
+
+wd:Q1932915 a wd:Q413 ;
+    rdfs:label "Piezoresistive effect"@en .
+
+wd:Q19359146 a wd:Q1914636 ;
+    rdfs:label "Q19359146"^^xsd:string .
+
+wd:Q1936109 a wd:Q28816538 ;
+    rdfs:label "Water injection"@en .
+
+wd:Q1938241 a wd:Q1914636 ;
+    rdfs:label "Q1938241"^^xsd:string .
+
+wd:Q1939923 a wd:Q2695280 ;
+    rdfs:label "Somatic-cell nuclear transfer"@en .
+
+wd:Q194156 a wd:Q28816538 ;
+    rdfs:label "cockpit"@en .
+
+wd:Q194189 a wd:Q1914636 ;
+    rdfs:label "sales"@en .
+
+wd:Q195076 a wd:Q2695280 ;
+    rdfs:label "Hough transform"@en .
+
+wd:Q1957816 a wd:Q1914636 ;
+    rdfs:label "design of furniture"@en .
+
+wd:Q1961801 a wd:Q1914636 ;
+    rdfs:label "microfilming"@en .
+
+wd:Q19654826 a wd:Q28816538 ;
+    rdfs:label "Dunlop Aircraft Tyres"@en .
+
+wd:Q19654893 a wd:Q28816538 ;
+    rdfs:label "Harley Aircraft Landing Lamps"@en .
+
+wd:Q196720 a wd:Q1914636 ;
+    rdfs:label "Zerstäuben"@en .
+
+wd:Q1972857 a wd:Q2695280 ;
+    rdfs:label "Core Shamanism"@en .
+
+wd:Q1972957 a wd:Q2695280 ;
+    rdfs:label "Tapas Acupressure Technique"@en .
+
+wd:Q19794820 a wd:Q1914636 ;
+    rdfs:label "stonemasonry"@en .
+
+wd:Q19834025 a wd:Q1914636 ;
+    rdfs:label "Q19834025"^^xsd:string .
+
+wd:Q19843694 a wd:Q1914636 ;
+    rdfs:label "Animal husbandry in France"@en .
+
+wd:Q1988924 a wd:Q4026292 ;
+    rdfs:label "LNG ship to ship transfer"@en .
+
+wd:Q198938 a wd:Q1914636 ;
+    rdfs:label "Zielansprache"@en .
+
+wd:Q199001 a wd:Q1914636 ;
+    rdfs:label "Target object search (dog sports)"@en .
+
+wd:Q19903205 a wd:Q28816538 ;
+    rdfs:label "Aircraft fuel tanks"@en .
+
+wd:Q1990502 a wd:Q1914636 ;
+    rdfs:label "LJ"@en .
+
+wd:Q1992891 a wd:Q1914636 ;
+    rdfs:label "Q1992891"^^xsd:string .
+
+wd:Q19944901 a wd:Q1914636 ;
+    rdfs:label "goldbeating"@en .
+
+wd:Q19991564 a wd:Q1914636 ;
+    rdfs:label "Q19991564"^^xsd:string .
+
+wd:Q20014899 a wd:Q2695280 ;
+    rdfs:label "Pottery sgraffito"@en .
+
+wd:Q2002716 a wd:Q811909 ;
+    rdfs:label "exhaust port"@en .
+
+wd:Q20058545 a wd:Q4026292 ;
+    rdfs:label "commit"@en .
+
+wd:Q20078304 a wd:Q28816538 ;
+    rdfs:label "wing"@en .
+
+wd:Q20085854 a wd:Q1914636 ;
+    rdfs:label "vigilantism"@en .
+
+wd:Q20091852 a wd:Q3249551 ;
+    rdfs:label "instrument-making"@en .
+
+wd:Q201599 a wd:Q28816538 ;
+    rdfs:label "Makila"@en .
+
+wd:Q20191854 a wd:Q1914636 ;
+    rdfs:label "Q20191854"^^xsd:string .
+
+wd:Q203346 a wd:Q28816538 ;
+    rdfs:label "aircraft seat"@en .
+
+wd:Q2040532 a wd:Q1914636 ;
+    rdfs:label "event planning"@en .
+
+wd:Q204565 a wd:Q2695280 ;
+    rdfs:label "Zink"@en .
+
+wd:Q204786 a wd:Q2695280 ;
+    rdfs:label "zinc cast"@en .
+
+wd:Q204938 a wd:Q2695280 ;
+    rdfs:label "Zinkätzung"@en .
+
+wd:Q2055960 a wd:Q28816538 ;
+    rdfs:label "Passenger service unit"@en .
+
+wd:Q20566390 a wd:Q413 ;
+    rdfs:label "Quran and Physics"@en .
+
+wd:Q2061913 a wd:Q2695280 ;
+    rdfs:label "regularization"@en .
+
+wd:Q206976 a wd:Q28816538 ;
+    rdfs:label "tachometer"@en .
+
+wd:Q2071902 a wd:Q3249551 ;
+    rdfs:label "coalescence"@en .
+
+wd:Q2074276 a wd:Q1914636 ;
+    rdfs:label "powered paragliding"@en .
+
+wd:Q20747921 a wd:Q4026292 ;
+    rdfs:label "Q20747921"^^xsd:string .
+
+wd:Q20820025 a wd:Q811909 ;
+    rdfs:label "Q20820025"^^xsd:string .
+
+wd:Q20820138 a wd:Q2695280 ;
+    rdfs:label "modelling with clay"@en .
+
+wd:Q20826686 a wd:Q4026292 ;
+    rdfs:label "Q20826686"^^xsd:string .
+
+wd:Q2084518 a wd:Q1914636 ;
+    rdfs:label "Q2084518"^^xsd:string .
+
+wd:Q2087054 a wd:Q28816538 ;
+    rdfs:label "Q2087054"^^xsd:string .
+
+wd:Q20892182 a wd:Q4026292 ;
+    rdfs:label "video-recording"@en .
+
+wd:Q2091716 a wd:Q2695280 ;
+    rdfs:label "Pomodoro Technique"@en .
+
+wd:Q2094301 a wd:Q28816538 ;
+    rdfs:label "Propeller walk"@en .
+
+wd:Q209572 a wd:Q1914636 ;
+    rdfs:label "military service"@en .
+
+wd:Q209760 a wd:Q28816538 ;
+    rdfs:label "rudder"@en .
+
+wd:Q20976736 a wd:Q1914636 ;
+    rdfs:label "scheduled international air service"@en .
+
+wd:Q20976813 a wd:Q1914636 ;
+    rdfs:label "international air service"@en .
+
+wd:Q20976913 a wd:Q1914636 ;
+    rdfs:label "commercial air service"@en .
+
+wd:Q20977792 a wd:Q1914636 ;
+    rdfs:label "domestic air service"@en .
+
+wd:Q20978155 a wd:Q1914636 ;
+    rdfs:label "scheduled domestic air service"@en .
+
+wd:Q21004260 a wd:Q1914636 ;
+    rdfs:label "inquiry"@en .
+
+wd:Q21009914 a wd:Q1914636 ;
+    rdfs:label "Q21009914"^^xsd:string .
+
+wd:Q21075336 a wd:Q413 ;
+    rdfs:label "Q21075336"^^xsd:string .
+
+wd:Q2107921 a wd:Q28816538 ;
+    rdfs:label "Pratt & Whitney Canada PW200"@en .
+
+wd:Q21086858 a wd:Q413 ;
+    rdfs:label "Q21086858"^^xsd:string .
+
+wd:Q21087295 a wd:Q3249551 ;
+    rdfs:label "Q21087295"^^xsd:string .
+
+wd:Q21087324 a wd:Q413 ;
+    rdfs:label "Q21087324"^^xsd:string .
+
+wd:Q2112558 a wd:Q3249551 ;
+    rdfs:label "project planning"@en .
+
+wd:Q2114846 a wd:Q1914636 ;
+    rdfs:label "zoological specimen"@en .
+
+wd:Q211557 a wd:Q1914636 ;
+    rdfs:label "bequest"@en .
+
+wd:Q2115600 a wd:Q2695280 ;
+    rdfs:label "signal group"@en .
+
+wd:Q211578 a wd:Q3249551 ;
+    rdfs:label "tanning"@en .
+
+wd:Q21228187 a wd:Q1914636 ;
+    rdfs:label "Q21228187"^^xsd:string .
+
+wd:Q21245967 a wd:Q28816538 ;
+    rdfs:label "Runway Awareness and Advisory System"@en .
+
+wd:Q213449 a wd:Q1914636 ;
+    rdfs:label "eating"@en .
+
+wd:Q2135146 a wd:Q28816538 ;
+    rdfs:label "Receiver autonomous integrity monitoring"@en .
+
+wd:Q2139960 a wd:Q4026292 ;
+    rdfs:label "Q2139960"^^xsd:string .
+
+wd:Q214092 a wd:Q1914636 ;
+    rdfs:label "patronage"@en .
+
+wd:Q2142509 a wd:Q28816538 ;
+    rdfs:label "Relative bearing indicator"@en .
+
+wd:Q21463441 a wd:Q28816538 ;
+    rdfs:label "RAD5500"@en .
+
+wd:Q214912 a wd:Q1914636 ;
+    rdfs:label "hitchhiking"@en .
+
+wd:Q21550668 a wd:Q1914636 ;
+    rdfs:label "illustration"@en .
+
+wd:Q2162372 a wd:Q1914636 ;
+    rdfs:label "pipe fitting"@en .
+
+wd:Q21651879 a wd:Q3249551 ;
+    rdfs:label "Q21651879"^^xsd:string .
+
+wd:Q2179317 a wd:Q1914636 ;
+    rdfs:label "Q2179317"^^xsd:string .
+
+wd:Q218537 a wd:Q1914636 ;
+    rdfs:label "customs clearance"@en .
+
+wd:Q218579 a wd:Q2695280 ;
+    rdfs:label "Zollbauweise"@en .
+
+wd:Q218582 a wd:Q1914636 ;
+    rdfs:label "Zollbeschau"@en .
+
+wd:Q218719 a wd:Q1914636 ;
+    rdfs:label "border control"@en .
+
+wd:Q2188678 a wd:Q1914636 ;
+    rdfs:label "bus spotting"@en .
+
+wd:Q2194999 a wd:Q2695280 ;
+    rdfs:label "Continuous flight augering"@en .
+
+wd:Q2200492 a wd:Q1914636 ;
+    rdfs:label "Q2200492"^^xsd:string .
+
+wd:Q220277 a wd:Q4026292 ;
+    rdfs:label "defenestration"@en .
+
+wd:Q2205353 a wd:Q2695280 ;
+    rdfs:label "Q2205353"^^xsd:string .
+
+wd:Q22082152 a wd:Q28816538 ;
+    rdfs:label "field of regard"@en .
+
+wd:Q22101849 a wd:Q28816538 ;
+    rdfs:label "Simonini Racing"@en .
+
+wd:Q221136 a wd:Q28816538 ;
+    rdfs:label "Klimov TV2-117"@en .
+
+wd:Q22115589 a wd:Q28816538 ;
+    rdfs:label "German Luftwaffe and Navy Radar Equipment"@en .
+
+wd:Q2222491 a wd:Q2695280 ;
+    rdfs:label "Schoberer Rad Messtechnik"@en .
+
+wd:Q22261015 a wd:Q1914636 ;
+    rdfs:label "Q22261015"^^xsd:string .
+
+wd:Q222946 a wd:Q28816538 ;
+    rdfs:label "airframe"@en .
+
+wd:Q2229734 a wd:Q2695280 ;
+    rdfs:label "Q2229734"^^xsd:string .
+
+wd:Q2239130 a wd:Q28816538 ;
+    rdfs:label "Trailing Cone"@en .
+
+wd:Q2247870 a wd:Q2695280 ;
+    rdfs:label "gymel"@en .
+
+wd:Q2251595 a wd:Q1914636 ;
+    rdfs:label "protection"@en .
+
+wd:Q2273044 a wd:Q2695280 ;
+    rdfs:label "Q2273044"^^xsd:string .
+
+wd:Q2275655 a wd:Q2695280 ;
+    rdfs:label "In vitro maturation"@en .
+
+wd:Q228163 a wd:Q1914636 ;
+    rdfs:label "Zuerwerb"@en .
+
+wd:Q228438 a wd:Q1914636 ;
+    rdfs:label "Zuglenkung"@en .
+
+wd:Q228568 a wd:Q811909 ;
+    rdfs:label "Zuhaltung"@en .
+
+wd:Q228686 a wd:Q811909 ;
+    rdfs:label "Zukaufteil"@en .
+
+wd:Q22907306 a wd:Q2695280 ;
+    rdfs:label "Canonical LMNL in XML"@en .
+
+wd:Q22907564 a wd:Q2695280 ;
+    rdfs:label "Crowdreviewing"@en .
+
+wd:Q2295968 a wd:Q28816538 ;
+    rdfs:label "swashplate"@en .
+
+wd:Q2299132 a wd:Q28816538 ;
+    rdfs:label "Q2299132"^^xsd:string .
+
+wd:Q2299867 a wd:Q2695280 ;
+    rdfs:label "rabona"@en .
+
+wd:Q230106 a wd:Q1914636 ;
+    rdfs:label "Zungenstoß"@en .
+
+wd:Q2301555 a wd:Q2695280 ;
+    rdfs:label "open-loop controller"@en .
+
+wd:Q23021263 a wd:Q2695280 ;
+    rdfs:label "Q23021263"^^xsd:string .
+
+wd:Q2304418 a wd:Q1914636 ;
+    rdfs:label "locksmithing"@en .
+
+wd:Q2306047 a wd:Q1914636 ;
+    rdfs:label "pest control"@en .
+
+wd:Q2306541 a wd:Q2695280 ;
+    rdfs:label "Columns"@en .
+
+wd:Q2312817 a wd:Q2695280 ;
+    rdfs:label "VVT-i"@en .
+
+wd:Q2313213 a wd:Q1914636 ;
+    rdfs:label "language teaching"@en .
+
+wd:Q2313702 a wd:Q2695280 ;
+    rdfs:label "Sprengtechnik"@en .
+
+wd:Q2314110 a wd:Q28816538 ;
+    rdfs:label "firewall"@en .
+
+wd:Q2314618 a wd:Q1914636 ;
+    rdfs:label "forensic identification"@en .
+
+wd:Q2314738 a wd:Q28816538 ;
+    rdfs:label "Spy basket"@en .
+
+wd:Q23201577 a wd:Q3249551 ;
+    rdfs:label "carving"@en .
+
+wd:Q232903 a wd:Q1914636 ;
+    rdfs:label "dual combat"@en .
+
+wd:Q2330133 a wd:Q28816538 ;
+    rdfs:label "STANAG 3910: High Speed Data Transmission Under STANAG 3838 or Fibre Optic Equivalent Control"@en .
+
+wd:Q23304806 a wd:Q3249551 ;
+    rdfs:label "extra-illustration"@en .
+
+wd:Q2334477 a wd:Q1914636 ;
+    rdfs:label "stowage"@en .
+
+wd:Q2340775 a wd:Q1914636 ;
+    rdfs:label "Maske Begrave"@en .
+
+wd:Q2348121 a wd:Q3249551 ;
+    rdfs:label "clock recovery"@en .
+
+wd:Q2348670 a wd:Q1914636 ;
+    rdfs:label "millstone dressing"@en .
+
+wd:Q2350995 a wd:Q1914636 ;
+    rdfs:label "plastering"@en .
+
+wd:Q2354985 a wd:Q1914636 ;
+    rdfs:label "road maintenance"@en .
+
+wd:Q23581415 a wd:Q1914636 ;
+    rdfs:label "Lead abatement"@en .
+
+wd:Q2362507 a wd:Q28816538 ;
+    rdfs:label "Coaxial rotors"@en .
+
+wd:Q238559 a wd:Q1914636 ;
+    rdfs:label "5-point check"@en .
+
+wd:Q2386093 a wd:Q1914636 ;
+    rdfs:label "Q2386093"^^xsd:string .
+
+wd:Q2389519 a wd:Q28816538 ;
+    rdfs:label "cabin pressurization"@en .
+
+wd:Q2391676 a wd:Q1914636 ;
+    rdfs:label "mushroom hunting"@en .
+
+wd:Q2396581 a wd:Q1914636 ;
+    rdfs:label "cooperage"@en .
+
+wd:Q24090648 a wd:Q1914636 ;
+    rdfs:label "Q24090648"^^xsd:string .
+
+wd:Q2409338 a wd:Q1914636 ;
+    rdfs:label "Q2409338"^^xsd:string .
+
+wd:Q2410234 a wd:Q1914636 ;
+    rdfs:label "transloading"@en .
+
+wd:Q2414362 a wd:Q28816538 ;
+    rdfs:label "T-tail"@en .
+
+wd:Q24161734 a wd:Q1914636 ;
+    rdfs:label "Q24161734"^^xsd:string .
+
+wd:Q2417103 a wd:Q2695280 ;
+    rdfs:label "fractioning"@en .
+
+wd:Q2418755 a wd:Q1914636 ;
+    rdfs:label "Q2418755"^^xsd:string .
+
+wd:Q2434422 a wd:Q1914636 ;
+    rdfs:label "Q2434422"^^xsd:string .
+
+wd:Q2436444 a wd:Q2695280 ;
+    rdfs:label "Q2436444"^^xsd:string .
+
+wd:Q2443157 a wd:Q2695280 ;
+    rdfs:label "Top kill"@en .
+
+wd:Q2447039 a wd:Q28816538 ;
+    rdfs:label "Wingbox"@en .
+
+wd:Q2450784 a wd:Q28816538 ;
+    rdfs:label "Primary flight display"@en .
+
+wd:Q245117 a wd:Q3249551 ;
+    rdfs:label "relief sculpture"@en .
+
+wd:Q24589589 a wd:Q28816538 ;
+    rdfs:label "Instrument landing system glide path"@en .
+
+wd:Q24589666 a wd:Q28816538 ;
+    rdfs:label "AC 20-115"@en .
+
+wd:Q246658 a wd:Q2695280 ;
+    rdfs:label "Sexagenary cycle"@en .
+
+wd:Q2467824 a wd:Q1914636 ;
+    rdfs:label "driving"@en .
+
+wd:Q2473660 a wd:Q28816538 ;
+    rdfs:label "Intake"@en .
+
+wd:Q2474068 a wd:Q1914636 ;
+    rdfs:label "cosmetology"@en .
+
+wd:Q2478369 a wd:Q4026292 ;
+    rdfs:label "Q2478369"^^xsd:string .
+
+wd:Q2483021 a wd:Q2695280 ;
+    rdfs:label "Finesse"@en .
+
+wd:Q24896213 a wd:Q28816538 ;
+    rdfs:label "passenger drone"@en .
+
+wd:Q2491382 a wd:Q2695280 ;
+    rdfs:label "Q2491382"^^xsd:string .
+
+wd:Q24963328 a wd:Q28816538 ;
+    rdfs:label "Free-turbine turboshaft"@en .
+
+wd:Q24963471 a wd:Q2695280 ;
+    rdfs:label "airjet weaving"@en .
+
+wd:Q250386 a wd:Q1310239 ;
+    rdfs:label "pile"@en .
+
+wd:Q2505150 a wd:Q2695280 ;
+    rdfs:label "room and pillar"@en .
+
+wd:Q2505984 a wd:Q28816538 ;
+    rdfs:label "VHF Data Link"@en .
+
+wd:Q2506381 a wd:Q28816538 ;
+    rdfs:label "VORTAC"@en .
+
+wd:Q25091543 a wd:Q3249551 ;
+    rdfs:label "repopulation"@en .
+
+wd:Q25098550 a wd:Q28816538 ;
+    rdfs:label "Inertial platform"@en .
+
+wd:Q25098935 a wd:Q2695280 ;
+    rdfs:label "uncomputation"@en .
+
+wd:Q25100355 a wd:Q28816538 ;
+    rdfs:label "Rudder travel limiter"@en .
+
+wd:Q25105061 a wd:Q28816538 ;
+    rdfs:label "Underwater thruster"@en .
+
+wd:Q25111434 a wd:Q28816538 ;
+    rdfs:label "External Vision System"@en .
+
+wd:Q2512021 a wd:Q1914636 ;
+    rdfs:label "lumières"@en .
+
+wd:Q2515721 a wd:Q28816538 ;
+    rdfs:label "Carburetor heat"@en .
+
+wd:Q2515887 a wd:Q4026292 ;
+    rdfs:label "pattern of behaviour"@en .
+
+wd:Q2516616 a wd:Q1914636 ;
+    rdfs:label "loading"@en .
+
+wd:Q2520047 a wd:Q2695280 ;
+    rdfs:label "Shibori"@en .
+
+wd:Q2522231 a wd:Q2695280 ;
+    rdfs:label "Q2522231"^^xsd:string .
+
+wd:Q252451 a wd:Q28816538 ;
+    rdfs:label "elevator"@en .
+
+wd:Q25245475 a wd:Q28816538 ;
+    rdfs:label "UAV-related events"@en .
+
+wd:Q252802 a wd:Q1914636 ;
+    rdfs:label "ostracism"@en .
+
+wd:Q25304123 a wd:Q28816538 ;
+    rdfs:label "Coax-P"@en .
+
+wd:Q25304278 a wd:Q28816538 ;
+    rdfs:label "Forward Drive"@en .
+
+wd:Q25304290 a wd:Q28816538 ;
+    rdfs:label "Enhanced flight vision system"@en .
+
+wd:Q25313071 a wd:Q2695280 ;
+    rdfs:label "block floating-point"@en .
+
+wd:Q25327012 a wd:Q28816538 ;
+    rdfs:label "NPP Zvezda SKS-94"@en .
+
+wd:Q2534008 a wd:Q28816538 ;
+    rdfs:label "leading edge slat"@en .
+
+wd:Q25344555 a wd:Q1914636 ;
+    rdfs:label "professional organizing"@en .
+
+wd:Q25352070 a wd:Q2695280 ;
+    rdfs:label "spiling"@en .
+
+wd:Q253677 a wd:Q18822 ;
+    rdfs:label "GPS tracking unit"@en .
+
+wd:Q25379611 a wd:Q1914636 ;
+    rdfs:label "Q25379611"^^xsd:string .
+
+wd:Q2538907 a wd:Q1914636 ;
+    rdfs:label "arms trade"@en .
+
+wd:Q25401338 a wd:Q1914636 ;
+    rdfs:label "Q25401338"^^xsd:string .
+
+wd:Q2540428 a wd:Q1914636 ;
+    rdfs:label "Q2540428"^^xsd:string .
+
+wd:Q256320 a wd:Q1914636 ;
+    rdfs:label "Equivalence Exchange"@en .
+
+wd:Q256879 a wd:Q1914636 ;
+    rdfs:label "Aestheticization"@en .
+
+wd:Q258224 a wd:Q2695280 ;
+    rdfs:label "micellar electrokinetic chromatography"@en .
+
+wd:Q2585403 a wd:Q4026292 ;
+    rdfs:label "We've had abortions!"@en .
+
+wd:Q25931702 a wd:Q1914636 ;
+    rdfs:label "sleeping"@en .
+
+wd:Q2595403 a wd:Q4026292 ;
+    rdfs:label "partition"@en .
+
+wd:Q259755 a wd:Q2695280 ;
+    rdfs:label "geotargeting"@en .
+
+wd:Q2598347 a wd:Q1914636 ;
+    rdfs:label "car spotting"@en .
+
+wd:Q2598634 a wd:Q2695280 ;
+    rdfs:label "Q2598634"^^xsd:string .
+
+wd:Q260022 a wd:Q28816538 ;
+    rdfs:label "Townend ring"@en .
+
+wd:Q2602017 a wd:Q1914636 ;
+    rdfs:label "human branding"@en .
+
+wd:Q2605645 a wd:Q2695280 ;
+    rdfs:label "DomainKeys Identified Mail"@en .
+
+wd:Q2608165 a wd:Q4026292 ;
+    rdfs:label "combo"@en .
+
+wd:Q260906 a wd:Q1914636 ;
+    rdfs:label "camping"@en .
+
+wd:Q2616472 a wd:Q2695280 ;
+    rdfs:label "Q2616472"^^xsd:string .
+
+wd:Q26208318 a wd:Q2695280 ;
+    rdfs:label "horse riding technique"@en .
+
+wd:Q26208537 a wd:Q1914636 ;
+    rdfs:label "Q26208537"^^xsd:string .
+
+wd:Q2629837 a wd:Q1914636 ;
+    rdfs:label "Q2629837"^^xsd:string .
+
+wd:Q2632223 rdfs:label "AN/ALQ-126"@en ;
+    rdfs:subClassOf wd:Q221329,
+        wd:Q849203 .
+
+wd:Q263421 a wd:Q28816538 ;
+    rdfs:label "undercarriage"@en .
+
+wd:Q264939 a wd:Q28816538 ;
+    rdfs:label "FLARM"@en .
+
+wd:Q2666550 a wd:Q1914636 ;
+    rdfs:label "lampworking"@en .
+
+wd:Q26674 a wd:Q2695280 ;
+    rdfs:label "High fidelity"@en .
+
+wd:Q2673285 a wd:Q3249551 ;
+    rdfs:label "Q2673285"^^xsd:string .
+
+wd:Q2681171 a wd:Q1914636 ;
+    rdfs:label "Q2681171"^^xsd:string .
+
+wd:Q2683967 a wd:Q2695280 ;
+    rdfs:label "Q2683967"^^xsd:string .
+
+wd:Q2685212 a wd:Q2695280 ;
+    rdfs:label "Q2685212"^^xsd:string .
+
+wd:Q268585 a wd:Q2695280 ;
+    rdfs:label "bariolage"@en .
+
+wd:Q2686844 a wd:Q4026292 ;
+    rdfs:label "Alpe d'HuZes"@en .
+
+wd:Q2692551 a wd:Q1914636 ;
+    rdfs:label "dewatering"@en .
+
+wd:Q2697101 a wd:Q2695280 ;
+    rdfs:label "Jensen's Device"@en .
+
+wd:Q2699839 a wd:Q1914636 ;
+    rdfs:label "tracking"@en .
+
+wd:Q27070220 a wd:Q28816538 ;
+    rdfs:label "nacelle"@en .
+
+wd:Q2707384 a wd:Q1914636 ;
+    rdfs:label "side project"@en .
+
+wd:Q2712515 a wd:Q28816538 ;
+    rdfs:label "stabilizer"@en .
+
+wd:Q2719259 rdfs:label "Q2719259"^^xsd:string ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q2720056 a wd:Q28816538 ;
+    rdfs:label "aircraft fairing"@en .
+
+wd:Q272999 a wd:Q1914636 ;
+    rdfs:label "masonry"@en .
+
+wd:Q2736535 a wd:Q1914636 ;
+    rdfs:label "military communications"@en .
+
+wd:Q2736751 a wd:Q28816538 ;
+    rdfs:label "aircraft canopy"@en .
+
+wd:Q2739484 a wd:Q2695280 ;
+    rdfs:label "Nancy School"@en .
+
+wd:Q2747568 a wd:Q28816538 ;
+    rdfs:label "Valveless pulse jet"@en .
+
+wd:Q2760895 a wd:Q28816538 ;
+    rdfs:label "Shock cooling"@en .
+
+wd:Q2778015 a wd:Q1914636,
+        wd:Q2695280 ;
+    rdfs:label "video capture"@en .
+
+wd:Q2778440 a wd:Q1914636 ;
+    rdfs:label "Classical guitar making"@en .
+
+wd:Q2795122 a wd:Q1914636 ;
+    rdfs:label "going out"@en .
+
+wd:Q280221 a wd:Q1914636 ;
+    rdfs:label "interpretation"@en .
+
+wd:Q2803 a wd:Q2695280 ;
+    rdfs:label "move-to-front transform"@en .
+
+wd:Q28135262 a wd:Q28816538 ;
+    rdfs:label "Crazyflie 2.0"@en .
+
+wd:Q28147220 a wd:Q2695280 ;
+    rdfs:label "ganosis"@en .
+
+wd:Q28150258 a wd:Q4026292 ;
+    rdfs:label "Q28150258"^^xsd:string .
+
+wd:Q28194695 a wd:Q11481471 ;
+    rdfs:label "Artificial feel devices"@en .
+
+wd:Q28195494 a wd:Q3249551 ;
+    rdfs:label "fluid flow"@en .
+
+wd:Q28228036 a wd:Q28816538 ;
+    rdfs:label "Y-Control for fighters"@en .
+
+wd:Q2828188 a wd:Q28816538 ;
+    rdfs:label "Air data inertial reference unit"@en .
+
+wd:Q283534 a wd:Q1914636 ;
+    rdfs:label "recreational fishing"@en .
+
+wd:Q283635 a wd:Q3249551 ;
+    rdfs:label "Gold fixing"@en .
+
+wd:Q283791 a wd:Q1914636 ;
+    rdfs:label "family reunification"@en .
+
+wd:Q28454446 a wd:Q28816538 ;
+    rdfs:label "Automated flight attending"@en .
+
+wd:Q28455628 a wd:Q2695280 ;
+    rdfs:label "Angular Correlation of Electron Positron Annihilation Radiation"@en .
+
+wd:Q28456020 a wd:Q28816538 ;
+    rdfs:label "Target-type thrust reversal"@en .
+
+wd:Q28456476 a wd:Q28816538 ;
+    rdfs:label "Airborne Internet"@en .
+
+wd:Q285332 a wd:Q3249551 ;
+    rdfs:label "Bergeron process"@en .
+
+wd:Q2857896 a wd:Q2695280 ;
+    rdfs:label "Q2857896"^^xsd:string .
+
+wd:Q2858187 a wd:Q28816538 ;
+    rdfs:label "Strake"@en .
+
+wd:Q2862189 a wd:Q28816538 ;
+    rdfs:label "Air-to-ground weaponry"@en .
+
+wd:Q28650069 a wd:Q1914636 ;
+    rdfs:label "2017 Taiwan Lantern Festival"@en .
+
+wd:Q2865620 a wd:Q1914636 ;
+    rdfs:label "Q2865620"^^xsd:string .
+
+wd:Q2868572 a wd:Q28816538 ;
+    rdfs:label "astrodome"@en .
+
+wd:Q2872503 a wd:Q28816538 ;
+    rdfs:label "Autothrottle"@en .
+
+wd:Q2874353 a wd:Q28816538 ;
+    rdfs:label "tricycle gear"@en .
+
+wd:Q2874355 a wd:Q28816538 ;
+    rdfs:label "conventional landing gear"@en .
+
+wd:Q2875354 a wd:Q2695280 ;
+    rdfs:label "Helicopter Rope Suspension Technique"@en .
+
+wd:Q28792482 a wd:Q1914636 ;
+    rdfs:label "astroengineering"@en .
+
+wd:Q288028 a wd:Q28816538 ;
+    rdfs:label "Aircraft Communications Addressing and Reporting System"@en .
+
+wd:Q2881406 a wd:Q28816538 ;
+    rdfs:label "Ballute"@en .
+
+wd:Q28823723 rdfs:label "marine autopilot"@en ;
+    rdfs:subClassOf wd:Q220858 .
+
+wd:Q28823756 rdfs:label "Auto-steering System"@en ;
+    rdfs:subClassOf wd:Q220858 .
+
+wd:Q28873643 a wd:Q1914636 ;
+    rdfs:label "tailoring"@en .
+
+wd:Q28873655 a wd:Q1914636 ;
+    rdfs:label "dressmaking"@en .
+
+wd:Q2892564 a wd:Q1914636 ;
+    rdfs:label "Q2892564"^^xsd:string .
+
+wd:Q2893427 a wd:Q1310239 ;
+    rdfs:label "lip"@en .
+
+wd:Q2897219 a wd:Q811909 ;
+    rdfs:label "Q2897219"^^xsd:string .
+
+wd:Q28974032 a wd:Q11650 ;
+    rdfs:label "Q28974032"^^xsd:string .
+
+wd:Q29010608 a wd:Q3249551 ;
+    rdfs:label "efforts to impeach Donald Trump"@en .
+
+wd:Q2904016 a wd:Q1914636 ;
+    rdfs:label "BioBlitz"@en .
+
+wd:Q2905000 a wd:Q28816538 ;
+    rdfs:label "Total air temperature"@en .
+
+wd:Q2905488 a wd:Q1914636 ;
+    rdfs:label "beer pouring"@en .
+
+wd:Q2908542 a wd:Q28816538 ;
+    rdfs:label "Boeing T50"@en .
+
+wd:Q291046 a wd:Q2695280 ;
+    rdfs:label "Discounts and allowances"@en .
+
+wd:Q291960 a wd:Q28816538 ;
+    rdfs:label "Avionics Full-Duplex Switched Ethernet"@en .
+
+wd:Q2920267 a wd:Q3249551 ;
+    rdfs:label "Engineering design process"@en .
+
+wd:Q292077 a wd:Q2695280 ;
+    rdfs:label "Amplified fragment length polymorphism"@en .
+
+wd:Q2920921 a wd:Q1914636 ;
+    rdfs:label "management"@en .
+
+wd:Q2922975 a wd:Q2695280 ;
+    rdfs:label "Q2922975"^^xsd:string .
+
+wd:Q2930613 a wd:Q1914636 ;
+    rdfs:label "conscientious objection"@en .
+
+wd:Q2933935 a wd:Q2695280 ;
+    rdfs:label "Camera resectioning"@en .
+
+wd:Q29349255 a wd:Q1914636 ;
+    rdfs:label "candlemaking"@en .
+
+wd:Q2935964 a wd:Q2695280 ;
+    rdfs:label "alpha channel"@en .
+
+wd:Q29428404 a wd:Q1914636 ;
+    rdfs:label "Anti-gay purges in Chechnya"@en .
+
+wd:Q2949546 a wd:Q2695280 ;
+    rdfs:label "roelfova"@en .
+
+wd:Q2949763 a wd:Q28816538 ;
+    rdfs:label "chevron"@en .
+
+wd:Q2961375 a wd:Q1914636 ;
+    rdfs:label "Rabbiting"@en .
+
+wd:Q29641205 a wd:Q1914636 ;
+    rdfs:label "Q29641205"^^xsd:string .
+
+wd:Q296486 a wd:Q3249551 ;
+    rdfs:label "ecocide"@en .
+
+wd:Q297251 a wd:Q2695280 ;
+    rdfs:label "Ölpolitur"@en .
+
+wd:Q2974533 a wd:Q2695280 ;
+    rdfs:label "Q2974533"^^xsd:string .
+
+wd:Q2975883 a wd:Q1914636 ;
+    rdfs:label "violin making and maintenance"@en .
+
+wd:Q2982689 a wd:Q1914636 ;
+    rdfs:label "Decommunization"@en .
+
+wd:Q29848551 a wd:Q4026292 ;
+    rdfs:label "Q29848551"^^xsd:string .
+
+wd:Q2992500 a wd:Q28816538 ;
+    rdfs:label "wing configuration"@en .
+
+wd:Q2992510 a wd:Q2695280 ;
+    rdfs:label "confiting"@en .
+
+wd:Q2994466 a wd:Q1914636 ;
+    rdfs:label "traditional economy"@en .
+
+wd:Q2994908 a wd:Q28816538 ;
+    rdfs:label "Constant speed drive"@en .
+
+wd:Q300035 a wd:Q2695280 ;
+    rdfs:label "Attenuated total reflectance"@en .
+
+wd:Q3025245 a wd:Q28816538 ;
+    rdfs:label "Supercavitating propeller"@en .
+
+wd:Q3026015 a wd:Q28816538 ;
+    rdfs:label "radiation hardening"@en .
+
+wd:Q3030513 a wd:Q4026292 ;
+    rdfs:label "disappearance"@en .
+
+wd:Q30314188 a wd:Q2695280 ;
+    rdfs:label "Gokhale Method"@en .
+
+wd:Q3035576 a wd:Q2695280 ;
+    rdfs:label "Q3035576"^^xsd:string .
+
+wd:Q3040074 a wd:Q17423076,
+        wd:Q28816538 ;
+    rdfs:label "terrain awareness and warning system"@en .
+
+wd:Q3042796 a wd:Q2695280 ;
+    rdfs:label "Adomian decomposition method"@en .
+
+wd:Q3044530 a wd:Q1914636 ;
+    rdfs:label "snow removal"@en .
+
+wd:Q3046590 a wd:Q2695280 ;
+    rdfs:label "Eastmancolor"@en .
+
+wd:Q3050486 a wd:Q1914636 ;
+    rdfs:label "Q3050486"^^xsd:string .
+
+wd:Q3053394 a wd:Q1914636 ;
+    rdfs:label "Q3053394"^^xsd:string .
+
+wd:Q306093 a wd:Q1914636 ;
+    rdfs:label "dismantling"@en .
+
+wd:Q306103 a wd:Q2695280 ;
+    rdfs:label "mining method"@en .
+
+wd:Q307329 a wd:Q1914636 ;
+    rdfs:label "Shanghaiing"@en .
+
+wd:Q30748700 a wd:Q2695280 ;
+    rdfs:label "Flash release"@en .
+
+wd:Q3079876 a wd:Q2695280 ;
+    rdfs:label "audio mining"@en .
+
+wd:Q308453 a wd:Q1914636 ;
+    rdfs:label "Abdrehen"@en .
+
+wd:Q3087415 a wd:Q2695280 ;
+    rdfs:label "Threshold braking"@en .
+
+wd:Q30892511 a wd:Q28816538 ;
+    rdfs:label "TV7-117"@en .
+
+wd:Q309027 a wd:Q28816538 ;
+    rdfs:label "turboprop"@en .
+
+wd:Q3104964 a wd:Q1914636 ;
+    rdfs:label "ghost-riding"@en .
+
+wd:Q3110906 a wd:Q2695280 ;
+    rdfs:label "space syntax"@en .
+
+wd:Q3112760 a wd:Q2695280 ;
+    rdfs:label "augmented prototyping"@en .
+
+wd:Q3119335 a wd:Q811909 ;
+    rdfs:label "Guibre"@en .
+
+wd:Q3125403 a wd:Q2695280 ;
+    rdfs:label "Haboku"@en .
+
+wd:Q3128486 a wd:Q1914636 ;
+    rdfs:label "French high civil service"@en .
+
+wd:Q313592 a wd:Q2695280 ;
+    rdfs:label "three-CCD camera"@en .
+
+wd:Q3146519 a wd:Q28816538 ;
+    rdfs:label "IBM System/4 Pi"@en .
+
+wd:Q3179852 a wd:Q2695280 ;
+    rdfs:label "Underglaze"@en .
+
+wd:Q31890014 a wd:Q1914636 ;
+    rdfs:label "Clothing care"@en .
+
+wd:Q3189909 a wd:Q2695280 ;
+    rdfs:label "Jum"@en .
+
+wd:Q320037 a wd:Q1914636 ;
+    rdfs:label "Abflammen"@en .
+
+wd:Q320446 a wd:Q1914636 ;
+    rdfs:label "Abgratung"@en .
+
+wd:Q321476 a wd:Q1914636 ;
+    rdfs:label "Wire stripping"@en .
+
+wd:Q3215756 a wd:Q1914636 ;
+    rdfs:label "typing"@en .
+
+wd:Q321984 a wd:Q2695280 ;
+    rdfs:label "Abkreuzung"@en .
+
+wd:Q322118 a wd:Q1914636 ;
+    rdfs:label "Ablastung"@en .
+
+wd:Q322255 a wd:Q3249551 ;
+    rdfs:label "distributing"@en .
+
+wd:Q322377 a wd:Q1914636 ;
+    rdfs:label "meter reading"@en .
+
+wd:Q323015 a wd:Q28816538 ;
+    rdfs:label "Apollo Abort Guidance System"@en .
+
+wd:Q3241434 a wd:Q1914636 ;
+    rdfs:label "hydrocarbon exploration"@en .
+
+wd:Q3241671 a wd:Q1914636 ;
+    rdfs:label "plumbing"@en .
+
+wd:Q3244117 a wd:Q28816538 ;
+    rdfs:label "Laddermill"@en .
+
+wd:Q328554 a wd:Q4026292 ;
+    rdfs:label "accounts receivable"@en .
+
+wd:Q329637 a wd:Q1914636 ;
+    rdfs:label "constructing"@en .
+
+wd:Q3316237 a wd:Q2695280 ;
+    rdfs:label "Q3316237"^^xsd:string .
+
+wd:Q331796 a wd:Q1914636 ;
+    rdfs:label "Sales promotion"@en .
+
+wd:Q331835 a wd:Q2695280 ;
+    rdfs:label "suction"@en .
+
+wd:Q332097 a wd:Q1914636 ;
+    rdfs:label "Abschmecken"@en .
+
+wd:Q332163 a wd:Q1914636 ;
+    rdfs:label "Abschwenken"@en .
+
+wd:Q332171 a wd:Q1914636 ;
+    rdfs:label "Abschöpfung"@en .
+
+wd:Q332231 a wd:Q1914636 ;
+    rdfs:label "Abseiling"@en .
+
+wd:Q3325085 a wd:Q28816538 ;
+    rdfs:label "Critical engine"@en .
+
+wd:Q3327631 a wd:Q1914636 ;
+    rdfs:label "mulquinerie"@en .
+
+wd:Q332997 a wd:Q2695280 ;
+    rdfs:label "embalming"@en .
+
+wd:Q332999 a wd:Q28816538 ;
+    rdfs:label "engine-indicating and crew-alerting system"@en .
+
+wd:Q333044 a wd:Q28816538 ;
+    rdfs:label "traffic collision avoidance system"@en ;
+    rdfs:subClassOf wd:Q1063898 .
+
+wd:Q3333626 a wd:Q2695280 ;
+    rdfs:label "Plane wave expansion method"@en .
+
+wd:Q3341839 a wd:Q2695280 ;
+    rdfs:label "Q3341839"^^xsd:string .
+
+wd:Q334401 a wd:Q1914636 ;
+    rdfs:label "surveillance"@en .
+
+wd:Q3359167 a wd:Q28816538 ;
+    rdfs:label "vortex generator"@en .
+
+wd:Q3360523 a wd:Q2695280 ;
+    rdfs:label "rushing"@en .
+
+wd:Q336152 a wd:Q1914636 ;
+    rdfs:label "dishwashing"@en .
+
+wd:Q336267 a wd:Q1914636 ;
+    rdfs:label "Abwerbung"@en .
+
+wd:Q336368 a wd:Q28816538 ;
+    rdfs:label "drop tank"@en .
+
+wd:Q3367000 a wd:Q1914636 ;
+    rdfs:label "orchestration"@en .
+
+wd:Q3367140 a wd:Q28816538 ;
+    rdfs:label "Helicopter flight controls"@en .
+
+wd:Q336740 a wd:Q1914636 ;
+    rdfs:label "Trigger control"@en .
+
+wd:Q337907 a wd:Q1914636 ;
+    rdfs:label "woodcarving"@en .
+
+wd:Q338401 a wd:Q2695280 ;
+    rdfs:label "clinker"@en .
+
+wd:Q3393118 a wd:Q2695280 ;
+    rdfs:label "Podorythmie"@en .
+
+wd:Q3393318 a wd:Q1914636 ;
+    rdfs:label "Mascletà"@en .
+
+wd:Q340736 a wd:Q811909 ;
+    rdfs:label "Achshalter"@en .
+
+wd:Q3407933 a wd:Q28816538 ;
+    rdfs:label "flight envelope protection"@en .
+
+wd:Q3409055 a wd:Q1914636 ;
+    rdfs:label "physical preparedness"@en .
+
+wd:Q341045 a wd:Q2695280 ;
+    rdfs:label "mindfulness"@en .
+
+wd:Q3429919 a wd:Q1914636 ;
+    rdfs:label "screenwriting"@en .
+
+wd:Q3433754 a wd:Q2695280 ;
+    rdfs:label "cutting extinguisher"@en .
+
+wd:Q3435118 a wd:Q2695280 ;
+    rdfs:label "sinking"@en .
+
+wd:Q34412209 a wd:Q741490 ;
+    rdfs:label "kar-go"@en .
+
+wd:Q344202 a wd:Q1914636 ;
+    rdfs:label "Active Sourcing"@en .
+
+wd:Q3459203 a wd:Q1914636 ;
+    rdfs:label "SASPAS"@en .
+
+wd:Q3459606 a wd:Q28816538 ;
+    rdfs:label "SAGEM Sigma 30"@en .
+
+wd:Q3472338 a wd:Q2695280 ;
+    rdfs:label "Sankyo"@en .
+
+wd:Q3474233 a wd:Q28816538 ;
+    rdfs:label "Wing tip"@en .
+
+wd:Q34918199 a wd:Q1914636 ;
+    rdfs:label "Q34918199"^^xsd:string .
+
+wd:Q3491920 a wd:Q1914636 ;
+    rdfs:label "Sourcing"@en .
+
+wd:Q3508687 a wd:Q3249551 ;
+    rdfs:label "staging"@en .
+
+wd:Q3509293 a wd:Q28816538 ;
+    rdfs:label "Air traffic control radar beacon system"@en .
+
+wd:Q3510465 a wd:Q2695280 ;
+    rdfs:label "security as a service"@en .
+
+wd:Q3513293 a wd:Q28816538 ;
+    rdfs:label "aircraft cabin"@en .
+
+wd:Q3513509 a wd:Q2695280 ;
+    rdfs:label "Q3513509"^^xsd:string .
+
+wd:Q3518002 a wd:Q2695280 ;
+    rdfs:label "Q3518002"^^xsd:string .
+
+wd:Q35191043 a wd:Q2695280 ;
+    rdfs:label "file format identification"@en .
+
+wd:Q352072 a wd:Q2695280 ;
+    rdfs:label "link aggregation"@en .
+
+wd:Q352842 a wd:Q1914636 ;
+    rdfs:label "teaching"@en .
+
+wd:Q3535655 a wd:Q1914636 ;
+    rdfs:label "cataloging"@en .
+
+wd:Q353578 a wd:Q1914636 ;
+    rdfs:label "chartering"@en .
+
+wd:Q3539066 a wd:Q2695280 ;
+    rdfs:label "finger knitting"@en .
+
+wd:Q3546237 a wd:Q811909 ;
+    rdfs:label "Q3546237"^^xsd:string .
+
+wd:Q355423 a wd:Q28816538 ;
+    rdfs:label "NACA cowling"@en .
+
+wd:Q355480 a wd:Q2695280 ;
+    rdfs:label "Slides"@en .
+
+wd:Q3555239 a wd:Q1914636 ;
+    rdfs:label "Marketing intelligence"@en .
+
+wd:Q35587 a wd:Q3249551 ;
+    rdfs:label "WWE Brand Extension"@en .
+
+wd:Q3561307 a wd:Q28816538 ;
+    rdfs:label "spinner"@en .
+
+wd:Q3571409 a wd:Q2695280 ;
+    rdfs:label "Yamadori"@en .
+
+wd:Q3577325 a wd:Q811909 ;
+    rdfs:label "Q3577325"^^xsd:string .
+
+wd:Q357797 a wd:Q28816538 ;
+    rdfs:label "Side-stick"@en .
+
+wd:Q3622889 a wd:Q2695280 ;
+    rdfs:label "Turbo fuel stratified injection"@en .
+
+wd:Q3630510 a wd:Q28816538 ;
+    rdfs:label "Autoland"@en .
+
+wd:Q36381987 a wd:Q2695280 ;
+    rdfs:label "Transportation Systems Management"@en .
+
+wd:Q3640180 a wd:Q2695280 ;
+    rdfs:label "biopile"@en .
+
+wd:Q36633 a wd:Q1914636 ;
+    rdfs:label "prostitution"@en .
+
+wd:Q36963 a wd:Q1914636 ;
+    rdfs:label "hunting"@en .
+
+wd:Q370228 a wd:Q2695280 ;
+    rdfs:label "isotopic labeling"@en .
+
+wd:Q371949 a wd:Q28816538 ;
+    rdfs:label "flight director"@en .
+
+wd:Q373017 a wd:Q1914636 ;
+    rdfs:label "basketry"@en .
+
+wd:Q373069 a wd:Q1914636 ;
+    rdfs:label "evangelism"@en .
+
+wd:Q3754311 a wd:Q413 ;
+    rdfs:label "Q3754311"^^xsd:string .
+
+wd:Q3754509 a wd:Q1914636 ;
+    rdfs:label "Q3754509"^^xsd:string .
+
+wd:Q3754526 a wd:Q1914636 ;
+    rdfs:label "administration"@en .
+
+wd:Q375471 a wd:Q1914636 ;
+    rdfs:label "student exchange program"@en .
+
+wd:Q3769826 a wd:Q413 ;
+    rdfs:label "Q3769826"^^xsd:string .
+
+wd:Q3772297 a wd:Q1914636 ;
+    rdfs:label "information seeking"@en .
+
+wd:Q3796906 a wd:Q28816538 ;
+    rdfs:label "Ice protection system"@en .
+
+wd:Q380813 a wd:Q28816538 ;
+    rdfs:label "Thrust lever"@en .
+
+wd:Q380962 a wd:Q1914636 ;
+    rdfs:label "cooperation"@en .
+
+wd:Q3815113 rdfs:label "RAPTOR"@en ;
+    rdfs:subClassOf wd:Q17415641 .
+
+wd:Q381526 a wd:Q1914636 ;
+    rdfs:label "aeromagnetics"@en .
+
+wd:Q381581 a wd:Q28816538 ;
+    rdfs:label "Aeronautical Telecommunication Network"@en .
+
+wd:Q3825524 a wd:Q2695280 ;
+    rdfs:label "Disk integration"@en .
+
+wd:Q3828108 a wd:Q413 ;
+    rdfs:label "Compression"@en .
+
+wd:Q382835 a wd:Q28816538 ;
+    rdfs:label "Jump seat"@en .
+
+wd:Q383619 rdfs:label "magnetic anomaly detector"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q3840181 a wd:Q28816538 ;
+    rdfs:label "Luigi Stipa"@en .
+
+wd:Q38438 a wd:Q1914636 ;
+    rdfs:label "dog walking"@en .
+
+wd:Q385472 a wd:Q28816538 ;
+    rdfs:label "NOTAR"@en .
+
+wd:Q3855632 a wd:Q2695280 ;
+    rdfs:label "Owas"@en .
+
+wd:Q3870226 a wd:Q28816538 ;
+    rdfs:label "Napier Gazelle"@en .
+
+wd:Q3875757 a wd:Q2695280 ;
+    rdfs:label "NgalSo"@en .
+
+wd:Q39078974 a wd:Q2695280 ;
+    rdfs:label "notch"@en .
+
+wd:Q39086077 a wd:Q741490 ;
+    rdfs:label "Robo-Taxi"@en .
+
+wd:Q39091052 a wd:Q2695280 ;
+    rdfs:label "Transcription into Korean"@en .
+
+wd:Q3909519 a wd:Q28816538 ;
+    rdfs:label "War emergency power"@en .
+
+wd:Q392256 a wd:Q2695280 ;
+    rdfs:label "Clean-in-place"@en .
+
+wd:Q392752 a wd:Q1914636 ;
+    rdfs:label "agent provocateur"@en .
+
+wd:Q3940376 a wd:Q28816538 ;
+    rdfs:label "Gem"@en .
+
+wd:Q3945070 a wd:Q28816538 ;
+    rdfs:label "Localizer"@en .
+
+wd:Q3962215 a wd:Q28816538 ;
+    rdfs:label "Synthetic vision system"@en .
+
+wd:Q3979509 a wd:Q1138034 ;
+    rdfs:label "TERPROM"@en .
+
+wd:Q4003259 a wd:Q1914636 ;
+    rdfs:label "Ultracycling"@en .
+
+wd:Q4008379 a wd:Q1914636 ;
+    rdfs:label "valuation"@en .
+
+wd:Q4009255 a wd:Q1914636 ;
+    rdfs:label "Q4009255"^^xsd:string .
+
+wd:Q4010119 a wd:Q28816538 ;
+    rdfs:label "Aircraft dope"@en .
+
+wd:Q4019201 a wd:Q28816538 ;
+    rdfs:label "Wet wing"@en .
+
+wd:Q4043424 a wd:Q28816538 ;
+    rdfs:label "MIL-STD-1750A"@en .
+
+wd:Q4052551 a wd:Q17422897 ;
+    rdfs:label "VOR/DME"@en .
+
+wd:Q40595 a wd:Q28816538 ;
+    rdfs:label "High-lift device"@en .
+
+wd:Q4116750 a wd:Q28816538 ;
+    rdfs:label "stabilator"@en .
+
+wd:Q412357 a wd:Q2695280 ;
+    rdfs:label "galvanizing"@en .
+
+wd:Q4139206 a wd:Q1914636 ;
+    rdfs:label "Centralized computing"@en .
+
+wd:Q4153449 a wd:Q2695280 ;
+    rdfs:label "JSM-method"@en .
+
+wd:Q4164783 a wd:Q1914636 ;
+    rdfs:label "Q4164783"^^xsd:string .
+
+wd:Q420122 a wd:Q28816538 ;
+    rdfs:label "Emergency position-indicating radiobeacon station"@en .
+
+wd:Q4206119 a wd:Q28816538 ;
+    rdfs:label "NPP Zvezda K-36"@en .
+
+wd:Q4217413 a wd:Q2695280 ;
+    rdfs:label "disk mirroring"@en .
+
+wd:Q423003 a wd:Q2695280 ;
+    rdfs:label "busy waiting"@en .
+
+wd:Q423336 a wd:Q28816538 ;
+    rdfs:label "Pleuger rudder"@en .
+
+wd:Q4248887 a wd:Q28816538 ;
+    rdfs:label "Attitude and heading reference system"@en .
+
+wd:Q4251036 a wd:Q28816538 ;
+    rdfs:label "T55"@en .
+
+wd:Q4251172 a wd:Q2695280 ;
+    rdfs:label "k'o-ssu"@en .
+
+wd:Q426175 a wd:Q28816538 ;
+    rdfs:label "chopper"@en .
+
+wd:Q4274755 a wd:Q2695280 ;
+    rdfs:label "severe plastic deformation"@en .
+
+wd:Q4281900 a wd:Q28816538 ;
+    rdfs:label "Marker beacon"@en .
+
+wd:Q4288478 a wd:Q2695280 ;
+    rdfs:label "matched grip"@en .
+
+wd:Q4311765 a wd:Q3249551 ;
+    rdfs:label "heating"@en .
+
+wd:Q431316 a wd:Q28816538 ;
+    rdfs:label "Arriel"@en .
+
+wd:Q4317446 a wd:Q28816538 ;
+    rdfs:label "Rib"@en .
+
+wd:Q43201403 a wd:Q2695280 ;
+    rdfs:label "flint and steel"@en .
+
+wd:Q4323479 a wd:Q2695280 ;
+    rdfs:label "cyrillization of Greek"@en .
+
+wd:Q432394 a wd:Q2695280 ;
+    rdfs:label "assisted GPS"@en .
+
+wd:Q43437 a wd:Q1914636 ;
+    rdfs:label "procuring"@en .
+
+wd:Q4352046 a wd:Q4026292 ;
+    rdfs:label "fold"@en .
+
+wd:Q4368931 a wd:Q2695280 ;
+    rdfs:label "Human defecation postures"@en .
+
+wd:Q43714988 a wd:Q2695280 ;
+    rdfs:label "writing in space"@en .
+
+wd:Q4372167 a wd:Q28816538 ;
+    rdfs:label "former"@en .
+
+wd:Q4393920 a wd:Q28816538 ;
+    rdfs:label "Bitching Betty"@en .
+
+wd:Q4399976 a wd:Q28816538 ;
+    rdfs:label "Aircraft flight manual"@en .
+
+wd:Q4403116 a wd:Q4026292 ;
+    rdfs:label "clipping"@en .
+
+wd:Q44103097 a wd:Q2695280 ;
+    rdfs:label "mounting"@en .
+
+wd:Q4418637 a wd:Q28816538 ;
+    rdfs:label "Ice detector"@en .
+
+wd:Q445623 a wd:Q28816538 ;
+    rdfs:label "constant speed propeller"@en .
+
+wd:Q4476051 a wd:Q28816538 ;
+    rdfs:label "Weight-shift control"@en .
+
+wd:Q451987 a wd:Q1914636 ;
+    rdfs:label "military recruitment"@en .
+
+wd:Q452339 a wd:Q2695280 ;
+    rdfs:label "Interactive Connectivity Establishment"@en .
+
+wd:Q45393 a wd:Q1914636 ;
+    rdfs:label "piracy"@en .
+
+wd:Q455037 a wd:Q2695280 ;
+    rdfs:label "assembly line"@en .
+
+wd:Q455550 a wd:Q1914636 ;
+    rdfs:label "camping"@en .
+
+wd:Q456431 a wd:Q28816538 ;
+    rdfs:label "pitot-static system"@en .
+
+wd:Q4589696 a wd:Q2695280 ;
+    rdfs:label "dice throw"@en .
+
+wd:Q459961 a wd:Q2695280 ;
+    rdfs:label "Wen-Do"@en .
+
+wd:Q461533 a wd:Q413 ;
+    rdfs:label "Wavefront"@en .
+
+wd:Q4624334 a wd:Q1914636 ;
+    rdfs:label "Q4624334"^^xsd:string .
+
+wd:Q462559 a wd:Q28816538 ;
+    rdfs:label "spoileron"@en .
+
+wd:Q464020 a wd:Q28816538 ;
+    rdfs:label "Instrument Landing System"@en .
+
+wd:Q4650614 a wd:Q28816538 ;
+    rdfs:label "ACES II"@en .
+
+wd:Q4651862 a wd:Q28816538 ;
+    rdfs:label "AIDS"@en .
+
+wd:Q4652509 a wd:Q2695280 ;
+    rdfs:label "AM1*"@en .
+
+wd:Q4653063 a wd:Q28816538 ;
+    rdfs:label "ANTLE"@en .
+
+wd:Q4653766 a wd:Q2695280 ;
+    rdfs:label "ARID"@en .
+
+wd:Q4653783 a wd:Q28816538 ;
+    rdfs:label "ARINC 818"@en .
+
+wd:Q4653784 rdfs:label "ARINC 708"@en ;
+    rdfs:subClassOf wd:Q15052159 .
+
+wd:Q4653786 a wd:Q28816538 ;
+    rdfs:label "ARINC 826"@en .
+
+wd:Q4653885 a wd:Q28816538 ;
+    rdfs:label "ARP4754"@en .
+
+wd:Q4654087 a wd:Q28816538 ;
+    rdfs:label "ASC-15"@en .
+
+wd:Q466689 a wd:Q28816538 ;
+    rdfs:label "MW 50"@en .
+
+wd:Q4672534 a wd:Q28816538 ;
+    rdfs:label "Accessory drive"@en .
+
+wd:Q4676380 a wd:Q28816538 ;
+    rdfs:label "Acronyms and abbreviations in avionics"@en .
+
+wd:Q4681348 a wd:Q2695280 ;
+    rdfs:label "Additive smoothing"@en .
+
+wd:Q4686114 a wd:Q28816538 ;
+    rdfs:label "Advanced Affordable Turbine Engine"@en .
+
+wd:Q4686215 rdfs:label "Advanced Inertial Reference Sphere"@en ;
+    rdfs:subClassOf wd:Q570607 .
+
+wd:Q4694891 a wd:Q2695280 ;
+    rdfs:label "Ahaat"@en .
+
+wd:Q4697623 a wd:Q28816538 ;
+    rdfs:label "Air-ground radiotelephone service"@en .
+
+wd:Q4697676 a wd:Q28816538 ;
+    rdfs:label "AirNav Systems RadarBox"@en .
+
+wd:Q4698317 a wd:Q28816538 ;
+    rdfs:label "Air data boom"@en .
+
+wd:Q4698319 a wd:Q28816538 ;
+    rdfs:label "Air data module"@en .
+
+wd:Q4698467 a wd:Q28816538 ;
+    rdfs:label "Airborne wind shear detection and alert system"@en .
+
+wd:Q4698508 a wd:Q28816538 ;
+    rdfs:label "Aircraft Information Management System"@en .
+
+wd:Q4698541 a wd:Q28816538 ;
+    rdfs:label "aircraft diesel engine"@en .
+
+wd:Q4698545 a wd:Q28816538 ;
+    rdfs:label "Aircraft engine position number"@en .
+
+wd:Q4698547 a wd:Q28816538 ;
+    rdfs:label "Aircraft fabric covering"@en .
+
+wd:Q4698548 a wd:Q28816538 ;
+    rdfs:label "Aircraft engine controls"@en .
+
+wd:Q4698552 a wd:Q28816538 ;
+    rdfs:label "Aircraft fuel system"@en .
+
+wd:Q4698554 a wd:Q28816538 ;
+    rdfs:label "Aircraft lavatory"@en .
+
+wd:Q4698569 a wd:Q28816538 ;
+    rdfs:label "aircraft system"@en .
+
+wd:Q4698690 a wd:Q28816538 ;
+    rdfs:label "Airfone"@en .
+
+wd:Q4698863 a wd:Q28816538 ;
+    rdfs:label "Airplane airbags"@en .
+
+wd:Q47069765 a wd:Q1914636 ;
+    rdfs:label "Q47069765"^^xsd:string .
+
+wd:Q47161436 a wd:Q3249551 ;
+    rdfs:label "Q47161436"^^xsd:string .
+
+wd:Q472328 a wd:Q1914636 ;
+    rdfs:label "science communication"@en .
+
+wd:Q47315624 a wd:Q1914636 ;
+    rdfs:label "artillery observation"@en .
+
+wd:Q4732832 a wd:Q28816538 ;
+    rdfs:label "Allison T38"@en .
+
+wd:Q4732833 a wd:Q28816538 ;
+    rdfs:label "Allison T40"@en .
+
+wd:Q4736412 a wd:Q2695280 ;
+    rdfs:label "Alternating current field measurement"@en .
+
+wd:Q475037 a wd:Q28816538 ;
+    rdfs:label "Rolls-Royce Turbomeca RTM322"@en .
+
+wd:Q47518092 a wd:Q1914636 ;
+    rdfs:label "Q47518092"^^xsd:string .
+
+wd:Q47528 a wd:Q28816538 ;
+    rdfs:label "radar"@en .
+
+wd:Q4769782 a wd:Q28816538 ;
+    rdfs:label "Annunciator panel"@en .
+
+wd:Q47755560 a wd:Q1914636 ;
+    rdfs:label "Bilibili Macro Link"@en .
+
+wd:Q4778893 a wd:Q28816538 ;
+    rdfs:label "Apache Arrowhead"@en .
+
+wd:Q4781538 a wd:Q28816538 ;
+    rdfs:label "Deicing boot"@en .
+
+wd:Q478382 a wd:Q2695280 ;
+    rdfs:label "phase distortion synthesis"@en .
+
+wd:Q4790326 a wd:Q3249551 ;
+    rdfs:label "Aridification"@en .
+
+wd:Q4793566 a wd:Q28816538 ;
+    rdfs:label "Arming plug"@en .
+
+wd:Q4795923 a wd:Q2695280 ;
+    rdfs:label "arrested decay"@en .
+
+wd:Q482089 a wd:Q811909 ;
+    rdfs:label "Acélhaj"@en .
+
+wd:Q4826179 a wd:Q28816538 ;
+    rdfs:label "Autobrake"@en .
+
+wd:Q4826271 a wd:Q28816538 ;
+    rdfs:label "Autofeather"@en .
+
+wd:Q4826521 a wd:Q28816538 ;
+    rdfs:label "Automatic Independent Surveillance-Privacy"@en .
+
+wd:Q4826785 a wd:Q28816538 ;
+    rdfs:label "Autonomous Air Combat Manoeuvring Instrumentation"@en .
+
+wd:Q4827891 a wd:Q28816538 ;
+    rdfs:label "Avco/Pratt & Whitney T800"@en .
+
+wd:Q4828794 a wd:Q28816538 ;
+    rdfs:label "Avidyne Entegra"@en .
+
+wd:Q4828920 a wd:Q28816538 ;
+    rdfs:label "avionics software"@en .
+
+wd:Q4835445 a wd:Q28816538 ;
+    rdfs:label "BERP rotor"@en .
+
+wd:Q4849999 a wd:Q28816538 ;
+    rdfs:label "Balanced rudder"@en .
+
+wd:Q48517 a wd:Q1914636 ;
+    rdfs:label "conservation and restoration of glass objects"@en .
+
+wd:Q485544 a wd:Q2695280 ;
+    rdfs:label "CinemaScope"@en .
+
+wd:Q4869496 a wd:Q2695280 ;
+    rdfs:label "Batoning"@en .
+
+wd:Q48716833 a wd:Q2695280 ;
+    rdfs:label "MOD 11-2"@en .
+
+wd:Q48743 a wd:Q2695280 ;
+    rdfs:label "western blot"@en .
+
+wd:Q48785284 a wd:Q1914636 ;
+    rdfs:label "cultural management"@en .
+
+wd:Q4880214 a wd:Q2695280 ;
+    rdfs:label "beetlewing"@en .
+
+wd:Q488598 a wd:Q1914636 ;
+    rdfs:label "forward air control"@en .
+
+wd:Q4887128 a wd:Q28816538 ;
+    rdfs:label "Bendix-Stromberg pressure carburetor"@en .
+
+wd:Q4887435 a wd:Q28816538 ;
+    rdfs:label "Benefield Anechoic Facility"@en .
+
+wd:Q489799 a wd:Q2695280 ;
+    rdfs:label "wheatpaste"@en .
+
+wd:Q4914764 a wd:Q2695280 ;
+    rdfs:label "biodistribution"@en .
+
+wd:Q4923715 a wd:Q28816538 ;
+    rdfs:label "blade grinder"@en .
+
+wd:Q4923717 a wd:Q28816538 ;
+    rdfs:label "Blade inspection method"@en .
+
+wd:Q4926644 a wd:Q28816538 ;
+    rdfs:label "Blind flying panel"@en .
+
+wd:Q4928621 a wd:Q28816538 ;
+    rdfs:label "Blown flap"@en .
+
+wd:Q4929093 a wd:Q28816538 ;
+    rdfs:label "Blue Edge"@en .
+
+wd:Q4929239 a wd:Q1914636 ;
+    rdfs:label "data collection"@en .
+
+wd:Q493009 a wd:Q28816538 ;
+    rdfs:label "Aircraft landing lights"@en .
+
+wd:Q495550 a wd:Q28816538 ;
+    rdfs:label "Escape crew capsule"@en .
+
+wd:Q4956033 a wd:Q28816538 ;
+    rdfs:label "Brake to Vacate"@en .
+
+wd:Q4969015 a wd:Q28816538 ;
+    rdfs:label "Bristol Siddeley Nimbus"@en .
+
+wd:Q497063 a wd:Q2695280 ;
+    rdfs:label "transfer technique"@en .
+
+wd:Q49717 a wd:Q811909 ;
+    rdfs:label "crankset"@en .
+
+wd:Q4982224 a wd:Q28816538 ;
+    rdfs:label "Bubble canopy"@en .
+
+wd:Q4989905 a wd:Q28816538 ;
+    rdfs:label "counter-rotating propellers"@en .
+
+wd:Q5004190 a wd:Q28816538 ;
+    rdfs:label "Bypass duct"@en .
+
+wd:Q5013061 a wd:Q2695280 ;
+    rdfs:label "CN-MoM"@en .
+
+wd:Q5013582 a wd:Q28816538 ;
+    rdfs:label "CP-823/U"@en .
+
+wd:Q5015229 a wd:Q28816538 ;
+    rdfs:label "Cabane strut"@en .
+
+wd:Q5016376 a wd:Q2695280 ;
+    rdfs:label "Cadence braking"@en .
+
+wd:Q502522 a wd:Q28816538 ;
+    rdfs:label "Radio Technical Commission for Aeronautics"@en .
+
+wd:Q5025838 a wd:Q811909 ;
+    rdfs:label "came"@en .
+
+wd:Q5028389 a wd:Q1914636 ;
+    rdfs:label "Camping in New Zealand"@en .
+
+wd:Q5030722 a wd:Q2695280 ;
+    rdfs:label "Canadian clowning technique"@en .
+
+wd:Q50357982 a wd:Q2695280 ;
+    rdfs:label "headstarting"@en .
+
+wd:Q504073 a wd:Q2695280 ;
+    rdfs:label "stencil"@en .
+
+wd:Q5061830 a wd:Q4026292 ;
+    rdfs:label "Q5061830"^^xsd:string .
+
+wd:Q50704 a wd:Q2695280 ;
+    rdfs:label "completing the square"@en .
+
+wd:Q50862267 a wd:Q1914636 ;
+    rdfs:label "Flying duck race"@en .
+
+wd:Q509379 a wd:Q28816538 ;
+    rdfs:label "aileron"@en .
+
+wd:Q509684 a wd:Q28816538 ;
+    rdfs:label "Air waybill"@en .
+
+wd:Q51164236 a wd:Q1914636 ;
+    rdfs:label "counterfeiting"@en .
+
+wd:Q5118089 a wd:Q1914636 ;
+    rdfs:label "church planting"@en .
+
+wd:Q5121691 a wd:Q28816538 ;
+    rdfs:label "Circulation control wing"@en .
+
+wd:Q5122605 a wd:Q2695280 ;
+    rdfs:label "Citizen sourcing"@en .
+
+wd:Q5124403 a wd:Q28816538 ;
+    rdfs:label "Civil Aircraft Missile Protection System"@en .
+
+wd:Q5139653 a wd:Q28816538 ;
+    rdfs:label "Cockpit display system"@en .
+
+wd:Q514719 a wd:Q28816538 ;
+    rdfs:label "Microwave Landing System"@en .
+
+wd:Q5148596 a wd:Q2695280,
+        wd:Q3249551 ;
+    rdfs:label "color correction"@en .
+
+wd:Q5152531 a wd:Q28816538 ;
+    rdfs:label "Commercial Standard Digital Bus"@en .
+
+wd:Q5153632 a wd:Q28816538 ;
+    rdfs:label "Common traffic advisory frequency"@en .
+
+wd:Q5156769 a wd:Q28816538 ;
+    rdfs:label "Composite propeller"@en .
+
+wd:Q5157334 a wd:Q2695280 ;
+    rdfs:label "Computational photography"@en .
+
+wd:Q5158396 a wd:Q2695280 ;
+    rdfs:label "Concept mining"@en .
+
+wd:Q5165041 a wd:Q4026292 ;
+    rdfs:label "Contempt of Congress"@en .
+
+wd:Q5165323 a wd:Q28816538 ;
+    rdfs:label "Continental T51"@en .
+
+wd:Q5165861 a wd:Q28816538 ;
+    rdfs:label "Control loading system"@en .
+
+wd:Q5165896 a wd:Q28816538 ;
+    rdfs:label "Controllable slope soaring"@en .
+
+wd:Q5165950 a wd:Q28816538 ;
+    rdfs:label "Controller–pilot data link communications"@en .
+
+wd:Q5167223 a wd:Q28816538 ;
+    rdfs:label "Cook–Craigie plan"@en .
+
+wd:Q5167849 a wd:Q28816538 ;
+    rdfs:label "Cooper vane"@en .
+
+wd:Q5168590 a wd:Q2695280 ;
+    rdfs:label "coping"@en .
+
+wd:Q516976 a wd:Q28816538 ;
+    rdfs:label "Paparazzi Project"@en .
+
+wd:Q517656 a wd:Q1914636 ;
+    rdfs:label "records management"@en .
+
+wd:Q5178179 a wd:Q28816538 ;
+    rdfs:label "Course deviation indicator"@en .
+
+wd:Q5182398 a wd:Q28816538 ;
+    rdfs:label "Crash position indicator"@en .
+
+wd:Q51832 a wd:Q2695280 ;
+    rdfs:label "Plesiochronous digital hierarchy"@en .
+
+wd:Q5184944 a wd:Q28816538 ;
+    rdfs:label "Cricket"@en .
+
+wd:Q5189820 a wd:Q28816538 ;
+    rdfs:label "Cruciform tail"@en .
+
+wd:Q5204888 a wd:Q28816538 ;
+    rdfs:label "DF-224"@en .
+
+wd:Q5205616 a wd:Q28816538 ;
+    rdfs:label "DME torch"@en .
+
+wd:Q5205824 a wd:Q28816538 ;
+    rdfs:label "DO-212"@en .
+
+wd:Q5205827 a wd:Q28816538 ;
+    rdfs:label "DO-178C"@en .
+
+wd:Q5205828 a wd:Q28816538 ;
+    rdfs:label "DO-219"@en .
+
+wd:Q5206396 a wd:Q811909 ;
+    rdfs:label "DVVL"@en .
+
+wd:Q52146691 a wd:Q2695280 ;
+    rdfs:label "Continuous cropping"@en .
+
+wd:Q52160399 a wd:Q2695280 ;
+    rdfs:label "conventional agricultural management"@en .
+
+wd:Q52162301 a wd:Q2695280 ;
+    rdfs:label "Low input agricultural management"@en .
+
+wd:Q5227670 a wd:Q1914636 ;
+    rdfs:label "Dating coach"@en .
+
+wd:Q523536 a wd:Q2695280 ;
+    rdfs:label "dressing"@en .
+
+wd:Q5248897 a wd:Q28816538 ;
+    rdfs:label "Deceleron"@en .
+
+wd:Q524931 a wd:Q1914636 ;
+    rdfs:label "Coup de grâce"@en .
+
+wd:Q5249554 a wd:Q3249551 ;
+    rdfs:label "decolonisation of Asia"@en .
+
+wd:Q5253262 a wd:Q28816538 ;
+    rdfs:label "Contra-rotating"@en .
+
+wd:Q5253568 a wd:Q28816538 ;
+    rdfs:label "Delco Carousel"@en .
+
+wd:Q5254772 a wd:Q1914636 ;
+    rdfs:label "pharmaceutical marketing"@en .
+
+wd:Q5265564 a wd:Q2695280 ;
+    rdfs:label "Detachment of wall paintings"@en .
+
+wd:Q5275436 a wd:Q2695280 ;
+    rdfs:label "Diffusion bonding"@en .
+
+wd:Q5275973 a wd:Q1914636 ;
+    rdfs:label "digital researcher"@en .
+
+wd:Q5280399 a wd:Q28816538 ;
+    rdfs:label "Direct voice input"@en .
+
+wd:Q5280559 a wd:Q1914636 ;
+    rdfs:label "Director of Public Prosecutions"@en .
+
+wd:Q5283871 a wd:Q28816538 ;
+    rdfs:label "Dive brake"@en .
+
+wd:Q5283975 a wd:Q28816538 ;
+    rdfs:label "Diverterless supersonic inlet"@en .
+
+wd:Q52930727 a wd:Q413 ;
+    rdfs:label "English"@en .
+
+wd:Q5297353 a wd:Q2695280 ;
+    rdfs:label "Doppler imaging"@en .
+
+wd:Q5300053 a wd:Q2695280 ;
+    rdfs:label "double knitting"@en .
+
+wd:Q5307787 a wd:Q28816538 ;
+    rdfs:label "Dripstick"@en .
+
+wd:Q5308361 a wd:Q28816538 ;
+    rdfs:label "Droop-nose"@en .
+
+wd:Q5308661 a wd:Q1914636 ;
+    rdfs:label "droving"@en .
+
+wd:Q5309574 a wd:Q28816538 ;
+    rdfs:label "Dry bay"@en .
+
+wd:Q5316168 a wd:Q28816538 ;
+    rdfs:label "Duramold"@en .
+
+wd:Q5357730 a wd:Q2695280 ;
+    rdfs:label "electrical network frequency analysis"@en .
+
+wd:Q5357907 a wd:Q28816538 ;
+    rdfs:label "Electro-hydrostatic actuator"@en .
+
+wd:Q5358337 a wd:Q28816538 ;
+    rdfs:label "electronic centralised aircraft monitor"@en .
+
+wd:Q5370685 a wd:Q28816538 ;
+    rdfs:label "Emergency flotation system"@en .
+
+wd:Q5370728 a wd:Q28816538 ;
+    rdfs:label "Emergency oxygen system"@en .
+
+wd:Q5371140 a wd:Q1914636 ;
+    rdfs:label "Q5371140"^^xsd:string .
+
+wd:Q5378770 a wd:Q28816538 ;
+    rdfs:label "Enhanced Avionics System"@en .
+
+wd:Q537963 a wd:Q1914636 ;
+    rdfs:label "forgiveness"@en .
+
+wd:Q5381001 a wd:Q1914636 ;
+    rdfs:label "Environment, Health and Safety"@en .
+
+wd:Q538765 a wd:Q28816538 ;
+    rdfs:label "Pelikan tail"@en .
+
+wd:Q540989 a wd:Q28816538 ;
+    rdfs:label "Lorenz beam"@en .
+
+wd:Q5420339 a wd:Q28816538 ;
+    rdfs:label "Exint pod"@en .
+
+wd:Q5420676 a wd:Q28816538 ;
+    rdfs:label "Exoskeletal engine"@en .
+
+wd:Q5424635 a wd:Q2695280 ;
+    rdfs:label "FBI method of profiling"@en .
+
+wd:Q5426992 a wd:Q2695280 ;
+    rdfs:label "FPGA prototyping"@en .
+
+wd:Q5433596 a wd:Q28816538 ;
+    rdfs:label "Fan disk"@en .
+
+wd:Q5445519 a wd:Q28816538 ;
+    rdfs:label "ferry tank"@en .
+
+wd:Q5449029 a wd:Q811909 ;
+    rdfs:label "Film plane"@en .
+
+wd:Q5458937 a wd:Q28816538 ;
+    rdfs:label "Flex temp"@en .
+
+wd:Q5459116 a wd:Q28816538 ;
+    rdfs:label "Flight-data acquisition unit"@en .
+
+wd:Q5459262 a wd:Q28816538 ;
+    rdfs:label "Flight control modes"@en .
+
+wd:Q5459340 a wd:Q28816538 ;
+    rdfs:label "Flight test instrumentation"@en .
+
+wd:Q5459350 a wd:Q28816538 ;
+    rdfs:label "Flight with disabled controls"@en .
+
+wd:Q545981 a wd:Q1914636 ;
+    rdfs:label "image editing"@en .
+
+wd:Q5459938 a wd:Q28816538 ;
+    rdfs:label "Floatstick"@en .
+
+wd:Q5473510 a wd:Q1914636 ;
+    rdfs:label "fossil collecting"@en .
+
+wd:Q54804276 a wd:Q1310239 ;
+    rdfs:label "foot"@en .
+
+wd:Q54863010 a wd:Q1914636 ;
+    rdfs:label "Q54863010"^^xsd:string .
+
+wd:Q5500215 a wd:Q2695280 ;
+    rdfs:label "free energy perturbation"@en .
+
+wd:Q5501399 a wd:Q4026292 ;
+    rdfs:label "Freighthopping"@en .
+
+wd:Q55132886 a wd:Q2695280 ;
+    rdfs:label "brownprint (VanDyke)"@en .
+
+wd:Q5523558 a wd:Q28816538 ;
+    rdfs:label "Garmin G3000"@en .
+
+wd:Q5526394 a wd:Q28816538 ;
+    rdfs:label "Gascolator"@en .
+
+wd:Q55521672 a wd:Q2695280 ;
+    rdfs:label "Nijimi-e"@en .
+
+wd:Q5567254 a wd:Q2695280 ;
+    rdfs:label "Glauber"@en .
+
+wd:Q5571707 a wd:Q28816538 ;
+    rdfs:label "Glossary of USSR Russian aviation acronyms – Aero-Engines and Equipment"@en .
+
+wd:Q5571709 a wd:Q28816538 ;
+    rdfs:label "Glossary of USSR Russian aviation acronyms – Avionics and Instruments"@en .
+
+wd:Q557450 a wd:Q1914636 ;
+    rdfs:label "docking and berthing of spacecraft"@en .
+
+wd:Q55842038 a wd:Q1914636 ;
+    rdfs:label "Q55842038"^^xsd:string .
+
+wd:Q55860716 a wd:Q2695280 ;
+    rdfs:label "Theory of Constraints"@en .
+
+wd:Q5588180 a wd:Q28816538 ;
+    rdfs:label "Gouge flap"@en .
+
+wd:Q5596608 a wd:Q1914636 ;
+    rdfs:label "grantwriting"@en .
+
+wd:Q55971493 a wd:Q2695280 ;
+    rdfs:label "Q55971493"^^xsd:string .
+
+wd:Q5597853 a wd:Q28816538 ;
+    rdfs:label "Gravelkit"@en .
+
+wd:Q5610842 a wd:Q28816538 ;
+    rdfs:label "Ground-adjustable propeller"@en .
+
+wd:Q5612967 a wd:Q2695280 ;
+    rdfs:label "binaural recording"@en .
+
+wd:Q56218 a wd:Q28816538 ;
+    rdfs:label "pitot tube"@en .
+
+wd:Q5625523 a wd:Q28816538 ;
+    rdfs:label "Gyroscopic autopilot"@en .
+
+wd:Q56260328 a wd:Q1914636 ;
+    rdfs:label "Q56260328"^^xsd:string .
+
+wd:Q56319164 a wd:Q1914636 ;
+    rdfs:label "Q56319164"^^xsd:string .
+
+wd:Q5638637 a wd:Q413 ;
+    rdfs:label "Q5638637"^^xsd:string .
+
+wd:Q56517773 a wd:Q2695280 ;
+    rdfs:label "Flag salute"@en .
+
+wd:Q56648500 a wd:Q1332920 ;
+    rdfs:label "Q56648500"^^xsd:string .
+
+wd:Q56676227 a wd:Q3249551 ;
+    rdfs:label "oil painting"@en .
+
+wd:Q5671453 a wd:Q1914636 ;
+    rdfs:label "knife sharpening"@en .
+
+wd:Q56751956 a wd:Q2695280 ;
+    rdfs:label "deep work"@en .
+
+wd:Q568492 a wd:Q1914636 ;
+    rdfs:label "fitting (clothing)"@en .
+
+wd:Q56860970 a wd:Q2695280 ;
+    rdfs:label "Suminagashi"@en .
+
+wd:Q5705152 a wd:Q28816538 ;
+    rdfs:label "Helicopter AirStair"@en .
+
+wd:Q571132 a wd:Q2695280 ;
+    rdfs:label "Pike square"@en .
+
+wd:Q5723497 a wd:Q1914636 ;
+    rdfs:label "Q5723497"^^xsd:string .
+
+wd:Q572824 a wd:Q1914636 ;
+    rdfs:label "cultural heritage management"@en .
+
+wd:Q5739064 a wd:Q1914636 ;
+    rdfs:label "heritage trail"@en .
+
+wd:Q574425 a wd:Q28816538 ;
+    rdfs:label "Lucas Industries"@en .
+
+wd:Q575241 a wd:Q3249551 ;
+    rdfs:label "Immune complex"@en .
+
+wd:Q575439 a wd:Q1914636 ;
+    rdfs:label "clam digging"@en .
+
+wd:Q5785382 a wd:Q2695280 ;
+    rdfs:label "Q5785382"^^xsd:string .
+
+wd:Q578554 a wd:Q2695280 ;
+    rdfs:label "on-screen display"@en .
+
+wd:Q579705 a wd:Q811909 ;
+    rdfs:label "hubcap"@en .
+
+wd:Q581516 a wd:Q28816538 ;
+    rdfs:label "Trim tab"@en .
+
+wd:Q584540 a wd:Q1914636 ;
+    rdfs:label "captain"@en .
+
+wd:Q587504 a wd:Q2695280 ;
+    rdfs:label "Neurorreflejoterapia"@en .
+
+wd:Q58864601 a wd:Q3249551 ;
+    rdfs:label "Q58864601"^^xsd:string .
+
+wd:Q5886575 a wd:Q2695280 ;
+    rdfs:label "Q5886575"^^xsd:string .
+
+wd:Q5892827 a wd:Q2695280 ;
+    rdfs:label "Vieta jumping"@en .
+
+wd:Q58929 a wd:Q4026292 ;
+    rdfs:label "castration"@en .
+
+wd:Q58957835 rdfs:label "ARBR/ARBA 10C"@en ;
+    rdfs:subClassOf wd:Q4402369 .
+
+wd:Q5910841 a wd:Q28816538 ;
+    rdfs:label "Hot start"@en .
+
+wd:Q591399 a wd:Q28816538 ;
+    rdfs:label "drogue parachute"@en .
+
+wd:Q59154534 a wd:Q1914636 ;
+    rdfs:label "database administration"@en .
+
+wd:Q59155052 a wd:Q1914636 ;
+    rdfs:label "scanning"@en .
+
+wd:Q5941904 a wd:Q3249551 ;
+    rdfs:label "Humvee replacement process"@en .
+
+wd:Q59555084 a wd:Q1914636 ;
+    rdfs:label "fact checking"@en .
+
+wd:Q5957666 a wd:Q28816538 ;
+    rdfs:label "Hyper engine"@en .
+
+wd:Q59627780 a wd:Q3249551 ;
+    rdfs:label "transition"@en .
+
+wd:Q5999366 a wd:Q2695280 ;
+    rdfs:label "Q5999366"^^xsd:string .
+
+wd:Q599977 a wd:Q28816538 ;
+    rdfs:label "FADEC"@en .
+
+wd:Q600158 a wd:Q2695280 ;
+    rdfs:label "hardware acceleration"@en .
+
+wd:Q60042658 a wd:Q1914636 ;
+    rdfs:label "thaumaturgy"@en .
+
+wd:Q6012108 a wd:Q413 ;
+    rdfs:label "Q6012108"^^xsd:string .
+
+wd:Q601641 a wd:Q1914636 ;
+    rdfs:label "aircraft spotting"@en .
+
+wd:Q6025269 a wd:Q4026292 ;
+    rdfs:label "individual action against climate change"@en .
+
+wd:Q6028512 a wd:Q28816538 ;
+    rdfs:label "Inertial reference unit"@en .
+
+wd:Q60286591 a wd:Q28816538 ;
+    rdfs:label "Q60286591"^^xsd:string .
+
+wd:Q6033694 a wd:Q2695280 ;
+    rdfs:label "knitting"@en .
+
+wd:Q60396389 a wd:Q1914636 ;
+    rdfs:label "backing vocal"@en .
+
+wd:Q6042867 a wd:Q28816538 ;
+    rdfs:label "Integrated High Performance Turbine Engine Technology"@en .
+
+wd:Q6042918 a wd:Q2695280 ;
+    rdfs:label "Address Based Population Registration System"@en .
+
+wd:Q6043076 a wd:Q28816538 ;
+    rdfs:label "Integrated engine pressure ratio"@en .
+
+wd:Q6043163 a wd:Q28816538 ;
+    rdfs:label "Integrated standby instrument system"@en .
+
+wd:Q6044135 a wd:Q28816538 ;
+    rdfs:label "Intelligent flight control system"@en .
+
+wd:Q60591 a wd:Q28816538 ;
+    rdfs:label "scramjet"@en .
+
+wd:Q6059598 a wd:Q1914636 ;
+    rdfs:label "Zenne"@en .
+
+wd:Q60617979 a wd:Q1914636 ;
+    rdfs:label "Laienprediger (in German)"@en .
+
+wd:Q608613 a wd:Q3249551 ;
+    rdfs:label "fall of the Western Roman Empire"@en .
+
+wd:Q60963378 a wd:Q2695280 ;
+    rdfs:label "Q60963378"^^xsd:string .
+
+wd:Q60972106 a wd:Q3249551 ;
+    rdfs:label "Q60972106"^^xsd:string .
+
+wd:Q60982609 a wd:Q2695280 ;
+    rdfs:label "spinor helicity formalism"@en .
+
+wd:Q6105049 a wd:Q1914636 ;
+    rdfs:label "Changing of the Royal Guards at the Royal Palace of Madrid"@en .
+
+wd:Q61391 a wd:Q1914636 ;
+    rdfs:label "cheerleading"@en .
+
+wd:Q61483489 a wd:Q2695280 ;
+    rdfs:label "Q61483489"^^xsd:string .
+
+wd:Q61695203 a wd:Q3249551 ;
+    rdfs:label "Digital Intermediate"@en .
+
+wd:Q61783220 a wd:Q1914636 ;
+    rdfs:label "handball executive"@en .
+
+wd:Q6179942 a wd:Q11650 ;
+    rdfs:label "Jensen Electronics"@en .
+
+wd:Q61864293 a wd:Q3249551 ;
+    rdfs:label "Q61864293"^^xsd:string .
+
+wd:Q6188305 a wd:Q28816538 ;
+    rdfs:label "Jesus nut"@en .
+
+wd:Q61892423 a wd:Q1914636 ;
+    rdfs:label "radio pioneer"@en .
+
+wd:Q61960396 a wd:Q3249551 ;
+    rdfs:label "prudent behavior"@en .
+
+wd:Q62030109 a wd:Q11481471 ;
+    rdfs:label "Maneuvering Characteristics Augmentation System"@en .
+
+wd:Q62060882 rdfs:label "GPS Week Number Rollover"@en ;
+    rdfs:subClassOf wd:Q18822 .
+
+wd:Q62068120 a wd:Q3249551 ;
+    rdfs:label "personal data ecosystem mapping process"@en .
+
+wd:Q62126265 a wd:Q2695280 ;
+    rdfs:label "electroglottography"@en .
+
+wd:Q624344 a wd:Q28816538 ;
+    rdfs:label "instrument approach"@en .
+
+wd:Q625126 a wd:Q28816538 ;
+    rdfs:label "Aircraft safety card"@en .
+
+wd:Q626560 a wd:Q28816538 ;
+    rdfs:label "Klimov GTD-350"@en .
+
+wd:Q626658 a wd:Q28816538 ;
+    rdfs:label "fly-by-wire"@en ;
+    rdfs:subClassOf wd:Q11481471,
+        wd:Q221329 .
+
+wd:Q6269329 a wd:Q28816538 ;
+    rdfs:label "Joint Precision Approach and Landing System"@en .
+
+wd:Q62697021 a wd:Q413 ;
+    rdfs:label "Aerosolscience"@en .
+
+wd:Q627335 a wd:Q1914636 ;
+    rdfs:label "workflow"@en .
+
+wd:Q627339 a wd:Q3249551 ;
+    rdfs:label "Job analysis"@en .
+
+wd:Q629329 a wd:Q1914636 ;
+    rdfs:label "work scheduling"@en .
+
+wd:Q630158 a wd:Q28816538 ;
+    rdfs:label "GM-1"@en .
+
+wd:Q63100 a wd:Q3249551 ;
+    rdfs:label "urban design"@en .
+
+wd:Q63302202 a wd:Q3249551 ;
+    rdfs:label "language standardization"@en .
+
+wd:Q63320445 a wd:Q2695280 ;
+    rdfs:label "Bullet Journal"@en .
+
+wd:Q633320 a wd:Q28816538 ;
+    rdfs:label "HOTAS"@en .
+
+wd:Q63453753 a wd:Q1914636 ;
+    rdfs:label "Camping in Israel"@en .
+
+wd:Q6355808 a wd:Q28816538 ;
+    rdfs:label "Kaman KSA-100 SAVER"@en .
+
+wd:Q635863 a wd:Q1914636 ;
+    rdfs:label "Archival appraisal"@en .
+
+wd:Q6374946 a wd:Q741490 ;
+    rdfs:label "Kat-5"@en .
+
+wd:Q6379087 a wd:Q1914636 ;
+    rdfs:label "Kavanah"@en .
+
+wd:Q63859027 a wd:Q3249551 ;
+    rdfs:label "river renaturalization"@en .
+
+wd:Q639090 a wd:Q2695280 ;
+    rdfs:label "Aircraft principal axes"@en .
+
+wd:Q63927838 a wd:Q3249551 ;
+    rdfs:label "hyperlocalization"@en .
+
+wd:Q6398413 a wd:Q4026292 ;
+    rdfs:label "keysigning"@en .
+
+wd:Q639854 a wd:Q2695280 ;
+    rdfs:label "qualitative comparative analysis"@en .
+
+wd:Q6400881 a wd:Q2695280 ;
+    rdfs:label "Khatam"@en .
+
+wd:Q64035532 a wd:Q2695280 ;
+    rdfs:label "VKF method"@en .
+
+wd:Q64157236 a wd:Q2695280 ;
+    rdfs:label "RT-QuIC"@en .
+
+wd:Q6418009 a wd:Q28816538 ;
+    rdfs:label "Kitchen rudder"@en .
+
+wd:Q6420950 a wd:Q28816538 ;
+    rdfs:label "Klimov VK-2500"@en .
+
+wd:Q6423395 a wd:Q1914636 ;
+    rdfs:label "knowledge sharing"@en .
+
+wd:Q642514 a wd:Q2695280 ;
+    rdfs:label "Online analytical processing"@en .
+
+wd:Q64280234 a wd:Q1914636 ;
+    rdfs:label "knowledge work"@en .
+
+wd:Q643190 a wd:Q1914636 ;
+    rdfs:label "subvertising"@en .
+
+wd:Q64403 a wd:Q2695280 ;
+    rdfs:label "electrolysis"@en .
+
+wd:Q64447470 a wd:Q2695280 ;
+    rdfs:label "Intestinal Selection of Immunogenic Antigens"@en .
+
+wd:Q64493021 a wd:Q1914636 ;
+    rdfs:label "Q64493021"^^xsd:string .
+
+wd:Q64559508 a wd:Q741490 ;
+    rdfs:label "Q64559508"^^xsd:string .
+
+wd:Q6456071 a wd:Q28816538 ;
+    rdfs:label "L-3 SmartDeck"@en .
+
+wd:Q6457616 a wd:Q28816538 ;
+    rdfs:label "LED anti-collision light"@en .
+
+wd:Q6459224 a wd:Q28816538 ;
+    rdfs:label "LN-3 Inertial Navigation System"@en .
+
+wd:Q6459226 a wd:Q28816538 ;
+    rdfs:label "LNAV"@en .
+
+wd:Q64685479 a wd:Q2695280 ;
+    rdfs:label "punchwork"@en .
+
+wd:Q6484638 a wd:Q28816538 ;
+    rdfs:label "Landing gear extender"@en .
+
+wd:Q648877 a wd:Q1914636 ;
+    rdfs:label "post-production"@en .
+
+wd:Q6497890 a wd:Q28816538 ;
+    rdfs:label "flight data recorder"@en ;
+    rdfs:subClassOf wd:Q998319 .
+
+wd:Q6500754 a wd:Q1914636 ;
+    rdfs:label "internship"@en .
+
+wd:Q65038211 a wd:Q2695280 ;
+    rdfs:label "electro-oxidation"@en .
+
+wd:Q65042425 a wd:Q3249551 ;
+    rdfs:label "percent free time"@en .
+
+wd:Q6508755 a wd:Q28816538 ;
+    rdfs:label "Leading edge cuff"@en .
+
+wd:Q65115136 a wd:Q4026292 ;
+    rdfs:label "urtication"@en .
+
+wd:Q65131200 rdfs:label "Q65131200"^^xsd:string ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q652075 a wd:Q28816538 ;
+    rdfs:label "Ferranti Argus"@en .
+
+wd:Q652122 a wd:Q1914636 ;
+    rdfs:label "sewing"@en .
+
+wd:Q652347 a wd:Q28816538 ;
+    rdfs:label "Built-in test equipment"@en .
+
+wd:Q6542545 a wd:Q3249551 ;
+    rdfs:label "Library assessment"@en .
+
+wd:Q6549157 a wd:Q2695280 ;
+    rdfs:label "lime softening"@en .
+
+wd:Q654975 a wd:Q28816538 ;
+    rdfs:label "General Electric T700"@en .
+
+wd:Q6553034 a wd:Q28816538 ;
+    rdfs:label "Line-replaceable unit"@en .
+
+wd:Q655346 a wd:Q2695280 ;
+    rdfs:label "atomic absorption spectroscopy"@en .
+
+wd:Q656113 a wd:Q28816538 ;
+    rdfs:label "Klimov TV3-117"@en .
+
+wd:Q65643703 a wd:Q811909 ;
+    rdfs:label "Clamp construction brick"@en .
+
+wd:Q65718426 a wd:Q1914636 ;
+    rdfs:label "archiving"@en .
+
+wd:Q65942042 a wd:Q1914636 ;
+    rdfs:label "advanced flight training"@en .
+
+wd:Q65945161 a wd:Q1914636 ;
+    rdfs:label "Q65945161"^^xsd:string .
+
+wd:Q659809 a wd:Q28816538 ;
+    rdfs:label "Underwater locator beacon"@en .
+
+wd:Q659859 a wd:Q28816538 ;
+    rdfs:label "V-tail"@en .
+
+wd:Q659925 a wd:Q811909 ;
+    rdfs:label "sleeve"@en .
+
+wd:Q660898 a wd:Q2695280 ;
+    rdfs:label "carbon copy"@en .
+
+wd:Q661045 a wd:Q1914636 ;
+    rdfs:label "ventriloquism"@en .
+
+wd:Q66150420 a wd:Q3249551 ;
+    rdfs:label "brickmaking"@en .
+
+wd:Q66157046 a wd:Q3249551 ;
+    rdfs:label "mainstreaming"@en .
+
+wd:Q6621325 a wd:Q28816538 ;
+    rdfs:label "Weeping wing"@en .
+
+wd:Q66309832 a wd:Q3249551 ;
+    rdfs:label "ironworking"@en .
+
+wd:Q663375 a wd:Q1914636 ;
+    rdfs:label "hatmaking"@en .
+
+wd:Q66437036 a wd:Q1914636 ;
+    rdfs:label "car washing"@en .
+
+wd:Q664461 a wd:Q28816538 ;
+    rdfs:label "Rotorhead"@en .
+
+wd:Q6664652 a wd:Q28816538 ;
+    rdfs:label "Localizer type directional aid"@en .
+
+wd:Q667421 a wd:Q2695280 ;
+    rdfs:label "usability testing"@en .
+
+wd:Q667801 a wd:Q28816538 ;
+    rdfs:label "escape pod"@en .
+
+wd:Q66821593 a wd:Q413 ;
+    rdfs:label "At"@en .
+
+wd:Q66828125 a wd:Q3249551 ;
+    rdfs:label "Spanish settlement at San Tomas, Hispaniola"@en .
+
+wd:Q6693020 a wd:Q28816538 ;
+    rdfs:label "Low level windshear alert system"@en .
+
+wd:Q66972929 a wd:Q3249551 ;
+    rdfs:label "Spanish discovery of gold in Cibao"@en .
+
+wd:Q6699684 a wd:Q28816538 ;
+    rdfs:label "Luftwaffe radio equipment (Funkgerät) of World War II"@en .
+
+wd:Q671090 a wd:Q28816538 ;
+    rdfs:label "pulsejet"@en .
+
+wd:Q6714655 a wd:Q3249551 ;
+    rdfs:label "MBASE"@en .
+
+wd:Q6719056 a wd:Q28816538 ;
+    rdfs:label "MULTICOM"@en .
+
+wd:Q6731524 a wd:Q28816538 ;
+    rdfs:label "Magnetic chip detector"@en .
+
+wd:Q6742738 a wd:Q28816538 ;
+    rdfs:label "Malcolm hood"@en .
+
+wd:Q67551124 a wd:Q1914636 ;
+    rdfs:label "Extirpation of Idolatries"@en .
+
+wd:Q67580943 a wd:Q1914636 ;
+    rdfs:label "Drawing Group"@en .
+
+wd:Q6774814 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.10"@en .
+
+wd:Q6774815 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.2"@en .
+
+wd:Q6774816 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.4"@en .
+
+wd:Q6774817 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.5"@en .
+
+wd:Q6774818 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.6"@en .
+
+wd:Q6774820 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.7"@en .
+
+wd:Q6774821 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.8"@en .
+
+wd:Q6774822 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.9"@en .
+
+wd:Q67903975 a wd:Q1914636 ;
+    rdfs:label "agent handling"@en .
+
+wd:Q67912028 a wd:Q2695280 ;
+    rdfs:label "Dunham technique"@en .
+
+wd:Q6802639 a wd:Q2695280 ;
+    rdfs:label "wavelet compression"@en .
+
+wd:Q6806625 a wd:Q1914636 ;
+    rdfs:label "medical writing"@en .
+
+wd:Q681886 a wd:Q2695280 ;
+    rdfs:label "Low-frequency oscillation"@en .
+
+wd:Q6819872 a wd:Q1914636 ;
+    rdfs:label "mermaiding"@en .
+
+wd:Q6823721 a wd:Q2695280 ;
+    rdfs:label "method of normals"@en .
+
+wd:Q68324344 a wd:Q1914636 ;
+    rdfs:label "swordsmanship"@en .
+
+wd:Q687889 a wd:Q1914636 ;
+    rdfs:label "ripping"@en .
+
+wd:Q6888103 a wd:Q28816538 ;
+    rdfs:label "Mode control panel"@en .
+
+wd:Q6889730 a wd:Q28816538 ;
+    rdfs:label "Modular propeller"@en .
+
+wd:Q689310 a wd:Q28816538 ;
+    rdfs:label "Ducted fan"@en .
+
+wd:Q6900510 a wd:Q3249551 ;
+    rdfs:label "Monitoring in clinical trials"@en .
+
+wd:Q6918154 a wd:Q28816538 ;
+    rdfs:label "Motor Sich MS-500V"@en .
+
+wd:Q691858 a wd:Q28816538 ;
+    rdfs:label "wingtip device"@en .
+
+wd:Q69389030 a wd:Q1914636 ;
+    rdfs:label "Q69389030"^^xsd:string .
+
+wd:Q69466762 a wd:Q1914636 ;
+    rdfs:label "loading"@en .
+
+wd:Q6955346 a wd:Q28816538 ;
+    rdfs:label "NSSC-1"@en .
+
+wd:Q6964907 a wd:Q28816538 ;
+    rdfs:label "Napier Eland"@en .
+
+wd:Q6981555 a wd:Q28816538 ;
+    rdfs:label "Nav/attack system"@en .
+
+wd:Q6989196 a wd:Q1914636 ;
+    rdfs:label "conducting"@en .
+
+wd:Q69965725 a wd:Q1914636 ;
+    rdfs:label "sunbathing"@en .
+
+wd:Q70092255 a wd:Q2695280 ;
+    rdfs:label "counted by TextFX"@en .
+
+wd:Q702635 a wd:Q1914636 ;
+    rdfs:label "Alternative civilian service"@en .
+
+wd:Q70635750 a wd:Q4026292 ;
+    rdfs:label "Q70635750"^^xsd:string .
+
+wd:Q7073156 a wd:Q2695280 ;
+    rdfs:label "OVPP"@en .
+
+wd:Q7086401 a wd:Q28816538 ;
+    rdfs:label "Oleo strut"@en .
+
+wd:Q7090819 a wd:Q28816538 ;
+    rdfs:label "On-Board Data Handling"@en .
+
+wd:Q7094123 a wd:Q1914636 ;
+    rdfs:label "online search"@en .
+
+wd:Q7095847 a wd:Q28816538 ;
+    rdfs:label "OpenPilot"@en .
+
+wd:Q7097771 a wd:Q28816538 ;
+    rdfs:label "Operational display system"@en .
+
+wd:Q7114095 a wd:Q28816538 ;
+    rdfs:label "overwing exit"@en .
+
+wd:Q7118891 a wd:Q1914636 ;
+    rdfs:label "PECE"@en .
+
+wd:Q713197 a wd:Q1914636 ;
+    rdfs:label "Q713197"^^xsd:string .
+
+wd:Q7140017 a wd:Q1914636 ;
+    rdfs:label "Parson-naturalist"@en .
+
+wd:Q7145044 a wd:Q3249551 ;
+    rdfs:label "Patio process"@en .
+
+wd:Q714750 a wd:Q2695280 ;
+    rdfs:label "Brinell hardness"@en .
+
+wd:Q7155548 rdfs:label "AN/AVQ-10 Pave Knife"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q7155549 rdfs:label "AN/AVQ-26 Pave Tack"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q7168718 a wd:Q28816538 ;
+    rdfs:label "Peripheral vision horizon display"@en .
+
+wd:Q7181 a wd:Q3249551 ;
+    rdfs:label "globalization"@en .
+
+wd:Q7190747 a wd:Q2695280 ;
+    rdfs:label "pick up stitches"@en .
+
+wd:Q7194468 a wd:Q28816538 ;
+    rdfs:label "Pilot direction indicator"@en .
+
+wd:Q7197232 a wd:Q2695280 ;
+    rdfs:label "pipe and drape"@en .
+
+wd:Q7205264 a wd:Q28816538 ;
+    rdfs:label "Plug door"@en .
+
+wd:Q7206687 a wd:Q28816538 ;
+    rdfs:label "Podded engine"@en .
+
+wd:Q7207873 a wd:Q2695280 ;
+    rdfs:label "Poincaré–Lindstedt method"@en .
+
+wd:Q7231334 a wd:Q28816538 ;
+    rdfs:label "Portable Collision Avoidance System"@en .
+
+wd:Q72316098 a wd:Q3249551 ;
+    rdfs:label "mobilisation"@en .
+
+wd:Q7233190 a wd:Q28816538 ;
+    rdfs:label "Position error"@en .
+
+wd:Q7234359 a wd:Q1914636 ;
+    rdfs:label "postmarketing surveillance"@en .
+
+wd:Q7236484 a wd:Q28816538 ;
+    rdfs:label "Power by the Hour"@en .
+
+wd:Q7238746 a wd:Q28816538 ;
+    rdfs:label "Pratt & Whitney T73"@en .
+
+wd:Q72400633 a wd:Q3249551 ;
+    rdfs:label "VisualAudio"@en .
+
+wd:Q7241713 a wd:Q28816538 ;
+    rdfs:label "Pressure carburetor"@en .
+
+wd:Q7247293 a wd:Q2695280 ;
+    rdfs:label "process of elimination"@en .
+
+wd:Q7247324 a wd:Q2695280 ;
+    rdfs:label "processing modes"@en .
+
+wd:Q7249306 a wd:Q28816538 ;
+    rdfs:label "Project SQUID"@en .
+
+wd:Q7249488 a wd:Q2695280 ;
+    rdfs:label "Projector augmented wave method"@en .
+
+wd:Q7250141 a wd:Q28816538 ;
+    rdfs:label "Propellant tank"@en .
+
+wd:Q7250151 a wd:Q28816538 ;
+    rdfs:label "Propeller speed reduction unit"@en .
+
+wd:Q7250152 a wd:Q28816538 ;
+    rdfs:label "Propeller synchronization"@en .
+
+wd:Q7250153 a wd:Q28816538 ;
+    rdfs:label "Propeller governor"@en .
+
+wd:Q7252054 a wd:Q28816538 ;
+    rdfs:label "Proton200k"@en .
+
+wd:Q725672 a wd:Q1914636 ;
+    rdfs:label "mystery shopping"@en .
+
+wd:Q7259658 a wd:Q28816538 ;
+    rdfs:label "Pulse Ejector Thrust Augmentor"@en .
+
+wd:Q7271717 a wd:Q28816538 ;
+    rdfs:label "Quick access recorder"@en .
+
+wd:Q7276733 a wd:Q28816538 ;
+    rdfs:label "RHPPC"@en .
+
+wd:Q7277266 a wd:Q2695280 ;
+    rdfs:label "rNPV"@en .
+
+wd:Q7277908 a wd:Q28816538 ;
+    rdfs:label "RTX2010"@en .
+
+wd:Q7299962 a wd:Q2695280 ;
+    rdfs:label "re-recording"@en .
+
+wd:Q7300249 a wd:Q28816538 ;
+    rdfs:label "Reaction Engines Scimitar"@en .
+
+wd:Q7302721 a wd:Q28816538 ;
+    rdfs:label "Recon Instruments"@en .
+
+wd:Q7309430 a wd:Q1914636 ;
+    rdfs:label "Registrar of Companies"@en .
+
+wd:Q7310002 a wd:Q2695280 ;
+    rdfs:label "Reid technique"@en .
+
+wd:Q73159384 a wd:Q2695280 ;
+    rdfs:label "Q73159384"^^xsd:string .
+
+wd:Q732673 a wd:Q28816538 ;
+    rdfs:label "thrust reversal"@en .
+
+wd:Q7360654 a wd:Q2695280 ;
+    rdfs:label "role reversal"@en .
+
+wd:Q7361342 a wd:Q28816538 ;
+    rdfs:label "Rolls-Royce RR300"@en .
+
+wd:Q7361348 a wd:Q28816538 ;
+    rdfs:label "Rolls-Royce RR500"@en .
+
+wd:Q7368027 a wd:Q28816538 ;
+    rdfs:label "Rose turret"@en .
+
+wd:Q7387099 a wd:Q811909 ;
+    rdfs:label "S-cam"@en .
+
+wd:Q7387103 a wd:Q28816538 ;
+    rdfs:label "S-duct"@en .
+
+wd:Q7390231 a wd:Q2695280 ;
+    rdfs:label "SHRED"@en .
+
+wd:Q7391256 a wd:Q811909 ;
+    rdfs:label "SMLC"@en .
+
+wd:Q7394640 a wd:Q28816538 ;
+    rdfs:label "STANAG 4586: Standard Interfaces Of UAV Control System (UCS) For NATO UAV Interoperability"@en .
+
+wd:Q7394816 a wd:Q28816538 ;
+    rdfs:label "STRIL"@en .
+
+wd:Q740578 a wd:Q2695280 ;
+    rdfs:label "sequence assembly"@en .
+
+wd:Q7416968 a wd:Q741490 ;
+    rdfs:label "Sandstorm"@en .
+
+wd:Q742407 a wd:Q4026292 ;
+    rdfs:label "assist"@en .
+
+wd:Q742509 a wd:Q28816538 ;
+    rdfs:label "AN/USQ-20"@en .
+
+wd:Q7433714 a wd:Q1914636 ;
+    rdfs:label "science outreach"@en .
+
+wd:Q7433911 a wd:Q28816538 ;
+    rdfs:label "Scimitar propeller"@en .
+
+wd:Q7438726 a wd:Q28816538 ;
+    rdfs:label "Scramjet programs"@en .
+
+wd:Q7439057 a wd:Q3249551 ;
+    rdfs:label "Screening resumes"@en .
+
+wd:Q7449448 a wd:Q28816538 ;
+    rdfs:label "Semimonocoque"@en .
+
+wd:Q748015 a wd:Q3249551 ;
+    rdfs:label "Chilean transition to democracy"@en .
+
+wd:Q74841026 a wd:Q1914636 ;
+    rdfs:label "shochet"@en .
+
+wd:Q7491763 a wd:Q28816538 ;
+    rdfs:label "Shcramjet"@en .
+
+wd:Q7493717 a wd:Q2695280 ;
+    rdfs:label "Shell integration"@en .
+
+wd:Q749649 a wd:Q1914636 ;
+    rdfs:label "carpool"@en .
+
+wd:Q7501087 a wd:Q28816538 ;
+    rdfs:label "Shop-replaceable unit"@en .
+
+wd:Q75104906 a wd:Q2695280 ;
+    rdfs:label "Q75104906"^^xsd:string .
+
+wd:Q751090 a wd:Q811909 ;
+    rdfs:label "Astrippe"@en .
+
+wd:Q7520943 a wd:Q28816538 ;
+    rdfs:label "Simplified directional facility"@en .
+
+wd:Q752100 a wd:Q28816538 ;
+    rdfs:label "LTS101"@en .
+
+wd:Q7523695 a wd:Q28816538 ;
+    rdfs:label "Single-blade propeller"@en .
+
+wd:Q7531796 a wd:Q3249551 ;
+    rdfs:label "site selection"@en .
+
+wd:Q7535317 a wd:Q28816538 ;
+    rdfs:label "skin"@en .
+
+wd:Q7537198 a wd:Q28816538 ;
+    rdfs:label "SkyRider"@en .
+
+wd:Q7556041 a wd:Q28816538 ;
+    rdfs:label "T62 Titan"@en .
+
+wd:Q7572384 a wd:Q28816538 ;
+    rdfs:label "Space Integrated GPS/INS"@en .
+
+wd:Q7573033 a wd:Q2695280 ;
+    rdfs:label "spam email delivery"@en .
+
+wd:Q75755497 a wd:Q1914636 ;
+    rdfs:label "parachute"@en .
+
+wd:Q7575613 a wd:Q28816538 ;
+    rdfs:label "Speed tape"@en .
+
+wd:Q7577400 a wd:Q2695280 ;
+    rdfs:label "Spin casting"@en .
+
+wd:Q7578735 a wd:Q28816538 ;
+    rdfs:label "splitter plate"@en .
+
+wd:Q75798762 a wd:Q4026292 ;
+    rdfs:label "meeting"@en .
+
+wd:Q75800566 a wd:Q1914636 ;
+    rdfs:label "encounter"@en .
+
+wd:Q75801718 a wd:Q1914636 ;
+    rdfs:label "convene"@en .
+
+wd:Q75902403 a wd:Q1914636 ;
+    rdfs:label "give birth"@en .
+
+wd:Q759725 a wd:Q1914636 ;
+    rdfs:label "Aufhauen"@en .
+
+wd:Q7597299 a wd:Q28816538 ;
+    rdfs:label "Stall strips"@en .
+
+wd:Q7598313 a wd:Q28816538 ;
+    rdfs:label "Standard Terminal Automation Replacement System"@en .
+
+wd:Q7599444 a wd:Q28816538 ;
+    rdfs:label "Stanley Aviation"@en .
+
+wd:Q7601512 a wd:Q2695280 ;
+    rdfs:label "Starch Analysis"@en .
+
+wd:Q76109020 a wd:Q2695280 ;
+    rdfs:label "inferred from parts"@en .
+
+wd:Q7616240 a wd:Q28816538 ;
+    rdfs:label "Stick pusher"@en .
+
+wd:Q7619329 a wd:Q2695280 ;
+    rdfs:label "stonesetting"@en .
+
+wd:Q7621839 a wd:Q1914636 ;
+    rdfs:label "Strategic human resource planning"@en .
+
+wd:Q7623464 a wd:Q28816538 ;
+    rdfs:label "Stressed skin"@en .
+
+wd:Q7632064 a wd:Q1914636 ;
+    rdfs:label "substance abuse prevention"@en .
+
+wd:Q7632132 a wd:Q2695280 ;
+    rdfs:label "substitution failure is not an error"@en .
+
+wd:Q7635413 a wd:Q3249551 ;
+    rdfs:label "Suicide watch"@en .
+
+wd:Q76399016 a wd:Q2695280 ;
+    rdfs:label "Q76399016"^^xsd:string .
+
+wd:Q7644106 a wd:Q2695280 ;
+    rdfs:label "superposed load"@en .
+
+wd:Q7655959 a wd:Q28816538 ;
+    rdfs:label "Swiatecki bomb slip"@en .
+
+wd:Q7670042 a wd:Q2695280 ;
+    rdfs:label "TESEO"@en .
+
+wd:Q7673691 a wd:Q28816538 ;
+    rdfs:label "Tach Timer"@en .
+
+wd:Q7674074 a wd:Q28816538 ;
+    rdfs:label "Tactical Airborne Reconnaissance Pod System"@en .
+
+wd:Q7692300 a wd:Q28816538 ;
+    rdfs:label "Technical Standard Order"@en .
+
+wd:Q771452 a wd:Q811909 ;
+    rdfs:label "bicycle tire"@en .
+
+wd:Q773521 a wd:Q1914636 ;
+    rdfs:label "user administration"@en .
+
+wd:Q7741177 a wd:Q28816538 ;
+    rdfs:label "The Hy-V Scramjet Flight Experiment"@en .
+
+wd:Q777114 a wd:Q2695280 ;
+    rdfs:label "Kihon"@en .
+
+wd:Q777671 a wd:Q1914636 ;
+    rdfs:label "sowing"@en .
+
+wd:Q7783089 a wd:Q28816538 ;
+    rdfs:label "Thermawing"@en .
+
+wd:Q779225 rdfs:label "differential GPS"@en ;
+    rdfs:subClassOf wd:Q18822 .
+
+wd:Q7797027 a wd:Q413 ;
+    rdfs:label "Thouless energy"@en .
+
+wd:Q7814047 a wd:Q28816538 ;
+    rdfs:label "Tokyo tanks"@en .
+
+wd:Q78168076 a wd:Q2695280 ;
+    rdfs:label "Q78168076"^^xsd:string .
+
+wd:Q781742 a wd:Q28816538 ;
+    rdfs:label "Fenestron"@en .
+
+wd:Q7833859 a wd:Q2695280 ;
+    rdfs:label "Transcendental Meditation technique"@en .
+
+wd:Q7834837 a wd:Q28816538 ;
+    rdfs:label "Transponder landing system"@en .
+
+wd:Q78493655 a wd:Q1914636 ;
+    rdfs:label "Q78493655"^^xsd:string .
+
+wd:Q7850756 a wd:Q28816538 ;
+    rdfs:label "Tube-and-fabric construction"@en .
+
+wd:Q7852906 a wd:Q28816538 ;
+    rdfs:label "Tundra tire"@en .
+
+wd:Q7853909 a wd:Q28816538 ;
+    rdfs:label "Turbomeca TM 333"@en .
+
+wd:Q7856598 a wd:Q2695280 ;
+    rdfs:label "Turán sieve"@en .
+
+wd:Q7858350 a wd:Q28816538 ;
+    rdfs:label "Twin tail"@en .
+
+wd:Q7860897 a wd:Q2695280 ;
+    rdfs:label "type casting"@en .
+
+wd:Q7863459 a wd:Q28816538 ;
+    rdfs:label "U.S. helicopter armament subsystems"@en .
+
+wd:Q7865753 a wd:Q1310239 ;
+    rdfs:label "USArray"@en .
+
+wd:Q786732 a wd:Q811909 ;
+    rdfs:label "rim"@en .
+
+wd:Q786921 a wd:Q28816538 ;
+    rdfs:label "flaperon"@en .
+
+wd:Q787172 a wd:Q28816538 ;
+    rdfs:label "Automatic dependent surveillance-broadcast"@en .
+
+wd:Q78748778 a wd:Q1914636 ;
+    rdfs:label "Heritage tour of Brisbane"@en .
+
+wd:Q7882300 a wd:Q28816538 ;
+    rdfs:label "Unapproved aircraft part"@en .
+
+wd:Q7883471 a wd:Q28816538 ;
+    rdfs:label "Undercarriage arrangements"@en .
+
+wd:Q788558 a wd:Q1914636 ;
+    rdfs:label "plant breeding"@en .
+
+wd:Q7889230 a wd:Q28816538 ;
+    rdfs:label "United States Air Force Stability and Control Digital DATCOM"@en .
+
+wd:Q78933859 a wd:Q2695280 ;
+    rdfs:label "cradling"@en .
+
+wd:Q79002247 a wd:Q3249551 ;
+    rdfs:label "blood typing"@en .
+
+wd:Q7915689 a wd:Q28816538 ;
+    rdfs:label "Variable-position horizontal stabilizer"@en .
+
+wd:Q7915709 a wd:Q28816538 ;
+    rdfs:label "Variable camber wing"@en .
+
+wd:Q7922024 a wd:Q28816538 ;
+    rdfs:label "Vernier throttle"@en .
+
+wd:Q7922854 a wd:Q28816538 ;
+    rdfs:label "Vertical seat"@en .
+
+wd:Q7941950 a wd:Q28816538 ;
+    rdfs:label "Vortilon"@en .
+
+wd:Q7942010 a wd:Q28816538 ;
+    rdfs:label "Voskhod Spacecraft \"Globus\" IMP navigation instrument"@en .
+
+wd:Q794803 a wd:Q1914636 ;
+    rdfs:label "innovation management"@en .
+
+wd:Q795064 a wd:Q28816538 ;
+    rdfs:label "tail rotor"@en .
+
+wd:Q7966596 a wd:Q28816538 ;
+    rdfs:label "Waltham Aircraft Clock Corporation"@en .
+
+wd:Q79708 a wd:Q2695280 ;
+    rdfs:label "General Packet Radio Service"@en .
+
+wd:Q7973430 a wd:Q3249551 ;
+    rdfs:label "water aeration"@en .
+
+wd:Q797813 a wd:Q28816538 ;
+    rdfs:label "Bomb bay"@en .
+
+wd:Q7991995 a wd:Q28816538 ;
+    rdfs:label "WheelTug"@en .
+
+wd:Q7992380 a wd:Q811909 ;
+    rdfs:label "Whegs"@en .
+
+wd:Q8041705 a wd:Q2695280 ;
+    rdfs:label "XCAS"@en .
+
+wd:Q8050277 a wd:Q1914636 ;
+    rdfs:label "housework"@en .
+
+wd:Q8050430 a wd:Q28816538 ;
+    rdfs:label "Yaw-rate sensor"@en .
+
+wd:Q805333 a wd:Q1914636 ;
+    rdfs:label "balloon modelling"@en .
+
+wd:Q805534 a wd:Q1914636 ;
+    rdfs:label "Balseros"@en .
+
+wd:Q8059135 a wd:Q1914636 ;
+    rdfs:label "Youth-led development"@en .
+
+wd:Q8059283 a wd:Q1914636 ;
+    rdfs:label "youth activism"@en .
+
+wd:Q8068297 a wd:Q2695280 ;
+    rdfs:label "Zebra striping"@en .
+
+wd:Q8069549 a wd:Q28816538 ;
+    rdfs:label "Zero Retention Force Arming Unit"@en .
+
+wd:Q807986 a wd:Q1914636 ;
+    rdfs:label "Bardanas"@en .
+
+wd:Q809579 a wd:Q1914636 ;
+    rdfs:label "beard trimming"@en .
+
+wd:Q815535 a wd:Q2695280 ;
+    rdfs:label "belgian tourniquet"@en .
+
+wd:Q815962 a wd:Q1914636 ;
+    rdfs:label "colonization"@en .
+
+wd:Q816073 a wd:Q28816538 ;
+    rdfs:label "Q816073"^^xsd:string .
+
+wd:Q816425 a wd:Q1914636 ;
+    rdfs:label "surveying"@en .
+
+wd:Q816826 a wd:Q1914636 ;
+    rdfs:label "information retrieval"@en .
+
+wd:Q81914417 a wd:Q413 ;
+    rdfs:label "Plasma Physics"@en .
+
+wd:Q81941037 a wd:Q2695280 ;
+    rdfs:label "product distribution method"@en .
+
+wd:Q820036 a wd:Q28816538 ;
+    rdfs:label "VHF omnidirectional range"@en .
+
+wd:Q820362 a wd:Q1914636 ;
+    rdfs:label "Bergung (salvage )"@en .
+
+wd:Q82121 a wd:Q2695280 ;
+    rdfs:label "Metamorphic Technique"@en .
+
+wd:Q824609 a wd:Q28816538 ;
+    rdfs:label "Turbomeca Astazou"@en .
+
+wd:Q828074 a wd:Q2695280 ;
+    rdfs:label "pin"@en .
+
+wd:Q829404 a wd:Q1914636 ;
+    rdfs:label "Besagung"@en .
+
+wd:Q830036 a wd:Q1914636 ;
+    rdfs:label "shopping"@en .
+
+wd:Q830393 a wd:Q1914636 ;
+    rdfs:label "preservation"@en .
+
+wd:Q832094 a wd:Q28816538 ;
+    rdfs:label "Hobbs meter"@en .
+
+wd:Q83385710 a wd:Q2695280 ;
+    rdfs:label "Just-in-time learning"@en .
+
+wd:Q8348044 a wd:Q1914636 ;
+    rdfs:label "Glass coloring and color marking"@en .
+
+wd:Q836575 a wd:Q1914636 ;
+    rdfs:label "quality assurance"@en .
+
+wd:Q838974 a wd:Q28816538 ;
+    rdfs:label "variable-sweep wing"@en .
+
+wd:Q839475 a wd:Q2695280 ;
+    rdfs:label "Socratic method"@en .
+
+wd:Q842179 a wd:Q849203 ;
+    rdfs:label "ALE-50 Towed Decoy System"@en .
+
+wd:Q843106 a wd:Q2695280 ;
+    rdfs:label "human-based computation"@en .
+
+wd:Q84345226 a wd:Q1914636 ;
+    rdfs:label "Stockholm history tour"@en .
+
+wd:Q84474171 a wd:Q1914636 ;
+    rdfs:label "post card printing"@en .
+
+wd:Q84549747 a wd:Q2695280 ;
+    rdfs:label "Q84549747"^^xsd:string .
+
+wd:Q845671 a wd:Q811909 ;
+    rdfs:label "spoke"@en .
+
+wd:Q84757986 a wd:Q3249551 ;
+    rdfs:label "evaluation (education)"@en .
+
+wd:Q847984 a wd:Q28816538 ;
+    rdfs:label "Turmo"@en .
+
+wd:Q848018 a wd:Q28816538 ;
+    rdfs:label "Gurney flap"@en .
+
+wd:Q84836722 a wd:Q1914636 ;
+    rdfs:label "Q84836722"^^xsd:string .
+
+wd:Q84846960 a wd:Q3249551 ;
+    rdfs:label "water deficit"@en .
+
+wd:Q84847152 a wd:Q3249551 ;
+    rdfs:label "Fluvial processes"@en .
+
+wd:Q849640 a wd:Q28816538 ;
+    rdfs:label "radio transponder"@en .
+
+wd:Q849944 a wd:Q1914636 ;
+    rdfs:label "safari"@en .
+
+wd:Q850097 a wd:Q28816538 ;
+    rdfs:label "delta wing"@en .
+
+wd:Q852100 a wd:Q2695280 ;
+    rdfs:label "laundering"@en .
+
+wd:Q852170 a wd:Q1914636 ;
+    rdfs:label "dredging"@en .
+
+wd:Q85502 a wd:Q3249551 ;
+    rdfs:label "secularization"@en .
+
+wd:Q85612002 a wd:Q2695280 ;
+    rdfs:label "diazotype (copy)"@en .
+
+wd:Q85620678 a wd:Q2695280 ;
+    rdfs:label "Ferro-Gallic print"@en .
+
+wd:Q85621166 a wd:Q3249551 ;
+    rdfs:label "pencil drawing"@en .
+
+wd:Q856627 a wd:Q28816538 ;
+    rdfs:label "distance measuring equipment"@en .
+
+wd:Q857780 a wd:Q1914636 ;
+    rdfs:label "technical illustration"@en .
+
+wd:Q85792043 a wd:Q2695280 ;
+    rdfs:label "Panjagan"@en .
+
+wd:Q861073 a wd:Q2695280 ;
+    rdfs:label "Q861073"^^xsd:string .
+
+wd:Q86435508 a wd:Q2695280 ;
+    rdfs:label "Q86435508"^^xsd:string .
+
+wd:Q864361 a wd:Q1914636 ;
+    rdfs:label "Q864361"^^xsd:string .
+
+wd:Q86497957 a wd:Q1914636 ;
+    rdfs:label "Q86497957"^^xsd:string .
+
+wd:Q86500202 a wd:Q3249551 ;
+    rdfs:label "Joining of the Archdiocese of Russian Orthodox churches in Western Europe to the Moscow Patriarchate"@en .
+
+wd:Q86647781 a wd:Q4026292 ;
+    rdfs:label "to write"@en .
+
+wd:Q86905768 a wd:Q1914636 ;
+    rdfs:label "unloading"@en .
+
+wd:Q86908652 a wd:Q3249551 ;
+    rdfs:label "Drawing made with watered China ink"@en .
+
+wd:Q86908790 a wd:Q3249551 ;
+    rdfs:label "Semi-oil"@en .
+
+wd:Q873750 a wd:Q1914636 ;
+    rdfs:label "pickpocketing"@en .
+
+wd:Q876072 a wd:Q3249551 ;
+    rdfs:label "Universal Periodic Review"@en .
+
+wd:Q876776 a wd:Q1914636 ;
+    rdfs:label "drinking"@en .
+
+wd:Q882267 a wd:Q28816538 ;
+    rdfs:label "Tip jet"@en .
+
+wd:Q8880088 a wd:Q1914636 ;
+    rdfs:label "Category:Workers' sport"@en .
+
+wd:Q892972 a wd:Q1914636 ;
+    rdfs:label "book packaging"@en .
+
+wd:Q899277 a wd:Q1914636 ;
+    rdfs:label "recruitment"@en .
+
+wd:Q900433 a wd:Q2695280 ;
+    rdfs:label "Biohydrogen reactor"@en .
+
+wd:Q901663 a wd:Q2695280 ;
+    rdfs:label "molecular dynamics simulation"@en .
+
+wd:Q902535 a wd:Q28816538 ;
+    rdfs:label "Central Air Data Computer"@en .
+
+wd:Q902898 a wd:Q3249551 ;
+    rdfs:label "electron transfer"@en .
+
+wd:Q903397 a wd:Q3249551 ;
+    rdfs:label "Phlegmatized"@en .
+
+wd:Q904349 a wd:Q2695280 ;
+    rdfs:label "temperature-programmed reduction"@en .
+
+wd:Q905436 a wd:Q2695280 ;
+    rdfs:label "chirped pulse amplification"@en .
+
+wd:Q906182 a wd:Q28816538 ;
+    rdfs:label "DO-178B"@en .
+
+wd:Q908333 a wd:Q28816538 ;
+    rdfs:label "auxiliary power unit"@en .
+
+wd:Q908354 a wd:Q2695280 ;
+    rdfs:label "paper prototyping"@en .
+
+wd:Q908611 a wd:Q28816538 ;
+    rdfs:label "Horizontal situation indicator"@en .
+
+wd:Q915311 a wd:Q28816538 ;
+    rdfs:label "Krueger flaps"@en .
+
+wd:Q917273 a wd:Q2695280 ;
+    rdfs:label "abrasive blasting"@en .
+
+wd:Q917526 a wd:Q28816538 ;
+    rdfs:label "madapolam"@en .
+
+wd:Q918306 a wd:Q1914636 ;
+    rdfs:label "thermal insulation"@en .
+
+wd:Q9203288 a wd:Q1310239 ;
+    rdfs:label "Q9203288"^^xsd:string .
+
+wd:Q922654 a wd:Q28816538 ;
+    rdfs:label "propeller"@en .
+
+wd:Q9251812 a wd:Q4026292 ;
+    rdfs:label "Ejruw"@en .
+
+wd:Q928357 a wd:Q2695280 ;
+    rdfs:label "bronze sculpture"@en .
+
+wd:Q930931 a wd:Q28816538 ;
+    rdfs:label "self-sealing fuel tank"@en .
+
+wd:Q931309 a wd:Q2695280 ;
+    rdfs:label "medical imaging"@en .
+
+wd:Q931872 a wd:Q28816538 ;
+    rdfs:label "Pulse detonation engine"@en .
+
+wd:Q9332285 a wd:Q1914636 ;
+    rdfs:label "Supplier Quality Assurance"@en .
+
+wd:Q9335686 a wd:Q2695280 ;
+    rdfs:label "Seton"@en .
+
+wd:Q933949 a wd:Q1914636 ;
+    rdfs:label "milking"@en .
+
+wd:Q9359 a wd:Q2695280 ;
+    rdfs:label "Google bomb"@en .
+
+wd:Q93717 a wd:Q2695280 ;
+    rdfs:label "Cold reading"@en .
+
+wd:Q9380496 a wd:Q811909 ;
+    rdfs:label "Wytyk"@en .
+
+wd:Q939130 a wd:Q28816538 ;
+    rdfs:label "helmet-mounted display"@en .
+
+wd:Q93935 a wd:Q1914636 ;
+    rdfs:label "tooth brushing"@en .
+
+wd:Q941680 a wd:Q221329,
+        wd:Q28816538 ;
+    rdfs:label "inertial measurement unit"@en .
+
+wd:Q943162 a wd:Q28816538 ;
+    rdfs:label "turboshaft"@en .
+
+wd:Q949149 a wd:Q1914636 ;
+    rdfs:label "sanitation"@en .
+
+wd:Q949291 a wd:Q28816538 ;
+    rdfs:label "Yehudi lights"@en .
+
+wd:Q950143 a wd:Q28816538 ;
+    rdfs:label "Garmin G1000"@en ;
+    rdfs:subClassOf wd:Q15038173 .
+
+wd:Q957191 a wd:Q28816538 ;
+    rdfs:label "Mongoose-V"@en .
+
+wd:Q959049 a wd:Q3249551 ;
+    rdfs:label "music production"@en .
+
+wd:Q9640723 a wd:Q1914636 ;
+    rdfs:label "commercial aviation"@en .
+
+wd:Q970739 a wd:Q28816538 ;
+    rdfs:label "Aft pressure bulkhead"@en .
+
+wd:Q974213 a wd:Q2695280 ;
+    rdfs:label "Digital imaging"@en .
+
+wd:Q977984 a wd:Q3249551 ;
+    rdfs:label "deglobalization"@en .
+
+wd:Q978659 a wd:Q1914636 ;
+    rdfs:label "vehicle inspection"@en .
+
+wd:Q980965 a wd:Q2695280 ;
+    rdfs:label "real time kinematic"@en .
+
+wd:Q994443 a wd:Q1914636 ;
+    rdfs:label "breast ironing"@en .
+
+wd:Q998426 a wd:Q1914636 ;
+    rdfs:label "bookselling"@en .
+
+wd:Q99905 a wd:Q28816538 ;
+    rdfs:label "airbag"@en .
+
+wd:Q999646 a wd:Q1914636 ;
+    rdfs:label "driving"@en .
+
+wd:Q1063898 a wd:Q28816538 ;
+    rdfs:label "airborne collision avoidance system"@en ;
+    rdfs:subClassOf wd:Q17423076 .
+
+wd:Q15038173 a wd:Q28816538 ;
+    rdfs:label "glass cockpit"@en ;
+    rdfs:subClassOf wd:Q17422937 .
+
+wd:Q15052159 rdfs:label "airborne weather radar"@en ;
+    rdfs:subClassOf wd:Q17423203 .
+
+wd:Q17415641 rdfs:label "reconnaissance pod"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q17423490 rdfs:label "RSIU-4"@en ;
+    rdfs:subClassOf wd:Q17422887 .
+
+wd:Q3050846 a wd:Q28816538 ;
+    rdfs:label "lightning detection"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q373065 rdfs:label "applied physics"@en ;
+    rdfs:subClassOf wd:Q413 .
+
+wd:Q518461 a wd:Q28816538 ;
+    rdfs:label "head-up display"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q570607 a wd:Q28816538 ;
+    rdfs:label "inertial navigation system"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q657919 a wd:Q28816538 ;
+    rdfs:label "Flight Management System"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q682023 rdfs:label "forward looking infrared"@en ;
+    rdfs:subClassOf wd:Q17423076 .
+
+wd:Q1138034 a wd:Q28816538 ;
+    rdfs:label "ground proximity warning system"@en ;
+    rdfs:subClassOf wd:Q17423076 .
+
+wd:Q173904 a wd:Q28816538 ;
+    rdfs:label "radio direction finder"@en ;
+    rdfs:subClassOf wd:Q17422897 .
+
+wd:Q17422937 rdfs:label "aircraft monitoring device"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q17423203 rdfs:label "aircraft weather information system"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q17423360 rdfs:label "tactical avionics"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q17424250 rdfs:label "aircraft landing avionics"@en ;
+    rdfs:subClassOf wd:Q17422897 .
+
+wd:Q1785838 rdfs:label "gun camera"@en ;
+    rdfs:subClassOf wd:Q17423076,
+        wd:Q998319 .
+
+wd:Q17422897 rdfs:label "aircraft navigation device"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q17424281 rdfs:label "offensive avionics"@en ;
+    rdfs:subClassOf wd:Q17423360 .
+
+wd:Q849203 rdfs:label "electronic countermeasure"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q998319 a wd:Q28816538 ;
+    rdfs:label "flight recorder"@en ;
+    rdfs:subClassOf wd:Q17422937 .
+
+wd:Q11481471 a wd:Q28816538 ;
+    rdfs:label "aircraft flight control system"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q1332920 a wd:Q28816538 ;
+    rdfs:label "transponder"@en ;
+    rdfs:subClassOf wd:Q17422887 .
+
+wd:Q17423303 rdfs:label "airborne radar"@en ;
+    rdfs:subClassOf wd:Q17423076 .
+
+wd:Q18822 rdfs:label "Global Positioning System"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q220858 a wd:Q28816538 ;
+    rdfs:label "autopilot"@en ;
+    rdfs:subClassOf wd:Q11481471 .
+
+wd:Q17422887 rdfs:label "aircraft communications device"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q11650 rdfs:label "electronics"@en ;
+    rdfs:subClassOf wd:Q2695280,
+        wd:Q373065 .
+
+wd:Q1310239 rdfs:label "component"@en .
+
+wd:Q4402369 rdfs:label "radar warning receiver"@en ;
+    rdfs:subClassOf wd:Q17423076,
+        wd:Q17423360 .
+
+wd:Q17423076 rdfs:label "airborne sensor system"@en ;
+    rdfs:subClassOf wd:Q221329 .
+
+wd:Q741490 rdfs:label "autonomous car"@en ;
+    rdfs:subClassOf wd:Q220858 .
+
+wd:Q413 rdfs:label "physics"@en .
+
+wd:Q221329 a wd:Q28816538 ;
+    rdfs:label "avionics"@en ;
+    rdfs:subClassOf wd:Q11650 .
+
+wd:Q4026292 rdfs:label "action"@en .
+
+wd:Q811909 rdfs:label "technological component"@en ;
+    rdfs:subClassOf wd:Q1310239 .
+
+wd:Q3249551 rdfs:label "process"@en .
+
+wd:Q2695280 rdfs:label "technique"@en ;
+    rdfs:subClassOf wd:Q1914636,
+        wd:Q3249551,
+        wd:Q4026292 .
+
+wd:Q1914636 rdfs:label "activity"@en .
+
+wd:Q28816538 rdfs:label "aircraft component"@en ;
+    rdfs:subClassOf wd:Q811909 .
+

@@ -1,0 +1,33 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q12008569 rdfs:label "urbanisation in Norway"@en ;
+    rdfs:subClassOf wd:Q161078 .
+
+wd:Q131164 a wd:Q1514415 ;
+    rdfs:label "Web 2.0"@en .
+
+wd:Q14291687 rdfs:label "Q14291687"^^xsd:string ;
+    rdfs:subClassOf wd:Q161078 .
+
+wd:Q207182 a wd:Q1514415 ;
+    rdfs:label "Zlatkoisierung"@en .
+
+wd:Q368949 a wd:Q1514415 ;
+    rdfs:label "exoticism"@en .
+
+wd:Q5249514 a wd:Q1514415 ;
+    rdfs:label "Decline of library usage"@en .
+
+wd:Q7889659 a wd:Q1514415 ;
+    rdfs:label "United States Constitution and worldwide influence"@en .
+
+wd:Q977693 rdfs:label "synoecism"@en ;
+    rdfs:subClassOf wd:Q161078 .
+
+wd:Q161078 rdfs:label "urbanization"@en ;
+    rdfs:subClassOf wd:Q1514415 .
+

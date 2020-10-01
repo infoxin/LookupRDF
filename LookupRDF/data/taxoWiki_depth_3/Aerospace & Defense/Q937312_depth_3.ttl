@@ -1,0 +1,626 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1050052 a wd:Q1371819 ;
+    rdfs:label "Commissioners' Plan of 1811"@en .
+
+wd:Q10708255 a wd:Q1371819 ;
+    rdfs:label "U-55"@en .
+
+wd:Q10708315 a wd:Q937312 ;
+    rdfs:label "military budget of the United States"@en .
+
+wd:Q10892357 a wd:Q1371819 ;
+    rdfs:label "85,000-flats-a-year plan"@en .
+
+wd:Q11226299 a wd:Q1371819 ;
+    rdfs:label "Q11226299"^^xsd:string .
+
+wd:Q11362451 a wd:Q1371819 ;
+    rdfs:label "World Programme for the Census of Agriculture"@en .
+
+wd:Q11412054 a wd:Q1371819 ;
+    rdfs:label "Q11412054"^^xsd:string .
+
+wd:Q11471121 a wd:Q1371819 ;
+    rdfs:label "San'in Shinkansen"@en .
+
+wd:Q11486800 a wd:Q1371819 ;
+    rdfs:label "Q11486800"^^xsd:string .
+
+wd:Q11861069 a wd:Q1371819 ;
+    rdfs:label "HOJKS"@en .
+
+wd:Q11874618 a wd:Q1371819 ;
+    rdfs:label "Arctic Railway"@en .
+
+wd:Q11898825 a wd:Q1371819 ;
+    rdfs:label "Q11898825"^^xsd:string .
+
+wd:Q11926650 a wd:Q1371819 ;
+    rdfs:label "Q11926650"^^xsd:string .
+
+wd:Q1258158 a wd:Q1371819 ;
+    rdfs:label "Q1258158"^^xsd:string .
+
+wd:Q12598802 a wd:Q1371819 ;
+    rdfs:label "Busan Roadmap"@en .
+
+wd:Q12787250 a wd:Q1371819 ;
+    rdfs:label "Plan X"@en .
+
+wd:Q12791342 a wd:Q1371819 ;
+    rdfs:label "Individual Partnership Programme"@en .
+
+wd:Q12803008 a wd:Q1371819 ;
+    rdfs:label "Slovenian Issue"@en .
+
+wd:Q13377278 a wd:Q1371819 ;
+    rdfs:label "Tardieu plan"@en .
+
+wd:Q135793 a wd:Q1371819 ;
+    rdfs:label "Plan Z"@en .
+
+wd:Q13816422 a wd:Q1371819 ;
+    rdfs:label "Q13816422"^^xsd:string .
+
+wd:Q13893890 a wd:Q1371819 ;
+    rdfs:label "Q13893890"^^xsd:string .
+
+wd:Q1402601 a wd:Q1371819 ;
+    rdfs:label "curriculum"@en .
+
+wd:Q1416404 a wd:Q1371819 ;
+    rdfs:label "financing plan"@en .
+
+wd:Q1484982 a wd:Q1371819 ;
+    rdfs:label "WhizzKids United"@en .
+
+wd:Q15119907 a wd:Q1371819 ;
+    rdfs:label "Q15119907"^^xsd:string .
+
+wd:Q1551089 a wd:Q1371819 ;
+    rdfs:label "Systematization"@en .
+
+wd:Q156115 a wd:Q1371819 ;
+    rdfs:label "Generalplan Ost"@en .
+
+wd:Q15864895 a wd:Q937312 ;
+    rdfs:label "Military budget of the Russian Federation"@en .
+
+wd:Q15898652 a wd:Q1371819 ;
+    rdfs:label "Environmentally Friendly Linkage System"@en .
+
+wd:Q160211 a wd:Q1371819 ;
+    rdfs:label "Schuman Declaration"@en .
+
+wd:Q16071816 a wd:Q1371819 ;
+    rdfs:label "Railway reconstruction in Taiwan"@en .
+
+wd:Q16543067 a wd:Q1371819 ;
+    rdfs:label "Composante Spatiale Optique"@en .
+
+wd:Q16567342 a wd:Q1371819 ;
+    rdfs:label "Q16567342"^^xsd:string .
+
+wd:Q166259 a wd:Q1371819 ;
+    rdfs:label "British Commonwealth Air Training Plan"@en .
+
+wd:Q17041766 a wd:Q1371819 ;
+    rdfs:label "WHO global action plan"@en .
+
+wd:Q1784516 a wd:Q1371819 ;
+    rdfs:label "Alliance for Progress"@en .
+
+wd:Q1788788 a wd:Q937312 ;
+    rdfs:label "Q1788788"^^xsd:string .
+
+wd:Q17995566 a wd:Q1371819 ;
+    rdfs:label "Dual Capitals Initiative"@en .
+
+wd:Q18088495 a wd:Q1371819 ;
+    rdfs:label "Q18088495"^^xsd:string .
+
+wd:Q18128042 a wd:Q937312 ;
+    rdfs:label "Military budget of India"@en .
+
+wd:Q1822686 a wd:Q1371819 ;
+    rdfs:label "Q1822686"^^xsd:string .
+
+wd:Q1916290 a wd:Q1371819 ;
+    rdfs:label "70-point plan"@en .
+
+wd:Q19852233 a wd:Q1371819 ;
+    rdfs:label "Greater Shanghai Plan"@en .
+
+wd:Q19873131 a wd:Q1371819 ;
+    rdfs:label "Eighth Five-Year Plan"@en .
+
+wd:Q19881572 a wd:Q41263 ;
+    rdfs:label "2015–16 Odisha State Budget"@en .
+
+wd:Q1992460 a wd:Q1371819 ;
+    rdfs:label "Schell plan"@en .
+
+wd:Q2016776 a wd:Q1371819 ;
+    rdfs:label "New Economic Model"@en .
+
+wd:Q20310834 a wd:Q1371819 ;
+    rdfs:label "Global Apollo Programme"@en .
+
+wd:Q2123518 a wd:Q1371819 ;
+    rdfs:label "RegioTram Groningen"@en .
+
+wd:Q2149566 a wd:Q1371819 ;
+    rdfs:label "Bergermeer gas storage"@en .
+
+wd:Q2152491 a wd:Q1371819 ;
+    rdfs:label "hoestkanker"@en .
+
+wd:Q2179023 a wd:Q1371819 ;
+    rdfs:label "Q2179023"^^xsd:string .
+
+wd:Q21814515 a wd:Q1371819 ;
+    rdfs:label "Digital Agenda for Europe 2020"@en .
+
+wd:Q2243700 a wd:Q1371819 ;
+    rdfs:label "Q2243700"^^xsd:string .
+
+wd:Q2252521 a wd:Q1371819 ;
+    rdfs:label "American System"@en .
+
+wd:Q2324986 a wd:Q41263 ;
+    rdfs:label "Q2324986"^^xsd:string .
+
+wd:Q2367425 a wd:Q1371819 ;
+    rdfs:label "Q2367425"^^xsd:string .
+
+wd:Q2390458 a wd:Q1371819 ;
+    rdfs:label "Q2390458"^^xsd:string .
+
+wd:Q24013782 a wd:Q1371819 ;
+    rdfs:label "Families and Schools Together"@en .
+
+wd:Q24835099 a wd:Q1371819 ;
+    rdfs:label "Made in China 2025"@en .
+
+wd:Q24885727 a wd:Q43015 ;
+    rdfs:label "Dombivli Nagari Sahakari Bank Ltd."@en .
+
+wd:Q2491788 a wd:Q1371819 ;
+    rdfs:label "Reinhardt plan"@en .
+
+wd:Q24942577 a wd:Q43015 ;
+    rdfs:label "SBI Mutual Fund"@en .
+
+wd:Q24971779 a wd:Q1371819 ;
+    rdfs:label "Operation Hope Not"@en .
+
+wd:Q2498649 a wd:Q1371819 ;
+    rdfs:label "Q2498649"^^xsd:string .
+
+wd:Q2585523 a wd:Q1371819 ;
+    rdfs:label "Q2585523"^^xsd:string .
+
+wd:Q2629130 a wd:Q1371819 ;
+    rdfs:label "Q2629130"^^xsd:string .
+
+wd:Q2657988 a wd:Q1371819 ;
+    rdfs:label "Q2657988"^^xsd:string .
+
+wd:Q26732212 a wd:Q1371819 ;
+    rdfs:label "N-0105-98: NITFS Standards Compliance and Interoperability Certification Test & Evaluation Program Plan, version 1.0"@en .
+
+wd:Q2679151 a wd:Q1371819 ;
+    rdfs:label "care plan"@en .
+
+wd:Q26823233 a wd:Q1371819 ;
+    rdfs:label "DISA/JIEO Circular 9008: NITFS Certification Test and Evaluation Program Plan"@en .
+
+wd:Q26824994 a wd:Q1371819 ;
+    rdfs:label "The National Imagery Transmission Format Standard (NITFS) Five Year Program Plan, version 1.0"@en .
+
+wd:Q268998 a wd:Q1371819 ;
+    rdfs:label "Pueblo Mágico"@en .
+
+wd:Q26973048 a wd:Q1371819 ;
+    rdfs:label "Resource London"@en .
+
+wd:Q27882848 a wd:Q1371819 ;
+    rdfs:label "Red Nacional de Silos y Graneros"@en .
+
+wd:Q27998498 a wd:Q41263 ;
+    rdfs:label "public budget"@en .
+
+wd:Q2801875 a wd:Q1371819 ;
+    rdfs:label "Islands plan"@en .
+
+wd:Q2806847 a wd:Q1371819 ;
+    rdfs:label "Q2806847"^^xsd:string .
+
+wd:Q28147487 a wd:Q1371819 ;
+    rdfs:label "Plan Pampus"@en .
+
+wd:Q2819387 a wd:Q1371819 ;
+    rdfs:label "ARTES"@en .
+
+wd:Q28381010 a wd:Q1371819 ;
+    rdfs:label "Q28381010"^^xsd:string .
+
+wd:Q2841691 a wd:Q1371819 ;
+    rdfs:label "Q2841691"^^xsd:string .
+
+wd:Q2897990 a wd:Q1371819 ;
+    rdfs:label "Lieberman Plan"@en .
+
+wd:Q29019698 a wd:Q1371819 ;
+    rdfs:label "Forward-looking foundation construction plans in Taiwan"@en .
+
+wd:Q29027021 a wd:Q1371819 ;
+    rdfs:label "Operation London Bridge"@en .
+
+wd:Q29168262 a wd:Q1371819 ;
+    rdfs:label "Generative Systems: Art, Science and Technology"@en .
+
+wd:Q29316702 a wd:Q937312 ;
+    rdfs:label "Military budget of Turkey"@en .
+
+wd:Q2940269 a wd:Q1371819 ;
+    rdfs:label "Q2940269"^^xsd:string .
+
+wd:Q2980029 a wd:Q1371819 ;
+    rdfs:label "Q2980029"^^xsd:string .
+
+wd:Q30657663 a wd:Q1371819 ;
+    rdfs:label "Q30657663"^^xsd:string .
+
+wd:Q30787220 a wd:Q1371819 ;
+    rdfs:label "Q30787220"^^xsd:string .
+
+wd:Q3143162 a wd:Q1371819 ;
+    rdfs:label "Flooded grasslands and savannas"@en .
+
+wd:Q3367024 a wd:Q1371819 ;
+    rdfs:label "Namie-Odaka Nuclear Power Plant"@en .
+
+wd:Q3391281 a wd:Q1371819 ;
+    rdfs:label "library safety plan"@en .
+
+wd:Q3480050 a wd:Q1371819 ;
+    rdfs:label "Nordek"@en .
+
+wd:Q3487920 a wd:Q1371819 ;
+    rdfs:label "Intelligenzaktion"@en .
+
+wd:Q38066486 a wd:Q1371819 ;
+    rdfs:label "Q38066486"^^xsd:string .
+
+wd:Q38222323 a wd:Q1371819 ;
+    rdfs:label "Q38222323"^^xsd:string .
+
+wd:Q4032415 a wd:Q1371819 ;
+    rdfs:label "Q4032415"^^xsd:string .
+
+wd:Q41251367 a wd:Q1371819 ;
+    rdfs:label "Cross Valley Corridor"@en .
+
+wd:Q42266253 a wd:Q1371819 ;
+    rdfs:label "Birds-1"@en .
+
+wd:Q42575561 a wd:Q1371819 ;
+    rdfs:label "Q42575561"^^xsd:string .
+
+wd:Q42575659 a wd:Q1371819 ;
+    rdfs:label "Q42575659"^^xsd:string .
+
+wd:Q42575673 a wd:Q1371819 ;
+    rdfs:label "Q42575673"^^xsd:string .
+
+wd:Q44628919 a wd:Q1371819 ;
+    rdfs:label "Programa ADOP"@en .
+
+wd:Q45092765 a wd:Q43015 ;
+    rdfs:label "Q45092765"^^xsd:string .
+
+wd:Q4514381 a wd:Q1371819 ;
+    rdfs:label "Twentestad"@en .
+
+wd:Q4696384 a wd:Q1371819 ;
+    rdfs:label "Ahtisaari Plan"@en .
+
+wd:Q4774888 a wd:Q1371819 ;
+    rdfs:label "Antillean Confederation"@en .
+
+wd:Q4852687 a wd:Q1371819 ;
+    rdfs:label "Baltic 21"@en .
+
+wd:Q48855562 a wd:Q1371819 ;
+    rdfs:label "Caixa Cultural"@en .
+
+wd:Q51296414 a wd:Q1371819 ;
+    rdfs:label "Wikimedia Foundation annual plan 2018-19"@en .
+
+wd:Q51336622 a wd:Q1371819 ;
+    rdfs:label "Q51336622"^^xsd:string .
+
+wd:Q517003 a wd:Q1371819 ;
+    rdfs:label "Soviet manned lunar programs"@en .
+
+wd:Q51794411 a wd:Q1371819 ;
+    rdfs:label "Q51794411"^^xsd:string .
+
+wd:Q51931648 a wd:Q1371819 ;
+    rdfs:label "Q51931648"^^xsd:string .
+
+wd:Q5206383 a wd:Q1371819 ;
+    rdfs:label "DVFR"@en .
+
+wd:Q5251436 a wd:Q937312 ;
+    rdfs:label "Military budget of Japan"@en .
+
+wd:Q5390754 a wd:Q1371819 ;
+    rdfs:label "Programa ADO"@en .
+
+wd:Q54958667 a wd:Q1371819 ;
+    rdfs:label "Google for Startups"@en .
+
+wd:Q55090719 a wd:Q1371819 ;
+    rdfs:label "Q55090719"^^xsd:string .
+
+wd:Q5510854 a wd:Q1371819 ;
+    rdfs:label "Future projects of the MTR"@en .
+
+wd:Q55108668 a wd:Q1371819 ;
+    rdfs:label "Salwa Canal"@en .
+
+wd:Q55170642 a wd:Q41263 ;
+    rdfs:label "Q55170642"^^xsd:string .
+
+wd:Q55982103 a wd:Q43015 ;
+    rdfs:label "Registered Financial Analyst"@en .
+
+wd:Q5599002 a wd:Q1371819 ;
+    rdfs:label "Great Contract"@en .
+
+wd:Q56683715 a wd:Q1371819 ;
+    rdfs:label "Chequers plan"@en .
+
+wd:Q59326303 a wd:Q1371819 ;
+    rdfs:label "Moonlight Project"@en .
+
+wd:Q59767838 a wd:Q1371819 ;
+    rdfs:label "Q59767838"^^xsd:string .
+
+wd:Q60313391 a wd:Q1371819 ;
+    rdfs:label "Q60313391"^^xsd:string .
+
+wd:Q606031 a wd:Q41263 ;
+    rdfs:label "budget of NASA"@en .
+
+wd:Q60732907 a wd:Q1371819 ;
+    rdfs:label "State Program for Digitization for Science and Culture of the Free State of Saxony"@en .
+
+wd:Q60767189 a wd:Q1371819 ;
+    rdfs:label "Birds-2"@en .
+
+wd:Q6077296 a wd:Q1371819 ;
+    rdfs:label "Q6077296"^^xsd:string .
+
+wd:Q60775268 a wd:Q1371819 ;
+    rdfs:label "Operation Yellowhammer"@en .
+
+wd:Q61847291 a wd:Q1371819 ;
+    rdfs:label "Horizon lending program"@en .
+
+wd:Q61954933 a wd:Q1371819 ;
+    rdfs:label "Sustainable Food Cities"@en .
+
+wd:Q62392241 a wd:Q1371819 ;
+    rdfs:label "GOSH roadmap"@en .
+
+wd:Q62987749 a wd:Q1371819 ;
+    rdfs:label "Q62987749"^^xsd:string .
+
+wd:Q63297516 a wd:Q1371819 ;
+    rdfs:label "Q63297516"^^xsd:string .
+
+wd:Q63379179 a wd:Q1371819 ;
+    rdfs:label "Q63379179"^^xsd:string .
+
+wd:Q6475249 a wd:Q1371819 ;
+    rdfs:label "Lake Champlain Basin Program"@en .
+
+wd:Q6546176 a wd:Q1371819 ;
+    rdfs:label "Luz para Todos"@en .
+
+wd:Q67222210 a wd:Q1371819 ;
+    rdfs:label "Casa-Cisneros Reform Plan"@en .
+
+wd:Q6739502 a wd:Q1371819 ;
+    rdfs:label "Maki Nuclear Power Plant"@en .
+
+wd:Q6852234 a wd:Q937312 ;
+    rdfs:label "Military budget of the People's Republic of China"@en .
+
+wd:Q6878707 a wd:Q1371819 ;
+    rdfs:label "Mission Robinson"@en .
+
+wd:Q70203592 a wd:Q1371819 ;
+    rdfs:label "shopping basket program"@en .
+
+wd:Q702232 a wd:Q1371819 ;
+    rdfs:label "zoning"@en .
+
+wd:Q7039206 a wd:Q1371819 ;
+    rdfs:label "Ninth Five-Year Plan"@en .
+
+wd:Q7090610 a wd:Q41263 ;
+    rdfs:label "Omoiyari Yosan"@en .
+
+wd:Q71936546 a wd:Q43015 ;
+    rdfs:label "Thrissur District Co-operative Bank Limited"@en .
+
+wd:Q7200913 a wd:Q1371819 ;
+    rdfs:label "Plan X"@en .
+
+wd:Q7248975 a wd:Q1371819 ;
+    rdfs:label "Project 571"@en .
+
+wd:Q728739 a wd:Q1371819 ;
+    rdfs:label "Q728739"^^xsd:string .
+
+wd:Q7295776 a wd:Q43015 ;
+    rdfs:label "Rational pricing"@en .
+
+wd:Q735318 a wd:Q1371819 ;
+    rdfs:label "TEMPUS"@en .
+
+wd:Q73638842 a wd:Q43015 ;
+    rdfs:label "Surat National Cooperative Bank Limited"@en .
+
+wd:Q73642266 a wd:Q43015 ;
+    rdfs:label "Durgapur Steel Peoples Co-operative Bank Ltd"@en .
+
+wd:Q73705076 a wd:Q43015 ;
+    rdfs:label "The Vishweshwar Sahakari Bank Limited"@en .
+
+wd:Q73708426 a wd:Q43015 ;
+    rdfs:label "The Mumbai District Central Cooperative Bank Limited"@en .
+
+wd:Q73896016 a wd:Q1371819 ;
+    rdfs:label "All-American College Band"@en .
+
+wd:Q74121721 a wd:Q43015 ;
+    rdfs:label "Almora Urban Cooperative Bank Limited"@en .
+
+wd:Q74494067 a wd:Q43015 ;
+    rdfs:label "The Karanataka State Cooperative Apex Bank Limited"@en .
+
+wd:Q74495422 a wd:Q43015 ;
+    rdfs:label "The Municipal Cooperative Bank Limited"@en .
+
+wd:Q74499664 a wd:Q43015 ;
+    rdfs:label "Idukki District Cooperative Bank Limited"@en .
+
+wd:Q74502953 a wd:Q43015 ;
+    rdfs:label "The Andhra Pradesh State Cooperative Bank Limited"@en .
+
+wd:Q74509101 a wd:Q43015 ;
+    rdfs:label "The Surat District Cooperative Bank Limited"@en .
+
+wd:Q74963011 a wd:Q43015 ;
+    rdfs:label "Mahanagar Cooperative Bank"@en .
+
+wd:Q74966703 a wd:Q43015 ;
+    rdfs:label "Paytm Payments Bank"@en .
+
+wd:Q74982656 a wd:Q43015 ;
+    rdfs:label "RBL Bank Limited"@en .
+
+wd:Q75790075 a wd:Q43015 ;
+    rdfs:label "Rajasthan Marudhara Gramin Bank"@en .
+
+wd:Q75801175 a wd:Q43015 ;
+    rdfs:label "Pragathi Krishna Gramin Bank"@en .
+
+wd:Q76254857 a wd:Q43015 ;
+    rdfs:label "Janaseva Sahakari Bank Limited"@en .
+
+wd:Q76277510 a wd:Q43015 ;
+    rdfs:label "Kapol Cooperative Bank Limited"@en .
+
+wd:Q76383664 a wd:Q43015 ;
+    rdfs:label "Capital Small Finance Bank Limited"@en .
+
+wd:Q763870 a wd:Q1371819 ;
+    rdfs:label "LEADER programme"@en .
+
+wd:Q76492758 a wd:Q43015 ;
+    rdfs:label "New India Cooperative Bank Limited"@en .
+
+wd:Q7649586 a wd:Q1371819 ;
+    rdfs:label "Sustainable Development Goals"@en .
+
+wd:Q7700864 a wd:Q1371819 ;
+    rdfs:label "Tenth Five-Year Plan"@en .
+
+wd:Q77025018 a wd:Q1371819 ;
+    rdfs:label "Sint-Pietersbergplan"@en .
+
+wd:Q7755837 a wd:Q1371819 ;
+    rdfs:label "The PJ Library"@en .
+
+wd:Q777082 a wd:Q1371819 ;
+    rdfs:label "Aurora programme"@en .
+
+wd:Q782766 a wd:Q1371819 ;
+    rdfs:label "Plan Cerdá"@en .
+
+wd:Q7842127 a wd:Q1371819 ;
+    rdfs:label "Trim and Fit"@en .
+
+wd:Q79885320 a wd:Q1371819 ;
+    rdfs:label "Q79885320"^^xsd:string .
+
+wd:Q8034661 a wd:Q1371819 ;
+    rdfs:label "Workbook Project"@en .
+
+wd:Q8058085 a wd:Q1371819 ;
+    rdfs:label "Young Eagles"@en .
+
+wd:Q815406 a wd:Q1371819 ;
+    rdfs:label "Q815406"^^xsd:string .
+
+wd:Q815484 a wd:Q1371819 ;
+    rdfs:label "Belgian annexation plans after World War II"@en .
+
+wd:Q81737 a wd:Q1371819 ;
+    rdfs:label "Millennium Development Goal"@en .
+
+wd:Q81965283 a wd:Q1371819 ;
+    rdfs:label "Reef 2050 Long-Term Sustainability Plan"@en .
+
+wd:Q82939998 a wd:Q1371819 ;
+    rdfs:label "Q82939998"^^xsd:string .
+
+wd:Q83263579 a wd:Q1371819 ;
+    rdfs:label "Q83263579"^^xsd:string .
+
+wd:Q837215 a wd:Q1371819 ;
+    rdfs:label "General plan"@en .
+
+wd:Q83764038 a wd:Q1371819 ;
+    rdfs:label "Q83764038"^^xsd:string .
+
+wd:Q83764174 a wd:Q1371819 ;
+    rdfs:label "Q83764174"^^xsd:string .
+
+wd:Q84314141 a wd:Q1371819 ;
+    rdfs:label "Q84314141"^^xsd:string .
+
+wd:Q918162 a wd:Q1371819 ;
+    rdfs:label "2006 transatlantic aircraft plot"@en .
+
+wd:Q9184085 a wd:Q1371819 ;
+    rdfs:label "Q9184085"^^xsd:string .
+
+wd:Q1416547 rdfs:label "financial plan"@en ;
+    rdfs:subClassOf wd:Q1371819 .
+
+wd:Q18564125 rdfs:label "business management"@en .
+
+wd:Q41263 rdfs:label "budget"@en ;
+    rdfs:subClassOf wd:Q1416547,
+        wd:Q43015 .
+
+wd:Q937312 rdfs:label "military budget"@en ;
+    rdfs:subClassOf wd:Q41263 .
+
+wd:Q43015 rdfs:label "finance"@en ;
+    rdfs:subClassOf wd:Q18564125 .
+
+wd:Q1371819 rdfs:label "plan"@en .
+

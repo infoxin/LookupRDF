@@ -1,0 +1,1195 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:P1108 a wd:Q4373292 ;
+    rdfs:label "electronegativity"@en .
+
+wd:Q10269116 a wd:Q1207505 ;
+    rdfs:label "durability"@en .
+
+wd:Q10289243 a wd:Q1207505 ;
+    rdfs:label "hypogeal germination"@en .
+
+wd:Q1047129 a wd:Q1207505 ;
+    rdfs:label "relativity"@en .
+
+wd:Q1074648 a wd:Q1207505 ;
+    rdfs:label "relevance"@en .
+
+wd:Q1075 a wd:Q4373292 ;
+    rdfs:label "color"@en .
+
+wd:Q1079090 a wd:Q1207505 ;
+    rdfs:label "neurotypical"@en .
+
+wd:Q10861803 a wd:Q107715 ;
+    rdfs:label "Q10861803"^^xsd:string .
+
+wd:Q1092926 a wd:Q29175 ;
+    rdfs:label "jounce"@en .
+
+wd:Q109856 a wd:Q1207505 ;
+    rdfs:label "crystal twinning"@en .
+
+wd:Q1124626 a wd:Q1207505 ;
+    rdfs:label "hygrophanous"@en .
+
+wd:Q1131316 a wd:Q1207505 ;
+    rdfs:label "deciduous plant"@en .
+
+wd:Q11349892 a wd:Q107715 ;
+    rdfs:label "level"@en .
+
+wd:Q1142730 a wd:Q107715 ;
+    rdfs:label "cycle threshold"@en .
+
+wd:Q11430 a wd:Q4373292 ;
+    rdfs:label "state of matter"@en .
+
+wd:Q114817 a wd:Q107715 ;
+    rdfs:label "surface roughness"@en .
+
+wd:Q11567495 a wd:Q4373292 ;
+    rdfs:label "colorlessness"@en .
+
+wd:Q11826105 a wd:Q107715 ;
+    rdfs:label "Q11826105"^^xsd:string .
+
+wd:Q11877847 a wd:Q1144560 ;
+    rdfs:label "Q11877847"^^xsd:string .
+
+wd:Q11985376 a wd:Q107715 ;
+    rdfs:label "Q11985376"^^xsd:string .
+
+wd:Q11985693 a wd:Q107715 ;
+    rdfs:label "Q11985693"^^xsd:string .
+
+wd:Q11999895 a wd:Q1207505 ;
+    rdfs:label "eponymously titled"@en .
+
+wd:Q12020988 a wd:Q107715 ;
+    rdfs:label "Q12020988"^^xsd:string .
+
+wd:Q12021594 a wd:Q107715 ;
+    rdfs:label "Q12021594"^^xsd:string .
+
+wd:Q12036173 a wd:Q107715 ;
+    rdfs:label "Q12036173"^^xsd:string .
+
+wd:Q12049177 a wd:Q107715 ;
+    rdfs:label "Specific Gravity"@en .
+
+wd:Q12055746 a wd:Q107715 ;
+    rdfs:label "Q12055746"^^xsd:string .
+
+wd:Q12056477 a wd:Q107715 ;
+    rdfs:label "storativity"@en .
+
+wd:Q12058674 a wd:Q107715 ;
+    rdfs:label "Q12058674"^^xsd:string .
+
+wd:Q12059077 a wd:Q107715 ;
+    rdfs:label "Q12059077"^^xsd:string .
+
+wd:Q12059078 a wd:Q107715 ;
+    rdfs:label "Q12059078"^^xsd:string .
+
+wd:Q12059129 a wd:Q107715 ;
+    rdfs:label "Q12059129"^^xsd:string .
+
+wd:Q12142893 a wd:Q107715 ;
+    rdfs:label "rate of liquid flow"@en .
+
+wd:Q1230529 a wd:Q107715 ;
+    rdfs:label "Q1230529"^^xsd:string .
+
+wd:Q1277412 a wd:Q309314 ;
+    rdfs:label "water consumption"@en .
+
+wd:Q12774754 a wd:Q107715 ;
+    rdfs:label "Q12774754"^^xsd:string .
+
+wd:Q12775200 a wd:Q107715 ;
+    rdfs:label "Q12775200"^^xsd:string .
+
+wd:Q129609 a wd:Q107715 ;
+    rdfs:label "Q10"@en .
+
+wd:Q1304639 a wd:Q13471665 ;
+    rdfs:label "Guttman scale"@en .
+
+wd:Q1305350 a wd:Q29175 ;
+    rdfs:label "Fréchet derivative"@en .
+
+wd:Q1326365 a wd:Q1207505 ;
+    rdfs:label "elect"@en .
+
+wd:Q13365548 a wd:Q4373292 ;
+    rdfs:label "graphics display resolution"@en .
+
+wd:Q13424566 a wd:Q107715 ;
+    rdfs:label "Q13424566"^^xsd:string .
+
+wd:Q13433825 a wd:Q107715 ;
+    rdfs:label "emotional quotient"@en .
+
+wd:Q13446392 a wd:Q107715 ;
+    rdfs:label "buffer capacity"@en .
+
+wd:Q13895363 a wd:Q309314 ;
+    rdfs:label "Q13895363"^^xsd:string .
+
+wd:Q1396651 a wd:Q4373292 ;
+    rdfs:label "infrared excess"@en .
+
+wd:Q1399774 a wd:Q1207505 ;
+    rdfs:label "tautonym"@en .
+
+wd:Q1469792 a wd:Q1207505 ;
+    rdfs:label "salience"@en .
+
+wd:Q14849087 a wd:Q1207505 ;
+    rdfs:label "anthophore"@en .
+
+wd:Q14853032 a wd:Q1207505 ;
+    rdfs:label "androphore"@en .
+
+wd:Q15230792 a wd:Q107715 ;
+    rdfs:label "intrinsic brightness"@en .
+
+wd:Q15303501 a wd:Q1207505 ;
+    rdfs:label "secularity"@en .
+
+wd:Q1540011 a wd:Q4373292 ;
+    rdfs:label "specific storage"@en .
+
+wd:Q1558457 a wd:Q1207505 ;
+    rdfs:label "gynophore"@en .
+
+wd:Q1571795 a wd:Q1207505 ;
+    rdfs:label "precocial"@en .
+
+wd:Q159190 a wd:Q107715 ;
+    rdfs:label "amplitude"@en .
+
+wd:Q1634808 rdfs:label "equivalent airspeed"@en ;
+    rdfs:subClassOf wd:Q2356944 .
+
+wd:Q164359 a wd:Q1207505 ;
+    rdfs:label "experience"@en .
+
+wd:Q165074 a wd:Q107715 ;
+    rdfs:label "parallax"@en .
+
+wd:Q1660327 a wd:Q1207505 ;
+    rdfs:label "impertinence"@en .
+
+wd:Q16635541 a wd:Q4373292 ;
+    rdfs:label "absorptance"@en .
+
+wd:Q1670965 a wd:Q1207505 ;
+    rdfs:label "toe"@en .
+
+wd:Q16719623 a wd:Q107715 ;
+    rdfs:label "Q16719623"^^xsd:string .
+
+wd:Q16722198 a wd:Q1207505 ;
+    rdfs:label "Q16722198"^^xsd:string .
+
+wd:Q1681936 a wd:Q1207505 ;
+    rdfs:label "washfastness"@en .
+
+wd:Q17103104 a wd:Q4373292 ;
+    rdfs:label "Mandel Q Parameter"@en .
+
+wd:Q17121302 a wd:Q107715 ;
+    rdfs:label "Wigner–Seitz radius"@en .
+
+wd:Q1726864 a wd:Q1207505 ;
+    rdfs:label "sentimentality"@en .
+
+wd:Q17334923 a wd:Q4373292 ;
+    rdfs:label "location"@en .
+
+wd:Q1736449 a wd:Q1207505 ;
+    rdfs:label "Q1736449"^^xsd:string .
+
+wd:Q1737958 a wd:Q107715 ;
+    rdfs:label "Germination rate"@en .
+
+wd:Q1754278 a wd:Q1207505 ;
+    rdfs:label "referential transparency"@en .
+
+wd:Q1784114 rdfs:label "true airspeed"@en ;
+    rdfs:subClassOf wd:Q1197176 .
+
+wd:Q1789144 a wd:Q1207505 ;
+    rdfs:label "crystalline"@en .
+
+wd:Q179615 a wd:Q4373292 ;
+    rdfs:label "salinity"@en .
+
+wd:Q1810799 a wd:Q1207505 ;
+    rdfs:label "Q1810799"^^xsd:string .
+
+wd:Q18208100 a wd:Q1207505 ;
+    rdfs:label "instrumental convergence"@en .
+
+wd:Q1825273 a wd:Q1207505 ;
+    rdfs:label "leptosome"@en .
+
+wd:Q18352621 a wd:Q4373292 ;
+    rdfs:label "Antifragility"@en .
+
+wd:Q18408015 a wd:Q107715 ;
+    rdfs:label "Q18408015"^^xsd:string .
+
+wd:Q18435276 a wd:Q1207505 ;
+    rdfs:label "Q18435276"^^xsd:string .
+
+wd:Q18564568 a wd:Q107715 ;
+    rdfs:label "optical permeability"@en .
+
+wd:Q18757 a wd:Q1207505 ;
+    rdfs:label "validity"@en .
+
+wd:Q1884383 a wd:Q4373292 ;
+    rdfs:label "Tunnel magnetoresistance"@en .
+
+wd:Q189623 a wd:Q107715 ;
+    rdfs:label "zenithal hourly rate"@en .
+
+wd:Q190489 a wd:Q1207505 ;
+    rdfs:label "evergreen plant"@en .
+
+wd:Q1907514 a wd:Q1207505 ;
+    rdfs:label "area density"@en .
+
+wd:Q191903 a wd:Q1207505 ;
+    rdfs:label "autocephaly"@en .
+
+wd:Q192905 a wd:Q4373292 ;
+    rdfs:label "water hardness"@en .
+
+wd:Q1934745 a wd:Q1207505 ;
+    rdfs:label "keyboard expression"@en .
+
+wd:Q19702860 a wd:Q107715,
+        wd:Q29175 ;
+    rdfs:label "Q19702860"^^xsd:string .
+
+wd:Q1975498 a wd:Q1207505 ;
+    rdfs:label "Q1975498"^^xsd:string .
+
+wd:Q19967663 a wd:Q107715 ;
+    rdfs:label "shear"@en .
+
+wd:Q1999273 a wd:Q1207505 ;
+    rdfs:label "value-fixed"@en .
+
+wd:Q20057856 a wd:Q107715 ;
+    rdfs:label "Q20057856"^^xsd:string .
+
+wd:Q20058241 a wd:Q1144560 ;
+    rdfs:label "Q20058241"^^xsd:string .
+
+wd:Q2031181 a wd:Q107715 ;
+    rdfs:label "Hubble's constant"@en .
+
+wd:Q205880 a wd:Q107715 ;
+    rdfs:label "circulation (fluid dynamics)"@en .
+
+wd:Q20742557 a wd:Q1207505 ;
+    rdfs:label "permanence"@en .
+
+wd:Q21012180 a wd:Q1207505 ;
+    rdfs:label "quality of life"@en .
+
+wd:Q21013875 a wd:Q107715 ;
+    rdfs:label "Q21013875"^^xsd:string .
+
+wd:Q210521 a wd:Q4373292 ;
+    rdfs:label "image resolution"@en .
+
+wd:Q21087551 a wd:Q1144560 ;
+    rdfs:label "Q21087551"^^xsd:string .
+
+wd:Q21159976 a wd:Q1207505 ;
+    rdfs:label "practicality"@en .
+
+wd:Q2133472 a wd:Q107715 ;
+    rdfs:label "spectral flatness"@en .
+
+wd:Q2136251 a wd:Q1207505 ;
+    rdfs:label "Q2136251"^^xsd:string .
+
+wd:Q2142347 a wd:Q107715 ;
+    rdfs:label "environmental factor"@en .
+
+wd:Q215067 a wd:Q1207505 ;
+    rdfs:label "orthogonality"@en .
+
+wd:Q21652129 a wd:Q107715 ;
+    rdfs:label "Gravitational field strength"@en .
+
+wd:Q217030 a wd:Q4373292 ;
+    rdfs:label "metallicity"@en .
+
+wd:Q2175596 a wd:Q1207505 ;
+    rdfs:label "compatibility"@en .
+
+wd:Q219416 a wd:Q1207505 ;
+    rdfs:label "sustainability"@en .
+
+wd:Q2244324 a wd:Q107715 ;
+    rdfs:label "Q2244324"^^xsd:string .
+
+wd:Q2266743 a wd:Q29175 ;
+    rdfs:label "areal velocity"@en .
+
+wd:Q22770823 a wd:Q107715 ;
+    rdfs:label "Q22770823"^^xsd:string .
+
+wd:Q2301186 a wd:Q1207505 ;
+    rdfs:label "necessity"@en .
+
+wd:Q2304620 a wd:Q1207505 ;
+    rdfs:label "bistability"@en .
+
+wd:Q2305173 a wd:Q4373292 ;
+    rdfs:label "chirality"@en .
+
+wd:Q2360634 a wd:Q1207505 ;
+    rdfs:label "immunity"@en .
+
+wd:Q23670522 a wd:Q1207505 ;
+    rdfs:label "recency"@en .
+
+wd:Q2367078 a wd:Q1207505 ;
+    rdfs:label "Q2367078"^^xsd:string .
+
+wd:Q2379153 a wd:Q203066 ;
+    rdfs:label "congenic organisms"@en .
+
+wd:Q2379408 a wd:Q107715 ;
+    rdfs:label "Q2379408"^^xsd:string .
+
+wd:Q24055197 a wd:Q1207505 ;
+    rdfs:label "sufficiency"@en .
+
+wd:Q2423940 a wd:Q107715 ;
+    rdfs:label "Q2423940"^^xsd:string .
+
+wd:Q24249439 a wd:Q1207505 ;
+    rdfs:label "slowness"@en .
+
+wd:Q2464310 a wd:Q1207505 ;
+    rdfs:label "pycnique"@en .
+
+wd:Q2468712 rdfs:label "indicated airspeed"@en ;
+    rdfs:subClassOf wd:Q1197176 .
+
+wd:Q24713391 a wd:Q29175 ;
+    rdfs:label "beta-Clovene"@en .
+
+wd:Q24714833 a wd:Q107715 ;
+    rdfs:label "volatile random-access memory capacity"@en .
+
+wd:Q2476929 a wd:Q1207505 ;
+    rdfs:label "confidentiality"@en .
+
+wd:Q250692 a wd:Q1207505 ;
+    rdfs:label "cauliflory"@en .
+
+wd:Q2515622 a wd:Q1207505 ;
+    rdfs:label "constitutionality"@en .
+
+wd:Q2526778 a wd:Q1207505 ;
+    rdfs:label "Q2526778"^^xsd:string .
+
+wd:Q2534066 a wd:Q1207505 ;
+    rdfs:label "predictability"@en .
+
+wd:Q2549104 a wd:Q1207505 ;
+    rdfs:label "basilical"@en .
+
+wd:Q255119 a wd:Q107715 ;
+    rdfs:label "Änderungsrate"@en .
+
+wd:Q2555508 a wd:Q107715 ;
+    rdfs:label "topness"@en .
+
+wd:Q256699 a wd:Q4373292 ;
+    rdfs:label "permeability"@en .
+
+wd:Q25906188 a wd:Q107715 ;
+    rdfs:label "arid capacity"@en .
+
+wd:Q25931851 a wd:Q1207505 ;
+    rdfs:label "software freedom"@en .
+
+wd:Q2593282 a wd:Q4373292 ;
+    rdfs:label "Antiferroelectricity"@en .
+
+wd:Q2615093 a wd:Q1207505 ;
+    rdfs:label "multi dimensional"@en .
+
+wd:Q2623005 a wd:Q107715 ;
+    rdfs:label "spacetime interval"@en .
+
+wd:Q2634569 a wd:Q1207505 ;
+    rdfs:label "Q2634569"^^xsd:string .
+
+wd:Q2644277 a wd:Q1207505 ;
+    rdfs:label "complementarity"@en .
+
+wd:Q2645905 a wd:Q1207505 ;
+    rdfs:label "Q2645905"^^xsd:string .
+
+wd:Q26534 a wd:Q309314 ;
+    rdfs:label "water footprint"@en .
+
+wd:Q2657215 a wd:Q1207505 ;
+    rdfs:label "offscreen"@en .
+
+wd:Q27768121 a wd:Q1207505 ;
+    rdfs:label "bilaterally"@en .
+
+wd:Q2783041 a wd:Q4373292 ;
+    rdfs:label "hydraulic conductivity"@en .
+
+wd:Q28146413 a wd:Q107715 ;
+    rdfs:label "Q28146413"^^xsd:string .
+
+wd:Q2822691 a wd:Q1207505 ;
+    rdfs:label "walkability"@en .
+
+wd:Q28529973 a wd:Q3711325 ;
+    rdfs:label "at rest"@en .
+
+wd:Q2882255 a wd:Q1144560 ;
+    rdfs:label "Tasa de Esquilache"@en .
+
+wd:Q28949586 a wd:Q203066 ;
+    rdfs:label "evolutionary similarity of species"@en .
+
+wd:Q29856937 a wd:Q107715 ;
+    rdfs:label "Q29856937"^^xsd:string .
+
+wd:Q2989745 a wd:Q107715 ;
+    rdfs:label "Q2989745"^^xsd:string .
+
+wd:Q30601968 a wd:Q107715 ;
+    rdfs:label "color index"@en .
+
+wd:Q3080293 a wd:Q107715 ;
+    rdfs:label "isotope fractionation"@en .
+
+wd:Q3080428 a wd:Q1207505 ;
+    rdfs:label "Software portability"@en .
+
+wd:Q309017 a wd:Q4373292 ;
+    rdfs:label "electrical conductance"@en .
+
+wd:Q3113318 a wd:Q1207505 ;
+    rdfs:label "valence"@en .
+
+wd:Q3198926 a wd:Q107715 ;
+    rdfs:label "Q3198926"^^xsd:string .
+
+wd:Q32032 a wd:Q107715 ;
+    rdfs:label "net"@en .
+
+wd:Q3217120 a wd:Q107715 ;
+    rdfs:label "Q3217120"^^xsd:string .
+
+wd:Q3246828 a wd:Q1207505 ;
+    rdfs:label "Trustworthiness"@en .
+
+wd:Q3257842 a wd:Q4373292 ;
+    rdfs:label "logD"@en .
+
+wd:Q3326349 a wd:Q1207505 ;
+    rdfs:label "lyricism"@en .
+
+wd:Q333712 a wd:Q1207505 ;
+    rdfs:label "statically indeterminate"@en .
+
+wd:Q3363554 a wd:Q4373292 ;
+    rdfs:label "deceleration parameter"@en .
+
+wd:Q3384500 a wd:Q1207505 ;
+    rdfs:label "Q3384500"^^xsd:string .
+
+wd:Q340015 a wd:Q1207505 ;
+    rdfs:label "deixis"@en .
+
+wd:Q3419689 a wd:Q4373292 ;
+    rdfs:label "mass-to-light ratio"@en .
+
+wd:Q3447366 a wd:Q107715 ;
+    rdfs:label "Q3447366"^^xsd:string .
+
+wd:Q345367 a wd:Q1207505 ;
+    rdfs:label "social"@en .
+
+wd:Q3495388 a wd:Q4373292 ;
+    rdfs:label "Q3495388"^^xsd:string .
+
+wd:Q3496813 a wd:Q1144560 ;
+    rdfs:label "CAIDI"@en .
+
+wd:Q350205 a wd:Q107715 ;
+    rdfs:label "income"@en .
+
+wd:Q3503313 a wd:Q4373292 ;
+    rdfs:label "power density"@en .
+
+wd:Q3509975 a wd:Q1207505 ;
+    rdfs:label "in memoriam"@en .
+
+wd:Q3564806 a wd:Q107715 ;
+    rdfs:label "Q3564806"^^xsd:string .
+
+wd:Q356865 a wd:Q4373292 ;
+    rdfs:label "adiabasie"@en .
+
+wd:Q369992 a wd:Q1144560 ;
+    rdfs:label "Q369992"^^xsd:string .
+
+wd:Q373805 a wd:Q1207505 ;
+    rdfs:label "in-system programming"@en .
+
+wd:Q381437 a wd:Q1207505 ;
+    rdfs:label "aerodynamic diameter"@en .
+
+wd:Q38198189 a wd:Q1207505 ;
+    rdfs:label "creepiness"@en .
+
+wd:Q382783 a wd:Q107715 ;
+    rdfs:label "chemical affinity"@en .
+
+wd:Q384871 a wd:Q1207505 ;
+    rdfs:label "availability"@en .
+
+wd:Q3879445 a wd:Q107715 ;
+    rdfs:label "spin quantum number"@en .
+
+wd:Q3900742 a wd:Q4373292 ;
+    rdfs:label "formula weight"@en .
+
+wd:Q39076312 a wd:Q107715 ;
+    rdfs:label "Q39076312"^^xsd:string .
+
+wd:Q39086064 a wd:Q1207505 ;
+    rdfs:label "breakup song"@en .
+
+wd:Q3937033 a wd:Q1207505 ;
+    rdfs:label "measurement resolution"@en .
+
+wd:Q3983428 a wd:Q4373292 ;
+    rdfs:label "tenebrescence"@en .
+
+wd:Q4016091 a wd:Q4373292 ;
+    rdfs:label "Q4016091"^^xsd:string .
+
+wd:Q41853520 a wd:Q4373292 ;
+    rdfs:label "hydrophilicity"@en .
+
+wd:Q41854968 a wd:Q4373292 ;
+    rdfs:label "hydrophobicity"@en .
+
+wd:Q4227664 a wd:Q107715 ;
+    rdfs:label "vibrational speed"@en .
+
+wd:Q42295772 a wd:Q1207505 ;
+    rdfs:label "adaption"@en .
+
+wd:Q423495 a wd:Q1207505 ;
+    rdfs:label "actuality"@en .
+
+wd:Q4367950 a wd:Q4373292 ;
+    rdfs:label "Q4367950"^^xsd:string .
+
+wd:Q45171911 a wd:Q1207505 ;
+    rdfs:label "passes the Bechdel Test"@en .
+
+wd:Q45172088 a wd:Q1207505 ;
+    rdfs:label "fails the Bechdel Test"@en .
+
+wd:Q4530817 a wd:Q107715 ;
+    rdfs:label "Q4530817"^^xsd:string .
+
+wd:Q4538627 a wd:Q4373292 ;
+    rdfs:label "brightness temperature"@en .
+
+wd:Q461671 a wd:Q1207505 ;
+    rdfs:label "data integrity"@en .
+
+wd:Q4669819 a wd:Q107715 ;
+    rdfs:label "absolute molar mass"@en .
+
+wd:Q4669873 a wd:Q1207505 ;
+    rdfs:label "absoluteness"@en .
+
+wd:Q47001369 a wd:Q1207505 ;
+    rdfs:label "impermanence"@en .
+
+wd:Q47455763 a wd:Q1207505 ;
+    rdfs:label "pleasantness"@en .
+
+wd:Q47455774 a wd:Q1207505 ;
+    rdfs:label "unpleasantness"@en .
+
+wd:Q47455943 a wd:Q1207505 ;
+    rdfs:label "qualitativeness"@en .
+
+wd:Q47455945 a wd:Q1207505 ;
+    rdfs:label "quantitativeness"@en .
+
+wd:Q4769688 a wd:Q107715 ;
+    rdfs:label "Annual fuel utilization efficiency"@en .
+
+wd:Q4770819 a wd:Q1207505 ;
+    rdfs:label "answer song"@en .
+
+wd:Q4810714 a wd:Q1207505 ;
+    rdfs:label "Q4810714"^^xsd:string .
+
+wd:Q48469016 a wd:Q4373292 ;
+    rdfs:label "internal pressure"@en .
+
+wd:Q491774 a wd:Q107715 ;
+    rdfs:label "tonnage"@en .
+
+wd:Q497332 a wd:Q29175 ;
+    rdfs:label "jerk"@en .
+
+wd:Q4993710 a wd:Q1207505 ;
+    rdfs:label "notability"@en .
+
+wd:Q50315879 a wd:Q1207505 ;
+    rdfs:label "diademed head"@en .
+
+wd:Q5046374 a wd:Q107715 ;
+    rdfs:label "Carrier lifetime"@en .
+
+wd:Q512136 a wd:Q1207505 ;
+    rdfs:label "linear phase"@en .
+
+wd:Q512392 a wd:Q1207505 ;
+    rdfs:label "androgynophore"@en .
+
+wd:Q51379 a wd:Q1207505 ;
+    rdfs:label "proportionality"@en .
+
+wd:Q5156150 a wd:Q1207505 ;
+    rdfs:label "compatibility"@en .
+
+wd:Q5156153 a wd:Q1207505 ;
+    rdfs:label "compatibility"@en .
+
+wd:Q522344 a wd:Q309314 ;
+    rdfs:label "score"@en .
+
+wd:Q54031484 a wd:Q309314 ;
+    rdfs:label "chromosome number"@en .
+
+wd:Q54235419 a wd:Q4373292 ;
+    rdfs:label "charge distribution"@en .
+
+wd:Q5459047 a wd:Q4373292 ;
+    rdfs:label "flexural modulus"@en .
+
+wd:Q55433472 a wd:Q1207505 ;
+    rdfs:label "sharpness"@en .
+
+wd:Q5604179 a wd:Q107715 ;
+    rdfs:label "bottomness"@en .
+
+wd:Q5609556 a wd:Q4373292 ;
+    rdfs:label "grip"@en .
+
+wd:Q56297898 a wd:Q107715 ;
+    rdfs:label "nuclear reaction rate"@en .
+
+wd:Q5658243 a wd:Q1207505 ;
+    rdfs:label "Roman adoption"@en .
+
+wd:Q5674297 a wd:Q1207505 ;
+    rdfs:label "adaptability"@en .
+
+wd:Q568855 a wd:Q107715 ;
+    rdfs:label "helicity"@en .
+
+wd:Q5693253 a wd:Q107715 ;
+    rdfs:label "heat capacity rate"@en .
+
+wd:Q569389 a wd:Q1144560 ;
+    rdfs:label "words per minute"@en .
+
+wd:Q57173735 a wd:Q1207505 ;
+    rdfs:label "education"@en .
+
+wd:Q574291 a wd:Q1207505 ;
+    rdfs:label "backlight"@en .
+
+wd:Q57594575 a wd:Q4373292 ;
+    rdfs:label "flexural strain at break"@en .
+
+wd:Q58209506 a wd:Q1207505 ;
+    rdfs:label "comic"@en .
+
+wd:Q582695 a wd:Q44528 ;
+    rdfs:label "displacement"@en .
+
+wd:Q58482124 a wd:Q4373292 ;
+    rdfs:label "crispy"@en .
+
+wd:Q58483041 a wd:Q1207505 ;
+    rdfs:label "fails the reverse Bechdel test"@en .
+
+wd:Q58483045 a wd:Q1207505 ;
+    rdfs:label "passes the reverse Bechdel Test"@en .
+
+wd:Q59325137 a wd:Q4373292 ;
+    rdfs:label "Oil stability"@en .
+
+wd:Q59344393 a wd:Q1207505 ;
+    rdfs:label "neurodivergent"@en .
+
+wd:Q60528728 a wd:Q1207505 ;
+    rdfs:label "undesirability"@en .
+
+wd:Q60617645 a wd:Q1207505 ;
+    rdfs:label "desirability"@en .
+
+wd:Q60642587 a wd:Q1207505 ;
+    rdfs:label "Monolithity"@en .
+
+wd:Q60809954 a wd:Q1207505 ;
+    rdfs:label "single edit"@en .
+
+wd:Q60844538 a wd:Q1207505 ;
+    rdfs:label "membership"@en .
+
+wd:Q61029267 a wd:Q309314 ;
+    rdfs:label "rest of the world"@en .
+
+wd:Q62692343 a wd:Q1207505 ;
+    rdfs:label "Aqua"@en .
+
+wd:Q62692345 a wd:Q1207505 ;
+    rdfs:label "Beast"@en .
+
+wd:Q62692347 a wd:Q1207505 ;
+    rdfs:label "Beast-Warrior"@en .
+
+wd:Q62692348 a wd:Q1207505 ;
+    rdfs:label "Charisma"@en .
+
+wd:Q62692350 a wd:Q1207505 ;
+    rdfs:label "Creator God"@en .
+
+wd:Q62692351 a wd:Q1207505 ;
+    rdfs:label "Cyberse"@en .
+
+wd:Q62692353 a wd:Q1207505 ;
+    rdfs:label "Dinosaur"@en .
+
+wd:Q62692355 a wd:Q1207505 ;
+    rdfs:label "Divine-Beast"@en .
+
+wd:Q62692357 a wd:Q1207505 ;
+    rdfs:label "Dragon"@en .
+
+wd:Q62692359 a wd:Q1207505 ;
+    rdfs:label "Fairy"@en .
+
+wd:Q62692361 a wd:Q1207505 ;
+    rdfs:label "Fiend"@en .
+
+wd:Q62692362 a wd:Q1207505 ;
+    rdfs:label "Fish"@en .
+
+wd:Q62692364 a wd:Q1207505 ;
+    rdfs:label "Insect"@en .
+
+wd:Q62692366 a wd:Q1207505 ;
+    rdfs:label "Machine"@en .
+
+wd:Q62692367 a wd:Q1207505 ;
+    rdfs:label "Plant"@en .
+
+wd:Q62692369 a wd:Q1207505 ;
+    rdfs:label "Psychic"@en .
+
+wd:Q62692370 a wd:Q1207505 ;
+    rdfs:label "Pyro"@en .
+
+wd:Q62692372 a wd:Q1207505 ;
+    rdfs:label "Reptile"@en .
+
+wd:Q62692374 a wd:Q1207505 ;
+    rdfs:label "Rock"@en .
+
+wd:Q62692376 a wd:Q1207505 ;
+    rdfs:label "Sea Serpent"@en .
+
+wd:Q62692377 a wd:Q1207505 ;
+    rdfs:label "Spellcaster"@en .
+
+wd:Q62692379 a wd:Q1207505 ;
+    rdfs:label "Thunder"@en .
+
+wd:Q62692380 a wd:Q1207505 ;
+    rdfs:label "Warrior"@en .
+
+wd:Q62692382 a wd:Q1207505 ;
+    rdfs:label "Winged Beast"@en .
+
+wd:Q62692384 a wd:Q1207505 ;
+    rdfs:label "Wyrm"@en .
+
+wd:Q62692387 a wd:Q1207505 ;
+    rdfs:label "Zombie"@en .
+
+wd:Q62692389 a wd:Q1207505 ;
+    rdfs:label "Black Magic"@en .
+
+wd:Q62692390 a wd:Q1207505 ;
+    rdfs:label "Dragon Magic"@en .
+
+wd:Q62692393 a wd:Q1207505 ;
+    rdfs:label "Human"@en .
+
+wd:Q62692394 a wd:Q1207505 ;
+    rdfs:label "Illusion Magic"@en .
+
+wd:Q62692396 a wd:Q1207505 ;
+    rdfs:label "Immortal"@en .
+
+wd:Q62692398 a wd:Q1207505 ;
+    rdfs:label "Sea Beast"@en .
+
+wd:Q62692400 a wd:Q1207505 ;
+    rdfs:label "White Magic"@en .
+
+wd:Q62692402 a wd:Q1207505 ;
+    rdfs:label "Yokai"@en .
+
+wd:Q63435238 a wd:Q1207505 ;
+    rdfs:label "Lenovo Battery Safeguard"@en .
+
+wd:Q63441625 a wd:Q1207505 ;
+    rdfs:label "giantness"@en .
+
+wd:Q63441638 a wd:Q1207505 ;
+    rdfs:label "dwarfness"@en .
+
+wd:Q639219 a wd:Q1207505 ;
+    rdfs:label "Theory of mind"@en .
+
+wd:Q64144036 a wd:Q1207505 ;
+    rdfs:label "hypertonicity"@en .
+
+wd:Q64214393 a wd:Q1207505 ;
+    rdfs:label "crewed"@en .
+
+wd:Q64214395 a wd:Q1207505 ;
+    rdfs:label "uncrewed"@en .
+
+wd:Q647631 a wd:Q107715 ;
+    rdfs:label "constant of motion"@en .
+
+wd:Q64876327 a wd:Q107715 ;
+    rdfs:label "vertical separation"@en .
+
+wd:Q65015417 a wd:Q1207505 ;
+    rdfs:label "onscreen"@en .
+
+wd:Q655288 a wd:Q203066 ;
+    rdfs:label "set membership"@en .
+
+wd:Q65555649 a wd:Q1207505 ;
+    rdfs:label "Q65555649"^^xsd:string .
+
+wd:Q657009 a wd:Q44528 ;
+    rdfs:label "wave vector"@en .
+
+wd:Q65924966 a wd:Q1207505 ;
+    rdfs:label "bishop-elect"@en .
+
+wd:Q65965582 a wd:Q1207505 ;
+    rdfs:label "reusability"@en .
+
+wd:Q65965618 a wd:Q1207505 ;
+    rdfs:label "disposability"@en .
+
+wd:Q66033606 a wd:Q4373292 ;
+    rdfs:label "undyed"@en .
+
+wd:Q66061119 a wd:Q309314 ;
+    rdfs:label "contact area count"@en .
+
+wd:Q66417512 a wd:Q203066 ;
+    rdfs:label "Q66417512"^^xsd:string .
+
+wd:Q66458973 a wd:Q1207505 ;
+    rdfs:label "absoluteness"@en .
+
+wd:Q66999058 a wd:Q1207505 ;
+    rdfs:label "fugitive"@en .
+
+wd:Q67085833 a wd:Q1207505 ;
+    rdfs:label "colored vinyl"@en .
+
+wd:Q67175826 a wd:Q1207505 ;
+    rdfs:label "extended mix / long version"@en .
+
+wd:Q67203587 a wd:Q1207505 ;
+    rdfs:label "unidirectionality"@en .
+
+wd:Q67203605 a wd:Q1207505 ;
+    rdfs:label "bidrectionality"@en .
+
+wd:Q68015325 a wd:Q1207505 ;
+    rdfs:label "portability"@en .
+
+wd:Q688615 a wd:Q1207505 ;
+    rdfs:label "world record"@en .
+
+wd:Q69349638 a wd:Q1207505 ;
+    rdfs:label "dissected"@en .
+
+wd:Q69428534 a wd:Q107715 ;
+    rdfs:label "x-ray exposure"@en .
+
+wd:Q69428825 a wd:Q107715 ;
+    rdfs:label "gamma-ray exposure"@en .
+
+wd:Q69429678 a wd:Q107715 ;
+    rdfs:label "catalytic activity concentration"@en .
+
+wd:Q70326764 a wd:Q1207505 ;
+    rdfs:label "unsentimentality"@en .
+
+wd:Q70761814 a wd:Q1207505 ;
+    rdfs:label "argumentativeness"@en .
+
+wd:Q7115956 a wd:Q107715 ;
+    rdfs:label "oxygen permeability"@en .
+
+wd:Q72221057 a wd:Q1207505 ;
+    rdfs:label "discreteness"@en .
+
+wd:Q7231329 a wd:Q1207505 ;
+    rdfs:label "portability"@en .
+
+wd:Q72402173 a wd:Q1207505 ;
+    rdfs:label "white background"@en .
+
+wd:Q725744 a wd:Q1207505 ;
+    rdfs:label "keyboard layout"@en .
+
+wd:Q72610653 a wd:Q1207505 ;
+    rdfs:label "usefullness"@en .
+
+wd:Q7265671 a wd:Q107715 ;
+    rdfs:label "Q value"@en .
+
+wd:Q727490 a wd:Q1207505 ;
+    rdfs:label "scalability"@en .
+
+wd:Q7316334 a wd:Q1207505 ;
+    rdfs:label "restrictiveness"@en .
+
+wd:Q73204959 a wd:Q1207505 ;
+    rdfs:label "instrumentality"@en .
+
+wd:Q735075 a wd:Q107715 ;
+    rdfs:label "self-information"@en .
+
+wd:Q736895 a wd:Q309314 ;
+    rdfs:label "compressibility factor"@en .
+
+wd:Q739293 a wd:Q4373292 ;
+    rdfs:label "barotropic fluid"@en .
+
+wd:Q7451189 a wd:Q1207505 ;
+    rdfs:label "sentence arrangement"@en .
+
+wd:Q74550585 a wd:Q1207505 ;
+    rdfs:label "non-album track"@en .
+
+wd:Q74551327 a wd:Q1207505 ;
+    rdfs:label "album version"@en .
+
+wd:Q757277 a wd:Q29175 ;
+    rdfs:label "crackle"@en .
+
+wd:Q7696811 a wd:Q1207505 ;
+    rdfs:label "telescoping"@en .
+
+wd:Q777830 a wd:Q107715 ;
+    rdfs:label "Q777830"^^xsd:string .
+
+wd:Q7785054 a wd:Q29175 ;
+    rdfs:label "third derivative"@en .
+
+wd:Q7833972 a wd:Q107715 ;
+    rdfs:label "Transepidermal water loss"@en .
+
+wd:Q78532896 a wd:Q203066 ;
+    rdfs:label "adjacency"@en .
+
+wd:Q81614 a wd:Q1207505 ;
+    rdfs:label "hypergolic propellant"@en .
+
+wd:Q81945865 a wd:Q1207505 ;
+    rdfs:label "multi-disc album format"@en .
+
+wd:Q8235394 a wd:Q107715 ;
+    rdfs:label "Q8235394"^^xsd:string .
+
+wd:Q82785806 a wd:Q1207505 ;
+    rdfs:label "propensity"@en .
+
+wd:Q83781188 a wd:Q1207505 ;
+    rdfs:label "Q83781188"^^xsd:string .
+
+wd:Q84426668 a wd:Q1207505 ;
+    rdfs:label "harmfulness"@en .
+
+wd:Q84427501 a wd:Q1207505 ;
+    rdfs:label "harmlessness"@en .
+
+wd:Q844840 a wd:Q4373292 ;
+    rdfs:label "spin-transfer torque"@en .
+
+wd:Q84944905 a wd:Q1207505 ;
+    rdfs:label "NSFW Steam game"@en .
+
+wd:Q8535828 a wd:Q107715 ;
+    rdfs:label "Q8535828"^^xsd:string .
+
+wd:Q854659 a wd:Q107715 ;
+    rdfs:label "gain"@en .
+
+wd:Q857201 a wd:Q4373292 ;
+    rdfs:label "flexural strength"@en .
+
+wd:Q858318 a wd:Q4373292 ;
+    rdfs:label "pyroelectricity"@en .
+
+wd:Q859031 a wd:Q107715 ;
+    rdfs:label "stimulus"@en .
+
+wd:Q85940254 a wd:Q1207505 ;
+    rdfs:label "Unclaimed"@en .
+
+wd:Q85940461 a wd:Q1207505 ;
+    rdfs:label "Asking for reviews"@en .
+
+wd:Q85940818 a wd:Q1207505 ;
+    rdfs:label "Claimed"@en .
+
+wd:Q877945 a wd:Q1207505 ;
+    rdfs:label "recursive set"@en .
+
+wd:Q889514 a wd:Q107715 ;
+    rdfs:label "crop yield"@en .
+
+wd:Q898401 a wd:Q4373292 ;
+    rdfs:label "lipophilicity"@en .
+
+wd:Q898797 a wd:Q4373292 ;
+    rdfs:label "partition coefficient"@en .
+
+wd:Q899046 a wd:Q107715 ;
+    rdfs:label "Extent of reaction"@en .
+
+wd:Q899138 a wd:Q203066 ;
+    rdfs:label "mass fraction"@en .
+
+wd:Q900522 a wd:Q107715 ;
+    rdfs:label "ozone depletion potential"@en .
+
+wd:Q901028 a wd:Q107715 ;
+    rdfs:label "global warming potential"@en .
+
+wd:Q902301 a wd:Q107715 ;
+    rdfs:label "Multiplicity"@en .
+
+wd:Q907364 a wd:Q4373292 ;
+    rdfs:label "polymorphism"@en .
+
+wd:Q907564 a wd:Q4373292 ;
+    rdfs:label "electrolytic conductivity"@en .
+
+wd:Q9086319 a wd:Q1207505 ;
+    rdfs:label "Terribilità"@en .
+
+wd:Q908990 a wd:Q4373292 ;
+    rdfs:label "volatility"@en .
+
+wd:Q909369 a wd:Q1207505 ;
+    rdfs:label "lightfastness"@en .
+
+wd:Q911138 a wd:Q1207505 ;
+    rdfs:label "thickener"@en .
+
+wd:Q912009 a wd:Q1207505 ;
+    rdfs:label "modularity"@en .
+
+wd:Q962365 a wd:Q1207505 ;
+    rdfs:label "precision"@en .
+
+wd:Q971246 a wd:Q1207505 ;
+    rdfs:label "Synteny"@en .
+
+wd:Q2356944 rdfs:label "calibrated airspeed"@en ;
+    rdfs:subClassOf wd:Q1197176 .
+
+wd:Q3387041 rdfs:label "intensive quantity"@en ;
+    rdfs:subClassOf wd:Q107715 .
+
+wd:Q71550118 rdfs:label "individual quantity"@en .
+
+wd:Q13471665 rdfs:label "vector"@en .
+
+wd:Q3711325 rdfs:label "speed"@en ;
+    rdfs:subClassOf wd:Q107715,
+        wd:Q1144560,
+        wd:Q3387041,
+        wd:Q44528 .
+
+wd:Q1197176 rdfs:label "airspeed"@en ;
+    rdfs:subClassOf wd:Q3711325 .
+
+wd:Q44528 rdfs:label "Euclidean vector"@en ;
+    rdfs:subClassOf wd:Q13471665 .
+
+wd:Q203066 rdfs:label "relation"@en .
+
+wd:Q1144560 rdfs:label "rate"@en ;
+    rdfs:subClassOf wd:Q1207505,
+        wd:Q203066,
+        wd:Q29175 .
+
+wd:Q29175 rdfs:label "derivative"@en .
+
+wd:Q309314 rdfs:label "quantity"@en .
+
+wd:Q4373292 rdfs:label "physical property"@en .
+
+wd:Q107715 rdfs:label "physical quantity"@en ;
+    rdfs:subClassOf wd:Q309314,
+        wd:Q4373292,
+        wd:Q71550118 .
+
+wd:Q1207505 rdfs:label "quality"@en .
+

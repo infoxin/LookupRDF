@@ -1,0 +1,6501 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1004684 a wd:Q28816538 ;
+    rdfs:label "air brake"@en .
+
+wd:Q10268819 a wd:Q28816538 ;
+    rdfs:label "Droop"@en .
+
+wd:Q10336846 a wd:Q335225 ;
+    rdfs:label "Nike"@en .
+
+wd:Q10397342 a wd:Q335225 ;
+    rdfs:label "Q10397342"^^xsd:string .
+
+wd:Q10404742 rdfs:label "Q10404742"^^xsd:string ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q10404818 rdfs:label "Q10404818"^^xsd:string ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q10423872 a wd:Q12757 ;
+    rdfs:label "Q10423872"^^xsd:string .
+
+wd:Q10465512 a wd:Q811909 ;
+    rdfs:label "DZTL"@en .
+
+wd:Q1049409 rdfs:label "Soloviev D-30"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1050411 rdfs:label "Goblin"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q1050821 rdfs:label "de Havilland Spectre"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q1052086 rdfs:label "de Havilland Gipsy Twelve"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1054063 a wd:Q28816538 ;
+    rdfs:label "non-directional beacon"@en .
+
+wd:Q1055947 a wd:Q28816538 ;
+    rdfs:label "airstair"@en .
+
+wd:Q10603928 a wd:Q811909 ;
+    rdfs:label "Nozag"@en .
+
+wd:Q10605680 a wd:Q811909 ;
+    rdfs:label "ORFS"@en .
+
+wd:Q1063245 a wd:Q28816538 ;
+    rdfs:label "identification friend or foe"@en .
+
+wd:Q1063730 a wd:Q28816538 ;
+    rdfs:label "Air data computer"@en .
+
+wd:Q1063898 a wd:Q28816538 ;
+    rdfs:label "airborne collision avoidance system"@en .
+
+wd:Q1067034 a wd:Q28816538 ;
+    rdfs:label "electronic flight instrument system"@en .
+
+wd:Q1067273 rdfs:label "Wright Cyclone series"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1067879 rdfs:label "GE Honda HF120"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q10748904 rdfs:label "Rolls-Royce RB3011"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1075763 rdfs:label "AL-7"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q1078034 rdfs:label "PowerJet SaM146"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q10839308 rdfs:label "Walter Major"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q10839341 rdfs:label "Q10839341"^^xsd:string ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q10839498 rdfs:label "Walter W-III"@en ;
+    rdfs:subClassOf wd:Q796517 .
+
+wd:Q10839507 rdfs:label "Walter W-IV"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q10854414 a wd:Q28816538 ;
+    rdfs:label "ARINC"@en .
+
+wd:Q10856821 rdfs:label "Q10856821"^^xsd:string ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q10856823 rdfs:label "Q10856823"^^xsd:string ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q10856825 rdfs:label "Wolseley Viper"@en ;
+    rdfs:subClassOf wd:Q1461826 .
+
+wd:Q108737 a wd:Q12757 ;
+    rdfs:label "nitrous oxide engine"@en .
+
+wd:Q1087856 rdfs:label "Pratt & Whitney F119"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1088161 a wd:Q811909 ;
+    rdfs:label "magnetic core"@en .
+
+wd:Q1088655 a wd:Q28816538 ;
+    rdfs:label "tiltrotor"@en .
+
+wd:Q1093806 rdfs:label "H-1"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q1093814 rdfs:label "RS-27A"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q1095278 a wd:Q28816538 ;
+    rdfs:label "Soloviev D-25"@en .
+
+wd:Q1096168 a wd:Q28816538 ;
+    rdfs:label "tailplane"@en .
+
+wd:Q1103988 a wd:Q28816538 ;
+    rdfs:label "Target Acquisition and Designation Sights, Pilot Night Vision System"@en .
+
+wd:Q1104030 a wd:Q28816538 ;
+    rdfs:label "radar altimeter"@en .
+
+wd:Q1106560 rdfs:label "Fiat A.25"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1110579 a wd:Q28816538 ;
+    rdfs:label "fuselage"@en .
+
+wd:Q11109737 rdfs:label "Hirth HM 506"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1115666 rdfs:label "Alfa Romeo D2"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q11189662 a wd:Q811909 ;
+    rdfs:label "ASSY"@en .
+
+wd:Q11191844 rdfs:label "BT-6"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q1121078 rdfs:label "Hirth HM 500"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q11228883 a wd:Q335225 ;
+    rdfs:label "LE-5A"@en .
+
+wd:Q11228886 a wd:Q335225 ;
+    rdfs:label "LE-7A"@en .
+
+wd:Q1124739 rdfs:label "General Electric F118"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q11252653 a wd:Q811909 ;
+    rdfs:label "VIL"@en .
+
+wd:Q1125439 a wd:Q28816538 ;
+    rdfs:label "conformal fuel tank"@en .
+
+wd:Q11254783 rdfs:label "IHI Corporation XF5"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q11255036 rdfs:label "YF-100"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q1128754 rdfs:label "Continental O-170"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1129471 a wd:Q28816538 ;
+    rdfs:label "T800"@en .
+
+wd:Q11312634 a wd:Q12757 ;
+    rdfs:label "Subaru EL 15"@en .
+
+wd:Q11351118 a wd:Q28816538 ;
+    rdfs:label "Rolls-Royce T406"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1135122 a wd:Q28816538 ;
+    rdfs:label "Steam aircraft"@en .
+
+wd:Q1137596 a wd:Q28816538 ;
+    rdfs:label "TERCOM"@en .
+
+wd:Q1138034 a wd:Q28816538 ;
+    rdfs:label "ground proximity warning system"@en .
+
+wd:Q1138219 a wd:Q28816538 ;
+    rdfs:label "Cowling"@en .
+
+wd:Q1138227 a wd:Q723916 ;
+    rdfs:label "Tumansky R-13"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1139832 a wd:Q28816538 ;
+    rdfs:label "Crew rest compartment"@en .
+
+wd:Q1141312 a wd:Q860308 ;
+    rdfs:label "RD-191"@en .
+
+wd:Q11481471 a wd:Q28816538 ;
+    rdfs:label "aircraft flight control system"@en .
+
+wd:Q1150030 rdfs:label "Ishikawajima-Harima F3"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1151233 a wd:Q6018565 ;
+    rdfs:label "Q1151233"^^xsd:string .
+
+wd:Q1151285 a wd:Q811909 ;
+    rdfs:label "D-Glied"@en .
+
+wd:Q1154115 a wd:Q743004 ;
+    rdfs:label "Pratt & Whitney F100"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1157611 rdfs:label "Daimler-Benz DB 604"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1157612 rdfs:label "Daimler-Benz DB 603"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1157613 rdfs:label "Daimler-Benz DB 605"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1161151 a wd:Q28816538 ;
+    rdfs:label "Unibody"@en .
+
+wd:Q1162032 rdfs:label "Rolls-Royce RB162"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q1163026 a wd:Q28816538 ;
+    rdfs:label "engine cooling radiator"@en .
+
+wd:Q1165099 a wd:Q860308 ;
+    rdfs:label "Kestrel"@en .
+
+wd:Q117000 a wd:Q12757 ;
+    rdfs:label "Mercedes-Benz OM611 engine"@en .
+
+wd:Q11700236 rdfs:label "Pratt & Whitney Canada PT6T"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1174182 rdfs:label "Fiat A.12"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q11773570 rdfs:label "Q11773570"^^xsd:string ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1179432 rdfs:label "Motorlet M-701"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q11798485 a wd:Q12757 ;
+    rdfs:label "Q11798485"^^xsd:string .
+
+wd:Q11798486 a wd:Q12757 ;
+    rdfs:label "Q11798486"^^xsd:string .
+
+wd:Q11798488 a wd:Q12757 ;
+    rdfs:label "Q11798488"^^xsd:string .
+
+wd:Q11801749 a wd:Q335225 ;
+    rdfs:label "P230"@en .
+
+wd:Q118189 rdfs:label "Piaggio P.XII"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q11833003 a wd:Q335225 ;
+    rdfs:label "Q11833003"^^xsd:string .
+
+wd:Q11833004 a wd:Q335225 ;
+    rdfs:label "RD-0109"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q1188337 rdfs:label "Ishikawajima-Harima J3"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q11903626 rdfs:label "A-7"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q11903631 a wd:Q743004 ;
+    rdfs:label "Q11903631"^^xsd:string .
+
+wd:Q11907494 a wd:Q743004 ;
+    rdfs:label "Q11907494"^^xsd:string .
+
+wd:Q11917950 a wd:Q743004 ;
+    rdfs:label "Q11917950"^^xsd:string .
+
+wd:Q11917952 a wd:Q743004 ;
+    rdfs:label "Q11917952"^^xsd:string .
+
+wd:Q1192270 a wd:Q28816538 ;
+    rdfs:label "MIL-STD-1553"@en .
+
+wd:Q11925084 a wd:Q743004 ;
+    rdfs:label "Q11925084"^^xsd:string .
+
+wd:Q11925086 a wd:Q743004 ;
+    rdfs:label "Q11925086"^^xsd:string .
+
+wd:Q11925366 a wd:Q743004 ;
+    rdfs:label "Q11925366"^^xsd:string .
+
+wd:Q11925882 a wd:Q743004 ;
+    rdfs:label "Q11925882"^^xsd:string .
+
+wd:Q11926283 a wd:Q743004 ;
+    rdfs:label "Q11926283"^^xsd:string .
+
+wd:Q11926284 a wd:Q743004 ;
+    rdfs:label "Q11926284"^^xsd:string .
+
+wd:Q1193128 a wd:Q335225 ;
+    rdfs:label "Hall effect thruster"@en .
+
+wd:Q1193142 rdfs:label "Klimov RD-33"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q11933914 a wd:Q743004 ;
+    rdfs:label "Q11933914"^^xsd:string .
+
+wd:Q11945482 a wd:Q743004 ;
+    rdfs:label "Q11945482"^^xsd:string .
+
+wd:Q11946342 a wd:Q743004 ;
+    rdfs:label "Q11946342"^^xsd:string .
+
+wd:Q11950727 a wd:Q743004 ;
+    rdfs:label "Q11950727"^^xsd:string .
+
+wd:Q12018054 rdfs:label "Q12018054"^^xsd:string ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q12018056 rdfs:label "Q12018056"^^xsd:string ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q12032838 rdfs:label "Q12032838"^^xsd:string ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q12052703 rdfs:label "ABC Gnat"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q12057226 rdfs:label "Q12057226"^^xsd:string ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q12057229 rdfs:label "Q12057229"^^xsd:string ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q12058720 rdfs:label "Gnome-Rhône 18L"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q12061158 rdfs:label "Liberty L-8"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q12061411 rdfs:label "Lycoming O-233"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q12061499 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.1"@en .
+
+wd:Q1211136 a wd:Q335225 ;
+    rdfs:label "nuclear thermal rocket"@en .
+
+wd:Q12146473 a wd:Q860308 ;
+    rdfs:label "RD-0110R"@en .
+
+wd:Q12323475 a wd:Q811909 ;
+    rdfs:label "L-3"@en .
+
+wd:Q12339344 a wd:Q12757 ;
+    rdfs:label "TiD"@en .
+
+wd:Q12379762 a wd:Q335225 ;
+    rdfs:label "11D458"@en .
+
+wd:Q12379763 rdfs:label "11D49"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q1239071 rdfs:label "Kuznetsov NK-93"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1239480 a wd:Q28816538 ;
+    rdfs:label "in-flight entertainment"@en .
+
+wd:Q1241472 a wd:Q12757 ;
+    rdfs:label "Q1241472"^^xsd:string .
+
+wd:Q1243255 a wd:Q28816538 ;
+    rdfs:label "Tandem rotors"@en .
+
+wd:Q124366 a wd:Q811909 ;
+    rdfs:label "brake shoe"@en .
+
+wd:Q1243833 a wd:Q28816538 ;
+    rdfs:label "airplane mode"@en .
+
+wd:Q1244091 a wd:Q723916 ;
+    rdfs:label "Rybinsk RD-41"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1244829 rdfs:label "Tumansky R-25"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1256967 rdfs:label "RD-58"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q12578014 a wd:Q811909 ;
+    rdfs:label "Q12578014"^^xsd:string .
+
+wd:Q1258445 rdfs:label "Avia M 332"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1261011 a wd:Q28816538 ;
+    rdfs:label "pressure-sensitive paint"@en .
+
+wd:Q1268194 a wd:Q28816538 ;
+    rdfs:label "Servo tab"@en .
+
+wd:Q12717869 a wd:Q811909 ;
+    rdfs:label "Rakke"@en .
+
+wd:Q12721719 a wd:Q811909 ;
+    rdfs:label "Q12721719"^^xsd:string .
+
+wd:Q12738229 a wd:Q811909 ;
+    rdfs:label "Pneu"@en .
+
+wd:Q1275666 a wd:Q309027 ;
+    rdfs:label "Europrop TP400"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q1284742 rdfs:label "Fiat AN.1"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1287468 a wd:Q28816538 ;
+    rdfs:label "Intermeshing rotors"@en .
+
+wd:Q128793 rdfs:label "Pratt & Whitney PW6000"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q128862 a wd:Q743004 ;
+    rdfs:label "Pratt & Whitney PW4000"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q128979 rdfs:label "General Electric GE90"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q129136 rdfs:label "Rolls-Royce Trent 1000"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q129138 rdfs:label "Rolls-Royce Trent 800"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q129148 rdfs:label "Rolls-Royce Trent 500"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1292474 a wd:Q28816538 ;
+    rdfs:label "Wire strike protection system"@en .
+
+wd:Q1295154 a wd:Q28816538 ;
+    rdfs:label "Environmental control system"@en .
+
+wd:Q1303116 a wd:Q28816538 ;
+    rdfs:label "spar"@en .
+
+wd:Q1322080 rdfs:label "Saturn AL-31"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1325950 a wd:Q28816538 ;
+    rdfs:label "MTR MTR390"@en .
+
+wd:Q1326152 a wd:Q28816538 ;
+    rdfs:label "Electronic flight bag"@en .
+
+wd:Q1326550 rdfs:label "Q1326550"^^xsd:string ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q1332749 a wd:Q28816538 ;
+    rdfs:label "Tactical air navigation system"@en .
+
+wd:Q1332920 a wd:Q28816538 ;
+    rdfs:label "transponder"@en .
+
+wd:Q1335241 a wd:Q178185 ;
+    rdfs:label "Carnot heat engine"@en .
+
+wd:Q13397964 a wd:Q723916 ;
+    rdfs:label "WP-6"@en .
+
+wd:Q13405536 a wd:Q811909 ;
+    rdfs:label "quill drive"@en .
+
+wd:Q13407871 a wd:Q28816538 ;
+    rdfs:label "Variable pitch propeller"@en .
+
+wd:Q1342413 rdfs:label "Engine Alliance GP7000"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1343028 a wd:Q28816538 ;
+    rdfs:label "helicopter rotor"@en .
+
+wd:Q1345748 a wd:Q811909 ;
+    rdfs:label "drainage channel"@en .
+
+wd:Q135728 a wd:Q28816538 ;
+    rdfs:label "sterndrive"@en .
+
+wd:Q1362011 a wd:Q28816538 ;
+    rdfs:label "Aircraft rudders"@en .
+
+wd:Q13635778 a wd:Q12757 ;
+    rdfs:label "Hemi engine"@en .
+
+wd:Q1367488 a wd:Q28816538 ;
+    rdfs:label "radio direction finding"@en .
+
+wd:Q1368421 a wd:Q654051 ;
+    rdfs:label "Pratt & Whitney F135"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1369279 rdfs:label "General Electric F110"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1375030 rdfs:label "Eurojet EJ200"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1388116 a wd:Q28816538 ;
+    rdfs:label "area navigation"@en .
+
+wd:Q138875 a wd:Q28816538 ;
+    rdfs:label "Apollo Guidance Computer"@en .
+
+wd:Q1390870 a wd:Q811909 ;
+    rdfs:label "Q1390870"^^xsd:string .
+
+wd:Q1391827 a wd:Q28816538 ;
+    rdfs:label "Yaw string"@en .
+
+wd:Q139188 a wd:Q28816538 ;
+    rdfs:label "elevon"@en .
+
+wd:Q1405137 rdfs:label "Wright R-2160 Tornado"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1410520 rdfs:label "Fiat A.80"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1410524 rdfs:label "Fiat AS.6"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1422633 rdfs:label "RB.37 Derwent"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q1425359 rdfs:label "Walter Mikron"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1425781 a wd:Q28816538 ;
+    rdfs:label "Visual Docking Guidance System"@en .
+
+wd:Q1427277 a wd:Q28816538 ;
+    rdfs:label "Flat rated"@en .
+
+wd:Q1428038 a wd:Q28816538 ;
+    rdfs:label "Flensburg radar detector"@en .
+
+wd:Q1428192 a wd:Q28816538 ;
+    rdfs:label "Flettner rotor"@en .
+
+wd:Q1433666 a wd:Q28816538 ;
+    rdfs:label "yaw damper"@en .
+
+wd:Q1436806 a wd:Q12757 ;
+    rdfs:label "Nissan MR engine"@en .
+
+wd:Q14415867 a wd:Q28816538 ;
+    rdfs:label "Q14415867"^^xsd:string .
+
+wd:Q1443682 a wd:Q28816538 ;
+    rdfs:label "HAL/Turbomeca Shakti"@en .
+
+wd:Q1456020 a wd:Q654051 ;
+    rdfs:label "Rolls-Royce RB.183 Tay"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q14592527 a wd:Q28816538 ;
+    rdfs:label "Intake ramp"@en .
+
+wd:Q14630573 a wd:Q811909 ;
+    rdfs:label "Q14630573"^^xsd:string .
+
+wd:Q1463507 a wd:Q28816538 ;
+    rdfs:label "Wing root"@en .
+
+wd:Q14657787 a wd:Q28816538 ;
+    rdfs:label "Airborne Precision Spacing"@en .
+
+wd:Q1466591 rdfs:label "Pratt & Whitney PW2000"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1476975 a wd:Q28816538 ;
+    rdfs:label "Hush kit"@en .
+
+wd:Q1477280 rdfs:label "Rolls-Royce R"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1479025 rdfs:label "Packard V-1650"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1480721 a wd:Q28816538 ;
+    rdfs:label "Inlaid"@en .
+
+wd:Q14922836 a wd:Q811909 ;
+    rdfs:label "Q14922836"^^xsd:string .
+
+wd:Q1494442 rdfs:label "Garrett ATF3"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q14947601 rdfs:label "Hispano-Suiza 8Aa"@en ;
+    rdfs:subClassOf wd:Q1461826 .
+
+wd:Q14947907 rdfs:label "Hiero L"@en ;
+    rdfs:subClassOf wd:Q1617479 .
+
+wd:Q14947908 rdfs:label "Hiero N"@en ;
+    rdfs:subClassOf wd:Q1617479 .
+
+wd:Q14947917 rdfs:label "Breitfeld & Danek Perun I"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1499932 rdfs:label "SMA SR305-230"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1500322 a wd:Q28816538 ;
+    rdfs:label "Navigation light"@en .
+
+wd:Q1501099 a wd:Q28816538 ;
+    rdfs:label "Gemini Guidance Computer"@en .
+
+wd:Q15011404 rdfs:label "Breitfeld & Danek Perun II"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q15011646 rdfs:label "Skoda L"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q15012271 rdfs:label "Avia Vr.36"@en ;
+    rdfs:subClassOf wd:Q15026752,
+        wd:Q15153966 .
+
+wd:Q15015299 rdfs:label "R-1820-82WA Cyclone"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1501572 rdfs:label "General Electric J73"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q1501574 rdfs:label "General Electric F414"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1501576 a wd:Q28816538 ;
+    rdfs:label "T64"@en .
+
+wd:Q1501579 rdfs:label "General Electric CF6"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1501584 rdfs:label "General Electric GEnx"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1501589 rdfs:label "General Electric J85"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q1501603 rdfs:label "CF34"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q15027305 rdfs:label "Walter Pollux II-R"@en ;
+    rdfs:subClassOf wd:Q31170 .
+
+wd:Q15027323 rdfs:label "Bristol Mercury IX"@en ;
+    rdfs:subClassOf wd:Q748146 .
+
+wd:Q15027326 rdfs:label "Walter Minor 4-III"@en ;
+    rdfs:subClassOf wd:Q2545555 .
+
+wd:Q15027384 rdfs:label "R-1300-4 Cyclone 7"@en ;
+    rdfs:subClassOf wd:Q59742 .
+
+wd:Q15027389 rdfs:label "Pratt & Whitney R-1340-AN2"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15038173 a wd:Q28816538 ;
+    rdfs:label "glass cockpit"@en .
+
+wd:Q15040641 rdfs:label "R-2800-46 Double Wasp"@en ;
+    rdfs:subClassOf wd:Q1851343 .
+
+wd:Q15040643 rdfs:label "R-2800-48 Double Wasp"@en ;
+    rdfs:subClassOf wd:Q1851343 .
+
+wd:Q15040774 rdfs:label "Westinghouse 19XB"@en ;
+    rdfs:subClassOf wd:Q723916,
+        wd:Q743004,
+        wd:Q7988946 .
+
+wd:Q15041920 rdfs:label "R-2800-44 Double Wasp"@en ;
+    rdfs:subClassOf wd:Q1851343 .
+
+wd:Q15041922 rdfs:label "Allison J33-A-19"@en ;
+    rdfs:subClassOf wd:Q477394 .
+
+wd:Q15041925 rdfs:label "Allison J33-A-10"@en ;
+    rdfs:subClassOf wd:Q477394 .
+
+wd:Q15041927 rdfs:label "Allison T40-A-6"@en ;
+    rdfs:subClassOf wd:Q4732833 .
+
+wd:Q15043481 rdfs:label "Pratt & Whitney R-4360-4 Wasp Major"@en ;
+    rdfs:subClassOf wd:Q2107993 .
+
+wd:Q15049988 rdfs:label "Salmson RB.9"@en ;
+    rdfs:subClassOf wd:Q7405591 .
+
+wd:Q15050178 rdfs:label "Lyulka TR-1A"@en ;
+    rdfs:subClassOf wd:Q723916,
+        wd:Q743004 .
+
+wd:Q15050192 rdfs:label "Tumansky RD-20"@en ;
+    rdfs:subClassOf wd:Q723916,
+        wd:Q743004 .
+
+wd:Q15050545 rdfs:label "RD-45"@en ;
+    rdfs:subClassOf wd:Q639668 .
+
+wd:Q15050586 rdfs:label "Dobrynin VD-251"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q15050958 a wd:Q743004 ;
+    rdfs:label "MV-6"@en .
+
+wd:Q15051031 rdfs:label "Shvetsov ASh-62IR"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q15051259 rdfs:label "Ivchenko AI-20D"@en ;
+    rdfs:subClassOf wd:Q309027,
+        wd:Q3507563,
+        wd:Q743004 .
+
+wd:Q15051289 rdfs:label "Kuznetsov NK-4"@en ;
+    rdfs:subClassOf wd:Q309027,
+        wd:Q743004 .
+
+wd:Q15051324 rdfs:label "Ivchenko AI-20K"@en ;
+    rdfs:subClassOf wd:Q309027,
+        wd:Q3507563 .
+
+wd:Q15051327 rdfs:label "Ivchenko AI-20M"@en ;
+    rdfs:subClassOf wd:Q309027,
+        wd:Q3507563 .
+
+wd:Q15052138 rdfs:label "AI-14R"@en ;
+    rdfs:subClassOf wd:Q720837,
+        wd:Q743004 .
+
+wd:Q15052140 rdfs:label "Ivchenko AI-14RF"@en ;
+    rdfs:subClassOf wd:Q720837,
+        wd:Q743004 .
+
+wd:Q15052151 rdfs:label "Kuznetsov NK-12MV"@en ;
+    rdfs:subClassOf wd:Q309027,
+        wd:Q743004,
+        wd:Q977186 .
+
+wd:Q15052152 rdfs:label "Kuznetsov NK-12MA"@en ;
+    rdfs:subClassOf wd:Q309027,
+        wd:Q743004,
+        wd:Q977186 .
+
+wd:Q15052176 rdfs:label "Ivchenko AI-24VT"@en ;
+    rdfs:subClassOf wd:Q309027,
+        wd:Q4053965,
+        wd:Q743004 .
+
+wd:Q15052445 rdfs:label "Isotov TVD-850"@en ;
+    rdfs:subClassOf wd:Q309027,
+        wd:Q743004 .
+
+wd:Q15052601 rdfs:label "PZL TWD-10B"@en ;
+    rdfs:subClassOf wd:Q309027,
+        wd:Q743004 .
+
+wd:Q15056514 rdfs:label "Gasuden Jimpu"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q15056577 rdfs:label "Gasuden Urakaze"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q15056981 rdfs:label "General Electric F412-GE-400"@en ;
+    rdfs:subClassOf wd:Q654051,
+        wd:Q743004 .
+
+wd:Q15057023 rdfs:label "Shvetsov ASh-62T"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q15057025 rdfs:label "Shvetsov ASh-82T"@en ;
+    rdfs:subClassOf wd:Q1050634 .
+
+wd:Q15065610 rdfs:label "Le Rhône 9Ja"@en ;
+    rdfs:subClassOf wd:Q15065599 .
+
+wd:Q15065620 rdfs:label "Le Rhône 9Jb"@en ;
+    rdfs:subClassOf wd:Q15065599,
+        wd:Q743004 .
+
+wd:Q15065625 rdfs:label "Le Rhône 9Jby"@en ;
+    rdfs:subClassOf wd:Q15065599,
+        wd:Q743004 .
+
+wd:Q15065630 rdfs:label "Le Rhône 9R"@en ;
+    rdfs:subClassOf wd:Q15065599,
+        wd:Q743004 .
+
+wd:Q15065636 rdfs:label "Le Rhône 9Z"@en ;
+    rdfs:subClassOf wd:Q15065599,
+        wd:Q743004 .
+
+wd:Q1506785 a wd:Q28816538 ;
+    rdfs:label "empennage"@en .
+
+wd:Q15074469 rdfs:label "Oberursel Ur.II"@en ;
+    rdfs:subClassOf wd:Q3510760 .
+
+wd:Q1509498 rdfs:label "Walter HWK 109-509"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q15103261 rdfs:label "Hispano-Suiza 8Ac"@en ;
+    rdfs:subClassOf wd:Q1461826 .
+
+wd:Q15103276 rdfs:label "Hispano-Suiza 8Be"@en ;
+    rdfs:subClassOf wd:Q14947918 .
+
+wd:Q15105190 rdfs:label "Sunbeam Maori Mk.I"@en ;
+    rdfs:subClassOf wd:Q7638887 .
+
+wd:Q15105229 rdfs:label "Sunbeam Maori Mk.II"@en ;
+    rdfs:subClassOf wd:Q7638887 .
+
+wd:Q15113678 rdfs:label "Heinkel HeS 40"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q15125510 rdfs:label "Isotta Fraschini V.4b"@en ;
+    rdfs:subClassOf wd:Q3498022 .
+
+wd:Q15129746 rdfs:label "Rolls-Royce Falcon I"@en ;
+    rdfs:subClassOf wd:Q1514324 .
+
+wd:Q15129755 rdfs:label "Rolls-Royce Falcon II"@en ;
+    rdfs:subClassOf wd:Q1514324 .
+
+wd:Q15129770 rdfs:label "Rolls-Royce Falcon III"@en ;
+    rdfs:subClassOf wd:Q1514324 .
+
+wd:Q15129850 rdfs:label "Hispano-Suiza 8Bc"@en ;
+    rdfs:subClassOf wd:Q14947918 .
+
+wd:Q15130765 rdfs:label "geared turbofan"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q15133784 rdfs:label "Alfa Romeo 115-1"@en ;
+    rdfs:subClassOf wd:Q3610942 .
+
+wd:Q15133797 rdfs:label "Alfa Romeo 115bis"@en ;
+    rdfs:subClassOf wd:Q3610942 .
+
+wd:Q15133813 rdfs:label "Alfa Romeo 115ter"@en ;
+    rdfs:subClassOf wd:Q3610942 .
+
+wd:Q15133823 rdfs:label "Alfa Romeo 116-1"@en ;
+    rdfs:subClassOf wd:Q3610942 .
+
+wd:Q15138408 rdfs:label "Liberty L-12A"@en ;
+    rdfs:subClassOf wd:Q1738041 .
+
+wd:Q15138409 rdfs:label "Nuffield Liberty"@en ;
+    rdfs:subClassOf wd:Q1738041 .
+
+wd:Q15138411 rdfs:label "Packard V-1650 Liberty"@en ;
+    rdfs:subClassOf wd:Q1738041 .
+
+wd:Q15138416 rdfs:label "Allison VG-1410"@en ;
+    rdfs:subClassOf wd:Q1738041 .
+
+wd:Q15138485 rdfs:label "Rolls-Royce Condor I"@en ;
+    rdfs:subClassOf wd:Q903799 .
+
+wd:Q15138487 rdfs:label "Rolls-Royce Condor II"@en ;
+    rdfs:subClassOf wd:Q903799 .
+
+wd:Q15138499 rdfs:label "Rolls-Royce Condor III"@en ;
+    rdfs:subClassOf wd:Q903799 .
+
+wd:Q15138506 rdfs:label "Rolls-Royce Condor IIIA"@en ;
+    rdfs:subClassOf wd:Q903799 .
+
+wd:Q15138507 rdfs:label "Rolls-Royce Condor IIIB"@en ;
+    rdfs:subClassOf wd:Q903799 .
+
+wd:Q15138510 rdfs:label "Rolls-Royce Condor IV"@en ;
+    rdfs:subClassOf wd:Q903799 .
+
+wd:Q15138512 rdfs:label "Rolls-Royce Condor IVA"@en ;
+    rdfs:subClassOf wd:Q903799 .
+
+wd:Q15138514 rdfs:label "Rolls-Royce Condor V"@en ;
+    rdfs:subClassOf wd:Q903799 .
+
+wd:Q15138515 rdfs:label "Rolls-Royce Condor VII"@en ;
+    rdfs:subClassOf wd:Q903799 .
+
+wd:Q15138517 rdfs:label "Rolls-Royce Condor C. I."@en ;
+    rdfs:subClassOf wd:Q903799 .
+
+wd:Q15139442 rdfs:label "R-1340-7"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139443 rdfs:label "R-1340-8 Wasp"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139444 rdfs:label "Pratt & Whitney R-1340-9"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139445 rdfs:label "Pratt & Whitney R-1340-16"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139447 rdfs:label "R-1340-17 Wasp"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139449 rdfs:label "Pratt & Whitney R-1340-19"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139452 rdfs:label "Pratt & Whitney R-1340-21G"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139456 rdfs:label "Pratt & Whitney R-1340-22"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139457 rdfs:label "Pratt & Whitney R-1340-23"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139458 rdfs:label "Pratt & Whitney R-1340-30"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139459 rdfs:label "Pratt & Whitney R-1340-31"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139461 rdfs:label "Pratt & Whitney R-1340-33"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139466 rdfs:label "Pratt & Whitney R-1340-48"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139470 rdfs:label "Pratt & Whitney R-1340-49"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139478 rdfs:label "R-1340-AN1 Wasp"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139483 rdfs:label "R-1340-B"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139488 rdfs:label "R-1340-D Wasp"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139491 rdfs:label "Pratt & Whitney R-1340-S1H1-G"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q15139762 rdfs:label "Bristol Mercury I"@en ;
+    rdfs:subClassOf wd:Q748146 .
+
+wd:Q15139766 rdfs:label "Bristol Mercury II"@en ;
+    rdfs:subClassOf wd:Q748146 .
+
+wd:Q15139769 rdfs:label "Bristol Mercury IIA"@en ;
+    rdfs:subClassOf wd:Q748146 .
+
+wd:Q15139771 rdfs:label "Bristol Mercury III"@en ;
+    rdfs:subClassOf wd:Q748146 .
+
+wd:Q15139932 rdfs:label "Kestrel VFP"@en ;
+    rdfs:subClassOf wd:Q2164346 .
+
+wd:Q15142425 rdfs:label "Fiat A.30 R.A."@en ;
+    rdfs:subClassOf wd:Q3744418 .
+
+wd:Q15142428 rdfs:label "Fiat A.30 R.A. bis"@en ;
+    rdfs:subClassOf wd:Q3744418 .
+
+wd:Q15145474 rdfs:label "Curtiss V-1570-59"@en ;
+    rdfs:subClassOf wd:Q1145799 .
+
+wd:Q15145478 rdfs:label "Curtiss V-1570-C"@en ;
+    rdfs:subClassOf wd:Q1145799 .
+
+wd:Q15149916 rdfs:label "Alfa 125 R.C.10"@en ;
+    rdfs:subClassOf wd:Q3610946 .
+
+wd:Q15149957 rdfs:label "Alfa 126 R.C.10"@en ;
+    rdfs:subClassOf wd:Q3610946 .
+
+wd:Q15149960 rdfs:label "Alfa 126 R.C.32"@en ;
+    rdfs:subClassOf wd:Q3610946 .
+
+wd:Q15149966 rdfs:label "Alfa 127 R.C.50"@en ;
+    rdfs:subClassOf wd:Q3610946 .
+
+wd:Q15149969 rdfs:label "Alfa 127 R.C.55"@en ;
+    rdfs:subClassOf wd:Q3610946 .
+
+wd:Q15149970 rdfs:label "Alfa 128 R.C.18"@en ;
+    rdfs:subClassOf wd:Q3610946 .
+
+wd:Q15149972 rdfs:label "Alfa 128 R.C.21"@en ;
+    rdfs:subClassOf wd:Q3610946 .
+
+wd:Q15149978 rdfs:label "Alfa 129 R.C.32"@en ;
+    rdfs:subClassOf wd:Q3610946 .
+
+wd:Q15149980 rdfs:label "Alfa 131 R.C.14/50"@en ;
+    rdfs:subClassOf wd:Q3610946 .
+
+wd:Q15150284 a wd:Q28816538 ;
+    rdfs:label "Centre stick"@en .
+
+wd:Q15153373 rdfs:label "Avia 8Fb"@en ;
+    rdfs:subClassOf wd:Q15024795 .
+
+wd:Q1515744 a wd:Q28816538 ;
+    rdfs:label "Arrius"@en .
+
+wd:Q1516025 rdfs:label "NK-33"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q1516558 rdfs:label "Lotarev D-36"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q15217409 rdfs:label "Nuclear pulse propulsion"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q15217578 rdfs:label "Pratt & Whitney R-1535-82 Twin Wasp Junior"@en ;
+    rdfs:subClassOf wd:Q2063609 .
+
+wd:Q15222092 rdfs:label "Kestrel IIIS"@en ;
+    rdfs:subClassOf wd:Q2164346 .
+
+wd:Q15222951 rdfs:label "BMW 132A"@en ;
+    rdfs:subClassOf wd:Q796376 .
+
+wd:Q15222952 rdfs:label "BMW 132Dc"@en ;
+    rdfs:subClassOf wd:Q796376 .
+
+wd:Q15222954 rdfs:label "BMW 132De"@en ;
+    rdfs:subClassOf wd:Q796376 .
+
+wd:Q15222955 rdfs:label "BMW 132J"@en ;
+    rdfs:subClassOf wd:Q796376 .
+
+wd:Q15222959 rdfs:label "BMW 132N"@en ;
+    rdfs:subClassOf wd:Q796376 .
+
+wd:Q15222960 rdfs:label "BMW 132T"@en ;
+    rdfs:subClassOf wd:Q796376 .
+
+wd:Q1524556 a wd:Q28816538 ;
+    rdfs:label "Gillham code"@en .
+
+wd:Q1528375 a wd:Q12757 ;
+    rdfs:label "Volvo B30 engine"@en .
+
+wd:Q1529423 rdfs:label "Q1529423"^^xsd:string ;
+    rdfs:subClassOf wd:Q4698541 .
+
+wd:Q1531146 a wd:Q28816538 ;
+    rdfs:label "RAD750"@en .
+
+wd:Q1540226 rdfs:label "Progress D-27"@en ;
+    rdfs:subClassOf wd:Q2634412 .
+
+wd:Q15411542 rdfs:label "Allison T56-A-9"@en ;
+    rdfs:subClassOf wd:Q1710103,
+        wd:Q309027 .
+
+wd:Q15411563 rdfs:label "Allison T56-A-7A"@en ;
+    rdfs:subClassOf wd:Q1710103,
+        wd:Q309027 .
+
+wd:Q15411564 rdfs:label "Allison T56-A-15"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q15427052 rdfs:label "Rolls-Royce Kestrel VI"@en ;
+    rdfs:subClassOf wd:Q2164346 .
+
+wd:Q15427056 rdfs:label "Rolls-Royce Kestrel XVI"@en ;
+    rdfs:subClassOf wd:Q2164346 .
+
+wd:Q15427067 rdfs:label "Armstrong Siddeley Panther IIIA"@en ;
+    rdfs:subClassOf wd:Q3623441 .
+
+wd:Q15450148 rdfs:label "R-1830-21 Twin Wasp"@en ;
+    rdfs:subClassOf wd:Q2092558 .
+
+wd:Q15452709 rdfs:label "Klimov M-100A"@en ;
+    rdfs:subClassOf wd:Q15452660 .
+
+wd:Q1545843 a wd:Q28816538 ;
+    rdfs:label "Wing fence"@en .
+
+wd:Q15466217 rdfs:label "Bristol Mercury IV"@en ;
+    rdfs:subClassOf wd:Q748146 .
+
+wd:Q1547688 a wd:Q28816538 ;
+    rdfs:label "Local Area Augmentation System"@en .
+
+wd:Q15513042 rdfs:label "Jaguar IV"@en ;
+    rdfs:subClassOf wd:Q4793979 .
+
+wd:Q15513961 rdfs:label "Kestrel IB"@en ;
+    rdfs:subClassOf wd:Q2164346 .
+
+wd:Q15514412 rdfs:label "Rolls-Royce Kestrel XDR"@en ;
+    rdfs:subClassOf wd:Q2164346 .
+
+wd:Q15514513 rdfs:label "Rolls-Royce Kestrel V"@en ;
+    rdfs:subClassOf wd:Q2164346 .
+
+wd:Q15519852 rdfs:label "General Electric F101-GE-102"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1553280 a wd:Q811909 ;
+    rdfs:label "plowshare"@en .
+
+wd:Q1559003 a wd:Q335225 ;
+    rdfs:label "RocketMotorTwo"@en .
+
+wd:Q15614131 rdfs:label "Volvo RM12"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q15617955 rdfs:label "Pratt & Whitney TF33-P-3"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q15618474 rdfs:label "Pratt & Whitney Canada PT6A-41"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q15618476 rdfs:label "Pratt & Whitney Canada PT6A-42"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q15618477 rdfs:label "Pratt & Whitney Canada PT6A-40"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q15618479 rdfs:label "PT6A-45"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q15618506 rdfs:label "Pratt & Whitney Canada PT6A-50"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q15618507 rdfs:label "Pratt & Whitney Canada PT6A-52"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q15623188 rdfs:label "Pratt & Whitney Canada PT6A-20"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q15623190 rdfs:label "Pratt & Whitney Canada PT6A-28"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q15623400 rdfs:label "CT7-5A2"@en ;
+    rdfs:subClassOf wd:Q15623398 .
+
+wd:Q15623408 rdfs:label "General Electric CT7-9B"@en ;
+    rdfs:subClassOf wd:Q15623398,
+        wd:Q309027 .
+
+wd:Q15624310 rdfs:label "PW120"@en ;
+    rdfs:subClassOf wd:Q1352680 .
+
+wd:Q15624317 rdfs:label "Pratt & Whitney Canada PW120A"@en ;
+    rdfs:subClassOf wd:Q1352680 .
+
+wd:Q15624321 rdfs:label "Pratt & Whitney Canada PW121"@en ;
+    rdfs:subClassOf wd:Q1352680 .
+
+wd:Q15624328 rdfs:label "Pratt & Whitney Canada PW121A"@en ;
+    rdfs:subClassOf wd:Q1352680 .
+
+wd:Q15624332 rdfs:label "Pratt & Whitney Canada PW123"@en ;
+    rdfs:subClassOf wd:Q1352680 .
+
+wd:Q15624814 rdfs:label "Pratt & Whitney Canada PW150A"@en ;
+    rdfs:subClassOf wd:Q1352680 .
+
+wd:Q15630554 rdfs:label "PW127"@en ;
+    rdfs:subClassOf wd:Q1352680,
+        wd:Q309027 .
+
+wd:Q15630559 rdfs:label "PW127M"@en ;
+    rdfs:subClassOf wd:Q1352680 .
+
+wd:Q15637500 rdfs:label "Pratt & Whitney Canada PT6A-27"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q15637505 rdfs:label "Pratt & Whitney Canada PT6A-34"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q15637507 rdfs:label "Pratt & Whitney Canada PT6A-35"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q15643532 rdfs:label "Pratt & Whitney Canada PT6A-114"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q15644000 rdfs:label "Pratt & Whitney Canada PT6A-114A"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q1567667 rdfs:label "Saturn AL-41"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1570171 rdfs:label "Williams F121"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q15727520 a wd:Q28816538 ;
+    rdfs:label "Gust lock"@en .
+
+wd:Q15727729 a wd:Q12757 ;
+    rdfs:label "BMW B47"@en .
+
+wd:Q15733 rdfs:label "Armstrong Siddeley Python"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q15733436 rdfs:label "RB.53 Dart Mk.520"@en ;
+    rdfs:subClassOf wd:Q450478 .
+
+wd:Q15784973 a wd:Q12757 ;
+    rdfs:label "BMW S55"@en .
+
+wd:Q15831051 rdfs:label "Rolls-Royce AE 2100A"@en ;
+    rdfs:subClassOf wd:Q826898 .
+
+wd:Q15832958 a wd:Q28816538 ;
+    rdfs:label "aircraft station"@en .
+
+wd:Q15838574 rdfs:label "CM.9"@en ;
+    rdfs:subClassOf wd:Q7405591 .
+
+wd:Q15838576 rdfs:label "Salmson A9"@en ;
+    rdfs:subClassOf wd:Q7405591 .
+
+wd:Q15838578 rdfs:label "Salmson C9"@en ;
+    rdfs:subClassOf wd:Q7405591 .
+
+wd:Q15838582 rdfs:label "Salmson M7"@en ;
+    rdfs:subClassOf wd:Q7405591 .
+
+wd:Q15838584 rdfs:label "Salmson 2M7"@en ;
+    rdfs:subClassOf wd:Q7405591 .
+
+wd:Q15838586 rdfs:label "Salmson M9"@en ;
+    rdfs:subClassOf wd:Q7405591 .
+
+wd:Q15838593 rdfs:label "Salmson P9"@en ;
+    rdfs:subClassOf wd:Q7405591 .
+
+wd:Q15838624 rdfs:label "Salmson R9"@en ;
+    rdfs:subClassOf wd:Q7405591 .
+
+wd:Q15838628 rdfs:label "Salmson Z9"@en ;
+    rdfs:subClassOf wd:Q7405591 .
+
+wd:Q15838795 rdfs:label "Pratt & Whitney Canada PT6A-6"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q15838813 rdfs:label "Pratt & Whitney Canada PT6A-20A"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q15838869 rdfs:label "Pratt & Whitney Canada PT6A-21"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q15838873 rdfs:label "Pratt & Whitney Canada PT6A-135"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q15839356 rdfs:label "PW118"@en ;
+    rdfs:subClassOf wd:Q1352680 .
+
+wd:Q15896229 rdfs:label "IO-360-L2A"@en ;
+    rdfs:subClassOf wd:Q15896245 .
+
+wd:Q15896236 rdfs:label "O-360-A4N"@en ;
+    rdfs:subClassOf wd:Q1777769 .
+
+wd:Q15896375 rdfs:label "IO-360-K"@en ;
+    rdfs:subClassOf wd:Q15896245 .
+
+wd:Q15900703 rdfs:label "Lycoming TIGO-541-E"@en ;
+    rdfs:subClassOf wd:Q15900698 .
+
+wd:Q15901020 rdfs:label "PT6A-11"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q1591044 rdfs:label "Progress D-436"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q15912780 rdfs:label "S5.92"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q15921120 rdfs:label "Wright J-3"@en ;
+    rdfs:subClassOf wd:Q1461777 .
+
+wd:Q15921125 rdfs:label "J-4 Whirlwind"@en ;
+    rdfs:subClassOf wd:Q1461777 .
+
+wd:Q15921802 rdfs:label "Renault 4Ps"@en ;
+    rdfs:subClassOf wd:Q3425006 .
+
+wd:Q15921806 rdfs:label "Renault 4Pei"@en ;
+    rdfs:subClassOf wd:Q3425006 .
+
+wd:Q15925416 rdfs:label "Revmaster R-2100D"@en ;
+    rdfs:subClassOf wd:Q7940342 .
+
+wd:Q15925695 rdfs:label "Righter O-45-35"@en ;
+    rdfs:subClassOf wd:Q15925428 .
+
+wd:Q15977211 rdfs:label "Star 37"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q16001033 rdfs:label "2si 690"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1620578 rdfs:label "Hirth HM 515"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q16257096 a wd:Q28816538 ;
+    rdfs:label "Blind Landing Experimental Unit"@en .
+
+wd:Q1626882 rdfs:label "Honeywell HTF7000"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1626884 a wd:Q28816538 ;
+    rdfs:label "Honeywell HTS900"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1627278 rdfs:label "Rolls-Royce Turbomeca Adour"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1632276 a wd:Q28816538 ;
+    rdfs:label "Lycoming T53"@en .
+
+wd:Q1633440 rdfs:label "SNECMA Turbomeca Larzac"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1636078 rdfs:label "Rolls-Royce RB211"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q163790 rdfs:label "RD-119"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q1653128 a wd:Q28816538 ;
+    rdfs:label "IBM RAD6000"@en .
+
+wd:Q16546784 rdfs:label "Pratt & Whitney Canada PT6A-140"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q16566559 rdfs:label "Isotta Fraschini Zeta"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1662372 a wd:Q28816538 ;
+    rdfs:label "Longeron"@en .
+
+wd:Q1665437 a wd:Q28816538 ;
+    rdfs:label "Integrated modular avionics"@en .
+
+wd:Q16679146 rdfs:label "NK-15"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q16679148 rdfs:label "NK-31"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q16679150 rdfs:label "NK-39"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q16679154 rdfs:label "NK-9"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q16690214 rdfs:label "RD-193"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q16690217 rdfs:label "RD-264"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q16697315 a wd:Q743004 ;
+    rdfs:label "D-236T"@en .
+
+wd:Q16763466 a wd:Q28816538 ;
+    rdfs:label "Transverse rotors"@en .
+
+wd:Q1676551 a wd:Q28816538 ;
+    rdfs:label "JATO"@en .
+
+wd:Q16774774 a wd:Q28816538 ;
+    rdfs:label "ground carriage"@en .
+
+wd:Q16825608 a wd:Q28816538 ;
+    rdfs:label "Advisory circular"@en .
+
+wd:Q16840 rdfs:label "Aestus"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q1687649 a wd:Q28816538 ;
+    rdfs:label "Jericho trumpet"@en .
+
+wd:Q16879713 a wd:Q28816538 ;
+    rdfs:label "RH1750"@en .
+
+wd:Q16901072 rdfs:label "Harkness Hornet"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q16927241 rdfs:label "Jabiru 3300"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q16931213 a wd:Q28816538 ;
+    rdfs:label "Loran-C"@en .
+
+wd:Q16943544 a wd:Q28816538 ;
+    rdfs:label "Leyland 2S/350 gas turbine"@en .
+
+wd:Q16947683 a wd:Q28816538 ;
+    rdfs:label "ARINC 828"@en .
+
+wd:Q16953308 rdfs:label "Curtiss B-8"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q169545 a wd:Q811909 ;
+    rdfs:label "tire"@en .
+
+wd:Q16962010 rdfs:label "Armstrong Siddeley ASX"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q16962391 a wd:Q28816538 ;
+    rdfs:label "Astronics Max-Viz"@en .
+
+wd:Q16962443 a wd:Q28816538 ;
+    rdfs:label "ATHENA computer"@en .
+
+wd:Q16964129 a wd:Q28816538 ;
+    rdfs:label "HRG gyrocompass"@en .
+
+wd:Q16974261 a wd:Q28816538 ;
+    rdfs:label "Cherokee"@en .
+
+wd:Q16974366 rdfs:label "Curtiss C-6"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q16983088 rdfs:label "list of Lycoming O-360 variants"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q16983092 rdfs:label "Continental O-526"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q16983903 rdfs:label "Pratt & Whitney R-2180-E Twin Wasp E"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q16995809 rdfs:label "Honeywell/ITEC F124"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17003226 a wd:Q28816538 ;
+    rdfs:label "AC 25.1309-1"@en .
+
+wd:Q17017089 rdfs:label "Rolls-Royce RB401"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17019208 rdfs:label "Beardmore Cyclone"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17020822 a wd:Q28816538 ;
+    rdfs:label "Squitter"@en .
+
+wd:Q17022341 a wd:Q28816538 ;
+    rdfs:label "Hemispherical resonator gyroscope"@en .
+
+wd:Q17030691 a wd:Q28816538 ;
+    rdfs:label "Honeywell Primus"@en .
+
+wd:Q17039323 a wd:Q28816538 ;
+    rdfs:label "Klimov VK-800"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17052290 a wd:Q28816538 ;
+    rdfs:label "Smart Intelligent Aircraft Structures"@en .
+
+wd:Q17069186 a wd:Q28816538 ;
+    rdfs:label "Microwave Scanning Beam Landing System"@en .
+
+wd:Q17070002 rdfs:label "Adept 320T"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17070864 rdfs:label "Bailey B200"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17071301 a wd:Q28816538 ;
+    rdfs:label "Boeing T60"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17072706 rdfs:label "Hispano-Suiza 12N"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17072720 rdfs:label "Hispano-Suiza 18R"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17073433 rdfs:label "Daimler D.IIIb"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17076670 a wd:Q28816538 ;
+    rdfs:label "General Electric GE38"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17076943 a wd:Q28816538 ;
+    rdfs:label "PX4 autopilot"@en .
+
+wd:Q17077675 rdfs:label "Heath-Henderson B-4"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17078028 rdfs:label "Hewland AE75"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17078207 rdfs:label "Hiro Type 14"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17078217 rdfs:label "Hirth 3502"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17081447 a wd:Q28816538 ;
+    rdfs:label "Slugs"@en .
+
+wd:Q17097778 rdfs:label "Béarn 6"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17097875 rdfs:label "ECi O-320"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17098229 rdfs:label "Isotta Fraschini V.5"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17098426 rdfs:label "Le Rhône"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17098613 rdfs:label "Long Harlequin 933"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17098935 rdfs:label "Microturbo TRI 40"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17099096 rdfs:label "Mosler Red 82X"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17099300 rdfs:label "Narkiewicz WN-3"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17099621 rdfs:label "Power Jets WU"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17099628 a wd:Q28816538 ;
+    rdfs:label "Power-egg"@en .
+
+wd:Q17099644 rdfs:label "Pratt & Whitney/Allison 578-DX"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17099651 rdfs:label "Pratt & Whitney R-2180-A Twin Hornet"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17099675 rdfs:label "PZL WS Foka"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17099751 rdfs:label "Revmaster R-2300"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17102874 rdfs:label "Rotax 532"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17102887 rdfs:label "RotorWay RW133"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17102941 rdfs:label "Salmson 9 AD"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17102969 rdfs:label "Saroléa Albatros"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17102997 rdfs:label "Sauer S 1800"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17103021 rdfs:label "Sauer S 1900 UL"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17103036 rdfs:label "Sauer S 2100"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17103049 rdfs:label "Sauer S 2100 ULT"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17103065 rdfs:label "Sauer S 2200 UL"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17103077 rdfs:label "Sauer S 2400 UL"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17103093 rdfs:label "Sauer S 2500"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17103107 rdfs:label "Sauer S 2500 UL"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17103121 rdfs:label "Sauer S 2700 UL"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17103416 rdfs:label "SNECMA Atar 101"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17103978 rdfs:label "General Electric TF34"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q17104480 a wd:Q28816538 ;
+    rdfs:label "V-Prop"@en .
+
+wd:Q17104608 rdfs:label "Walter HWK 109-500"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17105876 a wd:Q28816538 ;
+    rdfs:label "Smart Onboard Data Interface Module"@en .
+
+wd:Q17125854 a wd:Q28816538 ;
+    rdfs:label "Localizer performance with vertical guidance"@en .
+
+wd:Q17140155 a wd:Q28816538 ;
+    rdfs:label "Towed pinger locator"@en .
+
+wd:Q17142746 rdfs:label "JPX PUL 425"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17177324 rdfs:label "BT-4"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q17183264 rdfs:label "Argus As III"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17183363 a wd:Q860308 ;
+    rdfs:label "SuperDraco"@en .
+
+wd:Q17183537 rdfs:label "BMW 109-558"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1718547 a wd:Q811909 ;
+    rdfs:label "bezel"@en .
+
+wd:Q1723843 a wd:Q28816538 ;
+    rdfs:label "ram air turbine"@en .
+
+wd:Q1728534 a wd:Q28816538 ;
+    rdfs:label "Multi-function display"@en .
+
+wd:Q1735913 rdfs:label "Rolls-Royce RB108"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1738127 rdfs:label "Rolls-Royce Trent"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q173904 a wd:Q28816538 ;
+    rdfs:label "radio direction finder"@en .
+
+wd:Q1748586 rdfs:label "Pobjoy R"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q175481 rdfs:label "Soloviev D-20"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1755997 a wd:Q28816538 ;
+    rdfs:label "Ducted propeller"@en .
+
+wd:Q1759012 a wd:Q28816538 ;
+    rdfs:label "yoke"@en .
+
+wd:Q1760097 a wd:Q28816538 ;
+    rdfs:label "spoiler"@en .
+
+wd:Q1762921 a wd:Q28816538 ;
+    rdfs:label "Takeoff/Go-around switch"@en .
+
+wd:Q1770785 rdfs:label "Walter NZ 120"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17746950 rdfs:label "Church V-8"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1777705 rdfs:label "Mikulin AM-39"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1777836 a wd:Q28816538 ;
+    rdfs:label "Contra-rotating propellers"@en .
+
+wd:Q1780801 a wd:Q28816538 ;
+    rdfs:label "Allison 250"@en .
+
+wd:Q1782613 a wd:Q28816538 ;
+    rdfs:label "Turbomeca Artouste"@en .
+
+wd:Q1783416 a wd:Q28816538 ;
+    rdfs:label "Leading-edge extension"@en .
+
+wd:Q1783518 rdfs:label "Mikulin AM-34"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1784919 a wd:Q178777 ;
+    rdfs:label "Rolls-Royce Olympus"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q1785401 rdfs:label "Viking"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q17861788 rdfs:label "LTP101-600"@en ;
+    rdfs:subClassOf wd:Q17407314 .
+
+wd:Q17861815 rdfs:label "PT6A-121"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q1786759 rdfs:label "RD-253"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q1786890 rdfs:label "Pratt & Whitney Canada PW300"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1789660 rdfs:label "Lycoming IO-720"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17909521 rdfs:label "R-985 Wasp Junior"@en ;
+    rdfs:subClassOf wd:Q1813047 .
+
+wd:Q17909845 rdfs:label "Wasp Junior A"@en ;
+    rdfs:subClassOf wd:Q1813047 .
+
+wd:Q17909898 rdfs:label "Wasp Junior B"@en ;
+    rdfs:subClassOf wd:Q1813047 .
+
+wd:Q179435 a wd:Q28816538 ;
+    rdfs:label "satellite navigation system"@en .
+
+wd:Q1796965 a wd:Q28816538 ;
+    rdfs:label "Air cycle machine"@en .
+
+wd:Q17979043 rdfs:label "O-360-A1D"@en ;
+    rdfs:subClassOf wd:Q1777769 .
+
+wd:Q18003206 rdfs:label "TPE331-12B"@en ;
+    rdfs:subClassOf wd:Q750992 .
+
+wd:Q18003208 rdfs:label "PT6A-25C"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q18003503 rdfs:label "PT6A-68C"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q18012569 rdfs:label "R-760E-2 Whirlwind"@en ;
+    rdfs:subClassOf wd:Q8038250 .
+
+wd:Q18012587 rdfs:label "R-760E Whirlwind"@en ;
+    rdfs:subClassOf wd:Q8038250 .
+
+wd:Q18012598 rdfs:label "R-760E-1 Whirlwind"@en ;
+    rdfs:subClassOf wd:Q8038250 .
+
+wd:Q18012857 rdfs:label "Pratt & Whitney J42"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q18012864 rdfs:label "Pratt & Whitney JT3"@en ;
+    rdfs:subClassOf wd:Q654051,
+        wd:Q723916 .
+
+wd:Q18012866 rdfs:label "Pratt & Whitney JT4"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q18015258 rdfs:label "R9-A"@en ;
+    rdfs:subClassOf wd:Q15921165 .
+
+wd:Q18015679 rdfs:label "Rolls-Royce RB.26"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q18019691 rdfs:label "R-1830-64 Twin Wasp"@en ;
+    rdfs:subClassOf wd:Q2092558 .
+
+wd:Q18019694 rdfs:label "R-1830-66 Twin Wasp"@en ;
+    rdfs:subClassOf wd:Q2092558 .
+
+wd:Q18019696 rdfs:label "R-1830-72 Twin Wasp"@en ;
+    rdfs:subClassOf wd:Q2092558 .
+
+wd:Q18019697 rdfs:label "R-1830-82 Twin Wasp"@en ;
+    rdfs:subClassOf wd:Q2092558 .
+
+wd:Q18019699 rdfs:label "R-1830-92 Twin Wasp"@en ;
+    rdfs:subClassOf wd:Q2092558 .
+
+wd:Q18019700 rdfs:label "R-1830-S1C3-G Twin Wasp"@en ;
+    rdfs:subClassOf wd:Q2092558 .
+
+wd:Q18060548 rdfs:label "R-975-11 Whirlwind"@en ;
+    rdfs:subClassOf wd:Q15921165 .
+
+wd:Q18072453 rdfs:label "PT6A-67AF"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q1807652 a wd:Q28816538 ;
+    rdfs:label "Saturn Launch Vehicle Digital Computer"@en .
+
+wd:Q1810931 rdfs:label "Turbo-Union RB199"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q18123151 rdfs:label "V-1710-89"@en ;
+    rdfs:subClassOf wd:Q18123141 .
+
+wd:Q18123737 rdfs:label "R-1340-57 Wasp"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q18156521 rdfs:label "R-1830-87 Twin Wasp"@en ;
+    rdfs:subClassOf wd:Q2092558 .
+
+wd:Q18156528 rdfs:label "R-1830-45 Twin Wasp"@en ;
+    rdfs:subClassOf wd:Q2092558 .
+
+wd:Q18156533 rdfs:label "R-1830-S3C4-G Twin Wasp"@en ;
+    rdfs:subClassOf wd:Q2092558 .
+
+wd:Q18168692 rdfs:label "R-1300-7 Cyclone 7"@en ;
+    rdfs:subClassOf wd:Q59742 .
+
+wd:Q18168735 rdfs:label "T55-L-9"@en ;
+    rdfs:subClassOf wd:Q4251036 .
+
+wd:Q18175600 rdfs:label "I-40"@en ;
+    rdfs:subClassOf wd:Q477394 .
+
+wd:Q18176697 rdfs:label "R-2800-31 Double Wasp"@en ;
+    rdfs:subClassOf wd:Q1851343 .
+
+wd:Q18176718 rdfs:label "R-2800-S1A4-G Double Wasp"@en ;
+    rdfs:subClassOf wd:Q1851343 .
+
+wd:Q18193723 rdfs:label "R-975-E2 Whirlwind"@en ;
+    rdfs:subClassOf wd:Q15921165 .
+
+wd:Q18196411 rdfs:label "Wasp A"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q18196413 rdfs:label "Wasp C"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q18198991 rdfs:label "Wasp SC"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q18199136 rdfs:label "Wasp S3H1"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q18199678 a wd:Q1456848,
+        wd:Q654051 ;
+    rdfs:label "RB.163 Spey Mk 506"@en .
+
+wd:Q18199681 a wd:Q1456848,
+        wd:Q654051 ;
+    rdfs:label "RB.163 Spey Mk 511"@en .
+
+wd:Q18199682 a wd:Q1456848,
+        wd:Q654051 ;
+    rdfs:label "RB.163 Spey Mk 512-14DW"@en .
+
+wd:Q18205474 rdfs:label "BE-4"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q18205600 a wd:Q28816538 ;
+    rdfs:label "Boeing Honeywell Uninterruptible Autopilot"@en .
+
+wd:Q182883 a wd:Q12757 ;
+    rdfs:label "wankel engine"@en .
+
+wd:Q18345086 rdfs:label "Gnome Sigma"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q18347811 rdfs:label "Clapp's Cars Spyder Standard"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q18349789 rdfs:label "D-Motor LF39"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q18350396 rdfs:label "Lorraine 14A Antarès"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q18350399 rdfs:label "Lorraine 5P"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q18350402 rdfs:label "Lorraine 7M Mizar"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q18354795 rdfs:label "Farman 12We"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q18355435 a wd:Q28816538 ;
+    rdfs:label "Satellite Data Unit"@en .
+
+wd:Q18359127 a wd:Q335225 ;
+    rdfs:label "P80"@en .
+
+wd:Q18361777 a wd:Q811909 ;
+    rdfs:label "clearomizer"@en .
+
+wd:Q18378526 rdfs:label "Weslake aero-engine"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q18386453 rdfs:label "Superior Air Parts Vantage"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q18387636 a wd:Q28816538 ;
+    rdfs:label "Tail warning radar"@en .
+
+wd:Q18387688 a wd:Q28816538 ;
+    rdfs:label "Take-off warning system"@en .
+
+wd:Q18390983 rdfs:label "Rolls-Royce Marine Olympus"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q18407944 a wd:Q28816538 ;
+    rdfs:label "flap"@en .
+
+wd:Q184455 rdfs:label "Zefiro"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q184744 a wd:Q811909 ;
+    rdfs:label "Zeichenkopf"@en .
+
+wd:Q18524277 rdfs:label "HS-6"@en ;
+    rdfs:subClassOf wd:Q720837 .
+
+wd:Q185394 rdfs:label "Rolls-Royce Soar"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q185525 a wd:Q28816538 ;
+    rdfs:label "turbocharger"@en .
+
+wd:Q1866814 rdfs:label "Lyulka AL-21"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q18715687 a wd:Q28816538 ;
+    rdfs:label "Grid compass"@en .
+
+wd:Q18746110 a wd:Q811909 ;
+    rdfs:label "cryogenic transport refrigeration system"@en .
+
+wd:Q1878569 rdfs:label "Lycoming XR-7755"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1879237 a wd:Q28816538 ;
+    rdfs:label "Trailing arm"@en .
+
+wd:Q188669 a wd:Q811909 ;
+    rdfs:label "fireplace"@en .
+
+wd:Q18914715 a wd:Q28816538 ;
+    rdfs:label "Adaptive Compliant Trailing Edge"@en .
+
+wd:Q1903235 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker"@en .
+
+wd:Q19118493 rdfs:label "Jaguar IIIA"@en ;
+    rdfs:subClassOf wd:Q4793979 .
+
+wd:Q191724 a wd:Q28816538 ;
+    rdfs:label "Earth inductor compass"@en .
+
+wd:Q19320808 rdfs:label "PW124B"@en ;
+    rdfs:subClassOf wd:Q1352680 .
+
+wd:Q19320874 rdfs:label "PW127F"@en ;
+    rdfs:subClassOf wd:Q1352680 .
+
+wd:Q19359074 rdfs:label "O-360-D2A"@en ;
+    rdfs:subClassOf wd:Q1777769 .
+
+wd:Q19360046 rdfs:label "O-360-A3A"@en ;
+    rdfs:subClassOf wd:Q1777769 .
+
+wd:Q1936109 a wd:Q28816538 ;
+    rdfs:label "Water injection"@en .
+
+wd:Q19364864 rdfs:label "Dobrynin RD-7"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q194156 a wd:Q28816538 ;
+    rdfs:label "cockpit"@en .
+
+wd:Q1949411 a wd:Q12757 ;
+    rdfs:label "Garelli Engine"@en .
+
+wd:Q195798 a wd:Q12757 ;
+    rdfs:label "Mercedes-Benz OM640"@en .
+
+wd:Q196147 a wd:Q12757 ;
+    rdfs:label "Mercedes-Benz OM668"@en .
+
+wd:Q196309 a wd:Q12757 ;
+    rdfs:label "Mercedes-Benz OM651 engine"@en .
+
+wd:Q1964903 rdfs:label "Napier Dagger"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1964929 rdfs:label "Napier Sabre"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q19654826 a wd:Q28816538 ;
+    rdfs:label "Dunlop Aircraft Tyres"@en .
+
+wd:Q19654893 a wd:Q28816538 ;
+    rdfs:label "Harley Aircraft Landing Lamps"@en .
+
+wd:Q19765906 rdfs:label "RB.53 Dart Mk.501"@en ;
+    rdfs:subClassOf wd:Q450478 .
+
+wd:Q19765910 rdfs:label "RB.53 Dart Mk.505"@en ;
+    rdfs:subClassOf wd:Q450478 .
+
+wd:Q19765915 rdfs:label "RB.53 Dart Mk.506"@en ;
+    rdfs:subClassOf wd:Q450478 .
+
+wd:Q19765916 rdfs:label "RB.53 Dart Mk.510"@en ;
+    rdfs:subClassOf wd:Q450478 .
+
+wd:Q19768201 rdfs:label "R-2800-43 Double Wasp"@en ;
+    rdfs:subClassOf wd:Q1851343 .
+
+wd:Q19768204 rdfs:label "R-2800-51 Double Wasp"@en ;
+    rdfs:subClassOf wd:Q1851343 .
+
+wd:Q19903205 a wd:Q28816538 ;
+    rdfs:label "Aircraft fuel tanks"@en .
+
+wd:Q19903937 rdfs:label "DeltaHawk DH180A4"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q19904071 rdfs:label "Engineered Propulsion Systems Graflight V-8"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1993383 rdfs:label "Armstrong Siddeley Tiger"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1997125 rdfs:label "Williams F107"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1999175 rdfs:label "Kuznetsov NK-25"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q19992197 rdfs:label "R-1830-90 Twin Wasp"@en ;
+    rdfs:subClassOf wd:Q2092558 .
+
+wd:Q2001893 a wd:Q743004 ;
+    rdfs:label "Rolls-Royce Vulture"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20022804 a wd:Q860308 ;
+    rdfs:label "RD-843"@en .
+
+wd:Q20026754 rdfs:label "R-1340-C Wasp"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q20026757 rdfs:label "R-1340-88 Wasp"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q2002716 a wd:Q811909 ;
+    rdfs:label "exhaust port"@en .
+
+wd:Q2004495 rdfs:label "J58"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q2005638 rdfs:label "Rotax 912"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20078304 a wd:Q28816538 ;
+    rdfs:label "wing"@en .
+
+wd:Q2008885 rdfs:label "Klimov VK-106"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20103853 a wd:Q743004 ;
+    rdfs:label "Q20103853"^^xsd:string .
+
+wd:Q201599 a wd:Q28816538 ;
+    rdfs:label "Makila"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20203120 rdfs:label "RD-0210"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q20203121 rdfs:label "RD-0214"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q20203122 rdfs:label "RD-0216"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q20203123 rdfs:label "RD-0233"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q20203124 rdfs:label "RD-0236"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q20203126 rdfs:label "RD-263"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q2025290 a wd:Q12757 ;
+    rdfs:label "Q2025290"^^xsd:string .
+
+wd:Q2025295 a wd:Q12757 ;
+    rdfs:label "Q2025295"^^xsd:string .
+
+wd:Q2030323 a wd:Q12757 ;
+    rdfs:label "Opel C20XE"@en .
+
+wd:Q2032984 rdfs:label "Rolls-Royce BR700"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q203346 a wd:Q28816538 ;
+    rdfs:label "aircraft seat"@en .
+
+wd:Q2055960 a wd:Q28816538 ;
+    rdfs:label "Passenger service unit"@en .
+
+wd:Q205702 a wd:Q335225 ;
+    rdfs:label "ion thruster"@en .
+
+wd:Q2062335 rdfs:label "Heinkel HeS 8"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q206298 rdfs:label "General Electric T31"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20630754 rdfs:label "Simonini Mini 2 Plus"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20630764 rdfs:label "Simonini Mini 2 Evo"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2064044 rdfs:label "Marboré"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q206976 a wd:Q28816538 ;
+    rdfs:label "tachometer"@en .
+
+wd:Q20715016 rdfs:label "DeltaHawk DH160"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20715031 rdfs:label "Raven 1000 UL"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20715087 rdfs:label "Stratus EA 81"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20715088 rdfs:label "Stratus EJ 22"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20760389 rdfs:label "O-360-A1A"@en ;
+    rdfs:subClassOf wd:Q1777769 .
+
+wd:Q20820025 a wd:Q811909 ;
+    rdfs:label "Q20820025"^^xsd:string .
+
+wd:Q20827287 a wd:Q12757 ;
+    rdfs:label "Mercedes-Benz OM654 engine"@en .
+
+wd:Q2087054 a wd:Q28816538 ;
+    rdfs:label "Q2087054"^^xsd:string .
+
+wd:Q20900407 rdfs:label "Kolesov RD-36-51"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q20909596 rdfs:label "SNECMA Régnier 4L"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909603 rdfs:label "Simonini Victor 2 Super"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909604 rdfs:label "Simonini Victor 2"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909605 rdfs:label "Simonini Victor 1 Super"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909606 rdfs:label "Simonini Mini 4"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909607 rdfs:label "Simonini Mini 3"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909617 rdfs:label "Rotax 915 iS"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909623 rdfs:label "Potez 8D"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909624 rdfs:label "Potez 6D"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909638 rdfs:label "Limbach L550E"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909639 rdfs:label "Limbach L275E"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909640 rdfs:label "Limbach L1700"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909651 rdfs:label "ICP M09"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909658 rdfs:label "Hexadyne P60"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909664 rdfs:label "GEN 125"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909674 rdfs:label "Eggenfellner E6"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909677 rdfs:label "Delage 12C.E.D.irs"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909716 rdfs:label "Austro Engine GIAE110R"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909717 rdfs:label "Austro Engine AE50R"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20909718 rdfs:label "Argus As 5"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q20936584 rdfs:label "YF-115"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q20940260 rdfs:label "YF-1"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q20942882 rdfs:label "YF-40"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q2094301 a wd:Q28816538 ;
+    rdfs:label "Propeller walk"@en .
+
+wd:Q20944070 rdfs:label "YF-20"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q209760 a wd:Q28816538 ;
+    rdfs:label "rudder"@en .
+
+wd:Q21036167 a wd:Q743004 ;
+    rdfs:label "Q21036167"^^xsd:string .
+
+wd:Q21044510 a wd:Q743004 ;
+    rdfs:label "Q21044510"^^xsd:string .
+
+wd:Q21072743 rdfs:label "RED A03"@en ;
+    rdfs:subClassOf wd:Q4698541 .
+
+wd:Q2107921 a wd:Q28816538 ;
+    rdfs:label "Pratt & Whitney Canada PW200"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2107937 rdfs:label "Pratt & Whitney R-2060 Yellow Jacket"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2107964 rdfs:label "Pratt & Whitney JT8D"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q2107978 rdfs:label "JT9D"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q21087005 a wd:Q743004 ;
+    rdfs:label "Q21087005"^^xsd:string .
+
+wd:Q21087006 a wd:Q743004 ;
+    rdfs:label "Q21087006"^^xsd:string .
+
+wd:Q21087233 a wd:Q743004 ;
+    rdfs:label "Q21087233"^^xsd:string .
+
+wd:Q21090969 rdfs:label "CT7-5A"@en ;
+    rdfs:subClassOf wd:Q15623398 .
+
+wd:Q21092630 a wd:Q743004 ;
+    rdfs:label "Q21092630"^^xsd:string .
+
+wd:Q21121721 rdfs:label "TPE331-5"@en ;
+    rdfs:subClassOf wd:Q750992 .
+
+wd:Q21129761 rdfs:label "TPE331-10UG"@en ;
+    rdfs:subClassOf wd:Q750992 .
+
+wd:Q2118929 rdfs:label "Xian WS-15"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q21207467 rdfs:label "Isotta Fraschini Gamma"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q21245967 a wd:Q28816538 ;
+    rdfs:label "Runway Awareness and Advisory System"@en .
+
+wd:Q2135146 a wd:Q28816538 ;
+    rdfs:label "Receiver autonomous integrity monitoring"@en .
+
+wd:Q2142509 a wd:Q28816538 ;
+    rdfs:label "Relative bearing indicator"@en .
+
+wd:Q21463441 a wd:Q28816538 ;
+    rdfs:label "RAD5500"@en .
+
+wd:Q2159756 a wd:Q654051 ;
+    rdfs:label "IHI Corporation F7"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2164285 rdfs:label "Rolls-Royce Exe"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2164289 rdfs:label "Rolls-Royce Hawk"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2164321 rdfs:label "Rolls-Royce Avon"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q2164325 rdfs:label "Rolls-Royce Griffon"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2168102 rdfs:label "Rotax 503"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q218657 rdfs:label "General Electric F101"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q22082152 a wd:Q28816538 ;
+    rdfs:label "field of regard"@en .
+
+wd:Q220858 a wd:Q28816538 ;
+    rdfs:label "autopilot"@en .
+
+wd:Q22101849 a wd:Q28816538 ;
+    rdfs:label "Simonini Racing"@en .
+
+wd:Q221136 a wd:Q178777,
+        wd:Q28816538 ;
+    rdfs:label "Klimov TV2-117"@en .
+
+wd:Q22115589 a wd:Q28816538 ;
+    rdfs:label "German Luftwaffe and Navy Radar Equipment"@en .
+
+wd:Q221329 a wd:Q28816538 ;
+    rdfs:label "avionics"@en .
+
+wd:Q222946 a wd:Q28816538 ;
+    rdfs:label "airframe"@en .
+
+wd:Q2239130 a wd:Q28816538 ;
+    rdfs:label "Trailing Cone"@en .
+
+wd:Q2257426 rdfs:label "Shvetsov ASh-2"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2284289 rdfs:label "Siemens-Halske Sh.III"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q228568 a wd:Q811909 ;
+    rdfs:label "Zuhaltung"@en .
+
+wd:Q228686 a wd:Q811909 ;
+    rdfs:label "Zukaufteil"@en .
+
+wd:Q2295968 a wd:Q28816538 ;
+    rdfs:label "swashplate"@en .
+
+wd:Q2299132 a wd:Q28816538 ;
+    rdfs:label "Q2299132"^^xsd:string .
+
+wd:Q23016384 rdfs:label "Wright R-4090 Cyclone 22"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q23023530 rdfs:label "Shenyang WS-20"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q23043164 rdfs:label "General Electric Advanced Turboprop"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q23043173 a wd:Q335225 ;
+    rdfs:label "Rocketdyne S-3D"@en .
+
+wd:Q23067895 rdfs:label "Renault 438"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q23067896 rdfs:label "Renault 6P"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q23067897 rdfs:label "Renault 6Q"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2314110 a wd:Q28816538 ;
+    rdfs:label "firewall"@en .
+
+wd:Q2314738 a wd:Q28816538 ;
+    rdfs:label "Spy basket"@en .
+
+wd:Q2330133 a wd:Q28816538 ;
+    rdfs:label "STANAG 3910: High Speed Data Transmission Under STANAG 3838 or Fibre Optic Equivalent Control"@en .
+
+wd:Q2362507 a wd:Q28816538 ;
+    rdfs:label "Coaxial rotors"@en .
+
+wd:Q23765 a wd:Q335225 ;
+    rdfs:label "Bell 8000"@en .
+
+wd:Q23777534 a wd:Q618844 ;
+    rdfs:label "FG-36"@en .
+
+wd:Q2389519 a wd:Q28816538 ;
+    rdfs:label "cabin pressurization"@en .
+
+wd:Q2389899 rdfs:label "Mikulin M-17"@en ;
+    rdfs:subClassOf wd:Q796760 .
+
+wd:Q2392741 rdfs:label "Gnome-Rhône 14M"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2402640 rdfs:label "Argus As 014"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q24039786 rdfs:label "General Electric I-A"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q2414362 a wd:Q28816538 ;
+    rdfs:label "T-tail"@en .
+
+wd:Q2420733 rdfs:label "Thielert Centurion 1.7"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2420749 a wd:Q743004 ;
+    rdfs:label "Thielert Centurion"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2440838 rdfs:label "Tumansky M-87"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2446431 rdfs:label "Sustainer engine"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q2447039 a wd:Q28816538 ;
+    rdfs:label "Wingbox"@en .
+
+wd:Q2450750 rdfs:label "General Electric J31"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q2450784 a wd:Q28816538 ;
+    rdfs:label "Primary flight display"@en .
+
+wd:Q24589589 a wd:Q28816538 ;
+    rdfs:label "Instrument landing system glide path"@en .
+
+wd:Q24589666 a wd:Q28816538 ;
+    rdfs:label "AC 20-115"@en .
+
+wd:Q2460539 rdfs:label "Turbomeca Palouste"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2473660 a wd:Q28816538 ;
+    rdfs:label "Intake"@en .
+
+wd:Q248152 rdfs:label "Zündapp 9-092"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q24896213 a wd:Q28816538 ;
+    rdfs:label "passenger drone"@en .
+
+wd:Q24963328 a wd:Q28816538 ;
+    rdfs:label "Free-turbine turboshaft"@en .
+
+wd:Q24993354 rdfs:label "Rolls-Royce Trent 7000"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q250386 a wd:Q1310239 ;
+    rdfs:label "pile"@en .
+
+wd:Q2505984 a wd:Q28816538 ;
+    rdfs:label "VHF Data Link"@en .
+
+wd:Q2506381 a wd:Q28816538 ;
+    rdfs:label "VORTAC"@en .
+
+wd:Q25098550 a wd:Q28816538 ;
+    rdfs:label "Inertial platform"@en .
+
+wd:Q25100355 a wd:Q28816538 ;
+    rdfs:label "Rudder travel limiter"@en .
+
+wd:Q25105061 a wd:Q28816538 ;
+    rdfs:label "Underwater thruster"@en .
+
+wd:Q25109909 rdfs:label "ACAE CJ-1000A"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q25111434 a wd:Q28816538 ;
+    rdfs:label "External Vision System"@en .
+
+wd:Q2515721 a wd:Q28816538 ;
+    rdfs:label "Carburetor heat"@en .
+
+wd:Q25221451 a wd:Q335225 ;
+    rdfs:label "UA120"@en .
+
+wd:Q252451 a wd:Q28816538 ;
+    rdfs:label "elevator"@en .
+
+wd:Q25245286 rdfs:label "Turbomeca Arbizon"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q25245335 rdfs:label "Verner JCV 360"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q25245339 rdfs:label "ULPower UL350i"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q25245363 rdfs:label "Rotax 535"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q25245410 rdfs:label "Walter M602"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q25245475 a wd:Q28816538 ;
+    rdfs:label "UAV-related events"@en .
+
+wd:Q25303387 rdfs:label "Falconer V-12"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q25303394 rdfs:label "Better Half VW"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q25303398 rdfs:label "Lorraine 12F Courlis"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q25304123 a wd:Q28816538 ;
+    rdfs:label "Coax-P"@en .
+
+wd:Q25304278 a wd:Q28816538 ;
+    rdfs:label "Forward Drive"@en .
+
+wd:Q25304290 a wd:Q28816538 ;
+    rdfs:label "Enhanced flight vision system"@en .
+
+wd:Q25327012 a wd:Q28816538 ;
+    rdfs:label "NPP Zvezda SKS-94"@en .
+
+wd:Q25327048 rdfs:label "Ivchenko-Progress Motor Sich AI-450S"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q2534008 a wd:Q28816538 ;
+    rdfs:label "leading edge slat"@en .
+
+wd:Q25346168 rdfs:label "RD-250"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q25385061 rdfs:label "General Electric GE9X"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q25392247 a wd:Q335225 ;
+    rdfs:label "P120C"@en .
+
+wd:Q2545479 rdfs:label "Walter M601"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2551425 a wd:Q723916 ;
+    rdfs:label "Tumansky R-15"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q2574100 rdfs:label "TF30"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q2576221 rdfs:label "Kuznetsov NK-144"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q2594466 a wd:Q723916 ;
+    rdfs:label "Wright J65"@en ;
+    rdfs:subClassOf wd:Q3257644 .
+
+wd:Q2599083 rdfs:label "IAE V2500"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q260022 a wd:Q28816538 ;
+    rdfs:label "Townend ring"@en .
+
+wd:Q262330 a wd:Q654051 ;
+    rdfs:label "CFM International LEAP"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q26331278 rdfs:label "launch motor (rocketry)"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q263421 a wd:Q28816538 ;
+    rdfs:label "undercarriage"@en .
+
+wd:Q2635817 rdfs:label "Kuznetsov NK-32"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q2646157 rdfs:label "Allison J71"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q264939 a wd:Q28816538 ;
+    rdfs:label "FLARM"@en .
+
+wd:Q27070220 a wd:Q28816538 ;
+    rdfs:label "nacelle"@en .
+
+wd:Q2708163 rdfs:label "Nakajima Sakae"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2712515 a wd:Q28816538 ;
+    rdfs:label "stabilizer"@en .
+
+wd:Q2720056 a wd:Q28816538 ;
+    rdfs:label "aircraft fairing"@en .
+
+wd:Q2736751 a wd:Q28816538 ;
+    rdfs:label "aircraft canopy"@en .
+
+wd:Q2747568 a wd:Q28816538 ;
+    rdfs:label "Valveless pulse jet"@en .
+
+wd:Q2760895 a wd:Q28816538 ;
+    rdfs:label "Shock cooling"@en .
+
+wd:Q280602 rdfs:label "solid-propellant rocket"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q28135262 a wd:Q28816538 ;
+    rdfs:label "Crazyflie 2.0"@en .
+
+wd:Q28228036 a wd:Q28816538 ;
+    rdfs:label "Y-Control for fighters"@en .
+
+wd:Q28229510 rdfs:label "Simonini Victor 2 Plus"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2828188 a wd:Q28816538 ;
+    rdfs:label "Air data inertial reference unit"@en .
+
+wd:Q28404921 a wd:Q743004 ;
+    rdfs:label "Walter Mars I"@en .
+
+wd:Q284143 rdfs:label "Conway"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q28454000 rdfs:label "electric pump-fed engine"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q28454446 a wd:Q28816538 ;
+    rdfs:label "Automated flight attending"@en .
+
+wd:Q28456020 a wd:Q28816538 ;
+    rdfs:label "Target-type thrust reversal"@en .
+
+wd:Q28456476 a wd:Q28816538 ;
+    rdfs:label "Airborne Internet"@en .
+
+wd:Q2858187 a wd:Q28816538 ;
+    rdfs:label "Strake"@en .
+
+wd:Q2861087 rdfs:label "Argus As II"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2862189 a wd:Q28816538 ;
+    rdfs:label "Air-to-ground weaponry"@en .
+
+wd:Q2868572 a wd:Q28816538 ;
+    rdfs:label "astrodome"@en .
+
+wd:Q2868776 rdfs:label "SNECMA Atar Volant"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q2872503 a wd:Q28816538 ;
+    rdfs:label "Autothrottle"@en .
+
+wd:Q2874353 a wd:Q28816538 ;
+    rdfs:label "tricycle gear"@en .
+
+wd:Q2874355 a wd:Q28816538 ;
+    rdfs:label "conventional landing gear"@en .
+
+wd:Q287488 rdfs:label "Progress D-18T"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q287493 rdfs:label "de Havilland Ghost"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q288028 a wd:Q28816538 ;
+    rdfs:label "Aircraft Communications Addressing and Reporting System"@en .
+
+wd:Q2881406 a wd:Q28816538 ;
+    rdfs:label "Ballute"@en .
+
+wd:Q288955 rdfs:label "Olympus 593"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q2893427 a wd:Q1310239 ;
+    rdfs:label "lip"@en .
+
+wd:Q289702 rdfs:label "Jendrassik Cs-1"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q2897219 a wd:Q811909 ;
+    rdfs:label "Q2897219"^^xsd:string .
+
+wd:Q29017918 rdfs:label "Ava 4A"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q29036220 rdfs:label "IO-360-B1A"@en ;
+    rdfs:subClassOf wd:Q15896245 .
+
+wd:Q2905000 a wd:Q28816538 ;
+    rdfs:label "Total air temperature"@en .
+
+wd:Q29075345 rdfs:label "H-3"@en ;
+    rdfs:subClassOf wd:Q1461826 .
+
+wd:Q291960 a wd:Q28816538 ;
+    rdfs:label "Avionics Full-Duplex Switched Ethernet"@en .
+
+wd:Q29443370 rdfs:label "TSIO-550E"@en ;
+    rdfs:subClassOf wd:Q23934425 .
+
+wd:Q2949763 a wd:Q28816538 ;
+    rdfs:label "chevron"@en .
+
+wd:Q2992500 a wd:Q28816538 ;
+    rdfs:label "wing configuration"@en .
+
+wd:Q2994908 a wd:Q28816538 ;
+    rdfs:label "Constant speed drive"@en .
+
+wd:Q3025245 a wd:Q28816538 ;
+    rdfs:label "Supercavitating propeller"@en .
+
+wd:Q3026015 a wd:Q28816538 ;
+    rdfs:label "radiation hardening"@en .
+
+wd:Q3040074 a wd:Q28816538 ;
+    rdfs:label "terrain awareness and warning system"@en .
+
+wd:Q3046516 rdfs:label "Le Rhône 9C"@en ;
+    rdfs:subClassOf wd:Q15065599,
+        wd:Q743004 .
+
+wd:Q3050846 a wd:Q28816538 ;
+    rdfs:label "lightning detection"@en .
+
+wd:Q3071230 rdfs:label "Fiat A.10"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q30878136 rdfs:label "booster (rocketry)"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q30892511 a wd:Q28816538 ;
+    rdfs:label "TV7-117"@en ;
+    rdfs:subClassOf wd:Q309027,
+        wd:Q743004 .
+
+wd:Q3119335 a wd:Q811909 ;
+    rdfs:label "Guibre"@en .
+
+wd:Q31281722 a wd:Q335225 ;
+    rdfs:label "Q31281722"^^xsd:string .
+
+wd:Q3136496 rdfs:label "Q3136496"^^xsd:string ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3136497 rdfs:label "Hispano-Suiza 14AA"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3146519 a wd:Q28816538 ;
+    rdfs:label "IBM System/4 Pi"@en .
+
+wd:Q3199364 rdfs:label "NK-8"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q3199365 rdfs:label "Kuznetsov NK-87"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3199367 rdfs:label "Kuznetsov NK-86"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q320244 rdfs:label "Junkers Jumo 222"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q321750 rdfs:label "Pirna 014"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q323015 a wd:Q28816538 ;
+    rdfs:label "Apollo Abort Guidance System"@en .
+
+wd:Q3244117 a wd:Q28816538 ;
+    rdfs:label "Laddermill"@en .
+
+wd:Q325868 rdfs:label "L 5"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3298983 rdfs:label "Klimov VK-107"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q33132293 rdfs:label "PT6A-67D"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q3325085 a wd:Q28816538 ;
+    rdfs:label "Critical engine"@en .
+
+wd:Q332999 a wd:Q28816538 ;
+    rdfs:label "engine-indicating and crew-alerting system"@en .
+
+wd:Q333044 a wd:Q28816538 ;
+    rdfs:label "traffic collision avoidance system"@en .
+
+wd:Q3334484 rdfs:label "NPO Saturn AL-32"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q3338601 a wd:Q12757 ;
+    rdfs:label "Opel C20LET"@en .
+
+wd:Q3359167 a wd:Q28816538 ;
+    rdfs:label "vortex generator"@en .
+
+wd:Q336368 a wd:Q28816538 ;
+    rdfs:label "drop tank"@en .
+
+wd:Q3367140 a wd:Q28816538 ;
+    rdfs:label "Helicopter flight controls"@en .
+
+wd:Q339490 rdfs:label "Bristol Draco"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q340736 a wd:Q811909 ;
+    rdfs:label "Achshalter"@en .
+
+wd:Q3407933 a wd:Q28816538 ;
+    rdfs:label "flight envelope protection"@en .
+
+wd:Q3440523 rdfs:label "Rolls-Royce/SNECMA M45H"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3459606 a wd:Q28816538 ;
+    rdfs:label "SAGEM Sigma 30"@en .
+
+wd:Q3474233 a wd:Q28816538 ;
+    rdfs:label "Wing tip"@en .
+
+wd:Q3484017 rdfs:label "Snecma Silvercrest"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3488330 rdfs:label "E-1"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q3504798 rdfs:label "Clerget 7Z"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3506898 rdfs:label "Sunbeam Arab"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3507848 rdfs:label "Mercedes D.IV"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3507878 rdfs:label "Mercedes D.IVa"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3508301 rdfs:label "Bentley BR1"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3509293 a wd:Q28816538 ;
+    rdfs:label "Air traffic control radar beacon system"@en .
+
+wd:Q3510722 rdfs:label "Mercedes D.II"@en ;
+    rdfs:subClassOf wd:Q1138418,
+        wd:Q743004 .
+
+wd:Q3510742 rdfs:label "Walter NZ 60"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3510781 rdfs:label "Clerget aircraft engines"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3513293 a wd:Q28816538 ;
+    rdfs:label "aircraft cabin"@en .
+
+wd:Q3546237 a wd:Q811909 ;
+    rdfs:label "Q3546237"^^xsd:string .
+
+wd:Q355423 a wd:Q28816538 ;
+    rdfs:label "NACA cowling"@en .
+
+wd:Q3561307 a wd:Q28816538 ;
+    rdfs:label "spinner"@en .
+
+wd:Q3574620 rdfs:label "CFM56"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q3577325 a wd:Q811909 ;
+    rdfs:label "Q3577325"^^xsd:string .
+
+wd:Q357797 a wd:Q28816538 ;
+    rdfs:label "Side-stick"@en .
+
+wd:Q3595564 rdfs:label "GTRE GTX-35VS Kaveri"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q3607059 rdfs:label "Aichi Atsuta"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3610938 rdfs:label "Alfa Romeo 122"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3610941 rdfs:label "Alfa 125 R.C.35"@en ;
+    rdfs:subClassOf wd:Q3610946 .
+
+wd:Q3610948 rdfs:label "Alfa 126 R.C.34"@en ;
+    rdfs:subClassOf wd:Q3610946 .
+
+wd:Q3610954 rdfs:label "Alfa Romeo 135"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3622473 rdfs:label "Argus As 8"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3630510 a wd:Q28816538 ;
+    rdfs:label "Autoland"@en .
+
+wd:Q3631927 rdfs:label "BMW 116"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3631929 rdfs:label "BMW 117"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3632116 rdfs:label "BMW VIIa"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3632117 rdfs:label "BMW X"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3638393 rdfs:label "Benz Bz.IV"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3642311 rdfs:label "Booster separation motor"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q36444943 a wd:Q743004 ;
+    rdfs:label "Gnome-Rhône 5K"@en .
+
+wd:Q3644932 rdfs:label "Bristol Aquila"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3644936 rdfs:label "Bristol Hydra"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3644972 rdfs:label "Bristol Perseus"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3688931 rdfs:label "Continental O-190"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3688932 rdfs:label "O-200"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q369433 rdfs:label "Isotta Fraschini Asso XI"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3703995 rdfs:label "de Havilland Gipsy Six"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q371949 a wd:Q28816538 ;
+    rdfs:label "flight director"@en .
+
+wd:Q373437 a wd:Q12757 ;
+    rdfs:label "Mercedes-Benz OM647 engine"@en .
+
+wd:Q3735522 rdfs:label "Alfa Romeo 110"@en ;
+    rdfs:subClassOf wd:Q904988 .
+
+wd:Q3744412 rdfs:label "Fiat A.14"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3744414 rdfs:label "A.20"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3744416 rdfs:label "Fiat A.22"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3744419 rdfs:label "Fiat A.50"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3744420 rdfs:label "Fiat A.54"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3744426 rdfs:label "Fiat AS.2"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3744428 rdfs:label "Fiat AS.5"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3759471 rdfs:label "General Electric CJ610"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3759473 rdfs:label "General Electric GE4"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3759477 rdfs:label "General Electric YF120"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3759478 rdfs:label "General Electric YJ101"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3772525 a wd:Q743004 ;
+    rdfs:label "Q3772525"^^xsd:string .
+
+wd:Q3772625 rdfs:label "Gnome et Rhône 9K Mistral"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3772629 rdfs:label "Gnome Omega"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3785790 rdfs:label "Hirth HM 501"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3785791 rdfs:label "Hirth HM 504"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3785792 rdfs:label "Hirth HM 60"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3785852 rdfs:label "Hispano-Suiza 12Z"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3785950 rdfs:label "Hitachi Hatsukaze"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q37952633 rdfs:label "PT6A-65B"@en ;
+    rdfs:subClassOf wd:Q2061540 .
+
+wd:Q3796906 a wd:Q28816538 ;
+    rdfs:label "Ice protection system"@en .
+
+wd:Q3798702 a wd:Q12757 ;
+    rdfs:label "Flooded engine"@en .
+
+wd:Q3803328 rdfs:label "Isotta Fraschini Asso 750"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3803332 rdfs:label "Isotta Fraschini Asso Caccia"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3803341 rdfs:label "Isotta Fraschini V.6"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q380813 a wd:Q28816538 ;
+    rdfs:label "Thrust lever"@en .
+
+wd:Q3811326 rdfs:label "Junkers Jumo 204"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3811333 rdfs:label "Junkers L1"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3811335 rdfs:label "Junkers L88"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q381581 a wd:Q28816538 ;
+    rdfs:label "Aeronautical Telecommunication Network"@en .
+
+wd:Q382835 a wd:Q28816538 ;
+    rdfs:label "Jump seat"@en .
+
+wd:Q3831738 rdfs:label "Liberty L-6"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3840181 a wd:Q28816538 ;
+    rdfs:label "Luigi Stipa"@en .
+
+wd:Q3840979 rdfs:label "Lycoming R-680"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3841046 rdfs:label "Lyulka AL-5"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q384435 rdfs:label "Klimov RD-500"@en ;
+    rdfs:subClassOf wd:Q723916,
+        wd:Q743004 .
+
+wd:Q3853166 rdfs:label "Maybach Mb.IVa"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q385472 a wd:Q28816538 ;
+    rdfs:label "NOTAR"@en .
+
+wd:Q3855048 rdfs:label "Mercedes D.I"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3855741 rdfs:label "Metropolitan-Vickers F.2"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3857530 rdfs:label "Mikulin AM-37"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q386373 rdfs:label "Mikulin AM-42"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3866350 a wd:Q12757 ;
+    rdfs:label "Nissan HR engine"@en .
+
+wd:Q3866353 a wd:Q12757 ;
+    rdfs:label "Q3866353"^^xsd:string .
+
+wd:Q3866356 a wd:Q12757 ;
+    rdfs:label "Renault E-Type engine"@en .
+
+wd:Q3870222 rdfs:label "Napier Cub"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3870223 rdfs:label "Napier Rapier"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3870226 a wd:Q28816538 ;
+    rdfs:label "Napier Gazelle"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3882859 a wd:Q12757 ;
+    rdfs:label "Opel OHC four-cylinder engine"@en .
+
+wd:Q3882860 a wd:Q12757 ;
+    rdfs:label "Q3882860"^^xsd:string .
+
+wd:Q3882861 a wd:Q12757 ;
+    rdfs:label "Opel OHV engine"@en .
+
+wd:Q3882865 a wd:Q12757 ;
+    rdfs:label "Q3882865"^^xsd:string .
+
+wd:Q3882866 a wd:Q12757 ;
+    rdfs:label "Q3882866"^^xsd:string .
+
+wd:Q3888670 rdfs:label "Packard DR-980"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3901857 rdfs:label "P.VII"@en ;
+    rdfs:subClassOf wd:Q3772624 .
+
+wd:Q390219 a wd:Q723916 ;
+    rdfs:label "Klimov VK-1"@en ;
+    rdfs:subClassOf wd:Q639668 .
+
+wd:Q390472 rdfs:label "Benz Bz.IIIb"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q39088158 rdfs:label "Nakajima Ha219"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3909519 a wd:Q28816538 ;
+    rdfs:label "War emergency power"@en .
+
+wd:Q39175730 rdfs:label "T50-BO-04"@en ;
+    rdfs:subClassOf wd:Q2908542 .
+
+wd:Q39176058 rdfs:label "T50-BO-8A"@en ;
+    rdfs:subClassOf wd:Q2908542 .
+
+wd:Q3932888 a wd:Q12757 ;
+    rdfs:label "Renault D-Type engine"@en .
+
+wd:Q3932900 a wd:Q12757 ;
+    rdfs:label "Renault K-Type engine"@en .
+
+wd:Q3940372 rdfs:label "Rolls-Royce Buzzard"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3940375 rdfs:label "Rolls-Royce Eagle"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3940376 a wd:Q28816538 ;
+    rdfs:label "Gem"@en .
+
+wd:Q3940378 rdfs:label "Rolls-Royce Pennine"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3940382 rdfs:label "RB.44 Tay"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q3943820 rdfs:label "SPA 6A"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3945070 a wd:Q28816538 ;
+    rdfs:label "Localizer"@en .
+
+wd:Q3950830 rdfs:label "Saturn AL-55"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3960201 rdfs:label "Siemens-Halske Sh 11"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3960202 rdfs:label "Siemens-Halske Sh 12"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3960203 rdfs:label "Siemens-Halske Sh 13"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3960204 rdfs:label "Siemens-Halske Sh 4"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3960206 rdfs:label "Siemens-Halske Sh 5"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3962215 a wd:Q28816538 ;
+    rdfs:label "Synthetic vision system"@en .
+
+wd:Q4000566 rdfs:label "Turbomeca Bastan"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4010119 a wd:Q28816538 ;
+    rdfs:label "Aircraft dope"@en .
+
+wd:Q4016384 a wd:Q12757 ;
+    rdfs:label "Volvo B8444S engine"@en .
+
+wd:Q4018037 rdfs:label "Walter Venus"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4018228 rdfs:label "Warner Scarab Junior"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4019192 rdfs:label "Westinghouse J46"@en ;
+    rdfs:subClassOf wd:Q723916,
+        wd:Q743004 .
+
+wd:Q4019201 a wd:Q28816538 ;
+    rdfs:label "Wet wing"@en .
+
+wd:Q4019578 rdfs:label "Power Jets W.1"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4020196 rdfs:label "Williams F112"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q4039320 rdfs:label "General Electric GE36"@en ;
+    rdfs:subClassOf wd:Q2634412 .
+
+wd:Q4039322 rdfs:label "General Electric LM500"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4043424 a wd:Q28816538 ;
+    rdfs:label "MIL-STD-1750A"@en .
+
+wd:Q4045966 rdfs:label "Orenda Iroquois"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4050801 rdfs:label "Teledyne CAE J402"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q4053967 rdfs:label "Ivchenko AI-26"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4054125 rdfs:label "Charomskiy ACh-30"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q40595 a wd:Q28816538 ;
+    rdfs:label "High-lift device"@en .
+
+wd:Q4116750 a wd:Q28816538 ;
+    rdfs:label "stabilator"@en .
+
+wd:Q4118589 rdfs:label "Tumansky R-29"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q4135025 a wd:Q860308 ;
+    rdfs:label "Raptor"@en .
+
+wd:Q4176618 a wd:Q12757 ;
+    rdfs:label "Opel X20XEV"@en .
+
+wd:Q420122 a wd:Q28816538 ;
+    rdfs:label "Emergency position-indicating radiobeacon station"@en .
+
+wd:Q4206119 a wd:Q28816538 ;
+    rdfs:label "NPP Zvezda K-36"@en .
+
+wd:Q4206320 rdfs:label "KDU-414"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q4214621 a wd:Q12757 ;
+    rdfs:label "Q4214621"^^xsd:string .
+
+wd:Q423336 a wd:Q28816538 ;
+    rdfs:label "Pleuger rudder"@en .
+
+wd:Q4248887 a wd:Q28816538 ;
+    rdfs:label "Attitude and heading reference system"@en .
+
+wd:Q426021 rdfs:label "Armstrong Siddeley Hyena"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q426175 a wd:Q28816538 ;
+    rdfs:label "chopper"@en .
+
+wd:Q426886 rdfs:label "Rolls-Royce Tyne"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q4269578 rdfs:label "Allison TF41"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q4273204 rdfs:label "Charomskiy M-40"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4273224 rdfs:label "Shvetsov M-71"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q427574 rdfs:label "Rolls-Royce Peregrine"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4281900 a wd:Q28816538 ;
+    rdfs:label "Marker beacon"@en .
+
+wd:Q431316 a wd:Q28816538 ;
+    rdfs:label "Arriel"@en .
+
+wd:Q4317446 a wd:Q28816538 ;
+    rdfs:label "Rib"@en .
+
+wd:Q432654 rdfs:label "Ivchenko AI-25"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q4328992 a wd:Q335225 ;
+    rdfs:label "ORM-65"@en .
+
+wd:Q4341007 a wd:Q178777 ;
+    rdfs:label "Aviadvigatel PD-14"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q43449811 rdfs:label "Safran Aneto"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q43449816 rdfs:label "Safran Arrano"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4372167 a wd:Q28816538 ;
+    rdfs:label "former"@en .
+
+wd:Q4386273 rdfs:label "R-95Sh"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q4386416 a wd:Q654051 ;
+    rdfs:label "Soyuz R-79V-300"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4386492 a wd:Q860308 ;
+    rdfs:label "RD-0110"@en .
+
+wd:Q4386493 rdfs:label "RD-0410"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q4386495 a wd:Q335225 ;
+    rdfs:label "RD-173"@en .
+
+wd:Q4386497 rdfs:label "RD-108"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q4386498 rdfs:label "RD-301"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q4386505 rdfs:label "RD-857"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q4386506 rdfs:label "RD-270"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q4393920 a wd:Q28816538 ;
+    rdfs:label "Bitching Betty"@en .
+
+wd:Q4399976 a wd:Q28816538 ;
+    rdfs:label "Aircraft flight manual"@en .
+
+wd:Q4402920 rdfs:label "C2.253"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q4402922 rdfs:label "S5.98M"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q4418637 a wd:Q28816538 ;
+    rdfs:label "Ice detector"@en .
+
+wd:Q445623 a wd:Q28816538 ;
+    rdfs:label "constant speed propeller"@en .
+
+wd:Q446573 rdfs:label "Bristol Cherub"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4476051 a wd:Q28816538 ;
+    rdfs:label "Weight-shift control"@en .
+
+wd:Q449389 rdfs:label "Alvis Leonides"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4545831 rdfs:label "1.5KS35000"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q4545839 rdfs:label "1.8KS7800"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q4545843 rdfs:label "1.9KS2150"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q456431 a wd:Q28816538 ;
+    rdfs:label "pitot-static system"@en .
+
+wd:Q458016 rdfs:label "Rolls-Royce Crecy"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q458029 rdfs:label "Porsche PFM 3200"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q462559 a wd:Q28816538 ;
+    rdfs:label "spoileron"@en .
+
+wd:Q4630514 a wd:Q12757 ;
+    rdfs:label "Opel 20SE"@en .
+
+wd:Q4630515 a wd:Q12757 ;
+    rdfs:label "20SEH"@en .
+
+wd:Q4633990 rdfs:label "2si 230"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4633992 a wd:Q743004 ;
+    rdfs:label "2si 215"@en .
+
+wd:Q4633993 rdfs:label "2si 460"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4633995 rdfs:label "2si 540"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4633997 rdfs:label "2si 808"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q464020 a wd:Q28816538 ;
+    rdfs:label "Instrument Landing System"@en .
+
+wd:Q4650123 rdfs:label "ABC 8 hp"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4650149 rdfs:label "ABC Dragonfly"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4650168 rdfs:label "ABC Hornet"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4650185 rdfs:label "ABC Mosquito"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4650229 rdfs:label "ABC Scorpion"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4650268 rdfs:label "ABC Wasp"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4650614 a wd:Q28816538 ;
+    rdfs:label "ACES II"@en .
+
+wd:Q4651078 rdfs:label "ADC Airdisco"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4651083 rdfs:label "ADC Cirrus"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4651085 rdfs:label "ADC Nimbus"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4651862 a wd:Q28816538 ;
+    rdfs:label "AIDS"@en .
+
+wd:Q4653063 a wd:Q28816538 ;
+    rdfs:label "ANTLE"@en .
+
+wd:Q4653783 a wd:Q28816538 ;
+    rdfs:label "ARINC 818"@en .
+
+wd:Q4653786 a wd:Q28816538 ;
+    rdfs:label "ARINC 826"@en .
+
+wd:Q4653885 a wd:Q28816538 ;
+    rdfs:label "ARP4754"@en .
+
+wd:Q4654087 a wd:Q28816538 ;
+    rdfs:label "ASC-15"@en .
+
+wd:Q466689 a wd:Q28816538 ;
+    rdfs:label "MW 50"@en .
+
+wd:Q4672534 a wd:Q28816538 ;
+    rdfs:label "Accessory drive"@en .
+
+wd:Q4676380 a wd:Q28816538 ;
+    rdfs:label "Acronyms and abbreviations in avionics"@en .
+
+wd:Q4686114 a wd:Q28816538 ;
+    rdfs:label "Advanced Affordable Turbine Engine"@en .
+
+wd:Q4688093 rdfs:label "AeroConversions AeroVee Engine"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4688371 rdfs:label "Aeronca E-107"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4688372 rdfs:label "Aeronca E-113"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4688461 rdfs:label "Aerosport-Rockwell LB600"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4694614 rdfs:label "Agusta GA.140"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4694616 rdfs:label "Agusta GA.40"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4694617 rdfs:label "Agusta GA.70"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4696558 rdfs:label "Aichi AC-1"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4696568 rdfs:label "Aichi Ha-70"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4697623 a wd:Q28816538 ;
+    rdfs:label "Air-ground radiotelephone service"@en .
+
+wd:Q4697676 a wd:Q28816538 ;
+    rdfs:label "AirNav Systems RadarBox"@en .
+
+wd:Q4698317 a wd:Q28816538 ;
+    rdfs:label "Air data boom"@en .
+
+wd:Q4698319 a wd:Q28816538 ;
+    rdfs:label "Air data module"@en .
+
+wd:Q4698467 a wd:Q28816538 ;
+    rdfs:label "Airborne wind shear detection and alert system"@en .
+
+wd:Q4698508 a wd:Q28816538 ;
+    rdfs:label "Aircraft Information Management System"@en .
+
+wd:Q4698545 a wd:Q28816538 ;
+    rdfs:label "Aircraft engine position number"@en .
+
+wd:Q4698547 a wd:Q28816538 ;
+    rdfs:label "Aircraft fabric covering"@en .
+
+wd:Q4698548 a wd:Q28816538 ;
+    rdfs:label "Aircraft engine controls"@en .
+
+wd:Q4698552 a wd:Q28816538 ;
+    rdfs:label "Aircraft fuel system"@en .
+
+wd:Q4698554 a wd:Q28816538 ;
+    rdfs:label "Aircraft lavatory"@en .
+
+wd:Q4698569 a wd:Q28816538 ;
+    rdfs:label "aircraft system"@en .
+
+wd:Q4698690 a wd:Q28816538 ;
+    rdfs:label "Airfone"@en .
+
+wd:Q4698863 a wd:Q28816538 ;
+    rdfs:label "Airplane airbags"@en .
+
+wd:Q47010392 a wd:Q335225 ;
+    rdfs:label "Prometheus"@en .
+
+wd:Q470756 a wd:Q12757 ;
+    rdfs:label "Mercedes-Benz OM617"@en .
+
+wd:Q47086764 rdfs:label "BMW Va"@en ;
+    rdfs:subClassOf wd:Q3632115 .
+
+wd:Q4721828 rdfs:label "Alfa Romeo 121"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q47284835 rdfs:label "Kestrel IIMS"@en ;
+    rdfs:subClassOf wd:Q2164346 .
+
+wd:Q47286236 rdfs:label "Mercury VIIIA"@en ;
+    rdfs:subClassOf wd:Q748146 .
+
+wd:Q47286920 rdfs:label "Merlin I"@en ;
+    rdfs:subClassOf wd:Q1412885 .
+
+wd:Q47286956 rdfs:label "Merlin II"@en ;
+    rdfs:subClassOf wd:Q1412885 .
+
+wd:Q47286998 rdfs:label "Merlin V"@en ;
+    rdfs:subClassOf wd:Q1412885 .
+
+wd:Q4731801 rdfs:label "Allen O-675"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4732767 rdfs:label "Allison J102"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4732832 a wd:Q28816538 ;
+    rdfs:label "Allison T38"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4732842 rdfs:label "Allison V-3420"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q473532 rdfs:label "General Electric J47"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q4738291 rdfs:label "Alvis Pelides"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q474130 rdfs:label "Junkers Jumo 223"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q474611 rdfs:label "Vedeneyev M14P"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q47485657 rdfs:label "BMW VIU"@en ;
+    rdfs:subClassOf wd:Q796760 .
+
+wd:Q475037 a wd:Q28816538 ;
+    rdfs:label "Rolls-Royce Turbomeca RTM322"@en .
+
+wd:Q47507700 a wd:Q335225 ;
+    rdfs:label "Full-scale model of the 1st version Vulcain engine from the Ariane 5 launcher"@en .
+
+wd:Q47528 a wd:Q28816538 ;
+    rdfs:label "radar"@en .
+
+wd:Q47531806 rdfs:label "R-790-3 Whirlwind"@en ;
+    rdfs:subClassOf wd:Q8038252 .
+
+wd:Q47531887 rdfs:label "R-1340-11 Wasp"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q47531924 rdfs:label "R-975-1 Whirlwind"@en ;
+    rdfs:subClassOf wd:Q15921165 .
+
+wd:Q4769782 a wd:Q28816538 ;
+    rdfs:label "Annunciator panel"@en .
+
+wd:Q4775573 rdfs:label "Antoinette 8V"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4778438 rdfs:label "Anzani 10-cylinder"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4778439 rdfs:label "Anzani 20"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4778440 rdfs:label "Anzani 3-cylinder fan engines"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4778441 rdfs:label "Anzani 6-cylinder"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4778893 a wd:Q28816538 ;
+    rdfs:label "Apache Arrowhead"@en .
+
+wd:Q478153 rdfs:label "Allison J35"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q4781538 a wd:Q28816538 ;
+    rdfs:label "Deicing boot"@en .
+
+wd:Q4789783 rdfs:label "Argus As I"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4793566 a wd:Q28816538 ;
+    rdfs:label "Arming plug"@en .
+
+wd:Q4793966 rdfs:label "Armstrong Siddeley Adder"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4793967 rdfs:label "Armstrong Siddeley Cougar"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4793968 rdfs:label "Armstrong Siddeley Deerhound"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4793969 rdfs:label "Armstrong Siddeley Cheetah"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4793971 rdfs:label "Armstrong Siddeley Double Mamba"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4793972 rdfs:label "Armstrong Siddeley Genet"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4793974 rdfs:label "Armstrong Siddeley Genet Major"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4793978 rdfs:label "Armstrong Siddeley Leopard"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4793981 rdfs:label "Armstrong Siddeley Ounce"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4793982 rdfs:label "Armstrong Siddeley Mamba"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4793985 rdfs:label "Serval"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4793990 rdfs:label "Armstrong Siddeley Stentor"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q4796110 rdfs:label "Arrow 1000"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4796112 rdfs:label "Arrow 250"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4796113 rdfs:label "Arrow 500"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q482089 a wd:Q811909 ;
+    rdfs:label "Acélhaj"@en .
+
+wd:Q4825572 rdfs:label "Austro Engine E4"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4826179 a wd:Q28816538 ;
+    rdfs:label "Autobrake"@en .
+
+wd:Q4826271 a wd:Q28816538 ;
+    rdfs:label "Autofeather"@en .
+
+wd:Q4826521 a wd:Q28816538 ;
+    rdfs:label "Automatic Independent Surveillance-Privacy"@en .
+
+wd:Q4826785 a wd:Q28816538 ;
+    rdfs:label "Autonomous Air Combat Manoeuvring Instrumentation"@en .
+
+wd:Q4827891 a wd:Q28816538 ;
+    rdfs:label "Avco/Pratt & Whitney T800"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4828506 rdfs:label "Avia M 337"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4828509 rdfs:label "Avia Rk.12"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4828510 rdfs:label "Avia Rk.17"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4828794 a wd:Q28816538 ;
+    rdfs:label "Avidyne Entegra"@en .
+
+wd:Q4828920 a wd:Q28816538 ;
+    rdfs:label "avionics software"@en .
+
+wd:Q4829486 rdfs:label "Avro Canada Chinook"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4829487 rdfs:label "Avro Canada Orenda"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4835445 a wd:Q28816538 ;
+    rdfs:label "BERP rotor"@en .
+
+wd:Q4835938 a wd:Q12757 ;
+    rdfs:label "BMC B-Series engine"@en .
+
+wd:Q4835940 a wd:Q12757 ;
+    rdfs:label "BMC A-Series engine"@en .
+
+wd:Q4836090 a wd:Q12757 ;
+    rdfs:label "BMW B37"@en .
+
+wd:Q4849999 a wd:Q28816538 ;
+    rdfs:label "Balanced rudder"@en .
+
+wd:Q4876666 rdfs:label "Beardmore 160 hp"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4876668 rdfs:label "Beardmore 120 hp"@en ;
+    rdfs:subClassOf wd:Q743004,
+        wd:Q783801 .
+
+wd:Q4876669 rdfs:label "Beardmore Tornado"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q48845212 rdfs:label "Marquardt MA-74"@en ;
+    rdfs:subClassOf wd:Q60602 .
+
+wd:Q4887128 a wd:Q28816538 ;
+    rdfs:label "Bendix-Stromberg pressure carburetor"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4887435 a wd:Q28816538 ;
+    rdfs:label "Benefield Anechoic Facility"@en .
+
+wd:Q489237 rdfs:label "BMW 803"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q48974 a wd:Q335225 ;
+    rdfs:label "Castor 120"@en .
+
+wd:Q49000428 rdfs:label "Renard Type 100"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q49000445 rdfs:label "Caffort 12Aa"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q49000715 rdfs:label "Cors-Air M25Y Black Devil"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q49000814 rdfs:label "Pobjoy P"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q490235 rdfs:label "Pratt & Whitney X-1800"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4922664 rdfs:label "Blackburn Cirrus Bombardier"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4922744 rdfs:label "Blackburne Thrush"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4922747 rdfs:label "Blackburne Tomtit"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4923715 a wd:Q28816538 ;
+    rdfs:label "blade grinder"@en .
+
+wd:Q4923717 a wd:Q28816538 ;
+    rdfs:label "Blade inspection method"@en .
+
+wd:Q4926644 a wd:Q28816538 ;
+    rdfs:label "Blind flying panel"@en .
+
+wd:Q4928621 a wd:Q28816538 ;
+    rdfs:label "Blown flap"@en .
+
+wd:Q4929093 a wd:Q28816538 ;
+    rdfs:label "Blue Edge"@en .
+
+wd:Q493009 a wd:Q28816538 ;
+    rdfs:label "Aircraft landing lights"@en .
+
+wd:Q4946914 rdfs:label "Borzecki 2RB"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q495550 a wd:Q28816538 ;
+    rdfs:label "Escape crew capsule"@en .
+
+wd:Q4956033 a wd:Q28816538 ;
+    rdfs:label "Brake to Vacate"@en .
+
+wd:Q4956725 rdfs:label "Brandner E-300"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4968962 rdfs:label "Bristol Neptune"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4968971 rdfs:label "Bristol Orion"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4969012 rdfs:label "Bristol Siddeley BS100"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4969013 rdfs:label "Bristol Siddeley 605"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4969015 a wd:Q28816538 ;
+    rdfs:label "Bristol Siddeley Nimbus"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4969038 rdfs:label "Bristol Theseus"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4969039 rdfs:label "Bristol Thor"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4970986 rdfs:label "British Salmson AD.9"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q49717 a wd:Q811909 ;
+    rdfs:label "crankset"@en .
+
+wd:Q4982224 a wd:Q28816538 ;
+    rdfs:label "Bubble canopy"@en .
+
+wd:Q4986142 rdfs:label "Bugatti U-16"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4989905 a wd:Q28816538 ;
+    rdfs:label "counter-rotating propellers"@en .
+
+wd:Q5004190 a wd:Q28816538 ;
+    rdfs:label "Bypass duct"@en .
+
+wd:Q5007780 a wd:Q12757 ;
+    rdfs:label "Opel C20NE"@en .
+
+wd:Q5008050 a wd:Q12757 ;
+    rdfs:label "Opel C25XE"@en .
+
+wd:Q5013066 rdfs:label "CNA C.II"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5013067 rdfs:label "CNA C-7"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5013068 rdfs:label "CNA C.VI"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5013069 rdfs:label "CNA D"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5013582 a wd:Q28816538 ;
+    rdfs:label "CP-823/U"@en .
+
+wd:Q5015229 a wd:Q28816538 ;
+    rdfs:label "Cabane strut"@en .
+
+wd:Q502522 a wd:Q28816538 ;
+    rdfs:label "Radio Technical Commission for Aeronautics"@en .
+
+wd:Q5025838 a wd:Q811909 ;
+    rdfs:label "came"@en .
+
+wd:Q5038274 rdfs:label "Carden-Ford"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q505865 rdfs:label "Westinghouse J40"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q507916 rdfs:label "General Electric CF700"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q509379 a wd:Q28816538 ;
+    rdfs:label "aileron"@en .
+
+wd:Q509684 a wd:Q28816538 ;
+    rdfs:label "Air waybill"@en .
+
+wd:Q5106178 rdfs:label "de Havilland Gyron"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q5114663 rdfs:label "Chrysler IV-2220"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5114689 rdfs:label "Chrysler T36D"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5119336 rdfs:label "Cicaré 4C2T"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5121691 a wd:Q28816538 ;
+    rdfs:label "Circulation control wing"@en .
+
+wd:Q5122172 rdfs:label "Cisco Snap 100"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q512439 rdfs:label "Ishikawajima Ne-20"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q5124403 a wd:Q28816538 ;
+    rdfs:label "Civil Aircraft Missile Protection System"@en .
+
+wd:Q5131813 rdfs:label "Clerget 11Eb"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5131815 rdfs:label "Clerget 16X"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5131818 rdfs:label "Clerget 9B"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5139653 a wd:Q28816538 ;
+    rdfs:label "Cockpit display system"@en .
+
+wd:Q514229 a wd:Q723916 ;
+    rdfs:label "Junkers Jumo 012"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q514719 a wd:Q28816538 ;
+    rdfs:label "Microwave Landing System"@en .
+
+wd:Q5152531 a wd:Q28816538 ;
+    rdfs:label "Commercial Standard Digital Bus"@en .
+
+wd:Q5153632 a wd:Q28816538 ;
+    rdfs:label "Common traffic advisory frequency"@en .
+
+wd:Q5156769 a wd:Q28816538 ;
+    rdfs:label "Composite propeller"@en .
+
+wd:Q5162496 rdfs:label "Conrad C.III"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5165229 rdfs:label "Continental A40"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5165290 rdfs:label "Continental IO-346"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5165305 rdfs:label "Continental O-280"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5165306 rdfs:label "Continental O-240"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5165312 rdfs:label "Continental R-670"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5165323 a wd:Q28816538 ;
+    rdfs:label "Continental T51"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5165324 rdfs:label "Continental TD-300"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5165330 rdfs:label "Continental XI-1430"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5165861 a wd:Q28816538 ;
+    rdfs:label "Control loading system"@en .
+
+wd:Q5165896 a wd:Q28816538 ;
+    rdfs:label "Controllable slope soaring"@en .
+
+wd:Q5165950 a wd:Q28816538 ;
+    rdfs:label "Controller–pilot data link communications"@en .
+
+wd:Q5167223 a wd:Q28816538 ;
+    rdfs:label "Cook–Craigie plan"@en .
+
+wd:Q5167849 a wd:Q28816538 ;
+    rdfs:label "Cooper vane"@en .
+
+wd:Q516976 a wd:Q28816538 ;
+    rdfs:label "Paparazzi Project"@en .
+
+wd:Q5174611 rdfs:label "Cosmos Mercury"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5178179 a wd:Q28816538 ;
+    rdfs:label "Course deviation indicator"@en .
+
+wd:Q5182398 a wd:Q28816538 ;
+    rdfs:label "Crash position indicator"@en .
+
+wd:Q518461 a wd:Q28816538 ;
+    rdfs:label "head-up display"@en .
+
+wd:Q5184944 a wd:Q28816538 ;
+    rdfs:label "Cricket"@en .
+
+wd:Q5189820 a wd:Q28816538 ;
+    rdfs:label "Cruciform tail"@en .
+
+wd:Q5190528 rdfs:label "cryogenic rocket engine"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q5195945 rdfs:label "Curtiss A-2"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5195959 rdfs:label "Curtiss K-12"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5195968 rdfs:label "Curtiss Model K"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5195974 rdfs:label "Curtiss OXX"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5195975 rdfs:label "Curtiss R-600"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5195985 rdfs:label "Curtiss V-2"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5197111 a wd:Q743004 ;
+    rdfs:label "Cuyuna 430"@en .
+
+wd:Q5203274 rdfs:label "D-Motor LF26"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5204888 a wd:Q28816538 ;
+    rdfs:label "DF-224"@en .
+
+wd:Q5205616 a wd:Q28816538 ;
+    rdfs:label "DME torch"@en .
+
+wd:Q5205824 a wd:Q28816538 ;
+    rdfs:label "DO-212"@en .
+
+wd:Q5205827 a wd:Q28816538 ;
+    rdfs:label "DO-178C"@en .
+
+wd:Q5205828 a wd:Q28816538 ;
+    rdfs:label "DO-219"@en .
+
+wd:Q5206396 a wd:Q811909 ;
+    rdfs:label "DVVL"@en .
+
+wd:Q5209136 rdfs:label "Daiichi Kosho DK 472"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5209411 rdfs:label "Daimler-Benz DB 007"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5209415 rdfs:label "Daimler-Benz DB 602"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q52173157 rdfs:label "Superior Air Parts XP-360"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5244416 rdfs:label "de Havilland Ghost"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5244417 rdfs:label "de Havilland Gipsy Minor"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5244418 rdfs:label "de Havilland Gyron Junior"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5244419 rdfs:label "de Havilland Iris"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5248897 a wd:Q28816538 ;
+    rdfs:label "Deceleron"@en .
+
+wd:Q5253262 a wd:Q28816538 ;
+    rdfs:label "Contra-rotating"@en .
+
+wd:Q5253568 a wd:Q28816538 ;
+    rdfs:label "Delco Carousel"@en .
+
+wd:Q5274927 rdfs:label "Diemech TP 100"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q5280399 a wd:Q28816538 ;
+    rdfs:label "Direct voice input"@en .
+
+wd:Q5283871 a wd:Q28816538 ;
+    rdfs:label "Dive brake"@en .
+
+wd:Q5283975 a wd:Q28816538 ;
+    rdfs:label "Diverterless supersonic inlet"@en .
+
+wd:Q529545 rdfs:label "Junkers Jumo 205"@en ;
+    rdfs:subClassOf wd:Q4698541 .
+
+wd:Q5295819 rdfs:label "Dongan WJ-5"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q530415 rdfs:label "Shenyang WS-10"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q5307787 a wd:Q28816538 ;
+    rdfs:label "Dripstick"@en .
+
+wd:Q5308361 a wd:Q28816538 ;
+    rdfs:label "Droop-nose"@en .
+
+wd:Q5309574 a wd:Q28816538 ;
+    rdfs:label "Dry bay"@en .
+
+wd:Q5316168 a wd:Q28816538 ;
+    rdfs:label "Duramold"@en .
+
+wd:Q5323709 rdfs:label "ENMASA Beta"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5324028 rdfs:label "ERCO I-L 116"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5357907 a wd:Q28816538 ;
+    rdfs:label "Electro-hydrostatic actuator"@en .
+
+wd:Q5358337 a wd:Q28816538 ;
+    rdfs:label "electronic centralised aircraft monitor"@en .
+
+wd:Q5360893 rdfs:label "Guizhou WS-13"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q5363888 rdfs:label "Elizalde Tigre IV"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5370685 a wd:Q28816538 ;
+    rdfs:label "Emergency flotation system"@en .
+
+wd:Q5370728 a wd:Q28816538 ;
+    rdfs:label "Emergency oxygen system"@en .
+
+wd:Q5376925 rdfs:label "Energy Efficient Engine"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q5378770 a wd:Q28816538 ;
+    rdfs:label "Enhanced Avionics System"@en .
+
+wd:Q538765 a wd:Q28816538 ;
+    rdfs:label "Pelikan tail"@en .
+
+wd:Q540989 a wd:Q28816538 ;
+    rdfs:label "Lorenz beam"@en .
+
+wd:Q5419953 rdfs:label "Executor"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q5420339 a wd:Q28816538 ;
+    rdfs:label "Exint pod"@en .
+
+wd:Q5420676 a wd:Q28816538 ;
+    rdfs:label "Exoskeletal engine"@en .
+
+wd:Q5430076 rdfs:label "Fairchild J44"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5430077 rdfs:label "Fairchild J83"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5430129 rdfs:label "Fairey Monarch"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5430135 rdfs:label "Fairey Prince"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5430136 rdfs:label "Fairey Prince"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5433596 a wd:Q28816538 ;
+    rdfs:label "Fan disk"@en .
+
+wd:Q5445519 a wd:Q28816538 ;
+    rdfs:label "ferry tank"@en .
+
+wd:Q5446318 rdfs:label "Fiat 4700"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5446325 rdfs:label "Fiat AS.3"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5449029 a wd:Q811909 ;
+    rdfs:label "Film plane"@en .
+
+wd:Q5452018 rdfs:label "Firewall Forward CAM 100"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5452019 rdfs:label "Firewall Forward CAM 125"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5456599 rdfs:label "Flader J55"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5458937 a wd:Q28816538 ;
+    rdfs:label "Flex temp"@en .
+
+wd:Q5459116 a wd:Q28816538 ;
+    rdfs:label "Flight-data acquisition unit"@en .
+
+wd:Q5459262 a wd:Q28816538 ;
+    rdfs:label "Flight control modes"@en .
+
+wd:Q5459340 a wd:Q28816538 ;
+    rdfs:label "Flight test instrumentation"@en .
+
+wd:Q5459350 a wd:Q28816538 ;
+    rdfs:label "Flight with disabled controls"@en .
+
+wd:Q5459938 a wd:Q28816538 ;
+    rdfs:label "Floatstick"@en .
+
+wd:Q5467622 a wd:Q12757 ;
+    rdfs:label "Ford 335 engine"@en .
+
+wd:Q54804276 a wd:Q1310239 ;
+    rdfs:label "foot"@en .
+
+wd:Q5491227 rdfs:label "Franklin 12 series"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5491228 rdfs:label "Franklin 2 series"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5491229 rdfs:label "Franklin 4 series"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5491232 rdfs:label "Franklin 6 series"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5491233 rdfs:label "Franklin 8 series"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5491724 rdfs:label "Franklin O-805"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q54933216 rdfs:label "AeroTwin AT972T"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q54933224 rdfs:label "Briggs & Stratton Vanguard Big Block V-Twin"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q54933235 rdfs:label "Great Plains Type 1 Front Drive"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q54933262 rdfs:label "Raven 1300 SVS Turbo"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q54933263 rdfs:label "Raven 1600 SV"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q54933273 rdfs:label "Superior Air Parts XP-400"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q54933274 rdfs:label "Superior Air Parts XP-320"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q54933275 rdfs:label "Superior Air Parts XP-382"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q54933276 rdfs:label "Superior Air Parts Gemini Diesel 100"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q54933278 rdfs:label "Superior Air Parts Gemini Diesel 125"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55137814 rdfs:label "Zanzottera MZ 100"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55137817 rdfs:label "Zanzottera MZ 313"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5523558 a wd:Q28816538 ;
+    rdfs:label "Garmin G3000"@en .
+
+wd:Q5523885 rdfs:label "Garrett F109"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5523946 rdfs:label "Garrett TPF351"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5526394 a wd:Q28816538 ;
+    rdfs:label "Gascolator"@en .
+
+wd:Q553178 rdfs:label "Heinkel HeS 011"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q5531869 rdfs:label "General Electric H80"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5531870 rdfs:label "General Electric LM1600"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5531871 rdfs:label "General Electric J97"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5531872 rdfs:label "General Electric LM1500"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5531873 rdfs:label "General Electric J87"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5531874 rdfs:label "General Electric Passport"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q5531878 rdfs:label "General Electric LM6000"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5531880 rdfs:label "General Electric LMS100"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5531884 rdfs:label "General Electric TF39"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q55340987 a wd:Q12757 ;
+    rdfs:label "Volvo B20 engine"@en .
+
+wd:Q55602945 rdfs:label "AICTA LMD 416-00R"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55603394 rdfs:label "Airtrike 850ti"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55603427 rdfs:label "Aixro XF-40"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55604524 rdfs:label "Austro Engine AE75R"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55604726 rdfs:label "Bailey Hornet"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55604727 rdfs:label "Bailey V5 engine"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55609556 rdfs:label "Diesel Air Dair 100"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55610478 rdfs:label "Ecofly M160"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55613767 rdfs:label "Hirth 3002"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55613768 rdfs:label "Hirth F-40"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55614757 rdfs:label "JLT Motors Ecoyota"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55616388 rdfs:label "LOM M132"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55616389 rdfs:label "LOM M137"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55616390 rdfs:label "LSA-Engines LSA850"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55616559 rdfs:label "Lanitz 3W 342 iB2 TS"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55621260 rdfs:label "Loravia LOR 75"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55621543 rdfs:label "MAE 323"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55621591 rdfs:label "MTH R 422-CG"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55621604 rdfs:label "MWfly B22"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55621606 rdfs:label "MWfly B25"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55622135 rdfs:label "Marcmotor ROS200"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55623459 rdfs:label "Mistral G-200"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55623460 rdfs:label "Mistral G-230-TS"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55623462 rdfs:label "Mistral G-360-TS"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55623874 rdfs:label "Motorav 2.6 R"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55624500 rdfs:label "NST BS 650"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55629085 rdfs:label "Parma Mikron III UL"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55630106 rdfs:label "Platzer MA 12 P/Nissan"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55632012 rdfs:label "Rotron RT300"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55632014 rdfs:label "Rotron RT600"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55632222 rdfs:label "SMA SR460"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55633423 rdfs:label "Sodemo V2-1.0"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55633424 rdfs:label "Sodemo V2-1.2"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55633465 rdfs:label "Solo 2625"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55634613 rdfs:label "Take Off TBM 11"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55634615 rdfs:label "Take Off TBM 12"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55636408 rdfs:label "ULPower UL390i"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55636409 rdfs:label "ULPower UL520i"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55636865 rdfs:label "VIJA AG-12Si"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55636868 rdfs:label "VIJA J-10Si"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55637000 rdfs:label "Vaxell 100i"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55637003 rdfs:label "Vaxell 60i"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55637004 rdfs:label "Vaxell 80i"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55637061 rdfs:label "Verner Scarlett 7H"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55637182 rdfs:label "Vittorazi Easy 100 Plus"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55637364 a wd:Q743004 ;
+    rdfs:label "Walter Junior"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55637397 rdfs:label "Wankel AG LCR - 407 SGti"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55637398 rdfs:label "Wankel AG LCR - 814 TGti"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55637410 rdfs:label "Warbirds ASz-62 IR"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55642510 rdfs:label "VIJA J-16Ti"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q55659225 rdfs:label "RD-171MV"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q5571707 a wd:Q28816538 ;
+    rdfs:label "Glossary of USSR Russian aviation acronyms – Aero-Engines and Equipment"@en .
+
+wd:Q5571709 a wd:Q28816538 ;
+    rdfs:label "Glossary of USSR Russian aviation acronyms – Avionics and Instruments"@en .
+
+wd:Q5574334 rdfs:label "Gnome Delta"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5574336 rdfs:label "Gnome Gamma"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5588180 a wd:Q28816538 ;
+    rdfs:label "Gouge flap"@en .
+
+wd:Q5597853 a wd:Q28816538 ;
+    rdfs:label "Gravelkit"@en .
+
+wd:Q5602389 rdfs:label "Green C.4"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5602460 rdfs:label "Green D.4"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5602490 rdfs:label "Green E.6"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5610842 a wd:Q28816538 ;
+    rdfs:label "Ground-adjustable propeller"@en .
+
+wd:Q5615354 rdfs:label "Guiberson A-1020"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q56218 a wd:Q28816538 ;
+    rdfs:label "pitot tube"@en .
+
+wd:Q5625523 a wd:Q28816538 ;
+    rdfs:label "Gyroscopic autopilot"@en .
+
+wd:Q56284369 rdfs:label "Piaggio P.XIX"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5630000 rdfs:label "HKS 700E"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q56312755 rdfs:label "eject motor (rocketry)"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q5642548 rdfs:label "Hall-Scott A-1"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5642549 rdfs:label "A-7"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q56801 rdfs:label "Ivchenko-Progress AI-222"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q568074 rdfs:label "Lyulka TR-1"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q5699837 rdfs:label "Heinkel HeS 30"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5705152 a wd:Q28816538 ;
+    rdfs:label "Helicopter AirStair"@en .
+
+wd:Q570607 a wd:Q28816538 ;
+    rdfs:label "inertial navigation system"@en .
+
+wd:Q573253 rdfs:label "ULPower UL260i"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q574425 a wd:Q28816538 ;
+    rdfs:label "Lucas Industries"@en .
+
+wd:Q5771721 rdfs:label "Hirth 2704"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5771725 rdfs:label "Hirth 2702"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5771729 rdfs:label "Hirth 3202"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5771743 rdfs:label "Hirth F-263"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5771747 rdfs:label "Hirth F-30"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5771757 rdfs:label "Hirth HM 512"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5772834 rdfs:label "Hispano-Suiza 12M"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5772844 rdfs:label "Hispano-Suiza 14AB"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q579705 a wd:Q811909 ;
+    rdfs:label "hubcap"@en .
+
+wd:Q581516 a wd:Q28816538 ;
+    rdfs:label "Trim tab"@en .
+
+wd:Q58213477 a wd:Q723916 ;
+    rdfs:label "Kolesov RD-36-35"@en .
+
+wd:Q585456 rdfs:label "Snecma M88"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q585916 rdfs:label "M53"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q588827 rdfs:label "Lotarev DV-2"@en ;
+    rdfs:subClassOf wd:Q654051,
+        wd:Q743004 .
+
+wd:Q5890520 a wd:Q335225 ;
+    rdfs:label "HAD"@en .
+
+wd:Q589283 rdfs:label "Mikulin AM-35"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5893981 rdfs:label "Honeywell AGT1500"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5906712 rdfs:label "I.Ae. 16 El Gaucho"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5910841 a wd:Q28816538 ;
+    rdfs:label "Hot start"@en .
+
+wd:Q591399 a wd:Q28816538 ;
+    rdfs:label "drogue parachute"@en .
+
+wd:Q594966 rdfs:label "RD-107"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q5957666 a wd:Q28816538 ;
+    rdfs:label "Hyper engine"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5968303 rdfs:label "IAE SuperFan"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q5968410 rdfs:label "IAR K14"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q598437 rdfs:label "Pobjoy Niagara"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q599977 a wd:Q28816538 ;
+    rdfs:label "FADEC"@en .
+
+wd:Q601843 rdfs:label "Curtiss H-1640"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q602185 rdfs:label "Gnome-Rhône 14N"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6028512 a wd:Q28816538 ;
+    rdfs:label "Inertial reference unit"@en .
+
+wd:Q60286591 a wd:Q28816538 ;
+    rdfs:label "Q60286591"^^xsd:string .
+
+wd:Q6042867 a wd:Q28816538 ;
+    rdfs:label "Integrated High Performance Turbine Engine Technology"@en .
+
+wd:Q6043076 a wd:Q28816538 ;
+    rdfs:label "Integrated engine pressure ratio"@en .
+
+wd:Q6043163 a wd:Q28816538 ;
+    rdfs:label "Integrated standby instrument system"@en .
+
+wd:Q6043694 rdfs:label "Packard X-2775"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6044135 a wd:Q28816538 ;
+    rdfs:label "Intelligent flight control system"@en .
+
+wd:Q60591 a wd:Q28816538 ;
+    rdfs:label "scramjet"@en .
+
+wd:Q60775739 rdfs:label "General Electric Affinity"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6108742 rdfs:label "JPX D-320"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6110193 rdfs:label "Jabiru 1600"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6110195 rdfs:label "Jabiru 2200"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6110197 rdfs:label "Jabiru 5100"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q611039 rdfs:label "Westinghouse J34"@en ;
+    rdfs:subClassOf wd:Q723916,
+        wd:Q743004 .
+
+wd:Q615977 rdfs:label "Aviadvigatel PS-90"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q61863721 a wd:Q743004 ;
+    rdfs:label "Walter Mira-R"@en .
+
+wd:Q6188305 a wd:Q28816538 ;
+    rdfs:label "Jesus nut"@en .
+
+wd:Q62168153 rdfs:label "Merlin XXI"@en ;
+    rdfs:subClassOf wd:Q1412885 .
+
+wd:Q62168302 rdfs:label "Merlin 61"@en ;
+    rdfs:subClassOf wd:Q1412885 .
+
+wd:Q62168335 rdfs:label "Merlin 31"@en ;
+    rdfs:subClassOf wd:Q1412885 .
+
+wd:Q62168401 rdfs:label "Merlin 113"@en ;
+    rdfs:subClassOf wd:Q1412885 .
+
+wd:Q62168413 rdfs:label "Merlin 114"@en ;
+    rdfs:subClassOf wd:Q1412885 .
+
+wd:Q62172281 rdfs:label "Merlin 25"@en ;
+    rdfs:subClassOf wd:Q1412885 .
+
+wd:Q62395607 rdfs:label "R-1340-40 Wasp"@en ;
+    rdfs:subClassOf wd:Q1852043 .
+
+wd:Q62395680 rdfs:label "Leonides Major 755/1"@en ;
+    rdfs:subClassOf wd:Q3736137 .
+
+wd:Q62395696 rdfs:label "Leonides Major 702/1"@en ;
+    rdfs:subClassOf wd:Q3736137 .
+
+wd:Q62395715 rdfs:label "Leonides Major 751/1"@en ;
+    rdfs:subClassOf wd:Q3736137 .
+
+wd:Q62396895 rdfs:label "Gipsy Major I"@en ;
+    rdfs:subClassOf wd:Q904988 .
+
+wd:Q62396946 rdfs:label "Gipsy Major II"@en ;
+    rdfs:subClassOf wd:Q904988 .
+
+wd:Q62396953 rdfs:label "Gipsy Major 8"@en ;
+    rdfs:subClassOf wd:Q904988 .
+
+wd:Q62396957 rdfs:label "Gipsy Major 10"@en ;
+    rdfs:subClassOf wd:Q904988 .
+
+wd:Q62396960 rdfs:label "Gipsy Major 30"@en ;
+    rdfs:subClassOf wd:Q904988 .
+
+wd:Q62396968 rdfs:label "Gipsy Major 50"@en ;
+    rdfs:subClassOf wd:Q904988 .
+
+wd:Q62396974 rdfs:label "Gipsy Major 200"@en ;
+    rdfs:subClassOf wd:Q904988 .
+
+wd:Q62396978 rdfs:label "helicopter engine"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q62396982 rdfs:label "Gipsy Major 215"@en ;
+    rdfs:subClassOf wd:Q904988 .
+
+wd:Q62397052 rdfs:label "IAR 4-G1"@en ;
+    rdfs:subClassOf wd:Q904988 .
+
+wd:Q624344 a wd:Q28816538 ;
+    rdfs:label "instrument approach"@en .
+
+wd:Q625126 a wd:Q28816538 ;
+    rdfs:label "Aircraft safety card"@en .
+
+wd:Q626560 a wd:Q28816538 ;
+    rdfs:label "Klimov GTD-350"@en .
+
+wd:Q626658 a wd:Q28816538 ;
+    rdfs:label "fly-by-wire"@en .
+
+wd:Q6269329 a wd:Q28816538 ;
+    rdfs:label "Joint Precision Approach and Landing System"@en .
+
+wd:Q630158 a wd:Q28816538 ;
+    rdfs:label "GM-1"@en .
+
+wd:Q6313900 rdfs:label "L 2"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6313902 rdfs:label "Junkers L55"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q631560 rdfs:label "General Electric J79"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q6329125 rdfs:label "KFM 107"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6329128 rdfs:label "KFM 112M"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q633320 a wd:Q28816538 ;
+    rdfs:label "HOTAS"@en .
+
+wd:Q6355808 a wd:Q28816538 ;
+    rdfs:label "Kaman KSA-100 SAVER"@en .
+
+wd:Q635740 rdfs:label "Pratt & Whitney JT12"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q6379723 rdfs:label "Kawasaki 340"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6379724 rdfs:label "Kawasaki 440"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6379757 rdfs:label "Kawasaki Ha40"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q638562 rdfs:label "Continental O-300"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q63954436 a wd:Q743004 ;
+    rdfs:label "Q63954436"^^xsd:string .
+
+wd:Q639549 rdfs:label "Dobrynin VD-4K"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q640335 rdfs:label "Benz Bz.II"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6414064 rdfs:label "Kinner B-5"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6414065 rdfs:label "Kinner C-5"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6414067 rdfs:label "Kinner K-5"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6418009 a wd:Q28816538 ;
+    rdfs:label "Kitchen rudder"@en .
+
+wd:Q641962 rdfs:label "General Electric YJ93"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q6420943 rdfs:label "Klimov M-120"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6420950 a wd:Q28816538 ;
+    rdfs:label "Klimov VK-2500"@en .
+
+wd:Q6421624 rdfs:label "Klöckner-Humboldt-Deutz DZ 710"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q64217565 rdfs:label "Sapphire 101"@en ;
+    rdfs:subClassOf wd:Q3257644 .
+
+wd:Q6433252 rdfs:label "Kosmic Kart"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q645240 rdfs:label "Bristol Phoenix"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6453880 rdfs:label "König SC 430"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6453881 rdfs:label "König SD 570"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6456071 a wd:Q28816538 ;
+    rdfs:label "L-3 SmartDeck"@en .
+
+wd:Q6457616 a wd:Q28816538 ;
+    rdfs:label "LED anti-collision light"@en .
+
+wd:Q64578266 rdfs:label "Fiat A.82"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6459224 a wd:Q28816538 ;
+    rdfs:label "LN-3 Inertial Navigation System"@en .
+
+wd:Q6459226 a wd:Q28816538 ;
+    rdfs:label "LNAV"@en .
+
+wd:Q647286 rdfs:label "Tumansky R-11"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q648452 rdfs:label "Puma"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6484638 a wd:Q28816538 ;
+    rdfs:label "Landing gear extender"@en .
+
+wd:Q64853808 a wd:Q743004 ;
+    rdfs:label "Q64853808"^^xsd:string .
+
+wd:Q6497890 a wd:Q28816538 ;
+    rdfs:label "flight data recorder"@en .
+
+wd:Q6503730 rdfs:label "Lawrance A-3"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6503734 rdfs:label "Lawrance J-1"@en ;
+    rdfs:subClassOf wd:Q1461777 .
+
+wd:Q6503735 rdfs:label "Lawrance L-3"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6506324 rdfs:label "LeBlond radial engines"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q650787 rdfs:label "Argus As 410"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6508755 a wd:Q28816538 ;
+    rdfs:label "Leading edge cuff"@en .
+
+wd:Q652075 a wd:Q28816538 ;
+    rdfs:label "Ferranti Argus"@en .
+
+wd:Q652115 rdfs:label "Argus As 10"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q652158 rdfs:label "Argus As 411"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q652347 a wd:Q28816538 ;
+    rdfs:label "Built-in test equipment"@en .
+
+wd:Q6541850 rdfs:label "Liberty L-4"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6548958 rdfs:label "Limbach L2000"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6548959 rdfs:label "Limbach L2400"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q654975 a wd:Q28816538 ;
+    rdfs:label "General Electric T700"@en .
+
+wd:Q6553034 a wd:Q28816538 ;
+    rdfs:label "Line-replaceable unit"@en .
+
+wd:Q656113 a wd:Q28816538 ;
+    rdfs:label "Klimov TV3-117"@en ;
+    rdfs:subClassOf wd:Q1633693,
+        wd:Q743004 .
+
+wd:Q65643703 a wd:Q811909 ;
+    rdfs:label "Clamp construction brick"@en .
+
+wd:Q657919 a wd:Q28816538 ;
+    rdfs:label "Flight Management System"@en .
+
+wd:Q659809 a wd:Q28816538 ;
+    rdfs:label "Underwater locator beacon"@en .
+
+wd:Q659859 a wd:Q28816538 ;
+    rdfs:label "V-tail"@en .
+
+wd:Q659925 a wd:Q811909 ;
+    rdfs:label "sleeve"@en .
+
+wd:Q6621325 a wd:Q28816538 ;
+    rdfs:label "Weeping wing"@en .
+
+wd:Q662335 rdfs:label "Klimov M-103"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q663695 rdfs:label "R-2000 Twin Wasp"@en ;
+    rdfs:subClassOf wd:Q2107998 .
+
+wd:Q664461 a wd:Q28816538 ;
+    rdfs:label "Rotorhead"@en .
+
+wd:Q6664652 a wd:Q28816538 ;
+    rdfs:label "Localizer type directional aid"@en .
+
+wd:Q6665558 rdfs:label "Lockheed J37"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q66778023 rdfs:label "Hispano-Suiza 8Ab"@en ;
+    rdfs:subClassOf wd:Q1461826 .
+
+wd:Q667801 a wd:Q28816538 ;
+    rdfs:label "escape pod"@en .
+
+wd:Q6681573 rdfs:label "Lorraine Algol"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6681677 rdfs:label "Lorraine Pétrel"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6693020 a wd:Q28816538 ;
+    rdfs:label "Low level windshear alert system"@en .
+
+wd:Q6699684 a wd:Q28816538 ;
+    rdfs:label "Luftwaffe radio equipment (Funkgerät) of World War II"@en .
+
+wd:Q6707335 rdfs:label "Lycoming GSO-580"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6707337 rdfs:label "Lycoming H-2470"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6707338 rdfs:label "Lycoming IO-233"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6707340 rdfs:label "Lycoming IO-390"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6707342 rdfs:label "Lycoming IO-580"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6707348 rdfs:label "Lycoming O-145"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6707349 rdfs:label "Lycoming O-340"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6710575 a wd:Q723916 ;
+    rdfs:label "Lyulka TR-1"@en .
+
+wd:Q6710576 rdfs:label "Lyulka TR-3"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q671090 a wd:Q28816538 ;
+    rdfs:label "pulsejet"@en .
+
+wd:Q6717655 a wd:Q335225 ;
+    rdfs:label "MS-II"@en .
+
+wd:Q6719056 a wd:Q28816538 ;
+    rdfs:label "MULTICOM"@en .
+
+wd:Q6731524 a wd:Q28816538 ;
+    rdfs:label "Magnetic chip detector"@en .
+
+wd:Q6742738 a wd:Q28816538 ;
+    rdfs:label "Malcolm hood"@en .
+
+wd:Q6750630 rdfs:label "Manly–Balzer engine"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q675185 a wd:Q12757 ;
+    rdfs:label "Q675185"^^xsd:string .
+
+wd:Q6772487 a wd:Q60602 ;
+    rdfs:label "Marquardt RJ43"@en .
+
+wd:Q6774814 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.10"@en .
+
+wd:Q6774815 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.2"@en .
+
+wd:Q6774816 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.4"@en .
+
+wd:Q6774817 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.5"@en .
+
+wd:Q6774818 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.6"@en .
+
+wd:Q6774820 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.7"@en .
+
+wd:Q6774821 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.8"@en .
+
+wd:Q6774822 a wd:Q28816538 ;
+    rdfs:label "Martin-Baker Mk.9"@en .
+
+wd:Q67931179 a wd:Q178777 ;
+    rdfs:label "PBS TJ100"@en .
+
+wd:Q67931901 a wd:Q178777 ;
+    rdfs:label "Jet Engine PBS TJ23U"@en .
+
+wd:Q67954084 a wd:Q178777 ;
+    rdfs:label "Jet Engine PBS TJ40-G1"@en .
+
+wd:Q67954247 a wd:Q723916 ;
+    rdfs:label "Jet Engine PBS TJ40-G2"@en .
+
+wd:Q6800767 rdfs:label "McCulloch MAC-101"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q68067944 rdfs:label "Q68067944"^^xsd:string ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q68068539 rdfs:label "Q68068539"^^xsd:string ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q680767 rdfs:label "Bentley BR2"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6816484 rdfs:label "Menasco Buccaneer"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6816488 rdfs:label "Menasco Pirate"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6816489 rdfs:label "Menasco Unitwin 2-544"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6819003 rdfs:label "Meredith effect"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6840458 rdfs:label "Microturbo TRI 60"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6840460 rdfs:label "Microturbo TRS 18"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6840898 rdfs:label "MidWest AE series"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q68557 rdfs:label "Bristol Siddeley Orpheus"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q6880430 rdfs:label "Mistral G-300"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6888103 a wd:Q28816538 ;
+    rdfs:label "Mode control panel"@en .
+
+wd:Q6889730 a wd:Q28816538 ;
+    rdfs:label "Modular propeller"@en .
+
+wd:Q689310 a wd:Q28816538 ;
+    rdfs:label "Ducted fan"@en .
+
+wd:Q689344 rdfs:label "Armstrong Siddeley Lynx"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q689349 rdfs:label "Viper"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q6918154 a wd:Q28816538 ;
+    rdfs:label "Motor Sich MS-500V"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q691858 a wd:Q28816538 ;
+    rdfs:label "wingtip device"@en .
+
+wd:Q693470 a wd:Q335225 ;
+    rdfs:label "RD-170"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q694487 a wd:Q12757 ;
+    rdfs:label "Mercedes-Benz OM642"@en .
+
+wd:Q6952140 rdfs:label "NACA Report No. 103"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6955346 a wd:Q28816538 ;
+    rdfs:label "NSSC-1"@en .
+
+wd:Q695801 a wd:Q723916 ;
+    rdfs:label "Junkers Jumo 004"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q6960187 rdfs:label "Nakajima Mamoru"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6964906 rdfs:label "Napier Culverin"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6964907 a wd:Q28816538 ;
+    rdfs:label "Napier Eland"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6964913 rdfs:label "Napier Javelin"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6964917 rdfs:label "Napier Naiad"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6964919 rdfs:label "Napier Oryx"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6964923 rdfs:label "Napier Nomad"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q69746540 rdfs:label "Q69746540"^^xsd:string ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q69746610 rdfs:label "Q69746610"^^xsd:string ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6981555 a wd:Q28816538 ;
+    rdfs:label "Nav/attack system"@en .
+
+wd:Q6990543 rdfs:label "Nelson H-44"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6990544 rdfs:label "Nelson H-63"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7086401 a wd:Q28816538 ;
+    rdfs:label "Oleo strut"@en .
+
+wd:Q7090819 a wd:Q28816538 ;
+    rdfs:label "On-Board Data Handling"@en .
+
+wd:Q7095672 a wd:Q12757 ;
+    rdfs:label "Opel straight-6 engine"@en .
+
+wd:Q7095847 a wd:Q28816538 ;
+    rdfs:label "OpenPilot"@en .
+
+wd:Q7097771 a wd:Q28816538 ;
+    rdfs:label "Operational display system"@en .
+
+wd:Q7101577 rdfs:label "Orenda OE600"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7114095 a wd:Q28816538 ;
+    rdfs:label "overwing exit"@en .
+
+wd:Q7122911 rdfs:label "Packard 1A-2500"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7122933 a wd:Q654051 ;
+    rdfs:label "Packard XJ49"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q7122934 rdfs:label "Packard XJ41"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q71594572 a wd:Q381750 ;
+    rdfs:label "XRS-2200"@en .
+
+wd:Q7160581 rdfs:label "Pegasus PAL 95"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7168718 a wd:Q28816538 ;
+    rdfs:label "Peripheral vision horizon display"@en .
+
+wd:Q7187861 a wd:Q335225 ;
+    rdfs:label "Photon rocket"@en .
+
+wd:Q7194468 a wd:Q28816538 ;
+    rdfs:label "Pilot direction indicator"@en .
+
+wd:Q7205264 a wd:Q28816538 ;
+    rdfs:label "Plug door"@en .
+
+wd:Q7206687 a wd:Q28816538 ;
+    rdfs:label "Podded engine"@en .
+
+wd:Q7207885 rdfs:label "Poinsard"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7231334 a wd:Q28816538 ;
+    rdfs:label "Portable Collision Avoidance System"@en .
+
+wd:Q7233190 a wd:Q28816538 ;
+    rdfs:label "Position error"@en .
+
+wd:Q7234871 rdfs:label "Potez 4D"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7236340 rdfs:label "Power Jets W.2"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7236484 a wd:Q28816538 ;
+    rdfs:label "Power by the Hour"@en .
+
+wd:Q7237589 rdfs:label "Praga B2"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7237591 rdfs:label "Praga D"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7238734 rdfs:label "Pratt & Whitney Canada PW800"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7238736 rdfs:label "Pratt & Whitney GG4"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7238738 rdfs:label "Pratt & Whitney J52"@en ;
+    rdfs:subClassOf wd:Q723916,
+        wd:Q743004 .
+
+wd:Q7238741 rdfs:label "Pratt & Whitney PT1"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7238742 rdfs:label "Pratt & Whitney PW1120"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7238743 rdfs:label "R-1860 Hornet B"@en ;
+    rdfs:subClassOf wd:Q1813068 .
+
+wd:Q7238745 rdfs:label "T34"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q7238746 a wd:Q28816538 ;
+    rdfs:label "Pratt & Whitney T73"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7238747 rdfs:label "Pratt & Whitney XH-3130"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7241713 a wd:Q28816538 ;
+    rdfs:label "Pressure carburetor"@en .
+
+wd:Q7249306 a wd:Q28816538 ;
+    rdfs:label "Project SQUID"@en .
+
+wd:Q7250141 a wd:Q28816538 ;
+    rdfs:label "Propellant tank"@en .
+
+wd:Q7250151 a wd:Q28816538 ;
+    rdfs:label "Propeller speed reduction unit"@en .
+
+wd:Q7250152 a wd:Q28816538 ;
+    rdfs:label "Propeller synchronization"@en .
+
+wd:Q7250153 a wd:Q28816538 ;
+    rdfs:label "Propeller governor"@en .
+
+wd:Q7252054 a wd:Q28816538 ;
+    rdfs:label "Proton200k"@en .
+
+wd:Q7259658 a wd:Q28816538 ;
+    rdfs:label "Pulse Ejector Thrust Augmentor"@en .
+
+wd:Q7259696 rdfs:label "Pulsed rocket motor"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q7271717 a wd:Q28816538 ;
+    rdfs:label "Quick access recorder"@en .
+
+wd:Q7275118 rdfs:label "RAF 2"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7275119 rdfs:label "RAF 3"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7276212 rdfs:label "RD-117"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q7276733 a wd:Q28816538 ;
+    rdfs:label "RHPPC"@en .
+
+wd:Q7277680 rdfs:label "RS-88"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q7277908 a wd:Q28816538 ;
+    rdfs:label "RTX2010"@en .
+
+wd:Q7281461 rdfs:label "Radne Raket 120"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7292770 rdfs:label "Ranger L-440"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7292785 rdfs:label "Ranger V-770"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7300249 a wd:Q28816538 ;
+    rdfs:label "Reaction Engines Scimitar"@en .
+
+wd:Q7302721 a wd:Q28816538 ;
+    rdfs:label "Recon Instruments"@en .
+
+wd:Q7312720 rdfs:label "Renault 70 hp"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7312721 rdfs:label "Renault 80 hp"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q731319 a wd:Q335225 ;
+    rdfs:label "RD-180"@en .
+
+wd:Q732673 a wd:Q28816538 ;
+    rdfs:label "thrust reversal"@en .
+
+wd:Q7361311 rdfs:label "Rolls-Royce/MAN Turbo RB153"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7361312 rdfs:label "Rolls-Royce/JAEC RJ500"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7361313 rdfs:label "Rolls-Royce/MAN Turbo RB193"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7361318 rdfs:label "Rolls-Royce Clyde"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7361323 rdfs:label "Rolls-Royce Eagle XVI"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7361329 rdfs:label "Rolls-Royce Medway"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7361337 rdfs:label "Rolls-Royce RB.203 Trent"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q7361338 rdfs:label "Rolls-Royce RB106"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7361339 rdfs:label "Rolls-Royce RB145"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7361342 a wd:Q28816538 ;
+    rdfs:label "Rolls-Royce RR300"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7361343 rdfs:label "Rolls-Royce RB.50 Trent"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7361344 rdfs:label "Rolls-Royce RZ2"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q7361345 rdfs:label "Rolls-Royce RB282"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7361348 a wd:Q28816538 ;
+    rdfs:label "Rolls-Royce RR500"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q73658 a wd:Q335225 ;
+    rdfs:label "F-1"@en .
+
+wd:Q7368027 a wd:Q28816538 ;
+    rdfs:label "Rose turret"@en .
+
+wd:Q7370338 rdfs:label "Rotax 277"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7370339 rdfs:label "Rotax 185"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7370340 rdfs:label "Rotax 377"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7370341 rdfs:label "Rotax 447"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7370342 rdfs:label "Rotax 462"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7370344 rdfs:label "Rotax 618"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7370345 rdfs:label "Rotax 914"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7377200 rdfs:label "BMW 109-718"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7387099 a wd:Q811909 ;
+    rdfs:label "S-cam"@en .
+
+wd:Q7387103 a wd:Q28816538 ;
+    rdfs:label "S-duct"@en .
+
+wd:Q7391256 a wd:Q811909 ;
+    rdfs:label "SMLC"@en .
+
+wd:Q7391835 rdfs:label "SNECMA 14R"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q73931 a wd:Q860308 ;
+    rdfs:label "Draco"@en .
+
+wd:Q7394637 rdfs:label "STAL Dovern"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7394640 a wd:Q28816538 ;
+    rdfs:label "STANAG 4586: Standard Interfaces Of UAV Control System (UCS) For NATO UAV Interoperability"@en .
+
+wd:Q7394816 a wd:Q28816538 ;
+    rdfs:label "STRIL"@en .
+
+wd:Q7405584 rdfs:label "Salmson B9"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7405585 rdfs:label "Salmson AD.3"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7405590 rdfs:label "Salmson air-cooled aircraft engine"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q742077 a wd:Q12757 ;
+    rdfs:label "Mercedes-Benz OM601 engine"@en .
+
+wd:Q742509 a wd:Q28816538 ;
+    rdfs:label "AN/USQ-20"@en .
+
+wd:Q7433911 a wd:Q28816538 ;
+    rdfs:label "Scimitar propeller"@en .
+
+wd:Q7438726 a wd:Q28816538 ;
+    rdfs:label "Scramjet programs"@en .
+
+wd:Q74442395 a wd:Q335225 ;
+    rdfs:label "Q74442395"^^xsd:string .
+
+wd:Q7449448 a wd:Q28816538 ;
+    rdfs:label "Semimonocoque"@en .
+
+wd:Q7491763 a wd:Q28816538 ;
+    rdfs:label "Shcramjet"@en .
+
+wd:Q7494355 rdfs:label "Shenyang WS-6"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q749922 rdfs:label "Siemens-Halske Sh 22"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7501087 a wd:Q28816538 ;
+    rdfs:label "Shop-replaceable unit"@en .
+
+wd:Q750160 rdfs:label "Rolls-Royce AE 3007"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q750776 a wd:Q12757 ;
+    rdfs:label "Mercedes-Benz OM604 engine"@en .
+
+wd:Q7508062 rdfs:label "Siddeley Tiger"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q750885 rdfs:label "Pratt & Whitney Canada PW500"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q750896 rdfs:label "Williams FJ33"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q751090 a wd:Q811909 ;
+    rdfs:label "Astrippe"@en .
+
+wd:Q7520470 rdfs:label "Simonini 200cc"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7520943 a wd:Q28816538 ;
+    rdfs:label "Simplified directional facility"@en .
+
+wd:Q752100 a wd:Q28816538 ;
+    rdfs:label "LTS101"@en .
+
+wd:Q7523695 a wd:Q28816538 ;
+    rdfs:label "Single-blade propeller"@en .
+
+wd:Q7535317 a wd:Q28816538 ;
+    rdfs:label "skin"@en .
+
+wd:Q7537198 a wd:Q28816538 ;
+    rdfs:label "SkyRider"@en .
+
+wd:Q7556041 a wd:Q28816538 ;
+    rdfs:label "T62 Titan"@en .
+
+wd:Q7572384 a wd:Q28816538 ;
+    rdfs:label "Space Integrated GPS/INS"@en .
+
+wd:Q7575613 a wd:Q28816538 ;
+    rdfs:label "Speed tape"@en .
+
+wd:Q7578735 a wd:Q28816538 ;
+    rdfs:label "splitter plate"@en .
+
+wd:Q7597299 a wd:Q28816538 ;
+    rdfs:label "Stall strips"@en .
+
+wd:Q7598313 a wd:Q28816538 ;
+    rdfs:label "Standard Terminal Automation Replacement System"@en .
+
+wd:Q7599444 a wd:Q28816538 ;
+    rdfs:label "Stanley Aviation"@en .
+
+wd:Q7600599 rdfs:label "Star 27"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q76148 a wd:Q860308 ;
+    rdfs:label "Merlin"@en .
+
+wd:Q7616240 a wd:Q28816538 ;
+    rdfs:label "Stick pusher"@en .
+
+wd:Q7623464 a wd:Q28816538 ;
+    rdfs:label "Stressed skin"@en .
+
+wd:Q7638893 rdfs:label "Sunbeam Crusader"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7638894 rdfs:label "Sunbeam Cossack"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7638895 rdfs:label "Sunbeam Manitou"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7638897 rdfs:label "Sunbeam Dyak"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7638899 rdfs:label "Sunbeam Nubian"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7638900 rdfs:label "Sunbeam Pathan"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7638902 rdfs:label "Sunbeam Matabele"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7638906 rdfs:label "Sunbeam Sikh"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7638907 rdfs:label "Sunbeam Spartan"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7638910 rdfs:label "Sunbeam side-valve aircraft engines"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7655959 a wd:Q28816538 ;
+    rdfs:label "Swiatecki bomb slip"@en .
+
+wd:Q7664539 rdfs:label "Szekely SR-3"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7671209 rdfs:label "TR-107"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q7673691 a wd:Q28816538 ;
+    rdfs:label "Tach Timer"@en .
+
+wd:Q7674074 a wd:Q28816538 ;
+    rdfs:label "Tactical Airborne Reconnaissance Pod System"@en .
+
+wd:Q7692300 a wd:Q28816538 ;
+    rdfs:label "Technical Standard Order"@en .
+
+wd:Q7696128 rdfs:label "Teledyne CAE F106"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q771452 a wd:Q811909 ;
+    rdfs:label "bicycle tire"@en .
+
+wd:Q7741177 a wd:Q28816538 ;
+    rdfs:label "The Hy-V Scramjet Flight Experiment"@en .
+
+wd:Q7783089 a wd:Q28816538 ;
+    rdfs:label "Thermawing"@en .
+
+wd:Q780762 rdfs:label "Oberursel U.I"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7814047 a wd:Q28816538 ;
+    rdfs:label "Tokyo tanks"@en .
+
+wd:Q781742 a wd:Q28816538 ;
+    rdfs:label "Fenestron"@en .
+
+wd:Q7828012 rdfs:label "Total Engine Concepts MM CB-40"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7832873 rdfs:label "Train T"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7834837 a wd:Q28816538 ;
+    rdfs:label "Transponder landing system"@en .
+
+wd:Q7850756 a wd:Q28816538 ;
+    rdfs:label "Tube-and-fabric construction"@en .
+
+wd:Q7852494 rdfs:label "Tumansky M-90"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7852496 rdfs:label "Tumansky R-21"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7852906 a wd:Q28816538 ;
+    rdfs:label "Tundra tire"@en .
+
+wd:Q7853904 rdfs:label "Turbomeca Aspin"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7853905 rdfs:label "Turbomeca Astafan"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7853906 rdfs:label "Turbomeca Aubisque"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7853907 rdfs:label "Turbomeca Gabizo"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7853908 rdfs:label "Turbomeca Piméné"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7853909 a wd:Q28816538 ;
+    rdfs:label "Turbomeca TM 333"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7858350 a wd:Q28816538 ;
+    rdfs:label "Twin tail"@en .
+
+wd:Q7863459 a wd:Q28816538 ;
+    rdfs:label "U.S. helicopter armament subsystems"@en .
+
+wd:Q7865753 a wd:Q1310239 ;
+    rdfs:label "USArray"@en .
+
+wd:Q786732 a wd:Q811909 ;
+    rdfs:label "rim"@en .
+
+wd:Q786921 a wd:Q28816538 ;
+    rdfs:label "flaperon"@en .
+
+wd:Q787172 a wd:Q28816538 ;
+    rdfs:label "Automatic dependent surveillance-broadcast"@en .
+
+wd:Q787396 a wd:Q723916 ;
+    rdfs:label "BMW 003"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q7882300 a wd:Q28816538 ;
+    rdfs:label "Unapproved aircraft part"@en .
+
+wd:Q7883471 a wd:Q28816538 ;
+    rdfs:label "Undercarriage arrangements"@en .
+
+wd:Q7889230 a wd:Q28816538 ;
+    rdfs:label "United States Air Force Stability and Control Digital DATCOM"@en .
+
+wd:Q7915689 a wd:Q28816538 ;
+    rdfs:label "Variable-position horizontal stabilizer"@en .
+
+wd:Q7915709 a wd:Q28816538 ;
+    rdfs:label "Variable camber wing"@en .
+
+wd:Q7921986 rdfs:label "Verner 133M"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7922024 a wd:Q28816538 ;
+    rdfs:label "Vernier throttle"@en .
+
+wd:Q7922854 a wd:Q28816538 ;
+    rdfs:label "Vertical seat"@en .
+
+wd:Q7924482 rdfs:label "Viale 35 hp"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7929447 rdfs:label "Viking 110"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7940310 a wd:Q12757 ;
+    rdfs:label "Volkswagen D24 engine"@en .
+
+wd:Q7941282 a wd:Q12757 ;
+    rdfs:label "Volvo B18 engine"@en .
+
+wd:Q7941283 a wd:Q12757 ;
+    rdfs:label "Volvo B4B engine"@en .
+
+wd:Q7941335 a wd:Q12757 ;
+    rdfs:label "Volvo Redblock Engine"@en .
+
+wd:Q7941950 a wd:Q28816538 ;
+    rdfs:label "Vortilon"@en .
+
+wd:Q7942010 a wd:Q28816538 ;
+    rdfs:label "Voskhod Spacecraft \"Globus\" IMP navigation instrument"@en .
+
+wd:Q795064 a wd:Q28816538 ;
+    rdfs:label "tail rotor"@en .
+
+wd:Q7955733 rdfs:label "WSK SO-3"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q796365 rdfs:label "BMW 018"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q796373 rdfs:label "BMW 114"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q796410 rdfs:label "BMW 802"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q796413 a wd:Q178777 ;
+    rdfs:label "BMW 8026"@en .
+
+wd:Q796416 rdfs:label "BMW 801"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7964196 rdfs:label "Walter Atom"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7964337 rdfs:label "Walter Bora"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7964925 rdfs:label "Walter Gemma"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q796512 rdfs:label "BMW IV"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7965548 rdfs:label "Walter Mars 14 M"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7965853 rdfs:label "Walter Polaris"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q796592 a wd:Q12757 ;
+    rdfs:label "BMW M67"@en .
+
+wd:Q7965948 rdfs:label "Walter Regulus"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7966088 rdfs:label "Walter Scolar"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q796629 a wd:Q12757 ;
+    rdfs:label "BMW N57"@en .
+
+wd:Q796631 a wd:Q12757 ;
+    rdfs:label "BMW N55"@en .
+
+wd:Q7966334 rdfs:label "Walter Vega"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7966596 a wd:Q28816538 ;
+    rdfs:label "Waltham Aircraft Clock Corporation"@en .
+
+wd:Q797813 a wd:Q28816538 ;
+    rdfs:label "Bomb bay"@en .
+
+wd:Q7980554 rdfs:label "Welch O-2"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7985118 rdfs:label "West Engineering XJ38"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7988947 rdfs:label "Westinghouse J32"@en ;
+    rdfs:subClassOf wd:Q723916,
+        wd:Q743004 .
+
+wd:Q7991995 a wd:Q28816538 ;
+    rdfs:label "WheelTug"@en .
+
+wd:Q7992380 a wd:Q811909 ;
+    rdfs:label "Whegs"@en .
+
+wd:Q8002623 rdfs:label "Wilksch WAM series"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q8021010 rdfs:label "Williams EJ22"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q8030411 rdfs:label "Wolseley 160 hp"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q8030414 rdfs:label "Wolseley 60 hp"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q8030416 rdfs:label "Wolseley Aries"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q8030417 rdfs:label "Wolseley Aquarius"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q8038249 rdfs:label "R-540 Whirlwind"@en ;
+    rdfs:subClassOf wd:Q1461777 .
+
+wd:Q8038267 rdfs:label "Wright T-3 Tornado"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q8038273 rdfs:label "Wright Vertical 4"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q8041641 a wd:Q12757 ;
+    rdfs:label "Opel X25XE"@en .
+
+wd:Q8041647 a wd:Q12757 ;
+    rdfs:label "Opel X30XE"@en .
+
+wd:Q8050430 a wd:Q28816538 ;
+    rdfs:label "Yaw-rate sensor"@en .
+
+wd:Q8066314 rdfs:label "Zanzottera MZ 201"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q8066316 rdfs:label "Zanzottera MZ 301"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q8066317 rdfs:label "Zanzottera MZ 34"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q8069168 rdfs:label "Zenoah G-25"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q8069169 rdfs:label "Zenoah G-50"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q8069549 a wd:Q28816538 ;
+    rdfs:label "Zero Retention Force Arming Unit"@en .
+
+wd:Q8073204 rdfs:label "Zoche aero-diesel"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q816073 a wd:Q28816538 ;
+    rdfs:label "Q816073"^^xsd:string .
+
+wd:Q818446 rdfs:label "Benz Bz.III"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q820036 a wd:Q28816538 ;
+    rdfs:label "VHF omnidirectional range"@en .
+
+wd:Q82119732 rdfs:label "Category:Bugatti aircraft engines"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q822183 rdfs:label "CFE CFE738"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q822439 a wd:Q743004 ;
+    rdfs:label "Rolls-Royce Pegasus"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q824609 a wd:Q28816538 ;
+    rdfs:label "Turbomeca Astazou"@en ;
+    rdfs:subClassOf wd:Q309027,
+        wd:Q743004 .
+
+wd:Q82489778 a wd:Q743004 ;
+    rdfs:label "Q82489778"^^xsd:string .
+
+wd:Q832094 a wd:Q28816538 ;
+    rdfs:label "Hobbs meter"@en .
+
+wd:Q83488460 a wd:Q743004 ;
+    rdfs:label "Q83488460"^^xsd:string .
+
+wd:Q83527073 a wd:Q743004 ;
+    rdfs:label "Continental IO-370"@en .
+
+wd:Q83594494 a wd:Q743004 ;
+    rdfs:label "Q83594494"^^xsd:string .
+
+wd:Q838974 a wd:Q28816538 ;
+    rdfs:label "variable-sweep wing"@en .
+
+wd:Q839981 rdfs:label "Mikulin AM-3"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q844762 rdfs:label "General Electric/Rolls-Royce F136"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q845671 a wd:Q811909 ;
+    rdfs:label "spoke"@en .
+
+wd:Q847984 a wd:Q28816538 ;
+    rdfs:label "Turmo"@en .
+
+wd:Q848018 a wd:Q28816538 ;
+    rdfs:label "Gurney flap"@en .
+
+wd:Q849640 a wd:Q28816538 ;
+    rdfs:label "radio transponder"@en .
+
+wd:Q850097 a wd:Q28816538 ;
+    rdfs:label "delta wing"@en .
+
+wd:Q85495767 a wd:Q335225 ;
+    rdfs:label "Q85495767"^^xsd:string .
+
+wd:Q856627 a wd:Q28816538 ;
+    rdfs:label "distance measuring equipment"@en .
+
+wd:Q86596376 rdfs:label "Pratt & Whitney R-1830-36 Twin Wasp"@en ;
+    rdfs:subClassOf wd:Q2092558 .
+
+wd:Q880739 rdfs:label "Blackburn Cirrus Major"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q880741 rdfs:label "Blackburn Cirrus Minor"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q880742 rdfs:label "Blackburn Cirrus Midget"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q882267 a wd:Q28816538 ;
+    rdfs:label "Tip jet"@en .
+
+wd:Q901252 a wd:Q743004 ;
+    rdfs:label "Daimler-Benz DB 601"@en .
+
+wd:Q902535 a wd:Q28816538 ;
+    rdfs:label "Central Air Data Computer"@en .
+
+wd:Q902691 rdfs:label "Gnome-Rhône Mistral Major"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q906182 a wd:Q28816538 ;
+    rdfs:label "DO-178B"@en .
+
+wd:Q908333 a wd:Q28816538 ;
+    rdfs:label "auxiliary power unit"@en .
+
+wd:Q908611 a wd:Q28816538 ;
+    rdfs:label "Horizontal situation indicator"@en .
+
+wd:Q909843 rdfs:label "Pratt & Whitney Canada JT15D"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q909927 rdfs:label "Pratt & Whitney Canada PW600"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q910258 rdfs:label "FJ44"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q914043 rdfs:label "RB.23 Welland"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q915311 a wd:Q28816538 ;
+    rdfs:label "Krueger flaps"@en .
+
+wd:Q917172 rdfs:label "Siemens-Halske Sh 14"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q917526 a wd:Q28816538 ;
+    rdfs:label "madapolam"@en .
+
+wd:Q917953 rdfs:label "Bristol Lucifer"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q917963 rdfs:label "Bristol Proteus"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q917981 rdfs:label "Bristol Taurus"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q9203288 a wd:Q1310239 ;
+    rdfs:label "Q9203288"^^xsd:string .
+
+wd:Q920454 rdfs:label "Vernier thruster"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q922654 a wd:Q28816538 ;
+    rdfs:label "propeller"@en .
+
+wd:Q923665 a wd:Q723916 ;
+    rdfs:label "SNECMA Atar"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q926903 rdfs:label "Tumansky RD-9"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q930931 a wd:Q28816538 ;
+    rdfs:label "self-sealing fuel tank"@en .
+
+wd:Q9312113 rdfs:label "Rolls-Royce Trent XWB"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q931872 a wd:Q28816538 ;
+    rdfs:label "Pulse detonation engine"@en .
+
+wd:Q9325979 a wd:Q860308 ;
+    rdfs:label "S1.5400"@en .
+
+wd:Q935569 rdfs:label "Fiat A.24"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q935927 rdfs:label "Rolls-Royce Goshawk"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q937602 rdfs:label "Potez 4E"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q9380496 a wd:Q811909 ;
+    rdfs:label "Wytyk"@en .
+
+wd:Q9383010 a wd:Q335225 ;
+    rdfs:label "X-405"@en .
+
+wd:Q939130 a wd:Q28816538 ;
+    rdfs:label "helmet-mounted display"@en .
+
+wd:Q941680 a wd:Q28816538 ;
+    rdfs:label "inertial measurement unit"@en .
+
+wd:Q943162 a wd:Q28816538 ;
+    rdfs:label "turboshaft"@en .
+
+wd:Q947434 a wd:Q654051 ;
+    rdfs:label "General Electric F404"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q949291 a wd:Q28816538 ;
+    rdfs:label "Yehudi lights"@en .
+
+wd:Q950143 a wd:Q28816538 ;
+    rdfs:label "Garmin G1000"@en .
+
+wd:Q952437 rdfs:label "Volvo RM8"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q957191 a wd:Q28816538 ;
+    rdfs:label "Mongoose-V"@en .
+
+wd:Q965222 rdfs:label "Walter Sagitta"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q970739 a wd:Q28816538 ;
+    rdfs:label "Aft pressure bulkhead"@en .
+
+wd:Q971325 rdfs:label "Turbomeca Palas"@en ;
+    rdfs:subClassOf wd:Q723916 .
+
+wd:Q976186 rdfs:label "Warner Scarab"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q998319 a wd:Q28816538 ;
+    rdfs:label "flight recorder"@en .
+
+wd:Q99905 a wd:Q28816538 ;
+    rdfs:label "airbag"@en .
+
+wd:Q1050634 rdfs:label "Shvetsov ASh-82"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1138418 rdfs:label "Mercedes D.III"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1158698 rdfs:label "Bristol Titan"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q15024795 rdfs:label "Hispano-Suiza 8Fb"@en ;
+    rdfs:subClassOf wd:Q1461826 .
+
+wd:Q15026752 rdfs:label "12Ydrs"@en ;
+    rdfs:subClassOf wd:Q254293 .
+
+wd:Q15153966 rdfs:label "Hispano-Suiza 12Ycrs"@en ;
+    rdfs:subClassOf wd:Q254293 .
+
+wd:Q15452660 rdfs:label "Klimov M-100"@en ;
+    rdfs:subClassOf wd:Q254293 .
+
+wd:Q15900698 rdfs:label "Lycoming TIGO-541"@en ;
+    rdfs:subClassOf wd:Q6707353 .
+
+wd:Q15925428 rdfs:label "Righter O-45"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1633693 rdfs:label "Q1633693"^^xsd:string ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q167745 rdfs:label "V-1710"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q17407314 rdfs:label "LTP101"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q18123141 rdfs:label "V-1710-F"@en ;
+    rdfs:subClassOf wd:Q167745 .
+
+wd:Q1813068 rdfs:label "R-1690 Hornet"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2063609 rdfs:label "R-1535 Twin Wasp Junior"@en ;
+    rdfs:subClassOf wd:Q2107998 .
+
+wd:Q2107993 rdfs:label "R-4360 Wasp Major"@en ;
+    rdfs:subClassOf wd:Q2107998 .
+
+wd:Q23934425 rdfs:label "TSIO-550"@en ;
+    rdfs:subClassOf wd:Q5165292 .
+
+wd:Q2545555 rdfs:label "Walter Minor"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q31170 rdfs:label "Walter Pollux"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3498022 rdfs:label "Isotta Fraschini V.4"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3510760 rdfs:label "Le Rhône 9J"@en ;
+    rdfs:subClassOf wd:Q15065599 .
+
+wd:Q3623441 rdfs:label "Armstrong Siddeley Panther"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3632115 rdfs:label "BMW V"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3772624 rdfs:label "Gnome-Rhône 7K Titan Major"@en ;
+    rdfs:subClassOf wd:Q1158698 .
+
+wd:Q381750 rdfs:label "Aerospike engine"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q4053965 rdfs:label "Ivchenko AI-24"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q4251036 a wd:Q28816538 ;
+    rdfs:label "T55"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4732833 a wd:Q28816538 ;
+    rdfs:label "Allison T40"@en ;
+    rdfs:subClassOf wd:Q309027,
+        wd:Q743004 .
+
+wd:Q5165292 rdfs:label "Continental IO-550"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q618844 rdfs:label "apogee kick motor"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q6707353 rdfs:label "Lycoming TIO-541"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q783801 rdfs:label "Austro-Daimler 6"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7940342 rdfs:label "Volkswagen air-cooled engine"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q796517 rdfs:label "BMW IIIa"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7988946 rdfs:label "Westinghouse J30"@en ;
+    rdfs:subClassOf wd:Q723916,
+        wd:Q743004 .
+
+wd:Q8038252 rdfs:label "R-790 Whirlwind"@en ;
+    rdfs:subClassOf wd:Q1461777 .
+
+wd:Q826898 rdfs:label "Rolls-Royce AE 2100"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q905371 rdfs:label "Gipsy"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1145799 rdfs:label "Curtiss V-1570"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q14947918 rdfs:label "Hispano-Suiza 8B"@en ;
+    rdfs:subClassOf wd:Q1461826,
+        wd:Q743004 .
+
+wd:Q1617479 rdfs:label "Hiero 6"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1710103 rdfs:label "Allison T56"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q178185 rdfs:label "heat engine"@en .
+
+wd:Q2634412 rdfs:label "propfan"@en ;
+    rdfs:subClassOf wd:Q309027,
+        wd:Q654051 .
+
+wd:Q2908542 a wd:Q28816538 ;
+    rdfs:label "Boeing T50"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3257644 rdfs:label "Sapphire"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3425006 rdfs:label "Renault 4P"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3744418 rdfs:label "Fiat A.30"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4793979 rdfs:label "Jaguar"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q59742 rdfs:label "R-1300 Cyclone 7"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q6018565 rdfs:label "combustion engine"@en ;
+    rdfs:subClassOf wd:Q178185 .
+
+wd:Q60602 rdfs:label "ramjet"@en ;
+    rdfs:subClassOf wd:Q178777,
+        wd:Q743004 .
+
+wd:Q639668 rdfs:label "Rolls-Royce Nene"@en ;
+    rdfs:subClassOf wd:Q723916,
+        wd:Q743004 .
+
+wd:Q7638887 rdfs:label "Sunbeam Afridi"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q796760 rdfs:label "BMW Vl"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q977186 rdfs:label "Kuznetsov NK-12"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q1456848 rdfs:label "Spey"@en ;
+    rdfs:subClassOf wd:Q654051 .
+
+wd:Q1514324 rdfs:label "Rolls-Royce Falcon"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q15623398 rdfs:label "CT7"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q15896245 rdfs:label "IO-360"@en ;
+    rdfs:subClassOf wd:Q1777769 .
+
+wd:Q1813047 rdfs:label "Wasp Junior"@en ;
+    rdfs:subClassOf wd:Q2107998 .
+
+wd:Q254293 rdfs:label "Hispano-Suiza 12Y"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3507563 rdfs:label "Ivchenko AI-20"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q3736137 rdfs:label "Leonides Major"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q4698541 a wd:Q28816538 ;
+    rdfs:label "aircraft diesel engine"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q477394 rdfs:label "J33"@en ;
+    rdfs:subClassOf wd:Q723916,
+        wd:Q743004 .
+
+wd:Q720837 rdfs:label "AI-14"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q750992 rdfs:label "TPE331"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q8038250 rdfs:label "R-760 Whirlwind"@en ;
+    rdfs:subClassOf wd:Q1461777 .
+
+wd:Q15921165 rdfs:label "R-975 Whirlwind"@en ;
+    rdfs:subClassOf wd:Q1461777 .
+
+wd:Q1738041 rdfs:label "Liberty L-12"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3610942 rdfs:label "Alfa Romeo 115"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q450478 rdfs:label "RB.53 Dart"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q1310239 rdfs:label "component"@en .
+
+wd:Q1777769 rdfs:label "O-360"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q796376 rdfs:label "BMW 132"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1461777 rdfs:label "Wright Whirlwind"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1461826 rdfs:label "Hispano-Suiza 8"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q15065599 rdfs:label "Le Rhône 9"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1851343 rdfs:label "R-2800 Double Wasp"@en ;
+    rdfs:subClassOf wd:Q2107998 .
+
+wd:Q2107998 rdfs:label "Wasp"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q748146 rdfs:label "Mercury"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2164346 rdfs:label "Kestrel"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q1412885 rdfs:label "Merlin"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q7405591 rdfs:label "Salmson water-cooled aircraft engine"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q860308 rdfs:label "liquid-propellant rocket engine"@en ;
+    rdfs:subClassOf wd:Q335225 .
+
+wd:Q903799 rdfs:label "Rolls-Royce Condor"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q904988 rdfs:label "Gipsy Major"@en ;
+    rdfs:subClassOf wd:Q905371 .
+
+wd:Q1352680 rdfs:label "PW100"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q178777 a wd:Q28816538 ;
+    rdfs:label "jet engine"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q3610946 rdfs:label "Alfa Romeo 125"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q2092558 rdfs:label "R-1830 Twin Wasp"@en ;
+    rdfs:subClassOf wd:Q2107998 .
+
+wd:Q2061540 rdfs:label "PT6"@en ;
+    rdfs:subClassOf wd:Q309027 .
+
+wd:Q1852043 rdfs:label "R-1340 Wasp"@en ;
+    rdfs:subClassOf wd:Q2107998 .
+
+wd:Q309027 a wd:Q28816538 ;
+    rdfs:label "turboprop"@en ;
+    rdfs:subClassOf wd:Q743004 .
+
+wd:Q811909 rdfs:label "technological component"@en ;
+    rdfs:subClassOf wd:Q1310239 .
+
+wd:Q12757 rdfs:label "internal combustion engine"@en ;
+    rdfs:subClassOf wd:Q6018565 .
+
+wd:Q723916 rdfs:label "turbojet"@en ;
+    rdfs:subClassOf wd:Q178777 .
+
+wd:Q654051 rdfs:label "turbofan"@en ;
+    rdfs:subClassOf wd:Q178777 .
+
+wd:Q335225 rdfs:label "rocket engine"@en ;
+    rdfs:subClassOf wd:Q178777 .
+
+wd:Q28816538 rdfs:label "aircraft component"@en ;
+    rdfs:subClassOf wd:Q811909 .
+
+wd:Q743004 rdfs:label "aircraft engine"@en ;
+    rdfs:subClassOf wd:Q12757,
+        wd:Q28816538 .
+

@@ -1,0 +1,1271 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1002202 a wd:Q1668024 ;
+    rdfs:label "BugMeNot"@en .
+
+wd:Q1012004 a wd:Q1668024 ;
+    rdfs:label "Google Public DNS"@en .
+
+wd:Q10290155 a wd:Q1668024 ;
+    rdfs:label "Globo Play"@en .
+
+wd:Q10343536 a wd:Q7406919 ;
+    rdfs:label "Paggo"@en .
+
+wd:Q1070969 a wd:Q1668024 ;
+    rdfs:label "LibriVox"@en .
+
+wd:Q1078266 a wd:Q7406919 ;
+    rdfs:label "interlibrary loan"@en .
+
+wd:Q10873428 a wd:Q340169 ;
+    rdfs:label "Q10873428"^^xsd:string .
+
+wd:Q10933889 a wd:Q7406919 ;
+    rdfs:label "Q10933889"^^xsd:string .
+
+wd:Q11199058 a wd:Q7406919 ;
+    rdfs:label "FELIX"@en .
+
+wd:Q11200670 a wd:Q7406919 ;
+    rdfs:label "G-LEX"@en .
+
+wd:Q11225279 a wd:Q7406919 ;
+    rdfs:label "JAIRO"@en .
+
+wd:Q11225282 a wd:Q7406919 ;
+    rdfs:label "JAL IC service"@en .
+
+wd:Q11232586 a wd:Q7406919 ;
+    rdfs:label "MY割"@en .
+
+wd:Q11248147 a wd:Q7406919 ;
+    rdfs:label "TAP-i"@en .
+
+wd:Q1132897 a wd:Q1668024 ;
+    rdfs:label "Jamendo"@en .
+
+wd:Q1164485 a wd:Q1668024 ;
+    rdfs:label "Flightradar24"@en .
+
+wd:Q1172580 a wd:Q7406919 ;
+    rdfs:label "Datex-J"@en .
+
+wd:Q11789729 a wd:Q340169 ;
+    rdfs:label "NUKAT"@en .
+
+wd:Q12056863 a wd:Q7406919 ;
+    rdfs:label "Q12056863"^^xsd:string .
+
+wd:Q12252904 a wd:Q340169 ;
+    rdfs:label "Q12252904"^^xsd:string .
+
+wd:Q12252916 a wd:Q340169 ;
+    rdfs:label "Q12252916"^^xsd:string .
+
+wd:Q12252987 a wd:Q340169 ;
+    rdfs:label "Aiurri"@en .
+
+wd:Q12253455 a wd:Q340169 ;
+    rdfs:label "Q12253455"^^xsd:string .
+
+wd:Q12254720 a wd:Q340169 ;
+    rdfs:label "Q12254720"^^xsd:string .
+
+wd:Q12254786 a wd:Q340169 ;
+    rdfs:label "Q12254786"^^xsd:string .
+
+wd:Q12255560 a wd:Q340169 ;
+    rdfs:label "Busturialdeko Hitza"@en .
+
+wd:Q12257327 a wd:Q340169 ;
+    rdfs:label "Q12257327"^^xsd:string .
+
+wd:Q12257559 a wd:Q340169 ;
+    rdfs:label "Q12257559"^^xsd:string .
+
+wd:Q12258598 a wd:Q340169 ;
+    rdfs:label "Goiena.eus"@en .
+
+wd:Q12258599 a wd:Q340169 ;
+    rdfs:label "Q12258599"^^xsd:string .
+
+wd:Q12258610 a wd:Q340169 ;
+    rdfs:label "Q12258610"^^xsd:string .
+
+wd:Q12258760 a wd:Q340169 ;
+    rdfs:label "Guaixe"@en .
+
+wd:Q12259797 a wd:Q340169 ;
+    rdfs:label "Q12259797"^^xsd:string .
+
+wd:Q12261293 a wd:Q340169 ;
+    rdfs:label "Q12261293"^^xsd:string .
+
+wd:Q12263279 a wd:Q340169 ;
+    rdfs:label "Q12263279"^^xsd:string .
+
+wd:Q12264884 a wd:Q340169 ;
+    rdfs:label "Q12264884"^^xsd:string .
+
+wd:Q12264975 a wd:Q340169 ;
+    rdfs:label "Q12264975"^^xsd:string .
+
+wd:Q12265355 a wd:Q340169 ;
+    rdfs:label "Q12265355"^^xsd:string .
+
+wd:Q12268388 a wd:Q340169 ;
+    rdfs:label "Q12268388"^^xsd:string .
+
+wd:Q12268690 a wd:Q340169 ;
+    rdfs:label "Q12268690"^^xsd:string .
+
+wd:Q1227658 a wd:Q7406919 ;
+    rdfs:label "Executive search"@en .
+
+wd:Q12306946 a wd:Q1668024 ;
+    rdfs:label "DR Nu"@en .
+
+wd:Q1274094 a wd:Q1668024 ;
+    rdfs:label "Wuala"@en .
+
+wd:Q1274646 a wd:Q340169 ;
+    rdfs:label "E Guide"@en .
+
+wd:Q131276 a wd:Q340169 ;
+    rdfs:label "International Standard Serial Number"@en .
+
+wd:Q13231451 a wd:Q1668024 ;
+    rdfs:label "Google Hangouts"@en .
+
+wd:Q1324934 a wd:Q7406919 ;
+    rdfs:label "waste collection"@en .
+
+wd:Q1326160 a wd:Q7406919 ;
+    rdfs:label "Electronic System for Travel Authorization"@en .
+
+wd:Q132744 a wd:Q340169 ;
+    rdfs:label "fax"@en .
+
+wd:Q13550863 a wd:Q340169 ;
+    rdfs:label "Czech National Authority Database"@en .
+
+wd:Q1427443 a wd:Q1668024 ;
+    rdfs:label "Flattr"@en .
+
+wd:Q15241312 a wd:Q340169 ;
+    rdfs:label "Freebase Data Dumps"@en .
+
+wd:Q1530859 a wd:Q340169 ;
+    rdfs:label "Marine VHF radio"@en .
+
+wd:Q1558889 a wd:Q340169 ;
+    rdfs:label "drums in communication"@en .
+
+wd:Q15712210 a wd:Q7406919 ;
+    rdfs:label "IC Bus"@en .
+
+wd:Q15823132 a wd:Q7406919 ;
+    rdfs:label "Primary ticket outlet"@en .
+
+wd:Q160470 a wd:Q1668024 ;
+    rdfs:label "Telnet"@en .
+
+wd:Q16186120 a wd:Q1668024 ;
+    rdfs:label "Medium"@en .
+
+wd:Q16518982 a wd:Q340169 ;
+    rdfs:label "Q16518982"^^xsd:string .
+
+wd:Q16642474 a wd:Q1668024 ;
+    rdfs:label "Q16642474"^^xsd:string .
+
+wd:Q16972704 a wd:Q7406919 ;
+    rdfs:label "CM/ECF"@en .
+
+wd:Q17003258 a wd:Q7406919 ;
+    rdfs:label "Insurance Repository"@en .
+
+wd:Q17016896 a wd:Q340169 ;
+    rdfs:label "Ringgold identifier"@en .
+
+wd:Q17020254 a wd:Q1668024 ;
+    rdfs:label "Habitica"@en .
+
+wd:Q170460 a wd:Q1668024 ;
+    rdfs:label "Secure Shell"@en .
+
+wd:Q17088889 a wd:Q1668024 ;
+    rdfs:label "Stackdriver"@en .
+
+wd:Q17092352 a wd:Q7406919 ;
+    rdfs:label "patient selection"@en .
+
+wd:Q170963 a wd:Q1668024 ;
+    rdfs:label "virtual private network"@en .
+
+wd:Q17239647 a wd:Q1668024 ;
+    rdfs:label "Q17239647"^^xsd:string .
+
+wd:Q177518 a wd:Q1668024 ;
+    rdfs:label "IPTV"@en .
+
+wd:Q17985544 a wd:Q1668024 ;
+    rdfs:label "Mapillary"@en .
+
+wd:Q17988469 a wd:Q1668024 ;
+    rdfs:label "Ameblo"@en .
+
+wd:Q1825435 a wd:Q1668024 ;
+    rdfs:label "Anvato"@en .
+
+wd:Q183398 a wd:Q340169 ;
+    rdfs:label "bulletin board"@en .
+
+wd:Q18385544 a wd:Q1668024 ;
+    rdfs:label "open banking"@en .
+
+wd:Q1853290 a wd:Q7406919 ;
+    rdfs:label "Q1853290"^^xsd:string .
+
+wd:Q18636670 a wd:Q1668024 ;
+    rdfs:label "WhoSay"@en .
+
+wd:Q18688734 a wd:Q1668024 ;
+    rdfs:label "Q18688734"^^xsd:string .
+
+wd:Q192855 a wd:Q340169 ;
+    rdfs:label "alternative media"@en .
+
+wd:Q1982075 a wd:Q1668024 ;
+    rdfs:label "issuu"@en .
+
+wd:Q19841331 a wd:Q1668024 ;
+    rdfs:label "SnappCar"@en .
+
+wd:Q19974118 a wd:Q7406919 ;
+    rdfs:label "Q19974118"^^xsd:string .
+
+wd:Q2001888 a wd:Q1668024 ;
+    rdfs:label "WordPress.com"@en .
+
+wd:Q20021610 a wd:Q7406919 ;
+    rdfs:label "Q20021610"^^xsd:string .
+
+wd:Q20060310 a wd:Q340169 ;
+    rdfs:label "Q20060310"^^xsd:string .
+
+wd:Q20105543 a wd:Q340169 ;
+    rdfs:label "Q20105543"^^xsd:string .
+
+wd:Q2048970 a wd:Q7406919 ;
+    rdfs:label "room service"@en .
+
+wd:Q20492005 a wd:Q340169 ;
+    rdfs:label "Q20492005"^^xsd:string .
+
+wd:Q20492406 a wd:Q340169 ;
+    rdfs:label "Q20492406"^^xsd:string .
+
+wd:Q20656106 a wd:Q1668024 ;
+    rdfs:label "Primary Sources Tool"@en .
+
+wd:Q207656 a wd:Q1668024 ;
+    rdfs:label "Apache Wave"@en .
+
+wd:Q21169768 a wd:Q286583 ;
+    rdfs:label "Q21169768"^^xsd:string .
+
+wd:Q21235252 a wd:Q1668024 ;
+    rdfs:label "Google My Business"@en .
+
+wd:Q2139194 a wd:Q1668024 ;
+    rdfs:label "Vox"@en .
+
+wd:Q21462723 a wd:Q1668024 ;
+    rdfs:label "Uber Eats"@en .
+
+wd:Q21480323 a wd:Q1668024 ;
+    rdfs:label "Electric Jukebox"@en .
+
+wd:Q220577 a wd:Q1668024 ;
+    rdfs:label "Google Analytics"@en .
+
+wd:Q223563 a wd:Q1668024 ;
+    rdfs:label "Google Calendar"@en .
+
+wd:Q2293583 a wd:Q1668024 ;
+    rdfs:label "GameTap"@en .
+
+wd:Q23048711 a wd:Q340169 ;
+    rdfs:label "Unified State Register of Enterprises and Organizations of Ukraine"@en .
+
+wd:Q2318036 a wd:Q1668024 ;
+    rdfs:label "Q2318036"^^xsd:string .
+
+wd:Q24064118 a wd:Q286583 ;
+    rdfs:label "Theater Na de Dam"@en .
+
+wd:Q2428321 a wd:Q1668024 ;
+    rdfs:label "Q2428321"^^xsd:string .
+
+wd:Q2454805 a wd:Q7406919 ;
+    rdfs:label "Q2454805"^^xsd:string .
+
+wd:Q24589722 a wd:Q1668024 ;
+    rdfs:label "Google Cloud Dataproc"@en .
+
+wd:Q24747800 a wd:Q7406919 ;
+    rdfs:label "LIGO Open Science Center"@en .
+
+wd:Q24883234 a wd:Q7406919 ;
+    rdfs:label "Systematic Alien Verification for Entitlements Program"@en .
+
+wd:Q2491359 a wd:Q7406919 ;
+    rdfs:label "line shipping"@en .
+
+wd:Q2517159 a wd:Q340169 ;
+    rdfs:label "Q2517159"^^xsd:string .
+
+wd:Q25422520 a wd:Q1668024 ;
+    rdfs:label "Google Nearline"@en .
+
+wd:Q25448221 a wd:Q1668024 ;
+    rdfs:label "iCCup"@en .
+
+wd:Q25452980 a wd:Q1668024 ;
+    rdfs:label "Q25452980"^^xsd:string .
+
+wd:Q25457318 a wd:Q1668024 ;
+    rdfs:label "LangitMusik"@en .
+
+wd:Q25469415 a wd:Q1668024 ;
+    rdfs:label "Google Analytics 360 Suite"@en .
+
+wd:Q25473585 a wd:Q340169 ;
+    rdfs:label "Q25473585"^^xsd:string .
+
+wd:Q2552459 a wd:Q7406919 ;
+    rdfs:label "Watcha"@en .
+
+wd:Q2590515 a wd:Q7406919 ;
+    rdfs:label "GINAF Rally Service"@en .
+
+wd:Q25939196 a wd:Q7406919 ;
+    rdfs:label "Yle Tunnus"@en .
+
+wd:Q25942322 a wd:Q7406919 ;
+    rdfs:label "Rio Areena"@en .
+
+wd:Q2608910 a wd:Q7406919 ;
+    rdfs:label "Q2608910"^^xsd:string .
+
+wd:Q2611367 a wd:Q1668024 ;
+    rdfs:label "Windows Live Web Messenger"@en .
+
+wd:Q2624115 a wd:Q7406919 ;
+    rdfs:label "CP Urban Services (Porto)"@en .
+
+wd:Q26260540 a wd:Q1668024 ;
+    rdfs:label "AOD"@en .
+
+wd:Q2650262 a wd:Q1668024 ;
+    rdfs:label "Google Compute Engine"@en .
+
+wd:Q268626 a wd:Q7406919 ;
+    rdfs:label "consultation"@en .
+
+wd:Q26879061 a wd:Q1668024 ;
+    rdfs:label "i-Pathways"@en .
+
+wd:Q2690337 a wd:Q7406919 ;
+    rdfs:label "RoboBraille"@en .
+
+wd:Q271982 a wd:Q1668024 ;
+    rdfs:label "Google Ads"@en .
+
+wd:Q2762801 a wd:Q7406919 ;
+    rdfs:label "Q2762801"^^xsd:string .
+
+wd:Q27903045 a wd:Q1668024 ;
+    rdfs:label "CBS All Access"@en .
+
+wd:Q27910302 a wd:Q7406919 ;
+    rdfs:label "Q27910302"^^xsd:string .
+
+wd:Q28103038 a wd:Q1668024 ;
+    rdfs:label "Q28103038"^^xsd:string .
+
+wd:Q28402217 a wd:Q1668024 ;
+    rdfs:label "Google Cloud Datastore"@en .
+
+wd:Q28485754 a wd:Q340169 ;
+    rdfs:label "Q28485754"^^xsd:string .
+
+wd:Q28542280 a wd:Q1668024 ;
+    rdfs:label "Q28542280"^^xsd:string .
+
+wd:Q2858735 a wd:Q7406919 ;
+    rdfs:label "AppleCare"@en .
+
+wd:Q28836387 a wd:Q7406919 ;
+    rdfs:label "SIPCA"@en .
+
+wd:Q28940548 a wd:Q7406919 ;
+    rdfs:label "Turkey Relocation Management Services"@en .
+
+wd:Q28940651 a wd:Q7406919 ;
+    rdfs:label "Orient Relocation Services"@en .
+
+wd:Q28940694 a wd:Q7406919 ;
+    rdfs:label "Elit Global"@en .
+
+wd:Q28940717 a wd:Q7406919 ;
+    rdfs:label "XPR solutions"@en .
+
+wd:Q2894237 a wd:Q340169 ;
+    rdfs:label "Official Gazette of the Commercial Registry"@en .
+
+wd:Q295968 a wd:Q7406919 ;
+    rdfs:label "AOL-Phone"@en .
+
+wd:Q30048508 a wd:Q340169 ;
+    rdfs:label "Q30048508"^^xsd:string .
+
+wd:Q300870 a wd:Q7406919 ;
+    rdfs:label "eBooks on Demand"@en .
+
+wd:Q30087624 a wd:Q7406919 ;
+    rdfs:label "Jalis Express"@en .
+
+wd:Q30303305 a wd:Q7406919 ;
+    rdfs:label "beauty service"@en .
+
+wd:Q30324198 a wd:Q7406919 ;
+    rdfs:label "Lesbian bar"@en .
+
+wd:Q3034386 a wd:Q1668024 ;
+    rdfs:label "Windows Live Photos"@en .
+
+wd:Q30585118 a wd:Q1668024 ;
+    rdfs:label "Collabora Online"@en .
+
+wd:Q31202244 a wd:Q1668024 ;
+    rdfs:label "Triple Pattern Fragments hosted by Wikidata"@en .
+
+wd:Q31792399 a wd:Q1668024 ;
+    rdfs:label "web.hypothes.is"@en .
+
+wd:Q32149310 a wd:Q1668024 ;
+    rdfs:label "START"@en .
+
+wd:Q32152379 a wd:Q1668024 ;
+    rdfs:label "Q32152379"^^xsd:string .
+
+wd:Q32193244 a wd:Q1668024 ;
+    rdfs:label "inventaire.io"@en .
+
+wd:Q322654 a wd:Q1668024 ;
+    rdfs:label "Gopher"@en .
+
+wd:Q32478554 a wd:Q1668024 ;
+    rdfs:label "Descriptioner"@en .
+
+wd:Q32491083 a wd:Q1668024 ;
+    rdfs:label "QuickStatements"@en .
+
+wd:Q33082452 a wd:Q1668024 ;
+    rdfs:label "Wikidata Guessr"@en .
+
+wd:Q33163005 a wd:Q1668024 ;
+    rdfs:label "Dynamic Wikidata lists"@en .
+
+wd:Q3320995 a wd:Q7406919 ;
+    rdfs:label "website monitoring"@en .
+
+wd:Q3332504 a wd:Q340169 ;
+    rdfs:label "Q3332504"^^xsd:string .
+
+wd:Q3343352 a wd:Q340169 ;
+    rdfs:label "Nonfiction"@en .
+
+wd:Q3352690 a wd:Q7406919 ;
+    rdfs:label "One tv"@en .
+
+wd:Q3374124 a wd:Q1668024 ;
+    rdfs:label "Q3374124"^^xsd:string .
+
+wd:Q33998591 a wd:Q1668024 ;
+    rdfs:label "skyscrapers.com"@en .
+
+wd:Q3414838 a wd:Q340169 ;
+    rdfs:label "Quebec Noticias"@en .
+
+wd:Q3460832 a wd:Q1668024 ;
+    rdfs:label "Saccharomyces Genome Database"@en .
+
+wd:Q3515381 a wd:Q340169 ;
+    rdfs:label "Tanzaku"@en .
+
+wd:Q356 a wd:Q1668024 ;
+    rdfs:label "Google+"@en .
+
+wd:Q364 a wd:Q1668024 ;
+    rdfs:label "GitHub"@en .
+
+wd:Q36578 a wd:Q340169 ;
+    rdfs:label "Integrated Authority File"@en .
+
+wd:Q3672685 a wd:Q340169 ;
+    rdfs:label "light Morse communication"@en .
+
+wd:Q3700238 a wd:Q1668024 ;
+    rdfs:label "Vine"@en .
+
+wd:Q38110550 a wd:Q1668024 ;
+    rdfs:label "Canvas"@en .
+
+wd:Q38112454 a wd:Q1668024 ;
+    rdfs:label "Wikimedia Foundation's Etherpad"@en .
+
+wd:Q38201408 a wd:Q1668024 ;
+    rdfs:label "Mathematical Expression Recognition"@en .
+
+wd:Q3982994 a wd:Q7406919 ;
+    rdfs:label "Televideo"@en .
+
+wd:Q4037408 a wd:Q1668024 ;
+    rdfs:label "D3.ru"@en .
+
+wd:Q4049850 a wd:Q1668024 ;
+    rdfs:label "Cloud Spanner"@en .
+
+wd:Q41522805 a wd:Q7406919 ;
+    rdfs:label "drive-thru bank"@en .
+
+wd:Q41658026 a wd:Q7406919 ;
+    rdfs:label "Soite"@en .
+
+wd:Q41904352 a wd:Q7406919 ;
+    rdfs:label "LocationSmart"@en .
+
+wd:Q423048 a wd:Q340169 ;
+    rdfs:label "International Standard Name Identifier"@en .
+
+wd:Q42429263 a wd:Q7406919 ;
+    rdfs:label "Katso Identification System"@en .
+
+wd:Q43024 a wd:Q340169 ;
+    rdfs:label "Short Message Service"@en .
+
+wd:Q43302094 a wd:Q340169 ;
+    rdfs:label "Q43302094"^^xsd:string .
+
+wd:Q44281886 a wd:Q340169 ;
+    rdfs:label "Le Média"@en .
+
+wd:Q4501613 a wd:Q1668024 ;
+    rdfs:label "Google Safe Browsing"@en .
+
+wd:Q4535652 a wd:Q1668024 ;
+    rdfs:label "Ya.Online"@en .
+
+wd:Q454728 a wd:Q1668024 ;
+    rdfs:label "Google App Engine"@en .
+
+wd:Q4605228 a wd:Q1668024 ;
+    rdfs:label "Google Cloud Storage"@en .
+
+wd:Q46261310 a wd:Q1668024 ;
+    rdfs:label "Google Sheets"@en .
+
+wd:Q46272775 a wd:Q1668024 ;
+    rdfs:label "Google Slides"@en .
+
+wd:Q47008412 a wd:Q1640628 ;
+    rdfs:label "Mullvad"@en .
+
+wd:Q47010621 a wd:Q340169 ;
+    rdfs:label "Q47010621"^^xsd:string .
+
+wd:Q47014869 a wd:Q1668024 ;
+    rdfs:label "Google Forms"@en .
+
+wd:Q47527110 a wd:Q7406919 ;
+    rdfs:label "Q47527110"^^xsd:string .
+
+wd:Q481374 a wd:Q7406919 ;
+    rdfs:label "Amtstag"@en .
+
+wd:Q4839705 a wd:Q7406919 ;
+    rdfs:label "Backpage"@en .
+
+wd:Q48632515 a wd:Q7406919 ;
+    rdfs:label "Distributed Research using Advanced Computing (DiRAC)"@en .
+
+wd:Q48728350 a wd:Q340169 ;
+    rdfs:label "Haptik"@en .
+
+wd:Q4880667 a wd:Q1668024 ;
+    rdfs:label "Behance"@en .
+
+wd:Q4892142 a wd:Q340169 ;
+    rdfs:label "Q4892142"^^xsd:string .
+
+wd:Q48945072 a wd:Q7406919 ;
+    rdfs:label "Q48945072"^^xsd:string .
+
+wd:Q48969410 a wd:Q7406919 ;
+    rdfs:label "Login.gov"@en .
+
+wd:Q4904867 a wd:Q1668024 ;
+    rdfs:label "BigQuery"@en .
+
+wd:Q5135637 a wd:Q1668024 ;
+    rdfs:label "Cloud API"@en .
+
+wd:Q52556170 a wd:Q1668024 ;
+    rdfs:label "1.1.1.1"@en .
+
+wd:Q5321446 a wd:Q7406919 ;
+    rdfs:label "e-QIP"@en .
+
+wd:Q5321473 a wd:Q7406919 ;
+    rdfs:label "E-Verify"@en .
+
+wd:Q5323274 a wd:Q7406919 ;
+    rdfs:label "ELDIS"@en .
+
+wd:Q53502936 a wd:Q7406919 ;
+    rdfs:label "Q53502936"^^xsd:string .
+
+wd:Q53728092 a wd:Q7406919 ;
+    rdfs:label "TSA Pre✓"@en .
+
+wd:Q543752 a wd:Q1668024 ;
+    rdfs:label "Jango Radio"@en .
+
+wd:Q54438303 a wd:Q340169 ;
+    rdfs:label "Q54438303"^^xsd:string .
+
+wd:Q54505596 a wd:Q7406919 ;
+    rdfs:label "Student and Exchange Visitor Information System"@en .
+
+wd:Q54824289 a wd:Q7406919 ;
+    rdfs:label "Q54824289"^^xsd:string .
+
+wd:Q54954599 a wd:Q7406919 ;
+    rdfs:label "ArtWorks, the Naomi Cohain Foundation"@en .
+
+wd:Q54963022 a wd:Q340169 ;
+    rdfs:label "Global Biotic Interactions"@en .
+
+wd:Q55029528 a wd:Q1668024 ;
+    rdfs:label "G Suite App Maker"@en .
+
+wd:Q55753821 a wd:Q340169 ;
+    rdfs:label "NSK"@en .
+
+wd:Q55776233 a wd:Q1668024 ;
+    rdfs:label "Ezhuth.com"@en .
+
+wd:Q559117 a wd:Q7406919 ;
+    rdfs:label "Reverse SMS billing"@en .
+
+wd:Q5615419 a wd:Q1668024 ;
+    rdfs:label "GuideStar"@en .
+
+wd:Q56196824 a wd:Q7406919 ;
+    rdfs:label "Automated Weather Data Network"@en .
+
+wd:Q56250304 a wd:Q340169 ;
+    rdfs:label "Q56250304"^^xsd:string .
+
+wd:Q56256190 a wd:Q7406919 ;
+    rdfs:label "Ingenta Connect"@en .
+
+wd:Q56297515 a wd:Q7406919 ;
+    rdfs:label "Mitschnittservice"@en .
+
+wd:Q56402796 a wd:Q7406919 ;
+    rdfs:label "Q56402796"^^xsd:string .
+
+wd:Q56669074 a wd:Q1668024 ;
+    rdfs:label "Google Hangouts Meet"@en .
+
+wd:Q56840306 a wd:Q7406919 ;
+    rdfs:label "VéloStation in Dijon"@en .
+
+wd:Q56862151 a wd:Q1668024 ;
+    rdfs:label "Google Hangouts Meet Hardware"@en .
+
+wd:Q57337138 a wd:Q340169 ;
+    rdfs:label "Q57337138"^^xsd:string .
+
+wd:Q57416399 a wd:Q1668024 ;
+    rdfs:label "BBC Sounds"@en .
+
+wd:Q57521184 a wd:Q1668024 ;
+    rdfs:label "Titan Security Key"@en .
+
+wd:Q5769833 a wd:Q340169 ;
+    rdfs:label "Ciper"@en .
+
+wd:Q57699384 a wd:Q7406919 ;
+    rdfs:label "reference"@en .
+
+wd:Q5770016 a wd:Q340169 ;
+    rdfs:label "Unión Radio"@en .
+
+wd:Q57977677 a wd:Q1668024 ;
+    rdfs:label "ROXI"@en .
+
+wd:Q58368108 a wd:Q7406919 ;
+    rdfs:label "Your Handyman of Chicagoland"@en .
+
+wd:Q58780761 a wd:Q340169 ;
+    rdfs:label "Q58780761"^^xsd:string .
+
+wd:Q58780765 a wd:Q340169 ;
+    rdfs:label "Q58780765"^^xsd:string .
+
+wd:Q58780768 a wd:Q340169 ;
+    rdfs:label "Q58780768"^^xsd:string .
+
+wd:Q58780771 a wd:Q340169 ;
+    rdfs:label "Q58780771"^^xsd:string .
+
+wd:Q58780774 a wd:Q340169 ;
+    rdfs:label "Q58780774"^^xsd:string .
+
+wd:Q58780777 a wd:Q340169 ;
+    rdfs:label "Q58780777"^^xsd:string .
+
+wd:Q58780780 a wd:Q340169 ;
+    rdfs:label "Q58780780"^^xsd:string .
+
+wd:Q59489099 a wd:Q7406919 ;
+    rdfs:label "Q59489099"^^xsd:string .
+
+wd:Q59848767 a wd:Q1668024 ;
+    rdfs:label "Google Kubernetes Engine"@en .
+
+wd:Q59849415 a wd:Q1668024 ;
+    rdfs:label "Google Cloud Functions"@en .
+
+wd:Q59850313 a wd:Q1668024 ;
+    rdfs:label "Graphics Processing Unit"@en .
+
+wd:Q59850456 a wd:Q1668024 ;
+    rdfs:label "Cloud SQL"@en .
+
+wd:Q59850780 a wd:Q1668024 ;
+    rdfs:label "Persistent Disk"@en .
+
+wd:Q59850881 a wd:Q1668024 ;
+    rdfs:label "Cloud CDN"@en .
+
+wd:Q59851007 a wd:Q1668024 ;
+    rdfs:label "Cloud Interconnect"@en .
+
+wd:Q59851225 a wd:Q1668024 ;
+    rdfs:label "Cloud DNS"@en .
+
+wd:Q59851730 a wd:Q1668024 ;
+    rdfs:label "Cloud Identity"@en .
+
+wd:Q59852253 a wd:Q1668024 ;
+    rdfs:label "Cloud IAM"@en .
+
+wd:Q59897959 a wd:Q1668024 ;
+    rdfs:label "Cloud Speech-To-Text"@en .
+
+wd:Q59898149 a wd:Q1668024 ;
+    rdfs:label "Cloud Text-To-Speech"@en .
+
+wd:Q59898818 a wd:Q1668024 ;
+    rdfs:label "Cloud Vision"@en .
+
+wd:Q59899084 a wd:Q1668024 ;
+    rdfs:label "Cloud Natural Language"@en .
+
+wd:Q59900650 a wd:Q1668024 ;
+    rdfs:label "Cloud Translation"@en .
+
+wd:Q59902830 a wd:Q1668024 ;
+    rdfs:label "Cloud AutoML"@en .
+
+wd:Q59904785 a wd:Q1668024 ;
+    rdfs:label "Cloud Machine Learning Engine"@en .
+
+wd:Q59905389 a wd:Q1668024 ;
+    rdfs:label "Anthos GKE"@en .
+
+wd:Q59905591 a wd:Q1668024 ;
+    rdfs:label "Knative"@en .
+
+wd:Q59906054 a wd:Q1668024 ;
+    rdfs:label "Shielded VMs"@en .
+
+wd:Q59906474 a wd:Q1668024 ;
+    rdfs:label "Container Security"@en .
+
+wd:Q59908227 a wd:Q1668024 ;
+    rdfs:label "Cloud Memorystore"@en .
+
+wd:Q59908994 a wd:Q1668024 ;
+    rdfs:label "Cloud Firestore"@en .
+
+wd:Q59909615 a wd:Q1668024 ;
+    rdfs:label "Firebase Realtime Database"@en .
+
+wd:Q59940205 a wd:Q1668024 ;
+    rdfs:label "Stackdriver Monitoring"@en .
+
+wd:Q59940560 a wd:Q1668024 ;
+    rdfs:label "Stackdriver Service Monitoring"@en .
+
+wd:Q59940633 a wd:Q1668024 ;
+    rdfs:label "Stackdriver Logging"@en .
+
+wd:Q59943994 a wd:Q1668024 ;
+    rdfs:label "Stackdriver Error Reporting"@en .
+
+wd:Q59944233 a wd:Q1668024 ;
+    rdfs:label "Stackdriver Trace"@en .
+
+wd:Q59944337 a wd:Q1668024 ;
+    rdfs:label "Stackdriver Debugger"@en .
+
+wd:Q59944438 a wd:Q1668024 ;
+    rdfs:label "Stackdriver Profiler"@en .
+
+wd:Q59944541 a wd:Q1668024 ;
+    rdfs:label "Stackdriver Transparent Service Level Indicators"@en .
+
+wd:Q59944594 a wd:Q1668024 ;
+    rdfs:label "Cloud Deployment Manager"@en .
+
+wd:Q59944703 a wd:Q1668024 ;
+    rdfs:label "Cloud Console"@en .
+
+wd:Q59944825 a wd:Q1668024 ;
+    rdfs:label "Cloud Shell"@en .
+
+wd:Q59945735 a wd:Q1668024 ;
+    rdfs:label "Cloud Mobile App"@en .
+
+wd:Q59946040 a wd:Q1668024 ;
+    rdfs:label "Cloud Billing API"@en .
+
+wd:Q59947328 a wd:Q1668024 ;
+    rdfs:label "Apigee API Platform"@en .
+
+wd:Q59958464 a wd:Q1668024 ;
+    rdfs:label "Apigee Healthcare APIx"@en .
+
+wd:Q59958909 a wd:Q1668024 ;
+    rdfs:label "Apigee Open Banking APIx"@en .
+
+wd:Q59959165 a wd:Q1668024 ;
+    rdfs:label "Apigee Sense"@en .
+
+wd:Q60021353 a wd:Q1668024 ;
+    rdfs:label "API Monetization"@en .
+
+wd:Q60021416 a wd:Q1668024 ;
+    rdfs:label "API Analytics"@en .
+
+wd:Q60021491 a wd:Q1668024 ;
+    rdfs:label "Cloud Endpoints"@en .
+
+wd:Q60021729 a wd:Q1668024 ;
+    rdfs:label "Cloud Healthcare API"@en .
+
+wd:Q60021770 a wd:Q1668024 ;
+    rdfs:label "Cloud Storage for Firebase"@en .
+
+wd:Q60022074 a wd:Q1668024 ;
+    rdfs:label "Cloud Filestore"@en .
+
+wd:Q60022161 a wd:Q1668024 ;
+    rdfs:label "Drive Enterprise"@en .
+
+wd:Q60022217 a wd:Q1668024 ;
+    rdfs:label "Cloud Data Transfer"@en .
+
+wd:Q60022308 a wd:Q1668024 ;
+    rdfs:label "Transfer Appliance"@en .
+
+wd:Q60022339 a wd:Q1668024 ;
+    rdfs:label "Cloud Storage Transfer Service"@en .
+
+wd:Q60022847 a wd:Q1668024 ;
+    rdfs:label "Bigquery Data Transfer Service"@en .
+
+wd:Q60022986 a wd:Q1668024 ;
+    rdfs:label "Velostrata"@en .
+
+wd:Q60023151 a wd:Q1668024 ;
+    rdfs:label "Cloud Armor"@en .
+
+wd:Q60023619 a wd:Q1668024 ;
+    rdfs:label "Network Telemetry"@en .
+
+wd:Q60023631 a wd:Q1668024 ;
+    rdfs:label "Cloud SDK"@en .
+
+wd:Q60023707 a wd:Q1668024 ;
+    rdfs:label "Container Registry"@en .
+
+wd:Q60023828 a wd:Q1668024 ;
+    rdfs:label "Cloud Build"@en .
+
+wd:Q60023856 a wd:Q1668024 ;
+    rdfs:label "Cloud Source Repositories"@en .
+
+wd:Q60023916 a wd:Q1668024 ;
+    rdfs:label "Cloud Scheduler"@en .
+
+wd:Q60024009 a wd:Q1668024 ;
+    rdfs:label "Cloud Tools for IntelliJ"@en .
+
+wd:Q60025529 a wd:Q1668024 ;
+    rdfs:label "Cloud Tools for PowerShell"@en .
+
+wd:Q60025837 a wd:Q1668024 ;
+    rdfs:label "Cloud Tools for Visual Studio"@en .
+
+wd:Q60039755 a wd:Q340169 ;
+    rdfs:label "Q60039755"^^xsd:string .
+
+wd:Q60061958 a wd:Q1668024 ;
+    rdfs:label "Cloud Tools for Eclipse"@en .
+
+wd:Q60062036 a wd:Q1668024 ;
+    rdfs:label "Gradle App Engine Plugin"@en .
+
+wd:Q60062042 a wd:Q1668024 ;
+    rdfs:label "Maven App Engine Plugin"@en .
+
+wd:Q60062842 a wd:Q1668024 ;
+    rdfs:label "Cloud Test Lab"@en .
+
+wd:Q60078261 a wd:Q1668024 ;
+    rdfs:label "Firebase Crashlytics"@en .
+
+wd:Q60079018 a wd:Q1668024 ;
+    rdfs:label "Cloud IoT Core"@en .
+
+wd:Q60079419 a wd:Q1668024 ;
+    rdfs:label "Edge TPU"@en .
+
+wd:Q60079685 a wd:Q1668024 ;
+    rdfs:label "Cloud IoT Edge"@en .
+
+wd:Q60146133 a wd:Q1668024 ;
+    rdfs:label "Zync Render"@en .
+
+wd:Q60146662 a wd:Q1668024 ;
+    rdfs:label "Cloud Dataflow"@en .
+
+wd:Q60149076 a wd:Q1668024 ;
+    rdfs:label "Cloud Datalab"@en .
+
+wd:Q60149187 a wd:Q1668024 ;
+    rdfs:label "Cloud Dataprep"@en .
+
+wd:Q60164969 a wd:Q1668024 ;
+    rdfs:label "Cloud Pub/Sub"@en .
+
+wd:Q60165179 a wd:Q1668024 ;
+    rdfs:label "Cloud Composer"@en .
+
+wd:Q60165187 a wd:Q1668024 ;
+    rdfs:label "Google Genomics"@en .
+
+wd:Q60165325 a wd:Q1668024 ;
+    rdfs:label "Google Data Studio"@en .
+
+wd:Q60165503 a wd:Q1668024 ;
+    rdfs:label "Firebase Performance Monitoring"@en .
+
+wd:Q60165658 a wd:Q1668024 ;
+    rdfs:label "Cloud Identity for Customers and Partners"@en .
+
+wd:Q60167254 a wd:Q1668024 ;
+    rdfs:label "Firebase Authentication"@en .
+
+wd:Q60167750 a wd:Q1668024 ;
+    rdfs:label "Cloud Identity-Aware Proxy"@en .
+
+wd:Q60167770 a wd:Q1668024 ;
+    rdfs:label "Cloud Dataloss Prevention API"@en .
+
+wd:Q60167832 a wd:Q1668024 ;
+    rdfs:label "Security Key Enforcement"@en .
+
+wd:Q60168043 a wd:Q1668024 ;
+    rdfs:label "Cloud HSM"@en .
+
+wd:Q60178298 a wd:Q1668024 ;
+    rdfs:label "Google Admin"@en .
+
+wd:Q60193001 a wd:Q1668024 ;
+    rdfs:label "Google Vault"@en .
+
+wd:Q60193397 a wd:Q1668024 ;
+    rdfs:label "Google Cloud Search"@en .
+
+wd:Q60229362 a wd:Q1668024 ;
+    rdfs:label "Uber Movement"@en .
+
+wd:Q60621480 a wd:Q340169 ;
+    rdfs:label "Instagram egg"@en .
+
+wd:Q60622207 a wd:Q1668024 ;
+    rdfs:label "Google Cloud Load Balancing"@en .
+
+wd:Q60622434 a wd:Q1668024 ;
+    rdfs:label "Network Service Tiers"@en .
+
+wd:Q60622564 a wd:Q1668024 ;
+    rdfs:label "Google Docs"@en .
+
+wd:Q60659197 a wd:Q340169 ;
+    rdfs:label "Qiuwen"@en .
+
+wd:Q61058404 a wd:Q1668024 ;
+    rdfs:label "Facebook Pixel"@en .
+
+wd:Q61058409 a wd:Q1668024 ;
+    rdfs:label "Facebook Custom Audience"@en .
+
+wd:Q61058512 a wd:Q1668024 ;
+    rdfs:label "Facebook Lookalike Audience"@en .
+
+wd:Q61058574 a wd:Q1668024 ;
+    rdfs:label "Uber Fleet"@en .
+
+wd:Q61058590 a wd:Q1668024 ;
+    rdfs:label "Uber rideshare service"@en .
+
+wd:Q623456 a wd:Q1668024 ;
+    rdfs:label "Google Sites"@en .
+
+wd:Q62565863 a wd:Q340169 ;
+    rdfs:label "América radio (Radio Station)"@en .
+
+wd:Q62567000 a wd:Q340169 ;
+    rdfs:label "Q62567000"^^xsd:string .
+
+wd:Q62600576 a wd:Q340169 ;
+    rdfs:label "loire valley castles"@en .
+
+wd:Q62718822 a wd:Q7406919 ;
+    rdfs:label "Sculpture Conservation Studio of Constantinople Inc."@en .
+
+wd:Q63430441 a wd:Q1668024 ;
+    rdfs:label "Aloha24"@en .
+
+wd:Q63435709 a wd:Q7406919 ;
+    rdfs:label "Substack"@en .
+
+wd:Q63615657 a wd:Q1668024 ;
+    rdfs:label "Currents"@en .
+
+wd:Q637342 a wd:Q1668024 ;
+    rdfs:label "URL shortening"@en .
+
+wd:Q640990 a wd:Q7406919 ;
+    rdfs:label "phone sex"@en .
+
+wd:Q64698618 a wd:Q7406919 ;
+    rdfs:label "Q64698618"^^xsd:string .
+
+wd:Q648495 a wd:Q1668024 ;
+    rdfs:label "Windows Live Writer"@en .
+
+wd:Q65551500 a wd:Q1668024 ;
+    rdfs:label "Artstation"@en .
+
+wd:Q65944364 a wd:Q1668024 ;
+    rdfs:label "Swiggy"@en .
+
+wd:Q66175 a wd:Q340169 ;
+    rdfs:label "telex"@en .
+
+wd:Q6735317 a wd:Q7406919 ;
+    rdfs:label "Maid service"@en .
+
+wd:Q675351 a wd:Q7406919 ;
+    rdfs:label "Aeronautical Information Service"@en .
+
+wd:Q67604101 a wd:Q1668024 ;
+    rdfs:label "Drops"@en .
+
+wd:Q67777802 a wd:Q7406919 ;
+    rdfs:label "NHS Hospital Advisory Service"@en .
+
+wd:Q6801587 a wd:Q1668024 ;
+    rdfs:label "McIDAS"@en .
+
+wd:Q6883832 a wd:Q1668024 ;
+    rdfs:label "Mixcloud"@en .
+
+wd:Q6971865 a wd:Q1668024 ;
+    rdfs:label "National Corpus of Polish"@en .
+
+wd:Q71112285 a wd:Q340169 ;
+    rdfs:label "International Standard for Assigned Names and Numbers"@en .
+
+wd:Q7118047 a wd:Q7406919 ;
+    rdfs:label "PACER"@en .
+
+wd:Q71822824 a wd:Q1668024 ;
+    rdfs:label "Q71822824"^^xsd:string .
+
+wd:Q71824695 a wd:Q7406919 ;
+    rdfs:label "Advanpro"@en .
+
+wd:Q719629 a wd:Q340169 ;
+    rdfs:label "PlayStation Network"@en .
+
+wd:Q72237 a wd:Q1668024 ;
+    rdfs:label "Cloud Bigtable"@en .
+
+wd:Q723685 a wd:Q1668024 ;
+    rdfs:label "video on demand"@en .
+
+wd:Q725130 a wd:Q1668024 ;
+    rdfs:label "Battle.net"@en .
+
+wd:Q73 a wd:Q340169 ;
+    rdfs:label "Internet Relay Chat"@en .
+
+wd:Q7386727 a wd:Q7406919 ;
+    rdfs:label "Røros Flyservice"@en .
+
+wd:Q7390193 a wd:Q7406919 ;
+    rdfs:label "SHERPA"@en .
+
+wd:Q75101760 a wd:Q1668024 ;
+    rdfs:label "Yle Abimix"@en .
+
+wd:Q75102254 a wd:Q1668024 ;
+    rdfs:label "Yle Vetamix"@en .
+
+wd:Q75145881 a wd:Q7406919 ;
+    rdfs:label "JUDO ERP Solutions"@en .
+
+wd:Q75341577 a wd:Q7406919 ;
+    rdfs:label "TAK Cleaning Services"@en .
+
+wd:Q75662226 a wd:Q1668024 ;
+    rdfs:label "NNTPChan"@en .
+
+wd:Q76003298 a wd:Q340169 ;
+    rdfs:label "Science communication center"@en .
+
+wd:Q76005198 a wd:Q340169 ;
+    rdfs:label "Q76005198"^^xsd:string .
+
+wd:Q7612603 a wd:Q1668024 ;
+    rdfs:label "Facebook Ads"@en .
+
+wd:Q7679206 a wd:Q1668024 ;
+    rdfs:label "Talenthouse"@en .
+
+wd:Q76828241 a wd:Q1668024 ;
+    rdfs:label "Reseptikone"@en .
+
+wd:Q7727516 a wd:Q340169 ;
+    rdfs:label "The Conversation"@en .
+
+wd:Q77949925 a wd:Q1668024 ;
+    rdfs:label "Ko-fi"@en .
+
+wd:Q7854718 a wd:Q1668024 ;
+    rdfs:label "Google Keep"@en .
+
+wd:Q78872971 a wd:Q286583 ;
+    rdfs:label "Die reisenden Komödianten oder der gescheide und dämische Impressario"@en .
+
+wd:Q7935151 a wd:Q1668024 ;
+    rdfs:label "Virtual Private Cloud"@en .
+
+wd:Q795594 a wd:Q7406919 ;
+    rdfs:label "BBC Red Button"@en .
+
+wd:Q79687304 a wd:Q1668024 ;
+    rdfs:label "Q79687304"^^xsd:string .
+
+wd:Q808137 a wd:Q286583 ;
+    rdfs:label "Banknotes of West Germany"@en .
+
+wd:Q81744655 a wd:Q340169 ;
+    rdfs:label "El Desconcierto"@en .
+
+wd:Q8184747 a wd:Q7406919 ;
+    rdfs:label "Q8184747"^^xsd:string .
+
+wd:Q81945 a wd:Q340169 ;
+    rdfs:label "Voice over Internet Protocol"@en .
+
+wd:Q840820 a wd:Q1668024 ;
+    rdfs:label "Google Groups"@en .
+
+wd:Q847651 a wd:Q7406919 ;
+    rdfs:label "CP Urban Services (Lisbon)"@en .
+
+wd:Q86065209 a wd:Q7406919 ;
+    rdfs:label "Q86065209"^^xsd:string .
+
+wd:Q862550 a wd:Q340169 ;
+    rdfs:label "language of flowers"@en .
+
+wd:Q86361409 a wd:Q340169 ;
+    rdfs:label "Q86361409"^^xsd:string .
+
+wd:Q899277 a wd:Q7406919 ;
+    rdfs:label "recruitment"@en .
+
+wd:Q905767 a wd:Q1668024 ;
+    rdfs:label "Grooveshark"@en .
+
+wd:Q906372 a wd:Q1668024 ;
+    rdfs:label "TypePad"@en .
+
+wd:Q911439 a wd:Q7406919 ;
+    rdfs:label "Scalr"@en .
+
+wd:Q920313 a wd:Q7406919 ;
+    rdfs:label "iAd"@en .
+
+wd:Q9340 a wd:Q1668024 ;
+    rdfs:label "Google Drive"@en .
+
+wd:Q973269 a wd:Q1668024 ;
+    rdfs:label "Google Mobile Device Management"@en .
+
+wd:Q146923 rdfs:label "middleware of distributed system"@en .
+
+wd:Q1640628 rdfs:label "network service"@en ;
+    rdfs:subClassOf wd:Q146923,
+        wd:Q7406919 .
+
+wd:Q286583 rdfs:label "manifestation"@en .
+
+wd:Q340169 rdfs:label "communication medium"@en ;
+    rdfs:subClassOf wd:Q286583 .
+
+wd:Q7406919 rdfs:label "service"@en .
+
+wd:Q1668024 rdfs:label "service on internet"@en ;
+    rdfs:subClassOf wd:Q1640628,
+        wd:Q340169 .
+

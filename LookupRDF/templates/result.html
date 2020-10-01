@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>{{ keyword }}</title>
+</head>
+<body>
+<table border = 1>
+<th>Uri of keyword:  {{ keyword }}</th>
+{% for value in result %}
+<tr>
+	
+	<td>{{ value }} </td>
+</tr>
+{% endfor %}
+</table>
+</body>
+</html>

@@ -1,0 +1,382 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1002151 a wd:Q3505845 ;
+    rdfs:label "Buffer underrun"@en .
+
+wd:Q104021 a wd:Q3505845 ;
+    rdfs:label "fauna"@en .
+
+wd:Q1067532 a wd:Q3505845 ;
+    rdfs:label "G-LOC"@en .
+
+wd:Q11486291 a wd:Q813912 ;
+    rdfs:label "Abolished school"@en .
+
+wd:Q131327 a wd:Q813912 ;
+    rdfs:label "homelessness"@en .
+
+wd:Q1447854 a wd:Q3505845 ;
+    rdfs:label "Throbber"@en .
+
+wd:Q1482645 a wd:Q813912 ;
+    rdfs:label "Tribalism"@en .
+
+wd:Q15131435 a wd:Q3505845 ;
+    rdfs:label "gezelligheid"@en .
+
+wd:Q156836 a wd:Q2526135 ;
+    rdfs:label "Ohrana"@en .
+
+wd:Q15874438 a wd:Q3505845 ;
+    rdfs:label "divisible"@en .
+
+wd:Q16069884 a wd:Q3505845 ;
+    rdfs:label "Q16069884"^^xsd:string .
+
+wd:Q16070439 a wd:Q3505845 ;
+    rdfs:label "Q16070439"^^xsd:string .
+
+wd:Q161790 a wd:Q3505845 ;
+    rdfs:label "Asperger syndrome"@en .
+
+wd:Q16821098 a wd:Q813912 ;
+    rdfs:label "Abstinence"@en .
+
+wd:Q17233037 a wd:Q2526135 ;
+    rdfs:label "cyber security"@en .
+
+wd:Q1760011 a wd:Q3505845 ;
+    rdfs:label "prosperity"@en .
+
+wd:Q17710290 a wd:Q3505845 ;
+    rdfs:label "Dormant organization"@en .
+
+wd:Q178927 a wd:Q813912 ;
+    rdfs:label "writer's block"@en .
+
+wd:Q18066311 a wd:Q3505845 ;
+    rdfs:label "Q18066311"^^xsd:string .
+
+wd:Q18122778 a wd:Q813912 ;
+    rdfs:label "presumably"@en .
+
+wd:Q181600 a wd:Q3505845 ;
+    rdfs:label "patient"@en .
+
+wd:Q1827062 a wd:Q3505845 ;
+    rdfs:label "Q1827062"^^xsd:string .
+
+wd:Q18396999 a wd:Q3505845 ;
+    rdfs:label "Q18396999"^^xsd:string .
+
+wd:Q184783 a wd:Q813912 ;
+    rdfs:label "market liquidity"@en .
+
+wd:Q1891441 a wd:Q3505845 ;
+    rdfs:label "convalescence"@en .
+
+wd:Q191355 a wd:Q3505845 ;
+    rdfs:label "hunger strike"@en .
+
+wd:Q1914776 a wd:Q813912 ;
+    rdfs:label "dimensional conformance"@en .
+
+wd:Q1923201 a wd:Q1751569 ;
+    rdfs:label "Alerting system terrorism risk"@en .
+
+wd:Q1945135 a wd:Q3505845 ;
+    rdfs:label "Q1945135"^^xsd:string .
+
+wd:Q19921782 a wd:Q3505845 ;
+    rdfs:label "bilingualism of government"@en .
+
+wd:Q2234498 a wd:Q3505845 ;
+    rdfs:label "Q2234498"^^xsd:string .
+
+wd:Q2379153 a wd:Q3505845 ;
+    rdfs:label "congenic organisms"@en .
+
+wd:Q2388252 a wd:Q3505845 ;
+    rdfs:label "Q2388252"^^xsd:string .
+
+wd:Q2391080 a wd:Q3505845 ;
+    rdfs:label "Q2391080"^^xsd:string .
+
+wd:Q23932852 a wd:Q813912 ;
+    rdfs:label "excitability"@en .
+
+wd:Q2409965 a wd:Q3505845 ;
+    rdfs:label "metastability in electronics"@en .
+
+wd:Q2443966 a wd:Q3505845 ;
+    rdfs:label "Bedridden"@en .
+
+wd:Q2516844 a wd:Q3505845 ;
+    rdfs:label "Q2516844"^^xsd:string .
+
+wd:Q25378092 rdfs:label "National security in Canada"@en ;
+    rdfs:subClassOf wd:Q258307 .
+
+wd:Q2614315 a wd:Q3505845 ;
+    rdfs:label "Q2614315"^^xsd:string .
+
+wd:Q2679225 a wd:Q3505845 ;
+    rdfs:label "Q2679225"^^xsd:string .
+
+wd:Q2687604 a wd:Q3505845 ;
+    rdfs:label "Q2687604"^^xsd:string .
+
+wd:Q26959205 a wd:Q813912 ;
+    rdfs:label "given name authorized in Iceland"@en .
+
+wd:Q26959550 a wd:Q813912 ;
+    rdfs:label "given name not authorized in Iceland"@en .
+
+wd:Q2739856 a wd:Q3505845 ;
+    rdfs:label "Q2739856"^^xsd:string .
+
+wd:Q27431229 a wd:Q813912 ;
+    rdfs:label "inebriate"@en .
+
+wd:Q27502769 a wd:Q3505845 ;
+    rdfs:label "Q27502769"^^xsd:string .
+
+wd:Q27968830 a wd:Q3505845 ;
+    rdfs:label "cashless society"@en .
+
+wd:Q28056401 a wd:Q813912 ;
+    rdfs:label "accused"@en .
+
+wd:Q28056408 a wd:Q813912 ;
+    rdfs:label "falsely accused"@en .
+
+wd:Q2915214 a wd:Q813912 ;
+    rdfs:label "sanity"@en .
+
+wd:Q2919366 a wd:Q813912 ;
+    rdfs:label "acedia"@en .
+
+wd:Q29415466 a wd:Q3505845 ;
+    rdfs:label "active"@en .
+
+wd:Q29415492 a wd:Q3505845 ;
+    rdfs:label "inactive"@en .
+
+wd:Q2944360 a wd:Q3505845 ;
+    rdfs:label "centenarian"@en .
+
+wd:Q29954897 a wd:Q3505845 ;
+    rdfs:label "reduced intensity"@en .
+
+wd:Q2995644 a wd:Q813912 ;
+    rdfs:label "result"@en .
+
+wd:Q30230067 a wd:Q813912 ;
+    rdfs:label "possibly"@en .
+
+wd:Q306837 a wd:Q813912 ;
+    rdfs:label "Abbruchbedingung"@en .
+
+wd:Q315971 a wd:Q3505845 ;
+    rdfs:label "total loss"@en .
+
+wd:Q32099846 a wd:Q3505845 ;
+    rdfs:label "intensified"@en .
+
+wd:Q333712 a wd:Q813912 ;
+    rdfs:label "statically indeterminate"@en .
+
+wd:Q334104 a wd:Q813912 ;
+    rdfs:label "supersaturation"@en .
+
+wd:Q3385109 a wd:Q813912 ;
+    rdfs:label "Incorporeality"@en .
+
+wd:Q340548 a wd:Q813912 ;
+    rdfs:label "achlorhydria"@en .
+
+wd:Q3449472 a wd:Q3505845 ;
+    rdfs:label "Q3449472"^^xsd:string .
+
+wd:Q3510479 rdfs:label "military security"@en ;
+    rdfs:subClassOf wd:Q258307 .
+
+wd:Q3518877 a wd:Q3505845 ;
+    rdfs:label "Q3518877"^^xsd:string .
+
+wd:Q3519661 a wd:Q3505845 ;
+    rdfs:label "Q3519661"^^xsd:string .
+
+wd:Q3533657 a wd:Q3505845 ;
+    rdfs:label "Q3533657"^^xsd:string .
+
+wd:Q358404 a wd:Q3505845,
+        wd:Q813912 ;
+    rdfs:label "tumah and taharah"@en .
+
+wd:Q3644190 a wd:Q3505845 ;
+    rdfs:label "seropositive"@en .
+
+wd:Q379839 a wd:Q813912 ;
+    rdfs:label "adventive species"@en .
+
+wd:Q3921252 a wd:Q3505845 ;
+    rdfs:label "Q3921252"^^xsd:string .
+
+wd:Q3948652 a wd:Q3505845 ;
+    rdfs:label "Q3948652"^^xsd:string .
+
+wd:Q3997169 a wd:Q813912 ;
+    rdfs:label "tradability"@en .
+
+wd:Q4101994 a wd:Q2526135 ;
+    rdfs:label "Armed Security"@en .
+
+wd:Q4120632 a wd:Q3505845 ;
+    rdfs:label "hard frost"@en .
+
+wd:Q41857290 a wd:Q813912 ;
+    rdfs:label "organizations subject to surveillance under the Subversive Activities Prevention Act"@en .
+
+wd:Q4186259 a wd:Q813912 ;
+    rdfs:label "skid"@en .
+
+wd:Q43059 a wd:Q813912 ;
+    rdfs:label "drought"@en .
+
+wd:Q4683189 a wd:Q3505845 ;
+    rdfs:label "Adjuncts"@en .
+
+wd:Q5029862 a wd:Q3505845 ;
+    rdfs:label "Q5029862"^^xsd:string .
+
+wd:Q52063259 a wd:Q813912 ;
+    rdfs:label "precedence"@en .
+
+wd:Q5282687 a wd:Q813912 ;
+    rdfs:label "dispute"@en .
+
+wd:Q52932736 a wd:Q813912 ;
+    rdfs:label "in flight"@en .
+
+wd:Q5449698 a wd:Q813912 ;
+    rdfs:label "financial core"@en .
+
+wd:Q56644435 a wd:Q813912 ;
+    rdfs:label "probably"@en .
+
+wd:Q58210565 a wd:Q3505845 ;
+    rdfs:label "Q58210565"^^xsd:string .
+
+wd:Q6011585 a wd:Q813912 ;
+    rdfs:label "in flight"@en .
+
+wd:Q61679550 a wd:Q3505845 ;
+    rdfs:label "Q61679550"^^xsd:string .
+
+wd:Q62024649 a wd:Q813912 ;
+    rdfs:label "eligibility"@en .
+
+wd:Q62101642 a wd:Q3505845 ;
+    rdfs:label "period poverty"@en .
+
+wd:Q6319135 a wd:Q218719 ;
+    rdfs:label "juxtaposed controls"@en .
+
+wd:Q655681 a wd:Q813912 ;
+    rdfs:label "Out of print"@en .
+
+wd:Q6578238 a wd:Q3505845 ;
+    rdfs:label "helplessness"@en .
+
+wd:Q66305738 a wd:Q813912 ;
+    rdfs:label "saturation"@en .
+
+wd:Q66660219 a wd:Q3505845 ;
+    rdfs:label "Q66660219"^^xsd:string .
+
+wd:Q7049542 a wd:Q813912 ;
+    rdfs:label "nonpartisanism"@en .
+
+wd:Q7575020 a wd:Q813912 ;
+    rdfs:label "Specified subject condition"@en .
+
+wd:Q7578725 a wd:Q3505845 ;
+    rdfs:label "Split vote"@en .
+
+wd:Q76649614 a wd:Q813912 ;
+    rdfs:label "not yet recruiting"@en .
+
+wd:Q76649708 a wd:Q813912 ;
+    rdfs:label "recruiting"@en .
+
+wd:Q76649790 a wd:Q813912 ;
+    rdfs:label "active, not recruiting"@en .
+
+wd:Q76649855 a wd:Q813912 ;
+    rdfs:label "suspended"@en .
+
+wd:Q76649944 a wd:Q813912 ;
+    rdfs:label "terminated"@en .
+
+wd:Q76650124 a wd:Q813912 ;
+    rdfs:label "withdrawn"@en .
+
+wd:Q76651189 a wd:Q813912 ;
+    rdfs:label "completed"@en .
+
+wd:Q76651279 a wd:Q813912 ;
+    rdfs:label "unknown"@en .
+
+wd:Q7864960 a wd:Q1751569,
+        wd:Q47484674 ;
+    rdfs:label "UK Threat Levels"@en .
+
+wd:Q81221282 a wd:Q3505845 ;
+    rdfs:label "not yet been digitized"@en .
+
+wd:Q83705447 a wd:Q3505845 ;
+    rdfs:label "parenthood"@en .
+
+wd:Q83763161 rdfs:label "Q83763161"^^xsd:string ;
+    rdfs:subClassOf wd:Q258307 .
+
+wd:Q86907020 a wd:Q3505845 ;
+    rdfs:label "leaning"@en .
+
+wd:Q902751 a wd:Q813912 ;
+    rdfs:label "pressurization"@en .
+
+wd:Q940145 a wd:Q48817210 ;
+    rdfs:label "Global Entry"@en .
+
+wd:Q971062 a wd:Q813912 ;
+    rdfs:label "Composite fermion"@en .
+
+wd:Q47484674 rdfs:label "threat level"@en ;
+    rdfs:subClassOf wd:Q1751569 .
+
+wd:Q48817210 rdfs:label "Automated Border Control system"@en ;
+    rdfs:subClassOf wd:Q218719 .
+
+wd:Q218719 rdfs:label "border control"@en ;
+    rdfs:subClassOf wd:Q258307 .
+
+wd:Q1751569 rdfs:label "alert state"@en ;
+    rdfs:subClassOf wd:Q258307 .
+
+wd:Q2526135 rdfs:label "security"@en ;
+    rdfs:subClassOf wd:Q813912 .
+
+wd:Q258307 rdfs:label "national security"@en ;
+    rdfs:subClassOf wd:Q2526135 .
+
+wd:Q813912 rdfs:label "condition"@en ;
+    rdfs:subClassOf wd:Q3505845 .
+
+wd:Q3505845 rdfs:label "state"@en .
+

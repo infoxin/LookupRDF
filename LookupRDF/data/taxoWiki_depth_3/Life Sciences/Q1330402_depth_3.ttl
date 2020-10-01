@@ -1,0 +1,105 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q15706426 a wd:Q739734 ;
+    rdfs:label "Q15706426"^^xsd:string .
+
+wd:Q1591401 a wd:Q1330402 ;
+    rdfs:label "skin flora"@en .
+
+wd:Q16570 a wd:Q7239 ;
+    rdfs:label "The Lonesome George"@en .
+
+wd:Q17029247 a wd:Q7239 ;
+    rdfs:label "Illegitimate receiver"@en .
+
+wd:Q1747543 a wd:Q7239 ;
+    rdfs:label "protophyta"@en .
+
+wd:Q189052 a wd:Q7239 ;
+    rdfs:label "cell colony"@en .
+
+wd:Q240433 a wd:Q7239 ;
+    rdfs:label "Mastigophora"@en .
+
+wd:Q24082798 rdfs:label "Q24082798"^^xsd:string ;
+    rdfs:subClassOf wd:Q739734 .
+
+wd:Q24628 a wd:Q7239 ;
+    rdfs:label "Alex"@en .
+
+wd:Q24810293 a wd:Q1330402 ;
+    rdfs:label "Uterine microbiota"@en .
+
+wd:Q24975460 a wd:Q1330402 ;
+    rdfs:label "Vaginal flora in pregnancy"@en .
+
+wd:Q24975941 rdfs:label "mycobiome"@en ;
+    rdfs:subClassOf wd:Q1330402 .
+
+wd:Q25324680 a wd:Q1330402 ;
+    rdfs:label "Placental microbiome"@en .
+
+wd:Q2632669 a wd:Q7239 ;
+    rdfs:label "carrion flower"@en .
+
+wd:Q26756884 a wd:Q1330402 ;
+    rdfs:label "nasal flora"@en .
+
+wd:Q29887926 rdfs:label "Salivary microbiome"@en ;
+    rdfs:subClassOf wd:Q1500347 .
+
+wd:Q3528593 a wd:Q7239 ;
+    rdfs:label "Q3528593"^^xsd:string .
+
+wd:Q450090 a wd:Q1330402 ;
+    rdfs:label "Oral microbiology"@en .
+
+wd:Q4915320 a wd:Q845214 ;
+    rdfs:label "Biota of Tokyo Imperial Palace"@en .
+
+wd:Q5168598 a wd:Q7239 ;
+    rdfs:label "Copiotroph"@en .
+
+wd:Q5193083 a wd:Q7239 ;
+    rdfs:label "Culmicole"@en .
+
+wd:Q537478 a wd:Q1330402 ;
+    rdfs:label "Vaginal flora"@en .
+
+wd:Q6704294 a wd:Q1330402 ;
+    rdfs:label "Lung microbiome"@en .
+
+wd:Q6982175 a wd:Q7239 ;
+    rdfs:label "Lem"@en .
+
+wd:Q789505 a wd:Q7239 ;
+    rdfs:label "Autöcie"@en .
+
+wd:Q7971850 a wd:Q7239 ;
+    rdfs:label "Washington Elm"@en .
+
+wd:Q1500347 rdfs:label "human microbiome"@en ;
+    rdfs:subClassOf wd:Q2033092 .
+
+wd:Q2382443 rdfs:label "biota"@en ;
+    rdfs:subClassOf wd:Q7239 .
+
+wd:Q2033092 rdfs:label "flora"@en ;
+    rdfs:subClassOf wd:Q1330402 .
+
+wd:Q739734 a wd:Q1330402 ;
+    rdfs:label "gut flora"@en ;
+    rdfs:subClassOf wd:Q2033092 .
+
+wd:Q845214 rdfs:label "biota"@en ;
+    rdfs:subClassOf wd:Q2382443 .
+
+wd:Q1330402 rdfs:label "microbiome"@en ;
+    rdfs:subClassOf wd:Q845214 .
+
+wd:Q7239 rdfs:label "organism"@en .
+

@@ -1,0 +1,1040 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q101333 a wd:Q268592 ;
+    rdfs:label "mechanical engineering"@en .
+
+wd:Q10302058 a wd:Q268592 ;
+    rdfs:label "phonographic industry"@en .
+
+wd:Q10699150 a wd:Q39809 ;
+    rdfs:label "tobacco party"@en .
+
+wd:Q1071262 rdfs:label "social media optimization"@en ;
+    rdfs:subClassOf wd:Q189507 .
+
+wd:Q1071389 a wd:Q268592 ;
+    rdfs:label "gold mining"@en .
+
+wd:Q11030 a wd:Q268592 ;
+    rdfs:label "journalism"@en .
+
+wd:Q112046 a wd:Q268592 ;
+    rdfs:label "transmission system operator"@en .
+
+wd:Q1129516 rdfs:label "Duplicate content"@en ;
+    rdfs:subClassOf wd:Q180711 .
+
+wd:Q1130265 a wd:Q268592 ;
+    rdfs:label "hydraulic engineering"@en .
+
+wd:Q1136859 a wd:Q451967 ;
+    rdfs:label "humiliation"@en .
+
+wd:Q11451 a wd:Q268592 ;
+    rdfs:label "agriculture"@en .
+
+wd:Q11467 a wd:Q268592 ;
+    rdfs:label "metallurgy"@en .
+
+wd:Q1149653 a wd:Q268592 ;
+    rdfs:label "Building automation"@en .
+
+wd:Q11567485 a wd:Q268592 ;
+    rdfs:label "Muen business"@en .
+
+wd:Q11635 a wd:Q268592 ;
+    rdfs:label "theater"@en .
+
+wd:Q11828862 a wd:Q268592 ;
+    rdfs:label "clothing industry"@en .
+
+wd:Q11892257 a wd:Q268592 ;
+    rdfs:label "poligraphy"@en .
+
+wd:Q11894793 a wd:Q268592 ;
+    rdfs:label "Video gaming industry in Finland"@en .
+
+wd:Q11915758 a wd:Q39809 ;
+    rdfs:label "Q11915758"^^xsd:string .
+
+wd:Q11990434 a wd:Q268592 ;
+    rdfs:label "furniture industry"@en .
+
+wd:Q12088781 a wd:Q268592 ;
+    rdfs:label "machine tool industry"@en .
+
+wd:Q12144907 a wd:Q268592 ;
+    rdfs:label "Q12144907"^^xsd:string .
+
+wd:Q12167297 a wd:Q268592 ;
+    rdfs:label "bakery industry"@en .
+
+wd:Q1229181 a wd:Q39809 ;
+    rdfs:label "Q1229181"^^xsd:string .
+
+wd:Q12303494 a wd:Q268592 ;
+    rdfs:label "biotechnology industry"@en .
+
+wd:Q124192 a wd:Q268592 ;
+    rdfs:label "automotive engineering"@en .
+
+wd:Q1260046 a wd:Q268592 ;
+    rdfs:label "drugstore"@en .
+
+wd:Q1261092 a wd:Q268592 ;
+    rdfs:label "Printing industry"@en .
+
+wd:Q126793 a wd:Q268592 ;
+    rdfs:label "retail"@en .
+
+wd:Q12752882 a wd:Q268592 ;
+    rdfs:label "cosmetic industry"@en .
+
+wd:Q1285245 a wd:Q268592 ;
+    rdfs:label "hotel industry"@en .
+
+wd:Q130286 a wd:Q268592 ;
+    rdfs:label "management consulting"@en .
+
+wd:Q1304795 a wd:Q268592 ;
+    rdfs:label "energy sector"@en .
+
+wd:Q1311476 a wd:Q268592 ;
+    rdfs:label "Rail construction"@en .
+
+wd:Q1326885 a wd:Q268592 ;
+    rdfs:label "electrical industry"@en .
+
+wd:Q13377238 a wd:Q268592 ;
+    rdfs:label "linear construction"@en .
+
+wd:Q1349660 a wd:Q268592 ;
+    rdfs:label "extraction of petroleum"@en .
+
+wd:Q13554450 a wd:Q268592 ;
+    rdfs:label "dairy industry"@en .
+
+wd:Q1368944 a wd:Q268592 ;
+    rdfs:label "game industry"@en .
+
+wd:Q13746120 a wd:Q268592 ;
+    rdfs:label "Q13746120"^^xsd:string .
+
+wd:Q13747706 a wd:Q268592 ;
+    rdfs:label "Agricultural machinery industry"@en .
+
+wd:Q1415395 a wd:Q268592 ;
+    rdfs:label "film industry"@en .
+
+wd:Q1416657 a wd:Q268592 ;
+    rdfs:label "Finance"@en .
+
+wd:Q1423777 a wd:Q268592 ;
+    rdfs:label "Q1423777"^^xsd:string .
+
+wd:Q1481411 a wd:Q268592 ;
+    rdfs:label "Automotive Software"@en .
+
+wd:Q1494322 a wd:Q268592 ;
+    rdfs:label "legal services"@en .
+
+wd:Q1495452 a wd:Q268592 ;
+    rdfs:label "hospitality industry"@en .
+
+wd:Q1499782 a wd:Q268592 ;
+    rdfs:label "Q1499782"^^xsd:string .
+
+wd:Q1501619 a wd:Q268592 ;
+    rdfs:label "water management"@en .
+
+wd:Q15138518 a wd:Q451967 ;
+    rdfs:label "kludge"@en .
+
+wd:Q1540863 a wd:Q268592 ;
+    rdfs:label "information technology consulting"@en .
+
+wd:Q155930 a wd:Q268592 ;
+    rdfs:label "maritime transport"@en .
+
+wd:Q15737157 a wd:Q39809 ;
+    rdfs:label "word of mouth"@en .
+
+wd:Q15825471 a wd:Q268592 ;
+    rdfs:label "Food retail sector"@en .
+
+wd:Q15896029 rdfs:label "growth hacking"@en ;
+    rdfs:subClassOf wd:Q189507 .
+
+wd:Q1591207 a wd:Q268592 ;
+    rdfs:label "Q1591207"^^xsd:string .
+
+wd:Q16070574 a wd:Q268592 ;
+    rdfs:label "petrochemical industry"@en .
+
+wd:Q1610353 rdfs:label "keyword stuffing"@en ;
+    rdfs:subClassOf wd:Q180711 .
+
+wd:Q165647 a wd:Q268592 ;
+    rdfs:label "organic agriculture"@en .
+
+wd:Q1660132 a wd:Q268592 ;
+    rdfs:label "real estate economics"@en .
+
+wd:Q16638398 a wd:Q268592 ;
+    rdfs:label "Mining of metal ores"@en .
+
+wd:Q1663879 a wd:Q268592 ;
+    rdfs:label "interior fittings"@en .
+
+wd:Q16955053 a wd:Q268592 ;
+    rdfs:label "Defense industry"@en .
+
+wd:Q17018236 a wd:Q268592 ;
+    rdfs:label "bicycle industry"@en .
+
+wd:Q17028003 a wd:Q451967 ;
+    rdfs:label "Hunt sabotage"@en .
+
+wd:Q171141 a wd:Q268592 ;
+    rdfs:label "gastronomy"@en .
+
+wd:Q17132031 a wd:Q268592 ;
+    rdfs:label "vehicle industry"@en .
+
+wd:Q17157079 a wd:Q39809 ;
+    rdfs:label "Technology life cycle"@en .
+
+wd:Q1739065 a wd:Q1323528 ;
+    rdfs:label "Kentico"@en .
+
+wd:Q1751445 a wd:Q268592 ;
+    rdfs:label "System catering"@en .
+
+wd:Q17776248 a wd:Q268592 ;
+    rdfs:label "Q17776248"^^xsd:string .
+
+wd:Q1778629 a wd:Q268592 ;
+    rdfs:label "coal industry"@en .
+
+wd:Q1782584 a wd:Q268592 ;
+    rdfs:label "cultural industry"@en .
+
+wd:Q178512 a wd:Q268592 ;
+    rdfs:label "public transport"@en .
+
+wd:Q1785437 a wd:Q451967 ;
+    rdfs:label "Kusen"@en .
+
+wd:Q1799415 a wd:Q268592 ;
+    rdfs:label "house-building"@en .
+
+wd:Q180388 a wd:Q268592 ;
+    rdfs:label "waste management"@en .
+
+wd:Q180538 a wd:Q268592 ;
+    rdfs:label "fishery"@en .
+
+wd:Q18218474 a wd:Q268592 ;
+    rdfs:label "Forestry and logging industry"@en .
+
+wd:Q18646422 a wd:Q268592 ;
+    rdfs:label "confectionery"@en .
+
+wd:Q1875606 a wd:Q268592 ;
+    rdfs:label "aviation industry"@en .
+
+wd:Q1878916 a wd:Q39809 ;
+    rdfs:label "Lyoness"@en .
+
+wd:Q188485 a wd:Q268592 ;
+    rdfs:label "fair trade"@en .
+
+wd:Q188606 a wd:Q268592 ;
+    rdfs:label "multi-level marketing"@en .
+
+wd:Q188989 a wd:Q268592 ;
+    rdfs:label "aquaculture"@en .
+
+wd:Q190117 a wd:Q268592 ;
+    rdfs:label "automotive industry"@en .
+
+wd:Q1903919 a wd:Q268592 ;
+    rdfs:label "porcelain and ceramic industry"@en .
+
+wd:Q19158695 a wd:Q39809 ;
+    rdfs:label "Q19158695"^^xsd:string .
+
+wd:Q1924856 a wd:Q268592 ;
+    rdfs:label "metal construction"@en .
+
+wd:Q1924906 a wd:Q268592 ;
+    rdfs:label "metal industry"@en .
+
+wd:Q1933500 a wd:Q268592 ;
+    rdfs:label "cement industry"@en .
+
+wd:Q1945600 a wd:Q268592 ;
+    rdfs:label "mining industry"@en .
+
+wd:Q1945618 a wd:Q268592 ;
+    rdfs:label "Q1945618"^^xsd:string .
+
+wd:Q1955150 a wd:Q268592 ;
+    rdfs:label "musical instrument maker"@en .
+
+wd:Q1957814 a wd:Q268592 ;
+    rdfs:label "furniture construction"@en .
+
+wd:Q1957908 a wd:Q268592 ;
+    rdfs:label "machine industry"@en .
+
+wd:Q19595701 a wd:Q268592 ;
+    rdfs:label "entertainment industry"@en .
+
+wd:Q19966097 a wd:Q268592 ;
+    rdfs:label "Oil and fat industry"@en .
+
+wd:Q2005696 a wd:Q268592 ;
+    rdfs:label "commercial vehicle manufacturer"@en .
+
+wd:Q2011845 a wd:Q451967 ;
+    rdfs:label "object-orientation"@en .
+
+wd:Q20612431 a wd:Q268592 ;
+    rdfs:label "plant engineering"@en .
+
+wd:Q20640774 a wd:Q39809 ;
+    rdfs:label "Yamazaki Haru no Pan Matsuri"@en .
+
+wd:Q20644003 a wd:Q268592 ;
+    rdfs:label "pasta industry"@en .
+
+wd:Q206615 a wd:Q268592 ;
+    rdfs:label "building material"@en .
+
+wd:Q20680322 a wd:Q451967 ;
+    rdfs:label "to talk"@en .
+
+wd:Q207241 a wd:Q268592 ;
+    rdfs:label "applied arts"@en .
+
+wd:Q2072431 a wd:Q268592 ;
+    rdfs:label "passenger transport"@en .
+
+wd:Q207652 a wd:Q268592 ;
+    rdfs:label "chemical industry"@en .
+
+wd:Q20820139 a wd:Q268592 ;
+    rdfs:label "transport sciences"@en .
+
+wd:Q20850849 a wd:Q268592 ;
+    rdfs:label "machinery industry"@en .
+
+wd:Q21081932 a wd:Q39809 ;
+    rdfs:label "Q21081932"^^xsd:string .
+
+wd:Q21085952 a wd:Q39809 ;
+    rdfs:label "Q21085952"^^xsd:string .
+
+wd:Q21086117 a wd:Q39809 ;
+    rdfs:label "Q21086117"^^xsd:string .
+
+wd:Q21086756 a wd:Q39809 ;
+    rdfs:label "Q21086756"^^xsd:string .
+
+wd:Q21087487 a wd:Q39809 ;
+    rdfs:label "Q21087487"^^xsd:string .
+
+wd:Q21087488 a wd:Q39809 ;
+    rdfs:label "Q21087488"^^xsd:string .
+
+wd:Q21328659 a wd:Q268592 ;
+    rdfs:label "gas industry"@en .
+
+wd:Q213376 a wd:Q268592 ;
+    rdfs:label "winemaking"@en .
+
+wd:Q2140768 a wd:Q451967 ;
+    rdfs:label "Social Exchange Theory"@en .
+
+wd:Q21484482 a wd:Q268592 ;
+    rdfs:label "Q21484482"^^xsd:string .
+
+wd:Q2151621 a wd:Q268592 ;
+    rdfs:label "energy industry"@en .
+
+wd:Q2153464 a wd:Q268592 ;
+    rdfs:label "cattle breeding"@en .
+
+wd:Q21684280 a wd:Q268592 ;
+    rdfs:label "Q21684280"^^xsd:string .
+
+wd:Q220695 a wd:Q268592 ;
+    rdfs:label "wholesale"@en .
+
+wd:Q2217244 a wd:Q268592 ;
+    rdfs:label "Sammelgutverkehr"@en .
+
+wd:Q2247469 a wd:Q268592 ;
+    rdfs:label "T-commerce"@en .
+
+wd:Q22704511 a wd:Q268592 ;
+    rdfs:label "zinc industry"@en .
+
+wd:Q2278135 a wd:Q268592 ;
+    rdfs:label "Q2278135"^^xsd:string .
+
+wd:Q2283886 a wd:Q268592 ;
+    rdfs:label "pulp and paper industry"@en .
+
+wd:Q228487 a wd:Q451967 ;
+    rdfs:label "Zugriff"@en .
+
+wd:Q2285982 a wd:Q268592 ;
+    rdfs:label "ferrous metallurgy"@en .
+
+wd:Q228729 a wd:Q268592 ;
+    rdfs:label "future market"@en .
+
+wd:Q22908936 a wd:Q268592 ;
+    rdfs:label "home security"@en .
+
+wd:Q22923174 a wd:Q268592 ;
+    rdfs:label "Q22923174"^^xsd:string .
+
+wd:Q230309 a wd:Q451967 ;
+    rdfs:label "Zur Kenntnisnahme"@en .
+
+wd:Q23500644 a wd:Q39809 ;
+    rdfs:label "Q23500644"^^xsd:string .
+
+wd:Q2356921 a wd:Q268592 ;
+    rdfs:label "electricity retailing"@en .
+
+wd:Q23680510 a wd:Q451967 ;
+    rdfs:label "Q23680510"^^xsd:string .
+
+wd:Q23699878 a wd:Q268592 ;
+    rdfs:label "management consulting industry"@en .
+
+wd:Q23699967 a wd:Q268592 ;
+    rdfs:label "accounting services industry"@en .
+
+wd:Q23700345 a wd:Q268592 ;
+    rdfs:label "professional services industry"@en .
+
+wd:Q23700481 a wd:Q268592 ;
+    rdfs:label "advertising industry"@en .
+
+wd:Q2374463 a wd:Q268592 ;
+    rdfs:label "data science"@en .
+
+wd:Q23781717 a wd:Q268592 ;
+    rdfs:label "creative services industry"@en .
+
+wd:Q2401749 a wd:Q268592 ;
+    rdfs:label "telecommunication company"@en .
+
+wd:Q24019 a wd:Q451967 ;
+    rdfs:label "Operation Breakthrough"@en .
+
+wd:Q2518196 a wd:Q268592 ;
+    rdfs:label "insurance industry"@en .
+
+wd:Q25245117 a wd:Q268592 ;
+    rdfs:label "telecommunications industry"@en .
+
+wd:Q25377364 a wd:Q268592 ;
+    rdfs:label "Q25377364"^^xsd:string .
+
+wd:Q25421835 a wd:Q268592 ;
+    rdfs:label "Wedding industry"@en .
+
+wd:Q25443024 a wd:Q451967 ;
+    rdfs:label "walk"@en .
+
+wd:Q2560571 a wd:Q268592 ;
+    rdfs:label "Toolmaking"@en .
+
+wd:Q2575347 a wd:Q268592 ;
+    rdfs:label "anime industry"@en .
+
+wd:Q2588161 a wd:Q268592 ;
+    rdfs:label "housing industry"@en .
+
+wd:Q27048002 a wd:Q268592 ;
+    rdfs:label "cultured meat industry"@en .
+
+wd:Q2779412 a wd:Q268592 ;
+    rdfs:label "Q2779412"^^xsd:string .
+
+wd:Q28135044 a wd:Q39809 ;
+    rdfs:label "purplewashing"@en .
+
+wd:Q2823820 a wd:Q268592 ;
+    rdfs:label "Q2823820"^^xsd:string .
+
+wd:Q285759 a wd:Q268592 ;
+    rdfs:label "insurance broker"@en .
+
+wd:Q28778386 a wd:Q268592 ;
+    rdfs:label "fishing and aquaculture"@en .
+
+wd:Q289 a wd:Q268592 ;
+    rdfs:label "television"@en .
+
+wd:Q28942616 a wd:Q451967 ;
+    rdfs:label "look for"@en .
+
+wd:Q29018807 a wd:Q268592 ;
+    rdfs:label "chalk mining"@en .
+
+wd:Q29584797 a wd:Q268592 ;
+    rdfs:label "market research and public opinion polling"@en .
+
+wd:Q29778 a wd:Q1323528 ;
+    rdfs:label "cost per click"@en .
+
+wd:Q2986369 a wd:Q268592 ;
+    rdfs:label "semiconductor industry"@en .
+
+wd:Q3007618 a wd:Q39809 ;
+    rdfs:label "content curation"@en .
+
+wd:Q30087624 a wd:Q180711 ;
+    rdfs:label "Jalis Express"@en .
+
+wd:Q30901796 a wd:Q451967 ;
+    rdfs:label "Operation Araña"@en .
+
+wd:Q31207 a wd:Q268592 ;
+    rdfs:label "health care"@en .
+
+wd:Q3150593 a wd:Q268592 ;
+    rdfs:label "alcohol industry"@en .
+
+wd:Q31886108 a wd:Q268592 ;
+    rdfs:label "Textile industry of Sweden"@en .
+
+wd:Q327092 a wd:Q268592 ;
+    rdfs:label "biomedical engineering"@en .
+
+wd:Q3274994 a wd:Q451967 ;
+    rdfs:label "grand kowtow"@en .
+
+wd:Q331829 a wd:Q268592 ;
+    rdfs:label "branch of Distributive trades"@en .
+
+wd:Q334401 a wd:Q268592 ;
+    rdfs:label "surveillance"@en .
+
+wd:Q335415 a wd:Q268592 ;
+    rdfs:label "papermaking"@en .
+
+wd:Q33788754 a wd:Q451967 ;
+    rdfs:label "Q33788754"^^xsd:string .
+
+wd:Q3408799 a wd:Q451967 ;
+    rdfs:label "Q3408799"^^xsd:string .
+
+wd:Q3477363 a wd:Q268592 ;
+    rdfs:label "aerospace industry"@en .
+
+wd:Q3477381 a wd:Q268592 ;
+    rdfs:label "automotive supplier"@en .
+
+wd:Q3482590 a wd:Q451967 ;
+    rdfs:label "neutering"@en .
+
+wd:Q3512037 a wd:Q39809 ;
+    rdfs:label "Why Pink Floyd...?"@en .
+
+wd:Q3565868 a wd:Q268592 ;
+    rdfs:label "rail transport"@en .
+
+wd:Q3798668 a wd:Q268592 ;
+    rdfs:label "aerospace engineering"@en .
+
+wd:Q38112 a wd:Q268592 ;
+    rdfs:label "forestry"@en .
+
+wd:Q3847033 a wd:Q451967 ;
+    rdfs:label "error"@en .
+
+wd:Q3909399 a wd:Q1323528 ;
+    rdfs:label "search engine ranking"@en .
+
+wd:Q396622 a wd:Q268592 ;
+    rdfs:label "agribusiness"@en .
+
+wd:Q3972943 a wd:Q268592 ;
+    rdfs:label "publishing"@en .
+
+wd:Q4056342 a wd:Q268592 ;
+    rdfs:label "Automotive industry in Russia"@en .
+
+wd:Q4063722 a wd:Q268592 ;
+    rdfs:label "aluminium industry"@en .
+
+wd:Q4181026 a wd:Q268592 ;
+    rdfs:label "roadworks"@en .
+
+wd:Q4229436 a wd:Q268592 ;
+    rdfs:label "Q4229436"^^xsd:string .
+
+wd:Q4234985 a wd:Q268592 ;
+    rdfs:label "Space-based industry"@en .
+
+wd:Q4265939 a wd:Q268592 ;
+    rdfs:label "locomotive manufacturing"@en .
+
+wd:Q42767 a wd:Q268592 ;
+    rdfs:label "whaling"@en .
+
+wd:Q4306798 a wd:Q268592 ;
+    rdfs:label "Q4306798"^^xsd:string .
+
+wd:Q4318084 a wd:Q268592 ;
+    rdfs:label "petroleum-gas industry"@en .
+
+wd:Q4318110 a wd:Q268592 ;
+    rdfs:label "Q4318110"^^xsd:string .
+
+wd:Q43183 a wd:Q268592 ;
+    rdfs:label "insurance"@en .
+
+wd:Q4373046 a wd:Q268592 ;
+    rdfs:label "pornographic film industry"@en .
+
+wd:Q44497 a wd:Q268592 ;
+    rdfs:label "mining"@en .
+
+wd:Q446760 a wd:Q268592 ;
+    rdfs:label "educational system"@en .
+
+wd:Q4498099 a wd:Q268592 ;
+    rdfs:label "Q4498099"^^xsd:string .
+
+wd:Q45667554 a wd:Q268592 ;
+    rdfs:label "Q45667554"^^xsd:string .
+
+wd:Q474200 a wd:Q268592 ;
+    rdfs:label "shipbuilding"@en .
+
+wd:Q47530506 a wd:Q1323528 ;
+    rdfs:label "Andre van Wyk Digital Marketing Services"@en .
+
+wd:Q484847 a wd:Q268592 ;
+    rdfs:label "E-commerce"@en .
+
+wd:Q48519 a wd:Q268592 ;
+    rdfs:label "sport management"@en .
+
+wd:Q4855422 a wd:Q268592 ;
+    rdfs:label "Bangladesh textile industry"@en .
+
+wd:Q48756544 a wd:Q268592 ;
+    rdfs:label "Q48756544"^^xsd:string .
+
+wd:Q48803 a wd:Q268592 ;
+    rdfs:label "horticulture"@en .
+
+wd:Q4899370 a wd:Q268592 ;
+    rdfs:label "beverage industry"@en .
+
+wd:Q4925193 a wd:Q451967 ;
+    rdfs:label "lie"@en .
+
+wd:Q4931298 a wd:Q268592 ;
+    rdfs:label "board game development"@en .
+
+wd:Q49389 a wd:Q268592 ;
+    rdfs:label "tourism"@en .
+
+wd:Q49845 a wd:Q268592 ;
+    rdfs:label "mail"@en .
+
+wd:Q507443 a wd:Q268592 ;
+    rdfs:label "pharmaceutical industry"@en .
+
+wd:Q5152891 a wd:Q451967 ;
+    rdfs:label "Commit"@en .
+
+wd:Q52112831 a wd:Q451967 ;
+    rdfs:label "official appointment"@en .
+
+wd:Q5268834 a wd:Q268592 ;
+    rdfs:label "Information and Communications Technology"@en .
+
+wd:Q5391231 a wd:Q268592 ;
+    rdfs:label "Q5391231"^^xsd:string .
+
+wd:Q540912 a wd:Q268592 ;
+    rdfs:label "food industry"@en .
+
+wd:Q5418962 a wd:Q268592 ;
+    rdfs:label "private equity firm"@en .
+
+wd:Q54844695 a wd:Q268592 ;
+    rdfs:label "Body-in-White"@en .
+
+wd:Q55190325 a wd:Q268592 ;
+    rdfs:label "musical instrument manufacturing company"@en .
+
+wd:Q55425396 a wd:Q268592 ;
+    rdfs:label "ceramics industry"@en .
+
+wd:Q55500770 a wd:Q268592 ;
+    rdfs:label "Q55500770"^^xsd:string .
+
+wd:Q55670495 a wd:Q268592 ;
+    rdfs:label "public relations"@en .
+
+wd:Q55692573 a wd:Q268592 ;
+    rdfs:label "research industry"@en .
+
+wd:Q558685 rdfs:label "content marketing"@en ;
+    rdfs:subClassOf wd:Q189507 .
+
+wd:Q56448394 a wd:Q268592 ;
+    rdfs:label "Timber industry"@en .
+
+wd:Q5646401 a wd:Q451967 ;
+    rdfs:label "Q5646401"^^xsd:string .
+
+wd:Q56557475 a wd:Q268592 ;
+    rdfs:label "nonmetallic minerals industry"@en .
+
+wd:Q56559463 a wd:Q268592 ;
+    rdfs:label "funeral industry"@en .
+
+wd:Q56560668 a wd:Q268592 ;
+    rdfs:label "book industry"@en .
+
+wd:Q56573357 a wd:Q268592 ;
+    rdfs:label "consumer goods industry"@en .
+
+wd:Q56573735 a wd:Q268592 ;
+    rdfs:label "metal goods industry"@en .
+
+wd:Q56574506 a wd:Q268592 ;
+    rdfs:label "foundry industry"@en .
+
+wd:Q56579231 a wd:Q451967 ;
+    rdfs:label "gesture"@en .
+
+wd:Q56598901 a wd:Q268592 ;
+    rdfs:label "Mobile phone industry"@en .
+
+wd:Q56604188 a wd:Q268592 ;
+    rdfs:label "home appliance industry"@en .
+
+wd:Q56604576 a wd:Q268592 ;
+    rdfs:label "packaging industry"@en .
+
+wd:Q56604605 a wd:Q268592 ;
+    rdfs:label "porcelain industry"@en .
+
+wd:Q56604620 a wd:Q268592 ;
+    rdfs:label "rubber industry"@en .
+
+wd:Q56604674 a wd:Q268592 ;
+    rdfs:label "leather industry"@en .
+
+wd:Q56611639 a wd:Q268592 ;
+    rdfs:label "media industry"@en .
+
+wd:Q56611700 a wd:Q268592 ;
+    rdfs:label "internet industry"@en .
+
+wd:Q56784378 a wd:Q268592 ;
+    rdfs:label "telecommunications industry"@en .
+
+wd:Q568301 a wd:Q268592 ;
+    rdfs:label "social economy"@en .
+
+wd:Q56883008 a wd:Q268592 ;
+    rdfs:label "spirits industry"@en .
+
+wd:Q57060379 a wd:Q268592 ;
+    rdfs:label "energy storage technology"@en .
+
+wd:Q57261067 a wd:Q268592 ;
+    rdfs:label "hairdressing industry"@en .
+
+wd:Q57262255 a wd:Q268592 ;
+    rdfs:label "consumer products distribution"@en .
+
+wd:Q57262277 a wd:Q268592 ;
+    rdfs:label "jewellery industry"@en .
+
+wd:Q57262286 a wd:Q268592 ;
+    rdfs:label "toy industry"@en .
+
+wd:Q57264543 a wd:Q268592 ;
+    rdfs:label "sporting goods industry"@en .
+
+wd:Q57443580 a wd:Q268592 ;
+    rdfs:label "Q57443580"^^xsd:string .
+
+wd:Q57497492 a wd:Q268592 ;
+    rdfs:label "transport sector"@en .
+
+wd:Q57616250 a wd:Q268592 ;
+    rdfs:label "postal sector"@en .
+
+wd:Q57774188 a wd:Q268592 ;
+    rdfs:label "financial sector"@en .
+
+wd:Q57924921 a wd:Q268592 ;
+    rdfs:label "butter house"@en .
+
+wd:Q58028310 a wd:Q39809 ;
+    rdfs:label "omnichannel marketing"@en .
+
+wd:Q581105 a wd:Q268592 ;
+    rdfs:label "consumer electronics"@en .
+
+wd:Q58302943 a wd:Q268592 ;
+    rdfs:label "magazine publishing"@en .
+
+wd:Q59095968 a wd:Q268592 ;
+    rdfs:label "home furnishing"@en .
+
+wd:Q5919003 a wd:Q268592 ;
+    rdfs:label "innovation intermediary"@en .
+
+wd:Q59677291 a wd:Q268592 ;
+    rdfs:label "fitness industry"@en .
+
+wd:Q5999565 a wd:Q39809 ;
+    rdfs:label "Q5999565"^^xsd:string .
+
+wd:Q601401 a wd:Q268592 ;
+    rdfs:label "trade"@en .
+
+wd:Q60197369 a wd:Q451967 ;
+    rdfs:label "apology"@en .
+
+wd:Q607081 a wd:Q268592 ;
+    rdfs:label "textile industry"@en .
+
+wd:Q622662 a wd:Q268592 ;
+    rdfs:label "heavy industry"@en .
+
+wd:Q625568 a wd:Q268592 ;
+    rdfs:label "show business"@en .
+
+wd:Q627371 a wd:Q268592 ;
+    rdfs:label "food processing"@en .
+
+wd:Q63343911 a wd:Q268592 ;
+    rdfs:label "stamp dealer"@en .
+
+wd:Q63348704 a wd:Q268592 ;
+    rdfs:label "staffing and recruiting industry"@en .
+
+wd:Q63383285 a wd:Q268592 ;
+    rdfs:label "medical device industry"@en .
+
+wd:Q63390024 a wd:Q268592 ;
+    rdfs:label "Atlas Ceramics (South) Limited"@en .
+
+wd:Q635139 a wd:Q268592 ;
+    rdfs:label "fishing industry"@en .
+
+wd:Q638608 a wd:Q268592 ;
+    rdfs:label "software development"@en .
+
+wd:Q6408486 a wd:Q268592 ;
+    rdfs:label "shoemaking"@en .
+
+wd:Q64426682 a wd:Q180711 ;
+    rdfs:label "The North Face Wikipedia advertising campaign"@en .
+
+wd:Q64502816 a wd:Q268592 ;
+    rdfs:label "funeral services industry"@en .
+
+wd:Q64514560 a wd:Q268592 ;
+    rdfs:label "parking industry"@en .
+
+wd:Q64689577 a wd:Q268592 ;
+    rdfs:label "small arms industry"@en .
+
+wd:Q64699682 a wd:Q268592 ;
+    rdfs:label "chocolate industry"@en .
+
+wd:Q6537379 a wd:Q451967 ;
+    rdfs:label "walking"@en .
+
+wd:Q66058324 a wd:Q39809 ;
+    rdfs:label "MuSeenLandschaft Expressionismus"@en .
+
+wd:Q66683292 a wd:Q382453 ;
+    rdfs:label "Boomtown Bingo"@en .
+
+wd:Q66736036 a wd:Q268592 ;
+    rdfs:label "toll collection"@en .
+
+wd:Q67169169 a wd:Q189507 ;
+    rdfs:label "Curvearro"@en .
+
+wd:Q67931189 a wd:Q268592 ;
+    rdfs:label "Silo Inc."@en .
+
+wd:Q69471695 a wd:Q268592 ;
+    rdfs:label "retail sale of automotive fuel in specialized stores"@en .
+
+wd:Q6953855 a wd:Q268592 ;
+    rdfs:label "home industry"@en .
+
+wd:Q70000078 a wd:Q39809 ;
+    rdfs:label "ULead Genie - Marketing From a Different Perspective"@en .
+
+wd:Q7108 a wd:Q268592 ;
+    rdfs:label "biotechnology"@en .
+
+wd:Q7180753 a wd:Q268592 ;
+    rdfs:label "Pharmaceutical industry in China"@en .
+
+wd:Q7202108 a wd:Q268592 ;
+    rdfs:label "plastics industry"@en .
+
+wd:Q720362 a wd:Q268592 ;
+    rdfs:label "silviculture"@en .
+
+wd:Q72194469 a wd:Q39809 ;
+    rdfs:label "SoundBox Music"@en .
+
+wd:Q7257680 a wd:Q268592 ;
+    rdfs:label "Public affairs industry"@en .
+
+wd:Q7397 a wd:Q268592 ;
+    rdfs:label "software"@en .
+
+wd:Q746359 a wd:Q268592 ;
+    rdfs:label "music industry"@en .
+
+wd:Q751585 a wd:Q39809 ;
+    rdfs:label "City marketing"@en .
+
+wd:Q7539815 a wd:Q39809 ;
+    rdfs:label "sleeper hit"@en .
+
+wd:Q75545180 a wd:Q1323528,
+        wd:Q39809 ;
+    rdfs:label "MobonAir"@en .
+
+wd:Q7590 a wd:Q268592 ;
+    rdfs:label "transport"@en .
+
+wd:Q7601517 a wd:Q268592 ;
+    rdfs:label "starch production"@en .
+
+wd:Q765633 a wd:Q268592 ;
+    rdfs:label "aviation"@en .
+
+wd:Q770899 a wd:Q268592 ;
+    rdfs:label "light industry"@en .
+
+wd:Q785222 a wd:Q268592 ;
+    rdfs:label "glass production"@en .
+
+wd:Q80638 a wd:Q268592 ;
+    rdfs:label "hydroelectricity"@en .
+
+wd:Q811891 a wd:Q268592 ;
+    rdfs:label "building materials trade"@en .
+
+wd:Q816871 a wd:Q268592 ;
+    rdfs:label "woodworking"@en .
+
+wd:Q829055 a wd:Q268592 ;
+    rdfs:label "commercial shipping"@en .
+
+wd:Q83698112 a wd:Q268592 ;
+    rdfs:label "trucking industry"@en .
+
+wd:Q837060 a wd:Q268592 ;
+    rdfs:label "facility management"@en .
+
+wd:Q837171 a wd:Q268592 ;
+    rdfs:label "financial services"@en .
+
+wd:Q84165728 a wd:Q268592 ;
+    rdfs:label "asbestos industry"@en .
+
+wd:Q84380535 a wd:Q268592 ;
+    rdfs:label "Transformative economie"@en .
+
+wd:Q846132 rdfs:label "search engine marketing optimization"@en ;
+    rdfs:subClassOf wd:Q189507 .
+
+wd:Q856625 a wd:Q268592 ;
+    rdfs:label "branch of libraries"@en .
+
+wd:Q862571 a wd:Q268592 ;
+    rdfs:label "petroleum industry"@en .
+
+wd:Q86453276 a wd:Q180711 ;
+    rdfs:label "Toni Villaró"@en .
+
+wd:Q865132 a wd:Q268592 ;
+    rdfs:label "merchant navy"@en .
+
+wd:Q87000419 a wd:Q268592 ;
+    rdfs:label "Q87000419"^^xsd:string .
+
+wd:Q872 a wd:Q268592 ;
+    rdfs:label "radio broadcasting"@en .
+
+wd:Q878138 a wd:Q268592 ;
+    rdfs:label "fur trade"@en .
+
+wd:Q880371 a wd:Q268592 ;
+    rdfs:label "software industry"@en .
+
+wd:Q907703 a wd:Q268592 ;
+    rdfs:label "tobacco industry"@en .
+
+wd:Q913709 a wd:Q268592 ;
+    rdfs:label "market research"@en .
+
+wd:Q941594 a wd:Q268592 ;
+    rdfs:label "video game industry"@en .
+
+wd:Q955043 a wd:Q268592 ;
+    rdfs:label "meat packing industry"@en .
+
+wd:Q9640723 a wd:Q268592 ;
+    rdfs:label "commercial aviation"@en .
+
+wd:Q969040 a wd:Q268592 ;
+    rdfs:label "creative industries"@en .
+
+wd:Q382453 rdfs:label "affiliate marketing"@en ;
+    rdfs:subClassOf wd:Q189507 .
+
+wd:Q180711 rdfs:label "search engine optimization"@en ;
+    rdfs:subClassOf wd:Q189507 .
+
+wd:Q1323528 a wd:Q268592 ;
+    rdfs:label "digital marketing"@en ;
+    rdfs:subClassOf wd:Q39809 .
+
+wd:Q189507 rdfs:label "Internet marketing"@en ;
+    rdfs:subClassOf wd:Q1323528 .
+
+wd:Q39809 a wd:Q268592 ;
+    rdfs:label "marketing"@en ;
+    rdfs:subClassOf wd:Q268592,
+        wd:Q451967 .
+
+wd:Q451967 rdfs:label "human action"@en .
+
+wd:Q268592 rdfs:label "economic branch"@en .
+

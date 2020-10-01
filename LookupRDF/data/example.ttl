@@ -1,0 +1,1934 @@
+@prefix bd: <http://www.bigdata.com/rdf#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix p: <http://www.wikidata.org/prop/> .
+@prefix pqn: <http://www.wikidata.org/prop/qualifier/value-normalized/> .
+@prefix pqv: <http://www.wikidata.org/prop/qualifier/value/> .
+@prefix pr: <http://www.wikidata.org/prop/reference/> .
+@prefix prn: <http://www.wikidata.org/prop/reference/value-normalized/> .
+@prefix prv: <http://www.wikidata.org/prop/reference/value/> .
+@prefix psn: <http://www.wikidata.org/prop/statement/value-normalized/> .
+@prefix psv: <http://www.wikidata.org/prop/statement/value/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdno: <http://www.wikidata.org/prop/novalue/> .
+@prefix wdref: <http://www.wikidata.org/prop/novalue/> .
+@prefix wds: <http://www.wikidata.org/entity/statement/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wdtn: <http://www.wikidata.org/prop/direct-normalized/> .
+@prefix wdv: <http://www.wikidata.org/value/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1001103 rdfs:label "Buddy"@de,
+        "Buddy diving"@en,
+        "Напарник (дайвинг)"@ru,
+        "同伴潜水"@zh-hans,
+        "同伴潛水"@zh-hant ;
+    schema:dateModified "2019-07-26T18:45:22+00:00"^^xsd:dateTime ;
+    schema:description "Nutzung des Buddy-Systems im Tauchsport"@de,
+        "practice of mutual monitoring and assistance between two divers"@en ;
+    schema:version 986876841 ;
+    wikibase:identifiers 0 ;
+    wikibase:sitelinks 3 ;
+    wikibase:statements 4 ;
+    wikibase:timestamp "2019-07-26T18:45:23+00:00"^^xsd:dateTime ;
+    skos:altLabel "Buddy-System"@de,
+        "Tauchpartner"@de ;
+    p:P1535 wds:Q1001103-a9f85354-4a08-2c22-dda2-038fc18fd74e ;
+    p:P279 wds:Q1001103-0790731b-45b9-aeca-9006-3d8312588acb,
+        wds:Q1001103-38eec867-48fe-8806-5c65-2b3255b5b8a0,
+        wds:Q1001103-e8000180-47c1-9fa0-945b-c91ad0a868f4 ;
+    wdt:P1535 wd:Q17504942 ;
+    wdt:P279 wd:Q1001086,
+        wd:Q17165872,
+        wd:Q189447 .
+
+wd:Q1001371 rdfs:label "Φιλλέρ"@el,
+        "Fillér"@en,
+        "Filero"@eo,
+        "Fillér"@fr,
+        "Fillér"@hu,
+        "Fillér"@it,
+        "Fillér"@ms,
+        "Fillér"@nl,
+        "Fillér"@pl,
+        "Fillér"@ro,
+        "Венгерский филлер"@ru,
+        "Fillér"@sk,
+        "Угорський філер"@uk ;
+    schema:dateModified "2020-02-28T00:56:17+00:00"^^xsd:dateTime ;
+    schema:description "type of small, old Hungarian coin"@en ;
+    schema:version 1125056202 ;
+    wikibase:identifiers 1 ;
+    wikibase:sitelinks 12 ;
+    wikibase:statements 2 ;
+    wikibase:timestamp "2020-02-28T02:05:48+00:00"^^xsd:dateTime ;
+    skos:altLabel "Filler"@en,
+        "Filler"@pl,
+        "Filler"@ro,
+        "Филлер (валюта)"@ru,
+        "Филлер (денежная единица)"@ru,
+        "Филлер (монета)"@ru ;
+    p:P279 wds:Q1001371-8d765aa2-44d8-90b9-6bfc-1b953dd187ed ;
+    p:P646 wds:Q1001371-B790EEC7-980B-4C49-BEAF-28A6F2FDF65E ;
+    wdtn:P646 <http://g.co/kg/m/025sztf> ;
+    wdt:P279 wd:Q41207 ;
+    wdt:P646 "/m/025sztf"^^xsd:string .
+
+wd:Q1002697 rdfs:label "joernaal"@af;
+        
+    schema:dateModified "2020-04-06T09:09:48+00:00"^^xsd:dateTime ;
+    schema:description "Obra espublizada darréu"@ast,
+        "апублікаваны твор"@be-tarask,
+        "obra publicada"@ca,
+        "pravidelně vydávaná tiskovina"@cs,
+        "en regelmæssig udgivet publikation"@da,
+        "regelmäßig erscheinendes Werk"@de,
+        "δημοσιευμένο έργο"@el,
+        "category of serial publications that appear in a new edition on a regular schedule"@en,
+        "work; published at regular intervals"@en-gb,
+        "periode aperanta publikaĵo"@eo,
+        "obra que se publica en forma periódica"@es,
+        "titre de presse"@fr,
+        "es Druckwärch, wo regelmässig use chunnt"@gsw,
+        "סוג פרסום"@he,
+        "periodika"@hu,
+        "pubblicazione a frequenza regolare o irregolare"@it,
+        "同一標題の元に終期を定めずに刊行される分冊刊行物"@ja,
+        "serie van publicaties die regelmatig verschijnen"@nl,
+        "czasopismo o regularnej częstotliwości ukazywania się"@pl,
+        "e.g. jornais e revistas"@pt-br,
+        "СМИ, периодически выходящее в свет"@ru,
+        "regelmässigt utgiven publikation"@sv,
+        "ЗМІ, що періодично виходить у світ"@uk,
+        "出版的作品"@zh ;
+    schema:version 1151369711 ;
+    wikibase:identifiers 31 ;
+    wikibase:sitelinks 36 ;
+    wikibase:statements 69 ;
+    wikibase:timestamp "2020-04-06T09:10:30+00:00"^^xsd:dateTime ;
+    skos:altLabel "periódicu"@ast,
+        "пэрыядычнае выданьне"@be-tarask,
+        "пэрыядычны друк"@be-tarask,
+        "пэрыёдык"@be-tarask,
+        "periòdic"@ca,
+        "periodická publikace"@cs,
+        "periodická tiskovina"@cs,
+        "Periodicum"@da,
+        "Periodika"@da,
+        "Fortlaufendes Sammelwerk"@de,
+        "Heftreihe"@de,
+        "Periodica"@de,
+        "Periodika"@de,
+        "periodical literature"@en,
+        "periodical publication"@en,
+        "periodical literature"@en-gb,
+        "periodical publication"@en-gb,
+        "publicaciones periódicas"@es,
+        "perioodika"@et,
+        "نشریات"@fa,
+        "publication périodique"@fr,
+        "fortlaufends Sammelwärch"@gsw,
+        "בטאון"@he,
+        "ז'ורנאל"@he,
+        "כתב-עת"@he,
+        "periodika"@hr,
+        "periodička publikacija"@hr,
+        "periodika"@hu,
+        "letteratura periodica"@it,
+        "mensile"@it,
+        "pubblicazione periodica"@it,
+        "quindicinale"@it,
+        "settimanale"@it,
+        "settimanario"@it,
+        "定期刊行物 (Jewish Encyclopedia)"@ja,
+        "Prese"@lv,
+        "Periodika"@nb,
+        "periodika"@nn,
+        "периодика"@ru,
+        "периодическая литература"@ru,
+        "периодическая печать"@ru,
+        "периодические издания"@ru,
+        "пресса"@ru,
+        "Periodická publikácia"@sk,
+        "Periodická tlač"@sk,
+        "Periodická tlačovina"@sk,
+        "วารสาร"@th,
+        "періодика"@uk,
+        "періодична література"@uk,
+        "періодична преса"@uk,
+        "періодичні видання"@uk,
+        "часопис"@uk,
+        "tài liệu xuất bản định kì"@vi,
+        "期刊出版物"@zh ;
+    p:P1014 wds:Q1002697-439E4ACE-5FEA-4628-9040-4D670435422A ;
+    p:P1051 wds:Q1002697-28F48FEA-7CB0-4FC9-A242-F8A4EAB53448 ;
+    p:P1151 wds:Q1002697-291653C4-F623-4F6D-B046-C0692D5380EA ;
+    p:P1343 wds:Q1002697-52145812-496c-5fdf-6f84-b2e76e2b0f63,
+        wds:Q1002697-53fb93da-46cd-650c-7686-80f31ab695a6,
+        wds:Q1002697-ed1915c0-344a-481e-b727-6581b3d43769,
+        wds:Q1002697-fb5b4731-5b89-444a-857e-a003d9c7fba4 ;
+    p:P1552 wds:Q1002697-53bbb62d-42b8-b366-0c08-b8ed7787186f ;
+    p:P1709 wds:Q1002697-41dda150-4bd4-bae7-a440-04b235380bcc,
+        wds:Q1002697-84D0A1C0-4426-464D-9AF6-F360C6A0117F ;
+    p:P18 wds:Q1002697-19536F96-BAB8-4319-9DB5-251C43E63EC7 ;
+    p:P1842 wds:Q1002697-2923ED88-7576-42B6-A97F-A51DC1608569 ;
+    p:P1963 wds:Q1002697-0E239F97-A9D9-4166-89CA-072144B7B742,
+        wds:Q1002697-23F9667B-9E02-42F8-B706-DB3BA89DFC48,
+        wds:Q1002697-29F18D3B-1129-4A6F-8DD7-7B8CB05801E7,
+        wds:Q1002697-2DE26A22-4E0B-4A52-AC6E-E97A7ABBBDD2,
+        wds:Q1002697-4EBE3CE0-B909-41C6-9F9E-EB142E8B16C5,
+        wds:Q1002697-5E26A91A-0406-47D5-B32B-96692F1F1970,
+        wds:Q1002697-6084A730-7ABE-42BF-A589-BF946F8FED31,
+        wds:Q1002697-640E5267-DF9C-46E6-89ED-9127A86CD722,
+        wds:Q1002697-68B732C8-5E83-470A-AD16-5E89B4256864,
+        wds:Q1002697-8B92204D-8A05-4124-A10C-FDF286EB6537,
+        wds:Q1002697-CA5A542D-5509-4CE4-A3A5-07AF116B3771,
+        wds:Q1002697-E96758CD-BD97-4DB9-B713-2666EEEC9A05,
+        wds:Q1002697-FE4A422A-B87E-45F3-B86E-A533A319998A,
+        wds:Q1002697-ab87d197-4a4d-b2d4-0634-67da1d682280,
+        wds:Q1002697-fb1989ae-4588-6181-a93a-d8ee0b46ecdb ;
+    p:P2167 wds:Q1002697-E699ACA3-D545-4331-BB78-A3F800887DB8 ;
+    p:P2263 wds:Q1002697-336B424D-0B4A-4E84-BD3B-D6A725DA1716 ;
+    p:P227 wds:Q1002697-38FC8433-F663-465A-94B0-E6D60C0F4A24 ;
+    p:P2347 wds:Q1002697-93386AC8-3B3B-4500-A367-F2152B8CB28E ;
+    p:P244 wds:Q1002697-CDB4AC8B-0F83-4E9C-B49F-4FB329805B83 ;
+    p:P279 wds:Q1002697-7bb4ecbb-4285-5869-ffd8-8f06802f7105,
+        wds:Q1002697-9d545457-4643-12bf-0af4-5a20464811c5,
+        wds:Q1002697-a96eea13-4c1e-1a3e-d222-f7ede16baffc,
+        wds:Q1002697-d57c98b2-4fb9-c110-c29d-2941b154f60e,
+        wds:Q1002697-df839e2a-440c-fa6a-d415-9f0b693c2844 ;
+    p:P2888 wds:Q1002697-e9ecb12b-4bbc-66a7-2814-d71e59632e0b ;
+    p:P3365 wds:Q1002697-f3746667-4eca-3d60-cc83-450db7f0cba7 ;
+    p:P3417 wds:Q1002697-85585669-7172-42FE-AC71-2BD04C03FB31 ;
+    p:P349 wds:Q1002697-FB451210-7E56-4ED3-B873-6C44CE29CECB ;
+    p:P373 wds:Q1002697-706CC784-B6E5-4420-BEFD-4759E61784E5 ;
+    p:P3827 wds:Q1002697-BBA5C44F-8B91-4D77-9438-302163E9E0CF ;
+    p:P3916 wds:Q1002697-492AC122-A58F-4004-8232-D421829F05B4 ;
+    p:P4223 wds:Q1002697-0c4115e4-4f4f-5051-c1e4-bdd0a773bcec,
+        wds:Q1002697-356a18fb-4e43-9b68-f874-7f5b2bf04b2c,
+        wds:Q1002697-5d479c64-42fb-6af8-81fd-e6ee4846d7fc,
+        wds:Q1002697-b8cdfa9a-4150-913a-35af-cc276dbdb554 ;
+    p:P461 wds:Q1002697-24e6aa29-4b61-5ad1-2bf4-e6094c7590af,
+        wds:Q1002697-84CF699C-D372-4CFA-AE86-2DB4FBB91DF9 ;
+    p:P4839 wds:Q1002697-486CBE61-2488-4BED-8800-2F78ABBA6961 ;
+    p:P486 wds:Q1002697-5471dbc7-427e-a625-9bbb-8472957f2bb2,
+        wds:Q1002697-C6FDDF32-46B9-427E-B5BD-3953A57E1974 ;
+    p:P4953 wds:Q1002697-9FB6EE7B-3AA7-4B85-B550-E750261C23A7 ;
+    p:P508 wds:Q1002697-6BFA8864-5462-4998-9F53-369FFDF454A1 ;
+    p:P5198 wds:Q1002697-DC1FDAEE-72B0-48F2-AF3E-D368B5A39E2E ;
+    p:P527 wds:Q1002697-4b174184-4ecc-4300-cd6e-b5e80866b856,
+        wds:Q1002697-d089b38a-433a-320a-b1b5-188c3c062859 ;
+    p:P5395 wds:Q1002697-CD22FE4A-8F92-4062-8A79-4E7D70BAB74A ;
+    p:P5398 wds:Q1002697-d35ebe15-4c87-2f48-a35d-ee77c472add5 ;
+    p:P5429 wds:Q1002697-E3FFA902-C6B3-4701-9A5A-4BD917151523 ;
+    p:P5437 wds:Q1002697-0AAEE3B5-F702-415D-8A41-91BCD4199BF5 ;
+    p:P6186 wds:Q1002697-6d7cb06b-4c08-23a2-4b8b-ca67c9ea7f3d ;
+    p:P6366 wds:Q1002697-33748087-C1F9-4E37-B6CB-CE9D93B3CB53 ;
+    p:P646 wds:Q1002697-A4623EE4-24BC-4B44-A914-610A9B4929AF ;
+    p:P672 wds:Q1002697-2bd4eea8-43a7-e5c2-c07c-fb8bde09f58c,
+        wds:Q1002697-fe4555cc-49dc-82a5-8e98-96055f25c478 ;
+    p:P7749 wds:Q1002697-4CC7D212-F02E-485A-B08A-4EFD7898D2E9 ;
+    p:P910 wds:Q1002697-A24D68DC-4767-4829-80C4-DEC6143EDBDC ;
+    wdtn:P1014 <http://vocab.getty.edu/aat/300026657> ;
+    wdtn:P227 <http://d-nb.info/gnd/4155074-2> ;
+    wdtn:P2347 <http://www.yso.fi/onto/yso/p1188> ;
+    wdtn:P244 <http://id.loc.gov/authorities/names/sh85099890> ;
+    wdtn:P349 <http://id.ndl.go.jp/auth/ndlna/00573032> ;
+    wdtn:P3916 <http://vocabularies.unesco.org/thesaurus/concept504> ;
+    wdtn:P486 <http://id.nlm.nih.gov/mesh/D010506>,
+        <http://id.nlm.nih.gov/mesh/D020492> ;
+    wdtn:P4953 <http://id.loc.gov/authorities/genreForms/gf2014026139> ;
+    wdtn:P508 <http://purl.org/bncf/tid/2757> ;
+    wdtn:P5429 <http://cv.iptc.org/newscodes/mediatopic/20000049> ;
+    wdtn:P5437 <http://eurovoc.europa.eu/4139> ;
+    wdtn:P6366 <http://ma-graph.org/entity/125261785> ;
+    wdtn:P646 <http://g.co/kg/m/047vlg0> ;
+    wdtn:P672 <http://id.nlm.nih.gov/mesh/L01.178.682.829.678>,
+        <http://id.nlm.nih.gov/mesh/V02.690> ;
+    wdt:P1014 "300026657"^^xsd:string ;
+    wdt:P1051 "6450"^^xsd:string ;
+    wdt:P1151 wd:Q15657033 ;
+    wdt:P1343 wd:Q19180675,
+        wd:Q4173137,
+        wd:Q602358 ;
+    wdt:P1552 wd:Q443564 ;
+    wdt:P1709 <http://dbpedia.org/ontology/PeriodicalLiterature>,
+        schema:Periodical ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Zeitschriften.JPG> ;
+    wdt:P1842 "Periodicals"^^xsd:string ;
+    wdt:P1963 wd:P1042,
+        wd:P1058,
+        wd:P1156,
+        wd:P1209,
+        wd:P1230,
+        wd:P1250,
+        wd:P1270,
+        wd:P236,
+        wd:P2733,
+        wd:P2735,
+        wd:P2768,
+        wd:P2896,
+        wd:P3127,
+        wd:P3131,
+        wd:P7213 ;
+    wdt:P2167 "55101519"^^xsd:string ;
+    wdt:P2263 "114"^^xsd:string ;
+    wdt:P227 "4155074-2"^^xsd:string ;
+    wdt:P2347 "1188"^^xsd:string ;
+    wdt:P244 "sh85099890"^^xsd:string ;
+    wdt:P279 wd:Q15621286,
+        wd:Q2217301,
+        wd:Q234460,
+        wd:Q28314507,
+        wd:Q732577 ;
+    wdt:P2888 <http://purl.org/coar/resource_type/c_2659> ;
+    wdt:P3365 "periodico"^^xsd:string ;
+    wdt:P3417 "Periodical-Literature"^^xsd:string ;
+    wdt:P349 "00573032"^^xsd:string ;
+    wdt:P373 "Periodicals"^^xsd:string ;
+    wdt:P3827 "periodicals"^^xsd:string ;
+    wdt:P3916 "concept504"^^xsd:string ;
+    wdt:P4223 "periodici"^^xsd:string,
+        "periodici_res-9c7a233c-87e6-11dc-8e9d-0016357eee51"^^xsd:string,
+        "periodici_res-ca5fd55f-87e9-11dc-8e9d-0016357eee51"^^xsd:string,
+        "periodici_res-f482ec32-87ea-11dc-8e9d-0016357eee51"^^xsd:string ;
+    wdt:P461 wd:Q12040692,
+        wd:Q9158425 ;
+    wdt:P4839 "Entity[\"Concept\", \"Periodical::bq6k5\"]"^^xsd:string ;
+    wdt:P486 "D010506"^^xsd:string,
+        "D020492"^^xsd:string ;
+    wdt:P4953 "gf2014026139"^^xsd:string ;
+    wdt:P508 "2757"^^xsd:string ;
+    wdt:P5198 "294931627"^^xsd:string ;
+    wdt:P527 wd:Q1238720,
+        wd:Q28869365 ;
+    wdt:P5395 "periodicals-emc"^^xsd:string ;
+    wdt:P5398 "000001023"^^xsd:string ;
+    wdt:P5429 "mediatopic/20000049"^^xsd:string ;
+    wdt:P5437 "4139"^^xsd:string ;
+    wdt:P6186 wd:Q59241037 ;
+    wdt:P6366 "125261785"^^xsd:string ;
+    wdt:P646 "/m/047vlg0"^^xsd:string ;
+    wdt:P672 "L01.178.682.829.678"^^xsd:string,
+        "V02.690"^^xsd:string ;
+    wdt:P7749 "13797"^^xsd:string ;
+    wdt:P910 wd:Q9531345 .
+
+wd:Q1002709 rdfs:label "Гайтанджийски чарк"@bg,
+        "Flechtmaschine"@de,
+        "braiding machine"@en,
+        "Fonatolás (textilipar)"@hu,
+        "編組機"@ja ;
+    schema:dateModified "2019-05-10T07:36:04+00:00"^^xsd:dateTime ;
+    schema:description "Apparatur, mit der automatisch Litzen oder Schnüre geflochten werden"@de ;
+    schema:version 938221862 ;
+    wikibase:identifiers 1 ;
+    wikibase:sitelinks 5 ;
+    wikibase:statements 4 ;
+    p:P18 wds:Q1002709-DB98E6A2-D77D-4BC6-8627-AD0EF7EF83DF ;
+    p:P279 wds:Q1002709-F292A818-2C95-421F-BC43-0656A8B99C6B ;
+    p:P373 wds:q1002709-B18322F5-EAE2-4B00-A9DB-075B6E26A1D6 ;
+    p:P646 wds:Q1002709-2C92F2C7-226B-47CB-8880-CFDEE951475A ;
+    wdtn:P646 <http://g.co/kg/m/06zqzq3> ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Flechtmaschine.jpg> ;
+    wdt:P279 wd:Q19768 ;
+    wdt:P373 "Braiding machines"^^xsd:string ;
+    wdt:P646 "/m/06zqzq3"^^xsd:string .
+
+wd:Q1002847 rdfs:label "Buick Rendezvous"@de,
+        "Buick Rendezvous"@en,
+        "بیوک رانداوو"@fa,
+        "Buick Rendezvous"@fi,
+        "Buick Rendezvous"@fr,
+        "ביואיק רנדוו"@he,
+        "Buick Rendezvous"@hu,
+        "Buick Rendezvous"@it,
+        "ビュイック・ランデヴー"@ja,
+        "Buick Rendezvous"@lt,
+        "Buick Rendezvous"@nl,
+        "Buick Rendezvous"@pl,
+        "Buick Rendezvous"@pt,
+        "Buick Rendezvous"@ru,
+        "Buick Rendezvous"@uk ;
+    schema:dateModified "2020-03-05T18:49:29+00:00"^^xsd:dateTime ;
+    schema:description "Crossover SUV des US-amerikanischen Automobilherstellers Buick"@de,
+        "μοντέλο αυτοκινήτου"@el,
+        "Mid-size luxury crossover SUV"@en,
+        "automobile del 2002 della Buick"@it,
+        "automodel van General Motors"@nl,
+        "SUV segmentu D"@pl ;
+    schema:version 1129748376 ;
+    wikibase:identifiers 2 ;
+    wikibase:sitelinks 14 ;
+    wikibase:statements 14 ;
+    wikibase:timestamp "2020-03-05T19:23:48+00:00"^^xsd:dateTime ;
+    skos:altLabel "Rendezvous"@en,
+        "Buick rendezvous"@pt ;
+    p:P156 wds:Q1002847-BCF66FCC-A9D7-4AB6-B11C-6B0151134E13 ;
+    p:P1716 wds:Q1002847-BF50A388-CA92-42BF-9885-06E67233C84A ;
+    p:P176 wds:q1002847-3A6DD7B3-E32B-478C-86C6-DD661B9DA508 ;
+    p:P18 wds:Q1002847-25833082-FE21-445E-98FF-E5D5DEF020F8 ;
+    p:P2043 wds:Q1002847-FDE9C0C0-2FF5-471B-961C-056636DCFA6F ;
+    p:P2048 wds:Q1002847-5BBCC02F-E7E0-45B5-9CD6-ECE7E4CB933E ;
+    p:P2049 wds:Q1002847-CAAFCACA-82EF-468F-A235-9589598BFFBF ;
+    p:P244 wds:Q1002847-B8C69417-8D4D-43D4-9EAB-C59BDE79B861 ;
+    p:P279 wds:Q1002847-A1C13B5C-5254-412E-ACD8-354A4A0469CE ;
+    p:P3039 wds:Q1002847-AFEBEDD8-B126-43AF-90F6-4AA553A6AE6E ;
+    p:P31 wds:Q1002847-A7CFA9C0-F659-4F34-B84B-A8A321288083 ;
+    p:P373 wds:q1002847-0E2BC953-C476-49DB-82A4-0B228846F103 ;
+    p:P516 wds:Q1002847-9FBA4965-EF92-4909-BDFC-F3CB73992DEA ;
+    p:P646 wds:Q1002847-5D84DEDB-9660-4237-BC82-1CE84399CB1C ;
+    wdtn:P244 <http://id.loc.gov/authorities/names/sh2002000562> ;
+    wdtn:P646 <http://g.co/kg/m/03mpbz> ;
+    wdt:P156 wd:Q24055 ;
+    wdt:P1716 wd:Q27415 ;
+    wdt:P176 wd:Q81965 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/04-07%20Buick%20Rendezvous%20.jpg> ;
+    wdt:P2043 4737.0 ;
+    wdt:P2048 1750.0 ;
+    wdt:P2049 1869.0 ;
+    wdt:P244 "sh2002000562"^^xsd:string ;
+    wdt:P279 wd:Q192152 ;
+    wdt:P3039 2845.0 ;
+    wdt:P31 wd:Q3231690 ;
+    wdt:P373 "Buick Rendezvous"^^xsd:string ;
+    wdt:P516 wd:Q502048 ;
+    wdt:P646 "/m/03mpbz"^^xsd:string .
+
+wd:Q1003015 rdfs:label "Building Lifecycle Management"@de,
+        "building lifecycle management"@en ;
+    schema:dateModified "2014-11-08T10:46:02+00:00"^^xsd:dateTime ;
+    schema:description "techniques applied to design, construction, and management of buildings"@en ;
+    schema:version 172025950 ;
+    wikibase:identifiers 0 ;
+    wikibase:sitelinks 2 ;
+    wikibase:statements 1 ;
+    skos:altLabel "BLM"@en ;
+    p:P279 wds:Q1003015-22a3c541-4f33-18d7-1a0a-3a1c1d8fd468 ;
+    wdt:P279 wd:Q1054011 .
+
+wd:Q1003344 rdfs:label "хӀиндоцийн пиастр"@ce,
+        "Piaster"@de,
+        "French Indochinese piastre"@en,
+        "piastro de Francia Hindoĉinio"@eo,
+        "piastra de la Indochina Francesa"@es,
+        "پیاستر هندوچین فرانسه"@fa,
+        "Ranskan Indokiinan piastre"@fi,
+        "piastre indochinoise"@fr,
+        "Francia indokínai piaszter"@hu,
+        "piastra dell'Indocina francese"@it,
+        "フランス領インドシナ・ピアストル"@ja,
+        "French Indochinese piastre"@nl,
+        "piastra da Indochina Francesa"@pt,
+        "индокитайский пиастр"@ru,
+        "Fransk Indokinapiaster"@sv,
+        "đồng bạc Đông Dương"@vi,
+        "法屬印度支那元"@zh ;
+    schema:dateModified "2020-03-05T15:47:40+00:00"^^xsd:dateTime ;
+    schema:description "currency of French Indochina between 1885 and 1952"@en,
+        "valuto uzita en Francia Hindoĉinio de 1885 ĝis 1952"@eo,
+        "moneda de Indochina Francesa entre 1885 y 1952"@es,
+        "valuutta"@fi,
+        "monnaie utilisée dans l'Indochine française (1885 - 1952)"@fr,
+        "1885年から1952年の間フランス領インドシナで使用された通貨"@ja,
+        "valuta"@nl,
+        "валюта Французского Индокитая"@ru,
+        "Tiền tệ của Liên bang Đông Dương"@vi ;
+    schema:version 1129653292 ;
+    wikibase:identifiers 1 ;
+    wikibase:sitelinks 15 ;
+    wikibase:statements 6 ;
+    wikibase:timestamp "2020-03-05T15:53:29+00:00"^^xsd:dateTime ;
+    skos:altLabel "Piastra de Indochina Francesa"@es,
+        "Piastra de la Indochina francesa"@es,
+        "Piastra de la indochina francesa"@es,
+        "piastra indochina"@es,
+        "仏印ピアストル"@ja,
+        "Piastre indochinoise"@ru,
+        "пиастр"@ru,
+        "пиастр Индокитая"@ru,
+        "пиастр Французского Индокитая"@ru,
+        "французский индокитайский пиастр"@ru,
+        "Fransk Indokina piaster"@sv,
+        "piastre Đông Dương thuộc Pháp"@vi,
+        "tiền Đông Dương"@vi,
+        "đồng Đông Dương"@vi,
+        "đồng Đông Dương Pháp"@vi ;
+    p:P17 wds:Q1003344-70a627f5-4705-fcfb-4a07-3dcfbec248fe ;
+    p:P18 wds:Q1003344-3AFFBD81-896C-4731-B955-3A1A7A1BB4D4 ;
+    p:P279 wds:Q1003344-91fb8c31-4fc8-10bd-c8d4-090b352e4353 ;
+    p:P31 wds:Q1003344-014fccd1-4d57-1004-c294-c408dd22ac0a ;
+    p:P562 wds:q1003344-EABFFF95-23D6-42E7-9E2A-3576067B5A74 ;
+    p:P646 wds:Q1003344-6F88214E-FDFB-456D-B60F-AEEFC252276A ;
+    wdtn:P646 <http://g.co/kg/m/09frc5> ;
+    wdt:P17 wd:Q185682 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/French%20Indochina%20Piastre%201885%20without%20background.png> ;
+    wdt:P279 wd:Q17074907 ;
+    wdt:P31 wd:Q8142 ;
+    wdt:P562 wd:Q7719950 ;
+    wdt:P646 "/m/09frc5"^^xsd:string .
+
+wd:Q1004279 rdfs:label "Q1004279"^^xsd:string,
+        "Bullenkloster"@de ;
+    schema:dateModified "2014-11-09T07:02:37+00:00"^^xsd:dateTime ;
+    schema:version 172298385 ;
+    wikibase:identifiers 0 ;
+    wikibase:sitelinks 1 ;
+    wikibase:statements 1 ;
+    p:P279 wds:Q1004279-5bbe631d-4698-87f7-cac8-9292a2968ead ;
+    wdt:P279 wd:Q11755880 .
+
+wd:Q1004322 rdfs:label "سوق الثور"@ar,
+        "ᏩᎦᏧᎧᏅᏍᏕᎾ ᎤᏂᎾᏗᏅᏗ"@chr,
+        "Trend"@cs,
+        "Hausse og baisse"@da,
+        "Bullen- und Bärenmarkt"@de,
+        "market trend"@en,
+        "Haŭsiero"@eo,
+        "tendencia de mercado"@es,
+        "روند بازار"@fa,
+        "Markkinatrendit"@fi,
+        "Tendance (économie)"@fr,
+        "Bulla- agus béarmhargadh"@ga,
+        "Mercato rialzista e mercato ribassista"@it,
+        "下げ相場"@ja,
+        "Rinkos kryptis"@lt,
+        "markedstrend"@nb,
+        "trend"@nl,
+        "Bessa"@pl,
+        "tendências de mercado"@pt,
+        "Тренд"@ru,
+        "Tržišni trend"@sr,
+        "Börsras"@sv,
+        "Eğilim"@tr,
+        "Тренд"@uk,
+        "Xu hướng thị trường"@vi,
+        "趨勢"@zh ;
+    schema:dateModified "2020-03-23T00:36:27+00:00"^^xsd:dateTime ;
+    schema:description "Steigende und sinkende Kurse an der Börse"@de,
+        "tendency of a financial market to move in a particular direction over time"@en,
+        "tendencia en la cual un mercado se mueve en una dirección particular en un intervalo de tiempo"@es,
+        "значит идти в ногу современем в той сфере где ты находишся, быть замеченым и признаным."@ru,
+        "kraftig kursnedgång på börsen"@sv ;
+    schema:version 1140969396 ;
+    wikibase:identifiers 5 ;
+    wikibase:sitelinks 23 ;
+    wikibase:statements 8 ;
+    wikibase:timestamp "2020-03-23T02:12:28+00:00"^^xsd:dateTime ;
+    skos:altLabel "Baisse"@da,
+        "Hausse"@da,
+        "A la baisse"@de,
+        "Aktienhausse"@de,
+        "Baissier"@de,
+        "Bearish"@de,
+        "Bulle und Bär"@de,
+        "Bullenfalle"@de,
+        "Bullenmarkt"@de,
+        "Bullish"@de,
+        "Bärenmarkt"@de,
+        "Bärenmarktrallye"@de,
+        "Hausse"@de,
+        "Haussier"@de,
+        "tendencias de mercado"@es,
+        "Härkämarkkina"@fi,
+        "Härkämarkkinat"@fi,
+        "Karhumarkkina"@fi,
+        "Karhumarkkinat"@fi,
+        "Kuolleen kissan pomppu"@fi,
+        "Markkinasuhdanne"@fi,
+        "Marche baissier"@fr,
+        "Marche haussier"@fr,
+        "Marché Baissier"@fr,
+        "Marché Bear"@fr,
+        "Marché Haussier"@fr,
+        "Marché baissier"@fr,
+        "Marché bull"@fr,
+        "Marché haussier"@fr,
+        "Tendance (economie)"@fr,
+        "Tendance boursière"@fr,
+        "Bull market"@it,
+        "Mercato rialzista"@it,
+        "Mercato ribassista"@it,
+        "Tendências do mercado financeiro"@pt,
+        "Трэнд"@ru,
+        "Baisse"@sv,
+        "Egilim"@tr,
+        "Eylim"@tr,
+        "Trend"@tr,
+        "Trent"@tr ;
+    p:P1269 wds:Q1004322-e654923f-452f-0836-7f4d-bf355f0417c9 ;
+    p:P373 wds:q1004322-170278DE-8899-4E14-83F2-27F5577E6D6D ;
+    p:P3827 wds:Q1004322-4E74D8E4-252B-4E77-B0DC-3A3FA0725076,
+        wds:Q1004322-7AC9F4AB-EE2C-4296-B469-9A27E91779FD ;
+    p:P5429 wds:Q1004322-59EABB25-2492-41DB-A24A-8C5A4E3917AD ;
+    p:P6366 wds:Q1004322-144C2542-9DB4-45FF-AD8B-BACD1FF81967 ;
+    p:P646 wds:Q1004322-A7DEEF8C-9D75-4AC1-A208-4C7A53C490B7 ;
+    p:P910 wds:Q1004322-6338A595-058B-42C2-A3DB-302240D8B9EB ;
+    wdtn:P5429 <http://cv.iptc.org/newscodes/mediatopic/20000284> ;
+    wdtn:P6366 <http://ma-graph.org/entity/2777612732> ;
+    wdtn:P646 <http://g.co/kg/m/0g_23> ;
+    wdt:P1269 wd:Q179076 ;
+    wdt:P373 "Market trends"^^xsd:string ;
+    wdt:P3827 "bear-markets"^^xsd:string,
+        "bull-markets"^^xsd:string ;
+    wdt:P5429 "mediatopic/20000284"^^xsd:string ;
+    wdt:P6366 "2777612732"^^xsd:string ;
+    wdt:P646 "/m/0g_23"^^xsd:string ;
+    wdt:P910 wd:Q8609385 .
+
+wd:Q1006048 rdfs:label "presó federal"@ca,
+        "Bundesgefängnis"@de,
+        "federal prison"@en,
+        "federacia malliberejo"@eo,
+        "prisión federal"@es,
+        "בית כלא פדרלי"@he,
+        "federale gevangenis"@nl,
+        "федеральна в'язниця"@uk ;
+    schema:dateModified "2020-03-13T21:20:53+00:00"^^xsd:dateTime ;
+    schema:description "Gefängniss der US-amerikanischen Zentralregierung"@de,
+        "type of prison operated under the jurisdiction of a federal government"@en,
+        "tipo de prisión que opera bajo la jurisdicción de un gobierno federal"@es,
+        "тип в'язниці, що діє під юрисдикцією федерального уряду"@uk ;
+    schema:version 1135386654 ;
+    wikibase:identifiers 3 ;
+    wikibase:sitelinks 2 ;
+    wikibase:statements 5 ;
+    wikibase:timestamp "2020-03-13T21:31:21+00:00"^^xsd:dateTime ;
+    p:P1014 wds:Q1006048-9A75E426-B3E2-4B5C-81B8-7DC328AEB809 ;
+    p:P137 wds:Q1006048-595b6dba-4abc-de27-e959-8ce31d517620 ;
+    p:P2581 wds:Q1006048-A25969B2-04B6-45DD-9385-DF2886E2F1F4 ;
+    p:P279 wds:Q1006048-7cef4dac-4e15-1a81-c954-82ffba88e661 ;
+    p:P3417 wds:Q1006048-7EB2BCFD-626F-442F-942F-F2E101D70B65 ;
+    wdtn:P1014 <http://vocab.getty.edu/aat/300006479> ;
+    wdtn:P2581 <http://babelnet.org/rdf/s03510727n> ;
+    wdt:P1014 "300006479"^^xsd:string ;
+    wdt:P137 wd:Q1006644 ;
+    wdt:P2581 "03510727n"^^xsd:string ;
+    wdt:P279 wd:Q40357 ;
+    wdt:P3417 "Federal-Prison"^^xsd:string .
+
+wd:Q1006436 rdfs:label "Q1006436"^^xsd:string,
+        "Bundesobligation"@de,
+        "Bundesobligation"@fr ;
+    schema:dateModified "2019-10-24T14:37:29+00:00"^^xsd:dateTime ;
+    schema:version 1038244385 ;
+    wikibase:identifiers 0 ;
+    wikibase:sitelinks 2 ;
+    wikibase:statements 2 ;
+    wikibase:timestamp "2019-10-24T14:37:30+00:00"^^xsd:dateTime ;
+    skos:altLabel "Bobl"@de,
+        "Bobls"@de,
+        "Bundesobligationen"@de,
+        "Bobl"@fr ;
+    p:P17 wds:Q1006436-367254e1-4eda-c01a-2fdd-10dfdf472663 ;
+    p:P279 wds:Q1006436-71a47d81-4de1-e95c-b22b-93bd9b19486b ;
+    wdt:P17 wd:Q183 ;
+    wdt:P279 wd:Q11693 .
+
+wd:Q1006835 rdfs:label "Main Street"@ca,
+        "Hauptstraße (allgemein)"@de,
+        "Main Street"@en,
+        "High Street"@en-gb,
+        "korso"@eo,
+        "Peatänav"@et,
+        "pääkatu"@fi,
+        "Main Street"@fr,
+        "főutca"@hu,
+        "Corso"@it,
+        "大通り"@ja,
+        "대로 (도로)"@ko,
+        "hoofdstraat"@nl,
+        "stradă principală"@ro,
+        "главная улица"@ru,
+        "Storgatan"@sv,
+        "баш урам"@tt,
+        "головна вулиця"@uk,
+        "大街"@yue,
+        "大街"@zh,
+        "大街"@zh-hant ;
+    schema:dateModified "2020-03-31T21:32:09+00:00"^^xsd:dateTime ;
+    schema:description "nom genèric en llengua anglesa del carrer principal comercial i de serveis d'un nucli urbà"@ca,
+        "generic street name of the primary retail street of a location"@en,
+        "voir de circulation principale pour les anglophones"@fr,
+        "algemeen"@nl,
+        "название главной улицы населённого пункта"@ru,
+        "загальна назва центральної вулиці міста, головне місце торгівлі"@uk ;
+    schema:version 1147394226 ;
+    wikibase:identifiers 4 ;
+    wikibase:sitelinks 13 ;
+    wikibase:statements 6 ;
+    wikibase:timestamp "2020-03-31T21:34:04+00:00"^^xsd:dateTime ;
+    skos:altLabel "メインストリート"@ja,
+        "メイン・ストリート"@ja,
+        "メーンストリート"@ja,
+        "大通"@ja,
+        "Main Street"@nl,
+        "大馬路"@yue ;
+    p:P1014 wds:Q1006835-EA7E48D7-5E71-4D6F-9071-E8C5859FBC0E ;
+    p:P2581 wds:Q1006835-69DFB903-0493-4C1A-B7C3-F2100216ADE6 ;
+    p:P279 wds:q1006835-f3f05a84-4efd-a297-9523-429723de3bdc ;
+    p:P373 wds:q1006835-290D5C2E-45C8-481C-8FF3-E01A2DE65016 ;
+    p:P646 wds:Q1006835-8E06A9D6-A10C-40A0-8CC9-5322859DDDA9 ;
+    p:P6766 wds:Q1006835-FAF6218A-491A-4DC9-B764-C9373FDC9BE6 ;
+    wdtn:P1014 <http://vocab.getty.edu/aat/300008262> ;
+    wdtn:P2581 <http://babelnet.org/rdf/s00052854n> ;
+    wdtn:P646 <http://g.co/kg/m/0227bg> ;
+    wdt:P1014 "300008262"^^xsd:string ;
+    wdt:P2581 "00052854n"^^xsd:string ;
+    wdt:P279 wd:Q79007 ;
+    wdt:P373 "Main Streets"^^xsd:string ;
+    wdt:P646 "/m/0227bg"^^xsd:string ;
+    wdt:P6766 "85875899"^^xsd:string .
+
+wd:Q1007056 rdfs:label "গ্নুনেট"@bn,
+        "GNUnet"@ca,
+        "GNUnet"@cs,
+        "GNUnet"@da,
+        "GNUnet"@de,
+        "GNUnet"@de-at,
+        "GNUnet"@de-ch,
+        "GNUnet"@dsb,
+        "GNUnet"@en,
+        "GNUnet"@en-ca,
+        "GNUnet"@en-gb,
+        "GNUnet"@eo,
+        "GNUnet"@es,
+        "گنونت"@fa,
+        "GNUnet"@fi,
+        "GNUnet"@fr,
+        "GNUnet"@hsb,
+        "GNUnet"@hu,
+        "GNUnet"@ia,
+        "GNUnet"@io,
+        "GNUnet"@it,
+        "GNUnet"@ja,
+        "GNUnet"@nl,
+        "GNUnet"@nn,
+        "GNUnet"@pl,
+        "GNUnet"@pt,
+        "GNUnet"@ro,
+        "GNUnet"@ru,
+        "GNUnet"@sk,
+        "GNUnet"@sv ;
+    schema:dateModified "2020-01-13T23:00:07+00:00"^^xsd:dateTime ;
+    schema:description "framework für dezentrale Netzwerkkommunikation"@de,
+        "A framework for decentralized, peer-to-peer networking which is part of the GNU Project"@en,
+        "logiciel informatique"@fr ;
+    schema:version 1097621290 ;
+    wikibase:identifiers 14 ;
+    wikibase:sitelinks 13 ;
+    wikibase:statements 59 ;
+    wikibase:timestamp "2020-01-13T23:01:17+00:00"^^xsd:dateTime ;
+    skos:altLabel "ECRS"@de,
+        "Encoding for Censorship Resistant Sharing"@de,
+        "Gnunet"@de,
+        "gnunet"@en,
+        "گنو نت"@fa,
+        "Gnunet"@fi,
+        "gnunet"@fr ;
+    p:P1072 wds:Q1007056-e525f184-4ed0-db31-481a-6d3fd77144a8 ;
+    p:P1073 wds:Q1007056-4d013392-4e78-e790-18df-f827055cfe05 ;
+    p:P126 wds:Q1007056-f209b31b-4fce-0fa5-25a3-40cac6599dfd ;
+    p:P1324 wds:Q1007056-ff0295d2-4d1d-300c-14c8-0ab61a19ee72 ;
+    p:P135 wds:Q1007056-b4da7f6e-4e9e-9acc-a9d7-db6e447f6ae6 ;
+    p:P1401 wds:Q1007056-bc5783d3-4c2f-1d6d-a46b-12fd11144cf3 ;
+    p:P154 wds:Q1007056-2c47588e-47a4-43ac-c04f-271c328e28d6 ;
+    p:P1613 wds:Q1007056-a48195f0-4487-7199-20df-0f1bc89344e7 ;
+    p:P1661 wds:Q1007056-0353b466-4656-6f8b-4ebc-9b4d27004e4d,
+        wds:Q1007056-635B2FEB-EFCC-4DBB-AA01-3F8AF11D368B ;
+    p:P178 wds:Q1007056-80ce736d-4359-2d16-645f-33c858e7fec2 ;
+    p:P18 wds:Q1007056-49BDC08A-2C62-4E99-83C3-8DB7E631404E ;
+    p:P1972 wds:Q1007056-69192D8C-9707-412C-85DC-D97F82865ED7 ;
+    p:P2537 wds:Q1007056-E6FAF878-90C5-4A78-A695-5EDD742CCF6B ;
+    p:P275 wds:Q1007056-30d0ae10-4136-7cee-12cc-cd5245a45cda ;
+    p:P277 wds:Q1007056-57BC2BB3-5981-4A2B-94AC-2E657D61D189 ;
+    p:P279 wds:Q1007056-c2ded300-427d-37b8-675a-e79aa8a919bf ;
+    p:P306 wds:Q1007056-61fb25fc-4dc2-9e57-5b29-311812caafa7,
+        wds:Q1007056-9CEF0662-D152-4EB4-972A-E4B064B77389,
+        wds:Q1007056-eb636e0c-46a7-3cf5-1c50-6c34116773ba ;
+    p:P31 wds:Q1007056-222b411d-4f93-1613-708f-be6494bb8ede,
+        wds:Q1007056-ba6826cc-4827-3920-0558-2f3ed75632a9,
+        wds:Q1007056-febe4326-4a66-0e76-ac05-682bd3a6cf37 ;
+    p:P3417 wds:Q1007056-77C7AB44-9EB1-4395-AE8D-E4152013F8F0 ;
+    p:P3442 wds:Q1007056-30CF3155-B444-4430-B088-FD0FA95A3B1F ;
+    p:P3454 wds:Q1007056-C0515C55-3209-4999-A824-7F8275C60603,
+        wds:Q1007056-ddafd5ab-c1aa-43e0-a6bf-48e4361c90b1 ;
+    p:P348 wds:Q1007056-00624ef9-46b0-64be-28a6-78a07c37044a,
+        wds:Q1007056-077937e0-4ea0-9f05-e0ac-01b9cbddfcbf,
+        wds:Q1007056-1b7b048e-4ed8-82e8-c26c-660ba3146dfc,
+        wds:Q1007056-2319ff4e-4150-626e-117a-7253e931eb0b,
+        wds:Q1007056-28c6776a-421d-96f6-a59a-267311130677,
+        wds:Q1007056-2beac04f-491a-a17b-3928-b90dc203202b,
+        wds:Q1007056-412e53cb-4323-2b85-645e-4857862e707d,
+        wds:Q1007056-4b5780f1-4ff5-2bb2-6199-0b1ba5437300,
+        wds:Q1007056-545282d2-4aac-09ed-5e75-a390b6562aee,
+        wds:Q1007056-b90d7a88-4941-4cf3-aa65-2fbfb483a5ed,
+        wds:Q1007056-c7774180-4aca-c4a7-4ce6-3b408c159e17,
+        wds:Q1007056-e1303a0c-4583-d253-4698-776bae217400,
+        wds:Q1007056-e347349f-4c3f-9909-7da9-383a8c3b4eba,
+        wds:Q1007056-edfe8fd5-427a-3f28-42ee-5dadff1295ab,
+        wds:Q1007056-ff10c260-47a5-ac7a-c7e4-11b7a688e3a2 ;
+    p:P361 wds:Q1007056-8d476024-44e8-c5a5-3e18-e3f32ae5a9f7 ;
+    p:P366 wds:Q1007056-C5074624-E1B8-406B-9918-3DDD8C77C6F3 ;
+    p:P373 wds:Q1007056-2330353D-B073-4658-B375-F9CCE20EBD9F ;
+    p:P4107 wds:Q1007056-DADACABB-DA37-40BD-9B2A-0B1310F5FB37 ;
+    p:P4162 wds:Q1007056-03d4a996-ca9a-4a57-ba3e-0838f2dd4427,
+        wds:Q1007056-0453eaa8-0897-4a2e-9e4d-558b6b233ed6,
+        wds:Q1007056-4f4e3507-05ba-421b-8168-cbfdf9358362,
+        wds:Q1007056-7193e371-075a-4e76-869e-f1f5b6356d2a ;
+    p:P4428 wds:Q1007056-75e0efa3-4c76-a21f-5323-47b97025b51c ;
+    p:P646 wds:Q1007056-CD7C52C4-C4CA-49CB-AA26-3F897C3B3267 ;
+    p:P6665 wds:Q1007056-AECC44C6-D7B6-4757-96EF-1F7E1C11811D ;
+    p:P6931 wds:Q1007056-FBD76D76-D755-43B3-83D7-900C1CF3C0E8 ;
+    p:P856 wds:Q1007056-386DA1F2-EEB0-48E4-97E9-20775FC68DA1,
+        wds:Q1007056-3d87ddba-44bc-d7dc-25c6-7abf6065c569 ;
+    p:P973 wds:Q1007056-0fcaa2e1-4445-301a-ca6a-2c13b409b234,
+        wds:Q1007056-147c86cd-4f79-6582-445e-9deebb95c76d,
+        wds:Q1007056-641a348a-4374-3efd-0377-44841489d601 ;
+    wdtn:P646 <http://g.co/kg/m/01qy12> ;
+    wdt:P1072 wd:Q28600437 ;
+    wdt:P1073 wd:Q28600437 ;
+    wdt:P126 wd:Q18341736 ;
+    wdt:P1324 <https://git.gnunet.org/gnunet.git/> ;
+    wdt:P135 wd:Q1076638 ;
+    wdt:P1401 <https://gnunet.org/bugs/> ;
+    wdt:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Official%20logo%20of%20the%20GNUnet%20project.svg> ;
+    wdt:P1613 <irc://irc.freenode.net/gnunet> ;
+    wdt:P1661 1712544.0 ;
+    wdt:P178 wd:Q7598 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Gnunet-gtk-0.7.0.png> ;
+    wdt:P1972 "gnunet"^^xsd:string ;
+    wdt:P2537 "Gnunet"^^xsd:string ;
+    wdt:P275 wd:Q27016754 ;
+    wdt:P277 wd:Q15777 ;
+    wdt:P279 wd:Q161410 ;
+    wdt:P306 wd:Q14116,
+        wd:Q34225,
+        wd:Q388 ;
+    wdt:P31 wd:Q20825628,
+        wd:Q341 ;
+    wdt:P3417 "GNUnet"^^xsd:string ;
+    wdt:P3442 "gnunet"^^xsd:string ;
+    wdt:P3454 "gnunet"^^xsd:string,
+        "gnunet-gtk"^^xsd:string ;
+    wdt:P348 "0.12.2"^^xsd:string ;
+    wdt:P361 wd:Q7598 ;
+    wdt:P366 wd:Q2544432 ;
+    wdt:P373 "GNUnet"^^xsd:string ;
+    wdt:P4107 "gnunet"^^xsd:string ;
+    wdt:P4162 "gnunet-fuse"^^xsd:string,
+        "gnunet-fuse-git"^^xsd:string,
+        "gnunet-git"^^xsd:string,
+        "gnunet-gtk-git"^^xsd:string ;
+    wdt:P4428 wd:Q3756209 ;
+    wdt:P646 "/m/01qy12"^^xsd:string ;
+    wdt:P6665 "2398"^^xsd:string ;
+    wdt:P6931 "gnunet"^^xsd:string ;
+    wdt:P856 <https://gnunet.org/> ;
+    wdt:P973 <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.16.1301&rep=rep1&type=pdf>,
+        <https://git.gnunet.org/bibliography.git/plain/docs/main.pdf>,
+        <https://grothoff.org/christian/habil.pdf> .
+
+wd:Q1007182 rdfs:label "جبرائيل"@ar,
+        "Gabriel (střela)"@cs,
+        "Gabriel (Rakete)"@de,
+        "Gabriel"@en,
+        "Gabriel (misil)"@es,
+        "موشک گابریل"@fa,
+        "Gabriel (ohjus)"@fi,
+        "Gabriel (missile)"@fr,
+        "גבריאל"@he,
+        "Gabriel"@hu,
+        "Gabriel"@it,
+        "ガブリエル (ミサイル)"@ja,
+        "Gabriel"@nb,
+        "Gabriel"@nl,
+        "Gabriel"@pt,
+        "Gabriel"@ru,
+        "Gabriel"@tr,
+        "Gabriel"@uk,
+        "天使飛彈"@zh ;
+    schema:dateModified "2020-02-17T08:35:35+00:00"^^xsd:dateTime ;
+    schema:description "anti-ship missile family"@en,
+        "טיל ים-ים ישראלי"@he,
+        "israelsk sjømålmissil"@nb,
+        "反艦飛彈"@zh ;
+    schema:version 1117117564 ;
+    wikibase:identifiers 3 ;
+    wikibase:sitelinks 18 ;
+    wikibase:statements 16 ;
+    wikibase:timestamp "2020-02-17T08:36:46+00:00"^^xsd:dateTime ;
+    skos:altLabel "IAI Gabriel"@cs,
+        "Střela Gabriel"@cs,
+        "Gabriel missile"@en,
+        "IAI Gabriel"@en,
+        "Israel Aerospace Industries Gabriel"@en,
+        "גבריאל"@he,
+        "Gabriel Mk"@ru,
+        "Gabriel Mk1"@ru,
+        "ПКР «Габриэль-1»"@ru,
+        "加百列飛彈"@zh ;
+    p:P1343 wds:Q1007182-5eb4b0cb-4fb2-5ebf-9537-f7c13d14f626 ;
+    p:P137 wds:Q1007182-01a7c718-47e7-1896-9bde-dd4dbcf43f74 ;
+    p:P1417 wds:Q1007182-40BFCFBF-D205-4F7C-8229-B31E0DE23599 ;
+    p:P1705 wds:Q1007182-47355175-4f4e-260f-50da-8c18193fdb44 ;
+    p:P176 wds:Q1007182-00E40ABE-440F-4C94-B697-A55691E9D8E9 ;
+    p:P18 wds:Q1007182-132F8185-69D2-4204-A53C-16F957F52C1B ;
+    p:P244 wds:Q1007182-D397FF1D-57CC-4399-8226-0E2048B8647C ;
+    p:P279 wds:Q1007182-46f3289d-414e-5e16-fa36-0abeaaee1ab8 ;
+    p:P31 wds:Q1007182-07DE6B85-DD6E-46C7-8503-06D8DBA7CA5D ;
+    p:P373 wds:q1007182-CC4BE6F6-6200-4A37-9386-D85C9FA17FBC ;
+    p:P495 wds:Q1007182-c80a6af3-4e1e-7440-324d-a35dbb3c802a ;
+    p:P607 wds:Q1007182-5e2795f3-428d-0b8d-f136-ca9895db2129 ;
+    p:P646 wds:Q1007182-E9051FA5-C8EF-41AF-98C5-B12DE7EB7A9B ;
+    p:P729 wds:Q1007182-0A72833D-920F-43EC-8DF1-64DB2C85F9FC ;
+    p:P910 wds:Q1007182-7CBB13AC-46DF-4AA5-9F74-09E9DDAE9161 ;
+    p:P935 wds:Q1007182-FFC38955-E6C1-42E9-BFA9-470C1AB288EE ;
+    wdtn:P244 <http://id.loc.gov/authorities/names/sh87006004> ;
+    wdtn:P646 <http://g.co/kg/m/0d5mfk> ;
+    wdt:P1343 wd:Q48060532 ;
+    wdt:P137 wd:Q510534 ;
+    wdt:P1417 "technology/Gabriel-missile"^^xsd:string ;
+    wdt:P1705 "גבריאל"@he ;
+    wdt:P176 wd:Q876017 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Gabrielout.jpg> ;
+    wdt:P244 "sh87006004"^^xsd:string ;
+    wdt:P279 wd:Q643532 ;
+    wdt:P31 wd:Q18487055 ;
+    wdt:P373 "Gabriel missiles"^^xsd:string ;
+    wdt:P495 wd:Q801 ;
+    wdt:P607 wd:Q49100 ;
+    wdt:P646 "/m/0d5mfk"^^xsd:string ;
+    wdt:P729 "1962-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P910 wd:Q55242634 ;
+    wdt:P935 "Gabriel missile"^^xsd:string .
+
+wd:Q1009216 rdfs:label "фэдэральная адміністрацыя"@be-tarask,
+        "administració federal"@ca,
+        "Bundesverwaltung"@de,
+        "federal administration"@en,
+        "administración federal"@es,
+        "administrazio federala"@eu,
+        "ფედერალური ადმინისტრაცია"@ka,
+        "сојузна управа"@mk,
+        "federale overheid"@nl,
+        "Bundesverwaltung"@nn,
+        "administrație federală"@ro,
+        "федеральная администрация"@ru,
+        "федерална администрација"@sr,
+        "Federal İdare"@tr,
+        "федеральна адміністрація"@uk,
+        "聯邦行政"@zh,
+        "联邦行政"@zh-cn,
+        "联邦行政"@zh-hans,
+        "聯邦行政"@zh-hant,
+        "聯邦行政"@zh-hk,
+        "聯邦行政"@zh-mo,
+        "联邦行政"@zh-my,
+        "联邦行政"@zh-sg,
+        "聯邦行政"@zh-tw ;
+    schema:dateModified "2019-11-25T06:38:14+00:00"^^xsd:dateTime ;
+    schema:version 1061467329 ;
+    wikibase:identifiers 0 ;
+    wikibase:sitelinks 1 ;
+    wikibase:statements 1 ;
+    wikibase:timestamp "2019-11-25T06:38:16+00:00"^^xsd:dateTime ;
+    skos:altLabel "administracion federal"@es,
+        "бундесфервалтунг"@sr ;
+    p:P279 wds:Q1009216-3beba97a-4e4d-625e-f812-f105897f178a ;
+    wdt:P279 wd:Q31728 .
+
+wd:Q1009272 rdfs:label "Bundeswehrkrankenhaus"@de,
+        "Bundeswehr hospital"@en,
+        "連邦軍病院"@ja,
+        "Bundeswehr-ziekenhuis"@nl ;
+    schema:dateModified "2019-06-11T17:33:09+00:00"^^xsd:dateTime ;
+    schema:description "Krankenhaus, das vom Sanitätsdienst der Bundeswehr betrieben wird"@de,
+        "hospital that is operated by the German military"@en ;
+    schema:version 960184700 ;
+    wikibase:identifiers 0 ;
+    wikibase:sitelinks 2 ;
+    wikibase:statements 4 ;
+    skos:altLabel "BwKrhs"@de,
+        "BwKrhs"@en ;
+    p:P137 wds:Q1009272-e7dfc946-4ee2-aaca-fef2-e7501c6505c4 ;
+    p:P17 wds:Q1009272-A6806EC0-7D96-454D-9CF4-F0FBE09A44EC ;
+    p:P279 wds:Q1009272-16e0e94e-40ee-eb3b-8284-519ac5beb5be ;
+    p:P910 wds:Q1009272-0B7613D1-5789-4710-842A-E8691C008289 ;
+    wdt:P137 wd:Q56018 ;
+    wdt:P17 wd:Q183 ;
+    wdt:P279 wd:Q16917 ;
+    wdt:P910 wd:Q8914670 .
+
+wd:Q1009595 rdfs:label "Bunker in Hamburg"@de,
+        "bunkers in Hamburg"@en ;
+    schema:dateModified "2019-06-30T02:02:56+00:00"^^xsd:dateTime ;
+    schema:description "Bunkeranlagen auf Hamburger Stadtgebiet"@de,
+        "bunker in Hamburg, Duitsland"@nl ;
+    schema:version 971496612 ;
+    wikibase:identifiers 0 ;
+    wikibase:sitelinks 1 ;
+    wikibase:statements 7 ;
+    p:P131 wds:Q1009595-1f24e1c9-4967-dc7c-0a19-47c2de416a06 ;
+    p:P17 wds:Q1009595-678BB2AE-25E3-42CB-AE70-FDDAA07CA272 ;
+    p:P18 wds:Q1009595-44d2544f-49d6-5679-1dd4-8d5dcc71a47d ;
+    p:P279 wds:Q1009595-37ae9ce9-4437-f55b-08d2-5924a2e263d3 ;
+    p:P31 wds:Q1009595-8277f6c7-4414-0e5a-0a7f-732ad1bde6ce ;
+    p:P373 wds:Q1009595-B06FD53C-38CC-471A-8E45-9509F60DCD0C ;
+    p:P910 wds:Q1009595-45BD37FA-1334-44EB-A9EF-F6BCA2E9DDD9 ;
+    wdt:P131 wd:Q1055 ;
+    wdt:P17 wd:Q183 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Hh-rothenburgsort-bunker.jpg> ;
+    wdt:P279 wd:Q91122 ;
+    wdt:P31 wd:Q16887380 ;
+    wdt:P373 "Bunkers in Hamburg"^^xsd:string ;
+    wdt:P910 wd:Q8914704 .
+
+wd:Q101274 rdfs:label "أوالي"@ar,
+        "আদ্যপ্ৰাণী"@as,
+        "Protozóu"@ast,
+        "Protozoylar"@az,
+        "پروتوزویلار"@azb,
+        "прасцейшыя"@be,
+        "първаци"@bg,
+        "Protozoa"@bs,
+        "Protozou"@ca,
+        "زیندەوەرە سەرەتاییەکان"@ckb,
+        "prvoci"@cs,
+        "Protozo"@da,
+        "Protozoen"@de,
+        "πρωτόζωα"@el,
+        "Protozoa"@en,
+        "protozoo"@eo,
+        "protozoo"@es,
+        "Ainuraksed"@et,
+        "Protozoo"@eu,
+        "تکیاختگان"@fa,
+        "alkueläimet"@fi,
+        "Protozoaire"@fr,
+        "Protozoa"@frr,
+        "Prótasóin"@ga,
+        "Protozoo"@gl,
+        "Protozoen"@gsw,
+        "Protosoa"@gv,
+        "פרוטוזואה"@he,
+        "प्रजीवगण"@hi,
+        "Praživotinje"@hr,
+        "Pwotozoyè"@ht,
+        "Protozoa"@hu,
+        "Նախակենդանիներ"@hy,
+        "Protozoa"@ia,
+        "Protozoa"@id,
+        "Protozoo"@io,
+        "Frumdýr"@is,
+        "Protozoa"@it,
+        "原生動物"@ja,
+        "Protozoa"@jv,
+        "უმარტივესები"@ka,
+        "Қарапайымдылар"@kk,
+        "원생동물"@ko,
+        "Жөнөкөйлөр"@ky,
+        "Protozoa"@la,
+        "Protozoa"@li,
+        "Protozoa"@lt,
+        "Vienšūņi"@lv,
+        "Праживотни"@mk,
+        "പ്രോട്ടോസോവ"@ml,
+        "Protozoa"@ms,
+        "Protozo"@nb,
+        "Protozoa"@nds,
+        "protozoa"@nl,
+        "protozoar"@nn,
+        "Protozoari"@oc,
+        "ਪ੍ਰੋਟੋਜ਼ੋਆ"@pa,
+        "pierwotniaki"@pl,
+        "پروٹوزوا"@pnb,
+        "protozoário"@pt,
+        "protozoar"@ro,
+        "простейшие"@ru,
+        "protozoa"@sco,
+        "Protozoa"@sh,
+        "Prvoky"@sk,
+        "Praživali"@sl,
+        "праживотиње"@sr,
+        "Протозоа"@sr-ec,
+        "Protozoa"@sr-el,
+        "Protozoa"@su,
+        "urdjur"@sv,
+        "மூத்தவிலங்கு"@ta,
+        "ప్రోటోజోవా"@te,
+        "Соддатаринҳо"@tg,
+        "โพรโทซัว"@th,
+        "Protozoa"@tl,
+        "Protozoa"@tr,
+        "протозоа"@uk,
+        "فایلم پروٹوزوا"@ur,
+        "Động vật nguyên sinh"@vi,
+        "Protozowaire"@wa,
+        "Protozoa"@war,
+        "原生动物"@wuu,
+        "原生動物"@yue,
+        "原生動物"@zh,
+        "原生动物"@zh-cn,
+        "原生动物"@zh-hans,
+        "原生動物"@zh-hant,
+        "原生動物"@zh-hk,
+        "原生动物"@zh-sg,
+        "原生動物"@zh-tw ;
+    schema:dateModified "2020-04-06T12:30:48+00:00"^^xsd:dateTime ;
+    schema:description "كائنات وحيدة الخلية"@ar,
+        "група едноклетъчни хетеротрофни еукариоти"@bg,
+        "skupina jednobuněčných eukaryotických organismů"@cs,
+        "eukaryotische Einzeller"@de,
+        "Μονοκύτταροι ευκαριωτικοί οργανισμοί που ανήκουν στο βασίλειο των Πρωτίστων."@el,
+        "group of unicellular eukaryotic organisms"@en,
+        "organismo microscópico, unicelular eucariota"@es,
+        "groupe d'unicellulaires à noyaux"@fr,
+        "Líffræði"@is,
+        "rijk uit het domein eukaryoten"@nl,
+        "полифилетическая группа, царство одноклеточных или колониальных эукариот, которые имеют гетеротрофный тип питания"@ru,
+        "samlingsnamn för diverse olika encelliga eukaryota organismer."@sv,
+        "原生生物当中较接近动物的一类"@zh ;
+    schema:version 1151483781 ;
+    wikibase:identifiers 28 ;
+    wikibase:sitelinks 86 ;
+    wikibase:statements 46 ;
+    wikibase:timestamp "2020-04-06T12:37:15+00:00"^^xsd:dateTime ;
+    skos:altLabel "أولي"@ar,
+        "أوليات"@ar,
+        "الأوليات"@ar,
+        "البروتوزوا"@ar,
+        "اوالي"@ar,
+        "بروتوزوا"@ar,
+        "حيوان أولي"@ar,
+        "كائن طلائعي شبيه بالحيوانات"@ar,
+        "وحيدات الخلايا الحيوانية"@ar,
+        "Protozoa"@az,
+        "Protozoa"@be,
+        "Protozoa"@bg,
+        "протозои"@bg,
+        "Praživotinje"@bs,
+        "Protozoe"@bs,
+        "Protozoa"@ca,
+        "Protozous"@ca,
+        "prvok"@cs,
+        "prvokové"@cs,
+        "Protozoa"@da,
+        "Einzellige Tiere"@de,
+        "Protozoa"@de,
+        "Protozoologe"@de,
+        "Protozoologie"@de,
+        "Protozoon"@de,
+        "Urtierchen"@de,
+        "Urtiere"@de,
+        "Πρωτόζωο"@el,
+        "protozoarios"@en,
+        "protozoos"@en,
+        "Protozoa"@eo,
+        "Protozooj"@eo,
+        "Protozoaria"@es,
+        "protozoario"@es,
+        "protozoarios"@es,
+        "protozoos"@es,
+        "Ainurakne"@et,
+        "Algloom"@et,
+        "Algloomad"@et,
+        "Protozoa"@et,
+        "تک سلولی"@fa,
+        "تک سلولی ها"@fa,
+        "تک سلولیان"@fa,
+        "تک سلولیها"@fa,
+        "تک یاخته"@fa,
+        "تک یاخته ای"@fa,
+        "تک یاخته ای ها"@fa,
+        "تک یاخته ها"@fa,
+        "تک یاختهای"@fa,
+        "تک یاختهایها"@fa,
+        "تک یاختهٔ ای"@fa,
+        "تک یاختگان"@fa,
+        "تکسلولی"@fa,
+        "تکسلولیان"@fa,
+        "تکسلولیها"@fa,
+        "تکیاخته"@fa,
+        "تکیاختهای"@fa,
+        "تکیاختهایها"@fa,
+        "تکیاختهها"@fa,
+        "Protozoa"@fi,
+        "alkueläin"@fi,
+        "Protozoa"@fr,
+        "Protozoaires"@fr,
+        "Protozoa"@gl,
+        "Protozoario"@gl,
+        "प्रोटोज़ोआ"@hi,
+        "प्रोटोजोआ"@hi,
+        "प्रोटोजोआ संघ"@hi,
+        "प्रोटोजोआ-संघ"@hi,
+        "Protozoa"@hr,
+        "Hewan bersel satu"@id,
+        "Protozoi"@it,
+        "Protozoo"@it,
+        "原生動物界"@ja,
+        "原生動物門"@ja,
+        "Protozoa"@lv,
+        "Protozoji"@lv,
+        "Vienšūnis"@lv,
+        "Protozoa"@nb,
+        "Protozoer"@nb,
+        "Oerdier"@nl,
+        "Oerdiertje"@nl,
+        "Oerdiertjes"@nl,
+        "Protozo"@nl,
+        "Protozoen"@nl,
+        "Protozoon"@nl,
+        "Protozoën"@nl,
+        "Protozoön"@nl,
+        "eincella dyr"@nn,
+        "protozo"@nn,
+        "protozoa"@nn,
+        "urdyr"@nn,
+        "protisty zwierzęce"@pl,
+        "Protozoa"@pt,
+        "Protozoarios"@pt,
+        "Protozoários"@pt,
+        "Protozoa"@ro,
+        "Protozoare"@ro,
+        "Protozoa"@ru,
+        "протозоа"@ru,
+        "протозои"@ru,
+        "Praživotinje"@sh,
+        "Protozoe"@sh,
+        "Pražival"@sl,
+        "Protozoa"@sl,
+        "Protozoa"@sr,
+        "Праживотиње"@sr,
+        "Протозое"@sr,
+        "Хетеротрофне протисте"@sr,
+        "Хетеротрофни протисти"@sr,
+        "Protozo"@sv,
+        "Protozoa"@sv,
+        "Protozoer"@sv,
+        "ஆதிவிலங்கி"@ta,
+        "புரோட்டோசோவா"@ta,
+        "ப்ரோட்டோசோவா"@ta,
+        "முதலுயிரி"@ta,
+        "மூத்தவிலங்கி"@ta,
+        "Phylum Protozoa"@th,
+        "Protozoa"@th,
+        "Protozoan"@th,
+        "โปรโตซัว"@th,
+        "Protozoan"@tr,
+        "Ngành Động vật nguyên sinh"@vi,
+        "Protozoa"@vi,
+        "Protozoaire"@wa,
+        "原生动物门"@zh,
+        "原虫"@zh ;
+    p:P1014 wds:Q101274-F22E0ECF-041D-4C8E-A6A9-322C7509AAE5 ;
+    p:P105 wds:Q101274-E21870CC-5C7A-45ED-8DC8-70AF76FD027C,
+        wds:Q101274-afcbf282-454b-af57-e94e-1a29874239fc ;
+    p:P1051 wds:Q101274-2F8720F2-8E9F-4A48-8901-2BFE4E56DC4F ;
+    p:P1296 wds:Q101274-5C5A3848-93CB-4F2F-AA2A-057B20736620,
+        wds:Q101274-7465C9E7-0C57-4D30-B612-04A509325A92,
+        wds:Q101274-C0AB1B08-D523-4E62-9BF3-D4DB7F7C6B8E ;
+    p:P1343 wds:Q101274-20A31C2C-5B3F-419D-941B-CB7945903463,
+        wds:Q101274-717EB89B-33EF-4867-AF71-F7427EFA5A91,
+        wds:Q101274-D69FB1E1-6E0D-44E7-A0E8-6914256C624D ;
+    p:P1417 wds:Q101274-0D08E713-6240-4209-AB24-B675F6E20210 ;
+    p:P1542 wds:Q101274-A7857276-B7FE-40BA-8712-C29A65EB9C08 ;
+    p:P171 wds:Q101274-3d091397-47ef-c448-ad25-e676b747a6d1 ;
+    p:P18 wds:Q101274-BC295C96-9B23-488B-9847-41D9AF523F1A ;
+    p:P1843 wds:Q101274-14520986-760B-45C4-877F-FC3A4C9B3342,
+        wds:Q101274-30469518-86DC-4658-8146-B1F84745F358 ;
+    p:P225 wds:Q101274-C55DEC71-36BE-4EEC-B208-069C43F507E3 ;
+    p:P227 wds:Q101274-4287E242-352E-4C54-BF2D-FA1C3E5993FB ;
+    p:P2579 wds:Q101274-c50f6383-40a0-47a8-d62d-0cbd0093e65e ;
+    p:P2716 wds:Q101274-f319e314-46d4-b8df-62ad-744bb7345240 ;
+    p:P2752 wds:Q101274-7C0FD7BB-575C-44DC-A762-36773B049639 ;
+    p:P279 wds:Q101274-72092aee-4df5-9cd2-cb76-7b4eed6fe933,
+        wds:Q101274-dfc598d6-4d38-0760-19bd-999eaf889a29 ;
+    p:P2924 wds:Q101274-C3811BE5-2EF1-4361-B1D1-CF234C0953E3 ;
+    p:P31 wds:Q101274-3FB2B7CD-529D-4A6A-896C-6FA849A6CBE4 ;
+    p:P3151 wds:Q101274-4B639200-2C85-45CE-8723-A345CD323D1C,
+        wds:Q101274-61BB2F3B-FC02-4F5F-9333-642C6799AACA ;
+    p:P3417 wds:Q101274-7CC2F0AE-2A1A-40BE-92BA-8F53BD2BDEF5 ;
+    p:P349 wds:Q101274-BFEFBD73-D75B-4134-B8F9-9E6DD7BDB3F2 ;
+    p:P3569 wds:Q101274-4AC34D4C-4098-413C-AC5B-3493DD37C2B2 ;
+    p:P373 wds:Q101274-0B96CB38-476D-4B59-BF39-BEEF4A17BBD7 ;
+    p:P3827 wds:Q101274-EF700D43-070B-45E7-824C-ADD8767D9461 ;
+    p:P4728 wds:Q101274-D50A49CD-EA28-4274-A794-3702D6BB0BDD ;
+    p:P508 wds:q101274-B9E7ED1F-EFAE-423A-AA04-44E1A20541C2 ;
+    p:P6058 wds:Q101274-0a2adb88-48db-1905-cc2a-f0ee671eebc0 ;
+    p:P6366 wds:Q101274-7A08DD35-FBA6-45A1-9FB8-4A7950559AA1,
+        wds:Q101274-E6B77919-D4F9-4736-94FF-9A3F7A445ED3 ;
+    p:P646 wds:Q101274-AB0F489C-189B-41BD-B257-7D3991CD60BD ;
+    p:P6611 wds:Q101274-d91c5dbf-471f-f6c0-fb2e-deaf2139b4a4 ;
+    p:P6771 wds:Q101274-00535631-404a-506c-1583-da9380fb6454 ;
+    p:P815 wds:Q101274-D850EDD3-43A4-441B-876B-3ED189E06059 ;
+    p:P830 wds:Q101274-38DB53CB-EF96-4D9C-BD56-BDCA8B2B600D ;
+    p:P842 wds:Q101274-C1C0E318-2E93-40E2-951D-A75A3A0D7C13 ;
+    p:P846 wds:Q101274-9299878e-4ec3-317c-6dcb-9b5d9f51573f ;
+    p:P850 wds:Q101274-63a3471f-49d8-6d22-ae94-479ad03986e7 ;
+    p:P910 wds:Q101274-d6a9f2d3-45a8-f01e-8a15-3ed8ae64154a ;
+    wdtn:P1014 <http://vocab.getty.edu/aat/300265682> ;
+    wdtn:P227 <http://d-nb.info/gnd/4132686-6> ;
+    wdtn:P349 <http://id.ndl.go.jp/auth/ndlna/00562365> ;
+    wdtn:P508 <http://purl.org/bncf/tid/5188> ;
+    wdtn:P6366 <http://ma-graph.org/entity/2778566189>,
+        <http://ma-graph.org/entity/2910839271> ;
+    wdtn:P646 <http://g.co/kg/m/05sk5> ;
+    wdtn:P850 <urn:lsid:marinespecies.org:taxname:5> ;
+    wdt:P1014 "300265682"^^xsd:string ;
+    wdt:P105 wd:Q36732 ;
+    wdt:P1051 "898"^^xsd:string ;
+    wdt:P1296 "0135275"^^xsd:string,
+        "0204236"^^xsd:string,
+        "0269496"^^xsd:string ;
+    wdt:P1343 wd:Q19180675,
+        wd:Q602358,
+        wd:Q867541 ;
+    wdt:P1417 "science/protozoan"^^xsd:string ;
+    wdt:P1542 wd:Q353172 ;
+    wdt:P171 wd:Q19088 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Leishmania%20tropica%207.jpg> ;
+    wdt:P1843 "Prvoci"@cs,
+        "Protozoaires"@fr ;
+    wdt:P225 "Protozoa"^^xsd:string ;
+    wdt:P227 "4132686-6"^^xsd:string ;
+    wdt:P2579 wd:Q1980387 ;
+    wdt:P2716 <http://commons.wikimedia.org/wiki/Special:FilePath/Protozoa%20collage%202.jpg> ;
+    wdt:P2752 "8dca8b6a-da01-4124-888c-5aca5f3e328c"^^xsd:string ;
+    wdt:P279 wd:Q170065,
+        wd:Q7239 ;
+    wdt:P2924 "3168609"^^xsd:string ;
+    wdt:P31 wd:Q217743 ;
+    wdt:P3151 "151881"^^xsd:string,
+        "47686"^^xsd:string ;
+    wdt:P3417 "Protozoa"^^xsd:string ;
+    wdt:P349 "00562365"^^xsd:string ;
+    wdt:P3569 "levenswetenschappen-en-geneeskunde/protozoen"^^xsd:string ;
+    wdt:P373 "Protista"^^xsd:string ;
+    wdt:P3827 "protozoa"^^xsd:string ;
+    wdt:P4728 "486669"^^xsd:string ;
+    wdt:P508 "5188"^^xsd:string ;
+    wdt:P6058 "divers/wd/83858"^^xsd:string ;
+    wdt:P6366 "2778566189"^^xsd:string,
+        "2910839271"^^xsd:string ;
+    wdt:P646 "/m/05sk5"^^xsd:string ;
+    wdt:P6611 "31850"^^xsd:string ;
+    wdt:P6771 "293365"^^xsd:string ;
+    wdt:P815 "630577"^^xsd:string ;
+    wdt:P830 "4651"^^xsd:string ;
+    wdt:P842 "71297"^^xsd:string ;
+    wdt:P846 "7"^^xsd:string ;
+    wdt:P850 "5"^^xsd:string ;
+    wdt:P910 wd:Q9245134 .
+
+wd:Q1012804 rdfs:label "ديل لاتيتيود"@ar,
+        "Dell Latitude"@ast,
+        "Dell Latitude"@de,
+        "Dell Latitude"@en,
+        "Dell Latitude"@es,
+        "Dell Latitude"@fr,
+        "Dell Latitude"@he,
+        "Dell Latitude"@it,
+        "Dell Latitude"@nl,
+        "Dell Latitude"@ru,
+        "Dell Latitude"@zh,
+        "Dell Latitude"@zh-hans,
+        "Dell Latitude"@zh-hant,
+        "Dell Latitude"@zh-hk ;
+    schema:dateModified "2020-02-22T13:17:53+00:00"^^xsd:dateTime ;
+    schema:description "Notebookserie von Dell"@de,
+        "Dell's business laptop brand, designed and manufactured mainly by Compal and Quanta. T"@en,
+        "línea profesional de computadoras portátiles"@es,
+        "סדרת מחשבים ניידים מחברת דל לשוק העסקי"@he ;
+    schema:version 1120925223 ;
+    wikibase:identifiers 2 ;
+    wikibase:sitelinks 7 ;
+    wikibase:statements 8 ;
+    wikibase:timestamp "2020-02-22T13:20:06+00:00"^^xsd:dateTime ;
+    skos:altLabel "ree"@en ;
+    p:P176 wds:Q1012804-a7cac7c8-4043-3b10-d527-82ee1cb28c83 ;
+    p:P178 wds:Q1012804-0D5D069B-26BA-4B0A-A9C8-BC903AC538D7 ;
+    p:P18 wds:Q1012804-8FD469EF-C5CB-4343-8695-F3F0184ADD40 ;
+    p:P279 wds:Q1012804-a2a2b10e-453e-69a6-4571-dd6f1e828c15 ;
+    p:P31 wds:Q1012804-8341791b-4f0f-2be7-17cd-b896617b8983 ;
+    p:P3417 wds:Q1012804-D298FFD8-CA81-49FA-B007-40BFD8508490 ;
+    p:P373 wds:q1012804-57DE2AC7-81B6-4926-BBFE-41631D871984 ;
+    p:P646 wds:Q1012804-64C945F3-6441-4105-9EE3-A1579AF65770 ;
+    wdtn:P646 <http://g.co/kg/m/0817_s> ;
+    wdt:P176 wd:Q30873 ;
+    wdt:P178 wd:Q30873 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/D630.jpg> ;
+    wdt:P279 wd:Q3962 ;
+    wdt:P31 wd:Q68 ;
+    wdt:P3417 "Dell-Latitude"^^xsd:string ;
+    wdt:P373 "Dell Latitude"^^xsd:string ;
+    wdt:P646 "/m/0817_s"^^xsd:string .
+
+wd:Q1014913 rdfs:label "Q1014913"^^xsd:string,
+        "Burgess-Dunne AH-7"@de ;
+    schema:dateModified "2019-10-18T11:40:41+00:00"^^xsd:dateTime ;
+    schema:description "Militärflugzeug"@de ;
+    schema:version 1034565976 ;
+    wikibase:identifiers 0 ;
+    wikibase:sitelinks 1 ;
+    wikibase:statements 2 ;
+    wikibase:timestamp "2019-10-18T11:40:43+00:00"^^xsd:dateTime ;
+    skos:altLabel "AH-7"@de ;
+    p:P18 wds:Q1014913-50090D57-5E23-4E1F-840F-3A73D6CCB8F8 ;
+    p:P279 wds:Q1014913-059456E1-D0E4-4C08-A184-7D8E9CBDCEA7 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Canadian%20Aviation%20Corps%20-%20Burgess-Dunne%20Model%20BD-1B%20floatplane.jpg> ;
+    wdt:P279 wd:Q216916 .
+
+wd:Q1015744 rdfs:label "Orao"@en,
+        "Орао"@sh,
+        "Орао"@sr,
+        "Орао"@sr-ec,
+        "Orao"@sr-el ;
+    schema:dateModified "2018-12-09T10:02:56+00:00"^^xsd:dateTime ;
+    schema:description "competition sailplane"@en ;
+    schema:version 808320989 ;
+    wikibase:identifiers 0 ;
+    wikibase:sitelinks 3 ;
+    wikibase:statements 4 ;
+    skos:altLabel "Cijan-Obad Orao"@en,
+        "Икарус Орао IIЦ"@sr,
+        "Икарус Орао ІІЦ"@sr ;
+    p:P17 wds:Q1015744-AE655F29-8212-4DC8-AD25-79981F9A6E5F ;
+    p:P18 wds:Q1015744-E06A4D70-34F9-440A-BB72-319409AD52B6 ;
+    p:P279 wds:Q1015744-424C6766-688C-4C2D-97AF-391C314CA82B ;
+    p:P606 wds:Q1015744-C84BB91F-8143-4C9B-80D0-2EF62DD282E4 ;
+    wdt:P17 wd:Q36704 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Orao%20IIC.jpg> ;
+    wdt:P279 wd:Q180173 ;
+    wdt:P606 "1948-01-01T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q1016751 rdfs:label "CB-16"@de,
+        "CB-16"@en,
+        "CB-16"@es,
+        "CB-16"@fr,
+        "CB-16"@it ;
+    schema:dateModified "2020-03-07T02:36:18+00:00"^^xsd:dateTime ;
+    schema:description "prototype airliner"@en ;
+    schema:version 1130746594 ;
+    wikibase:identifiers 0 ;
+    wikibase:sitelinks 3 ;
+    wikibase:statements 8 ;
+    wikibase:timestamp "2020-03-07T02:40:40+00:00"^^xsd:dateTime ;
+    skos:altLabel "Burnelli CB-16"@de,
+        "CB-300"@de,
+        "Uppercu-Burnelli CB-300"@de,
+        "Burnelli CB-16"@en,
+        "CB-300"@en,
+        "CB16"@en,
+        "CB300"@en,
+        "Uppercu-Burnelli CB-300"@en ;
+    p:P18 wds:Q1016751-006640EC-550E-4156-92DC-96DF96B6C0ED ;
+    p:P279 wds:Q1016751-5252DF91-A7DC-44BC-A467-346FB61A0A2A ;
+    p:P287 wds:Q1016751-16D25395-F94F-44B6-AE72-56892955610A ;
+    p:P31 wds:Q1016751-677EBD23-3450-4091-9E3F-05FE2FAE426A,
+        wds:Q1016751-e713c5e3-4dcb-9434-3409-88e247d9029d ;
+    p:P373 wds:q1016751-82C21836-CCE8-4F54-805D-2677CBD983E7 ;
+    p:P495 wds:Q1016751-41570832-DA4A-4205-B562-C7E766F59B98 ;
+    p:P606 wds:Q1016751-EB72AB0D-8BB8-48EA-8508-5ACD63204B1C ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Burnelli%20CB-16.jpg> ;
+    wdt:P279 wd:Q18518652 ;
+    wdt:P287 wd:Q382506 ;
+    wdt:P31 wd:Q15056995,
+        wd:Q15126161 ;
+    wdt:P373 "Burnelli"^^xsd:string ;
+    wdt:P495 wd:Q30 ;
+    wdt:P606 "1929-01-08T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q101805 rdfs:label "Igloe"@af,
+        "مبنى قباني"@ar,
+        "Iglú"@ast,
+        "İqlu"@az,
+        "Іглу"@be,
+        "Іглу"@be-tarask,
+        "Иглу"@bg,
+        "ইগলু"@bn,
+        "iglú"@ca,
+        "ᐄᔅᒌᒣᐅᑲᒥᒄ"@cr,
+        "iglú"@cs,
+        "Iglo"@da,
+        "Iglu"@de,
+        "Ιγκλού"@el,
+        "igloo"@en,
+        "Iglo"@eo,
+        "iglú"@es,
+        "Iglu"@et,
+        "Iglu"@eu,
+        "ایگلو"@fa,
+        "Iglu"@fi,
+        "igloo"@fr,
+        "Iglo"@fy,
+        "Iglú"@gl,
+        "איגלו"@he,
+        "इग्लू"@hi,
+        "Iglu"@hsb,
+        "Iglu"@hu,
+        "Իգլու"@hy,
+        "Igloo"@id,
+        "ᐃᒡᓗ"@ike-cans,
+        "iglu"@ike-latn,
+        "Snjóhús"@is,
+        "iglù"@it,
+        "ᐃᒡᓗ"@iu,
+        "イグルー"@ja,
+        "Igloo"@jv,
+        "იგლუ"@ka,
+        "ಇಗ್ಲೂ"@kn,
+        "이글루"@ko,
+        "Iglu"@la,
+        "Iglu"@lad,
+        "Iglu"@lt,
+        "Iglu"@lv,
+        "Игло"@mk,
+        "ഇഗ്ലൂ"@ml,
+        "ईग्लू"@mr,
+        "iglo"@nb,
+        "Iglu"@nds,
+        "iglo"@nl,
+        "iglo"@nn,
+        "Igloo"@oc,
+        "Igloo"@pl,
+        "iglu"@pt,
+        "Iglu"@ro,
+        "иглу"@ru,
+        "ᱤᱜᱽᱞᱩ"@sat,
+        "Iglu"@se,
+        "Iglu"@sh,
+        "Iglu"@sk,
+        "Игло"@sr,
+        "Игло"@sr-ec,
+        "Iglo"@sr-el,
+        "Igloo"@su,
+        "Igloo"@sv,
+        "பனிக் கட்டிக் குடில்"@ta,
+        "ఇగ్లూ"@te,
+        "อิกลู"@th,
+        "İglo"@tr,
+        "Іглу"@uk,
+        "Lều tuyết"@vi,
+        "雪屋"@yue,
+        "冰屋"@zh,
+        "冰屋"@zh-cn,
+        "冰屋"@zh-hans,
+        "冰屋"@zh-hant,
+        "冰屋"@zh-hk,
+        "冰屋"@zh-sg,
+        "冰屋"@zh-tw ;
+    schema:dateModified "2020-04-06T02:16:48+00:00"^^xsd:dateTime ;
+    schema:description "eskimos evi"@az,
+        "kuppelförmiges Schneehaus"@de,
+        "type of shelter built of snow"@en,
+        "refugio construido con bloques de nieve"@es,
+        "refuge construit en neige"@fr,
+        "बर्फ़ से बना आश्रय"@hi,
+        "rifugio costruito con blocchi di neve"@it,
+        "Abrigo construído com blocos de neve"@pt,
+        "сложенное из снега зимнее жилище эскимосов"@ru,
+        "príbytok postavený zo snehu"@sk,
+        "பனிக் கட்டிக் குடில்"@ta,
+        "Bir tür barınak"@tr,
+        "冰屋"@zh-hans ;
+    schema:version 1151081609 ;
+    wikibase:identifiers 11 ;
+    wikibase:sitelinks 73 ;
+    wikibase:statements 20 ;
+    wikibase:timestamp "2020-04-06T02:52:41+00:00"^^xsd:dateTime ;
+    skos:altLabel "İqlo"@az,
+        "Igloo"@da,
+        "Igluo"@eo,
+        "Igloo"@es,
+        "Iglu"@es,
+        "casa de nieve"@es,
+        "iglou"@fr,
+        "Iglo"@id,
+        "Igloo"@it,
+        "Igloo"@iu,
+        "Illuvigaq"@iu,
+        "Igloo"@ml,
+        "इग्लू"@mr,
+        "igloo"@nl,
+        "sneeuwhut"@nl,
+        "Iglo"@pl,
+        "Igloo"@pt,
+        "இக்லூ"@ta,
+        "İgloo"@tr,
+        "İglu"@tr,
+        "Igloo"@vi,
+        "伊格魯"@zh,
+        "圓形冰屋"@zh,
+        "圓頂冰屋"@zh,
+        "穹頂冰屋"@zh ;
+    p:P1014 wds:Q101805-BDD730D5-091E-4308-BA0B-DE539CBFC237 ;
+    p:P1225 wds:Q101805-074C552F-9ED3-46AD-B777-95112971B48B ;
+    p:P1256 wds:Q101805-FE25E42B-C215-4112-A635-4715B175095D ;
+    p:P1417 wds:Q101805-48E4E028-9785-4736-B617-6F854BB95C3B ;
+    p:P17 wds:Q101805-7654714B-3804-4D8C-AFBB-CD4654B61F7D ;
+    p:P18 wds:Q101805-AF896EF8-F9EE-4C10-BCFB-24407E2B0E85 ;
+    p:P279 wds:Q101805-55CE47D4-6281-4AFB-B730-061AFA1EEAD1,
+        wds:Q101805-dd7aeb54-4b49-b9b1-a56a-46f09f0f8176,
+        wds:Q101805-e3619716-4c9e-3e65-3b7d-6924fe72b904 ;
+    p:P2924 wds:Q101805-0D5EBF74-2E94-41E8-9182-5F4FCE036D35 ;
+    p:P3417 wds:Q101805-9E449444-AD5F-4BA1-B155-A49C5CDD9358 ;
+    p:P373 wds:Q101805-B72CF979-24E5-4DE1-AD19-19F2EE68F5B8 ;
+    p:P3827 wds:Q101805-E2375F82-6552-4D1A-A805-8704EAE0E52F ;
+    p:P443 wds:Q101805-41BA8678-B2F0-4D37-82F5-08ADF7670C99 ;
+    p:P5395 wds:Q101805-DFBD20D7-8574-462C-ACA0-F87CCAFC5EC9 ;
+    p:P646 wds:Q101805-6E108EDA-7A1A-43E1-BA38-6F4B644AB7B4 ;
+    p:P7033 wds:Q101805-B850024E-4D0E-4E3A-9BB0-502690118D1B ;
+    p:P7818 wds:Q101805-247FA113-2D84-496E-8051-C3EC91807E4E ;
+    p:P910 wds:Q101805-A0AE398F-836A-4BAF-9108-607C787DD3ED ;
+    p:P935 wds:Q101805-726E602A-1EDF-4C95-AC19-43BB6D151DED ;
+    wdtn:P1014 <http://vocab.getty.edu/aat/300005601> ;
+    wdtn:P1256 <http://iconclass.org/41A195> ;
+    wdtn:P646 <http://g.co/kg/m/016bql> ;
+    wdtn:P7033 <http://vocabulary.curriculum.edu.au/scot/6936.rdf> ;
+    wdt:P1014 "300005601"^^xsd:string ;
+    wdt:P1225 "10663633"^^xsd:string ;
+    wdt:P1256 "41A195"^^xsd:string ;
+    wdt:P1417 "topic/igloo"^^xsd:string ;
+    wdt:P17 wd:Q30 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Igloo%20outside.jpg> ;
+    wdt:P279 wd:Q27966041,
+        wd:Q3947,
+        wd:Q7493941 ;
+    wdt:P2924 "1999566"^^xsd:string ;
+    wdt:P3417 "Igloos"^^xsd:string ;
+    wdt:P373 "Igloos"^^xsd:string ;
+    wdt:P3827 "igloos"^^xsd:string ;
+    wdt:P443 <http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-Iglu.wav> ;
+    wdt:P5395 "igloo"^^xsd:string ;
+    wdt:P646 "/m/016bql"^^xsd:string ;
+    wdt:P7033 "scot/6936"^^xsd:string ;
+    wdt:P7818 "Igloo"^^xsd:string ;
+    wdt:P910 wd:Q55242954 ;
+    wdt:P935 "Igloo"^^xsd:string .
+
+wd:Q1018126 rdfs:label "Q1018126"^^xsd:string,
+        "Buttermühle"@de ;
+    schema:dateModified "2015-04-06T20:59:14+00:00"^^xsd:dateTime ;
+    schema:version 209190419 ;
+    wikibase:identifiers 0 ;
+    wikibase:sitelinks 1 ;
+    wikibase:statements 2 ;
+    skos:altLabel "Butterpferd"@de,
+        "Kernmühle"@de ;
+    p:P279 wds:Q1018126-e305a6dd-49d8-22c9-8481-7dce72d35b38 ;
+    p:P366 wds:Q1018126-47c4634b-4838-1558-c6a2-0f38ee1003a0 ;
+    wdt:P279 wd:Q41176 ;
+    wdt:P366 wd:Q739302 .
+
+wd:Q101843 rdfs:label "Periode"@af,
+        "Periodo d'a tabla periodica"@an,
+        "دورة الجدول الدوري"@ar,
+        "Periodu de la tabla periódica"@ast,
+        "Dövri cədvəl dövrü"@az,
+        "перыяд перыядычнай сістэмы"@be,
+        "пэрыяд"@be-tarask,
+        "Период на периодичната система"@bg,
+        "পর্যায় সারণীর পর্যায়"@bn,
+        "Perioda periodnog sistema elemenata"@bs,
+        "període de la taula periòdica"@ca,
+        "perioda"@cs,
+        "Cyfnod y tabl cyfnodol"@cy,
+        "Periode"@da,
+        "Periode des Periodensystems"@de,
+        "περίοδος"@el,
+        "period"@en,
+        "period"@en-ca,
+        "period"@en-gb,
+        "periodo de la perioda tabelo"@eo,
+        "periodo de la tabla periódica"@es,
+        "Taula periodikoaren periodo"@eu,
+        "دوره"@fa,
+        "jakso"@fi,
+        "période du tableau périodique"@fr,
+        "Perioade"@fy,
+        "Período da táboa periódica"@gl,
+        "מחזור"@he,
+        "आवर्त"@hi,
+        "Perioda periodnog sustava"@hr,
+        "Peryòd"@ht,
+        "periódusos rendszerbeli periódus"@hu,
+        "periodo del tabella periodic"@ia,
+        "Periode tabel periodik"@id,
+        "lota"@is,
+        "periodo della tavola periodica"@it,
+        "元素の周期"@ja,
+        "Période tabèl périodik"@jv,
+        "ខួប"@km,
+        "주기율표 주기"@ko,
+        "Periodus"@la,
+        "Period de la taola periòdica"@lmo,
+        "periodiskās tabulas periods"@lv,
+        "периода на периодниот систем"@mk,
+        "Үелэх системийн үе"@mn,
+        "Kala jadual berkala"@ms,
+        "perjodu"@mt,
+        "Goân-sò͘ ê chiu-kî"@nan,
+        "periodesystemets perioder"@nb,
+        "Periood"@nds,
+        "periode"@nl,
+        "periode"@nn,
+        "periòde del tablèu periodic"@oc,
+        "ପର୍ଯ୍ୟାୟ"@or,
+        "ਪੀਰੀਅਡ"@pa,
+        "prawo okresowości Mendelejewa"@pl,
+        "período"@pt,
+        "perioadă"@ro,
+        "период периодической системы"@ru,
+        "period"@sco,
+        "Perioda periodnog sistema elemenata"@sh,
+        "perióda"@sk,
+        "perioda periodnega sistema"@sl,
+        "Walxaha"@so,
+        "периода периодног система елемената"@sr,
+        "Периода периодног система елемената"@sr-ec,
+        "Perioda periodnog sistema elemenata"@sr-el,
+        "Periode tabél periodik"@su,
+        "periodiska systemets perioder"@sv,
+        "கிடை வரிசை"@ta,
+        "Давра (кимиё)"@tg,
+        "คาบ"@th,
+        "Periyot"@tr,
+        "період періодичної системи"@uk,
+        "دور"@ur,
+        "chu kỳ tuần hoàn"@vi,
+        "Periode"@vls,
+        "Peryodo"@war,
+        "元素周期"@zh,
+        "元素周期"@zh-cn,
+        "元素周期"@zh-hans,
+        "元素周期"@zh-hant,
+        "元素周期"@zh-hk,
+        "元素周期"@zh-sg,
+        "元素周期"@zh-tw ;
+    schema:dateModified "2020-03-06T22:45:33+00:00"^^xsd:dateTime ;
+    schema:description "шэраг, радок перыядычнай сістэмы"@be,
+        "рад у пэрыядычнай сыстэме элемэнтаў"@be-tarask,
+        "fila de la taula periòdica dels elements"@ca,
+        "řádek periodické tabulky prvků"@cs,
+        "Reihe im Periodensystem der Elemente"@de,
+        "σειρά στον περιοδικό πίνακα των στοιχείων"@el,
+        "rows in the periodic table having same number of electron shell."@en,
+        "row in the periodic table of elements"@en-ca,
+        "row in the periodic table of elements"@en-gb,
+        "alkuainetaulukon jakso"@fi,
+        "שורות בטבלה המחזורית"@he,
+        "baris dalam tabel periodik"@id,
+        "riga della tavola periodica degli elementi"@it,
+        "周期表の横一列"@ja,
+        "scheikunde"@nl,
+        "vassrett rad i periodesystemet"@nn,
+        "prawo chemiczne, porządkujące pierwiastki według właściwości"@pl,
+        "строка периодической системы химических элементов, последовательность атомов по возрастанию заряда ядра и заполнению электронами внешней электронной оболочки"@ru ;
+    schema:version 1130646171 ;
+    wikibase:identifiers 3 ;
+    wikibase:sitelinks 68 ;
+    wikibase:statements 8 ;
+    wikibase:timestamp "2020-03-06T22:49:56+00:00"^^xsd:dateTime ;
+    skos:altLabel "Periodieke tabel periode"@af,
+        "Periodieke tabelperiode"@af,
+        "Periodieketabelperiode"@af,
+        "دوره جدول دوري"@ar,
+        "عناصر الدورة التاسعة"@ar,
+        "عناصر الدوره التاسعه"@ar,
+        "перыяд (табліца Мендзялеева)"@be,
+        "пэрыяд пэрыядычнай сыстэмы"@be-tarask,
+        "пэрыяд пэрыядычнай табліцы"@be-tarask,
+        "període"@ca,
+        "perioda periodické tabulky"@cs,
+        "Periode"@de,
+        "Περίοδος"@el,
+        "Periodo"@eo,
+        "Periodo de la tabla periodica"@es,
+        "Periodos de la tabla periodica"@es,
+        "Períodos de la tabla periodica"@es,
+        "Períodos de la tabla periódica"@es,
+        "periodos de la tabla periódica"@es,
+        "دوره جدول تناوبی"@fa,
+        "دوره های جدول تناوبی"@fa,
+        "دورههای جدول تناوبی"@fa,
+        "دورهٔ جدول تناوبی"@fa,
+        "ردیف جدول تناوبی"@fa,
+        "periode du tableau periodique"@fr,
+        "Periodo da táboa periódica"@gl,
+        "आवर्त सारणी आवर्त"@hi,
+        "Periode sistem periodik"@id,
+        "Lota í lotukerfinu"@is,
+        "元素周期"@ja,
+        "Periode tabel périodik"@jv,
+        "Periodic table period"@jv,
+        "Période tabel périodik"@jv,
+        "Períut de la taula periòdica"@lmo,
+        "Gôan-sò͘ ê chiu-kî"@nan,
+        "periode"@nb,
+        "Periodieke tabel"@nl,
+        "periode i kjemi"@nn,
+        "periode i periodesystemet"@nn,
+        "periode i periodetabellen"@nn,
+        "Okres układu okresowego"@pl,
+        "Prawo okresowości"@pl,
+        "Periodo da tabela periódica"@pt,
+        "Período da Tabela Periódica"@pt,
+        "Perioadele tabelului periodic"@ro,
+        "период"@ru,
+        "период (химия)"@ru,
+        "период периодической таблицы"@ru,
+        "ряд периодической системы"@ru,
+        "ряд периодической таблицы"@ru,
+        "строка периодической системы"@ru,
+        "строка периодической таблицы"@ru,
+        "Perióda periodickej tabuľky"@sk,
+        "Perióda periodickej tabuľky prvkov"@sk,
+        "Периода"@sr,
+        "Periode tabel periodik"@su,
+        "Period"@sv,
+        "ஆவர்த்தன அட்டவணை ஆவர்த்தனம்"@ta,
+        "கிடைக்குழு"@ta,
+        "คาบตารางธาตุ"@th,
+        "คาบในตารางธาตุ"@th,
+        "chu kì bảng tuần hoàn"@vi,
+        "chu kì tuần hoàn"@vi,
+        "chu kỳ bảng tuần hoàn"@vi,
+        "周期"@zh ;
+    p:P1417 wds:Q101843-08BE118C-7463-459A-A1B0-EBCAABFF4EB5 ;
+    p:P1424 wds:Q101843-8D5C70A0-1AE3-4E18-ADF7-342F87824668 ;
+    p:P1814 wds:Q101843-EBB73FBC-2CCB-4F1F-9CA5-F5F8569A6E38 ;
+    p:P2581 wds:Q101843-5C595FF0-D402-4DD7-9E58-3FE56D0849C7 ;
+    p:P279 wds:Q101843-3d410d05-4ca2-1bc4-ff4b-5e8f41b57b55 ;
+    p:P361 wds:Q101843-df4c915a-45c4-786c-86ad-5cc0cd668f88 ;
+    p:P6366 wds:Q101843-C645BA1B-488B-4BF4-BC83-FE85ACA65909 ;
+    p:P910 wds:Q101843-C01F9130-D782-4C71-9D39-DA6922A935D5 ;
+    wdtn:P2581 <http://babelnet.org/rdf/s03749002n> ;
+    wdtn:P6366 <http://ma-graph.org/entity/76443067> ;
+    wdt:P1417 "science/period-chemistry"^^xsd:string ;
+    wdt:P1424 wd:Q10560426 ;
+    wdt:P1814 "しゅうき"^^xsd:string ;
+    wdt:P2581 "03749002n"^^xsd:string ;
+    wdt:P279 wd:Q16889133 ;
+    wdt:P361 wd:Q10693 ;
+    wdt:P6366 "76443067"^^xsd:string ;
+    wdt:P910 wd:Q9236557 .
+
+wd:Q1018746 rdfs:label "Game backup device"@en,
+        "Copiador de ROM"@es,
+        "Système de copie de jeu vidéo"@fr,
+        "マジコン"@ja,
+        "게임 백업 디바이스"@ko,
+        "烧录卡"@zh,
+        "烧录卡"@zh-hans,
+        "燒錄卡"@zh-hant,
+        "燒錄卡"@zh-hk ;
+    schema:dateModified "2019-08-28T17:22:11+00:00"^^xsd:dateTime ;
+    schema:description "device for backing up ROM information from a video game cartridge to a computer file called a ROM image and playing them back on the real hardware"@en ;
+    schema:version 1004273510 ;
+    wikibase:identifiers 1 ;
+    wikibase:sitelinks 6 ;
+    wikibase:statements 3 ;
+    wikibase:timestamp "2019-08-28T17:22:19+00:00"^^xsd:dateTime ;
+    skos:altLabel "copier"@en,
+        "flash cartridge"@en,
+        "R4 DS"@ja,
+        "マジックコンピュータ"@ja,
+        "R4"@ko,
+        "닥터"@ko ;
+    p:P1269 wds:Q1018746-f17628b9-47be-0afb-23b1-5b84a2e0599d ;
+    p:P279 wds:Q1018746-f9f3a76a-49cb-84b7-a94b-c3ddd02a1124 ;
+    p:P646 wds:Q1018746-E0151FA0-C95E-4159-A948-3B8A5E428CB0 ;
+    wdtn:P646 <http://g.co/kg/m/04jlrhh> ;
+    wdt:P1269 wd:Q194274 ;
+    wdt:P279 wd:Q7927908 ;
+    wdt:P646 "/m/04jlrhh"^^xsd:string .
+
+wd:Q1018755 rdfs:label "عملة بيزنطية"@ar,
+        "Византийски монети"@bg,
+        "moneda bizantina"@ca,
+        "Byzantinische Währung"@de,
+        "Βυζαντινό νόμισμα"@el,
+        "Byzantine coinage"@en,
+        "Moneda bizantina"@es,
+        "monnaie byzantine"@fr,
+        "Moeda bizantina"@gl,
+        "Բյուզանդական մետաղադրամներ"@hy,
+        "Koin Romawi Timur"@id,
+        "Monetazione bizantina"@it,
+        "ビサンチン貨幣"@ja,
+        "визаниски монети"@mk,
+        "Byzantine coinage"@nl,
+        "Moedas bizantinas"@pt,
+        "Monedă bizantină"@ro,
+        "Византийские монеты"@ru,
+        "Bizantinski kovanci"@sl,
+        "византијска валута"@sr,
+        "тангаҳои византӣ"@tg,
+        "Bizans para sistemi"@tr,
+        "拜占庭貨幣"@zh ;
+    schema:dateModified "2020-02-17T09:00:11+00:00"^^xsd:dateTime ;
+    schema:version 1117130057 ;
+    wikibase:identifiers 3 ;
+    wikibase:sitelinks 17 ;
+    wikibase:statements 7 ;
+    wikibase:timestamp "2020-02-17T09:00:52+00:00"^^xsd:dateTime ;
+    skos:altLabel "Byzantinische Münzen"@de,
+        "Valuta bizantina"@it,
+        "ビザンツ貨幣"@ja,
+        "ビザンツ通貨"@ja,
+        "византиски пари"@mk,
+        "Византийская монета"@ru,
+        "Монетарная система Византии"@ru,
+        "Монетная система Византии"@ru ;
+    p:P244 wds:Q1018755-0626A451-EFE7-419E-A5D3-971645A2568C ;
+    p:P279 wds:Q1018755-45c540db-44c5-c91f-6313-1d21c72dabd7,
+        wds:Q1018755-9a6d9fef-4a69-fd2f-2d71-526589d8c2f0 ;
+    p:P373 wds:Q1018755-1ECA7F40-32E2-4A72-B6F5-8803640FA0CC ;
+    p:P4212 wds:Q1018755-5AFBCE80-6B3D-4867-97D2-9495A35C50C0 ;
+    p:P646 wds:Q1018755-33C28D5A-790C-4F04-9E8F-1CEBA33A211C ;
+    p:P910 wds:Q1018755-E62E398E-698A-4F44-B5DB-ABF8988B4AFC ;
+    wdtn:P244 <http://id.loc.gov/authorities/names/sh85027814> ;
+    wdtn:P646 <http://g.co/kg/m/01rqbx> ;
+    wdt:P244 "sh85027814"^^xsd:string ;
+    wdt:P279 wd:Q28783456,
+        wd:Q8142 ;
+    wdt:P373 "Coins of the Byzantine Empire"^^xsd:string ;
+    wdt:P4212 "pcrt20zqYDxtq2"^^xsd:string ;
+    wdt:P646 "/m/01rqbx"^^xsd:string ;
+    wdt:P910 wd:Q7656263 .
+
+wd:Q1019285 rdfs:label "bäuerliche Landwirtschaft"@de,
+        "family farming"@en,
+        "agricultura familiar"@es,
+        "agriculture familiale"@fr,
+        "agricoltura familiare"@it,
+        "agricultura familiar"@pt ;
+    schema:dateModified "2020-03-05T15:20:09+00:00"^^xsd:dateTime ;
+    schema:description "práctica de carácter agrícola"@es ;
+    schema:version 1129635523 ;
+    wikibase:identifiers 2 ;
+    wikibase:sitelinks 4 ;
+    wikibase:statements 6 ;
+    wikibase:timestamp "2020-03-05T15:22:00+00:00"^^xsd:dateTime ;
+    skos:altLabel "family agriculture"@en ;
+    p:P227 wds:Q1019285-d4bb063d-481d-f2c5-73ae-ad9394c58cef ;
+    p:P279 wds:Q1019285-2bf4b383-4c69-110e-454f-b64c8bcff981 ;
+    p:P373 wds:Q1019285-6A2A465A-7893-4BDF-820C-BC60E1652AD8 ;
+    p:P461 wds:Q1019285-37138b3f-4564-35f9-ba10-019d80414c82 ;
+    p:P527 wds:Q1019285-824cc9c6-4d29-506e-62e0-9cc375190f15 ;
+    p:P5437 wds:Q1019285-B23CA39A-17BE-4E3F-AE38-18E650643A89 ;
+    wdtn:P227 <http://d-nb.info/gnd/4120651-4> ;
+    wdtn:P5437 <http://eurovoc.europa.eu/942> ;
+    wdt:P227 "4120651-4"^^xsd:string ;
+    wdt:P279 wd:Q11451 ;
+    wdt:P373 "Family farming"^^xsd:string ;
+    wdt:P461 wd:Q1347753 ;
+    wdt:P527 wd:Q5433334 ;
+    wdt:P5437 "942"^^xsd:string .

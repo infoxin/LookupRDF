@@ -1,0 +1,32 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1273263 a wd:Q9081 ;
+    rdfs:label "digital competence"@en .
+
+wd:Q1528429 a wd:Q9081 ;
+    rdfs:label "game schedule"@en .
+
+wd:Q2532329 a wd:Q9081 ;
+    rdfs:label "Q2532329"^^xsd:string .
+
+wd:Q7394713 a wd:Q9081 ;
+    rdfs:label "STEAM fields"@en .
+
+wd:Q984142 rdfs:label "customer experience"@en ;
+    rdfs:subClassOf wd:Q164359 .
+
+wd:Q1048607 rdfs:label "conviction"@en .
+
+wd:Q164359 rdfs:label "experience"@en ;
+    rdfs:subClassOf wd:Q9081 .
+
+wd:Q492 rdfs:label "memory"@en .
+
+wd:Q9081 rdfs:label "knowledge"@en ;
+    rdfs:subClassOf wd:Q1048607,
+        wd:Q492 .
+

@@ -1,0 +1,140 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q10589769 a wd:Q337540 ;
+    rdfs:label "Motyl"@en .
+
+wd:Q11516711 a wd:Q42501 ;
+    rdfs:label "Leaded gasoline"@en .
+
+wd:Q11549077 a wd:Q42501 ;
+    rdfs:label "Hydrogen fuel"@en .
+
+wd:Q14404476 a wd:Q11435 ;
+    rdfs:label "wort"@en .
+
+wd:Q146981 a wd:Q42501 ;
+    rdfs:label "wood pellet"@en .
+
+wd:Q1686554 a wd:Q11435 ;
+    rdfs:label "Q1686554"^^xsd:string .
+
+wd:Q1790872 a wd:Q42501 ;
+    rdfs:label "canola"@en .
+
+wd:Q179422 a wd:Q11435 ;
+    rdfs:label "lymph"@en .
+
+wd:Q194361 a wd:Q42501 ;
+    rdfs:label "ethanol fuel"@en .
+
+wd:Q201382 a wd:Q11435 ;
+    rdfs:label "turpentine"@en .
+
+wd:Q21017057 a wd:Q11435 ;
+    rdfs:label "electronic cigarette aerosol and e-liquid"@en .
+
+wd:Q21087126 a wd:Q11435 ;
+    rdfs:label "Q21087126"^^xsd:string .
+
+wd:Q217236 a wd:Q11435 ;
+    rdfs:label "working fluid"@en .
+
+wd:Q2331175 a wd:Q42501 ;
+    rdfs:label "Q2331175"^^xsd:string .
+
+wd:Q25100138 a wd:Q11435 ;
+    rdfs:label "confined liquid"@en .
+
+wd:Q2554675 a wd:Q11435 ;
+    rdfs:label "defense secretion"@en .
+
+wd:Q279602 a wd:Q42501 ;
+    rdfs:label "Camphine"@en .
+
+wd:Q2799454 a wd:Q42501 ;
+    rdfs:label "E85"@en .
+
+wd:Q3156940 a wd:Q1875633 ;
+    rdfs:label "JP-4"@en .
+
+wd:Q3203827 a wd:Q11435 ;
+    rdfs:label "SmartWater"@en .
+
+wd:Q3281553 a wd:Q42501 ;
+    rdfs:label "Q3281553"^^xsd:string .
+
+wd:Q332582 a wd:Q11435 ;
+    rdfs:label "Supercritical carbon dioxide"@en .
+
+wd:Q340142 rdfs:label "Avgas"@en ;
+    rdfs:subClassOf wd:Q1875633 .
+
+wd:Q345372 a wd:Q11435 ;
+    rdfs:label "Diesel exhaust fluid"@en .
+
+wd:Q39558 a wd:Q42501 ;
+    rdfs:label "gasoline"@en .
+
+wd:Q4460701 a wd:Q42501 ;
+    rdfs:label "Biomass briquettes"@en .
+
+wd:Q459852 a wd:Q42501 ;
+    rdfs:label "common ethanol fuel mixtures"@en .
+
+wd:Q5332139 a wd:Q42501 ;
+    rdfs:label "Ecalene"@en .
+
+wd:Q5451642 a wd:Q11435 ;
+    rdfs:label "Fire protection fluid"@en .
+
+wd:Q5470033 a wd:Q11435 ;
+    rdfs:label "Formation fluid"@en .
+
+wd:Q55712540 a wd:Q42501 ;
+    rdfs:label "Q55712540"^^xsd:string .
+
+wd:Q5635587 a wd:Q337540 ;
+    rdfs:label "HPGP"@en .
+
+wd:Q62278820 a wd:Q42501 ;
+    rdfs:label "carbon-neutral fuel"@en .
+
+wd:Q633401 a wd:Q11435 ;
+    rdfs:label "coconut water"@en .
+
+wd:Q6972820 a wd:Q42501 ;
+    rdfs:label "Kerme"@en .
+
+wd:Q751760 a wd:Q11435 ;
+    rdfs:label "honeydew"@en .
+
+wd:Q8492 a wd:Q11435 ;
+    rdfs:label "juice"@en .
+
+wd:Q905468 rdfs:label "JP-8"@en ;
+    rdfs:subClassOf wd:Q5361665 .
+
+wd:Q925 a wd:Q11435 ;
+    rdfs:label "mercury"@en .
+
+wd:Q1386534 rdfs:label "liquid fuel"@en ;
+    rdfs:subClassOf wd:Q11435,
+        wd:Q42501 .
+
+wd:Q5361665 rdfs:label "Jet fuel"@en ;
+    rdfs:subClassOf wd:Q1875633 .
+
+wd:Q1875633 rdfs:label "aviation fuel"@en ;
+    rdfs:subClassOf wd:Q337540 .
+
+wd:Q337540 rdfs:label "motor fuel"@en ;
+    rdfs:subClassOf wd:Q1386534 .
+
+wd:Q42501 rdfs:label "combustible matter"@en .
+
+wd:Q11435 rdfs:label "liquid"@en .
+

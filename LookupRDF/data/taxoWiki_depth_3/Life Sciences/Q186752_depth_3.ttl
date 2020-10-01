@@ -1,0 +1,809 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q11901252 rdfs:label "green gold"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q12142525 rdfs:label "porpezite"@en ;
+    rdfs:subClassOf wd:Q898406 .
+
+wd:Q12856807 rdfs:label "group 1 mite allergens"@en ;
+    rdfs:subClassOf wd:Q68013846 .
+
+wd:Q132501 rdfs:label "glycerol"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q13466446 rdfs:label "chromium-53"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q1483617 rdfs:label "chicken egg allergen"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q15708853 a wd:Q11369 ;
+    rdfs:label "Einsteinium (III) chloride"@en .
+
+wd:Q1660181 a wd:Q103537 ;
+    rdfs:label "Immunogen"@en .
+
+wd:Q18325038 a wd:Q11369 ;
+    rdfs:label "Molecular gyroscope"@en .
+
+wd:Q18844843 rdfs:label "cobalt-47"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844844 rdfs:label "cobalt-48"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844845 rdfs:label "cobalt-49"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844846 rdfs:label "cobalt-50"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844847 rdfs:label "cobalt-51"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844848 rdfs:label "cobalt-52"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844849 rdfs:label "cobalt-53"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844850 rdfs:label "cobalt-54"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844852 rdfs:label "cobalt-55"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844853 rdfs:label "cobalt-56"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844854 rdfs:label "cobalt-57"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844855 rdfs:label "cobalt-58"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844856 rdfs:label "cobalt-61"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844857 rdfs:label "cobalt-62"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844858 rdfs:label "cobalt-63"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844859 rdfs:label "cobalt-64"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844860 rdfs:label "cobalt-65"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844861 rdfs:label "cobalt-66"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844862 rdfs:label "cobalt-67"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844863 rdfs:label "cobalt-68"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844864 rdfs:label "cobalt-69"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844865 rdfs:label "cobalt-70"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844866 rdfs:label "cobalt-71"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844867 rdfs:label "cobalt-72"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844868 rdfs:label "cobalt-73"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844869 rdfs:label "cobalt-74"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844870 rdfs:label "cobalt-75"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18844871 rdfs:label "chromium-42"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844872 rdfs:label "chromium-43"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844873 rdfs:label "chromium-44"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844874 rdfs:label "chromium-45"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844875 rdfs:label "chromium-46"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844876 rdfs:label "chromium-47"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844877 rdfs:label "chromium-48"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844878 rdfs:label "chromium-49"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844879 rdfs:label "chromium-55"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844880 rdfs:label "chromium-56"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844881 rdfs:label "chromium-57"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844882 rdfs:label "chromium-58"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844883 rdfs:label "chromium-59"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844884 rdfs:label "chromium-60"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844885 rdfs:label "chromium-61"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844886 rdfs:label "chromium-62"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844887 rdfs:label "chromium-63"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844888 rdfs:label "chromium-64"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844889 rdfs:label "chromium-65"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844890 rdfs:label "chromium-66"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18844891 rdfs:label "chromium-67"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18845085 rdfs:label "nickel-49"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845086 rdfs:label "nickel-50"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845087 rdfs:label "nickel-51"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845088 rdfs:label "nickel-52"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845089 rdfs:label "nickel-53"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845090 rdfs:label "nickel-54"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845091 rdfs:label "nickel-55"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845092 rdfs:label "nickel-57"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845093 rdfs:label "nickel-65"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845094 rdfs:label "nickel-66"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845095 rdfs:label "nickel-67"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845096 rdfs:label "nickel-68"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845098 rdfs:label "nickel-69"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845099 rdfs:label "nickel-70"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845100 rdfs:label "nickel-71"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845101 rdfs:label "nickel-72"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845102 rdfs:label "nickel-73"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845103 rdfs:label "nickel-74"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845104 rdfs:label "nickel-75"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845105 rdfs:label "nickel-76"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845106 rdfs:label "nickel-77"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18845107 rdfs:label "nickel-78"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18879564 rdfs:label "chromium-45m"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18879624 rdfs:label "chromium-59m"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q18880108 rdfs:label "cobalt-52m"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880114 rdfs:label "cobalt-53m"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880117 rdfs:label "cobalt-54m"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880120 rdfs:label "cobalt-58m1"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880124 rdfs:label "cobalt-58m2"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880128 rdfs:label "cobalt-60m"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880132 rdfs:label "cobalt-62m"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880136 rdfs:label "cobalt-66m1"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880140 rdfs:label "cobalt-66m2"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880143 rdfs:label "cobalt-68m"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880148 rdfs:label "cobalt-70m"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q18880151 rdfs:label "nickel-63m"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18880156 rdfs:label "nickel-65m"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18880158 rdfs:label "nickel-67m"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18880161 rdfs:label "nickel-68m1"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18880165 rdfs:label "nickel-68m2"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18880168 rdfs:label "nickel-69m1"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18880172 rdfs:label "nickel-69m2"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18880175 rdfs:label "nickel-70m"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q18883111 rdfs:label "gold-169"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883112 rdfs:label "gold-170"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883113 rdfs:label "gold-170m"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883114 rdfs:label "gold-171"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883115 rdfs:label "gold-171m"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883116 rdfs:label "gold-172"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883117 rdfs:label "gold-173"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883118 rdfs:label "gold-173m"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883119 rdfs:label "gold-174"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883120 rdfs:label "gold-174m"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883121 rdfs:label "gold-175"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883122 rdfs:label "gold-175m"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883123 rdfs:label "gold-176"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883125 rdfs:label "gold-176m"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883126 rdfs:label "gold-177"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883127 rdfs:label "gold-177m"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883128 rdfs:label "gold-178"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883129 rdfs:label "gold-179"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883130 rdfs:label "gold-179m"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883131 rdfs:label "gold-180"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883132 rdfs:label "gold-181"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883133 rdfs:label "gold-182"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883135 rdfs:label "gold-183"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883136 rdfs:label "gold-183m1"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883137 rdfs:label "gold-183m2"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883139 rdfs:label "gold-184"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883140 rdfs:label "gold-184m"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883141 rdfs:label "gold-185"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883142 rdfs:label "gold-185m"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883143 rdfs:label "gold-186"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883144 rdfs:label "gold-186m"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883145 rdfs:label "gold-187"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883146 rdfs:label "gold-187m"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883147 rdfs:label "gold-188"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883148 rdfs:label "gold-189"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883149 rdfs:label "gold-189m1"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883150 rdfs:label "gold-189m2"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883151 rdfs:label "gold-189m3"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883153 rdfs:label "gold-190"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883154 rdfs:label "gold-190m"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883155 rdfs:label "gold-191"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883156 rdfs:label "gold-191m1"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883157 rdfs:label "gold-191m2"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883158 rdfs:label "gold-192"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883159 rdfs:label "gold-192m1"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883160 rdfs:label "gold-192m2"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883161 rdfs:label "gold-193"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883162 rdfs:label "gold-193m1"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883163 rdfs:label "gold-193m2"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883164 rdfs:label "gold-194"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883165 rdfs:label "gold-194m1"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883166 rdfs:label "gold-194m2"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883167 rdfs:label "gold-195"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883168 rdfs:label "gold-195m"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883171 rdfs:label "gold-196"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883172 rdfs:label "gold-196m1"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883173 rdfs:label "gold-196m2"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883174 rdfs:label "gold-197"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883175 rdfs:label "gold-197m"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883176 rdfs:label "gold-198"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883177 rdfs:label "gold-198m1"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883178 rdfs:label "gold-198m2"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883179 rdfs:label "gold-199"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883180 rdfs:label "gold-199m"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883181 rdfs:label "gold-200"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883182 rdfs:label "gold-200m"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883183 rdfs:label "gold-201"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883184 rdfs:label "gold-202"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883185 rdfs:label "gold-203"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883186 rdfs:label "gold-204"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q18883187 rdfs:label "gold-205"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q1972088 rdfs:label "methyldibromo glutaronitrile"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q1973151 rdfs:label "chromium-51"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q19944476 rdfs:label "urushiol"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q2003973 a wd:Q201959 ;
+    rdfs:label "Q2003973"^^xsd:string .
+
+wd:Q20103784 a wd:Q201959 ;
+    rdfs:label "Q20103784"^^xsd:string .
+
+wd:Q204121 rdfs:label "methylchloroisothiazolinone"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q20755655 rdfs:label "formaldehyde in textile"@en ;
+    rdfs:subClassOf wd:Q161210 .
+
+wd:Q2103496 rdfs:label "nickel-60"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q2144274 rdfs:label "nickel-59"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q21573896 a wd:Q11369 ;
+    rdfs:label "Q21573896"^^xsd:string .
+
+wd:Q2239560 rdfs:label "chromium-54"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q2282887 a wd:Q103537 ;
+    rdfs:label "HBsAg"@en .
+
+wd:Q229987 rdfs:label "methylparaben"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q2424204 rdfs:label "nickel-58"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q2424589 rdfs:label "chromium-50"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q2462902 rdfs:label "bronopol"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q2468639 rdfs:label "nickel-61"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q24739946 a wd:Q103537 ;
+    rdfs:label "Apical membrane antigen 1"@en .
+
+wd:Q25440532 rdfs:label "Tularin"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q2737856 rdfs:label "imidurea"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q2795423 rdfs:label "2,2'-dithiobisbenzothiazole"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q28016981 a wd:Q68013405 ;
+    rdfs:label "Der p 1"@en .
+
+wd:Q284149 rdfs:label "nickel-62"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q29477315 a wd:Q898406 ;
+    rdfs:label "Native gold sample-Jenisch 95875"@en .
+
+wd:Q29644390 a wd:Q898406 ;
+    rdfs:label "Native gold-MCG 79456"@en .
+
+wd:Q29644442 a wd:Q898406 ;
+    rdfs:label "Native gold-MCG 91204"@en .
+
+wd:Q29644515 a wd:Q898406 ;
+    rdfs:label "Native gold-MCG Bally 1423"@en .
+
+wd:Q3284192 a wd:Q1507004 ;
+    rdfs:label "Welcome Stranger"@en .
+
+wd:Q3302873 rdfs:label "butylparaben"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q3339818 rdfs:label "nickel-48"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q3339820 rdfs:label "nickel-56"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q3339822 rdfs:label "nickel-63"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q3698320 rdfs:label "chromium (native)"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q3875941 rdfs:label "nickel (native)"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q411046 rdfs:label "Thiomersal"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q415024 rdfs:label "p-phenylenediamine"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q4162420 a wd:Q11369 ;
+    rdfs:label "Cadmium dithizonate"@en .
+
+wd:Q417603 rdfs:label "dibucaine"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q4201946 a wd:Q103537 ;
+    rdfs:label "Integrin subunit alpha 1"@en .
+
+wd:Q4203141 a wd:Q1507004 ;
+    rdfs:label "Q4203141"^^xsd:string .
+
+wd:Q420574 a wd:Q103537 ;
+    rdfs:label "HLA-B27"@en .
+
+wd:Q422745 rdfs:label "benzocaine"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q423357 rdfs:label "eugenol"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q4292046 a wd:Q1507004 ;
+    rdfs:label "Q4292046"^^xsd:string .
+
+wd:Q4350852 rdfs:label "cobalt-59"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q4469260 rdfs:label "chromium-52"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q4688176 rdfs:label "aeroallergen"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q4688981 a wd:Q11369 ;
+    rdfs:label "Affinity label"@en .
+
+wd:Q47456770 rdfs:label "chromium-68"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q47456773 rdfs:label "chromium-69"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q47456774 rdfs:label "chromium-70"@en ;
+    rdfs:subClassOf wd:Q725 .
+
+wd:Q47456790 rdfs:label "cobalt-76"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q47456793 rdfs:label "cobalt-77"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q47456797 rdfs:label "nickel-79"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q47456801 rdfs:label "nickel-80"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q47457366 rdfs:label "gold-206"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q47457369 rdfs:label "gold-207"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q47457371 rdfs:label "gold-208"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q47457374 rdfs:label "gold-209"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q47457375 rdfs:label "gold-210"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q5029135 a wd:Q186752 ;
+    rdfs:label "Can f 1"@en .
+
+wd:Q506441 a wd:Q11369 ;
+    rdfs:label "hapten"@en .
+
+wd:Q511627 rdfs:label "propylparaben"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q5134338 rdfs:label "clioquinol"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q5436602 a wd:Q11369 ;
+    rdfs:label "Fas-associated phosphatase"@en .
+
+wd:Q5459468 rdfs:label "nickel-64"@en ;
+    rdfs:subClassOf wd:Q744 .
+
+wd:Q55710195 a wd:Q103537 ;
+    rdfs:label "ECA"@en .
+
+wd:Q56651395 a wd:Q897 ;
+    rdfs:label "Crescent-Shaped Earrings"@en .
+
+wd:Q56651401 a wd:Q897 ;
+    rdfs:label "Basket-Shaped Earring"@en .
+
+wd:Q56651448 a wd:Q897 ;
+    rdfs:label "Cresent-Shaped Earrings (1429a, b)"@en .
+
+wd:Q56651582 a wd:Q897 ;
+    rdfs:label "Bracelet (1745)"@en .
+
+wd:Q56651586 a wd:Q897 ;
+    rdfs:label "Bracelet (1375)"@en .
+
+wd:Q59248248 a wd:Q11369 ;
+    rdfs:label "Q59248248"^^xsd:string .
+
+wd:Q59420480 a wd:Q11369 ;
+    rdfs:label "ultracold molecules"@en .
+
+wd:Q6496987 a wd:Q1507004 ;
+    rdfs:label "Latrobe nugget"@en .
+
+wd:Q7157855 rdfs:label "Peak gold"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q7810487 rdfs:label "tixocortol pivalate"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q84957514 rdfs:label "anaphylactic"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q932960 rdfs:label "cobalt-60"@en ;
+    rdfs:subClassOf wd:Q740 .
+
+wd:Q9334138 a wd:Q11369 ;
+    rdfs:label "ScRNA"@en .
+
+wd:Q161210 rdfs:label "formaldehyde"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q178593 rdfs:label "macromolecule"@en ;
+    rdfs:subClassOf wd:Q11369 .
+
+wd:Q18603648 rdfs:label "contributing factor"@en .
+
+wd:Q2826767 rdfs:label "disease causative agent"@en ;
+    rdfs:subClassOf wd:Q86923152 .
+
+wd:Q68013846 rdfs:label "mite allergen"@en ;
+    rdfs:subClassOf wd:Q68013405 .
+
+wd:Q86923152 rdfs:label "risk source"@en ;
+    rdfs:subClassOf wd:Q18603648 .
+
+wd:Q201959 rdfs:label "Capsicum"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q68013405 rdfs:label "allergenic protein"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q1507004 rdfs:label "gold nugget"@en ;
+    rdfs:subClassOf wd:Q898406 .
+
+wd:Q898406 rdfs:label "native gold"@en ;
+    rdfs:subClassOf wd:Q897 .
+
+wd:Q103537 rdfs:label "antigen"@en ;
+    rdfs:subClassOf wd:Q178593 .
+
+wd:Q11369 rdfs:label "molecule"@en .
+
+wd:Q186752 rdfs:label "allergen"@en ;
+    rdfs:subClassOf wd:Q103537,
+        wd:Q2826767 .
+
+wd:Q725 rdfs:label "chromium"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q740 rdfs:label "cobalt"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q744 rdfs:label "nickel"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
+wd:Q897 rdfs:label "gold"@en ;
+    rdfs:subClassOf wd:Q186752 .
+
